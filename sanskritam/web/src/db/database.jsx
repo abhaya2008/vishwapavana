@@ -57,6 +57,7 @@ async function staticGet(relPath) {
                 Authorization: `token ${cfg.token}`,
                 Accept: 'application/vnd.github.raw+json',
             },
+            cache: 'no-store',
         });
         if (!res.ok) throw new Error(`[github] ${relPath} → ${res.status}`);
         return res.json();
@@ -66,7 +67,7 @@ async function staticGet(relPath) {
     // Repo info is baked in at build time via VITE_GH_* env vars.
     if (_BUILD_GH_OWNER && _BUILD_GH_REPO && _BUILD_GH_DATA_PATH) {
         const url = `https://raw.githubusercontent.com/${_BUILD_GH_OWNER}/${_BUILD_GH_REPO}/${_BUILD_GH_BRANCH}/${_BUILD_GH_DATA_PATH}/${relPath}`;
-        const res = await fetch(url);
+        const res = await fetch(url, { cache: 'no-store' });
         if (!res.ok) throw new Error(`[raw] ${relPath} → ${res.status}`);
         return res.json();
     }

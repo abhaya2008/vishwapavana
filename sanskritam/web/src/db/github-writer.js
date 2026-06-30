@@ -41,8 +41,10 @@ export async function ghCommitFile(filePath, content, message) {
     };
 
     // 1. Get current file SHA (needed for updates; 404 means new file — that's fine)
+    // cache:'no-store' prevents the browser serving a cached raw-content response
+    // that was stored by staticGet() for the same URL with a different Accept type.
     let sha;
-    const getRes = await fetch(apiUrl, { headers });
+    const getRes = await fetch(apiUrl, { headers, cache: 'no-store' });
     if (getRes.ok) {
         sha = (await getRes.json()).sha;
     } else if (getRes.status !== 404) {
