@@ -1,0 +1,465 @@
+MANIMANJARI COMMENTARY — LLM FORMAT GUIDE
+==========================================
+Use this guide to generate commentary for Manimanjari shlokas.
+Paste the output directly into the "📋 Bulk Import" dialog in the Sanskritam app.
+
+═══════════════════════════════════════════════════════════
+PDF SOURCE — SCRIPT SITUATION (READ THIS FIRST)
+═══════════════════════════════════════════════════════════
+The uploaded Manimanjari PDF is a South Indian publication where:
+
+  ✦ Sanskrit content is written in KANNADA SCRIPT
+    (e.g., "ವಂದೇ ಗೋವಿಂದಮಾನಂದ" = Sanskrit "वन्दे गोविन्दमानन्द")
+    This includes: the shloka, padaccheda, anvaya, samasa, sandhi,
+    dhatu forms, tatparya, vishesha, akanksha, Sanskrit vyakhyana,
+    gudaprakashika commentary, and all grammar analysis.
+
+  ✦ Actual Kannada language text (meanings, explanations for students)
+    is also in Kannada script — this is GENUINE Kannada, not Sanskrit.
+    (e.g., "ನಾನು ಭಗವಂತನನ್ನು ನಮಸ್ಕರಿಸುತ್ತೇನೆ" = real Kannada sentence)
+
+THE CORE RULE:
+  ► Identify whether each piece of text is Sanskrit-language or Kannada-language
+  ► Sanskrit language content (regardless of script in source) → output in DEVANAGARI
+  ► Genuine Kannada language content → keep in KANNADA script
+
+How to tell them apart:
+  Sanskrit in Kannada script has Sanskrit grammar — case endings (ಂ, ಃ, ಾ),
+  Sanskrit sandhi patterns, verb conjugations, compound words (ಸಮಾಸ).
+  Genuine Kannada has Kannada grammar — ಯ, ಳ, ತ್ತೇನೆ, ಮಾಡಿದ, ಆಗಿದ್ದಾರೆ.
+
+PER-SECTION SCRIPT RULES:
+  ## PADACCHEDA         → Devanagari (Sanskrit content)
+  ## ANVAYA             → Devanagari (Sanskrit content)
+  ## ANVAYARTHA         → LEFT col: Devanagari word | RIGHT col: Kannada meaning ← TABLE
+  ## SHABDA             → ALL Devanagari (Sanskrit grammar analysis) ← TABLE (6 columns)
+  ## SAMASA             → Devanagari (Sanskrit content)
+  ## SANDHI             → Devanagari (Sanskrit content)
+  ## DHATU              → Devanagari (Sanskrit content)
+  ## TATPARYA           → Devanagari (Sanskrit content)
+  ## VISHESHA           → Devanagari (Sanskrit content)
+  ## AKANKSHA           → Devanagari (Sanskrit content)
+  ## SANSKRIT_VYAKHYANA → Devanagari (Sanskrit content)
+  ## GUDAPRAKASHIKA     → Sanskrit parts → Devanagari
+                          Kannada explanatory sentences → Kannada
+
+═══════════════════════════════════════════════════════════
+SECTION HEADERS
+═══════════════════════════════════════════════════════════
+Each section starts with ## SECTION_NAME on its own line (uppercase, no extra text).
+Content follows on the next lines until the next ## header.
+Sections can appear in any order. Empty sections are silently ignored.
+
+Valid section names:
+  ## PADACCHEDA          → पदच्छेदः       (word split)
+  ## ANVAYA              → अन्वयः          (prose word order)
+  ## ANVAYARTHA          → अन्वयार्थः      (Kannada meaning)
+  ## SHABDA              → शब्दः           (word meanings table)
+  ## SAMASA              → समासः           (compound analysis)
+  ## SANDHI              → सन्धिः          (sandhi analysis)
+  ## DHATU               → धातुः           (verb conjugation table)
+  ## TATPARYA            → तात्पर्यम्      (purport)
+  ## VISHESHA            → विशेषांशः       (special notes)
+  ## AKANKSHA            → आकांक्षा        (syntactic expectation)
+  ## SANSKRIT_VYAKHYANA  → संस्कृत व्याख्यानम्
+  ## GUDAPRAKASHIKA      → श्रीमच्छलारि गूडप्रकाशिका
+
+═══════════════════════════════════════════════════════════
+TABLE FORMATS
+═══════════════════════════════════════════════════════════
+
+─── ## ANVAYARTHA (Devanagari word | Kannada meaning table) ─
+Two-column pipe-separated table.
+Left column:  Sanskrit word/phrase from the shloka — DEVANAGARI
+Right column: Kannada meaning — KANNADA script
+One entry per significant word, in the order they appear in अन्वयः.
+
+NOTE: The app parser accepts BOTH plain format and Markdown table format:
+  Plain (preferred):   अहम् | ನಾನು (ಗ್ರಂಥಕರ್ತ...)
+  Markdown (Gemini):   | अहम् | ನಾನು (ಗ್ರಂಥಕರ್ತ...) |
+Markdown separator rows (| --- | --- |) are automatically skipped.
+The header row (| पदम् | अर्थः |) is also skipped if present.
+
+Example:
+## ANVAYARTHA
+अहं | ನಾನು (ಗ್ರಂಥಕರ್ತೃಗಳಾದ ಶ್ರೀನಾರಾಯಣ ಪಂಡಿತಾಚಾರ್ಯರು)
+आनन्दज्ञानदेहं | ಆನಂದ ಮತ್ತು ಜ್ಞಾನಗಳನ್ನೇ ಶರೀರವಾಗಿ ಉಳ್ಳ
+श्रियः | ಲಕ್ಷ್ಮೀ ದೇವಿಯರ
+पतिं | ಪಾಲಕನಾದ
+श्रीमदानन्दतीर्थार्यवल्लभं | ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯ ಭಗವತ್ಪಾದರ ಪ್ರಿಯನಾದ
+परं | ದೇಶ-ಕಾಲ-ಗುಣಗಳಿಂದ ಪರಿಪೂರ್ಣನಾದ
+अक्षरं | (ಚತುರ್ವಿಧ) ನಾಶರಹಿತನಾದ
+गोविन्दं | ವೇದಾದಿ ವಾಗ್ರಾಶಿಗಳಿಂದ ತಿಳಿಯಲ್ಪಡುವ ನಾರಾಯಣನನ್ನು
+वन्दे | ನಮಸ್ಕರಿಸಿ ಕೊಂಡಾಡುತ್ತೇನೆ
+
+─── ## SHABDA (Sanskrit grammatical analysis table) ──────
+Six-column pipe-separated table. ALL columns in DEVANAGARI (Sanskrit only).
+Exactly 6 columns per row — use — for fields that don't apply.
+
+Column order:  पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्
+
+  पदम्      — the word as it appears in the shloka
+  शब्दः     — dictionary base form (प्रातिपदिकम्)
+  अन्तः     — stem ending type (अकारान्त, इकारान्त, ईकारान्त, उकारान्त, etc.)
+  लिङ्गम्   — gender (पुँल्लिङ्ग / स्त्रीलिङ्ग / नपुंसकलिङ्ग / — for sarvanama)
+  विभक्तिः  — case (प्रथमा, द्वितीया, तृतीया … सप्तमी, सम्बोधन)
+  वचनम्     — number (एकवचन / द्विवचन / बहुवचन)
+
+Example:
+## SHABDA
+अहं | अस्मद् | — | — | प्रथमा | एकवचन
+आनन्दज्ञानदेहं | आनन्दज्ञानदेह | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+श्रियः | श्री | ईकारान्त | स्त्रीलिङ्ग | षष्ठी | एकवचन
+पतिं | पति | इकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+श्रीमदानन्दतीर्थार्यवल्लभं | श्रीमदानन्दतीर्थार्यवल्लभ | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+परं | पर | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+अक्षरं | अक्षर | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+गोविन्दं | गोविन्द | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+
+─── ## DHATU (verb conjugation) ─────────────────────────
+Special keywords (exact spelling required):
+  HEADER:  verb root + gana + pada + meaning (one line, Devanagari)
+  LAKARA:  lakara name in Devanagari — starts each new conjugation block
+
+DATA SOURCE — look up exact verb forms here:
+  https://github.com/ashtadhyayi-com/data/tree/master/dhatu
+
+  Key files:
+    data.txt                              — find the dhatu's "baseindex" (e.g. "01.0001")
+    dhatuforms_vidyut_shuddha_kartari.txt — parasmaipada (p-keys: plat, plit, ...)
+    dhatuforms_vidyut_shuddha_karmani.txt — atmanepada  (a-keys: alat, alit, ...)
+
+  Each lakara value is 9 semicolon-separated forms in this fixed order:
+    3sg ; 3du ; 3pl ; 2sg ; 2du ; 2pl ; 1sg ; 1du ; 1pl
+    = प्र०एक ; प्र०द्वि ; प्र०बहु ; म०एक ; म०द्वि ; म०बहु ; उ०एक ; उ०द्वि ; उ०बहु
+  Multiple alternative forms within one slot are comma-joined in the source —
+  use the first (primary) form in the output.
+
+THE 10 LAKARAS (include ALL 10 for each verb):
+  №  GitHub key       Sanskrit name          Kāla / Artha
+  ─────────────────────────────────────────────────────────
+  1  plat / alat      लट् लकारः             वर्तमानकालः      (Present)
+  2  plit / alit      लिट् लकारः            परोक्षभूतः       (Perfect / remote past)
+  3  plut / alut      लुट् लकारः            अनद्यतनभविष्यत्  (Periphrastic future)
+  4  plrut / alrut    लृट् लकारः            भविष्यत्         (Simple future)
+  5  plot / alot      लोट् लकारः            आज्ञार्थः        (Imperative)
+  6  plang / alang    लङ् लकारः             अनद्यतनभूतः      (Imperfect / recent past)
+  7  pvidhiling/avid  विधिलिङ् लकारः       विध्यर्थः        (Potential / optative)
+  8  pashirling/aash  आशीर्लिङ् लकारः      आशीर्वादार्थः    (Benedictive)
+  9  plung / alung    लुङ् लकारः            सामान्यभूतः      (Aorist)
+  10 plrung / alrung  लृङ् लकारः            क्रियातिपत्तिः   (Conditional)
+
+PADA HANDLING:
+  परस्मैपद  (pada=P): use p-keys only (plat, plit, plut, plrut, plot, plang, pvidhiling, pashirling, plung, plrung)
+  आत्मनेपद  (pada=A): use a-keys only (alat, alit, alut, alrut, alot, alang, avidhiling, aashirling, alung, alrung)
+  उभयपद     (pada=U): include both — label LAKARA blocks with "— परस्मैपद" / "— आत्मनेपद"
+    Example for ubhayapada:
+      LAKARA: लट् लकारः — परस्मैपद (वर्तमानकालः)
+      LAKARA: लट् लकारः — आत्मनेपद (वर्तमानकालः)
+
+Each conjugation row — 4 pipe-separated columns, all Devanagari:
+  singular form | dual form | plural form | person label
+Person labels: प्र० (3rd person), म० (2nd person), उ० (1st person)
+
+Minimal example (2 lakaras — expand to all 10 in practice):
+## DHATU
+HEADER: वदिँ अभिवादनस्तुत्योः (आत्मनेपदी, भ्वादिगणः)
+LAKARA: लट् लकारः (वर्तमानकालः)
+वन्दते | वन्देते | वन्दन्ते | प्र०
+वन्दसे | वन्देथे | वन्दध्वे | म०
+वन्दे | वन्दावहे | वन्दामहे | उ०
+LAKARA: लिट् लकारः (परोक्षभूतः)
+ववन्दे | ववन्दाते | ववन्दिरे | प्र०
+ववन्दिषे | ववन्दाथे | ववन्दिध्वे | म०
+ववन्दे | ववन्दिवहे | ववन्दिमहे | उ०
+(... continue for all 10 lakaras ...)
+
+═══════════════════════════════════════════════════════════
+NOTEBOOKLM / GEMINI PROMPT TEMPLATE
+═══════════════════════════════════════════════════════════
+Upload the Manimanjari PDF to NotebookLM, then send this prompt.
+Replace the bracketed placeholders before sending.
+
+────────────────────────────────────────────────────────────
+You are helping document a Sanskrit kavya called Manimanjari,
+composed by Shri Narayana Panditacharya (disciple of Shri Madhvacharya).
+
+IMPORTANT — SCRIPT CONVERSION RULE:
+The source PDF is a South Indian publication where Sanskrit text is written
+in Kannada script. You must apply the following rule without exception:
+
+  ► Identify whether each piece of content is in Sanskrit language or Kannada language.
+  ► Sanskrit language content → always output in DEVANAGARI script,
+    even if the source shows it in Kannada script.
+  ► Genuine Kannada language text (word meanings, student-facing explanations)
+    → keep in KANNADA script.
+
+How to identify Sanskrit vs Kannada in the source:
+  Sanskrit written in Kannada script will have Sanskrit grammatical features:
+  case endings (ಂ/ಃ style anusvara/visarga), Sanskrit compound structure,
+  verb forms from Paninian grammar, Sanskrit conjunct consonants.
+  Genuine Kannada will have Kannada sentence structure: words ending in
+  ತ್ತೇನೆ, ಮಾಡಿದ, ಆಗಿದ್ದಾರೆ, ಹೊಂದಿರುವ, ನಮಸ್ಕರಿಸುತ್ತೇನೆ, etc.
+
+Using the uploaded source, generate complete commentary for shloka [NUMBER].
+Shloka: [PASTE SHLOKA IN DEVANAGARI OR KANNADA SCRIPT]
+
+Output ONLY the formatted sections below — no preamble, no explanation outside sections.
+Follow the script rule strictly for every section.
+
+## PADACCHEDA
+[Split the shloka into individual words/padas. Separate compound components with hyphen.
+Extract from source if available. Output in DEVANAGARI.]
+
+## ANVAYA
+[Rearrange words in grammatical prose order. Supply अहम् if the verb implies it.
+End sentence with । Output in DEVANAGARI.]
+
+## ANVAYARTHA
+[Two-column table: Sanskrit word (Devanagari) | Kannada meaning.
+List every significant word from the अन्वयः in order.
+LEFT side: Sanskrit word/phrase in DEVANAGARI
+RIGHT side: Kannada meaning in KANNADA script]
+
+## SHABDA
+[Six-column Sanskrit grammar table. ALL columns in DEVANAGARI only — no Kannada.
+Exactly 6 pipe-separated columns per row. Use — for non-applicable fields.
+Column order: पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्
+Cover every inflected word in the shloka (nouns, pronouns, adjectives).
+Verbs are handled in ## DHATU so may be omitted here.]
+
+## SAMASA
+[Three-column pipe-separated table. All Sanskrit in DEVANAGARI.
+Column order: समासपदम् | अवयवाः | समासप्रकारः
+One compound per row. Extract from source if available.]
+
+## SANDHI
+[Three-column pipe-separated table. All Sanskrit in DEVANAGARI.
+Column order: सन्धिपदम् | शब्दौ | सन्धिप्रकारः
+One sandhi junction per row. Extract from source if available.]
+
+## DHATU
+[Main verb(s) of the shloka. Use HEADER: and LAKARA: keywords exactly as shown.
+Include ALL 10 lakaras. Look up the exact forms from the GitHub repo:
+  https://github.com/ashtadhyayi-com/data/tree/master/dhatu
+  File: dhatuforms_vidyut_shuddha_kartari.txt (parasmaipada, keys: plat plit plut plrut plot plang pvidhiling pashirling plung plrung)
+        dhatuforms_vidyut_shuddha_karmani.txt  (atmanepada,  keys: alat alit alut alrut alot alang avidhiling aashirling alung alrung)
+  Each value is 9 semicolon-separated forms: 3sg;3du;3pl;2sg;2du;2pl;1sg;1du;1pl
+  Map to: प्र०(3rd person row), म०(2nd person row), उ०(1st person row)
+  Use only the first alternative if multiple comma-separated forms appear in one slot.
+All conjugation forms in DEVANAGARI. 4 pipe-separated columns per row.]
+HEADER: [root in Devanagari, gana, pada, artha — e.g.: भू सत्तायाम् (परस्मैपदी, भ्वादिगणः)]
+LAKARA: लट् लकारः (वर्तमानकालः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लिट् लकारः (परोक्षभूतः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लुट् लकारः (अनद्यतनभविष्यत्)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लृट् लकारः (भविष्यत्)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लोट् लकारः (आज्ञार्थः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लङ् लकारः (अनद्यतनभूतः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: विधिलिङ् लकारः (विध्यर्थः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: आशीर्लिङ् लकारः (आशीर्वादार्थः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लुङ् लकारः (सामान्यभूतः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+LAKARA: लृङ् लकारः (क्रियातिपत्तिः)
+[3sg | 3du | 3pl | प्र०]
+[2sg | 2du | 2pl | म०]
+[1sg | 1du | 1pl | उ०]
+
+## TATPARYA
+[2-4 sentences summarizing the purport/intention of this shloka.
+Extract from source if available, converting to DEVANAGARI.
+Write in Sanskrit if source content is Sanskrit.]
+
+## VISHESHA
+[Numbered list of grammatically or philosophically notable points.
+Extract from source. All Sanskrit in DEVANAGARI.]
+
+## AKANKSHA
+[Syntactic expectations — which word answers which. Sanskrit in DEVANAGARI.
+Format: 'word' इत्यस्य X कः/किम्? → 'answer' (case name)]
+
+## SANSKRIT_VYAKHYANA
+[Detailed word-by-word Sanskrit explanation. Extract fully from source.
+If source is in Kannada script Sanskrit, convert everything to DEVANAGARI.]
+
+## GUDAPRAKASHIKA
+[Extract the Gudaprakashika commentary from source if present.
+Convert Sanskrit-in-Kannada-script portions to DEVANAGARI.
+Keep only genuine Kannada explanatory sentences in Kannada script.]
+────────────────────────────────────────────────────────────
+
+═══════════════════════════════════════════════════════════
+TIPS FOR NOTEBOOKLM
+═══════════════════════════════════════════════════════════
+1. Upload the full Manimanjari PDF as a source in NotebookLM.
+2. If the PDF has multiple shlokas per page, add to the prompt:
+   "Focus only on shloka [NUMBER]. The shloka begins with [FIRST 3 WORDS]."
+3. If Gemini gives Kannada script for Sanskrit sections, add to the prompt:
+   "You have returned Sanskrit content in Kannada script. Please convert ALL
+   Sanskrit language content (padaccheda, anvaya, samasa, sandhi, dhatu,
+   tatparya, vishesha, akanksha, sanskrit_vyakhyana, gudaprakashika) to
+   Devanagari script. Only ANVAYARTHA and the right column of SHABDA
+   should remain in Kannada."
+4. If a section is missing from the source, Gemini will generate it from
+   its Sanskrit knowledge — that is acceptable.
+5. For the DHATU section, always request all 10 lakaras. The exact forms can
+   be cross-checked against the ashtadhyayi-com GitHub dataset:
+     https://github.com/ashtadhyayi-com/data/tree/master/dhatu
+   If Gemini is uncertain, add to the prompt:
+   "For the DHATU section, generate all 10 lakaras (लट्, लिट्, लुट्, लृट्,
+   लोट्, लङ्, विधिलिङ्, आशीर्लिङ्, लुङ्, लृङ्) using standard Paninian
+   grammar. The verb forms should match the ashtadhyayi-com data at:
+   https://github.com/ashtadhyayi-com/data/blob/master/dhatu/dhatuforms_vidyut_shuddha_kartari.txt
+   (for parasmaipada verbs) or dhatuforms_vidyut_shuddha_karmani.txt
+   (for atmanepada verbs). Each lakara block must have exactly 3 rows
+   (प्र०, म०, उ०), each with 4 pipe-separated columns (ek | dvi | bahu | label)."
+
+═══════════════════════════════════════════════════════════
+COMPLETE EXAMPLE OUTPUT
+═══════════════════════════════════════════════════════════
+Expected output for shloka 1.1:
+वन्दे गोविन्दमानन्द-ज्ञानदेहं पतिं श्रियः ।
+श्रीमदानन्दतीर्थार्य-वल्लभं परमक्षरम् ॥
+
+## PADACCHEDA
+वन्दे गोविन्दम् आनन्द-ज्ञान-देहं पतिं श्रियः श्रीमत्-आनन्दतीर्थ-आर्य-वल्लभं परम्-अक्षरम्
+
+## ANVAYA
+अहं आनन्दज्ञानदेहं श्रियः पतिं श्रीमदानन्दतीर्थार्यवल्लभं परं अक्षरं गोविन्दं वन्दे ।
+
+## ANVAYARTHA
+अहं | ನಾನು (ಗ್ರಂಥಕರ್ತೃಗಳಾದ ಶ್ರೀನಾರಾಯಣ ಪಂಡಿತಾಚಾರ್ಯರು)
+आनन्दज्ञानदेहं | ಆನಂದ ಮತ್ತು ಜ್ಞಾನಗಳನ್ನೇ ಶರೀರವಾಗಿ ಉಳ್ಳ
+श्रियः पतिं | ಲಕ್ಷ್ಮೀ ದೇವಿಯ ಪಾಲಕನಾದ
+श्रीमदानन्दतीर्थार्यवल्लभं | ಶ್ರೀ ಮಧ್ವಾಚಾರ್ಯ ಭಗವತ್ಪಾದರ ಪ್ರಿಯನಾದ
+परम् अक्षरं | ಪರಿಪೂರ್ಣ ಮತ್ತು ನಾಶರಹಿತ
+गोविन्दं | ವೇದಾದಿ ವಾಗ್ರಾಶಿಗಳಿಂದ ತಿಳಿಯಲ್ಪಡುವ ನಾರಾಯಣನನ್ನು
+वन्दे | ನಮಸ್ಕರಿಸಿ ಕೊಂಡಾಡುತ್ತೇನೆ
+
+## SHABDA
+अहं | अस्मद् | — | — | प्रथमा | एकवचन
+आनन्दज्ञानदेहं | आनन्दज्ञानदेह | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+श्रियः | श्री | ईकारान्त | स्त्रीलिङ्ग | षष्ठी | एकवचन
+पतिं | पति | इकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+श्रीमदानन्दतीर्थार्यवल्लभं | श्रीमदानन्दतीर्थार्यवल्लभ | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+परं | पर | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+अक्षरं | अक्षर | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+गोविन्दं | गोविन्द | अकारान्त | पुँल्लिङ्ग | द्वितीया | एकवचन
+
+## SAMASA
+आनन्दज्ञानदेहः | आनन्दश्च ज्ञानं च देहः यस्य सः | बहुव्रीहिसमासः
+श्रीमदानन्दतीर्थार्यवल्लभः | श्रीमान् आनन्दतीर्थः आर्यः तस्य वल्लभः | षष्ठीतत्पुरुषसमासः
+
+## SANDHI
+गोविन्दमानन्द | गोविन्दम् + आनन्द | व्यञ्जनसन्धिः (म् + आ → मा)
+तीर्थार्य | तीर्थ + आर्य | सवर्णदीर्घसन्धिः (अ + आ → आ)
+परमक्षरम् | परम् + अक्षरम् | व्यञ्जनसन्धिः (म् + अ → म + अ)
+
+## DHATU
+HEADER: वदिँ अभिवादनस्तुत्योः (आत्मनेपदी, भ्वादिगणः)
+LAKARA: लट् लकारः (वर्तमानकालः)
+वन्दते | वन्देते | वन्दन्ते | प्र०
+वन्दसे | वन्देथे | वन्दध्वे | म०
+वन्दे | वन्दावहे | वन्दामहे | उ०
+LAKARA: लिट् लकारः (परोक्षभूतः)
+ववन्दे | ववन्दाते | ववन्दिरे | प्र०
+ववन्दिषे | ववन्दाथे | ववन्दिध्वे | म०
+ववन्दे | ववन्दिवहे | ववन्दिमहे | उ०
+LAKARA: लुट् लकारः (अनद्यतनभविष्यत्)
+वन्दिता | वन्दितारौ | वन्दितारः | प्र०
+वन्दितासे | वन्दितासाथे | वन्दिताध्वे | म०
+वन्दिताहे | वन्दितास्वहे | वन्दितास्महे | उ०
+LAKARA: लृट् लकारः (भविष्यत्)
+वन्दिष्यते | वन्दिष्येते | वन्दिष्यन्ते | प्र०
+वन्दिष्यसे | वन्दिष्येथे | वन्दिष्यध्वे | म०
+वन्दिष्ये | वन्दिष्यावहे | वन्दिष्यामहे | उ०
+LAKARA: लोट् लकारः (आज्ञार्थः)
+वन्दताम् | वन्देताम् | वन्दन्ताम् | प्र०
+वन्दस्व | वन्देथाम् | वन्दध्वम् | म०
+वन्दै | वन्दावहै | वन्दामहै | उ०
+LAKARA: लङ् लकारः (अनद्यतनभूतः)
+अवन्दत | अवन्देताम् | अवन्दन्त | प्र०
+अवन्दथाः | अवन्देथाम् | अवन्दध्वम् | म०
+अवन्दे | अवन्दावहि | अवन्दामहि | उ०
+LAKARA: विधिलिङ् लकारः (विध्यर्थः)
+वन्देत | वन्देयाताम् | वन्देरन् | प्र०
+वन्देथाः | वन्देयाथाम् | वन्देध्वम् | म०
+वन्देय | वन्देवहि | वन्देमहि | उ०
+LAKARA: आशीर्लिङ् लकारः (आशीर्वादार्थः)
+वन्दिषीष्ट | वन्दिषीयास्ताम् | वन्दिषीरन् | प्र०
+वन्दिषीष्ठाः | वन्दिषीयास्थाम् | वन्दिषीढ्वम् | म०
+वन्दिषीय | वन्दिषीवहि | वन्दिषीमहि | उ०
+LAKARA: लुङ् लकारः (सामान्यभूतः)
+अवन्दिष्ट | अवन्दिषाताम् | अवन्दिषत | प्र०
+अवन्दिष्ठाः | अवन्दिषाथाम् | अवन्दिढ्वम् | म०
+अवन्दिषि | अवन्दिष्वहि | अवन्दिष्महि | उ०
+LAKARA: लृङ् लकारः (क्रियातिपत्तिः)
+अवन्दिष्यत | अवन्दिष्येताम् | अवन्दिष्यन्त | प्र०
+अवन्दिष्यथाः | अवन्दिष्येथाम् | अवन्दिष्यध्वम् | म०
+अवन्दिष्ये | अवन्दिष्यावहि | अवन्दिष्यामहि | उ०
+
+## TATPARYA
+अस्मिन् मङ्गलश्लोके ग्रन्थकर्ता परमात्मानं गोविन्दं वन्दते। 'आनन्दज्ञानदेहः' इति विशेषणेन परमात्मस्वरूपं, 'श्रियःपतिः' इति वैकुण्ठनाथत्वं, 'परमक्षरः' इति नित्यत्वं च सूचितम्।
+
+## VISHESHA
+१. 'वन्दे' — उत्तमपुरुष-एकवचन-आत्मनेपदरूपम्; कर्तृपदम् 'अहम्' इत्यनुमेयम्।
+२. 'परमक्षरम्' = परम् + अक्षरम् — परिपूर्णः नाशरहितश्चेति द्वौ अर्थौ।
+३. श्रीमदानन्दतीर्थाः = श्रीमध्वाचार्याः।
+
+## AKANKSHA
+'वन्दे' इत्यस्य कर्ता कः? → 'अहम्' (उत्तमपुरुषप्रयोगात् अनुमितम्)
+'वन्दे' इत्यस्य कर्म किम्? → 'गोविन्दम्' (द्वितीयाविभक्तिः)
+'पतिं' — कस्य पतिः? → 'श्रियः' (षष्ठीविभक्तिः)
+
+## SANSKRIT_VYAKHYANA
+वन्दे — वदि-धातोः लट्लकारे उत्तमपुरुषे एकवचने आत्मनेपदे रूपम्।
+गोविन्दम् — गोभिः वेदवाक्यैः विन्दते ज्ञायते इति गोविन्दः, तम् — द्वितीया।
+आनन्दज्ञानदेहम् — आनन्दश्च ज्ञानं च देहः यस्य सः आनन्दज्ञानदेहः — बहुव्रीहिः।
+
+## GUDAPRAKASHIKA
+(गूडप्रकाशिकाटीकायाः अंशः अत्र योजनीयः — स्रोतात् उद्धृत्य लिखतु)
+
+═══════════════════════════════════════════════════════════
+VALIDATION RULES (checked automatically by the app)
+═══════════════════════════════════════════════════════════
+1. Every section header must be on its own line: ## SECTION_NAME
+2. ANVAYARTHA rows must have exactly 2 pipe-separated columns (word | Kannada meaning)
+3. SHABDA rows must have exactly 6 pipe-separated columns (पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्)
+4. DHATU must have at least one LAKARA: block with pipe-separated conjugation rows
+   (ideally all 10: लट् लिट् लुट् लृट् लोट् लङ् विधिलिङ् आशीर्लिङ् लुङ् लृङ्)
+5. Unknown section names will be flagged as errors
+6. Empty sections are silently skipped (not an error)
+
+═══════════════════════════════════════════════════════════
+DATABASE MAPPING
+═══════════════════════════════════════════════════════════
+PADACCHEDA, ANVAYA   → verses table (padaccheda, anvaya columns)
+ANVAYARTHA           → commentaries table, JSON {type:"word_meanings", rows:[[devanagari, kannada],...]}
+SHABDA               → commentaries table, JSON {type:"shabda_analysis", headers:[...], rows:[[6 cols],...]}
+DHATU                → commentaries table, JSON {type:"dhatu", header:"...", tables:[...]}
+All other sections   → commentaries table, plain text (or HTML if bold/italic used)

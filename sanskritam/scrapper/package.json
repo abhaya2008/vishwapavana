@@ -1,0 +1,11 @@
+{
+    "name": "sanskritam-scraper",
+    "version": "1.0.0",
+    "description": "Web scraper for sanskritam.world",
+    "main": "scraper.js",
+    "scripts": {
+        "scrape": "node scraper.js",
+        "scrape-wget": "wget --mirror --convert-links --adjust-extension --page-requisites --no-parent --wait=1 --random-wait -P output https://www.sanskritam.world/"
+    },
+    "dependencies": {}
+}

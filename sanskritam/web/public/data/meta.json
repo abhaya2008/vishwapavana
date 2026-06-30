@@ -1,0 +1,207 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name_sanskrit": "वेदः",
+      "name_english": "Vedas",
+      "description": "The four Vedas and related texts",
+      "icon": "🕉",
+      "display_order": 1,
+      "parent_id": null
+    },
+    {
+      "id": 7,
+      "name_sanskrit": "सूत्रपाठः",
+      "name_english": "Sutrapatha",
+      "description": "Panini's Ashtadhyayi sutras",
+      "icon": "📜",
+      "display_order": 1,
+      "parent_id": 2
+    },
+    {
+      "id": 2,
+      "name_sanskrit": "व्याकरणम्",
+      "name_english": "Grammar",
+      "description": "Sanskrit grammar texts",
+      "icon": "📖",
+      "display_order": 2,
+      "parent_id": null
+    },
+    {
+      "id": 8,
+      "name_sanskrit": "धातुपाठः",
+      "name_english": "Dhatupatha",
+      "description": "Verb roots",
+      "icon": "📝",
+      "display_order": 2,
+      "parent_id": 2
+    },
+    {
+      "id": 3,
+      "name_sanskrit": "दर्शनम्",
+      "name_english": "Philosophy",
+      "description": "Philosophical treatises",
+      "icon": "🧘",
+      "display_order": 3,
+      "parent_id": null
+    },
+    {
+      "id": 4,
+      "name_sanskrit": "स्तोत्रम्",
+      "name_english": "Stotras",
+      "description": "Hymns and prayers",
+      "icon": "🙏",
+      "display_order": 4,
+      "parent_id": null
+    },
+    {
+      "id": 5,
+      "name_sanskrit": "इतिहासः",
+      "name_english": "Itihasas",
+      "description": "Epics and historical texts",
+      "icon": "📜",
+      "display_order": 5,
+      "parent_id": null
+    },
+    {
+      "id": 6,
+      "name_sanskrit": "पुराणम्",
+      "name_english": "Puranas",
+      "description": "Ancient mythological texts",
+      "icon": "🌟",
+      "display_order": 6,
+      "parent_id": null
+    },
+    {
+      "id": 9,
+      "name_sanskrit": "वेदान्तः",
+      "name_english": "Vedanta",
+      "description": "Vedanta and related philosophical poetry",
+      "icon": "📿",
+      "display_order": 7,
+      "parent_id": null
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "category_id": 7,
+      "name_sanskrit": "अष्टाध्यायी",
+      "name_english": "Ashtadhyayi",
+      "description": "The foundational text of Sanskrit grammar by Panini",
+      "author": "पाणिनिः",
+      "display_order": 1,
+      "has_audio": 0
+    },
+    {
+      "id": 2,
+      "category_id": 4,
+      "name_sanskrit": "विष्णुसहस्रनाम",
+      "name_english": "Vishnu Sahasranama",
+      "description": "A thousand names of Lord Vishnu",
+      "author": "",
+      "display_order": 1,
+      "has_audio": 1
+    },
+    {
+      "id": 3,
+      "category_id": 9,
+      "name_sanskrit": "मणिमञ्जरी",
+      "name_english": "Manimanjari",
+      "description": "A Sanskrit kāvya on Madhvacharya — with Kannada word meanings and grammatical commentary",
+      "author": "श्रीमन्नारायणपण्डिताचार्यविरचिता",
+      "display_order": 1,
+      "has_audio": 0
+    }
+  ],
+  "chapters": [
+    {
+      "id": 1,
+      "text_id": 1,
+      "name_sanskrit": "प्रथमोऽध्यायः",
+      "name_english": "Chapter 1",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 3,
+      "text_id": 2,
+      "name_sanskrit": "पूर्वभागः",
+      "name_english": "Part 1",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 4,
+      "text_id": 3,
+      "name_sanskrit": "प्रथमः सर्गः",
+      "name_english": "Creation Narrative · Rama's birth",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 2,
+      "text_id": 1,
+      "name_sanskrit": "द्वितीयोऽध्यायः",
+      "name_english": "Chapter 2",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 5,
+      "text_id": 3,
+      "name_sanskrit": "द्वितीयः सर्गः",
+      "name_english": "Sita's protection · Hanuman's mission",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6,
+      "text_id": 3,
+      "name_sanskrit": "तृतीयः सर्गः",
+      "name_english": "Lunar dynasty · Birth of Krishna",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7,
+      "text_id": 3,
+      "name_sanskrit": "चतुर्थः सर्गः",
+      "name_english": "Krishna's exploits · Mahabharata",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 8,
+      "text_id": 3,
+      "name_sanskrit": "पञ्चमः सर्गः",
+      "name_english": "Buddhist challenge · Kumarila Bhatta",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 9,
+      "text_id": 3,
+      "name_sanskrit": "षष्ठः सर्गः",
+      "name_english": "Sankara's birth and activities",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 10,
+      "text_id": 3,
+      "name_sanskrit": "सप्तमः सर्गः",
+      "name_english": "Debate with Mandana Misra",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 11,
+      "text_id": 3,
+      "name_sanskrit": "अष्टमः सर्गः",
+      "name_english": "Madhvacharya's advent · Tattvavada",
+      "chapter_number": 8,
+      "display_order": 8
+    }
+  ]
+}

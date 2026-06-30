@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+dist-ssr/
+*.local
+
+# SQLite (data is exported to web/public/data/ JSON files)
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Expo / React Native
+.expo/
+android/
+ios/
+
+# Embedded repos and scraped output
+sanskritam/mobile/
+sanskritam/scrapper/output/

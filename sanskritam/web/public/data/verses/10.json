@@ -1,0 +1,38 @@
+[
+  {
+    "id": 63,
+    "chapter_id": 10,
+    "verse_number": "7.1",
+    "content_sanskrit": "ततः स विश्वरूपस्य गृहं वव्राज सङ्करः ।किमप्यबोधतापाङ्गवीक्षया तत्प्रियाऽमुना",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  {
+    "id": 64,
+    "chapter_id": 10,
+    "verse_number": "7.2",
+    "content_sanskrit": "तोटकः पद्मपादश्च ज्ञानोच्चो बीजभुक तथा ।इत्येते मायिनः शिष्या आसंश्चत्वारः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2
+  },
+  {
+    "id": 65,
+    "chapter_id": 10,
+    "verse_number": "7.3",
+    "content_sanskrit": "हा हा बीजादैष गूढो मदीयो भूयस्तात व्यापृतोऽहं गुणेषु । किं वास्माकं भावि का वा गतिः स्यादित्थं जल्पन्नाप दीर्घा स निद्राम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3
+  }
+]

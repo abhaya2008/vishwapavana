@@ -1,0 +1,23 @@
+{
+  "verse": {
+    "id": 1,
+    "chapter_id": 1,
+    "verse_number": "१.१.१",
+    "content_sanskrit": "वृद्धिरादैच्",
+    "padaccheda": "वृद्धिः आत् ऐच्",
+    "anvaya": "आत् ऐच् इति वृद्धिसंज्ञाः",
+    "meaning_sanskrit": "आ, ऐ, औ इत्येते वृद्धिसंज्ञका भवन्ति",
+    "meaning_english": "The vowels ā, ai, and au are called vṛddhi.",
+    "audio_url": null,
+    "display_order": 1
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 1,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आदादय एङन्ता वृद्धिसंज्ञाः स्युः। आदिति निर्दिष्टं प्रकृतिग्रहणं तदन्तविधिं प्रयोजयति - आकारान्ता वृद्धिः। ऐचिति निर्दिष्टं एचन्ता वृद्धिः।"
+    }
+  ]
+}

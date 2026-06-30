@@ -1,0 +1,23 @@
+{
+  "verse": {
+    "id": 2,
+    "chapter_id": 1,
+    "verse_number": "१.१.२",
+    "content_sanskrit": "अदेङ्गुणः",
+    "padaccheda": "अत् एङ् गुणः",
+    "anvaya": "अत् एङ् इति गुणसंज्ञाः",
+    "meaning_sanskrit": "अ, ए, ओ इत्येते गुणसंज्ञका भवन्ति",
+    "meaning_english": "The vowels a, e, and o are called guṇa.",
+    "audio_url": null,
+    "display_order": 2
+  },
+  "commentaries": [
+    {
+      "id": 2,
+      "verse_id": 2,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अकारादय एङन्ताः गुणसंज्ञका भवन्ति। पूर्ववदत्र अकारान्तो गुणः, एङन्तश्च।"
+    }
+  ]
+}

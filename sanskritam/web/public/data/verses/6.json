@@ -1,0 +1,50 @@
+[
+  {
+    "id": 49,
+    "chapter_id": 6,
+    "verse_number": "3.1",
+    "content_sanskrit": "हिमांशोरत्रिपुत्रस्य बुधो नाम सुतोऽभवत् ।पुरूरवा महाराजः तस्य पुत्रो व्यजायत",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  {
+    "id": 50,
+    "chapter_id": 6,
+    "verse_number": "3.2",
+    "content_sanskrit": "तत्र प्रादुरभूद्देवः परमात्मा सनातनः ।दुंपत्योरनयोराशाः पूरयन्त्सुरकार्यवान्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2
+  },
+  {
+    "id": 51,
+    "chapter_id": 6,
+    "verse_number": "3.3",
+    "content_sanskrit": "ज्ञानानन्दतनुं श्यामं शंखचक्रगदाधरम् ।व्यक्तमात्रं हरिं दृष्ट्वा तुष्टावानकदुन्दुभिः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3
+  },
+  {
+    "id": 52,
+    "chapter_id": 6,
+    "verse_number": "3.4",
+    "content_sanskrit": "स पालयन्गोपकबालवृन्दैर्बलेन साकं पशुवत्सयूथान् । निहत्य वत्सासुरमादिदेवो बकं च गोपालकतामवाप",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4
+  }
+]

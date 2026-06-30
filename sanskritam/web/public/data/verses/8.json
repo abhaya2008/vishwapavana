@@ -1,0 +1,50 @@
+[
+  {
+    "id": 57,
+    "chapter_id": 8,
+    "verse_number": "5.1",
+    "content_sanskrit": "ततः परमहंसा ये कृष्णभीमानुशिक्षिताः ।व्यासाश्रयादत्रिजाद्या वेदशास्त्राण्यवर्तयन्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  {
+    "id": 58,
+    "chapter_id": 8,
+    "verse_number": "5.2",
+    "content_sanskrit": "दुर्धर्षा भीमसेनो नः कृष्णोऽप्यत्यन्तदुःसहः ।ताभ्यां निरीक्षिता दैत्या मृत्युं यान्ति न संशयः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2
+  },
+  {
+    "id": 59,
+    "chapter_id": 8,
+    "verse_number": "5.3",
+    "content_sanskrit": "वेदोऽप्रमाणमित्युक्त्वा बुद्धस्तानप्यमोहयत् ।बौद्धशास्त्रं ततस्तेनुरज्ञात्वा तन्मतं परम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3
+  },
+  {
+    "id": 60,
+    "chapter_id": 8,
+    "verse_number": "5.4",
+    "content_sanskrit": "वह्निप्रवेशग्लहया कुमारोवितण्डया माध्यमिकान्निगृह्य ।नष्टायुषोऽपह्नवतः श्रुतीनामह्नाय वह्नौ गमयाञ्चकार",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4
+  }
+]

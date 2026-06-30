@@ -1,0 +1,14 @@
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+
+// https://vite.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  // VITE_BASE_URL is set by the GitHub Actions workflow to /{repo-name}/
+  base: process.env.VITE_BASE_URL || '/',
+  server: {
+    proxy: {
+      '/api': 'http://localhost:3001',
+    },
+  },
+})

@@ -1,0 +1,15 @@
+{
+  "verse": {
+    "id": 5,
+    "chapter_id": 1,
+    "verse_number": "१.१.५",
+    "content_sanskrit": "क्ङिति च",
+    "padaccheda": "क्-ङ्-इति च",
+    "anvaya": "कित् ङित् प्रत्यये परे च गुणवृद्धी न भवतः",
+    "meaning_sanskrit": "कित् वा ङित् प्रत्यये परे गुणवृद्धी न स्तः",
+    "meaning_english": "Guṇa and vṛddhi also do not occur before affixes marked with k or ṅ.",
+    "audio_url": null,
+    "display_order": 5
+  },
+  "commentaries": []
+}

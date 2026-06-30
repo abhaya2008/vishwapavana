@@ -1,0 +1,15 @@
+{
+  "verse": {
+    "id": 4,
+    "chapter_id": 1,
+    "verse_number": "१.१.४",
+    "content_sanskrit": "न धातुलोप आर्धधातुके",
+    "padaccheda": "न धातु-लोपे आर्धधातुके",
+    "anvaya": "आर्धधातुके परतः धातोः लोपे सति गुणवृद्धी न भवतः",
+    "meaning_sanskrit": "आर्धधातुकप्रत्यये परे धातोः लोपे सति गुणवृद्धी न स्तः",
+    "meaning_english": "Guṇa and vṛddhi do not occur when dhātu is elided before ārdhadhātuka.",
+    "audio_url": null,
+    "display_order": 4
+  },
+  "commentaries": []
+}

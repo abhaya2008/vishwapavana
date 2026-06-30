@@ -1,0 +1,15 @@
+{
+  "verse": {
+    "id": 3,
+    "chapter_id": 1,
+    "verse_number": "१.१.३",
+    "content_sanskrit": "इको गुणवृद्धी",
+    "padaccheda": "इकः गुण-वृद्धी",
+    "anvaya": "इकः स्थाने गुणवृद्धी भवतः",
+    "meaning_sanskrit": "इक् (इ उ ऋ लृ) स्थाने गुण-वृद्धी आदेशौ भवतः",
+    "meaning_english": "Guṇa and vṛddhi are substitutes for ik vowels.",
+    "audio_url": null,
+    "display_order": 3
+  },
+  "commentaries": []
+}

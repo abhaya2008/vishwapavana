@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "chapter_id": 1,
+    "verse_number": "१.१.१",
+    "content_sanskrit": "वृद्धिरादैच्",
+    "padaccheda": "वृद्धिः आत् ऐच्",
+    "anvaya": "आत् ऐच् इति वृद्धिसंज्ञाः",
+    "meaning_sanskrit": "आ, ऐ, औ इत्येते वृद्धिसंज्ञका भवन्ति",
+    "meaning_english": "The vowels ā, ai, and au are called vṛddhi.",
+    "audio_url": null,
+    "display_order": 1
+  },
+  {
+    "id": 2,
+    "chapter_id": 1,
+    "verse_number": "१.१.२",
+    "content_sanskrit": "अदेङ्गुणः",
+    "padaccheda": "अत् एङ् गुणः",
+    "anvaya": "अत् एङ् इति गुणसंज्ञाः",
+    "meaning_sanskrit": "अ, ए, ओ इत्येते गुणसंज्ञका भवन्ति",
+    "meaning_english": "The vowels a, e, and o are called guṇa.",
+    "audio_url": null,
+    "display_order": 2
+  },
+  {
+    "id": 3,
+    "chapter_id": 1,
+    "verse_number": "१.१.३",
+    "content_sanskrit": "इको गुणवृद्धी",
+    "padaccheda": "इकः गुण-वृद्धी",
+    "anvaya": "इकः स्थाने गुणवृद्धी भवतः",
+    "meaning_sanskrit": "इक् (इ उ ऋ लृ) स्थाने गुण-वृद्धी आदेशौ भवतः",
+    "meaning_english": "Guṇa and vṛddhi are substitutes for ik vowels.",
+    "audio_url": null,
+    "display_order": 3
+  },
+  {
+    "id": 4,
+    "chapter_id": 1,
+    "verse_number": "१.१.४",
+    "content_sanskrit": "न धातुलोप आर्धधातुके",
+    "padaccheda": "न धातु-लोपे आर्धधातुके",
+    "anvaya": "आर्धधातुके परतः धातोः लोपे सति गुणवृद्धी न भवतः",
+    "meaning_sanskrit": "आर्धधातुकप्रत्यये परे धातोः लोपे सति गुणवृद्धी न स्तः",
+    "meaning_english": "Guṇa and vṛddhi do not occur when dhātu is elided before ārdhadhātuka.",
+    "audio_url": null,
+    "display_order": 4
+  },
+  {
+    "id": 5,
+    "chapter_id": 1,
+    "verse_number": "१.१.५",
+    "content_sanskrit": "क्ङिति च",
+    "padaccheda": "क्-ङ्-इति च",
+    "anvaya": "कित् ङित् प्रत्यये परे च गुणवृद्धी न भवतः",
+    "meaning_sanskrit": "कित् वा ङित् प्रत्यये परे गुणवृद्धी न स्तः",
+    "meaning_english": "Guṇa and vṛddhi also do not occur before affixes marked with k or ṅ.",
+    "audio_url": null,
+    "display_order": 5
+  }
+]
