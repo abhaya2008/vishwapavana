@@ -56,7 +56,7 @@ async function commitCommentary(verseId) {
     const cfg = getGhConfig();
     if (!cfg?.token) throw new Error('GitHub not configured. Please open ⚙ GitHub Settings.');
     const data = _commentaryCache[verseId];
-    const repoPath = `${cfg.dataPath || 'web/public/data'}/commentary/${verseId}.json`;
+    const repoPath = `${cfg.dataPath || 'sanskritam/web/public/data'}/commentary/${verseId}.json`;
     await ghCommitFile(repoPath, JSON.stringify(data, null, 2), `Update verse ${verseId} commentary`);
 }
 
@@ -65,7 +65,7 @@ async function commitVerseList(chapterId) {
     if (!cfg?.token) return; // verse list commit is best-effort (main data is in commentary file)
     const data = _verseListCache[chapterId];
     if (!data) return;
-    const repoPath = `${cfg.dataPath || 'web/public/data'}/verses/${chapterId}.json`;
+    const repoPath = `${cfg.dataPath || 'sanskritam/web/public/data'}/verses/${chapterId}.json`;
     await ghCommitFile(repoPath, JSON.stringify(data, null, 2), `Update verse list for chapter ${chapterId}`);
 }
 

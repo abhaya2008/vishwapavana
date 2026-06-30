@@ -1,24 +1,9 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useDatabase, IS_STATIC } from '../db/database';
-import { getGhConfig, setGhConfig, isGhConfigured } from '../db/github-writer';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
-
-// ── Edit Auth ─────────────────────────────────────────────────────────────────
-const EDIT_PASSWORD = 'manimanjari'; // ← change this to your desired password
-const AUTH_KEY = 'skt_edit_auth';
-const AUTH_EXPIRY_MS = 30 * 24 * 60 * 60 * 1000; // 30 days
-
-function isAuthed() {
-    try {
-        const s = localStorage.getItem(AUTH_KEY);
-        return !!s && Date.now() < JSON.parse(s).exp;
-    } catch (_) { return false; }
-}
-function storeAuth() {
-    localStorage.setItem(AUTH_KEY, JSON.stringify({ exp: Date.now() + AUTH_EXPIRY_MS }));
-}
+import { EDIT_PASSWORD, isAuthed, storeAuth } from '../utils/auth';
 
 // ── Auth Modal ─────────────────────────────────────────────────────────────────
 function AuthModal({ onSuccess, onClose }) {
@@ -69,77 +54,6 @@ function AuthModal({ onSuccess, onClose }) {
     );
 }
 
-// ── GitHub Settings Modal ─────────────────────────────────────────────────────
-function GhSettingsModal({ onClose }) {
-    const cfg = getGhConfig() || {};
-    const [owner,    setOwner]    = useState(cfg.owner    || '');
-    const [repo,     setRepo]     = useState(cfg.repo     || '');
-    const [branch,   setBranch]   = useState(cfg.branch   || 'main');
-    const [token,    setToken]    = useState(cfg.token    || '');
-    const [dataPath, setDataPath] = useState(cfg.dataPath || 'web/public/data');
-    const [saving,   setSaving]   = useState(false);
-    const [err,      setErr]      = useState('');
-
-    const save = async () => {
-        if (!owner.trim() || !repo.trim() || !token.trim()) {
-            setErr('Owner, Repository, and Token are required.');
-            return;
-        }
-        setSaving(true);
-        setErr('');
-        try {
-            const res = await fetch(`https://api.github.com/repos/${owner.trim()}/${repo.trim()}`, {
-                headers: { Authorization: `token ${token.trim()}`, Accept: 'application/vnd.github.v3+json' },
-            });
-            if (!res.ok) { setErr('Cannot access that repository. Check owner, repo name and token permissions.'); return; }
-            setGhConfig({ owner: owner.trim(), repo: repo.trim(), branch: branch.trim() || 'main', token: token.trim(), dataPath: dataPath.trim() || 'web/public/data' });
-            onClose();
-        } catch (e) {
-            setErr(e.message || 'Network error');
-        } finally {
-            setSaving(false);
-        }
-    };
-
-    return (
-        <div className="auth-overlay" onClick={e => e.target === e.currentTarget && onClose()}>
-            <div className="auth-modal" style={{ width: 'min(460px, 95vw)' }}>
-                <div className="auth-modal-hdr">
-                    <span className="auth-modal-title">⚙ GitHub Settings</span>
-                    <button className="bulk-close" onClick={onClose}>✕</button>
-                </div>
-                <div className="auth-modal-body">
-                    <p className="auth-hint">
-                        When you save edits on GitHub Pages, the app commits the updated JSON file
-                        directly to your repo. GitHub Pages then redeploys automatically (~30 s).
-                        Create a token at <b>GitHub → Settings → Developer settings → Personal access tokens</b>
-                        with <b>Contents: Read &amp; Write</b> permission.
-                    </p>
-                    {[
-                        { label: 'GitHub Owner (username or org)', val: owner, set: setOwner, ph: 'your-github-username', type: 'text' },
-                        { label: 'Repository Name',                val: repo,  set: setRepo,  ph: 'your-repo-name',      type: 'text' },
-                        { label: 'Branch',                         val: branch,set: setBranch, ph: 'main',               type: 'text' },
-                        { label: 'Personal Access Token',          val: token, set: setToken, ph: 'ghp_…',              type: 'password' },
-                        { label: 'Data folder path in repo',       val: dataPath,set:setDataPath,ph:'web/public/data',  type: 'text' },
-                    ].map(({ label, val, set, ph, type }) => (
-                        <div key={label} style={{ display: 'flex', flexDirection: 'column', gap: '0.2rem' }}>
-                            <label style={{ fontSize: '0.82rem', color: 'var(--color-subheading-hero)' }}>{label}</label>
-                            <input className="auth-input" type={type} value={val}
-                                onChange={e => { set(e.target.value); setErr(''); }} placeholder={ph} />
-                        </div>
-                    ))}
-                    {err && <div className="auth-error">{err}</div>}
-                    <div className="auth-actions">
-                        <button className="mm-editor-save" onClick={save} disabled={saving}>
-                            {saving ? 'Testing…' : 'Save & Verify'}
-                        </button>
-                        <button className="mm-editor-cancel" onClick={onClose}>Cancel</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    );
-}
 
 // Standard set of headings shown as collapsible panes for every Manimanjari shloka.
 // `field` reads directly from the verse row; `match` finds a commentary whose
@@ -1123,7 +1037,7 @@ export default function VersePage() {
     const [shlokaDraft, setShlokaDraft] = useState('');
     const [savingShloka, setSavingShloka] = useState(false);
     const [authModal, setAuthModal] = useState(null); // { onSuccess: fn } when open
-    const [ghModal, setGhModal] = useState(false);
+    const [savedAt, setSavedAt] = useState(null);
     const verseCardRef = useRef(null);
 
     const requireAuth = useCallback((onSuccess) => {
@@ -1184,7 +1098,7 @@ export default function VersePage() {
 
     const handleGhError = useCallback((e) => {
         if (e.message && (e.message.includes('GitHub not configured') || e.message.includes('GitHub'))) {
-            setGhModal(true);
+            alert('GitHub not configured. Click the ⚙ GitHub button in the top-right header to set up saving.');
         }
     }, []);
 
@@ -1209,6 +1123,7 @@ export default function VersePage() {
                     }
                     await refreshCommentaries();
                 }
+                if (IS_STATIC) setSavedAt(Date.now());
             } catch (e) {
                 handleGhError(e);
                 throw e;
@@ -1226,6 +1141,7 @@ export default function VersePage() {
             const updated = await updateVerse(currentVerse.id, { content_sanskrit: shlokaDraft });
             setVerses(prev => prev.map((v, i) => i === currentVerseIndex ? { ...v, ...updated } : v));
             setEditingShloka(false);
+            if (IS_STATIC) setSavedAt(Date.now());
         } catch (e) {
             handleGhError(e);
             alert(e.message || 'Save failed');
@@ -1358,17 +1274,12 @@ export default function VersePage() {
                                     <button className="mm-bulk-btn" onClick={() => requireAuth(() => setShowBulkImport(true))}>
                                         📋 Bulk Import
                                     </button>
-                                    {IS_STATIC && (
-                                        <button
-                                            className="mm-bulk-btn"
-                                            style={{ background: isGhConfigured() ? 'var(--color-gold-light, #FFF3CD)' : 'var(--red-bg, #FFF0F0)', borderColor: isGhConfigured() ? 'var(--color-gold)' : 'var(--red-color)' }}
-                                            onClick={() => setGhModal(true)}
-                                            title={isGhConfigured() ? 'GitHub connected — click to change settings' : 'GitHub not configured — saves will fail until you set this up'}
-                                        >
-                                            ⚙ {isGhConfigured() ? 'GitHub ✓' : 'GitHub Setup'}
-                                        </button>
-                                    )}
                                 </div>
+                                {IS_STATIC && savedAt && (Date.now() - savedAt < 90000) && (
+                                    <div style={{ margin: '0.4rem 0', padding: '0.5rem 0.8rem', background: '#F0FFF4', border: '1px solid #68D391', borderRadius: '6px', fontSize: '0.82rem', color: '#276749' }}>
+                                        ✓ Saved to GitHub! GitHub Pages is redeploying — wait ~60 seconds before refreshing.
+                                    </div>
+                                )}
                                 {MANIMANJARI_PANES.map(def => {
                                     const data = resolvePaneData(def, currentVerse, commentaries);
                                     const rawText = data ? data.value : '';
@@ -1565,8 +1476,6 @@ export default function VersePage() {
                     onClose={() => setAuthModal(null)}
                 />
             )}
-            {ghModal && <GhSettingsModal onClose={() => setGhModal(false)} />}
-
             {showBulkImport && currentVerse && (
                 <BulkImportModal
                     verse={currentVerse}
