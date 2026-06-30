@@ -1275,9 +1275,9 @@ export default function VersePage() {
                                         📋 Bulk Import
                                     </button>
                                 </div>
-                                {IS_STATIC && savedAt && (Date.now() - savedAt < 90000) && (
+                                {IS_STATIC && savedAt && (Date.now() - savedAt < 30000) && (
                                     <div style={{ margin: '0.4rem 0', padding: '0.5rem 0.8rem', background: '#F0FFF4', border: '1px solid #68D391', borderRadius: '6px', fontSize: '0.82rem', color: '#276749' }}>
-                                        ✓ Saved to GitHub! GitHub Pages is redeploying — wait ~60 seconds before refreshing.
+                                        ✓ Saved to GitHub! Refresh the page to see latest data.
                                     </div>
                                 )}
                                 {MANIMANJARI_PANES.map(def => {

@@ -41,6 +41,21 @@ function dataBase() {
 }
 
 async function staticGet(relPath) {
+    const cfg = getGhConfig();
+    // When GitHub is configured, read directly from the Contents API — always
+    // reflects the latest commit with no CDN cache or rebuild delay.
+    if (cfg?.token && cfg?.owner && cfg?.repo && cfg?.dataPath) {
+        const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${cfg.dataPath}/${relPath}`;
+        const res = await fetch(url, {
+            headers: {
+                Authorization: `token ${cfg.token}`,
+                Accept: 'application/vnd.github.raw+json',
+            },
+        });
+        if (!res.ok) throw new Error(`[github] ${relPath} → ${res.status}`);
+        return res.json();
+    }
+    // Fall back to deployed static files (public viewers without a token).
     const res = await fetch(dataBase() + relPath);
     if (!res.ok) throw new Error(`[static] ${relPath} → ${res.status}`);
     return res.json();
@@ -57,7 +72,7 @@ async function commitCommentary(verseId) {
     if (!cfg?.token) throw new Error('GitHub not configured. Please open ⚙ GitHub Settings.');
     const data = _commentaryCache[verseId];
     const repoPath = `${cfg.dataPath || 'sanskritam/web/public/data'}/commentary/${verseId}.json`;
-    await ghCommitFile(repoPath, JSON.stringify(data, null, 2), `Update verse ${verseId} commentary`);
+    await ghCommitFile(repoPath, JSON.stringify(data, null, 2), `Update verse ${verseId} commentary [skip ci]`);
 }
 
 async function commitVerseList(chapterId) {
@@ -66,7 +81,7 @@ async function commitVerseList(chapterId) {
     const data = _verseListCache[chapterId];
     if (!data) return;
     const repoPath = `${cfg.dataPath || 'sanskritam/web/public/data'}/verses/${chapterId}.json`;
-    await ghCommitFile(repoPath, JSON.stringify(data, null, 2), `Update verse list for chapter ${chapterId}`);
+    await ghCommitFile(repoPath, JSON.stringify(data, null, 2), `Update verse list for chapter ${chapterId} [skip ci]`);
 }
 
 // ── Static read functions ─────────────────────────────────────────────────────
