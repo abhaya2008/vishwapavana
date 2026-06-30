@@ -40,10 +40,16 @@ function dataBase() {
     return import.meta.env.BASE_URL + 'data/';
 }
 
+// Baked in at build time by the GitHub Actions workflow.
+const _BUILD_GH_OWNER     = import.meta.env.VITE_GH_OWNER;
+const _BUILD_GH_REPO      = import.meta.env.VITE_GH_REPO;
+const _BUILD_GH_BRANCH    = import.meta.env.VITE_GH_BRANCH || 'main';
+const _BUILD_GH_DATA_PATH = import.meta.env.VITE_GH_DATA_PATH;
+
 async function staticGet(relPath) {
     const cfg = getGhConfig();
-    // When GitHub is configured, read directly from the Contents API — always
-    // reflects the latest commit with no CDN cache or rebuild delay.
+
+    // Editor with token: GitHub Contents API — zero CDN cache, always latest commit.
     if (cfg?.token && cfg?.owner && cfg?.repo && cfg?.dataPath) {
         const url = `https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${cfg.dataPath}/${relPath}`;
         const res = await fetch(url, {
@@ -55,7 +61,17 @@ async function staticGet(relPath) {
         if (!res.ok) throw new Error(`[github] ${relPath} → ${res.status}`);
         return res.json();
     }
-    // Fall back to deployed static files (public viewers without a token).
+
+    // Public visitor: raw.githubusercontent.com — latest commit, ~5 min CDN cache max.
+    // Repo info is baked in at build time via VITE_GH_* env vars.
+    if (_BUILD_GH_OWNER && _BUILD_GH_REPO && _BUILD_GH_DATA_PATH) {
+        const url = `https://raw.githubusercontent.com/${_BUILD_GH_OWNER}/${_BUILD_GH_REPO}/${_BUILD_GH_BRANCH}/${_BUILD_GH_DATA_PATH}/${relPath}`;
+        const res = await fetch(url);
+        if (!res.ok) throw new Error(`[raw] ${relPath} → ${res.status}`);
+        return res.json();
+    }
+
+    // Final fallback: deployed static files (local dev or missing build vars).
     const res = await fetch(dataBase() + relPath);
     if (!res.ok) throw new Error(`[static] ${relPath} → ${res.status}`);
     return res.json();

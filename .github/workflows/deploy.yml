@@ -35,9 +35,12 @@ jobs:
         working-directory: sanskritam/web
         env:
           VITE_READONLY: 'true'
-          # GitHub Pages project sites are served from /{repo-name}/
-          # For a user/org site (username.github.io) set this to '/' in repo settings
           VITE_BASE_URL: '/${{ github.event.repository.name }}/'
+          # Baked into the build so all visitors read live data from GitHub
+          VITE_GH_OWNER: ${{ github.repository_owner }}
+          VITE_GH_REPO: ${{ github.event.repository.name }}
+          VITE_GH_BRANCH: main
+          VITE_GH_DATA_PATH: sanskritam/web/public/data
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
