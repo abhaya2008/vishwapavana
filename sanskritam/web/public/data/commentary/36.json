@@ -11,5 +11,13 @@
     "audio_url": null,
     "display_order": 30
   },
-  "commentaries": []
+  "commentaries": [
+    {
+      "id": 1782927891231,
+      "verse_id": 36,
+      "commentary_type": "आकांक्षा",
+      "author": "",
+      "content": "<div>रामः तान् जघान ।</div><div>कः जघान ? रामः जघान ।</div><div>रामः कान् जघान ?&nbsp;<span style=\"font-size: 1rem;\">रामः तान् जघान ।</span></div><div>तान् कान् ?&nbsp;<span style=\"font-size: 1rem;\">तान् खरादीन् इति पूर्वान्वयः</span></div><div>रामः किमर्थं तान् जघान ?&nbsp;<span style=\"font-size: 1rem;\">रामः सुरकायार्थसिध्दर्य तान् जघान ।</span></div><div><div style=\"\">कथं भूतः रामः तान् जघान ?&nbsp;<span style=\"font-size: 1rem;\">रामः रमानाथः राजीवलोचनः परानन्दः ।</span></div><div style=\"\">रामः केन प्रकारेणा तान् जघान ?&nbsp;<span style=\"font-size: 1rem;\">रामः लीलयैव तान् जघान ।</span></div></div>"
+    }
+  ]
 }
