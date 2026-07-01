@@ -11,5 +11,13 @@
     "audio_url": null,
     "display_order": 24
   },
-  "commentaries": []
+  "commentaries": [
+    {
+      "id": 1782926558538,
+      "verse_id": 30,
+      "commentary_type": "आकांक्षा",
+      "author": "",
+      "content": "<div>सः व्यरोचत</div><div>कः सः? सः श्रीरामदेवः इति पुर्वान्वयः</div><div>सः केन सह व्यरोचत ?&nbsp;<span style=\"font-size: 1rem;\">सः श्रीरामचन्द्रः वसिष्टेन सह अनुजेन लक्ष्मणेन सह तथा देव्या सीताया सह व्यरोचत ।</span></div><div>सः&nbsp;<span style=\"font-size: 1rem;\">किंवत् व्यरोचत ?&nbsp;</span><span style=\"font-size: 1rem;\">सः कविकाव्ययुत ज्योत्स्नाकान्तवत् व्यरोचत ।</span></div><div>अत्र वसिष्टः बृहस्पत्याचार्यसदृशः लक्ष्मणः&nbsp;<span style=\"font-size: 1rem;\">शुक्राचार्यसदृशः सिताज्योत्स्ता सदृशी, रामः चन्द्र सदृश इति अभिप्रायः</span></div>"
+    }
+  ]
 }
