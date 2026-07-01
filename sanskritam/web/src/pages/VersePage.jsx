@@ -191,25 +191,31 @@ function parseBulkText(raw) {
                 parsedData = { type: 'sandhi', headers: SANDHI_HEADERS, rows };
             }
         } else if (def.tableType === 'dhatu') {
+            // Supports multiple dhatus: each HEADER: starts a new group; LAKARA: rows follow.
             const dlines = content.split('\n').map(l => l.trim()).filter(Boolean);
-            let header = '';
-            const tables = [];
-            let cur = null;
+            const dhatus = [];
+            let curDhatu = null;
+            let curTable = null;
             for (const dl of dlines) {
                 if (dl.startsWith('HEADER:')) {
-                    header = dl.slice(7).trim();
+                    if (curTable && curDhatu) { curDhatu.tables.push(curTable); curTable = null; }
+                    if (curDhatu) dhatus.push(curDhatu);
+                    curDhatu = { header: dl.slice(7).trim(), tables: [] };
                 } else if (dl.startsWith('LAKARA:')) {
-                    if (cur) tables.push(cur);
-                    cur = { lakara: dl.slice(7).trim(), rows: [] };
-                } else if (cur) {
-                    cur.rows.push(dl.split('|').map(c => c.trim()));
+                    if (!curDhatu) curDhatu = { header: '', tables: [] };
+                    if (curTable) curDhatu.tables.push(curTable);
+                    curTable = { lakara: dl.slice(7).trim(), rows: [] };
+                } else if (curTable) {
+                    curTable.rows.push(dl.split('|').map(c => c.trim()));
                 }
             }
-            if (cur) tables.push(cur);
-            if (tables.length === 0) {
-                sectionError = '## DHATU: at least one "LAKARA: name" block followed by pipe-separated conjugation rows is required.';
+            if (curTable && curDhatu) curDhatu.tables.push(curTable);
+            if (curDhatu) dhatus.push(curDhatu);
+            const totalTables = dhatus.reduce((s, d) => s + d.tables.length, 0);
+            if (totalTables === 0) {
+                sectionError = '## DHATU: at least one "HEADER: ..." + "LAKARA: ..." block is required.';
             } else {
-                parsedData = { type: 'dhatu', header, tables };
+                parsedData = { type: 'dhatu', dhatus };
             }
         }
 
@@ -296,7 +302,8 @@ function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
                 + (sec.parsedData.rows.length > 3 ? ' …' : '');
         }
         if (sec.parsedData.type === 'dhatu') {
-            return `${sec.parsedData.header || '—'} | ${sec.parsedData.tables.map(t => t.lakara).join(', ')}`;
+            const dhs = sec.parsedData.dhatus || [{ header: sec.parsedData.header || '' }];
+            return dhs.map(d => d.header || '—').join(' · ');
         }
         return '';
     };
@@ -307,7 +314,11 @@ function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
         if (sec.parsedData.type === 'shabda_analysis') return `${sec.parsedData.rows.length} rows`;
         if (sec.parsedData.type === 'samasa') return `${sec.parsedData.rows.length} rows`;
         if (sec.parsedData.type === 'sandhi') return `${sec.parsedData.rows.length} rows`;
-        if (sec.parsedData.type === 'dhatu') return `${sec.parsedData.tables.length} lakara`;
+        if (sec.parsedData.type === 'dhatu') {
+            const dhs = sec.parsedData.dhatus || [{ tables: sec.parsedData.tables || [] }];
+            const lcount = dhs.reduce((s, d) => s + (d.tables || []).length, 0);
+            return `${dhs.length} dhatu${dhs.length !== 1 ? 's' : ''}, ${lcount} lakara`;
+        }
         return null;
     };
 
@@ -446,7 +457,7 @@ function RichTextEditor({ initialValue, onChange, onInsertTable }) {
     const insertTable = (type) => {
         setTableMenuOpen(false);
         if (type === 'dhatu') {
-            onInsertTable({ type: 'dhatu', header: '', tables: [{ lakara: '', rows: [['', '', '', ''], ['', '', '', ''], ['', '', '', '']] }] });
+            onInsertTable({ type: 'dhatu', dhatus: [{ header: '', tables: [{ lakara: '', rows: [['', '', '', ''], ['', '', '', ''], ['', '', '', '']] }] }] });
         } else if (type === 'shabda_analysis') {
             const SHABDA_HEADERS = ['पदम्', 'शब्दः', 'अन्तः', 'लिङ्गम्', 'विभक्तिः', 'वचनम्'];
             onInsertTable({ type: 'shabda_analysis', headers: SHABDA_HEADERS, rows: [['', '', '', '', '', ''], ['', '', '', '', '', '']] });
@@ -589,75 +600,44 @@ function TableEditor({ tableData, onChange, onSwitchToText }) {
     );
 }
 
-// ── Dhatu Editor (nested sub-tables) ─────────────────────────────────────────
+// ── Dhatu Editor (nested sub-tables, supports multiple dhatu groups) ──────────
 function DhatuEditor({ tableData, onChange, onSwitchToText }) {
-    const [header, setHeader] = useState(tableData.header || '');
-    const focusedCellRef = useRef(null);
-    const [tables, setTables] = useState(() =>
-        (tableData.tables || [{ lakara: '', rows: [['', '', '', '']] }]).map(t => ({
-            ...t, rows: t.rows.map(r => [...r])
-        }))
+    // Normalise: support old { header, tables } and new { dhatus: [{header, tables}] }
+    const initDhatus = tableData.dhatus
+        || [{ header: tableData.header || '', tables: (tableData.tables || [{ lakara: '', rows: [['', '', '', '']] }]).map(t => ({ ...t, rows: t.rows.map(r => [...r]) })) }];
+
+    const [dhatus, setDhatus] = useState(() =>
+        initDhatus.map(d => ({ header: d.header || '', tables: (d.tables || []).map(t => ({ ...t, rows: t.rows.map(r => [...r]) })) }))
     );
+    const focusedCellRef = useRef(null);
 
-    const notify = (h, ts) => onChange({ ...tableData, type: 'dhatu', header: h, tables: ts });
+    const notify = (ds) => onChange({ ...tableData, type: 'dhatu', dhatus: ds });
 
-    const updHeader = (v) => { setHeader(v); notify(v, tables); };
-    const updLakara = (ti, v) => {
-        const next = tables.map((t, i) => i === ti ? { ...t, lakara: v } : t);
-        setTables(next); notify(header, next);
+    const updDhatuHeader = (di, v) => { const n = dhatus.map((d, i) => i === di ? { ...d, header: v } : d); setDhatus(n); notify(n); };
+    const updLakara = (di, ti, v) => { const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j === ti ? { ...t, lakara: v } : t) }); setDhatus(n); notify(n); };
+    const updCell = (di, ti, ri, ci, v) => {
+        const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.map((r, k) => k !== ri ? r : r.map((c, l) => l === ci ? v : c)) }) });
+        setDhatus(n); notify(n);
     };
-    const updCell = (ti, ri, ci, v) => {
-        const next = tables.map((t, i) => i === ti ? {
-            ...t, rows: t.rows.map((r, j) => j === ri ? r.map((c, k) => k === ci ? v : c) : r)
-        } : t);
-        setTables(next); notify(header, next);
-    };
-    const addRow = (ti) => {
-        const cols = tables[ti].rows[0]?.length || 4;
-        const next = tables.map((t, i) => i === ti ? { ...t, rows: [...t.rows, new Array(cols).fill('')] } : t);
-        setTables(next); notify(header, next);
-    };
-    const addCol = (ti) => {
-        const next = tables.map((t, i) => i === ti ? { ...t, rows: t.rows.map(r => [...r, '']) } : t);
-        setTables(next); notify(header, next);
-    };
-    const delRow = (ti, ri) => {
-        if (tables[ti].rows.length <= 1) return;
-        const next = tables.map((t, i) => i === ti ? { ...t, rows: t.rows.filter((_, j) => j !== ri) } : t);
-        setTables(next); notify(header, next);
-    };
-    const delCol = (ti, ci) => {
-        if ((tables[ti].rows[0]?.length || 1) <= 1) return;
-        const next = tables.map((t, i) => i === ti ? { ...t, rows: t.rows.map(r => r.filter((_, k) => k !== ci)) } : t);
-        setTables(next); notify(header, next);
-    };
-    const addSubTable = () => {
-        const cols = tables[0]?.rows[0]?.length || 4;
-        const next = [...tables, { lakara: '', rows: [new Array(cols).fill('')] }];
-        setTables(next); notify(header, next);
-    };
-    const delTable = (ti) => {
-        if (tables.length <= 1) return;
-        const next = tables.filter((_, i) => i !== ti);
-        setTables(next); notify(header, next);
-    };
+    const addRow = (di, ti) => { const cols = dhatus[di].tables[ti].rows[0]?.length || 4; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: [...t.rows, new Array(cols).fill('')] }) }); setDhatus(n); notify(n); };
+    const addCol = (di, ti) => { const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.map(r => [...r, '']) }) }); setDhatus(n); notify(n); };
+    const delRow = (di, ti, ri) => { if (dhatus[di].tables[ti].rows.length <= 1) return; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.filter((_, k) => k !== ri) }) }); setDhatus(n); notify(n); };
+    const delCol = (di, ti, ci) => { if ((dhatus[di].tables[ti].rows[0]?.length || 1) <= 1) return; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.map(r => r.filter((_, k) => k !== ci)) }) }); setDhatus(n); notify(n); };
+    const addSubTable = (di) => { const cols = dhatus[di].tables[0]?.rows[0]?.length || 4; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: [...d.tables, { lakara: '', rows: [new Array(cols).fill('')] }] }); setDhatus(n); notify(n); };
+    const delTable = (di, ti) => { if (dhatus[di].tables.length <= 1) return; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.filter((_, j) => j !== ti) }); setDhatus(n); notify(n); };
+    const addDhatu = () => { const n = [...dhatus, { header: '', tables: [{ lakara: '', rows: [['', '', '', ''], ['', '', '', ''], ['', '', '', '']] }] }]; setDhatus(n); notify(n); };
+    const delDhatu = (di) => { if (dhatus.length <= 1) return; const n = dhatus.filter((_, i) => i !== di); setDhatus(n); notify(n); };
 
     const applyBold = () => {
         const el = focusedCellRef.current;
         if (!el) return;
-        const start = el.selectionStart;
-        const end = el.selectionEnd;
+        const start = el.selectionStart, end = el.selectionEnd;
         if (start === end) return;
-        const ti = parseInt(el.dataset.ti);
-        const ri = parseInt(el.dataset.ri);
-        const ci = parseInt(el.dataset.ci);
-        const val = tables[ti].rows[ri][ci];
+        const di = parseInt(el.dataset.di), ti = parseInt(el.dataset.ti), ri = parseInt(el.dataset.ri), ci = parseInt(el.dataset.ci);
+        const val = dhatus[di].tables[ti].rows[ri][ci];
         const newVal = val.slice(0, start) + '<b>' + val.slice(start, end) + '</b>' + val.slice(end);
-        const next = tables.map((t, i) => i === ti ? {
-            ...t, rows: t.rows.map((r, j) => j === ri ? r.map((c, k) => k === ci ? newVal : c) : r)
-        } : t);
-        setTables(next);
-        notify(header, next);
+        const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.map((r, k) => k !== ri ? r : r.map((c, l) => l === ci ? newVal : c)) }) });
+        setDhatus(n); notify(n);
         setTimeout(() => { el.focus(); el.setSelectionRange(start + 3, end + 3); }, 0);
     };
 
@@ -666,75 +646,88 @@ function DhatuEditor({ tableData, onChange, onSwitchToText }) {
             <div className="tbl-toolbar">
                 <button type="button" className="tbl-btn" onMouseDown={e => e.preventDefault()} onClick={applyBold}><b>B</b></button>
                 <span className="rte-sep" />
-                <button type="button" className="tbl-btn" onClick={addSubTable}>+ Sub-table (Lakara)</button>
+                <button type="button" className="tbl-btn" onClick={addDhatu}>+ Add Dhatu</button>
                 <button type="button" className="tbl-btn tbl-btn-alt" onClick={onSwitchToText}>Switch to text</button>
             </div>
-            <div style={{ marginBottom: '0.5rem' }}>
-                <div className="tbl-field-label">Header / Root info</div>
-                <input
-                    type="text"
-                    className="tbl-header-input"
-                    value={header}
-                    onChange={e => updHeader(e.target.value)}
-                    placeholder="e.g., भू धातुः परस्मैपदी"
-                />
-            </div>
-            {tables.map((t, ti) => (
-                <div key={ti} className="dhatu-subtable">
-                    <div className="dhatu-subtable-head">
-                        <input
-                            type="text"
-                            className="tbl-lakara-input"
-                            value={t.lakara}
-                            onChange={e => updLakara(ti, e.target.value)}
-                            placeholder="Lakara (e.g., लट् लकारः)"
-                        />
-                        <div style={{ display: 'flex', gap: '0.3rem' }}>
-                            <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addRow(ti)}>+ Row</button>
-                            <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addCol(ti)}>+ Col</button>
-                            {tables.length > 1 && (
-                                <button type="button" className="tbl-del-btn" onClick={() => delTable(ti)}>✕ table</button>
+            {dhatus.map((dhatu, di) => (
+                <div key={di} style={{ border: '1px solid var(--border-color)', borderRadius: '6px', padding: '0.7rem', marginBottom: '1rem' }}>
+                    <div style={{ display: 'flex', gap: '0.5rem', alignItems: 'flex-end', marginBottom: '0.6rem' }}>
+                        <div style={{ flex: 1 }}>
+                            <div className="tbl-field-label">Header / Root info</div>
+                            <input
+                                type="text"
+                                className="tbl-header-input"
+                                value={dhatu.header}
+                                onChange={e => updDhatuHeader(di, e.target.value)}
+                                placeholder="e.g., भू सत्तायाम् (परस्मैपदी, भ्वादिगणः)"
+                            />
+                        </div>
+                        <div style={{ display: 'flex', gap: '0.3rem', paddingBottom: '0.1rem' }}>
+                            <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addSubTable(di)}>+ Lakara</button>
+                            {dhatus.length > 1 && (
+                                <button type="button" className="tbl-del-btn" onClick={() => delDhatu(di)} title="Remove this dhatu">✕ dhatu</button>
                             )}
                         </div>
                     </div>
-                    <div className="tbl-scroll">
-                        <table className="tbl-edit-table">
-                            <thead>
-                                <tr>
-                                    {Array.from({ length: t.rows[0]?.length || 4 }).map((_, ci) => (
-                                        <th key={ci}>
-                                            <button type="button" className="tbl-del-btn" onClick={() => delCol(ti, ci)}>✕ col</button>
-                                        </th>
-                                    ))}
-                                    <th></th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {t.rows.map((row, ri) => (
-                                    <tr key={ri}>
-                                        {row.map((cell, ci) => (
-                                            <td key={ci}>
-                                                <textarea
-                                                    className="tbl-cell-input"
-                                                    value={cell}
-                                                    onChange={e => updCell(ti, ri, ci, e.target.value)}
-                                                    onFocus={e => { focusedCellRef.current = e.target; }}
-                                                    onClick={e => { focusedCellRef.current = e.target; }}
-                                                    data-ti={ti}
-                                                    data-ri={ri}
-                                                    data-ci={ci}
-                                                    rows={2}
-                                                />
-                                            </td>
+                    {dhatu.tables.map((t, ti) => (
+                        <div key={ti} className="dhatu-subtable">
+                            <div className="dhatu-subtable-head">
+                                <input
+                                    type="text"
+                                    className="tbl-lakara-input"
+                                    value={t.lakara}
+                                    onChange={e => updLakara(di, ti, e.target.value)}
+                                    placeholder="Lakara (e.g., लट् लकारः)"
+                                />
+                                <div style={{ display: 'flex', gap: '0.3rem' }}>
+                                    <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addRow(di, ti)}>+ Row</button>
+                                    <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addCol(di, ti)}>+ Col</button>
+                                    {dhatu.tables.length > 1 && (
+                                        <button type="button" className="tbl-del-btn" onClick={() => delTable(di, ti)}>✕ table</button>
+                                    )}
+                                </div>
+                            </div>
+                            <div className="tbl-scroll">
+                                <table className="tbl-edit-table">
+                                    <thead>
+                                        <tr>
+                                            {Array.from({ length: t.rows[0]?.length || 4 }).map((_, ci) => (
+                                                <th key={ci}>
+                                                    <button type="button" className="tbl-del-btn" onClick={() => delCol(di, ti, ci)}>✕ col</button>
+                                                </th>
+                                            ))}
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        {t.rows.map((row, ri) => (
+                                            <tr key={ri}>
+                                                {row.map((cell, ci) => (
+                                                    <td key={ci}>
+                                                        <textarea
+                                                            className="tbl-cell-input"
+                                                            value={cell}
+                                                            onChange={e => updCell(di, ti, ri, ci, e.target.value)}
+                                                            onFocus={e => { focusedCellRef.current = e.target; }}
+                                                            onClick={e => { focusedCellRef.current = e.target; }}
+                                                            data-di={di}
+                                                            data-ti={ti}
+                                                            data-ri={ri}
+                                                            data-ci={ci}
+                                                            rows={2}
+                                                        />
+                                                    </td>
+                                                ))}
+                                                <td className="tbl-row-del">
+                                                    <button type="button" className="tbl-del-btn" onClick={() => delRow(di, ti, ri)}>✕ row</button>
+                                                </td>
+                                            </tr>
                                         ))}
-                                        <td className="tbl-row-del">
-                                            <button type="button" className="tbl-del-btn" onClick={() => delRow(ti, ri)}>✕ row</button>
-                                        </td>
-                                    </tr>
-                                ))}
-                            </tbody>
-                        </table>
-                    </div>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    ))}
                 </div>
             ))}
         </div>
@@ -928,42 +921,48 @@ function ShabdaTable({ headers, rows }) {
     );
 }
 
-function DhatuTables({ header, tables }) {
+function DhatuTables({ header, tables, dhatus }) {
+    // Normalise: support old { header, tables } and new { dhatus: [{header, tables}] }
+    const groups = dhatus || [{ header: header || '', tables: tables || [] }];
     return (
         <div>
-            {header && (
-                <div style={{ fontSize: '0.82rem', color: 'var(--color-subheading-hero)', marginBottom: '0.5rem', fontFamily: 'var(--font-sanskrit)' }}>
-                    {header}
-                </div>
-            )}
-            {tables.map((t, ti) => (
-                <div key={ti} style={{ marginBottom: '1rem' }}>
-                    <div style={{ fontSize: '0.78rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
-                        {t.lakara}
-                    </div>
-                    <div style={{ overflowX: 'auto' }}>
-                        <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '0.82rem' }}>
-                            <thead>
-                                <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
-                                    <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>एकवचनं</th>
-                                    <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>द्विवचनं</th>
-                                    <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>बहुवचनं</th>
-                                    <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.72rem' }}>पुरुषः</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                {t.rows.map((row, ri) => (
-                                    <tr key={ri} style={{ background: ri % 2 === 0 ? '#FAF5EF' : '#fff' }}>
-                                        {row.map((cell, ci) => (
-                                            <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.72rem' : undefined }}>
-                                                {cell}
-                                            </td>
+            {groups.map((dhatu, gi) => (
+                <div key={gi} style={{ marginBottom: groups.length > 1 ? '1.8rem' : 0 }}>
+                    {dhatu.header && (
+                        <div style={{ fontSize: '0.85rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
+                            {dhatu.header}
+                        </div>
+                    )}
+                    {(dhatu.tables || []).map((t, ti) => (
+                        <div key={ti} style={{ marginBottom: '1rem' }}>
+                            <div style={{ fontSize: '0.78rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
+                                {t.lakara}
+                            </div>
+                            <div style={{ overflowX: 'auto' }}>
+                                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '0.82rem' }}>
+                                    <thead>
+                                        <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
+                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>एकवचनं</th>
+                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>द्विवचनं</th>
+                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>बहुवचनं</th>
+                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.72rem' }}>पुरुषः</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        {t.rows.map((row, ri) => (
+                                            <tr key={ri} style={{ background: ri % 2 === 0 ? '#FAF5EF' : '#fff' }}>
+                                                {row.map((cell, ci) => (
+                                                    <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.72rem' : undefined }}>
+                                                        {cell}
+                                                    </td>
+                                                ))}
+                                            </tr>
                                         ))}
-                                    </tr>
-                                ))}
-                            </tbody>
-                        </table>
-                    </div>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    ))}
                 </div>
             ))}
         </div>
@@ -1014,7 +1013,7 @@ function CommentaryContent({ content }) {
     if (parsed.type === 'samasa') return <HeaderedTable headers={parsed.headers} rows={parsed.rows} />;
     if (parsed.type === 'sandhi') return <HeaderedTable headers={parsed.headers} rows={parsed.rows} />;
     if (parsed.type === 'grammar') return <GrammarTable rows={parsed.rows} />;
-    if (parsed.type === 'dhatu') return <DhatuTables header={parsed.header} tables={parsed.tables} />;
+    if (parsed.type === 'dhatu') return <DhatuTables header={parsed.header} tables={parsed.tables} dhatus={parsed.dhatus} />;
     return <div className="commentary-text">{content}</div>;
 }
 
