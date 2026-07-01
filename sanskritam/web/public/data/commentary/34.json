@@ -11,5 +11,13 @@
     "audio_url": null,
     "display_order": 28
   },
-  "commentaries": []
+  "commentaries": [
+    {
+      "id": 1782927568649,
+      "verse_id": 34,
+      "commentary_type": "आकांक्षा",
+      "author": "",
+      "content": "<div>रामः कारयामास</div><div>कः कारयामास ? रामः कारयामास ।</div><div>रामः किं कारयामास ?&nbsp;<span style=\"font-size: 1rem;\">रामः ध्वस्तकर्णा विघोणां च कारयामास ।</span></div><div><div style=\"\">रामः कां ध्वस्तकर्णी विघोणां च कारयामास ?&nbsp;<span style=\"font-size: 1rem;\">रामः राक्षांसी लङ्केशभगिनीं ध्वस्तंकर्णा विघोणां च कारयामास ।</span></div><div style=\"\">रामः पूर्वोक्तकार्यं केन कारयामास ?&nbsp;<span style=\"font-size: 1rem;\">रामः पूर्वाक्तकार्य लक्ष्मणेन कारयामास ।</span></div><div style=\"\">रामलक्ष्मणायोः किं सम्बन्धः अस्ति ?&nbsp;<span style=\"font-size: 1rem;\">लक्ष्मणः रामस्य अनुजः तस्मात् कारणात् सः अवरजसम्बन्धवान् अस्ति</span></div></div>"
+    }
+  ]
 }
