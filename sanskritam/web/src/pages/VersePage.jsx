@@ -225,45 +225,47 @@ function parseBulkText(raw) {
 
 // ── Bulk Import Modal ──────────────────────────────────────────────────────────
 function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
-    const { updateVerse, updateCommentary, createCommentary } = useDatabase();
+    const { bulkSaveVerse } = useDatabase();
     const [text, setText] = useState('');
     const [parsed, setParsed] = useState(null);
     const [saving, setSaving] = useState(false);
     const [savedOk, setSavedOk] = useState(false);
+    const [saveError, setSaveError] = useState('');
 
     const handleValidate = () => {
         setParsed(parseBulkText(text));
         setSavedOk(false);
+        setSaveError('');
     };
 
     const handleSave = async () => {
         if (!parsed || parsed.errors.length > 0) return;
         setSaving(true);
+        setSaveError('');
         try {
+            const changes = [];
             for (const sec of parsed.sections) {
                 const paneDef = MANIMANJARI_PANES.find(p => p.key === sec.key);
                 if (!paneDef) continue;
                 const content = sec.parsedData ? JSON.stringify(sec.parsedData) : sec.content;
                 if (paneDef.field) {
-                    await updateVerse(verse.id, { [paneDef.field]: content });
+                    changes.push({ kind: 'verseField', fieldName: paneDef.field, value: content });
                 } else {
                     const existing = commentaries.find(c =>
                         (c.commentary_type || '').indexOf(paneDef.match) !== -1
                     );
                     if (existing) {
-                        await updateCommentary(existing.id, { content });
+                        changes.push({ kind: 'updateCommentary', id: existing.id, content });
                     } else {
-                        await createCommentary({
-                            verse_id: verse.id,
-                            commentary_type: paneDef.title,
-                            author: '',
-                            content,
-                        });
+                        changes.push({ kind: 'createCommentary', commentary_type: paneDef.title, content });
                     }
                 }
             }
+            await bulkSaveVerse(verse.id, changes);
             setSavedOk(true);
-            onSaved();
+            onSaved(); // refresh parent data; modal stays open to show success
+        } catch (e) {
+            setSaveError(e.message || 'Save failed');
         } finally {
             setSaving(false);
         }
@@ -337,8 +339,15 @@ function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
                                 {saving ? 'Saving…' : `Save ${parsed.sections.length} section${parsed.sections.length !== 1 ? 's' : ''}`}
                             </button>
                         )}
-                        <button className="bulk-btn-secondary" onClick={onClose}>Cancel</button>
+                        {!savedOk && <button className="bulk-btn-secondary" onClick={onClose}>Cancel</button>}
                     </div>
+
+                    {saveError && (
+                        <div className="bulk-error-box" style={{ marginTop: '0.5rem' }}>
+                            <div className="bulk-error-heading">⚠ Save failed:</div>
+                            <div className="bulk-error-line">{saveError}</div>
+                        </div>
+                    )}
 
                     {parsed && (
                         <div className="bulk-results">
@@ -351,8 +360,9 @@ function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
                                 </div>
                             )}
                             {savedOk && (
-                                <div className="bulk-success">
-                                    ✓ {parsed.sections.length} section{parsed.sections.length !== 1 ? 's' : ''} saved to database successfully.
+                                <div className="bulk-success" style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
+                                    <span>✓ {parsed.sections.length} section{parsed.sections.length !== 1 ? 's' : ''} saved to GitHub successfully.</span>
+                                    <button className="bulk-btn-secondary" onClick={onClose}>Close</button>
                                 </div>
                             )}
                             {hasSections && (
@@ -1169,17 +1179,21 @@ export default function VersePage() {
 
     const goToPrevVerse = useCallback(() => {
         if (currentVerseIndex > 0) {
-            setCurrentVerseIndex(prev => prev - 1);
+            const newIdx = currentVerseIndex - 1;
+            setCurrentVerseIndex(newIdx);
+            navigate(`/chapter/${chapterId}/verse/${verses[newIdx].id}`);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
-    }, [currentVerseIndex]);
+    }, [currentVerseIndex, chapterId, verses, navigate]);
 
     const goToNextVerse = useCallback(() => {
         if (currentVerseIndex < verses.length - 1) {
-            setCurrentVerseIndex(prev => prev + 1);
+            const newIdx = currentVerseIndex + 1;
+            setCurrentVerseIndex(newIdx);
+            navigate(`/chapter/${chapterId}/verse/${verses[newIdx].id}`);
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
-    }, [currentVerseIndex, verses.length]);
+    }, [currentVerseIndex, verses, chapterId, navigate]);
 
     const scrollToTop = () => {
         window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -1482,7 +1496,7 @@ export default function VersePage() {
                     commentaries={commentaries}
                     onClose={() => setShowBulkImport(false)}
                     onSaved={async () => {
-                        setShowBulkImport(false);
+                        // Don't close — BulkImportModal shows success + Close button
                         const versesData = await getVersesByChapter(chapterId);
                         setVerses(versesData);
                         await refreshCommentaries();
@@ -1506,6 +1520,7 @@ export default function VersePage() {
                                         className={`verse-grid-btn ${idx === currentVerseIndex ? 'active' : ''}`}
                                         onClick={() => {
                                             setCurrentVerseIndex(idx);
+                                            navigate(`/chapter/${chapterId}/verse/${v.id}`);
                                             setSidebarOpen(false);
                                             window.scrollTo({ top: 0, behavior: 'smooth' });
                                         }}

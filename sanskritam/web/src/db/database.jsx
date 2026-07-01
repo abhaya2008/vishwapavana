@@ -226,6 +226,88 @@ async function sCreateCommentary(data) {
     return newC;
 }
 
+// Bulk-save all changes for a verse in ONE commentary commit + ONE verse-list commit.
+// changes: Array of { kind: 'verseField', fieldName, value }
+//                 | { kind: 'updateCommentary', id, content }
+//                 | { kind: 'createCommentary', commentary_type, content }
+async function sBulkSaveVerse(verseId, changes) {
+    const vid = +verseId;
+    const cfg = getGhConfig();
+    if (!cfg?.token) throw new Error('GitHub not configured. Please open ⚙ GitHub Settings.');
+
+    // Ensure commentary cache is warm (page has already loaded it, but guard anyway)
+    if (!_commentaryCache[vid]) await sGetCommentariesByVerse(vid);
+
+    // Resolve chapterId
+    let chapterId;
+    if (_commentaryCache[vid]) {
+        chapterId = _commentaryCache[vid].verse.chapter_id;
+    } else {
+        for (const [cid, vlist] of Object.entries(_verseListCache)) {
+            if (vlist.find(v => v.id === vid)) { chapterId = +cid; break; }
+        }
+    }
+
+    // Apply ALL changes in memory — no commits yet
+    let counter = 0;
+    for (const change of changes) {
+        if (change.kind === 'verseField') {
+            if (_commentaryCache[vid]) {
+                _commentaryCache[vid] = {
+                    ..._commentaryCache[vid],
+                    verse: { ..._commentaryCache[vid].verse, [change.fieldName]: change.value },
+                };
+            }
+            if (chapterId && _verseListCache[chapterId]) {
+                _verseListCache[chapterId] = _verseListCache[chapterId].map(v =>
+                    v.id === vid ? { ...v, [change.fieldName]: change.value } : v
+                );
+            }
+        } else if (change.kind === 'updateCommentary') {
+            if (_commentaryCache[vid]) {
+                _commentaryCache[vid] = {
+                    ..._commentaryCache[vid],
+                    commentaries: _commentaryCache[vid].commentaries.map(c =>
+                        c.id === change.id ? { ...c, content: change.content } : c
+                    ),
+                };
+            }
+        } else if (change.kind === 'createCommentary') {
+            const newId = Date.now() + counter++;
+            const newC = { id: newId, verse_id: vid, commentary_type: change.commentary_type, author: '', content: change.content };
+            if (_commentaryCache[vid]) {
+                _commentaryCache[vid] = {
+                    ..._commentaryCache[vid],
+                    commentaries: [...(_commentaryCache[vid].commentaries || []), newC],
+                };
+                _cid2vid[newId] = vid;
+            }
+        }
+    }
+
+    // Two commits total — regardless of how many sections were changed
+    await commitCommentary(vid);
+    if (chapterId) await commitVerseList(chapterId);
+}
+
+// Dev-mode fallback: sequential API calls (fast with local server)
+async function aApiBulkSave(verseId, changes) {
+    for (const change of changes) {
+        if (change.kind === 'verseField') {
+            await apiPatch(`/verses/${verseId}`, { [change.fieldName]: change.value });
+        } else if (change.kind === 'updateCommentary') {
+            await apiPatch(`/commentaries/${change.id}`, { content: change.content });
+        } else if (change.kind === 'createCommentary') {
+            await apiPost('/commentaries', {
+                verse_id: verseId,
+                commentary_type: change.commentary_type,
+                author: '',
+                content: change.content,
+            });
+        }
+    }
+}
+
 // ── Context ───────────────────────────────────────────────────────────────────
 
 const DatabaseContext = createContext(null);
@@ -247,13 +329,14 @@ export function DatabaseProvider({ children }) {
     const updateVerse          = useCallback((id, f) => IS_STATIC ? sUpdateVerse(id, f)       : apiPatch(`/verses/${id}`, f),              []);
     const updateCommentary     = useCallback((id, f) => IS_STATIC ? sUpdateCommentary(id, f)  : apiPatch(`/commentaries/${id}`, f),        []);
     const createCommentary     = useCallback((d    ) => IS_STATIC ? sCreateCommentary(d)      : apiPost('/commentaries', d),              []);
+    const bulkSaveVerse        = useCallback((id, changes) => IS_STATIC ? sBulkSaveVerse(id, changes) : aApiBulkSave(id, changes),        []);
 
     const value = {
         loading, error,
         getCategories, getCategory, getSubCategories, getTextsByCategory,
         getText, getChaptersByText, getChapter, getVersesByChapter,
         getCommentariesByVerse,
-        updateVerse, updateCommentary, createCommentary,
+        updateVerse, updateCommentary, createCommentary, bulkSaveVerse,
     };
 
     return <DatabaseContext.Provider value={value}>{children}</DatabaseContext.Provider>;
