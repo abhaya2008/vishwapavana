@@ -11,5 +11,13 @@
     "audio_url": null,
     "display_order": 31
   },
-  "commentaries": []
+  "commentaries": [
+    {
+      "id": 1782928041413,
+      "verse_id": 37,
+      "commentary_type": "आकांक्षा",
+      "author": "",
+      "content": "<div>रामः विरराज</div><div>कः विरराज ?&nbsp;<span style=\"font-size: 1rem;\">रामः विरराज ।</span></div><div>रामः केन प्रकारेणा विरराज ?&nbsp;<span style=\"font-size: 1rem;\">रामः अरातीन् निध्नन्विरराज ।</span></div><div>रामः कुत्र कुत्र कथं कथं विरराज ?&nbsp;<span style=\"font-size: 1rem;\">पुरस्तात् रामः परतः अपिरामः, दिक्षुरामः विदिक्षुरामः, इति अनन्तैः रूपैः विश्वरूपः रामः विरराज ।</span></div>"
+    }
+  ]
 }
