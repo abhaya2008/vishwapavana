@@ -148,14 +148,15 @@ function parseBulkText(raw) {
             }
         } else if (def.tableType === 'shabda_analysis') {
             // Six-column Sanskrit grammar table: पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्
-            // Also handles Markdown table format from Gemini
+            // Also handles Markdown table format from Gemini (including the LLM header row)
             const SHABDA_HEADERS = ['पदम्', 'शब्दः', 'अन्तः', 'लिङ्गम्', 'विभक्तिः', 'वचनम्'];
             const rows = content.split('\n')
                 .map(l => l.trim()).filter(Boolean)
-                .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim()) // strip leading/trailing |
-                .filter(l => !/^[-|\s]+$/.test(l)) // skip markdown separator rows
+                .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim())
+                .filter(l => !/^[-|\s]+$/.test(l)) // skip |---|---|...| separator lines
                 .filter(Boolean)
-                .map(l => l.split('|').map(c => c.trim()).filter(c => c)); // remove empty cols
+                .map(l => l.split('|').map(c => c.trim()).filter(c => c))
+                .filter(r => !(r.length === SHABDA_HEADERS.length && r.every((c, i) => c === SHABDA_HEADERS[i]))); // skip header row
             const badIdx = rows.findIndex(r => r.length !== 6);
             if (badIdx !== -1) {
                 sectionError = `## SHABDA line ${badIdx + 1}: expected exactly 6 columns (पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्), got ${rows[badIdx].length}.`;
@@ -169,7 +170,8 @@ function parseBulkText(raw) {
                 .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim())
                 .filter(l => !/^[-|\s]+$/.test(l))
                 .filter(Boolean)
-                .map(l => l.split('|').map(c => c.trim()).filter(c => c));
+                .map(l => l.split('|').map(c => c.trim()).filter(c => c))
+                .filter(r => !(r.length === SAMASA_HEADERS.length && r.every((c, i) => c === SAMASA_HEADERS[i])));
             const badIdx = rows.findIndex(r => r.length !== 3);
             if (badIdx !== -1) {
                 sectionError = `## SAMASA line ${badIdx + 1}: expected exactly 3 columns (समासपदम् | अवयवाः | समासप्रकारः), got ${rows[badIdx].length}.`;
@@ -183,7 +185,8 @@ function parseBulkText(raw) {
                 .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim())
                 .filter(l => !/^[-|\s]+$/.test(l))
                 .filter(Boolean)
-                .map(l => l.split('|').map(c => c.trim()).filter(c => c));
+                .map(l => l.split('|').map(c => c.trim()).filter(c => c))
+                .filter(r => !(r.length === SANDHI_HEADERS.length && r.every((c, i) => c === SANDHI_HEADERS[i])));
             const badIdx = rows.findIndex(r => r.length !== 3);
             if (badIdx !== -1) {
                 sectionError = `## SANDHI line ${badIdx + 1}: expected exactly 3 columns (सन्धिपदम् | शब्दौ | सन्धिप्रकारः), got ${rows[badIdx].length}.`;
