@@ -147,9 +147,15 @@ async function sGetVersesByChapter(chapterId) {
 async function sGetCommentariesByVerse(verseId) {
     const vid = +verseId;
     if (!_commentaryCache[vid]) {
-        const data = await staticGet(`commentary/${vid}.json`);
-        _commentaryCache[vid] = data;
-        for (const c of data.commentaries) _cid2vid[c.id] = vid;
+        try {
+            const data = await staticGet(`commentary/${vid}.json`);
+            _commentaryCache[vid] = data;
+            for (const c of data.commentaries) _cid2vid[c.id] = vid;
+        } catch (_) {
+            // Commentary file not yet created (new verse added before first edit) — start empty.
+            const verse = Object.values(_verseListCache).flat().find(v => v.id === vid) || { id: vid };
+            _commentaryCache[vid] = { verse, commentaries: [] };
+        }
     }
     return _commentaryCache[vid].commentaries;
 }
@@ -290,6 +296,49 @@ async function sBulkSaveVerse(verseId, changes) {
     if (chapterId) await commitVerseList(chapterId);
 }
 
+// Add verses to a chapter. Verse list is committed in one shot; commentary files are
+// created lazily the first time an editor saves content for each new verse.
+async function sAddVersesToChapter(chapterId, specs) {
+    const cid = +chapterId;
+    const cfg = getGhConfig();
+    if (!cfg?.token) throw new Error('GitHub not configured. Please open ⚙ GitHub Settings.');
+
+    if (!_verseListCache[cid]) await sGetVersesByChapter(cid);
+    const existing = _verseListCache[cid] || [];
+    const baseOrder = existing.length > 0 ? Math.max(...existing.map(v => v.display_order || 0)) : 0;
+
+    const newVerses = specs.map((spec, i) => ({
+        id: Date.now() + i,
+        chapter_id: cid,
+        verse_number: spec.verse_number,
+        content_sanskrit: spec.content_sanskrit,
+        padaccheda: '',
+        anvaya: '',
+        meaning_sanskrit: '',
+        meaning_english: '',
+        audio_url: null,
+        display_order: baseOrder + i + 1,
+    }));
+
+    _verseListCache[cid] = [...existing, ...newVerses];
+
+    // Pre-populate commentary cache so immediate navigation works without a 404
+    for (const verse of newVerses) {
+        _commentaryCache[verse.id] = { verse, commentaries: [] };
+    }
+
+    await commitVerseList(cid);
+    return newVerses;
+}
+
+async function aApiAddVersesToChapter(chapterId, specs) {
+    const results = [];
+    for (const spec of specs) {
+        results.push(await apiPost('/verses', { chapter_id: +chapterId, ...spec }));
+    }
+    return results;
+}
+
 // Dev-mode fallback: sequential API calls (fast with local server)
 async function aApiBulkSave(verseId, changes) {
     for (const change of changes) {
@@ -330,13 +379,14 @@ export function DatabaseProvider({ children }) {
     const updateCommentary     = useCallback((id, f) => IS_STATIC ? sUpdateCommentary(id, f)  : apiPatch(`/commentaries/${id}`, f),        []);
     const createCommentary     = useCallback((d    ) => IS_STATIC ? sCreateCommentary(d)      : apiPost('/commentaries', d),              []);
     const bulkSaveVerse        = useCallback((id, changes) => IS_STATIC ? sBulkSaveVerse(id, changes) : aApiBulkSave(id, changes),        []);
+    const addVersesToChapter   = useCallback((cid, specs) => IS_STATIC ? sAddVersesToChapter(cid, specs) : aApiAddVersesToChapter(cid, specs), []);
 
     const value = {
         loading, error,
         getCategories, getCategory, getSubCategories, getTextsByCategory,
         getText, getChaptersByText, getChapter, getVersesByChapter,
         getCommentariesByVerse,
-        updateVerse, updateCommentary, createCommentary, bulkSaveVerse,
+        updateVerse, updateCommentary, createCommentary, bulkSaveVerse, addVersesToChapter,
     };
 
     return <DatabaseContext.Provider value={value}>{children}</DatabaseContext.Provider>;
