@@ -38,7 +38,7 @@ export default function HomePage() {
                     ) : (
                         <>
                             <div className="home-logo-wrap">
-                                <img src="/images/logo.png" alt="स्वाध्यायः" className="home-logo" />
+                                <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="स्वाध्यायः" className="home-logo" />
                             </div>
                             <div className="cards-grid">
                                 {categories.map(category => (
