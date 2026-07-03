@@ -132,19 +132,22 @@ function parseBulkText(raw) {
         let sectionError = null;
 
         if (def.tableType === 'word_meanings') {
-            // Two-column pipe-separated table (Devanagari word | Kannada meaning)
-            // Also handles Markdown table format from Gemini: | word | meaning |
+            // 2-or-3-column pipe-separated table: पदम् | कन्नड-अर्थः | संस्कृत-अर्थः (3rd optional)
+            const WM_HEADERS = ['पदम्', 'अर्थः (कन्नड)', 'अर्थः (संस्कृत)'];
             const rows = content.split('\n')
                 .map(l => l.trim()).filter(Boolean)
-                .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim()) // strip leading/trailing |
-                .filter(l => !/^[-|\s]+$/.test(l)) // skip markdown separator rows (| --- | --- |)
+                .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim())
+                .filter(l => !/^[-|\s]+$/.test(l))
                 .filter(Boolean)
-                .map(l => l.split('|').map(c => c.trim()).filter(c => c)); // remove empty cols
-            const badIdx = rows.findIndex(r => r.length < 2);
+                .map(l => l.split('|').map(c => c.trim()))
+                .filter(r => !(r.length >= 2 && r.every((c, i) => c === (WM_HEADERS[i] || c))));
+            // Normalise to 3 columns (pad missing 3rd with empty string)
+            const normRows = rows.map(r => r.length === 2 ? [...r, ''] : r);
+            const badIdx = normRows.findIndex(r => r.length < 2);
             if (badIdx !== -1) {
                 sectionError = `## ${block.name} line ${badIdx + 1}: expected "word | meaning" (pipe-separated), got: "${rows[badIdx].join(' ')}"`;
             } else {
-                parsedData = { type: 'word_meanings', rows };
+                parsedData = { type: 'word_meanings', rows: normRows };
             }
         } else if (def.tableType === 'shabda_analysis') {
             // Six-column Sanskrit grammar table: पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्
@@ -469,7 +472,7 @@ function RichTextEditor({ initialValue, onChange, onInsertTable }) {
         } else if (type === 'sandhi') {
             onInsertTable({ type: 'sandhi', headers: ['सन्धिपदम्', 'शब्दौ', 'सन्धिप्रकारः'], rows: [['', '', ''], ['', '', '']] });
         } else {
-            onInsertTable({ type: 'word_meanings', rows: [['', ''], ['', '']] });
+            onInsertTable({ type: 'word_meanings', rows: [['', '', ''], ['', '', '']] });
         }
     };
 
@@ -487,6 +490,7 @@ function RichTextEditor({ initialValue, onChange, onInsertTable }) {
                 <button type="button" className="rte-btn rte-btn-align" onMouseDown={noBlur} onClick={() => exec('justifyLeft')} title="Align left">⊢</button>
                 <button type="button" className="rte-btn rte-btn-align" onMouseDown={noBlur} onClick={() => exec('justifyCenter')} title="Align center">≡</button>
                 <button type="button" className="rte-btn rte-btn-align" onMouseDown={noBlur} onClick={() => exec('justifyRight')} title="Align right">⊣</button>
+                <button type="button" className="rte-btn rte-btn-align" onMouseDown={noBlur} onClick={() => exec('justifyFull')} title="Justify">≣</button>
                 <span className="rte-sep" />
                 <span className="rte-table-wrap" style={{ position: 'relative' }}>
                     <button
@@ -513,6 +517,13 @@ function RichTextEditor({ initialValue, onChange, onInsertTable }) {
                 suppressContentEditableWarning
                 className="rte-content"
                 onInput={() => onChange(ref.current.innerHTML)}
+                onKeyDown={(e) => {
+                    if (e.key === 'Tab') {
+                        e.preventDefault();
+                        document.execCommand('insertText', false, '    ');
+                        onChange(ref.current.innerHTML);
+                    }
+                }}
             />
         </div>
     );
@@ -853,18 +864,38 @@ function CollapsiblePane({ id, title, isOpen, onToggle, hasData, rawText, onSave
     );
 }
 
+const HTML_TAG_RE = /<[a-zA-Z]/;
+
+function renderCell(text) {
+    if (text && HTML_TAG_RE.test(String(text))) {
+        return <span dangerouslySetInnerHTML={{ __html: text }} />;
+    }
+    return text || '';
+}
+
 function WordMeaningsTable({ rows }) {
+    const cellBorder = '1px solid var(--border-color)';
     return (
-        <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px', overflow: 'hidden' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.9rem' }}>
+        <div style={{ overflowX: 'auto', border: cellBorder, borderRadius: '6px', overflow: 'hidden' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
+                <thead>
+                    <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
+                        <th style={{ padding: '0.4rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-sanskrit)', textAlign: 'left', color: 'var(--color-maroon)', fontWeight: 700, width: '28%' }}>पदम्</th>
+                        <th style={{ padding: '0.4rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-sanskrit)', textAlign: 'left', color: 'var(--color-maroon)', fontWeight: 700, width: '36%' }}>अर्थः (कन्नड)</th>
+                        <th style={{ padding: '0.4rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-sanskrit)', textAlign: 'left', color: 'var(--color-maroon)', fontWeight: 700 }}>अर्थः (संस्कृत)</th>
+                    </tr>
+                </thead>
                 <tbody>
                     {rows.map((row, i) => (
                         <tr key={i} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
-                            <td style={{ padding: '0.45rem 0.9rem', fontWeight: 600, color: 'var(--ink-mid, #4A3728)', borderRight: '1px solid var(--border-color)', borderBottom: i < rows.length - 1 ? '1px solid var(--border-color)' : 'none', minWidth: '160px', width: '32%', fontFamily: 'var(--font-sanskrit)', whiteSpace: 'pre-wrap' }}>
-                                {row[0]}
+                            <td style={{ padding: '0.45rem 0.9rem', fontWeight: 600, color: 'var(--ink-mid, #4A3728)', border: cellBorder, fontFamily: 'var(--font-sanskrit)', whiteSpace: 'pre-wrap' }}>
+                                {renderCell(row[0])}
                             </td>
-                            <td style={{ padding: '0.45rem 0.9rem', borderBottom: i < rows.length - 1 ? '1px solid var(--border-color)' : 'none', fontFamily: "'Noto Sans Kannada', sans-serif", fontSize: '0.87rem', color: '#2A1E10' }}>
-                                {row[1]}
+                            <td style={{ padding: '0.45rem 0.9rem', border: cellBorder, fontFamily: "'Noto Sans Kannada', var(--font-sanskrit), sans-serif", color: '#2A1E10' }}>
+                                {renderCell(row[1])}
+                            </td>
+                            <td style={{ padding: '0.45rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-sanskrit)', color: '#2A1E10' }}>
+                                {renderCell(row[2])}
                             </td>
                         </tr>
                     ))}
@@ -877,15 +908,15 @@ function WordMeaningsTable({ rows }) {
 function GrammarTable({ rows }) {
     return (
         <div style={{ overflowX: 'auto' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.87rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
                 <tbody>
                     {rows.map((row, i) => (
                         <tr key={i} style={{ background: i % 2 === 0 ? '#F8F3EE' : '#fff' }}>
                             <td style={{ padding: '0.4rem 0.9rem', fontWeight: 600, color: 'var(--ink, #1E1510)', borderRight: '1px solid #E0D8CE', borderBottom: '1px solid #E0D8CE', minWidth: '120px', fontFamily: 'var(--font-sanskrit)' }}>
-                                {row[0]}
+                                {renderCell(row[0])}
                             </td>
                             <td style={{ padding: '0.4rem 0.9rem', borderBottom: '1px solid #E0D8CE', fontFamily: 'var(--font-sanskrit)', color: 'var(--color-subheading-hero)' }}>
-                                {row[1]}
+                                {renderCell(row[1])}
                             </td>
                         </tr>
                     ))}
@@ -898,7 +929,7 @@ function GrammarTable({ rows }) {
 function ShabdaTable({ headers, rows }) {
     return (
         <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px', overflow: 'hidden' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.87rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
                 <thead>
                     <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                         {(headers || []).map((h, i) => (
@@ -913,7 +944,7 @@ function ShabdaTable({ headers, rows }) {
                         <tr key={i} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
                             {row.map((cell, j) => (
                                 <td key={j} style={{ padding: '0.4rem 0.65rem', border: `1px solid var(--border-color)`, fontFamily: 'var(--font-sanskrit)', textAlign: 'left', color: j === 0 ? 'var(--color-maroon)' : '#2A1E10', fontWeight: j === 0 ? 600 : 400 }}>
-                                    {cell}
+                                    {renderCell(cell)}
                                 </td>
                             ))}
                         </tr>
@@ -932,23 +963,23 @@ function DhatuTables({ header, tables, dhatus }) {
             {groups.map((dhatu, gi) => (
                 <div key={gi} style={{ marginBottom: groups.length > 1 ? '1.8rem' : 0 }}>
                     {dhatu.header && (
-                        <div style={{ fontSize: '0.85rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
+                        <div style={{ fontSize: '1rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
                             {dhatu.header}
                         </div>
                     )}
                     {(dhatu.tables || []).map((t, ti) => (
                         <div key={ti} style={{ marginBottom: '1rem' }}>
-                            <div style={{ fontSize: '0.78rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
+                            <div style={{ fontSize: '0.92rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
                                 {t.lakara}
                             </div>
                             <div style={{ overflowX: 'auto' }}>
-                                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '0.82rem' }}>
+                                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1rem' }}>
                                     <thead>
                                         <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                                             <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>एकवचनं</th>
                                             <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>द्विवचनं</th>
                                             <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>बहुवचनं</th>
-                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.72rem' }}>पुरुषः</th>
+                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.88rem' }}>पुरुषः</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -956,7 +987,7 @@ function DhatuTables({ header, tables, dhatus }) {
                                             <tr key={ri} style={{ background: ri % 2 === 0 ? '#FAF5EF' : '#fff' }}>
                                                 {row.map((cell, ci) => (
                                                     <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.72rem' : undefined }}>
-                                                        {cell}
+                                                        {renderCell(cell)}
                                                     </td>
                                                 ))}
                                             </tr>
@@ -975,7 +1006,7 @@ function DhatuTables({ header, tables, dhatus }) {
 function HeaderedTable({ headers, rows }) {
     return (
         <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px', overflow: 'hidden' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '0.87rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
                 <thead>
                     <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                         {(headers || []).map((h, i) => (
@@ -990,7 +1021,7 @@ function HeaderedTable({ headers, rows }) {
                         <tr key={i} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
                             {row.map((cell, j) => (
                                 <td key={j} style={{ padding: '0.4rem 0.7rem', border: '1px solid var(--border-color)', fontFamily: 'var(--font-sanskrit)', textAlign: 'left', color: j === 0 ? 'var(--color-maroon)' : '#2A1E10', fontWeight: j === 0 ? 600 : 400 }}>
-                                    {cell}
+                                    {renderCell(cell)}
                                 </td>
                             ))}
                         </tr>
@@ -1000,8 +1031,6 @@ function HeaderedTable({ headers, rows }) {
         </div>
     );
 }
-
-const HTML_TAG_RE = /<[a-zA-Z]/;
 
 function CommentaryContent({ content }) {
     const parsed = parseCommentaryContent(content);
@@ -1018,6 +1047,35 @@ function CommentaryContent({ content }) {
     if (parsed.type === 'grammar') return <GrammarTable rows={parsed.rows} />;
     if (parsed.type === 'dhatu') return <DhatuTables header={parsed.header} tables={parsed.tables} dhatus={parsed.dhatus} />;
     return <div className="commentary-text">{content}</div>;
+}
+
+function CommentaryFilterBar({ panes, visiblePanes, onChange }) {
+    const allSelected = visiblePanes.size === panes.length;
+
+    const toggle = (key) => {
+        const next = new Set(visiblePanes);
+        if (next.has(key)) next.delete(key); else next.add(key);
+        onChange(next);
+    };
+
+    const toggleAll = () => {
+        onChange(allSelected ? new Set() : new Set(panes.map(p => p.key)));
+    };
+
+    return (
+        <div className="cf-bar">
+            <label className="cf-item cf-all">
+                <input type="checkbox" checked={allSelected} onChange={toggleAll} />
+                <span>All</span>
+            </label>
+            {panes.map(p => (
+                <label key={p.key} className="cf-item">
+                    <input type="checkbox" checked={visiblePanes.has(p.key)} onChange={() => toggle(p.key)} />
+                    <span>{p.title}</span>
+                </label>
+            ))}
+        </div>
+    );
 }
 
 export default function VersePage() {
@@ -1051,6 +1109,7 @@ export default function VersePage() {
     const [authModal, setAuthModal] = useState(null); // { onSuccess: fn } when open
     const [savedAt, setSavedAt] = useState(null);
     const verseCardRef = useRef(null);
+    const [visiblePanes, setVisiblePanes] = useState(() => new Set(MANIMANJARI_PANES.map(p => p.key)));
 
     const requireAuth = useCallback((onSuccess) => {
         if (isAuthed()) { onSuccess(); }
@@ -1286,17 +1345,18 @@ export default function VersePage() {
                         /* Standard collapsible panes + right index for every Manimanjari shloka */
                         <div className="mm-layout">
                             <div className="mm-panes">
-                                <div className="mm-bulk-bar">
-                                    <button className="mm-bulk-btn" onClick={() => requireAuth(() => setShowBulkImport(true))}>
-                                        📋 Bulk Import
-                                    </button>
-                                </div>
+                                <CommentaryFilterBar
+                                    panes={MANIMANJARI_PANES}
+                                    visiblePanes={visiblePanes}
+                                    onChange={setVisiblePanes}
+                                />
                                 {IS_STATIC && savedAt && (Date.now() - savedAt < 30000) && (
                                     <div style={{ margin: '0.4rem 0', padding: '0.5rem 0.8rem', background: '#F0FFF4', border: '1px solid #68D391', borderRadius: '6px', fontSize: '0.82rem', color: '#276749' }}>
                                         ✓ Saved to GitHub! Refresh the page to see latest data.
                                     </div>
                                 )}
                                 {MANIMANJARI_PANES.map(def => {
+                                    if (!visiblePanes.has(def.key)) return null;
                                     const data = resolvePaneData(def, currentVerse, commentaries);
                                     const rawText = data ? data.value : '';
                                     return (
@@ -1334,18 +1394,28 @@ export default function VersePage() {
                                     >{indexMinimized ? '»' : '«'}</button>
                                 </div>
                                 {!indexMinimized && (
+                                    <>
                                     <ul className="mm-index-list">
                                         {MANIMANJARI_PANES.map(def => (
                                             <li key={def.key} className="mm-index-item">
                                                 <button
-                                                    className={`mm-index-btn${activePane === def.key ? ' active' : ''}`}
-                                                    onClick={() => scrollToPane(def.key)}
+                                                    className={`mm-index-btn${activePane === def.key ? ' active' : ''}${!visiblePanes.has(def.key) ? ' mm-index-btn-hidden' : ''}`}
+                                                    onClick={() => {
+                                                        if (!visiblePanes.has(def.key)) {
+                                                            setVisiblePanes(prev => { const n = new Set(prev); n.add(def.key); return n; });
+                                                        }
+                                                        scrollToPane(def.key);
+                                                    }}
                                                 >
                                                     {def.title}
                                                 </button>
                                             </li>
                                         ))}
                                     </ul>
+                                    <button className="mm-bulk-btn mm-index-bulk-btn" onClick={() => requireAuth(() => setShowBulkImport(true))}>
+                                        📋 Bulk Import
+                                    </button>
+                                    </>
                                 )}
                             </nav>
                         </div>

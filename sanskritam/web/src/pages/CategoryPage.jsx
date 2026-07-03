@@ -52,21 +52,13 @@ export default function CategoryPage() {
                     ]} />
 
                     {/* Category Header */}
-                    <section className="hero" style={{ padding: 'var(--space-xl) 0' }}>
-                        <h1 className="hero-title">॥ {category.name_sanskrit} ॥</h1>
-                        {category.name_english && (
-                            <p className="hero-subtitle">{category.name_english}</p>
-                        )}
-                        {category.description && (
-                            <p className="mt-md" style={{ color: 'var(--color-text-light)' }}>
-                                {category.description}
-                            </p>
-                        )}
+                    <section className="page-title-section">
+                        <h1 className="page-title">॥ {category.name_sanskrit} ॥</h1>
                     </section>
 
-                    {/* Sub-categories - 2 column grid like /vyakaranam */}
+                    {/* Sub-categories */}
                     {subCategories.length > 0 && (
-                        <section className="mt-xl">
+                        <section className="mt-md">
                             <h2 className="sanskrit-title mb-lg text-center">उप-वर्गाः</h2>
                             <div className="subcategory-grid">
                                 {subCategories.map(subCat => (
@@ -78,7 +70,7 @@ export default function CategoryPage() {
 
                     {/* Texts in this category */}
                     {texts.length > 0 && (
-                        <section className="mt-xl">
+                        <section className="mt-md">
                             <h2 className="sanskrit-title mb-lg text-center">ग्रन्थाः</h2>
                             <div className="cards-grid">
                                 {texts.map(text => (
@@ -89,7 +81,7 @@ export default function CategoryPage() {
                     )}
 
                     {subCategories.length === 0 && texts.length === 0 && (
-                        <div className="text-center mt-xl">
+                        <div className="text-center mt-md">
                             <p className="sanskrit" style={{ color: 'var(--color-text-light)' }}>
                                 अत्र ग्रन्थाः उपलब्धाः नसन्ति।
                                 <br />

@@ -324,11 +324,10 @@ export default function TextPage() {
 
                     <section className="page-title-section">
                         <h1 className="page-title">॥ {text.name_sanskrit} ॥</h1>
-                        {text.name_english && <p className="page-description">{text.name_english}</p>}
                         {text.author && <p className="page-description mt-sm">रचयिता: {text.author}</p>}
                     </section>
 
-                    <section className="mt-xl">
+                    <section className="mt-md">
                         <div className="text-list">
                             {chapters.map((chapter, index) => {
                                 const isOpen = expandedChapter === chapter.id;
@@ -350,11 +349,6 @@ export default function TextPage() {
                                                 </span>
                                                 <span className="text-title">
                                                     {chapter.name_sanskrit}
-                                                    {chapter.name_english && (
-                                                        <span className="chapter-name-en">
-                                                            ({chapter.name_english})
-                                                        </span>
-                                                    )}
                                                 </span>
                                                 <span className="text-arrow chapter-chevron">
                                                     {isOpen ? '▲' : '▼'}
