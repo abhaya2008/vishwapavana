@@ -59,32 +59,41 @@ function AuthModal({ onSuccess, onClose }) {
 // `field` reads directly from the verse row; `match` finds a commentary whose
 // commentary_type contains the substring. Panes with no data render a placeholder.
 const MANIMANJARI_PANES = [
+    // Shown above the shloka (see DISPLAY_PANES below), kept here so Bulk Import can resolve its `field`.
+    { key: 'avatarnika', title: 'अवतरणिका', field: 'avatarnika' },
     { key: 'padaccheda', title: 'पदच्छेदः', field: 'padaccheda' },
     { key: 'anvaya', title: 'अन्वयः', field: 'anvaya' },
     { key: 'anvayartha', title: 'अन्वयार्थः', match: 'अन्वयार्थ' },
-    { key: 'sanskrit_vyakhyana', title: 'संस्कृत व्याख्यानम्', match: 'संस्कृत व्याख्यान' },
+    { key: 'sanskrit_vyakhyana', title: 'मणिमञ्जरी-प्रकाशः', match: ['संस्कृत व्याख्यान', 'मणिमञ्जरी-प्रकाशः'] },
     { key: 'gudaprakashika', title: 'श्रीमच्छलारि गूडप्रकाशिका', match: 'गूडप्रकाशिका' },
     { key: 'shabda', title: 'शब्दः', match: 'शब्द' },
     { key: 'samasa', title: 'समासः', match: 'समास' },
     { key: 'sandhi', title: 'सन्धिः', match: 'सन्धि' },
     { key: 'dhatu', title: 'धातुः', match: 'धातु' },
     { key: 'tatparya', title: 'तात्पर्यम्', match: 'तात्पर्य' },
+    { key: 'tatparya_kannada', title: 'ತಾತ್ಪರ್ಯ', match: 'ತಾತ್ಪರ್ಯ' },
     { key: 'vishesha', title: 'विशेषांशः', match: 'विशेष' },
     { key: 'akanksha', title: 'आकांक्षा', match: 'आकांक्षा' },
 ];
 
+// Panes rendered as collapsible sections below the shloka — excludes avatarnika,
+// which is displayed above the shloka instead (see the sticky verse card JSX).
+const DISPLAY_PANES = MANIMANJARI_PANES.filter(p => p.key !== 'avatarnika');
+
 // ── Bulk-import section map ────────────────────────────────────────────────────
 const BULK_SECTION_MAP = {
+    AVATARNIKA:          { key: 'avatarnika',           title: 'अवतरणिका',                     tableType: null },
     PADACCHEDA:          { key: 'padaccheda',          title: 'पदच्छेदः',                     tableType: null },
     ANVAYA:              { key: 'anvaya',               title: 'अन्वयः',                        tableType: null },
     ANVAYARTHA:          { key: 'anvayartha',           title: 'अन्वयार्थः',                    tableType: 'word_meanings' },
-    SANSKRIT_VYAKHYANA:  { key: 'sanskrit_vyakhyana',  title: 'संस्कृत व्याख्यानम्',           tableType: null },
+    SANSKRIT_VYAKHYANA:  { key: 'sanskrit_vyakhyana',  title: 'मणिमञ्जरी-प्रकाशः',           tableType: null },
     GUDAPRAKASHIKA:      { key: 'gudaprakashika',       title: 'श्रीमच्छलारि गूडप्रकाशिका',   tableType: null },
     SHABDA:              { key: 'shabda',               title: 'शब्दः',                         tableType: 'shabda_analysis' },
     SAMASA:              { key: 'samasa',               title: 'समासः',                         tableType: 'samasa' },
     SANDHI:              { key: 'sandhi',               title: 'सन्धिः',                        tableType: 'sandhi' },
     DHATU:               { key: 'dhatu',                title: 'धातुः',                         tableType: 'dhatu' },
     TATPARYA:            { key: 'tatparya',             title: 'तात्पर्यम्',                    tableType: null },
+    TATPARYA_KANNADA:    { key: 'tatparya_kannada',     title: 'ತಾತ್ಪರ್ಯ',                     tableType: null },
     VISHESHA:            { key: 'vishesha',             title: 'विशेषांशः',                     tableType: null },
     AKANKSHA:            { key: 'akanksha',             title: 'आकांक्षा',                      tableType: null },
 };
@@ -150,9 +159,9 @@ function parseBulkText(raw) {
                 parsedData = { type: 'word_meanings', rows: normRows };
             }
         } else if (def.tableType === 'shabda_analysis') {
-            // Six-column Sanskrit grammar table: पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्
+            // Six-column Sanskrit grammar table: पदम् | अन्तः | लिङ्गम् | शब्दः | विभक्तिः | वचनम्
             // Also handles Markdown table format from Gemini (including the LLM header row)
-            const SHABDA_HEADERS = ['पदम्', 'शब्दः', 'अन्तः', 'लिङ्गम्', 'विभक्तिः', 'वचनम्'];
+            const SHABDA_HEADERS = ['पदम्', 'अन्तः', 'लिङ्गम्', 'शब्दः', 'विभक्तिः', 'वचनम्'];
             const rows = content.split('\n')
                 .map(l => l.trim()).filter(Boolean)
                 .map(l => l.replace(/^\|/, '').replace(/\|$/, '').trim())
@@ -160,9 +169,9 @@ function parseBulkText(raw) {
                 .filter(Boolean)
                 .map(l => l.split('|').map(c => c.trim()).filter(c => c))
                 .filter(r => !(r.length === SHABDA_HEADERS.length && r.every((c, i) => c === SHABDA_HEADERS[i]))); // skip header row
-            const badIdx = rows.findIndex(r => r.length !== 6);
+            const badIdx = rows.findIndex(r => r.length !== SHABDA_HEADERS.length);
             if (badIdx !== -1) {
-                sectionError = `## SHABDA line ${badIdx + 1}: expected exactly 6 columns (पदम् | शब्दः | अन्तः | लिङ्गम् | विभक्तिः | वचनम्), got ${rows[badIdx].length}.`;
+                sectionError = `## SHABDA line ${badIdx + 1}: expected exactly ${SHABDA_HEADERS.length} columns (${SHABDA_HEADERS.join(' | ')}), got ${rows[badIdx].length}.`;
             } else {
                 parsedData = { type: 'shabda_analysis', headers: SHABDA_HEADERS, rows };
             }
@@ -198,6 +207,9 @@ function parseBulkText(raw) {
             }
         } else if (def.tableType === 'dhatu') {
             // Supports multiple dhatus: each HEADER: starts a new group; LAKARA: rows follow.
+            // NOTE: <text>            → रूपसिद्धि text shown above the featured lakara.
+            // LAKARA: <name> *        → trailing "*" marks this lakara as the one shown by
+            //                           default (all 10 remain viewable via the "view all" popup).
             const dlines = content.split('\n').map(l => l.trim()).filter(Boolean);
             const dhatus = [];
             let curDhatu = null;
@@ -206,11 +218,19 @@ function parseBulkText(raw) {
                 if (dl.startsWith('HEADER:')) {
                     if (curTable && curDhatu) { curDhatu.tables.push(curTable); curTable = null; }
                     if (curDhatu) dhatus.push(curDhatu);
-                    curDhatu = { header: dl.slice(7).trim(), tables: [] };
+                    curDhatu = { header: dl.slice(7).trim(), note: '', primaryLakara: 0, tables: [] };
+                } else if (dl.startsWith('NOTE:')) {
+                    if (!curDhatu) curDhatu = { header: '', note: '', primaryLakara: 0, tables: [] };
+                    curDhatu.note = dl.slice(5).trim();
                 } else if (dl.startsWith('LAKARA:')) {
-                    if (!curDhatu) curDhatu = { header: '', tables: [] };
+                    if (!curDhatu) curDhatu = { header: '', note: '', primaryLakara: 0, tables: [] };
                     if (curTable) curDhatu.tables.push(curTable);
-                    curTable = { lakara: dl.slice(7).trim(), rows: [] };
+                    let lakaraName = dl.slice(7).trim();
+                    if (lakaraName.endsWith('*')) {
+                        curDhatu.primaryLakara = curDhatu.tables.length;
+                        lakaraName = lakaraName.slice(0, -1).trim();
+                    }
+                    curTable = { lakara: lakaraName, rows: [] };
                 } else if (curTable) {
                     curTable.rows.push(dl.split('|').map(c => c.trim()));
                 }
@@ -263,11 +283,10 @@ function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
                 if (paneDef.field) {
                     changes.push({ kind: 'verseField', fieldName: paneDef.field, value: content });
                 } else {
-                    const existing = commentaries.find(c =>
-                        (c.commentary_type || '').indexOf(paneDef.match) !== -1
-                    );
+                    const existing = commentaries.find(c => matchesPaneType(c.commentary_type, paneDef.match));
                     if (existing) {
-                        changes.push({ kind: 'updateCommentary', id: existing.id, content });
+                        // Migrate legacy commentary_type values to the current title.
+                        changes.push({ kind: 'updateCommentary', id: existing.id, content, commentary_type: paneDef.title });
                     } else {
                         changes.push({ kind: 'createCommentary', commentary_type: paneDef.title, content });
                     }
@@ -339,12 +358,16 @@ function BulkImportModal({ verse, commentaries, onClose, onSaved }) {
                     <p className="bulk-hint">
                         Paste LLM-generated commentary below. Each section begins with <code>## SECTION_NAME</code> on its own line.
                         Use <strong>Validate &amp; Preview</strong> to check for errors before saving.
+                        <br />
+                        For <code>## DHATU</code>: an optional <code>NOTE: …</code> line adds a रूपसिद्धि note, and appending
+                        {' '}<code>*</code> to a <code>LAKARA:</code> name (e.g. <code>LAKARA: लङ् लकारः *</code>) features that
+                        lakara by default — all lakaras stay viewable via the "View all" popup.
                     </p>
                     <textarea
                         className="bulk-textarea"
                         value={text}
                         onChange={e => { setText(e.target.value); setParsed(null); setSavedOk(false); }}
-                        placeholder={"## PADACCHEDA\nवन्दे गोविन्दम् आनन्द-ज्ञान-देहं पतिं श्रियः\n\n## ANVAYA\nअहं आनन्दज्ञानदेहं श्रियः पतिं गोविन्दं वन्दे ।\n\n## SHABDA\nअहं | ನಾನು\nगोविन्दं | ನಾರಾಯಣನನ್ನು\n\n## DHATU\nHEADER: वदिँ अभिवादनस्तुत्योः\nLAKARA: लट् लकारः\nवन्दते | वन्देते | वन्दन्ते | प्र०\nवन्दसे | वन्देथे | वन्दध्वे | म०\nवन्दे | वन्दावहे | वन्दामहे | उ०"}
+                        placeholder={"## PADACCHEDA\nवन्दे गोविन्दम् आनन्द-ज्ञान-देहं पतिं श्रियः\n\n## ANVAYA\nअहं आनन्दज्ञानदेहं श्रियः पतिं गोविन्दं वन्दे ।\n\n## SHABDA\nअहं | — | — | अस्मद् | प्रथमा | एकवचन\nगोविन्दं | अकारान्त | पुँल्लिङ्ग | गोविन्द | द्वितीया | एकवचन\n\n## DHATU\nHEADER: वदिँ अभिवादनस्तुत्योः\nNOTE: वृतु वर्तने इति धातोः परस्मैपदिनः णिजन्तात् कर्तरि भूते लङि प्रथमपुरुषे बहुवचनान्तं अवर्तयन् इति रूपम् ॥\nLAKARA: लङ् लकारः *\nवन्दते | वन्देते | वन्दन्ते | प्र०\nवन्दसे | वन्देथे | वन्दध्वे | म०\nवन्दे | वन्दावहे | वन्दामहे | उ०"}
                         spellCheck={false}
                     />
                     <div className="bulk-actions">
@@ -422,12 +445,25 @@ function parseCommentaryContent(content) {
 
 // Resolve the data backing a Manimanjari pane: either a verse field value (string)
 // or a matched commentary row. Returns null when there is nothing to show.
+//
+// `match` can be a string or an array of strings — an array is needed when a pane's
+// display title was renamed after data existed under the old title: new saves use
+// the current title as commentary_type (see buildSaveHandler/BulkImportModal below),
+// so matching on only the old substring would never find newly-saved content again,
+// silently creating a duplicate "existing" every time (this exact bug happened to
+// sanskrit_vyakhyana/मणिमञ्जरी-प्रकाशः — see its `match` array below).
+function matchesPaneType(commentaryType, match) {
+    const type = commentaryType || '';
+    const candidates = Array.isArray(match) ? match : [match];
+    return candidates.some(m => type.indexOf(m) !== -1);
+}
+
 function resolvePaneData(def, verse, commentaries) {
     if (def.field) {
         const val = verse ? verse[def.field] : '';
         return val && String(val).trim() ? { kind: 'text', value: String(val) } : null;
     }
-    const comm = commentaries.find(c => (c.commentary_type || '').indexOf(def.match) !== -1);
+    const comm = commentaries.find(c => matchesPaneType(c.commentary_type, def.match));
     return comm && (comm.content || '').trim() ? { kind: 'commentary', value: comm.content } : null;
 }
 
@@ -465,7 +501,7 @@ function RichTextEditor({ initialValue, onChange, onInsertTable }) {
         if (type === 'dhatu') {
             onInsertTable({ type: 'dhatu', dhatus: [{ header: '', tables: [{ lakara: '', rows: [['', '', '', ''], ['', '', '', ''], ['', '', '', '']] }] }] });
         } else if (type === 'shabda_analysis') {
-            const SHABDA_HEADERS = ['पदम्', 'शब्दः', 'अन्तः', 'लिङ्गम्', 'विभक्तिः', 'वचनम्'];
+            const SHABDA_HEADERS = ['पदम्', 'अन्तः', 'लिङ्गम्', 'शब्दः', 'विभक्तिः', 'वचनम्'];
             onInsertTable({ type: 'shabda_analysis', headers: SHABDA_HEADERS, rows: [['', '', '', '', '', ''], ['', '', '', '', '', '']] });
         } else if (type === 'samasa') {
             onInsertTable({ type: 'samasa', headers: ['समासपदम्', 'अवयवाः', 'समासप्रकारः'], rows: [['', '', ''], ['', '', '']] });
@@ -616,18 +652,25 @@ function TableEditor({ tableData, onChange, onSwitchToText }) {
 
 // ── Dhatu Editor (nested sub-tables, supports multiple dhatu groups) ──────────
 function DhatuEditor({ tableData, onChange, onSwitchToText }) {
-    // Normalise: support old { header, tables } and new { dhatus: [{header, tables}] }
+    // Normalise: support old { header, tables } and new { dhatus: [{header, note, primaryLakara, tables}] }
     const initDhatus = tableData.dhatus
-        || [{ header: tableData.header || '', tables: (tableData.tables || [{ lakara: '', rows: [['', '', '', '']] }]).map(t => ({ ...t, rows: t.rows.map(r => [...r]) })) }];
+        || [{ header: tableData.header || '', note: tableData.note || '', primaryLakara: tableData.primaryLakara, tables: (tableData.tables || [{ lakara: '', rows: [['', '', '', '']] }]).map(t => ({ ...t, rows: t.rows.map(r => [...r]) })) }];
 
     const [dhatus, setDhatus] = useState(() =>
-        initDhatus.map(d => ({ header: d.header || '', tables: (d.tables || []).map(t => ({ ...t, rows: t.rows.map(r => [...r]) })) }))
+        initDhatus.map(d => ({
+            header: d.header || '',
+            note: d.note || '',
+            primaryLakara: Number.isInteger(d.primaryLakara) ? d.primaryLakara : 0,
+            tables: (d.tables || []).map(t => ({ ...t, rows: t.rows.map(r => [...r]) })),
+        }))
     );
     const focusedCellRef = useRef(null);
 
     const notify = (ds) => onChange({ ...tableData, type: 'dhatu', dhatus: ds });
 
     const updDhatuHeader = (di, v) => { const n = dhatus.map((d, i) => i === di ? { ...d, header: v } : d); setDhatus(n); notify(n); };
+    const updDhatuNote = (di, v) => { const n = dhatus.map((d, i) => i === di ? { ...d, note: v } : d); setDhatus(n); notify(n); };
+    const setPrimaryLakara = (di, ti) => { const n = dhatus.map((d, i) => i === di ? { ...d, primaryLakara: ti } : d); setDhatus(n); notify(n); };
     const updLakara = (di, ti, v) => { const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j === ti ? { ...t, lakara: v } : t) }); setDhatus(n); notify(n); };
     const updCell = (di, ti, ri, ci, v) => {
         const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.map((r, k) => k !== ri ? r : r.map((c, l) => l === ci ? v : c)) }) });
@@ -638,8 +681,17 @@ function DhatuEditor({ tableData, onChange, onSwitchToText }) {
     const delRow = (di, ti, ri) => { if (dhatus[di].tables[ti].rows.length <= 1) return; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.filter((_, k) => k !== ri) }) }); setDhatus(n); notify(n); };
     const delCol = (di, ti, ci) => { if ((dhatus[di].tables[ti].rows[0]?.length || 1) <= 1) return; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.map((t, j) => j !== ti ? t : { ...t, rows: t.rows.map(r => r.filter((_, k) => k !== ci)) }) }); setDhatus(n); notify(n); };
     const addSubTable = (di) => { const cols = dhatus[di].tables[0]?.rows[0]?.length || 4; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: [...d.tables, { lakara: '', rows: [new Array(cols).fill('')] }] }); setDhatus(n); notify(n); };
-    const delTable = (di, ti) => { if (dhatus[di].tables.length <= 1) return; const n = dhatus.map((d, i) => i !== di ? d : { ...d, tables: d.tables.filter((_, j) => j !== ti) }); setDhatus(n); notify(n); };
-    const addDhatu = () => { const n = [...dhatus, { header: '', tables: [{ lakara: '', rows: [['', '', '', ''], ['', '', '', ''], ['', '', '', '']] }] }]; setDhatus(n); notify(n); };
+    const delTable = (di, ti) => {
+        if (dhatus[di].tables.length <= 1) return;
+        const n = dhatus.map((d, i) => {
+            if (i !== di) return d;
+            const tables = d.tables.filter((_, j) => j !== ti);
+            const primaryLakara = d.primaryLakara >= tables.length ? 0 : (d.primaryLakara > ti ? d.primaryLakara - 1 : d.primaryLakara);
+            return { ...d, tables, primaryLakara };
+        });
+        setDhatus(n); notify(n);
+    };
+    const addDhatu = () => { const n = [...dhatus, { header: '', note: '', primaryLakara: 0, tables: [{ lakara: '', rows: [['', '', '', ''], ['', '', '', ''], ['', '', '', '']] }] }]; setDhatus(n); notify(n); };
     const delDhatu = (di) => { if (dhatus.length <= 1) return; const n = dhatus.filter((_, i) => i !== di); setDhatus(n); notify(n); };
 
     const applyBold = () => {
@@ -683,6 +735,16 @@ function DhatuEditor({ tableData, onChange, onSwitchToText }) {
                             )}
                         </div>
                     </div>
+                    <div style={{ marginBottom: '0.6rem' }}>
+                        <div className="tbl-field-label">रूपसिद्धिः / Note (shown above the featured lakara)</div>
+                        <textarea
+                            className="tbl-header-input"
+                            value={dhatu.note}
+                            onChange={e => updDhatuNote(di, e.target.value)}
+                            rows={2}
+                            placeholder="वृतु वर्तने इति धातोः परस्मैपदिनः णिजन्तात् कर्तरि भूते लङि प्रथमपुरुषे बहुवचनान्तं अवर्तयन् इति रूपम् ॥"
+                        />
+                    </div>
                     {dhatu.tables.map((t, ti) => (
                         <div key={ti} className="dhatu-subtable">
                             <div className="dhatu-subtable-head">
@@ -694,6 +756,12 @@ function DhatuEditor({ tableData, onChange, onSwitchToText }) {
                                     placeholder="Lakara (e.g., लट् लकारः)"
                                 />
                                 <div style={{ display: 'flex', gap: '0.3rem' }}>
+                                    <button
+                                        type="button"
+                                        className={`tbl-btn tbl-btn-sm${dhatu.primaryLakara === ti ? ' tbl-btn-primary-active' : ''}`}
+                                        onClick={() => setPrimaryLakara(di, ti)}
+                                        title="Feature this lakara by default (others viewable via 'View all' popup)"
+                                    >{dhatu.primaryLakara === ti ? '★ Featured' : '☆ Feature'}</button>
                                     <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addRow(di, ti)}>+ Row</button>
                                     <button type="button" className="tbl-btn tbl-btn-sm" onClick={() => addCol(di, ti)}>+ Col</button>
                                     {dhatu.tables.length > 1 && (
@@ -955,50 +1023,88 @@ function ShabdaTable({ headers, rows }) {
     );
 }
 
+function LakaraTable({ t }) {
+    return (
+        <div style={{ marginBottom: '1rem' }}>
+            <div style={{ fontSize: '0.92rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
+                {t.lakara}
+            </div>
+            <div style={{ overflowX: 'auto' }}>
+                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1rem' }}>
+                    <thead>
+                        <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
+                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>एकवचनं</th>
+                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>द्विवचनं</th>
+                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>बहुवचनं</th>
+                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.88rem' }}>पुरुषः</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {t.rows.map((row, ri) => (
+                            <tr key={ri} style={{ background: ri % 2 === 0 ? '#FAF5EF' : '#fff' }}>
+                                {row.map((cell, ci) => (
+                                    <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.72rem' : undefined }}>
+                                        {renderCell(cell)}
+                                    </td>
+                                ))}
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    );
+}
+
+// Popup showing all lakaras for one dhatu group — opened via the "View all" button.
+function DhatuAllLakarasModal({ dhatu, onClose }) {
+    return (
+        <div className="bulk-overlay" onClick={e => { if (e.target === e.currentTarget) onClose(); }}>
+            <div className="bulk-modal">
+                <div className="bulk-modal-hdr">
+                    <span className="bulk-modal-title">{dhatu.header || 'धातुरूपाणि'} — सर्वे लकाराः</span>
+                    <button className="bulk-close" onClick={onClose} aria-label="Close">✕</button>
+                </div>
+                <div className="bulk-modal-body">
+                    {(dhatu.tables || []).map((t, ti) => <LakaraTable key={ti} t={t} />)}
+                </div>
+            </div>
+        </div>
+    );
+}
+
 function DhatuTables({ header, tables, dhatus }) {
-    // Normalise: support old { header, tables } and new { dhatus: [{header, tables}] }
+    // Normalise: support old { header, tables } and new { dhatus: [{header, note, primaryLakara, tables}] }
     const groups = dhatus || [{ header: header || '', tables: tables || [] }];
+    const [openPopupIdx, setOpenPopupIdx] = useState(null);
     return (
         <div>
-            {groups.map((dhatu, gi) => (
-                <div key={gi} style={{ marginBottom: groups.length > 1 ? '1.8rem' : 0 }}>
-                    {dhatu.header && (
-                        <div style={{ fontSize: '1rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
-                            {dhatu.header}
-                        </div>
-                    )}
-                    {(dhatu.tables || []).map((t, ti) => (
-                        <div key={ti} style={{ marginBottom: '1rem' }}>
-                            <div style={{ fontSize: '0.92rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
-                                {t.lakara}
+            {groups.map((dhatu, gi) => {
+                const allTables = dhatu.tables || [];
+                const primaryIdx = Number.isInteger(dhatu.primaryLakara) && dhatu.primaryLakara < allTables.length ? dhatu.primaryLakara : 0;
+                const primaryTable = allTables[primaryIdx];
+                return (
+                    <div key={gi} style={{ marginBottom: groups.length > 1 ? '1.8rem' : 0 }}>
+                        {dhatu.header && (
+                            <div style={{ fontSize: '1rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
+                                {dhatu.header}
                             </div>
-                            <div style={{ overflowX: 'auto' }}>
-                                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1rem' }}>
-                                    <thead>
-                                        <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
-                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>एकवचनं</th>
-                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>द्विवचनं</th>
-                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>बहुवचनं</th>
-                                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.88rem' }}>पुरुषः</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        {t.rows.map((row, ri) => (
-                                            <tr key={ri} style={{ background: ri % 2 === 0 ? '#FAF5EF' : '#fff' }}>
-                                                {row.map((cell, ci) => (
-                                                    <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.72rem' : undefined }}>
-                                                        {renderCell(cell)}
-                                                    </td>
-                                                ))}
-                                            </tr>
-                                        ))}
-                                    </tbody>
-                                </table>
-                            </div>
-                        </div>
-                    ))}
-                </div>
-            ))}
+                        )}
+                        {dhatu.note && (
+                            <div className="dhatu-note">{dhatu.note}</div>
+                        )}
+                        {primaryTable && <LakaraTable t={primaryTable} />}
+                        {allTables.length > 1 && (
+                            <button type="button" className="dhatu-viewall-btn" onClick={() => setOpenPopupIdx(gi)}>
+                                सर्वे {allTables.length} लकाराः पश्यन्तु ▸
+                            </button>
+                        )}
+                        {openPopupIdx === gi && (
+                            <DhatuAllLakarasModal dhatu={dhatu} onClose={() => setOpenPopupIdx(null)} />
+                        )}
+                    </div>
+                );
+            })}
         </div>
     );
 }
@@ -1106,10 +1212,15 @@ export default function VersePage() {
     const [editingShloka, setEditingShloka] = useState(false);
     const [shlokaDraft, setShlokaDraft] = useState('');
     const [savingShloka, setSavingShloka] = useState(false);
+    const [editingAvatarnika, setEditingAvatarnika] = useState(false);
+    const [avatarnikaDraft, setAvatarnikaDraft] = useState('');
+    const [savingAvatarnika, setSavingAvatarnika] = useState(false);
     const [authModal, setAuthModal] = useState(null); // { onSuccess: fn } when open
     const [savedAt, setSavedAt] = useState(null);
     const verseCardRef = useRef(null);
-    const [visiblePanes, setVisiblePanes] = useState(() => new Set(MANIMANJARI_PANES.map(p => p.key)));
+    const avatarnikaRef = useRef(null);
+    const commentaryContainerRef = useRef(null);
+    const [visiblePanes, setVisiblePanes] = useState(() => new Set(DISPLAY_PANES.map(p => p.key)));
 
     const requireAuth = useCallback((onSuccess) => {
         if (isAuthed()) { onSuccess(); }
@@ -1181,9 +1292,14 @@ export default function VersePage() {
                     const updated = await updateVerse(verse.id, { [def.field]: newText });
                     setVerses(prev => prev.map((v, i) => i === currentVerseIndex ? { ...v, ...updated } : v));
                 } else {
-                    const existing = comms.find(c => (c.commentary_type || '').indexOf(def.match) !== -1);
+                    const existing = comms.find(c => matchesPaneType(c.commentary_type, def.match));
                     if (existing) {
-                        await updateCommentary(existing.id, { content: newText });
+                        // Migrate legacy commentary_type values (e.g. a pane whose display
+                        // title was renamed after the data was created) to the current title.
+                        // verse_id disambiguates commentary ids, which are only unique
+                        // within a single verse's data — the same id exists across many
+                        // verses, so omitting this would risk updating the wrong verse.
+                        await updateCommentary(existing.id, { content: newText, commentary_type: def.title, verse_id: verse.id });
                     } else {
                         await createCommentary({
                             verse_id: verse.id,
@@ -1203,7 +1319,7 @@ export default function VersePage() {
     }, [currentVerseIndex, updateVerse, updateCommentary, createCommentary, refreshCommentaries, handleGhError]);
 
     // Reset shloka edit mode on verse change
-    useEffect(() => { setEditingShloka(false); }, [currentVerseIndex]);
+    useEffect(() => { setEditingShloka(false); setEditingAvatarnika(false); }, [currentVerseIndex]);
 
     const saveShloka = async () => {
         if (!currentVerse) return;
@@ -1221,11 +1337,27 @@ export default function VersePage() {
         }
     };
 
+    const saveAvatarnika = async () => {
+        if (!currentVerse) return;
+        setSavingAvatarnika(true);
+        try {
+            const updated = await updateVerse(currentVerse.id, { avatarnika: avatarnikaDraft });
+            setVerses(prev => prev.map((v, i) => i === currentVerseIndex ? { ...v, ...updated } : v));
+            setEditingAvatarnika(false);
+            if (IS_STATIC) setSavedAt(Date.now());
+        } catch (e) {
+            handleGhError(e);
+            alert(e.message || 'Save failed');
+        } finally {
+            setSavingAvatarnika(false);
+        }
+    };
+
     // All Manimanjari panes open by default on every verse change.
     useEffect(() => {
         if (!isManimanjari) return;
         const next = {};
-        MANIMANJARI_PANES.forEach(def => { next[def.key] = true; });
+        DISPLAY_PANES.forEach(def => { next[def.key] = true; });
         setOpenPanes(next);
     }, [isManimanjari, currentVerseIndex]);
 
@@ -1260,9 +1392,200 @@ export default function VersePage() {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     };
 
-    // Keyboard navigation
+    // Export the current verse (avatarnika + shloka + commentary) as a Word-openable
+    // .doc file. Word's legacy HTML engine is unreliable with stylesheet class selectors,
+    // !important and universal selectors, so styling is applied as inline style attributes
+    // directly on the cloned elements — inline style="" is what Word's own HTML export uses
+    // and is by far the most consistently honored mechanism there.
+    const downloadAsWord = async () => {
+        if (!currentVerse) return;
+
+        // Pull the on-screen content (so grammar tables etc. match what's rendered) into a
+        // scratch clone first, purely to harvest each section's heading text + content HTML.
+        const scratch = document.createElement('div');
+        if (verseCardRef.current) scratch.appendChild(verseCardRef.current.cloneNode(true));
+        if (commentaryContainerRef.current) scratch.appendChild(commentaryContainerRef.current.cloneNode(true));
+
+        // .mm-pane-header is itself a <button> (for collapse/toggle + accessibility) — unwrap
+        // it into a plain <div> BEFORE stripping buttons below, or its heading text goes with it.
+        scratch.querySelectorAll('.mm-pane-header').forEach(btn => {
+            const div = document.createElement('div');
+            div.className = btn.className;
+            while (btn.firstChild) div.appendChild(btn.firstChild);
+            btn.replaceWith(div);
+        });
+        scratch.querySelectorAll(
+            'button, input, textarea, .mm-edit-btn, .cf-bar, .mm-index, .mm-bulk-btn, .bulk-overlay, .auth-overlay, .mm-pane-chevron, .verse-badge-sticky'
+        ).forEach(el => el.remove());
+
+        // Build one continuous table: an orange heading row + a white content row per
+        // section (अवतरणिका, the shloka itself, then every commentary pane in page order)
+        // — a single unbroken bordered grid, not separate floating boxes.
+        const sections = [];
+        if (currentVerse.avatarnika) {
+            sections.push({ heading: 'अवतरणिका', text: currentVerse.avatarnika });
+        }
+        const shlokaTextEl = scratch.querySelector('.verse-text-sticky');
+        const mulamLabel = [chapter?.text_name, 'मूलम्'].filter(Boolean).join('-')
+            + (currentVerse.verse_number ? ` ${currentVerse.verse_number}` : '');
+        sections.push({ heading: mulamLabel || 'मूलम्', html: shlokaTextEl ? shlokaTextEl.innerHTML : '' });
+        scratch.querySelectorAll('.mm-pane, .commentary-block').forEach(pane => {
+            const headerEl = pane.querySelector('.mm-pane-header, .commentary-block-header');
+            const contentEl = pane.querySelector('.mm-pane-content, .commentary-block-content');
+            if (!headerEl) return;
+            sections.push({
+                heading: headerEl.textContent.replace(/॥/g, '').trim(),
+                html: contentEl ? contentEl.innerHTML : '',
+            });
+        });
+
+        // No per-cell borders — Word's HTML→doc importer renders each cell's own border
+        // independently even with border-collapse:collapse, which is what produced the
+        // hairline white gap slicing through the orange bar. A single border on the outer
+        // <table> plus solid background colours does the visual separation instead.
+        const table = document.createElement('table');
+        sections.forEach(sec => {
+            const headCell = table.insertRow().insertCell();
+            headCell.textContent = sec.heading;
+            Object.assign(headCell.style, {
+                background: '#F8BF59', color: '#702d2d', fontWeight: '600',
+                textAlign: 'center', padding: '10px 14px', border: 'none',
+            });
+
+            const bodyCell = table.insertRow().insertCell();
+            if (sec.html !== undefined) bodyCell.innerHTML = sec.html || '&nbsp;';
+            else bodyCell.textContent = sec.text || '';
+            Object.assign(bodyCell.style, {
+                background: '#ffffff', color: '#1a1208', lineHeight: '1.9',
+                padding: '14px 16px', border: 'none',
+            });
+        });
+        // cellspacing/cellpadding attributes (not just CSS) are required — Word's HTML→doc
+        // importer often ignores CSS spacing/border properties on their own. mso-border-*
+        // (set via setProperty since it's a non-standard property camelCase assignment
+        // silently ignores) explicitly tells Word not to draw its own default gridlines
+        // between rows.
+        Object.assign(table.style, { width: '100%', borderCollapse: 'collapse', borderSpacing: '0' });
+        table.style.setProperty('mso-border-insideh', 'none');
+        table.style.setProperty('mso-border-insidev', 'none');
+        table.setAttribute('width', '100%');
+        table.setAttribute('cellspacing', '0');
+        table.setAttribute('cellpadding', '0');
+        table.setAttribute('border', '0');
+
+        // Both the sections-table's own border and a wrapping <div>'s border were dropped
+        // or rendered lopsided by Word — its collapsed-border handling is unreliable for
+        // anything but the simplest table shape. So: nest the sections table inside a
+        // single-cell (1 row × 1 col) outer table instead. Word's legacy border/bordercolor
+        // attributes are far more dependable on a trivial 1×1 table than on a multi-row one.
+        const outerTable = document.createElement('table');
+        const outerCell = outerTable.insertRow().insertCell();
+        outerCell.style.border = 'none';
+        outerCell.style.padding = '0';
+        outerCell.appendChild(table);
+        Object.assign(outerTable.style, { width: '100%', borderCollapse: 'collapse', borderSpacing: '0' });
+        outerTable.setAttribute('width', '100%');
+        outerTable.setAttribute('cellspacing', '0');
+        outerTable.setAttribute('cellpadding', '0');
+        outerTable.setAttribute('border', '2');
+        outerTable.setAttribute('bordercolor', '#d9bb94');
+
+        const wrapper = document.createElement('div');
+        wrapper.appendChild(outerTable);
+
+        // Force every NESTED table (the grammar/dhatu tables inside a content cell) to stay
+        // within the page. Word's HTML→doc importer mostly ignores CSS table-layout/width
+        // alone — it needs old-school <col width="%"> hints (plus the width HTML attribute)
+        // to actually respect column widths; without that it auto-sizes to fit content and
+        // bleeds past the margin. Scoped to nested tables only — the outer table above
+        // already has its own explicit orange/white cell styling that this must not touch.
+        const nestedTables = Array.from(table.querySelectorAll('table'));
+        nestedTables.forEach(t => {
+            const headRow = t.querySelector('tr');
+            if (headRow) {
+                const cells = Array.from(headRow.children);
+                const explicitWidths = cells.map(c => c.style.width);
+                const widths = explicitWidths.every(w => w && w.trim())
+                    ? explicitWidths
+                    : cells.map(() => `${(100 / cells.length).toFixed(2)}%`);
+                t.querySelectorAll('colgroup').forEach(cg => cg.remove());
+                const colgroup = document.createElement('colgroup');
+                widths.forEach(w => {
+                    const col = document.createElement('col');
+                    col.setAttribute('width', w);
+                    colgroup.appendChild(col);
+                });
+                t.insertBefore(colgroup, t.firstChild);
+            }
+            t.setAttribute('width', '100%');
+            t.setAttribute('cellspacing', '0');
+            t.style.tableLayout = 'fixed';
+            t.style.width = '100%';
+            t.style.maxWidth = '100%';
+            t.style.borderCollapse = 'collapse';
+        });
+        nestedTables.forEach(t => {
+            t.querySelectorAll('td, th').forEach(c => {
+                c.removeAttribute('width');
+                c.style.width = '';
+                c.style.maxWidth = '0'; // combined with table-layout:fixed, forces the cell to respect its column's share rather than growing to fit content
+                c.style.whiteSpace = 'normal';
+                // Long compound Sanskrit words have no spaces, so overflow-wrap (which only
+                // breaks when there's no other option) can still fail to find a break point
+                // Word recognizes — break-all/anywhere force a break regardless of script.
+                c.style.wordBreak = 'break-all';
+                c.style.overflowWrap = 'anywhere';
+                c.style.overflow = 'hidden'; // hard safety net: never let one cell push the table wider
+                c.style.border = '1px solid #ccc';
+                c.style.padding = '6px 10px';
+            });
+        });
+
+        let fontFaceCss = '';
+        try {
+            const res = await fetch('/fonts/AdishilaN.woff2');
+            const buf = await res.arrayBuffer();
+            let binary = '';
+            new Uint8Array(buf).forEach(b => { binary += String.fromCharCode(b); });
+            fontFaceCss = `@font-face { font-family: 'Adishila'; src: url(data:font/woff2;base64,${btoa(binary)}) format('woff2'); }`;
+        } catch {
+            fontFaceCss = '';
+        }
+
+        const html = `<!DOCTYPE html>
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta charset="UTF-8" />
+<title>${currentVerse.verse_number || ''}</title>
+<style>
+  @page { size: 21cm 29.7cm; margin: 2cm; }
+  ${fontFaceCss}
+  body { background: #ffffff; color: #1a1208; font-family: 'Adishila', 'Noto Sans Devanagari', 'Tiro Devanagari Sanskrit', serif; font-size: 14pt; line-height: 1.7; }
+</style>
+</head>
+<body>
+${wrapper.innerHTML}
+</body>
+</html>`;
+
+        const blob = new Blob(['﻿', html], { type: 'application/msword' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `verse-${currentVerse.verse_number || currentVerse.id}.doc`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+    };
+
+    // Keyboard navigation — ignored while typing (textarea/input/contentEditable),
+    // so moving the cursor with arrow keys while editing doesn't jump verses.
     useEffect(() => {
         const handleKeyDown = (e) => {
+            const tag = e.target.tagName;
+            const isEditing = tag === 'INPUT' || tag === 'TEXTAREA' || e.target.isContentEditable;
+            if (isEditing) return;
             if (e.key === 'ArrowLeft') goToPrevVerse();
             if (e.key === 'ArrowRight') goToNextVerse();
         };
@@ -1292,6 +1615,44 @@ export default function VersePage() {
             <Header />
 
             <main className="verse-main-content" id="mainsection">
+                {/* Avatarnika (introduction shown before the shloka) - scrolls normally, not sticky */}
+                {currentVerse && (
+                    <div className="avatarnika-wrapper" ref={avatarnikaRef}>
+                        {editingAvatarnika ? (
+                            <div className="shloka-edit-wrap avatarnika-edit-wrap">
+                                <textarea
+                                    className="shloka-edit-textarea"
+                                    value={avatarnikaDraft}
+                                    onChange={e => setAvatarnikaDraft(e.target.value)}
+                                    rows={3}
+                                    placeholder="अवतरणिका…"
+                                />
+                                <div className="shloka-edit-actions">
+                                    <button className="mm-editor-save" onClick={saveAvatarnika} disabled={savingAvatarnika}>
+                                        {savingAvatarnika ? 'Saving…' : 'Save'}
+                                    </button>
+                                    <button className="mm-editor-cancel" onClick={() => setEditingAvatarnika(false)}>Cancel</button>
+                                </div>
+                            </div>
+                        ) : currentVerse.avatarnika ? (
+                            <div className="avatarnika-block">
+                                <span className="avatarnika-label">अवतरणिका —</span> {currentVerse.avatarnika}
+                                <button
+                                    className="shloka-edit-btn"
+                                    title="Edit अवतरणिका"
+                                    onClick={() => requireAuth(() => { setAvatarnikaDraft(currentVerse.avatarnika || ''); setEditingAvatarnika(true); })}
+                                >✎</button>
+                            </div>
+                        ) : (
+                            <button
+                                className="avatarnika-add-btn"
+                                title="Add अवतरणिका"
+                                onClick={() => requireAuth(() => { setAvatarnikaDraft(''); setEditingAvatarnika(true); })}
+                            >+ अवतरणिका</button>
+                        )}
+                    </div>
+                )}
+
                 {/* Sticky Verse Card - stays at top on scroll */}
                 <div className="sticky-verse-container" ref={verseCardRef}>
                     {currentVerse && (
@@ -1340,13 +1701,13 @@ export default function VersePage() {
                 </div>
 
                 {/* Commentary Section */}
-                <div className="commentary-container">
+                <div className="commentary-container" ref={commentaryContainerRef}>
                     {isManimanjari ? (
                         /* Standard collapsible panes + right index for every Manimanjari shloka */
                         <div className="mm-layout">
                             <div className="mm-panes">
                                 <CommentaryFilterBar
-                                    panes={MANIMANJARI_PANES}
+                                    panes={DISPLAY_PANES}
                                     visiblePanes={visiblePanes}
                                     onChange={setVisiblePanes}
                                 />
@@ -1355,7 +1716,7 @@ export default function VersePage() {
                                         ✓ Saved to GitHub! Refresh the page to see latest data.
                                     </div>
                                 )}
-                                {MANIMANJARI_PANES.map(def => {
+                                {DISPLAY_PANES.map(def => {
                                     if (!visiblePanes.has(def.key)) return null;
                                     const data = resolvePaneData(def, currentVerse, commentaries);
                                     const rawText = data ? data.value : '';
@@ -1396,7 +1757,7 @@ export default function VersePage() {
                                 {!indexMinimized && (
                                     <>
                                     <ul className="mm-index-list">
-                                        {MANIMANJARI_PANES.map(def => (
+                                        {DISPLAY_PANES.map(def => (
                                             <li key={def.key} className="mm-index-item">
                                                 <button
                                                     className={`mm-index-btn${activePane === def.key ? ' active' : ''}${!visiblePanes.has(def.key) ? ' mm-index-btn-hidden' : ''}`}
@@ -1546,6 +1907,13 @@ export default function VersePage() {
                     disabled={currentVerseIndex >= verses.length - 1}
                 >
                     ›
+                </button>
+                <button
+                    className="bottom-nav-btn"
+                    onClick={downloadAsWord}
+                    title="Download as Word document"
+                >
+                    ⬇
                 </button>
                 <button
                     className="bottom-nav-btn"

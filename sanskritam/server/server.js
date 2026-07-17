@@ -39,12 +39,49 @@ function writeCommentaryFile(verseId, data) {
     writeJson(path.join(DATA_DIR, 'commentary', `${verseId}.json`), data);
 }
 
+// A verse added via "Add Verses" only gets written into its chapter's verses/{id}.json
+// list — its commentary/{id}.json (which holds the canonical `verse` object) is meant
+// to be created lazily on first save. Find its row in the verses lists so callers can
+// seed that first commentary file correctly instead of 404ing.
+function findVerseRow(verseId) {
+    const dir = path.join(DATA_DIR, 'verses');
+    for (const fname of fs.readdirSync(dir)) {
+        if (!fname.endsWith('.json')) continue;
+        const verses = readJson(path.join(dir, fname));
+        const v = verses.find(v => v.id === verseId);
+        if (v) return v;
+    }
+    return null;
+}
+
+// Like readCommentaryFile, but lazily seeds `verse` from the verses-list data when the
+// commentary file doesn't exist yet — mirrors the client's static-mode fallback in
+// sGetCommentariesByVerse. Without this, the first save for a brand-new verse 404s.
+function readOrInitCommentaryFile(verseId) {
+    const data = readCommentaryFile(verseId);
+    if (data.verse) return data;
+    const verse = findVerseRow(verseId);
+    return verse ? { verse, commentaries: data.commentaries } : data;
+}
+
 function nextId(items) {
     return items.length === 0 ? 1 : Math.max(...items.map(i => i.id)) + 1;
 }
 
-// Find the commentary file that contains a commentary with given id.
-// Scans all commentary/{n}.json files — fine for our small dataset.
+// Commentary ids are only unique WITHIN a single verse's file (each file's id
+// counter restarts at 1 via nextId()), so the SAME id exists across many verses.
+// Always look up by verse_id when it's known — scanning all files for a bare id
+// silently matches the wrong verse's commentary and corrupts it.
+function findCommentaryInVerse(verseId, cid) {
+    const data = readCommentaryFile(verseId);
+    const c = data.commentaries.find(c => c.id === cid);
+    if (!c) return null;
+    return { data, c, verseId: +verseId };
+}
+
+// Legacy fallback ONLY for callers that don't pass verse_id — scans all
+// commentary/{n}.json files and returns the FIRST match, which is unsafe if the
+// id collides across verses (it will). Prefer findCommentaryInVerse.
 function findCommentaryById(cid) {
     const dir = path.join(DATA_DIR, 'commentary');
     for (const fname of fs.readdirSync(dir)) {
@@ -113,18 +150,18 @@ app.get('/api/chapters/:id/verses', (req, res) => {
 });
 
 app.get('/api/verses/:id', (req, res) => {
-    const { verse } = readCommentaryFile(req.params.id);
+    const { verse } = readOrInitCommentaryFile(+req.params.id);
     if (!verse) return res.status(404).json({ error: 'Not found' });
     res.json(verse);
 });
 
 app.patch('/api/verses/:id', (req, res) => {
-    const allowed = ['content_sanskrit', 'padaccheda', 'anvaya', 'meaning_sanskrit', 'meaning_english'];
+    const allowed = ['content_sanskrit', 'avatarnika', 'padaccheda', 'anvaya', 'meaning_sanskrit', 'meaning_english'];
     const updates = Object.fromEntries(Object.entries(req.body).filter(([k]) => allowed.includes(k)));
     if (!Object.keys(updates).length) return res.status(400).json({ error: 'No valid fields' });
 
     const vid = +req.params.id;
-    const data = readCommentaryFile(vid);
+    const data = readOrInitCommentaryFile(vid);
     if (!data.verse) return res.status(404).json({ error: 'Not found' });
 
     data.verse = { ...data.verse, ...updates };
@@ -139,7 +176,7 @@ app.patch('/api/verses/:id', (req, res) => {
 // ── Commentaries ──────────────────────────────────────────────────────────────
 
 app.get('/api/verses/:id/commentaries', (req, res) => {
-    const { commentaries } = readCommentaryFile(req.params.id);
+    const { commentaries } = readOrInitCommentaryFile(+req.params.id);
     res.json(commentaries);
 });
 
@@ -149,7 +186,7 @@ app.post('/api/commentaries', (req, res) => {
         return res.status(400).json({ error: 'verse_id, commentary_type and content are required' });
     }
     const vid = +verse_id;
-    const data = readCommentaryFile(vid);
+    const data = readOrInitCommentaryFile(vid);
     const newId = nextId(data.commentaries);
     const newC = { id: newId, verse_id: vid, commentary_type, author: author || '', content };
     data.commentaries.push(newC);
@@ -158,15 +195,16 @@ app.post('/api/commentaries', (req, res) => {
 });
 
 app.patch('/api/commentaries/:id', (req, res) => {
-    const { content, author } = req.body;
+    const { content, author, commentary_type, verse_id } = req.body;
     if (!content) return res.status(400).json({ error: 'content is required' });
 
     const cid = +req.params.id;
-    const found = findCommentaryById(cid);
+    const found = verse_id != null ? findCommentaryInVerse(+verse_id, cid) : findCommentaryById(cid);
     if (!found) return res.status(404).json({ error: 'Commentary not found' });
 
     found.c.content = content;
     if (author !== undefined) found.c.author = author;
+    if (commentary_type !== undefined) found.c.commentary_type = commentary_type;
     found.data.commentaries = found.data.commentaries.map(c => c.id === cid ? found.c : c);
     writeCommentaryFile(found.verseId, found.data);
 

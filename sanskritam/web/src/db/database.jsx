@@ -201,13 +201,17 @@ async function sUpdateVerse(verseId, fields) {
 }
 
 async function sUpdateCommentary(id, fields) {
-    const vid = _cid2vid[id];
+    // Commentary ids collide across verses (each verse's id sequence restarts at 1),
+    // so _cid2vid[id] can point at the wrong verse if two loaded verses share an id —
+    // prefer an explicit verse_id from the caller when given.
+    const { verse_id, ...rest } = fields;
+    const vid = verse_id != null ? +verse_id : _cid2vid[id];
     if (!vid) throw new Error(`Commentary ${id} not in cache — open the verse page first.`);
 
     _commentaryCache[vid] = {
         ..._commentaryCache[vid],
         commentaries: _commentaryCache[vid].commentaries.map(c =>
-            c.id === id ? { ...c, ...fields } : c
+            c.id === id ? { ...c, ...rest } : c
         ),
     };
     await commitCommentary(vid);
@@ -274,7 +278,9 @@ async function sBulkSaveVerse(verseId, changes) {
                 _commentaryCache[vid] = {
                     ..._commentaryCache[vid],
                     commentaries: _commentaryCache[vid].commentaries.map(c =>
-                        c.id === change.id ? { ...c, content: change.content } : c
+                        c.id === change.id
+                            ? { ...c, content: change.content, ...(change.commentary_type ? { commentary_type: change.commentary_type } : {}) }
+                            : c
                     ),
                 };
             }
@@ -345,7 +351,12 @@ async function aApiBulkSave(verseId, changes) {
         if (change.kind === 'verseField') {
             await apiPatch(`/verses/${verseId}`, { [change.fieldName]: change.value });
         } else if (change.kind === 'updateCommentary') {
-            await apiPatch(`/commentaries/${change.id}`, { content: change.content });
+            // verse_id disambiguates commentary ids, which collide across verses.
+            await apiPatch(`/commentaries/${change.id}`, {
+                content: change.content,
+                verse_id: verseId,
+                ...(change.commentary_type ? { commentary_type: change.commentary_type } : {}),
+            });
         } else if (change.kind === 'createCommentary') {
             await apiPost('/commentaries', {
                 verse_id: verseId,
