@@ -144,6 +144,21 @@ async function sGetVersesByChapter(chapterId) {
     }
     return _verseListCache[cid];
 }
+// One bundled fetch of { verseId: commentaries[] } for a whole chapter — used by the
+// Mahabharata continuous-reading page instead of one fetch per verse (most verses
+// have no commentary at all, so per-verse fetching would be hundreds of 404s/chapter).
+let _chapterCommentaryCache = {};
+async function sGetChapterCommentary(chapterId) {
+    const cid = +chapterId;
+    if (!(cid in _chapterCommentaryCache)) {
+        try {
+            _chapterCommentaryCache[cid] = await staticGet(`mb-commentary/${cid}.json`);
+        } catch (_) {
+            _chapterCommentaryCache[cid] = {};
+        }
+    }
+    return _chapterCommentaryCache[cid];
+}
 async function sGetCommentariesByVerse(verseId) {
     const vid = +verseId;
     if (!_commentaryCache[vid]) {
@@ -385,6 +400,9 @@ export function DatabaseProvider({ children }) {
     const getChapter           = useCallback((id   ) => IS_STATIC ? sGetChapter(id)           : apiFetch(`/chapters/${id}`),               []);
     const getVersesByChapter   = useCallback((id   ) => IS_STATIC ? sGetVersesByChapter(id)   : apiFetch(`/chapters/${id}/verses`),        []);
     const getCommentariesByVerse = useCallback((id ) => IS_STATIC ? sGetCommentariesByVerse(id): apiFetch(`/verses/${id}/commentaries`),   []);
+    // Mahabharata-only bundled commentary; this data lives only in the static JSON export,
+    // not in the dev-mode SQLite/API schema, so it's always fetched the "static" way.
+    const getChapterCommentary  = useCallback((id   ) => sGetChapterCommentary(id),                                                        []);
 
     const updateVerse          = useCallback((id, f) => IS_STATIC ? sUpdateVerse(id, f)       : apiPatch(`/verses/${id}`, f),              []);
     const updateCommentary     = useCallback((id, f) => IS_STATIC ? sUpdateCommentary(id, f)  : apiPatch(`/commentaries/${id}`, f),        []);
@@ -396,7 +414,7 @@ export function DatabaseProvider({ children }) {
         loading, error,
         getCategories, getCategory, getSubCategories, getTextsByCategory,
         getText, getChaptersByText, getChapter, getVersesByChapter,
-        getCommentariesByVerse,
+        getCommentariesByVerse, getChapterCommentary,
         updateVerse, updateCommentary, createCommentary, bulkSaveVerse, addVersesToChapter,
     };
 

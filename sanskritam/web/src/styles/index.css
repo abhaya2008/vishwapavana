@@ -3,6 +3,9 @@
    Matching sanskritam.world exact design
    =================================== */
 
+/* @import must precede all other rules to be honored by the CSS spec. */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Noto+Sans+Kannada:wght@400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap');
+
 /* === CSS Variables from sanskritam.world === */
 :root {
   /* Light Theme (Default) */
@@ -47,6 +50,7 @@
   --font-sanskrit: 'Adishila', 'Noto Sans Devanagari', 'Tiro Devanagari Sanskrit', serif;
   --font-english: 'Adishila', 'Rubik', 'Inter', 'Segoe UI', sans-serif;
   --font-sans: 'Adishila Sans', 'Rubik', 'Inter', 'Segoe UI', sans-serif;
+  --font-kannada: 'Noto Sans Kannada', sans-serif;
 
   /* Spacing */
   --space-xs: 0.25rem;
@@ -74,9 +78,6 @@
   --transition-normal: 250ms ease;
   --transition-slow: 400ms ease;
 }
-
-/* === Google Fonts Import (fallback only) === */
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@400;500;600;700&family=Rubik:wght@300;400;500;600;700&display=swap');
 
 /* === Adishila Font (primary, self-hosted) === */
 @font-face {
@@ -294,7 +295,7 @@ body {
 
 .logo-text {
   font-family: var(--font-sanskrit);
-  font-size: 1.25rem;
+  font-size: 1.417rem;
   font-weight: 600;
   color: #FFF0D1;
 }
@@ -320,7 +321,7 @@ body {
   border: none;
   background: transparent;
   padding: var(--space-sm);
-  font-size: 1rem;
+  font-size: 1.167rem;
   font-family: var(--font-sanskrit);
   color: var(--secondary-color);
   outline: none;
@@ -472,13 +473,13 @@ body {
 
 .hero-title {
   font-family: var(--font-sanskrit);
-  font-size: 3rem;
+  font-size: 3.167rem;
   color: var(--color-maroon-dark);
   margin-bottom: var(--space-md);
 }
 
 .hero-subtitle {
-  font-size: 1.25rem;
+  font-size: 1.417rem;
   color: var(--color-subheading-hero);
   max-width: 600px;
   margin: 0 auto;
@@ -499,7 +500,7 @@ body {
 .floating-char {
   position: absolute;
   font-family: var(--font-sanskrit);
-  font-size: 2rem;
+  font-size: 2.167rem;
   color: var(--color-gold);
   opacity: 0.15;
   animation: float 20s infinite ease-in-out;
@@ -573,14 +574,14 @@ body {
 
 .card-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   color: #3a1f0d;
   margin-bottom: var(--space-sm);
   text-shadow: 0 1px 2px rgba(255, 230, 170, 0.4);
 }
 
 .card-subtitle {
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   color: #5c3310;
 }
 
@@ -624,7 +625,7 @@ body {
 
 .subcategory-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   color: #3a1f0d;
   font-weight: 600;
 }
@@ -669,14 +670,14 @@ body {
 .text-title {
   flex: 1;
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   color: var(--color-maroon-dark);
   margin-left: var(--space-md);
 }
 
 .text-arrow {
   color: var(--color-subheading-hero);
-  font-size: 1.2rem;
+  font-size: 1.367rem;
 }
 
 /* ── Chapter accordion (TextPage) ────────────────────────── */
@@ -712,12 +713,12 @@ body {
 .chapter-name-en {
   margin-left: 0.5rem;
   color: var(--color-subheading-hero);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   font-family: var(--font-sans);
 }
 
 .chapter-chevron {
-  font-size: 0.8rem;
+  font-size: 0.967rem;
   color: var(--color-maroon);
   opacity: 0.7;
 }
@@ -755,7 +756,7 @@ body {
   background: var(--cream-dark, #F0E8DB);
   color: var(--color-maroon);
   font-family: var(--font-sanskrit);
-  font-size: 0.78rem;
+  font-size: 0.947rem;
   font-weight: 700;
   padding: 0.15rem 0.55rem;
   border-radius: 4px;
@@ -768,7 +769,7 @@ body {
 .chapter-verse-text {
   flex: 1;
   font-family: var(--font-sanskrit);
-  font-size: 0.97rem;
+  font-size: 1.137rem;
   color: var(--color-maroon-dark);
   white-space: pre-wrap;
   line-height: 1.7;
@@ -776,7 +777,7 @@ body {
 
 .chapter-verse-arrow {
   color: var(--color-subheading-hero);
-  font-size: 0.85rem;
+  font-size: 1.017rem;
   flex-shrink: 0;
   opacity: 0.7;
 }
@@ -787,14 +788,14 @@ body {
   gap: 0.6rem;
   padding: 1rem 1.2rem;
   color: var(--color-subheading-hero);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
 }
 
 .chapter-verse-empty {
   padding: 1rem 1.2rem;
   font-family: var(--font-sanskrit);
   color: var(--color-subheading-hero);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   font-style: italic;
 }
 
@@ -802,6 +803,323 @@ body {
   width: 16px;
   height: 16px;
   border-width: 2px;
+}
+
+/* ── Parva/upaparva grouping (Mahabharata-scale texts) ────── */
+.mb-search-input {
+  width: 100%;
+  padding: var(--space-sm) var(--space-md);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  font-family: var(--font-sanskrit);
+  font-size: 1.117rem;
+  color: var(--color-maroon-dark);
+  background: var(--card-background-color);
+}
+
+.mb-search-input:focus {
+  outline: none;
+  border-color: var(--color-subheading-hero);
+}
+
+.mb-section-tag {
+  font-family: var(--font-sanskrit);
+  font-size: 0.967rem;
+  color: var(--color-subheading-hero);
+  margin: 0.6rem 0 0.25rem 0.2rem;
+}
+
+.mb-section-list {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-sm);
+  padding: var(--space-md) 0;
+}
+
+.mb-section-accordion {
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background: var(--card-background-color);
+}
+
+.mb-section-open {
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  border-color: var(--color-subheading-hero);
+}
+
+.mb-section-hdr {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md) var(--space-lg);
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+}
+
+.mb-section-hdr:hover,
+.mb-section-open > .mb-section-hdr {
+  background: var(--title-card-color);
+}
+
+.mb-section-count {
+  margin-left: auto;
+  font-size: 0.967rem;
+  color: var(--color-subheading-hero);
+  white-space: nowrap;
+}
+
+.mb-section-body {
+  border-top: 1px solid var(--border-color);
+  padding: var(--space-sm) var(--space-md);
+  background: rgba(0,0,0,0.015);
+}
+
+.mb-subsection-accordion {
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  margin-bottom: var(--space-sm);
+  overflow: hidden;
+  background: var(--card-background-color);
+}
+
+.mb-subsection-hdr {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-sm) var(--space-md);
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  text-align: left;
+  font-family: inherit;
+}
+
+.mb-subsection-hdr:hover {
+  background: var(--title-card-color);
+}
+
+.mb-subsection-hdr-plain {
+  cursor: default;
+  color: var(--color-subheading-hero);
+  font-style: italic;
+}
+
+.mb-chapter-list {
+  padding: var(--space-sm) var(--space-md) var(--space-md);
+  gap: var(--space-sm);
+}
+
+.mb-adhyaya-row {
+  width: 100%;
+  border: 1px solid var(--border-color);
+  text-align: left;
+  font: inherit;
+  cursor: pointer;
+  align-items: flex-start;
+}
+
+.mb-adhyaya-row:hover {
+  background: var(--title-card-color);
+  border-color: var(--color-subheading-hero);
+}
+
+.mb-adhyaya-row-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  margin-left: var(--space-md);
+  min-width: 0;
+}
+
+.mb-adhyaya-row .text-title {
+  margin-left: 0;
+}
+
+.mb-adhyaya-synopsis {
+  font-family: var(--font-sanskrit);
+  font-size: 1.017rem;
+  color: var(--color-subheading-hero);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── Mahabharata continuous chapter-reading page ─────────── */
+.mb-synopsis-box {
+  font-family: var(--font-sanskrit);
+  font-size: 1.087rem;
+  color: var(--color-maroon-dark);
+  background: var(--title-card-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-md);
+  line-height: 1.7;
+}
+
+.mb-chapter-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-md);
+  padding: var(--space-sm) 0;
+  margin-bottom: var(--space-sm);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.mb-chapter-nav-btn {
+  background: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  padding: 0.45rem 1rem;
+  font-family: var(--font-sanskrit);
+  font-size: 1.067rem;
+  color: var(--color-maroon-dark);
+  cursor: pointer;
+}
+
+.mb-chapter-nav-btn:hover:not(:disabled) {
+  background: var(--title-card-color);
+  border-color: var(--color-subheading-hero);
+}
+
+.mb-chapter-nav-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.mb-chapter-nav-all {
+  font-family: var(--font-sanskrit);
+  font-size: 1.067rem;
+  color: var(--color-maroon);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.mb-chapter-nav-all:hover {
+  text-decoration: underline;
+}
+
+.mb-shloka-flow {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+  padding: var(--space-lg) 0;
+}
+
+.mb-shloka-block {
+  padding-bottom: var(--space-sm);
+  border-bottom: 1px dashed rgba(0,0,0,0.08);
+}
+
+.mb-shloka-block:last-child {
+  border-bottom: none;
+}
+
+.mb-shloka-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.8rem;
+}
+
+.mb-shloka-num {
+  flex-shrink: 0;
+  font-family: var(--font-sanskrit);
+  font-size: 0.917rem;
+  color: var(--color-subheading-hero);
+  background: var(--cream-dark, #F0E8DB);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  padding: 0.1rem 0.45rem;
+  min-width: 2.4rem;
+  text-align: center;
+}
+
+.mb-shloka-text {
+  flex: 1;
+  font-family: var(--font-sanskrit);
+  font-size: 1.317rem;
+  color: var(--color-maroon-dark);
+  white-space: pre-wrap;
+  line-height: 1.9;
+}
+
+/* Commentary interleaved between shlokas — visually distinct from the mulam text:
+   indented, boxed, muted background, smaller type, coloured left rail per source. */
+.mb-commentary-inline {
+  margin: 0.7rem 0 0 3.2rem;
+  background: rgba(0,0,0,0.025);
+  border-left: 3px solid var(--sutra-color);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  padding: 0.55rem 0.9rem;
+}
+
+.mb-commentary-inline-hdr {
+  font-family: var(--font-sanskrit);
+  font-size: 0.947rem;
+  font-weight: 700;
+  color: var(--sutra-color);
+  margin-bottom: 0.3rem;
+}
+
+.mb-commentary-inline-body {
+  font-family: var(--font-sanskrit);
+  font-size: 1.087rem;
+  color: var(--ink-mid, #4A3728);
+  white-space: pre-wrap;
+  line-height: 1.75;
+}
+
+/* Kannada meaning — visually distinct from the Sanskrit Tatparya Nirnaya / Lakshalankara
+   commentary boxes: cooler accent colour + the Kannada-script font stack. */
+.mb-commentary-inline-kannada {
+  border-left-color: #2f7a6b;
+  background: rgba(47,122,107,0.05);
+}
+
+.mb-commentary-inline-kannada .mb-commentary-inline-hdr {
+  color: #2f7a6b;
+  font-family: var(--font-kannada);
+}
+
+.mb-commentary-inline-kannada .mb-commentary-inline-body {
+  font-family: var(--font-kannada);
+}
+
+@media (max-width: 640px) {
+  .mb-commentary-inline {
+    margin-left: 0;
+  }
+}
+
+.mb-subsection-group {
+  margin-bottom: var(--space-md);
+}
+
+.mb-subsection-group:last-child {
+  margin-bottom: 0;
+}
+
+.mb-subsection-label {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  font-family: var(--font-sanskrit);
+  font-size: 1.117rem;
+  font-weight: 700;
+  color: var(--color-maroon-dark);
+  padding: 0.3rem 0.2rem;
+  margin-bottom: 0.4rem;
+  border-bottom: 1px solid var(--border-color);
 }
 
 /* === Verse Card (Individual verse page) === */
@@ -823,13 +1141,13 @@ body {
   font-family: var(--font-sanskrit);
   padding: var(--space-xs) var(--space-md);
   border-radius: var(--radius-md);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   font-weight: 600;
 }
 
 .verse-content {
   font-family: var(--font-sanskrit);
-  font-size: 1.4rem;
+  font-size: 1.567rem;
   line-height: 2;
   color: var(--red-title-color);
   text-align: center;
@@ -875,7 +1193,7 @@ body {
   padding: var(--space-sm) var(--space-lg);
   border-radius: var(--radius-md);
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   font-weight: 500;
   text-decoration: none;
   border: none;
@@ -943,14 +1261,14 @@ body {
 
 .vyakhya-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   color: var(--color-maroon-dark);
 }
 
 .vyakhya-close {
   background: none;
   border: none;
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   color: var(--color-maroon-dark);
   cursor: pointer;
   padding: var(--space-sm);
@@ -958,7 +1276,7 @@ body {
 
 .vyakhya-content {
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   line-height: 1.8;
   color: var(--text-color);
 }
@@ -1015,7 +1333,7 @@ body {
   color: #FFF0D1;
   border: 2px solid var(--color-gold);
   border-radius: 50%;
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   cursor: pointer;
   transition: var(--transition-fast);
   z-index: 50;
@@ -1043,7 +1361,7 @@ body {
   .nav-arrow {
     width: 40px;
     height: 40px;
-    font-size: 1.2rem;
+    font-size: 1.367rem;
   }
 }
 
@@ -1065,7 +1383,7 @@ body {
 
 .footer-logo {
   font-family: var(--font-sanskrit);
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   color: #FFF0D1;
 }
 
@@ -1094,14 +1412,14 @@ body {
 
 .page-title {
   font-family: var(--font-sanskrit);
-  font-size: 2rem;
+  font-size: 2.167rem;
   color: var(--color-maroon-dark);
   margin-bottom: var(--space-sm);
 }
 
 .page-description {
   color: var(--color-subheading-hero);
-  font-size: 1rem;
+  font-size: 1.167rem;
 }
 
 /* === Toggle Switch (Shabdaccheda/Padaccheda) === */
@@ -1197,7 +1515,7 @@ body {
   background: transparent;
   border: none;
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   color: var(--color-subheading-hero);
   cursor: pointer;
   transition: var(--transition-fast);
@@ -1222,11 +1540,11 @@ body {
   }
 
   .hero-title {
-    font-size: 2rem;
+    font-size: 2.167rem;
   }
 
   .verse-content {
-    font-size: 1.2rem;
+    font-size: 1.367rem;
   }
 
   .category-card {
@@ -1234,11 +1552,11 @@ body {
   }
 
   .card-title {
-    font-size: 1.25rem;
+    font-size: 1.417rem;
   }
 
   .page-title {
-    font-size: 1.5rem;
+    font-size: 1.667rem;
   }
 }
 
@@ -1399,7 +1717,7 @@ body {
 }
 
 .back-arrow {
-  font-size: 1.2rem;
+  font-size: 1.367rem;
   color: var(--color-gold);
 }
 
@@ -1425,7 +1743,7 @@ body {
   padding: var(--space-xs) var(--space-lg);
   border-radius: var(--radius-md);
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   font-weight: 600;
   border: 2px solid var(--color-gold);
   white-space: nowrap;
@@ -1442,7 +1760,7 @@ body {
   padding: var(--space-sm) var(--space-md);
   border-radius: var(--radius-md);
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   cursor: pointer;
   transition: var(--transition-fast);
 }
@@ -1454,7 +1772,7 @@ body {
 /* Main Verse Text - Red Color like shikshapatri/1 */
 .verse-text-main {
   font-family: var(--font-sanskrit);
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   line-height: 2.2;
   color: var(--red-title-color);
   text-align: center;
@@ -1470,7 +1788,7 @@ body {
   border: none;
   color: var(--color-subheading-hero);
   font-family: var(--font-sanskrit);
-  font-size: 0.95rem;
+  font-size: 1.117rem;
   cursor: pointer;
   padding: var(--space-sm) var(--space-md);
   transition: var(--transition-fast);
@@ -1510,7 +1828,7 @@ body {
   border-bottom: none;
   padding: var(--space-sm) var(--space-md);
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   color: var(--color-subheading-hero);
   cursor: pointer;
   border-radius: var(--radius-md) var(--radius-md) 0 0;
@@ -1539,7 +1857,7 @@ body {
   background: linear-gradient(150deg, var(--gradient-first-color) 0%, var(--gradient-second-color) 100%);
   padding: var(--space-md) var(--space-lg);
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   font-weight: 600;
   color: var(--color-maroon-dark);
   border-bottom: 1px solid var(--border-color);
@@ -1548,7 +1866,7 @@ body {
 .commentary-body {
   padding: var(--space-lg);
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   line-height: 2;
   color: var(--text-color);
 }
@@ -1608,7 +1926,7 @@ body {
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   color: var(--color-maroon-dark);
   cursor: pointer;
   transition: var(--transition-fast);
@@ -1662,14 +1980,14 @@ body {
 
 .vyakhya-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.3rem;
+  font-size: 1.467rem;
   color: var(--color-maroon-dark);
 }
 
 .vyakhya-close {
   background: var(--color-maroon);
   border: none;
-  font-size: 1rem;
+  font-size: 1.167rem;
   color: #FFF0D1;
   cursor: pointer;
   padding: var(--space-sm) var(--space-md);
@@ -1757,7 +2075,7 @@ body {
   align-items: center;
   justify-content: center;
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   font-weight: 600;
   border: 2px solid var(--color-gold);
 }
@@ -1765,7 +2083,7 @@ body {
 /* Main Verse Text - Red/Maroon */
 .verse-text-sticky {
   font-family: var(--font-sanskrit);
-  font-size: 1.55rem;
+  font-size: 1.717rem;
   line-height: 1.9;
   color: var(--red-title-color);
   padding: var(--space-sm) var(--space-sm) var(--space-xs);
@@ -1782,7 +2100,7 @@ body {
   border-radius: var(--radius-xl);
   padding: var(--space-sm) var(--space-lg);
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   color: var(--color-subheading-hero);
   cursor: pointer;
   margin-top: var(--space-sm);
@@ -1814,7 +2132,7 @@ body {
   border: 1px solid var(--border-color);
   padding: var(--space-sm) var(--space-md);
   font-family: var(--font-sanskrit);
-  font-size: 0.85rem;
+  font-size: 1.017rem;
   color: var(--color-subheading-hero);
   cursor: pointer;
   border-radius: var(--radius-sm);
@@ -1851,7 +2169,7 @@ body {
   color: var(--color-maroon-dark);
   padding: var(--space-sm) var(--space-md);
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   font-weight: 600;
   text-align: center;
 }
@@ -1859,7 +2177,7 @@ body {
 .commentary-block-content {
   padding: var(--space-lg);
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   line-height: 1.8;
   color: var(--text-color);
   text-align: justify;
@@ -1882,7 +2200,7 @@ body {
   border: none;
   padding: var(--space-md);
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   color: var(--color-maroon-dark);
   cursor: pointer;
   border-bottom: 2px solid transparent;
@@ -1902,7 +2220,7 @@ body {
   padding: var(--space-md);
   white-space: pre-line;
   text-align: justify;
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   line-height: 1.9;
 }
 
@@ -1963,7 +2281,7 @@ body {
 .mm-index-heading {
   background: var(--color-maroon);
   color: #FFF0D1;
-  font-size: 0.7rem;
+  font-size: 0.867rem;
   font-weight: 600;
   display: flex;
   align-items: center;
@@ -1990,7 +2308,7 @@ body {
   border: none;
   color: #FFF0D1;
   cursor: pointer;
-  font-size: 0.75rem;
+  font-size: 0.917rem;
   padding: 0 0.1rem;
   line-height: 1;
   opacity: 0.8;
@@ -2022,7 +2340,7 @@ body {
   border: none;
   padding: 0.32rem 0.55rem;
   font-family: var(--font-sanskrit);
-  font-size: 0.78rem;
+  font-size: 0.947rem;
   color: var(--color-subheading-hero);
   cursor: pointer;
   text-align: left;
@@ -2072,7 +2390,7 @@ body {
   display: flex;
   align-items: center;
   gap: 0.2rem;
-  font-size: 0.74rem;
+  font-size: 0.907rem;
   font-family: var(--font-sanskrit);
   color: var(--color-maroon-dark);
   cursor: pointer;
@@ -2093,7 +2411,7 @@ body {
 .cf-all {
   font-weight: 700;
   font-family: var(--font-sans);
-  font-size: 0.7rem;
+  font-size: 0.867rem;
   padding-right: 0.45rem;
   margin-right: 0.2rem;
   border-right: 1px solid var(--border-color);
@@ -2123,7 +2441,7 @@ body {
   border: none;
   cursor: pointer;
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   font-weight: 600;
   text-align: left;
   transition: var(--transition-fast);
@@ -2139,7 +2457,7 @@ body {
 }
 
 .mm-pane-chevron {
-  font-size: 0.7rem;
+  font-size: 0.867rem;
   opacity: 0.75;
   flex-shrink: 0;
 }
@@ -2147,7 +2465,7 @@ body {
 .mm-pane-content {
   padding: var(--space-lg);
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   line-height: 1.9;
   color: var(--text-color);
   text-align: justify;
@@ -2178,7 +2496,7 @@ body {
   position: relative;
   text-align: center;
   font-family: var(--font-sanskrit);
-  font-size: 0.95rem;
+  font-size: 1.117rem;
   line-height: 1.7;
   color: var(--ink-mid, #4A3728);
   background: rgba(123,28,28,0.04);
@@ -2198,7 +2516,7 @@ body {
   color: var(--color-subheading-hero);
   opacity: 0.55;
   font-family: var(--font-sanskrit);
-  font-size: 0.85rem;
+  font-size: 1.017rem;
   padding: 0.25rem 0.7rem;
   border-radius: 6px;
   cursor: pointer;
@@ -2221,7 +2539,7 @@ body {
   border: 1px solid transparent;
   color: var(--color-maroon, #7B1C1C);
   cursor: pointer;
-  font-size: 0.95rem;
+  font-size: 1.117rem;
   padding: 0.15rem 0.4rem;
   border-radius: 4px;
   opacity: 0.45;
@@ -2245,7 +2563,7 @@ body {
 }
 .shloka-edit-textarea {
   font-family: var(--font-sanskrit);
-  font-size: 1.05rem;
+  font-size: 1.217rem;
   width: 100%;
   padding: 0.5rem 0.7rem;
   border: 1.5px solid var(--border-color);
@@ -2268,7 +2586,7 @@ body {
 
 /* Edit button inside pane header */
 .mm-edit-btn {
-  font-size: 0.95rem;
+  font-size: 1.117rem;
   opacity: 0.6;
   cursor: pointer;
   padding: 0.1rem 0.25rem;
@@ -2295,7 +2613,7 @@ body {
   border-radius: var(--radius-sm);
   padding: var(--space-sm);
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   line-height: 1.8;
   background: #fffdf8;
   color: var(--text-color);
@@ -2322,7 +2640,7 @@ body {
   border-radius: var(--radius-sm);
   padding: 0.35rem 1rem;
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   cursor: pointer;
   transition: var(--transition-fast);
 }
@@ -2343,7 +2661,7 @@ body {
   border-radius: var(--radius-sm);
   padding: 0.35rem 1rem;
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   cursor: pointer;
   transition: var(--transition-fast);
 }
@@ -2377,7 +2695,7 @@ body {
   background: transparent;
   cursor: pointer;
   font-family: var(--font-sans);
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -2392,7 +2710,7 @@ body {
 }
 
 .rte-btn-align {
-  font-size: 1rem;
+  font-size: 1.167rem;
   min-width: 1.7rem;
   padding: 0 0.3rem;
   letter-spacing: 0;
@@ -2411,7 +2729,7 @@ body {
   min-height: 120px;
   padding: 0.75rem 1rem;
   font-family: var(--font-sanskrit);
-  font-size: 1rem;
+  font-size: 1.167rem;
   line-height: 1.9;
   outline: none;
   background: #fffdf8;
@@ -2450,7 +2768,7 @@ body {
   background: var(--color-maroon);
   color: #FFF0D1;
   cursor: pointer;
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   font-family: var(--font-sans);
   transition: var(--transition-fast);
 }
@@ -2498,7 +2816,7 @@ body {
   border: none;
   background: transparent;
   font-family: var(--font-sanskrit);
-  font-size: 0.92rem;
+  font-size: 1.087rem;
   line-height: 1.6;
   resize: vertical;
   outline: none;
@@ -2523,7 +2841,7 @@ body {
   border: 1px solid transparent;
   color: #c0392b;
   cursor: pointer;
-  font-size: 0.72rem;
+  font-size: 0.887rem;
   padding: 0.15rem 0.3rem;
   border-radius: 3px;
   opacity: 0.55;
@@ -2539,7 +2857,7 @@ body {
 
 .tbl-btn-sm {
   padding: 0.2rem 0.5rem;
-  font-size: 0.75rem;
+  font-size: 0.917rem;
 }
 
 .tbl-btn-primary-active {
@@ -2549,7 +2867,7 @@ body {
 }
 
 .tbl-field-label {
-  font-size: 0.75rem;
+  font-size: 0.917rem;
   color: var(--color-subheading-hero);
   margin-bottom: 0.2rem;
   font-family: var(--font-sans);
@@ -2561,7 +2879,7 @@ body {
   border-radius: var(--radius-sm);
   padding: 0.3rem 0.5rem;
   font-family: var(--font-sanskrit);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   background: #fffdf8;
   outline: none;
   box-sizing: border-box;
@@ -2575,7 +2893,7 @@ body {
 /* Dhatu रूपसिद्धि note + "view all lakaras" trigger (display, not editor) */
 .dhatu-note {
   font-family: var(--font-sanskrit);
-  font-size: 0.92rem;
+  font-size: 1.087rem;
   font-style: italic;
   line-height: 1.7;
   color: var(--ink-mid, #4A3728);
@@ -2592,7 +2910,7 @@ body {
   border: 1px solid var(--border-color);
   color: var(--color-maroon, #7B1C1C);
   font-family: var(--font-sanskrit);
-  font-size: 0.85rem;
+  font-size: 1.017rem;
   padding: 0.3rem 0.8rem;
   border-radius: var(--radius-sm);
   cursor: pointer;
@@ -2628,7 +2946,7 @@ body {
   border-radius: 3px;
   padding: 0.25rem 0.45rem;
   font-family: var(--font-sanskrit);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   font-weight: 600;
   background: #fffdf8;
   outline: none;
@@ -2662,7 +2980,7 @@ body {
   border: none;
   cursor: pointer;
   font-family: var(--font-sans);
-  font-size: 0.85rem;
+  font-size: 1.017rem;
   color: var(--text-color);
   transition: var(--transition-fast);
 }
@@ -2685,7 +3003,7 @@ body {
   border-radius: var(--radius-sm);
   padding: 0.35rem 0.9rem;
   cursor: pointer;
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   font-family: var(--font-sans);
   transition: var(--transition-fast);
   letter-spacing: 0.01em;
@@ -2700,7 +3018,7 @@ body {
   width: calc(100% - 1.2rem);
   margin: 0.5rem 0.6rem 0.3rem;
   text-align: center;
-  font-size: 0.75rem;
+  font-size: 0.917rem;
   padding: 0.3rem 0.5rem;
 }
 
@@ -2737,7 +3055,7 @@ body {
 .auth-modal-title {
   font-family: var(--font-sanskrit);
   font-weight: 600;
-  font-size: 0.95rem;
+  font-size: 1.117rem;
   color: var(--color-maroon-dark);
 }
 
@@ -2750,7 +3068,7 @@ body {
 
 .auth-hint {
   margin: 0;
-  font-size: 0.87rem;
+  font-size: 1.037rem;
   color: var(--color-subheading-hero);
 }
 
@@ -2761,7 +3079,7 @@ body {
   border: 1px solid var(--border-color);
   border-radius: var(--radius-md);
   background: #fff;
-  font-size: 1rem;
+  font-size: 1.167rem;
   font-family: var(--font-sans);
   color: var(--text-color);
 }
@@ -2773,7 +3091,7 @@ body {
 }
 
 .auth-error {
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   color: var(--red-color);
   padding: 0.3rem 0.55rem;
   background: rgba(192, 0, 0, 0.07);
@@ -2822,7 +3140,7 @@ body {
 
 .bulk-modal-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.05rem;
+  font-size: 1.217rem;
   color: var(--color-maroon);
   font-weight: 600;
 }
@@ -2830,7 +3148,7 @@ body {
 .bulk-close {
   background: transparent;
   border: none;
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   cursor: pointer;
   color: var(--color-subheading-hero);
   padding: 0.2rem 0.4rem;
@@ -2852,7 +3170,7 @@ body {
 }
 
 .bulk-hint {
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   color: var(--color-subheading-hero);
   font-family: var(--font-sans);
   margin: 0;
@@ -2864,14 +3182,14 @@ body {
   padding: 0.1rem 0.3rem;
   border-radius: 3px;
   font-family: monospace;
-  font-size: 0.82rem;
+  font-size: 0.987rem;
 }
 
 .bulk-textarea {
   width: 100%;
   height: 280px;
   font-family: var(--font-sanskrit);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   line-height: 1.8;
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
@@ -2903,7 +3221,7 @@ body {
   padding: 0.4rem 1.1rem;
   cursor: pointer;
   font-family: var(--font-sans);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   transition: var(--transition-fast);
 }
 
@@ -2917,7 +3235,7 @@ body {
   padding: 0.4rem 1.1rem;
   cursor: pointer;
   font-family: var(--font-sans);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   transition: var(--transition-fast);
 }
 
@@ -2932,7 +3250,7 @@ body {
   padding: 0.4rem 1rem;
   cursor: pointer;
   font-family: var(--font-sans);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   transition: var(--transition-fast);
 }
 
@@ -2953,7 +3271,7 @@ body {
 }
 
 .bulk-error-heading {
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   font-weight: 600;
   color: #b91c1c;
   font-family: var(--font-sans);
@@ -2961,7 +3279,7 @@ body {
 }
 
 .bulk-error-line {
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   color: #dc2626;
   font-family: var(--font-sans);
   line-height: 1.6;
@@ -2974,13 +3292,13 @@ body {
   border-radius: var(--radius-sm);
   padding: 0.7rem 1rem;
   color: #15803d;
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   font-family: var(--font-sans);
   text-align: center;
 }
 
 .bulk-preview-hdr {
-  font-size: 0.8rem;
+  font-size: 0.967rem;
   color: var(--color-subheading-hero);
   font-family: var(--font-sans);
   margin-bottom: 0.2rem;
@@ -3008,12 +3326,12 @@ body {
 
 .bulk-check {
   color: #15803d;
-  font-size: 0.85rem;
+  font-size: 1.017rem;
 }
 
 .bulk-section-title {
   font-family: var(--font-sanskrit);
-  font-size: 0.88rem;
+  font-size: 1.047rem;
   color: var(--color-maroon);
 }
 
@@ -3021,7 +3339,7 @@ body {
   margin-left: auto;
   background: var(--color-maroon);
   color: #FFF0D1;
-  font-size: 0.72rem;
+  font-size: 0.887rem;
   padding: 0.1rem 0.4rem;
   border-radius: 10px;
   font-family: var(--font-sans);
@@ -3029,7 +3347,7 @@ body {
 
 .bulk-preview-item-body {
   padding: 0.4rem 0.75rem;
-  font-size: 0.82rem;
+  font-size: 0.987rem;
   font-family: var(--font-sanskrit);
   color: var(--color-subheading-hero);
   line-height: 1.6;
@@ -3062,7 +3380,7 @@ body {
   justify-content: center;
   background: transparent;
   border: none;
-  font-size: 1.8rem;
+  font-size: 1.967rem;
   color: var(--color-maroon-dark);
   cursor: pointer;
   transition: var(--transition-fast);
@@ -3090,7 +3408,7 @@ body {
   color: #FFF0D1;
   border: 2px solid var(--color-gold);
   border-radius: 50%;
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   cursor: pointer;
   z-index: 90;
   display: flex;
@@ -3131,7 +3449,7 @@ body {
 
 .sidebar-header h3 {
   font-family: var(--font-sanskrit);
-  font-size: 1.1rem;
+  font-size: 1.267rem;
   margin: 0;
 }
 
@@ -3139,7 +3457,7 @@ body {
   background: transparent;
   border: none;
   color: #FFF0D1;
-  font-size: 1.5rem;
+  font-size: 1.667rem;
   cursor: pointer;
   padding: var(--space-xs);
 }
@@ -3165,7 +3483,7 @@ body {
   border: 1px solid var(--border-color);
   border-radius: var(--radius-sm);
   font-family: var(--font-sanskrit);
-  font-size: 0.85rem;
+  font-size: 1.017rem;
   color: var(--color-maroon-dark);
   cursor: pointer;
   transition: var(--transition-fast);
@@ -3200,32 +3518,32 @@ body {
   }
 
   .verse-text-sticky {
-    font-size: 1.2rem;
+    font-size: 1.367rem;
     line-height: 1.8;
   }
 
   .verse-badge-sticky {
     width: 32px;
     height: 32px;
-    font-size: 0.9rem;
+    font-size: 1.067rem;
     top: -16px;
   }
 
   .commentary-block-header {
-    font-size: 0.9rem;
+    font-size: 1.067rem;
   }
 
   .commentary-block-content {
-    font-size: 1rem;
+    font-size: 1.167rem;
     padding: var(--space-md);
   }
 
   .commentary-text {
-    font-size: 1rem;
+    font-size: 1.167rem;
   }
 
   .mm-pane-content {
-    font-size: 1rem;
+    font-size: 1.167rem;
   }
 
   .verse-grid-sidebar {
@@ -3256,7 +3574,7 @@ body {
   background: transparent;
   color: var(--color-maroon-dark);
   font-family: var(--font-sanskrit);
-  font-size: 0.95rem;
+  font-size: 1.117rem;
   cursor: pointer;
   transition: var(--transition-fast);
 }
@@ -3299,13 +3617,13 @@ body {
   padding: 0.25rem 0.7rem;
   border-radius: var(--radius-xl);
   font-family: var(--font-sans);
-  font-size: 0.8rem;
+  font-size: 0.967rem;
   margin-bottom: var(--space-md);
 }
 
 .sandhi-quiz-question {
   font-family: var(--font-sanskrit);
-  font-size: 1.7rem;
+  font-size: 1.867rem;
   text-align: center;
   color: var(--color-maroon-dark);
   margin: 0 0 var(--space-sm);
@@ -3314,7 +3632,7 @@ body {
 .sandhi-quiz-label {
   text-align: center;
   color: var(--color-subheading-hero);
-  font-size: 0.9rem;
+  font-size: 1.067rem;
   margin-bottom: var(--space-lg);
 }
 
@@ -3330,7 +3648,7 @@ body {
   border: 2px solid var(--border-color);
   background: #fffaf3;
   font-family: var(--font-sanskrit);
-  font-size: 1.15rem;
+  font-size: 1.317rem;
   cursor: pointer;
   text-align: center;
   color: var(--text-color);
@@ -3366,7 +3684,7 @@ body {
   background: var(--color-maroon);
   color: #FFF0D1;
   font-family: var(--font-sans);
-  font-size: 1.05rem;
+  font-size: 1.217rem;
   cursor: pointer;
   margin-top: var(--space-sm);
   transition: var(--transition-fast);
@@ -3382,7 +3700,7 @@ body {
 
 .sandhi-result-score {
   font-family: var(--font-sanskrit);
-  font-size: 2.6rem;
+  font-size: 2.767rem;
   color: var(--color-maroon-dark);
   margin: var(--space-md) 0 var(--space-xs);
 }

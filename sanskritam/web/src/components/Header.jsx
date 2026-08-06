@@ -111,7 +111,7 @@ export default function Header() {
                                     border: `1px solid ${configured ? 'var(--color-gold, #D4A017)' : 'var(--red-color, #C0392B)'}`,
                                     borderRadius: '6px',
                                     padding: '0.35rem 0.6rem',
-                                    fontSize: '0.78rem',
+                                    fontSize: '0.947rem',
                                     fontWeight: 600,
                                     cursor: 'pointer',
                                     color: configured ? 'var(--color-maroon, #6B2737)' : '#C0392B',

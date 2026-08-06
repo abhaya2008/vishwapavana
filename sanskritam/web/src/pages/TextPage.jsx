@@ -180,10 +180,10 @@ function AddVersesModal({ chapter, existingVerses, onClose, onAdded }) {
                                                         onChange={e => setSplitResult(prev =>
                                                             prev.map((x, j) => j === i ? { ...x, verse_number: e.target.value } : x)
                                                         )}
-                                                        style={{ fontFamily: 'var(--font-sanskrit)', fontSize: '0.82rem', width: '5rem', padding: '0.15rem 0.3rem', border: '1px solid var(--border-color)', borderRadius: '3px' }}
+                                                        style={{ fontFamily: 'var(--font-sanskrit)', fontSize: '0.987rem', width: '5rem', padding: '0.15rem 0.3rem', border: '1px solid var(--border-color)', borderRadius: '3px' }}
                                                     />
                                                 </div>
-                                                <div className="bulk-preview-item-body" style={{ fontFamily: 'var(--font-sanskrit)', whiteSpace: 'pre-wrap', fontSize: '0.85rem' }}>
+                                                <div className="bulk-preview-item-body" style={{ fontFamily: 'var(--font-sanskrit)', whiteSpace: 'pre-wrap', fontSize: '1.017rem' }}>
                                                     {v.content_sanskrit.slice(0, 120)}{v.content_sanskrit.length > 120 ? '…' : ''}
                                                 </div>
                                             </div>
@@ -198,16 +198,16 @@ function AddVersesModal({ chapter, existingVerses, onClose, onAdded }) {
                     {!savedOk && mode === 'single' && (
                         <>
                             <div style={{ marginBottom: '0.8rem' }}>
-                                <label style={{ display: 'block', fontSize: '0.8rem', color: 'var(--ink-mid, #5a4030)', marginBottom: '0.25rem' }}>
+                                <label style={{ display: 'block', fontSize: '0.967rem', color: 'var(--ink-mid, #5a4030)', marginBottom: '0.25rem' }}>
                                     Verse number
                                 </label>
                                 <input type="text" value={singleNum} onChange={e => setSingleNum(e.target.value)}
-                                    style={{ fontFamily: 'var(--font-sanskrit)', fontSize: '0.9rem', padding: '0.4rem 0.6rem', border: '1px solid var(--border-color)', borderRadius: '4px', width: '8rem' }}
+                                    style={{ fontFamily: 'var(--font-sanskrit)', fontSize: '1.067rem', padding: '0.4rem 0.6rem', border: '1px solid var(--border-color)', borderRadius: '4px', width: '8rem' }}
                                     placeholder="e.g. 1.3"
                                 />
                             </div>
                             <div style={{ marginBottom: '0.8rem' }}>
-                                <label style={{ display: 'block', fontSize: '0.8rem', color: 'var(--ink-mid, #5a4030)', marginBottom: '0.25rem' }}>
+                                <label style={{ display: 'block', fontSize: '0.967rem', color: 'var(--ink-mid, #5a4030)', marginBottom: '0.25rem' }}>
                                     Shloka text
                                 </label>
                                 <textarea
@@ -243,6 +243,83 @@ function AddVersesModal({ chapter, existingVerses, onClose, onAdded }) {
     );
 }
 
+// ── Chapter row (adhyaya-level accordion: header + expandable verse list) ──────
+// Shared between the flat chapter list (small texts) and the grouped parva/upaparva
+// view (Mahabharata), so both stay visually and behaviorally identical.
+function ChapterRow({ chapter, badge, isOpen, verses, isLoadingV, onToggle, onAddClick, onVerseClick }) {
+    return (
+        <div className={`chapter-accordion${isOpen ? ' chapter-accordion-open' : ''}`}>
+            <div style={{ display: 'flex', alignItems: 'stretch' }}>
+                <button
+                    className="text-item chapter-accordion-hdr"
+                    style={{ flex: 1, borderRadius: IS_STATIC ? '6px 0 0 6px' : undefined }}
+                    onClick={onToggle}
+                    aria-expanded={isOpen}
+                >
+                    <span className="text-number">{badge}</span>
+                    <span className="text-title">{chapter.name_sanskrit}</span>
+                    <span className="text-arrow chapter-chevron">{isOpen ? '▲' : '▼'}</span>
+                </button>
+
+                {IS_STATIC && onAddClick && (
+                    <button
+                        onClick={onAddClick}
+                        title="Add shlokas to this chapter"
+                        style={{
+                            padding: '0 1rem', background: 'var(--color-maroon, #7B2D2D)', color: '#fff8f0',
+                            border: 'none', borderLeft: '1px solid rgba(255,255,255,0.15)', cursor: 'pointer',
+                            fontSize: '0.947rem', fontWeight: 700, letterSpacing: '0.04em',
+                            borderRadius: '0 6px 6px 0', flexShrink: 0, minWidth: '3.5rem',
+                        }}
+                    >
+                        + Add
+                    </button>
+                )}
+            </div>
+
+            {isOpen && (
+                <div className="chapter-verse-list">
+                    {isLoadingV ? (
+                        <div className="chapter-verse-loading">
+                            <div className="spinner spinner-sm" />
+                            <span>Loading shlokas…</span>
+                        </div>
+                    ) : verses.length === 0 ? (
+                        <div className="chapter-verse-empty">अद्य श्लोकाः उपलब्धाः नसन्ति ।</div>
+                    ) : (
+                        verses.map((verse) => (
+                            <button key={verse.id} className="chapter-verse-item" onClick={() => onVerseClick(verse)}>
+                                <span className="chapter-verse-num">{verse.verse_number}</span>
+                                <span className="chapter-verse-text">{verse.content_sanskrit || '—'}</span>
+                                <span className="chapter-verse-arrow">→</span>
+                            </button>
+                        ))
+                    )}
+                </div>
+            )}
+        </div>
+    );
+}
+
+// ── Adhyaya link row (Mahabharata-scale texts) ──────────────────────────────────
+// Clicking navigates straight into the verse-reading page (all shlokas of that
+// adhyaya, one at a time with prev/next — same experience as Manimanjari's verse
+// page) instead of expanding an inline list first.
+function AdhyayaLinkRow({ chapter, badge, onClick }) {
+    return (
+        <button className="text-item mb-adhyaya-row" onClick={onClick}>
+            <span className="text-number">{badge}</span>
+            <div className="mb-adhyaya-row-body">
+                <span className="text-title">{chapter.name_sanskrit}</span>
+                {chapter.synopsis_sanskrit && (
+                    <span className="mb-adhyaya-synopsis">{chapter.synopsis_sanskrit}</span>
+                )}
+            </div>
+            <span className="text-arrow">→</span>
+        </button>
+    );
+}
+
 // ── Page ───────────────────────────────────────────────────────────────────────
 export default function TextPage() {
     const { id } = useParams();
@@ -256,6 +333,54 @@ export default function TextPage() {
     const [loadingVerses, setLoadingVerses] = useState({});
     const [authModal, setAuthModal] = useState(null);
     const [addVersesChapter, setAddVersesChapter] = useState(null);
+
+    // ── Parva/upaparva grouping (Mahabharata-scale texts) ──────────────────────
+    const [search, setSearch] = useState('');
+    const [expandedSection, setExpandedSection] = useState(null);
+
+    const grouped = useMemo(() => {
+        if (!chapters.length || !chapters[0].section_sanskrit) return null;
+        const sections = [];
+        const sectionByKey = new Map();
+        for (const ch of chapters) {
+            let sec = sectionByKey.get(ch.section_sanskrit);
+            if (!sec) {
+                sec = {
+                    key: ch.section_sanskrit,
+                    name_sanskrit: ch.section_sanskrit,
+                    name_english: ch.section_english,
+                    order: ch.section_order ?? 0,
+                    subByKey: new Map(),
+                    subs: [],
+                    count: 0,
+                };
+                sectionByKey.set(ch.section_sanskrit, sec);
+                sections.push(sec);
+            }
+            sec.count++;
+            const subKey = ch.subsection_sanskrit || '';
+            let sub = sec.subByKey.get(subKey);
+            if (!sub) {
+                sub = { key: subKey, name_sanskrit: ch.subsection_sanskrit || null, chapters: [] };
+                sec.subByKey.set(subKey, sub);
+                sec.subs.push(sub);
+            }
+            sub.chapters.push(ch);
+        }
+        sections.sort((a, b) => a.order - b.order);
+        return sections;
+    }, [chapters]);
+
+    const searchResults = useMemo(() => {
+        const q = search.trim().toLowerCase();
+        if (!q) return null;
+        return chapters.filter(c =>
+            (c.name_sanskrit || '').toLowerCase().includes(q) ||
+            (c.name_english || '').toLowerCase().includes(q) ||
+            (c.section_sanskrit || '').toLowerCase().includes(q) ||
+            (c.section_english || '').toLowerCase().includes(q)
+        ).slice(0, 300);
+    }, [chapters, search]);
 
     const requireAuth = useCallback((onSuccess) => {
         if (isAuthed()) onSuccess();
@@ -327,102 +452,131 @@ export default function TextPage() {
                         {text.author && <p className="page-description mt-sm">रचयिता: {text.author}</p>}
                     </section>
 
+                    {grouped && (
+                        <section className="mt-sm">
+                            <input
+                                type="text"
+                                className="mb-search-input"
+                                placeholder="अध्यायं / पर्व अन्विष्यतु… (search chapter or parva)"
+                                value={search}
+                                onChange={e => setSearch(e.target.value)}
+                            />
+                        </section>
+                    )}
+
                     <section className="mt-md">
-                        <div className="text-list">
-                            {chapters.map((chapter, index) => {
-                                const isOpen = expandedChapter === chapter.id;
-                                const verses = versesByChapter[chapter.id] || [];
-                                const isLoadingV = !!loadingVerses[chapter.id];
-
-                                return (
-                                    <div key={chapter.id} className={`chapter-accordion${isOpen ? ' chapter-accordion-open' : ''}`}>
-                                        {/* Chapter header: toggle button + optional "Add" button side-by-side */}
-                                        <div style={{ display: 'flex', alignItems: 'stretch' }}>
-                                            <button
-                                                className="text-item chapter-accordion-hdr"
-                                                style={{ flex: 1, borderRadius: IS_STATIC ? '6px 0 0 6px' : undefined }}
-                                                onClick={() => handleChapterClick(chapter)}
-                                                aria-expanded={isOpen}
-                                            >
-                                                <span className="text-number">
-                                                    {chapter.chapter_number || index + 1}
-                                                </span>
-                                                <span className="text-title">
-                                                    {chapter.name_sanskrit}
-                                                </span>
-                                                <span className="text-arrow chapter-chevron">
-                                                    {isOpen ? '▲' : '▼'}
-                                                </span>
-                                            </button>
-
-                                            {IS_STATIC && (
-                                                <button
-                                                    onClick={e => handleAddVersesClick(chapter, e)}
-                                                    title="Add shlokas to this chapter"
-                                                    style={{
-                                                        padding: '0 1rem',
-                                                        background: 'var(--color-maroon, #7B2D2D)',
-                                                        color: '#fff8f0',
-                                                        border: 'none',
-                                                        borderLeft: '1px solid rgba(255,255,255,0.15)',
-                                                        cursor: 'pointer',
-                                                        fontSize: '0.78rem',
-                                                        fontWeight: 700,
-                                                        letterSpacing: '0.04em',
-                                                        borderRadius: '0 6px 6px 0',
-                                                        flexShrink: 0,
-                                                        minWidth: '3.5rem',
-                                                    }}
-                                                >
-                                                    + Add
-                                                </button>
-                                            )}
-                                        </div>
-
-                                        {/* Expanded verse list */}
-                                        {isOpen && (
-                                            <div className="chapter-verse-list">
-                                                {isLoadingV ? (
-                                                    <div className="chapter-verse-loading">
-                                                        <div className="spinner spinner-sm" />
-                                                        <span>Loading shlokas…</span>
-                                                    </div>
-                                                ) : verses.length === 0 ? (
-                                                    <div className="chapter-verse-empty">
-                                                        अद्य श्लोकाः उपलब्धाः नसन्ति ।
-                                                    </div>
-                                                ) : (
-                                                    verses.map((verse) => (
-                                                        <button
-                                                            key={verse.id}
-                                                            className="chapter-verse-item"
-                                                            onClick={() => navigate(`/chapter/${chapter.id}/verse/${verse.id}`)}
-                                                        >
-                                                            <span className="chapter-verse-num">
-                                                                {verse.verse_number}
-                                                            </span>
-                                                            <span className="chapter-verse-text">
-                                                                {verse.content_sanskrit || '—'}
-                                                            </span>
-                                                            <span className="chapter-verse-arrow">→</span>
-                                                        </button>
-                                                    ))
-                                                )}
+                        {searchResults ? (
+                            <div className="text-list">
+                                {searchResults.map(chapter => (
+                                    <div key={chapter.id}>
+                                        {chapter.section_sanskrit && (
+                                            <div className="mb-section-tag">
+                                                {chapter.section_sanskrit} · {chapter.section_english}
+                                                {chapter.subsection_sanskrit ? ` · ${chapter.subsection_sanskrit}` : ''}
                                             </div>
                                         )}
+                                        <AdhyayaLinkRow
+                                            chapter={chapter}
+                                            badge={chapter.chapter_number}
+                                            onClick={() => navigate(`/mahabharata/chapter/${chapter.id}`)}
+                                        />
                                     </div>
-                                );
-                            })}
+                                ))}
+                                {searchResults.length === 0 && (
+                                    <div className="text-center p-xl">
+                                        <p className="sanskrit" style={{ color: 'var(--color-subheading-hero)' }}>कोऽपि अध्यायः न लब्धः। No matching chapter.</p>
+                                    </div>
+                                )}
+                            </div>
+                        ) : grouped ? (
+                            <div className="mb-section-list">
+                                {grouped.map(section => {
+                                    const secOpen = expandedSection === section.key;
+                                    const hasSubsections = section.subs.length > 1 || !!section.subs[0]?.name_sanskrit;
+                                    return (
+                                        <div key={section.key} className={`mb-section-accordion${secOpen ? ' mb-section-open' : ''}`}>
+                                            <button
+                                                className="mb-section-hdr"
+                                                onClick={() => setExpandedSection(secOpen ? null : section.key)}
+                                                aria-expanded={secOpen}
+                                            >
+                                                <span className="text-number">{section.order}</span>
+                                                <span className="text-title">{section.name_sanskrit}</span>
+                                                <span className="chapter-name-en">{section.name_english}</span>
+                                                <span className="mb-section-count">{section.count} अध्यायाः</span>
+                                                <span className="text-arrow chapter-chevron">{secOpen ? '▲' : '▼'}</span>
+                                            </button>
 
-                            {chapters.length === 0 && (
-                                <div className="text-center p-xl">
-                                    <p className="sanskrit" style={{ color: 'var(--color-subheading-hero)' }}>
-                                        अध्यायाः उपलब्धाः नसन्ति।<br />
-                                        No chapters available yet.
-                                    </p>
-                                </div>
-                            )}
-                        </div>
+                                            {secOpen && (
+                                                <div className="mb-section-body">
+                                                    {hasSubsections ? (
+                                                        section.subs.map(sub => {
+                                                            const subKey = `${section.key}::${sub.key}`;
+                                                            return (
+                                                                <div key={subKey} className="mb-subsection-group">
+                                                                    {sub.name_sanskrit && (
+                                                                        <div className="mb-subsection-label">
+                                                                            {sub.name_sanskrit}
+                                                                            <span className="mb-section-count">{sub.chapters.length} अध्यायाः</span>
+                                                                        </div>
+                                                                    )}
+                                                                    <div className="text-list mb-chapter-list">
+                                                                        {sub.chapters.map((chapter, i) => (
+                                                                            <AdhyayaLinkRow
+                                                                                key={chapter.id}
+                                                                                chapter={chapter}
+                                                                                badge={i + 1}
+                                                                                onClick={() => navigate(`/mahabharata/chapter/${chapter.id}`)}
+                                                                            />
+                                                                        ))}
+                                                                    </div>
+                                                                </div>
+                                                            );
+                                                        })
+                                                    ) : (
+                                                        <div className="text-list mb-chapter-list">
+                                                            {section.subs[0].chapters.map((chapter, i) => (
+                                                                <AdhyayaLinkRow
+                                                                    key={chapter.id}
+                                                                    chapter={chapter}
+                                                                    badge={i + 1}
+                                                                    onClick={() => navigate(`/mahabharata/chapter/${chapter.id}`)}
+                                                                />
+                                                            ))}
+                                                        </div>
+                                                    )}
+                                                </div>
+                                            )}
+                                        </div>
+                                    );
+                                })}
+                            </div>
+                        ) : (
+                            <div className="text-list">
+                                {chapters.map((chapter, index) => (
+                                    <ChapterRow
+                                        key={chapter.id}
+                                        chapter={chapter}
+                                        badge={chapter.chapter_number || index + 1}
+                                        isOpen={expandedChapter === chapter.id}
+                                        verses={versesByChapter[chapter.id] || []}
+                                        isLoadingV={!!loadingVerses[chapter.id]}
+                                        onToggle={() => handleChapterClick(chapter)}
+                                        onAddClick={e => handleAddVersesClick(chapter, e)}
+                                        onVerseClick={verse => navigate(`/chapter/${chapter.id}/verse/${verse.id}`)}
+                                    />
+                                ))}
+
+                                {chapters.length === 0 && (
+                                    <div className="text-center p-xl">
+                                        <p className="sanskrit" style={{ color: 'var(--color-subheading-hero)' }}>
+                                            अध्यायाः उपलब्धाः नसन्ति।<br />
+                                            No chapters available yet.
+                                        </p>
+                                    </div>
+                                )}
+                            </div>
+                        )}
                     </section>
                 </div>
             </main>

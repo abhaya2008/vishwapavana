@@ -60,7 +60,7 @@ export default function GhSettingsModal({ onClose }) {
                         { label: 'Data folder path in repo',       val: dataPath, set: setDataPath, ph: 'sanskritam/web/public/data', type: 'text' },
                     ].map(({ label, val, set, ph, type }) => (
                         <div key={label} style={{ display: 'flex', flexDirection: 'column', gap: '0.2rem' }}>
-                            <label style={{ fontSize: '0.82rem', color: 'var(--color-subheading-hero)' }}>{label}</label>
+                            <label style={{ fontSize: '0.987rem', color: 'var(--color-subheading-hero)' }}>{label}</label>
                             <input className="auth-input" type={type} value={val}
                                 onChange={e => { set(e.target.value); setErr(''); }} placeholder={ph} />
                         </div>

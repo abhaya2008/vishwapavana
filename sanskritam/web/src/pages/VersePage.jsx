@@ -945,7 +945,7 @@ function WordMeaningsTable({ rows }) {
     const cellBorder = '1px solid var(--border-color)';
     return (
         <div style={{ overflowX: 'auto', border: cellBorder, borderRadius: '6px', overflow: 'hidden' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1.167rem' }}>
                 <thead>
                     <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                         <th style={{ padding: '0.4rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-sanskrit)', textAlign: 'left', color: 'var(--color-maroon)', fontWeight: 700, width: '28%' }}>पदम्</th>
@@ -959,7 +959,7 @@ function WordMeaningsTable({ rows }) {
                             <td style={{ padding: '0.45rem 0.9rem', fontWeight: 600, color: 'var(--ink-mid, #4A3728)', border: cellBorder, fontFamily: 'var(--font-sanskrit)', whiteSpace: 'pre-wrap' }}>
                                 {renderCell(row[0])}
                             </td>
-                            <td style={{ padding: '0.45rem 0.9rem', border: cellBorder, fontFamily: "'Noto Sans Kannada', var(--font-sanskrit), sans-serif", color: '#2A1E10' }}>
+                            <td style={{ padding: '0.45rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-kannada)', color: '#2A1E10' }}>
                                 {renderCell(row[1])}
                             </td>
                             <td style={{ padding: '0.45rem 0.9rem', border: cellBorder, fontFamily: 'var(--font-sanskrit)', color: '#2A1E10' }}>
@@ -976,7 +976,7 @@ function WordMeaningsTable({ rows }) {
 function GrammarTable({ rows }) {
     return (
         <div style={{ overflowX: 'auto' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1.167rem' }}>
                 <tbody>
                     {rows.map((row, i) => (
                         <tr key={i} style={{ background: i % 2 === 0 ? '#F8F3EE' : '#fff' }}>
@@ -997,7 +997,7 @@ function GrammarTable({ rows }) {
 function ShabdaTable({ headers, rows }) {
     return (
         <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px', overflow: 'hidden' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1.167rem' }}>
                 <thead>
                     <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                         {(headers || []).map((h, i) => (
@@ -1026,24 +1026,24 @@ function ShabdaTable({ headers, rows }) {
 function LakaraTable({ t }) {
     return (
         <div style={{ marginBottom: '1rem' }}>
-            <div style={{ fontSize: '0.92rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
+            <div style={{ fontSize: '1.087rem', fontWeight: 600, color: 'var(--sutra-color)', fontFamily: 'var(--font-sanskrit)', marginBottom: '0.25rem', padding: '0.2rem 0.5rem', background: 'rgba(245,121,3,0.08)', borderRadius: '4px' }}>
                 {t.lakara}
             </div>
             <div style={{ overflowX: 'auto' }}>
-                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1rem' }}>
+                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.167rem' }}>
                     <thead>
                         <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                             <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>एकवचनं</th>
                             <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>द्विवचनं</th>
                             <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left' }}>बहुवचनं</th>
-                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '0.88rem' }}>पुरुषः</th>
+                            <th style={{ padding: '0.3rem 0.5rem', border: '1px solid var(--border-color)', textAlign: 'left', fontSize: '1.047rem' }}>पुरुषः</th>
                         </tr>
                     </thead>
                     <tbody>
                         {t.rows.map((row, ri) => (
                             <tr key={ri} style={{ background: ri % 2 === 0 ? '#FAF5EF' : '#fff' }}>
                                 {row.map((cell, ci) => (
-                                    <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.72rem' : undefined }}>
+                                    <td key={ci} style={{ padding: '0.35rem 0.5rem', border: '1px solid #E8DDD0', textAlign: 'left', color: ci === 3 ? 'var(--sutra-color)' : 'var(--color-subheading-hero)', fontSize: ci === 3 ? '0.887rem' : undefined }}>
                                         {renderCell(cell)}
                                     </td>
                                 ))}
@@ -1086,7 +1086,7 @@ function DhatuTables({ header, tables, dhatus }) {
                 return (
                     <div key={gi} style={{ marginBottom: groups.length > 1 ? '1.8rem' : 0 }}>
                         {dhatu.header && (
-                            <div style={{ fontSize: '1rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
+                            <div style={{ fontSize: '1.167rem', fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.6rem', fontFamily: 'var(--font-sanskrit)', borderBottom: '2px solid var(--border-color)', paddingBottom: '0.3rem' }}>
                                 {dhatu.header}
                             </div>
                         )}
@@ -1112,7 +1112,7 @@ function DhatuTables({ header, tables, dhatus }) {
 function HeaderedTable({ headers, rows }) {
     return (
         <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px', overflow: 'hidden' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1rem' }}>
+            <table style={{ width: '100%', borderCollapse: 'collapse', fontSize: '1.167rem' }}>
                 <thead>
                     <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                         {(headers || []).map((h, i) => (
@@ -1231,6 +1231,11 @@ export default function VersePage() {
         chapter.text_id === 3 ||
         (chapter.text_name && chapter.text_name.indexOf('मणिमञ्जरी') !== -1)
     ));
+
+    // Mahabharata (both editions) is a bulk-imported mulam corpus with no per-verse
+    // commentary — hide the avatarnika editor and the "sample commentary" placeholder
+    // blocks that make sense for a hand-curated single text but not a 200k-verse epic.
+    const isMahabharata = !!(chapter && (chapter.text_id === 4 || chapter.text_id === 5));
 
     const togglePane = useCallback((key) => {
         setOpenPanes(prev => ({ ...prev, [key]: !prev[key] }));
@@ -1616,7 +1621,7 @@ ${wrapper.innerHTML}
 
             <main className="verse-main-content" id="mainsection">
                 {/* Avatarnika (introduction shown before the shloka) - scrolls normally, not sticky */}
-                {currentVerse && (
+                {currentVerse && !isMahabharata && (
                     <div className="avatarnika-wrapper" ref={avatarnikaRef}>
                         {editingAvatarnika ? (
                             <div className="shloka-edit-wrap avatarnika-edit-wrap">
@@ -1712,7 +1717,7 @@ ${wrapper.innerHTML}
                                     onChange={setVisiblePanes}
                                 />
                                 {IS_STATIC && savedAt && (Date.now() - savedAt < 30000) && (
-                                    <div style={{ margin: '0.4rem 0', padding: '0.5rem 0.8rem', background: '#F0FFF4', border: '1px solid #68D391', borderRadius: '6px', fontSize: '0.82rem', color: '#276749' }}>
+                                    <div style={{ margin: '0.4rem 0', padding: '0.5rem 0.8rem', background: '#F0FFF4', border: '1px solid #68D391', borderRadius: '6px', fontSize: '0.987rem', color: '#276749' }}>
                                         ✓ Saved to GitHub! Refresh the page to see latest data.
                                     </div>
                                 )}
@@ -1804,7 +1809,7 @@ ${wrapper.innerHTML}
                                 </div>
                             ))}
                         </div>
-                    ) : (
+                    ) : isMahabharata ? null : (
                         /* Show sample sections matching reference */
                         <div className="commentary-sections">
                             <div className="commentary-block">
