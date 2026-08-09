@@ -359,20 +359,10 @@ body {
 }
 
 .logo-img {
-  width: 42px;
   height: 42px;
+  width: auto;
   object-fit: contain;
-  border-radius: 50%;
-  background: #fff;
-  padding: 2px;
   flex-shrink: 0;
-}
-
-.logo-text {
-  font-family: var(--font-sanskrit);
-  font-size: 1.417rem;
-  font-weight: 600;
-  color: #FFF0D1;
 }
 
 /* === Search Bar === */

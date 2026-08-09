@@ -81,8 +81,7 @@ export default function Header() {
             <header className="header">
                 <div className="container header-inner">
                     <Link to="/" className="logo">
-                        <img src={`${import.meta.env.BASE_URL}images/logo.png`} alt="स्वाध्यायः" className="logo-img" />
-                        <span className="logo-text">स्वाध्यायः</span>
+                        <img src={`${import.meta.env.BASE_URL}images/swadhyayaha.png`} alt="स्वाध्यायः" className="logo-img" />
                     </Link>
 
                     <form className="search-container" onSubmit={handleSearch}>
