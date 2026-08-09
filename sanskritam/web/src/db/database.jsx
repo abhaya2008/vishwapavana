@@ -103,9 +103,12 @@ async function commitVerseList(chapterId) {
 
 // ── Static read functions ─────────────────────────────────────────────────────
 
+function byDisplayOrder(a, b) {
+    return (a.display_order ?? 0) - (b.display_order ?? 0);
+}
 async function sGetCategories() {
     const { categories } = await getMeta();
-    return categories.filter(c => c.parent_id == null);
+    return categories.filter(c => c.parent_id == null).sort(byDisplayOrder);
 }
 async function sGetCategory(id) {
     const { categories } = await getMeta();
@@ -113,7 +116,7 @@ async function sGetCategory(id) {
 }
 async function sGetSubCategories(parentId) {
     const { categories } = await getMeta();
-    return categories.filter(c => c.parent_id === +parentId);
+    return categories.filter(c => c.parent_id === +parentId).sort(byDisplayOrder);
 }
 async function sGetTextsByCategory(categoryId) {
     const { texts } = await getMeta();
