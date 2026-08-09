@@ -29,7 +29,7 @@ export default function HimalayaTree({ categories }) {
             <div className="veda-tree-frame">
                 <video
                     className="veda-tree-video"
-                    src="/media/vedavyasa.mp4"
+                    src={`${import.meta.env.BASE_URL}media/vedavyasa.mp4`}
                     autoPlay
                     loop
                     muted
