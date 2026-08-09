@@ -359,10 +359,11 @@ body {
 }
 
 .logo-img {
-  height: 42px;
+  height: 64px;
   width: auto;
   object-fit: contain;
   flex-shrink: 0;
+  filter: drop-shadow(0 0 6px rgba(255, 230, 160, 0.85)) drop-shadow(0 0 14px rgba(255, 210, 120, 0.55));
 }
 
 /* === Search Bar === */
