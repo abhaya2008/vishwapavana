@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002930,
+    "chapter_id": 6586,
+    "verse_number": "10.43",
+    "content_sanskrit": "धातारं तपसा प्रीतं ययाचे स हि राक्षसः । दैवात्सर्गादवध्यत्वं मर्त्येष्वास्थापराङ्मुखः ॥",
+    "padaccheda": "धातारम् । तपसा । प्रीतम् । ययाचे । सः । हि । राक्षसः । दैवात् । सर्गात् । अवध्यत्वम् । मर्त्येषु । आस्थापराङ्मुखः",
+    "anvaya": "सः राक्षसः हि मर्त्येषु आस्थापराङ्मुखः (सन्) तपसा प्रीतं धातारं दैवात् सर्गात् अवध्यत्वं ययाचे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, that Rakshasa (Ravana), being disdainful towards mortals, begged the Creator Brahma, who was pleased by his penance, for invincibility from the entire class of divine beings.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002930,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "धातारमिति॥ स राक्षसस्तपसा प्रीतं संतुष्टं धातारं ब्रह्माणाम्। मर्त्येषु विषय आस्थापराङ्मुखः आदरविमुखः सन्। मर्त्याननादृत्येत्यर्थः। दैवादष्टविधात् सर्गाद्दैवसृष्टेरवध्यत्वं ययाचे हि ॥"
+    }
+  ]
+}

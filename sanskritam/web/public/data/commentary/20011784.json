@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011784,
+    "chapter_id": 6686,
+    "verse_number": "14.8",
+    "content_sanskrit": "यदुवोष स्मराग्निंस्तं सा मुग्धा न विवेद तत् । सा तस्य वरिवस्यांयां जजागार दिवानिशम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011784,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उवोषेत्यादिरामभावपक्षः । ‘अभ्यासस्यासवर्ण’ (पा.६|४|७८) इत्युवङ् । वरिवस्यायां परिचर्यायाम् ॥"
+    }
+  ]
+}

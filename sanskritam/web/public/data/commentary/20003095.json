@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003095,
+    "chapter_id": 6588,
+    "verse_number": "12.29",
+    "content_sanskrit": "स जहार तयोर्मध्ये मैथिलीं लोकशोषणः । नभोनभस्ययोर्वृष्टिमवग्रह इवान्तरे ॥",
+    "padaccheda": "सः । जहार । तयोः । मध्ये । मैथिलीम् । लोकशोषणः । नभोनभस्ययोः । वृष्टिम् । अवग्रहः । इव । अन्तरे",
+    "anvaya": "लोक-शोषणः सः तयोः मध्ये मैथिलीं जहार नभोनभस्ययोः अन्तरे वृष्टिम् अवग्रहः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That tormentor of the world seized Sita from between the two brothers, just as a drought stops the rain between the months of Shravana and Bhadrapada.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003095,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ लोकस्य शोषणः शोषकः स राक्षसस्तयो रामलक्ष्मणमयोर्मध्ये मैधिलीम्। नभो-नभस्ययोः श्रावण-भाद्रपदयोरन्तरे मधअये वृष्टिमवग्रहो वर्षप्रतिबंध इव। जहार। `वृष्टिर्वर्षं तद्विघातेऽवग्राहावग्रहौ समौ` इत्यमरः (अ.को.1|3|13)॥"
+    }
+  ]
+}

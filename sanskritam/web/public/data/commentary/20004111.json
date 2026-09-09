@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004111,
+    "chapter_id": 6601,
+    "verse_number": "6.61",
+    "content_sanskrit": "कर्तव्यं वो न पश्यामि स्याच्चेत्किं नोपपद्यते । शङ्के मत्पावनायैव प्रस्थानं भवतामिह ॥",
+    "padaccheda": "कर्तव्यं । वः । न । पश्यामि । स्यात् । चेत् । किं । न । उपपद्यते । शङ्के । मत्पावनाय । एव । प्रस्थानं । भवताम् । इह",
+    "anvaya": "वः कर्तव्यं न पश्यामि । चेत् स्यात्, किं न उपपद्यते? (अतः) इह भवतां प्रस्थानं मत्पावनाय एव (इति) शङ्के ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"I see no task that you need to accomplish. If there were one, what could you not achieve? Therefore, I suspect that your journey here is solely for the purpose of purifying me.\"",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004111,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कर्तव्यमिति । कर्तव्यं कार्यं वो युष्माकं न पश्यामि । निःस्पृहत्वादिति भावः । अथ स्याच्चेद्विद्येत यदि, किं नोपपद्यते किं नाम न संभवति । सर्वं सुलभमेवेत्यर्थः । अथवा किमत्र प्रयोजनचिन्तयेत्याह-- मत्पावनाय मच्छोधनायैव भवतामिह विषये प्रस्थानम् । इमं देशमुद्दिश्येदं प्रयाणमित्यर्थः । मन्ये तर्कयामि"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010610,
+    "chapter_id": 6675,
+    "verse_number": "3.52",
+    "content_sanskrit": "गाथाकारैश्च कविभिर्वैरकारैश्च योद्धृभिः । सूत्रकारैश्च विद्वद्भिस्सदा यत् पर्यशोभत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010610,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गाथाकारैरिति ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003038,
+    "chapter_id": 6587,
+    "verse_number": "11.65",
+    "content_sanskrit": "येन रोषपरुषात्मनः पितुः शासने स्थितिभिदोऽपि तस्थुषा । वेपमानजननीशिरश्छिदा प्रागजीयत घृणा ततो मही ॥",
+    "padaccheda": "येन । रोषपरुषात्मनः । पितुः । शासने । स्थितिभिदः । अपि । तस्थुषा । वेपमानजननीशिरश्छिदा । प्राक् । घृणा । अजीयत । ततः । मही",
+    "anvaya": "येन रोषपरुषात्मनः पितुः शासने स्थितिभिदः अपि तस्थुषा वेपमानजननीशिरश्छिदा प्राग् घृणा अजीयत ततः मही ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "By him, who stood by the command of his father whose soul was harsh with anger, pity was first conquered when he cut off the head of his trembling mother, and then the earth was conquered.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003038,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "येनेति॥ रोषपरुष आत्मा बुद्धिर्यस्य सः। `आत्मा जीवो धृतिर्बुद्धिः` इत्यमरः। तस्य रोषपरुषात्मनः स्थितिभिदोऽपि मर्यादालङ्घिनोऽपि पितुः शासने तस्थुषा स्थितेन वेपमानजननीशइरश्छिदा येन प्राग्घृणाऽजीयत। ततोऽनन्तरं मह्यजीयत। मातृहन्तुः क्षत्रवधात्कुतो जुगुप्सेति भावः ॥"
+    }
+  ]
+}

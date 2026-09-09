@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003604,
+    "chapter_id": 6593,
+    "verse_number": "17.77",
+    "content_sanskrit": "एवमुद्यन्प्रभावेण शास्त्रनिर्दिष्टवर्त्मना । वृषेव देवो देवानां राज्ञां राजा बभूव सः ॥",
+    "padaccheda": "एवम् । उद्यन् । प्रभावेण । शास्त्रनिर्दिष्टवर्त्मना । वृषा । इव । देवः । देवानाम् । राज्ञाम् । राजा । बभूव । सः",
+    "anvaya": "एवम् शास्त्रनिर्दिष्टवर्त्मना प्रभावेण उद्यन् सः, देवानाम् देवः वृषा इव, राज्ञाम् राजा बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "By diligently following the path laid out in the scriptures, King Atithi's power and majesty grew. He thus became a king of kings, just as Indra, the chief of the gods, rules over all other deities.",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003604,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति॥ एवं शास्त्रनिर्दिष्टवर्त्मना शास्त्रोपदिष्टमार्गेण प्रभावेण कोशदण्डजेन तेजसा। `स प्रभावः प्रतापश्च यत्तेजः कोशदण्डजम्` इत्यमरः उद्यन्नुद्युञ्जनः सः। वृषा वासवो देवानां देवो देवदेव इव। राज्ञां राजा राजराजो बभूव ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010830,
+    "chapter_id": 6677,
+    "verse_number": "5.70",
+    "content_sanskrit": "मतिमानर्जुनो दृष्ट्वा महर्षिं प्रजहर्ष तम् । वृष्ट्युन्मुखमिवांभोदं मयूरस्सार्वचेष्टितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010830,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मतिवृष्टिशब्दौ आद्युदात्ताविह भाषायाम् । 'मन्त्रे वृषेषपचमनविदभूवीरा उदात्ताः' (पा.३|३|९६) इति ह्युदात्त विधिः क्तिनः ॥"
+    }
+  ]
+}

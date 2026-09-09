@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003153,
+    "chapter_id": 6588,
+    "verse_number": "12.87",
+    "content_sanskrit": "अन्योन्यदर्शनप्राप्तविक्रमावसरं चिरात् । रामरावणयोर्युद्धं चरितार्थमिवाभवत् ॥",
+    "padaccheda": "अन्योन्यदर्शनप्राप्तविक्रमावसरं । चिरात् । रामरावणयोः । युद्धं । चरितार्थम् । इव । अभवत्",
+    "anvaya": "चिरात् अन्योन्यदर्शनप्राप्तविक्रमावसरं रामरावणयोः युद्धं चरितार्थम् इव अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The battle between Rama and Ravana, which finally provided an opportunity for their prowess to be displayed against each other after a long time, seemed as if it had finally achieved its true purpose.",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003153,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अन्योन्येति॥ चिरादन्योन्यदर्शनेन प्राप्तविक्रमावसरं रामरावणयोर्युद्धमायोधनं चरितार्थं सफलमभवदिव। प्राक्पराक्रमावसरदौर्बल्याद्विफलस्याद्य तल्लाभात्साफल्यमुत्प्रेक्ष्यते ॥"
+    }
+  ]
+}

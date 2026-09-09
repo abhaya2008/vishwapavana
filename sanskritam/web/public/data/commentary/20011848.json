@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011848,
+    "chapter_id": 6686,
+    "verse_number": "14.72",
+    "content_sanskrit": "जिगेथ वज्रिणं युद्धे तथा जिगयिथाऽच्युतम् । दुदोथ सर्वान् गीर्वाणान् सर्वान् दुदविथर्त्विजः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011848,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जिगेथ जिगयिथेति भारद्वाजनियमादिट् वा । सन्लिटोर्जेरित्यभ्यासात्परस्य (पा.७|३|५७) कुत्वम् । तथा दुदोथ दुदविथेति । टु दु उपतापे । दुनोषि स्म ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003907,
+    "chapter_id": 6598,
+    "verse_number": "3.65",
+    "content_sanskrit": "अथोपनिन्ये गिरिशाय गौरी तपस्विने ताम्ररुचा करेण । विशोषितां भानुमतो मयूखैर्मन्दाकिनीपुष्करबीजमालाम् ॥",
+    "padaccheda": "अथ । उपनिन्ये । गिरिशाय । गौरी । तपस्विने । ताम्ररुचा । करेण । विशोषिताम् । भानुमतः । मयूखैः । मन्दाकिनीपुष्करबीजमालाम्",
+    "anvaya": "अथ गौरी तपस्विने गिरिशाय ताम्र-रुचा करेण, भानुमतः मयूखैः विशोषिताम् मन्दाकिनी-पुष्कर-बीज-मालाम् उपनिन्ये ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Gauri (Parvati), with her copper-hued hand, offered to the ascetic Girisha (Shiva) a rosary made of lotus seeds from the Mandakini river, which had been dried by the rays of the sun.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003907,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति । अथ गौरी । तपोऽस्यास्तीति तपस्वी । `अस्मायामेधास्त्रजो विनिः` इति विनिप्रत्ययः । तस्मै तपस्विने गिरिशाय ताम्ररुचा रक्तवर्णेन करेण भानुमतोंऽशुमतो मयूखैर्विशोषितां मन्दाकिन्याः पुष्कराणि पद्मानि तेषां बीजानि तेषां मालां जपमालिकामुपनिन्ये समर्पितवती"
+    }
+  ]
+}

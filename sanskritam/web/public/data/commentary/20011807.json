@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011807,
+    "chapter_id": 6686,
+    "verse_number": "14.31",
+    "content_sanskrit": "गत्वाऽथाऽश्वाऽऽसयामास वत्सला देवकीसुताम् । जिष्णुरेव पतिर्भावी तव कृष्ण नयैरिति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011807,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अथ कृष्णेन कर्णकथितवृत्तान्ता देवकी वत्सला गत्वा जिष्णुरेवेत्यादि वदन्ती सुतामाश्वासयामास ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003428,
+    "chapter_id": 6591,
+    "verse_number": "15.92",
+    "content_sanskrit": "उपेत्य मुनिवेषोऽथ कालः प्रोवाच राघवम् । रहःसंवादिनौ पश्येदावां यस्तं त्यजेरिति ॥",
+    "padaccheda": "उपेत्य । मुनिवेषः । अथ । कालः । प्र-उवाच । राघवम् । रहःसंवादिनौ । पश्येत् । आवाम् । यः । तम् । त्यजेः । इति",
+    "anvaya": "अथ मुनिवेषः कालः उपेत्य राघवम् प्र उवाच - यः रहःसंवादिनौ आवाम् पश्येत्, तम् त्यजेः इति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Time, in the guise of a sage, approached Raghava (Rama) and said, \"Whoever sees us two conversing in private, you must abandon him.\"",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003428,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उपत्यिति॥ अथ कालोऽन्तको मुनिवेषः सन्नुपेत्य राघवं प्रोवाच। किमित्याह-रहस्येकान्ते संवादिनौ संभाषिणावावां यः पश्येत्। रहस्यभङ्गं कुर्यादित्यर्थः। तं त्यजेरिति ॥"
+    }
+  ]
+}

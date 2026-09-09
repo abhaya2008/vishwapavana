@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004429,
+    "chapter_id": 6605,
+    "verse_number": "10.46",
+    "content_sanskrit": "ब्रह्मध्यानपरैर्योगपरैर्ब्रह्मासनस्थितैः । योगनिद्रागतैर्योगपट्टबन्धैरुपाश्रिताम् ॥",
+    "padaccheda": "ब्रह्मध्यानपरैः । योगपरैः । ब्रह्मासनस्थितैः । योगनिद्रागतैः । योगपट्टबन्धैः । उपाश्रिताम्",
+    "anvaya": "ब्रह्मध्यानपरैः योगपरैः ब्रह्मासनस्थितैः योगनिद्रागतैः योगपट्टबन्धैः उपाश्रिताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The river was occupied by sages who were absorbed in meditation on Brahman and Yoga, seated in the Brahmāsana posture, some in Yogic sleep, and others using Yogic binding straps for support.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004429,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ब्रह्मेति । ब्रह्मासने स्थितैः । तथा ब्रह्मणो ध्याने परैः सक्तैः । तथा योग एव निद्रा तां गतैः, तथा योगपट्टस्य बन्धो बन्धनं येषां तैः । योगपट्टं बध्नद्भिरित्यर्थः । एवंविधैर्योगपरैर्योगिभिरुपाश्रितां सेविताम् ।`उभौ जानू ऊर्ध्वतमौ सकट्युपसुवाससा । बद्धौ च कृत्वा सततं ध्यायोत्परमनन्यधीः' इति योगलक्षणम्"
+    }
+  ]
+}

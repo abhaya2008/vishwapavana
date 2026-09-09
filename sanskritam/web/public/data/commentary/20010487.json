@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010487,
+    "chapter_id": 6674,
+    "verse_number": "2.67",
+    "content_sanskrit": "प्रायो लोहितकावद्धकुण्डलच्छद्मना श्रितौ । नतौ तस्यार्कपूर्णेन्दू तेजःकान्तिजितौ मुखम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010487,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उत्प्रेक्षागर्भापह्नुतिरलंङ्कारः । लोहितकं पद्मरागः । 'लोहिन्तान्मणौ' इति (पा.५|४|३०) कन् ॥"
+    }
+  ]
+}

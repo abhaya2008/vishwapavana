@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003698,
+    "chapter_id": 6595,
+    "verse_number": "19.37",
+    "content_sanskrit": "अंसलम्बिकुटजार्जुनस्रजस्तस्य नीपरजसाङ्गरागिणः । प्रावृषि प्रमदबहिणेष्वभूत्कृत्रिमाद्रिषु विहारविभ्रमः ॥",
+    "padaccheda": "अंसलम्बिकुटजार्जुनस्रजः । तस्य । नीपरजसाङ्गरागिणः । प्रावृषि । प्रमदबर्हिणेषु । अभूत् । कृत्रिमाद्रिषु । विहारविभ्रमः",
+    "anvaya": "प्रावृषि अंस-लम्बि-कुटज-अर्जुन-स्रजः नीप-रजसा-अङ्ग-रागिणः तस्य प्रमद-बर्हिणेषु कृत्रिम-अद्रिषु विहार-विभ्रमः अभूत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "During the rainy season, he, wearing garlands of Kutaja and Arjuna flowers hanging from his shoulders and his body anointed with Kadamba pollen, enjoyed the graceful pastime of strolling on artificial pleasure-hills inhabited by joyous peacocks.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003698,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अंसेति॥ प्रावृष्यंसलम्बिन्यः कुटजानामर्जुनानां ककुभानां च स्रजो यस्य तस्य। नीपानां कदम्बकुसुमानां रजसाङ्गरागिणोऽङ्गरागवतस्तस्याग्निवर्णस्य प्रमदबर्हिणेषून्मत्तमयूरेषु कृत्रिमाद्रिषु विहार एव विभ्रमो विलासोऽभूदभवत् ॥"
+    }
+  ]
+}

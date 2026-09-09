@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012049,
+    "chapter_id": 6688,
+    "verse_number": "16.56",
+    "content_sanskrit": "सदा पचायिपीरंश्च कुन्ती कृष्णा च पाण्डवाः । घानिषीष्ट वियोगार्तिर्ग्राहिषीष्ट सदा धृतिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012049,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "ग्राहिषीष्ट । ग्रहेश्लिङ्वद्भावात् इट्वृद्धी ॥"
+    }
+  ]
+}

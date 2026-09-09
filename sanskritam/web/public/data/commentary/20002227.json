@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002227,
+    "chapter_id": 6577,
+    "verse_number": "1.78",
+    "content_sanskrit": "स शापो न त्वया राजन्न च सारथिना श्रुतः । नदत्याकाशगङ्गायाः स्रोतस्युद्दामदिग्गजे ॥",
+    "padaccheda": "सः । शापः । न । त्वया । राजन् । न । च । सारथिना । श्रुतः । नदति । आकाशगङ्गायाः । स्रोतसि । उद्दानदिग्गजे",
+    "anvaya": "हे राजन्! उद्दाम-दिग्-गजे आकाश-गङ्गायाः स्रोतसि नदति (सति) सः शापः न त्वया न च सारथिना श्रुतः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "O King, that curse was heard neither by you nor your charioteer, because of the roaring of the celestial Gaṅgā and the trumpeting of the wild elephants of the quarters.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002227,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ हे राजन्! स शापस्त्वया न श्रुतः। सारथिना च न श्रुतः। अथवणे हेतुमाह-क्रीडार्थमागता उद्दामानो दाम्न उद्गता दिग्गजा यस्मिंस्तथोक्त आकाशगङ्गाया मन्दाकिन्याः स्रोतसि प्रवाहे नदति सति ॥"
+    }
+  ]
+}

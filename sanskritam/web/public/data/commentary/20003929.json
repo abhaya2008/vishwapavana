@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003929,
+    "chapter_id": 6599,
+    "verse_number": "4.11",
+    "content_sanskrit": "रजनीतिमिरावगुण्ठिते पुरमार्गे घनशब्दविक्लवाः । वसतिं प्रिय कामिनां प्रियास्त्वद् ऋते प्रापयितुं क ईश्वरः ॥",
+    "padaccheda": "रजनीतिमिरावगुण्ठिते । पुरमार्गे । घनशब्दविक्लवाः । वसतिम् । प्रिय । कामिनाम् । प्रियाः । त्वत् । ऋते । प्रापयितुम् । कः । ईश्वरः",
+    "anvaya": "हे प्रिय, त्वत् ऋते रजनी-तिमिर-अवगुण्ठिते पुर-मार्गे घन-शब्द-विक्लवाः कामिनाम् प्रियाः वसतिम् प्रापयितुम् कः ईश्वरः?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O beloved, without you, who is capable of guiding the lovers' sweethearts—distressed by the sound of thunder—to their homes along city streets veiled in the darkness of night?\"",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003929,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रजनीति । हे प्रिय ! रजनीतिमिरेणावगुण्ठित आवृते पुरमार्गे घनशब्दविक्लवा गर्जितभीताः प्रियाः कामिनां वसतिं प्रापयितुं त्वदृते त्वां विना । `अन्यारादितरर्त-` इत्यादिना पञ्चमी । क ईश्वरः शक्तः । न कश्चिदित्यर्थः । न हि कामान्धनां भीतिरस्तीति भावः"
+    }
+  ]
+}

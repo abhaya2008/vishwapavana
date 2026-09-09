@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002963,
+    "chapter_id": 6586,
+    "verse_number": "10.76",
+    "content_sanskrit": "पुत्रजन्मप्रवेश्यानां तूर्याणां तस्य पुत्रिणः । आरम्भं प्रथमं चक्रुर्देवदुन्दुभयो दिवि ॥",
+    "padaccheda": "पुत्रजन्मप्रवेश्यानाम् । तूर्याणाम् । तस्य । पुत्रिणः । आरम्भम् । प्रथमम् । चक्रुः । देवदुन्दुभयः । दिवि",
+    "anvaya": "दिवि देवदुन्दुभयः पुत्रिणः तस्य पुत्रजन्मप्रवेश्यानाम् तूर्याणाम् प्रथमम् आरम्भम् चक्रुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In heaven, the celestial drums first sounded the commencement of the music that was to be played in the palace of King Daśaratha to celebrate the birth of his sons.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002963,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पुत्रेति॥ पुत्रिणो जातपुत्रस्य तस्य दशरथस्य पुत्रजन्मनि प्रवेश्यानां प्रवेशयितव्यानाम्। वादनीयानामित्यर्थः। तूर्याणां वाद्यानामारम्भमुपक्रमं प्रथमं दिवि देवदुन्दुभयश्चक्रुः। साक्षात्पितुर्दशरथादपि देवा अधिकं प्रहृष्टा इत्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012832,
+    "chapter_id": 6696,
+    "verse_number": "4.3",
+    "content_sanskrit": "भजनि दुःखकरो न गुरोरसौ श्रवणतः सकृदेव परिग्रही । सहनिपाठजनस्य गुरुः स्वयं स च पपाठ ततो गुरुणा विना ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012832,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "असौ शिशुर्गुरोर्दुःखकरो नाभूत् । यतः सकृदेव श्रवणात्परिग्रहणशीलः सहाध्यायिजनस्य स्वयं गुरुः स च श्रवणानन्तरं गुरुणा विना पपाठ ॥ ३ ॥"
+    }
+  ]
+}

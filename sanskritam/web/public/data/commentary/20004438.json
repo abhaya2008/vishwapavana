@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004438,
+    "chapter_id": 6605,
+    "verse_number": "10.55",
+    "content_sanskrit": "रौद्रं सुदुर्धरं धाम दधाना दहनात्मकम् । परितापमवापुस्ता मग्ना इव विषाम्बुधौ ॥",
+    "padaccheda": "रौद्रम् । सुदुर्धरम् । धाम । दधानाः । दहनात्मकम् । परितापम् । अवापुः । ताः । मग्नाः । इव । विषाम्बुधौ",
+    "anvaya": "दहनात्मकं सुदुर्धरं रौद्रं धाम दधानाः ताः विषाम्बुधौ मग्नाः इव परितापम् अवापुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Bearing that fierce and fiery power of Śiva, which was extremely difficult to sustain, the Kṛttikās experienced intense heat as if they were submerged in an ocean of poison.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004438,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रौद्रमिति । दहनात्मकमग्निरुपमत एव सुतरां दुर्धरं दुःखेन धर्तु शक्यं रौद्रं शैवं धाम देजो दधानास्ताः कृत्तिका विषाम्बुधौ मग्ना इवेत्युत्प्रेक्षा । परितापमवापुः । विषाम्बुधिमग्नत्वे यादृशः परितापो भवति तादृशो रौद्रतेजोधारणे जात इति भावः"
+    }
+  ]
+}

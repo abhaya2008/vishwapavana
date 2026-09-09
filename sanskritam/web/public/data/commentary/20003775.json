@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003775,
+    "chapter_id": 6596,
+    "verse_number": "1.57",
+    "content_sanskrit": "तत्राग्निमाधाय समित्समिद्धं स्वमेव मूर्त्यन्तरमष्टमूर्तिः । स्वयं विधाता तपसः फलानाम्केनापि कामेन तपश्चचार ॥",
+    "padaccheda": "तत्र । अग्निम् । आधाय । समित्समिद्धम् । स्वम् । एव । मूर्त्यन्तरम् । अष्टमूर्तिः । स्वयम् । विधाता । तपसः । फलानाम् । केन । अपि । कामेन । तपः । चचार",
+    "anvaya": "अष्टमूर्तिः तत्र समित्समिद्धम् स्वम् एव मूर्त्यन्तरम् अग्निम् आधाय, स्वयम् तपसः फलानाम् विधाता अपि सन् केन अपि कामेन तपः चचार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, Shiva, the one with eight forms, having kindled the sacrificial fire—which is but another form of himself—with sacred wood, began to practice austerities. Though he himself is the bestower of the fruits of all penance, he performed this penance with some unknown desire.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003775,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति । तपसः फलानामिन्द्रत्वादीनां स्वयं विधाता जनयिता । दातेत्यर्थः । अष्टो मूर्तयो यस्य सोऽष्टमूर्तिरीश्वरः । `भूतार्कचन्द्रयज्वानो मृर्तयोऽष्टौ प्रकीर्तिताः` । इति तत्र प्रस्थे स्वं स्वकीयमेव मूर्त्यन्तरं मूर्तिभेदं समिद्भिः समिद्धं दीपितमग्निमाधाय प्रतिष्ठाप्य केनापि कामेन कयापि फलकामनया तपश्चचार चक्रे । `प्रयोजनमनुद्दिश्य न मन्दोऽपि प्रवर्तते` इति न्यायात्कामेनेत्युक्तम् । तस्यावाप्तसमस्तकामत्वात्केनापीत्युक्तम्"
+    }
+  ]
+}

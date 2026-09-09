@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005447,
+    "chapter_id": 6624,
+    "verse_number": "12.12",
+    "content_sanskrit": "रजनीषु राजतनयस्य बहुलसमयेऽपि धामभिः । भिन्नतिमिरनिकरं न जहे शशिरश्मिसंगमयुजा नभः श्रिया ॥",
+    "padaccheda": "रजनीषु । राजतनयस्य । बहुलसमये । अपि । धामभिः । भिन्नतिमिरनिकरम् । न । जहे । शशिरश्मिसंगमयुजा । नभः । श्रिया",
+    "anvaya": "बहुलसमये अपि रजनीषु राजतनयस्य धामभिः भिन्नतिमिरनिकरम् नभः शशिरश्मिसंगमयुजा श्रिया न जहे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even during the nights of the dark fortnight, the sky, its mass of darkness dispelled by the prince's radiance, did not abandon the beauty it possesses from its union with the moon's rays.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005447,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "रजनीष्विति ॥ बहुलसमये कृष्णपक्षेऽपि रजनीषु रात्रिषु राजतनयस्यार्जुनस्थ धामभिस्तेजोभिर्भिन्नस्तिमिरनिकरो यस्य तन्नभः शशिरश्मीनां संगमेन हेतुना युजा संगतया श्रिया । तच्छ्रीतुल्यया श्रियेत्यर्थः । अत एव निदर्शनालंकारः। न जहे न त्यक्तम् । जहातेः कर्मणि लिट् । ज्योत्स्नातुल्यं ज्योतिर्जातमित्यर्थः ॥"
+    }
+  ]
+}

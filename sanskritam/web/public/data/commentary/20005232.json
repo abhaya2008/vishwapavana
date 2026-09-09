@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005232,
+    "chapter_id": 6621,
+    "verse_number": "9.19",
+    "content_sanskrit": "नीलनीरजनिभे हिमगौरं शैलरुद्धवपुषः सितरश्मेः । खे रराज निपतत्करजालं वारिधेः पयसि गाङ्गमिवाम्भः ॥",
+    "padaccheda": "नीलनीरजनिभे । हिमगौरं । शैलरुद्धवपुषः । सितरश्मेः । खे । रराज । निपतत्करजालं । वारिधेः । पयसि । गाङ्गम् । इव । अम्भः",
+    "anvaya": "शैल-रुद्ध-वपुषः सित-रश्मेः हिम-गौरम् निपतत्-कर-जालम् नील-नीरज-निभे खे, वारिधेः पयसि गाङ्गम् अम्भः इव, रराज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The snow-white collection of falling rays from the moon, whose body was obstructed by the mountain, shone in the blue-lotus-like sky, just as the water of the Ganges shines when it meets the water of the ocean.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005232,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "नीलेति ॥ शैलरुद्धवपुष उदयगिरितिरोहितमण्डलस्य सितरश्मेरिन्दोः संबन्धि नीलनीरजनिभे श्यामकमलतुल्ये ख आकाशे निपतत्प्रसरत् । हिमवद्गौरं शुभ्रं करजालमंशुसमूहो वारिधेः पयसि निपतङ्गाङ्गमम्भ इव । रराज । उपमानेऽपि विशेषणानि योज्यानि ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005816,
+    "chapter_id": 6630,
+    "verse_number": "18.10",
+    "content_sanskrit": "प्रचलिते चलितं स्थितमास्थिते विनमिते नतमुन्नतमुन्नतौ । वृषकपिध्वजयोरसहिष्णुना मुहुरभावभयादिव भूभृता ॥",
+    "padaccheda": "प्रचलिते । चलितम् । स्थितम् । आस्थिते । विनमिते । नतम् । उन्नतम् । उन्नतौ । वृषकपिध्वजयोः । असहिष्णुना । मुहुः । अभावभयात् । इव । भूभृता",
+    "anvaya": "वृषकपिध्वजयोः प्रचलिते (सति) असहिष्णुना भूभृता अभावभयात् इव मुहुः चलितम्, आस्थिते (सति) स्थितम्, विनमिते (सति) नतम्, उन्नतौ (सति) उन्नतम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the one with the bull banner (Shiva) and the one with the monkey banner (Arjuna) moved, the mountain, unable to bear them, also moved. When they stood still, it stood still; when they bent down, it bent; when they rose up, it rose up, as if repeatedly fearing its own destruction.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005816,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " प्रचलिते इति ॥ असहिष्णुना तयोर्भारमसहमानेन भूभृता शैलेनाभावभयाद्विनाशभयादिव मुहुर्वृषश्च कपिश्च ध्वजे ययोस्तयोर्वृषकपिध्वजयोः प्रचलिते चलने सति चलितं प्रचेले । आस्थिते तूष्णीमवस्थाने स्थितं तथैव तस्थे । विनमिते सम्यगाक्रमणे सति नतं नम्रीभूतम् । अनामीति यावत् । उन्नतावुन्नमने सत्युन्नतमुदनामि। सर्वत्र भावे क्तः।"
+    }
+  ]
+}

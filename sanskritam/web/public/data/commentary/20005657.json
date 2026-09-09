@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005657,
+    "chapter_id": 6627,
+    "verse_number": "15.32",
+    "content_sanskrit": "महेषुजलधौ शत्रोर्वर्तमाना दुरुत्तरे । प्राप्य पारमिवेशानमाशश्वास पताकिनी ॥",
+    "padaccheda": "महेषुजलधौ । शत्रोः । वर्तमाना । दुरुत्तरे । प्राप्य । पारम् । इव । ईशानम् । आशश्वास । पताकिनी",
+    "anvaya": "शत्रोः दुरुत्तरे महा-इषु-जलधौ वर्तमाना पताकिनी ईशानम् पारम् इव प्राप्य आशश्वास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The army (of the Ganas), which was in the enemy's (Arjuna's) great ocean of arrows, difficult to cross, found relief upon reaching Ishana (Shiva), as if reaching the other shore.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005657,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "महेष्विति ॥ दुरुत्तरे दुस्तरे शत्रोः संबन्धिनि महेषुजलधौ महति बाणसागरे वर्तमाना पताकिनी सेनेशानं शिवं पारं परतीरमिव ! `पारावारे परार्वाची` इत्यमरः (अ.को.1|10|8) । प्राप्याशश्वास प्राणिति स्म ।"
+    }
+  ]
+}

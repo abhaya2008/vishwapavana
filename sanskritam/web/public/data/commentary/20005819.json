@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005819,
+    "chapter_id": 6630,
+    "verse_number": "18.13",
+    "content_sanskrit": "विस्मितः सपदि तेन कर्मणा कर्मणां क्षयकरः परः पुमान् । क्षेप्तुकाममवनौ तमक्लमं निष्पिपेष परिरभ्य वक्षसा ॥",
+    "padaccheda": "विस्मितः । सपदि । तेन । कर्मणा । कर्मणाम् । क्षयकरः । परः । पुमान् । क्षेप्तुकामम् । अवनौ । तम् । अक्लमम् । निष्पिपेष । परिरभ्य । वक्षसा",
+    "anvaya": "तेन कर्मणा सपदि विस्मितः कर्मणाम् क्षयकरः परः पुमान् (शिवः), अवनौ क्षेप्तुकामम् अक्लमम् तम् (अर्जुनम्) परिरभ्य वक्षसा निष्पिपेष ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The supreme being (Shiva), the destroyer of karmas, was instantly astonished by that act. Embracing the tireless Arjuna, who was intent on throwing him to the ground, he crushed him with his chest.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005819,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विस्मित इति ॥ तेन कर्मणा चरणग्रहणरूपेण सपदि विस्मितः सविस्मयः कर्मणां क्षयकरः । मोक्षप्रद इत्यर्थः। परः पुमान्हरोऽवनौ क्षितौ क्षेप्तुं कामो यस्य तम् । `तुं काममनसोरपि` इति मकारलोपः। अक्लममक्लान्तं तं पार्थं वक्षसा परिरभ्य निष्पिपेष । गाढमालिलिङ्गेत्यर्थः । रथोद्धतावृत्तम् ॥"
+    }
+  ]
+}

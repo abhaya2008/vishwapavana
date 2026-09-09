@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002834,
+    "chapter_id": 6585,
+    "verse_number": "9.29",
+    "content_sanskrit": "विरचिता मधुनोपवनश्रियामभिनवा इव पत्रविशेषकाः । मधुलिहां मधुदानविशारदाः कुरबका रवकारणतां ययुः ॥",
+    "padaccheda": "विरचिताः । मधुना । उपवनश्रियाम् । अभिनवाः । इव । पत्रविशेषकाः । मधुलिहां । मधुदानविशारदाः । कुरबकाः । रवकारणतां । ययुः",
+    "anvaya": "मधुना उपवनश्रियाम् अभिनवाः पत्रविशेषकाः इव विरचिताः, मधुदानविशारदाः कुरबकाः मधुलिहां रवकारणतां ययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Kurabaka flowers, expert in bestowing nectar, caused the bees to hum. They appeared like new decorative forehead marks crafted by the spring season for the beauties of the garden.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002834,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विरचिता इति॥ मधुना वसन्तेन विरचिता उपवनश्रियामभिनवाः पत्रविशेषकाः पत्ररचना इव स्थिता मधूनां मकरन्दानां दाने विशारदाश्चतुराः कुरबकास्तरवो मधुलिहां मधुपानां रवकारणतां ययुः। भृङ्गाः कुरबकाणां मधूनि पीत्वा जगुरित्यर्थः। दानशौण्डानर्थिजनाः स्तुवन्तीति भावः ॥"
+    }
+  ]
+}

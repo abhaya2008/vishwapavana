@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013891,
+    "chapter_id": 6705,
+    "verse_number": "13.37",
+    "content_sanskrit": "आक्रोशमाकर्ण्य मुनिः स तेषा- मत्यन्तखिन्नो निजयोगभूम्ना । प्राविक्षदङ्गं पृथुकस्य तस्य स ऐष हस्तामलकस्तपस्वी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013891,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तस्य पृथुकस्य बालस्याङ्गं शरीरं प्रविवेश स तपस्व्येष हस्तामलकः ॥ ३७ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013891,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "निजेति । स्वयोगैश्वर्यमहिम्नेत्यर्थः"
+    }
+  ]
+}

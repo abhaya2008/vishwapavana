@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014084,
+    "chapter_id": 6706,
+    "verse_number": "14.155",
+    "content_sanskrit": "भगवन्तमभिगम्य रङ्गनाथं पथि पद्माक्षमहं निवर्तमानः । बहुधाविहितानुनीतिनीतो बत पूर्वाश्रममातुलेन गेहम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014084,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "पूर्वाश्रममातुलेन स्वगेहं प्रति बहुधाविहितानु नयेन नीतो बतेत्यत्यन्तखेदे ॥१५५॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014084,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "रङ्गनाथं पद्माक्षं विष्णुम्"
+    }
+  ]
+}

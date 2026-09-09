@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003094,
+    "chapter_id": 6588,
+    "verse_number": "12.28",
+    "content_sanskrit": "संध्याभ्रकपिशस्तस्य विरोधो नाम राक्षसः । अतिष्ठन्मार्गमावृत्य रामस्येन्दोरिव ग्रहः ॥",
+    "padaccheda": "सन्ध्याभ्रकपिशः । तस्य । विरोधः । नाम । राक्षसः । अतिष्ठत् । मार्गम् । आवृत्य । रामस्य । इन्दोः । इव । ग्रहः",
+    "anvaya": "संध्याभ्र-कपिशः विरोधः नाम राक्षसः इन्दोः ग्रहः इव रामस्य मार्गम् आवृत्य अतिष्ठत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A demon named Viradha, reddish-brown like a twilight cloud, stood blocking Rama's path, just as Rahu obstructs the moon.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003094,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संध्येति॥ संध्याभ्रकपिशो विराधो नाम राक्षसः। ग्रहो राहुरिन्दोरिव। तस्य रामस्य मार्गमध्वानमावृत्यावरुध्यातिष्ठत् ॥"
+    }
+  ]
+}

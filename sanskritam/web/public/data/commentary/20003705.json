@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003705,
+    "chapter_id": 6595,
+    "verse_number": "19.44",
+    "content_sanskrit": "ताः स्वमङ्कमधिरोप्य दोलया प्रेङ्खयन्परिजनापविद्धया । मुक्तरज्जु निबिडं भयच्छलात्कण्ठबन्धनमवाप बाहुभिः ॥",
+    "padaccheda": "ताः । स्वम् । अङ्कम् । अधिरोप्य । दोलया । प्रेङ्खयन् । परिजनापविद्धया । मुक्तरज्जुः । निबिडम् । भयच्छलात् । कण्ठबन्धनम् । अवाप । बाहुभिः",
+    "anvaya": "(सः) ताः स्वम् अङ्कम् अधिरोप्य परिजन-अपविद्धया दोलया प्रेङ्खयन्, मुक्त-रज्जुः (सन्) भय-च्छलात् (तासाम्) बाहुभिः निबिडम् कण्ठ-बन्धनम् अवाप।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Placing them on his lap, he would swing them on a swing pushed by attendants. Then, letting go of the ropes, he would receive a tight embrace around his neck from their arms, under the pretext of their fear of falling.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003705,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ता इति॥ ता अङ्गनाः स्वमङ्कं स्वकीयमुत्सङ्गमधिरोप्य परिजनेनापविद्धया संप्रेषितया दोलया मुक्तरज्जु त्यक्तदोलासूत्रं यथा तथा प्रेङ्खयंश्चालयन् भयाच्छलात्पतनभयमिषाद्वाहुभिरङ्गनाभुजैर्निबिडं कण्ठबन्धनमवाप प्राप। स्वयंग्रहाश्लेषशुखमन्वभूदित्यर्थः ॥"
+    }
+  ]
+}

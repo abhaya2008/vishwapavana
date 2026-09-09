@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005605,
+    "chapter_id": 6626,
+    "verse_number": "14.45",
+    "content_sanskrit": "किरातसैन्यादुरुचापनोदिताः समं समुत्पेतुरुपात्तरंहसः । महावनादुन्मनसः खगा इव प्रवृत्तपत्त्रध्वनयः शिलीमुखाः ॥",
+    "padaccheda": "किरातसैन्यात् । उरुचापनोदिताः । समम् । समुत्पेतुः । उपात्तरंहसः । महावनात् । उन्मनसः । खगाः । इव । प्रवृत्तपत्त्रध्वनयः । शिलीमुखाः",
+    "anvaya": "किरातसैन्यात् उरुचापनोदिताः उपात्तरंहसः प्रवृत्तपत्त्रध्वनयः शिलीमुखाः महावनात् उन्मनसः खगाः इव समं समुत्पेतुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Arrows, shot from the great bows of the Kirata army, flew forth simultaneously, having gained great speed. With the whirring sound of their feathers, they resembled startled birds rising in a flock from a vast forest.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005605,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "किरातेति ॥ उरुभिर्बृहद्भिश्चापैर्नोदिताः प्रक्षिप्ता उपात्तरंहसः प्राप्तवेगाः प्रवृत्तपत्रध्वनयः संजातपक्षस्वनाः शिलीमुखा बाणाः। महावनादुन्मनसः क्वापि गन्तुमुत्सुकास्तथोक्तविशेषणविशिष्टाश्च खगाः पक्षिण इव । किरातसैन्यात्समं समन्ततः समुत्पेतुः।"
+    }
+  ]
+}

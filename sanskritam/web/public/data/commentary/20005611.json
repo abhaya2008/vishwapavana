@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005611,
+    "chapter_id": 6626,
+    "verse_number": "14.51",
+    "content_sanskrit": "विमुक्तमाशंसितशत्रुनिर्जयैरनेकमेकावसरं वनेचरैः । स निर्जघानायुधमन्तरा शरैः क्रियाफलं काल इवातिपातितः ॥",
+    "padaccheda": "विमुक्तम् । आशंसितशत्रुनिर्जयैः । अनेकम् । एकावसरम् । वनेचरैः । सः । निर्जघान । आयुधम् । अन्तरा । शरैः । क्रियाफलं । कालः । इव । अतिपातितः",
+    "anvaya": "सः अतिपातितः कालः क्रियाफलं इव, आशंसितशत्रुनिर्जयैः वनेचरैः एकावसरं विमुक्तम् अनेकम् आयुधं शरैः अन्तरा निर्जघान।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Arjuna), with his arrows, destroyed the numerous weapons released all at once by the forest-dwellers who were anticipating victory over their foe. He struck them down mid-flight, just as inopportune timing (lapsed time) destroys the fruit of an action.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005611,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विमुक्तमिति ॥ आशंसितः काङ्क्षितः शत्रुनिर्जयो यैस्तैः । अहमहमिकया शत्रुं विजिगीषद्भिरित्यर्थः । वनेचरैरेकावसरं समकालम् । अत्यन्तसंयोगे द्वितीया । विमुक्तं प्रयुक्तमनेकं बहु आयुधम् । जातावेकवचनम् । सोऽर्जुनः क्रियाफलमतिपातितोऽतिक्रान्तः काल इव । अतिक्रान्तकालस्य कर्मणो निष्फलत्वादिति भावः । अन्तरा मध्ये शरैर्निजघान ॥"
+    }
+  ]
+}

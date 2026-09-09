@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003178,
+    "chapter_id": 6589,
+    "verse_number": "13.8",
+    "content_sanskrit": "रसातलादादिभवेन पुंसा भुवः प्रयुक्तोद्वहनक्रियायाः । अस्याच्छमम्मः प्रलयप्रवृद्धं मुहूर्तवक्राभरणं बभूव ॥",
+    "padaccheda": "रसातलात् । आदि-भवेन । पुंसा । भुवः । प्रयुक्त-उद्वहन-क्रियायाः । अस्य । अच्छम् । अम्भः । प्रलय-प्रवृद्धम् । मुहूर्त-वक्त्र-आभरणम् । बभूव",
+    "anvaya": "रसातलात् भुवः उद्वहन-क्रियायाम् प्रयुक्तस्य आदि-भवेन पुंसा, प्रलय-प्रवृद्धम् अस्य अच्छम् अम्भः मुहूर्त-वक्त्र-आभरणम् बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"When the primeval Purusha, in his first incarnation as the Boar, lifted the Earth from the netherworld, the clear water of this vast ocean, swollen as if at the time of dissolution, served for a moment as an ornament on his snout.\"",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003178,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रसातलादिति॥ आदिभवेन पुंसाऽऽदिवराहेण रसातलात्प्रयुक्तोद्वहननक्रिययाः कृतोद्धरणक्रियायाः। विवाहक्रिया च व्यज्यते। भुवो भूदेवतायाः प्रलये प्रवृद्धमस्याब्धेरच्छमम्भो मुहूर्तं वक्त्राभरणं लज्जारक्षणार्थं मुखावगुण्ठनं बभूव। तदुक्तम्-`उद्धृतासि वराहेण कृष्णेन शतबाहुना`इति ॥"
+    }
+  ]
+}

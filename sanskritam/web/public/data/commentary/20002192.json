@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002192,
+    "chapter_id": 6577,
+    "verse_number": "1.43",
+    "content_sanskrit": "सरसीष्वरविन्दानां वीचिविक्षोभशीतलम् । आमोदमुपजिघ्रन्तौ स्वनिःश्वासानुकारिणम् ॥",
+    "padaccheda": "सरसीषु । अरविन्दानाम् । वीचिविक्षोभशीतलम् । आमोदम् । उपजिघ्रन्तौ । स्वनिःश्वासानुकारिणम्",
+    "anvaya": "सरसीषु वीचि-विक्षोभ-शीतलम् स्व-निःश्वास-अनुकारिणम् अरविन्दानाम् आमोदम् उपजिघ्रन्तौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "During their journey, they inhaled the fragrance of lotuses from the lakes. This scent, cooled by the rippling waves, was as sweet and pleasant as their own fragrant breath.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002192,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सरसीष्विति॥ सरसीषु वीचिविक्षोभशीतलमूर्मिसंघटनेन शीतलं स्वनिःश्वासमनुकर्तुं शीलमस्येति स्वनिःश्वासानुकारिणम्। एतेन तयोरुत्कृष्टस्त्रीपुंसजातीयत्वमुक्तम्। अरविन्दानामामोदमुपजिघ्रन्तौ घ्राणेन गृह्णन्तौ ॥"
+    }
+  ]
+}

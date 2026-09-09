@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003560,
+    "chapter_id": 6593,
+    "verse_number": "17.33",
+    "content_sanskrit": "तस्यैकस्योच्छ्रितं छत्रं मूर्ध्नि तेनामलत्विषा । पूर्वराजवियोगौष्म्यं कृत्स्नस्य जगतो हृतम् ॥",
+    "padaccheda": "तस्य । एकस्य । उच्छ्रितम् । छत्रम् । मूर्ध्नि । तेन । अमलत्विषा । पूर्वराजवियोगौष्म्यम् । कृत्स्नस्य । जगतः । हृतम्",
+    "anvaya": "तस्य एकस्य मूर्ध्नि उच्छ्रितम् अमलत्विषा तेन छत्रेण कृत्स्नस्य जगतः पूर्वराजवियोगौष्म्यम् हृतम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "By that single umbrella with its spotless lustre, held high over his head, the heat of sorrow felt by the entire world due to separation from the previous king was taken away.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003560,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ तस्यैकस्य मूर्ध्नि छत्रमुच्छ्रितमुन्नमितम्। अमलत्विषा तेन छत्रेण कृत्स्नस्य जगतः पूर्वराजस्य कुशस्य वियोगेन यदौष्म्यं संतापस्तद्धृतं नाशितम्। अत्र छत्रोन्नमन-संतापहरणलक्षणयोः कारणकार्ययोर्भिन्नदेशत्वादसंगतिरलंकारः। तदुक्तम्-`कार्यकारणयोर्भिन्नदेशत्वे सत्यसंगतिः` इति ॥"
+    }
+  ]
+}

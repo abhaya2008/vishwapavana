@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011396,
+    "chapter_id": 6682,
+    "verse_number": "10.40",
+    "content_sanskrit": "अन्नपानामृतैस्तत्त्र तृप्तस्सानुचरोऽर्जुनः । रेमे गोगर्भिणीः पश्यन् कबलीकृतशाद्वलाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011396,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गोगर्भिणीरिति । 'चतुष्पादो गर्भिण्या' (पा.२|१|७१) इति ।"
+    }
+  ]
+}

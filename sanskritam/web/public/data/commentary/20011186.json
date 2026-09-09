@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011186,
+    "chapter_id": 6680,
+    "verse_number": "8.72",
+    "content_sanskrit": "मासिकादितपःपूतैर्गुप्तो विप्रैर्भटैरपि । मासिकारिजयप्राप्तैः सोऽजय्योभूदरातिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011186,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मासेन कार्यं मासिकम् । कार्ये ठञ् । मासिकारिजयेति लभ्ये ठञ् ॥"
+    }
+  ]
+}

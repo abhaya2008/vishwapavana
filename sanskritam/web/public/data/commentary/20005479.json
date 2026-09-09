@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005479,
+    "chapter_id": 6624,
+    "verse_number": "12.44",
+    "content_sanskrit": "विरचय्य काननविभागमनुगिरमथेश्वराज्ञया । भीमनिनदपिहितोरुभुवः परितोऽपदिश्य मृगयां प्रतस्थिरे ॥",
+    "padaccheda": "विरचय्य । काननविभागम् । अनुगिरम् । अथ । ईश्वराज्ञया । भीमनिनदपिहितोरुभुवः । परितः । अपदिश्य । मृगयाम् । प्रतस्थिरे",
+    "anvaya": "अथ ईश्वरआज्ञया अनुगिरम् काननविभागम् विरचय्य, मृगयाम् अपदिश्य, भीमनिनदपिहितोरुभुवः (ते) परितः प्रतस्थिरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, by Shiva's command, having arranged themselves in divisions throughout the forest along the mountain, they set out in all directions under the pretext of a hunt, their fearsome shouts covering the vast earth.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005479,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विरचय्येति । अथेश्वराज्ञयानुगिरं गिरौ। विभत्यर्थेऽव्ययीभावः । `गिरेश्च सेनकस्य` (पा.5।4।112) इति समासान्तः। काननविभागं वनविभागं विरचय्य । अस्यायमिति देशविभागं कृत्वेत्यर्थः । भीमैनिदैः कलकलैः पिहिता उरवो भुवो यैस्ते तथोक्ताः सन्तः । मृगयामपदिश्य व्याजीकृत्य परितः प्रतस्थिरे प्रस्थिताः॥"
+    }
+  ]
+}

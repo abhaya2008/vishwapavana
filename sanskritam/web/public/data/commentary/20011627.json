@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011627,
+    "chapter_id": 6684,
+    "verse_number": "12.79",
+    "content_sanskrit": "पृच्छन् विकृतिहेतुं तं नाऽवभापत् किमप्यजः । नाऽवीभपत् सखी ताञ्च सतां ह्यविनयाङ्घयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011627,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अवभापदवीभपदिति ह्रस्वाभावो ह्रस्वश्च ॥"
+    }
+  ]
+}

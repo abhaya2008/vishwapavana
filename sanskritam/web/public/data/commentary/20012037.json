@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012037,
+    "chapter_id": 6688,
+    "verse_number": "16.44",
+    "content_sanskrit": "धृतराष्ट्रसुतान्'वध्यास्सहराधेयसौबलान् । भुवने भास्करेणेव भासिषीष्ट त्वया चिरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012037,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वध्याः । हनो वध लिङि (पा.२|४|४२) आर्धधातुके । अतो लोपः (पा.६|४|४८) । भासिषीष्टेति भावे लिङ् । भासृ दीप्तौ ॥"
+    }
+  ]
+}

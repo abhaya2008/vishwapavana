@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012120,
+    "chapter_id": 6688,
+    "verse_number": "16.127",
+    "content_sanskrit": "युक्ता हालिकता क्षेत्रे मुसलित्वमुलूखले । मृधे धानुष्कता भाति त्वादृशां शूरमानिनाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012120,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परिहासः ॥"
+    }
+  ]
+}

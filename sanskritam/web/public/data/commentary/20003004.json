@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003004,
+    "chapter_id": 6587,
+    "verse_number": "11.31",
+    "content_sanskrit": "तौ प्रणामचलकाकपक्षकौ भ्रातराववभृथाक्लुतो मुनिः । आशिषामनुपदं समस्पृशद्दर्भपाटिततलेन पाणिना ॥",
+    "padaccheda": "तौ । प्रणामचलकाकपक्षकौ । भ्रातरौ । अवभृथाप्लुतो । मुनिः । आशिषाम् । अनुपदम् । समस्पृशत् । दर्भपाटिततलेन । पाणिना",
+    "anvaya": "मुनिः प्रणामचलकाकपक्षकौ अवभृथाप्लुतो तौ भ्रातरौ आशिषाम् अनुपदम् दर्भपाटिततलेन पाणिना समस्पृशत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "After the ritual bath, the Sage touched the two brothers, whose side-locks were swaying as they bowed, with his hand—its palm scarred by handling Darbha grass—immediately after pronouncing blessings upon them.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003004,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ताविति॥ अवभृथे दीक्षान्त आप्लुतः स्नातो मुनिः। `दीक्षान्तोऽवभृथो यज्ञे` इत्यमरः (अ.को.2|7|29)। प्रणामेन चलकाकपक्षकौ चञ्चलचूडौ तौ भ्रातरावाशिषामनुपदमन्वग्दर्भपाटिततलेन कुशक्षतान्तः प्रदेशेन। पवित्रेणेत्यर्थः। पाणिना समस्पृशत् संस्पृष्टवान्। संतोषादिति भावः ॥"
+    }
+  ]
+}

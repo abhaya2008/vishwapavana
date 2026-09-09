@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002469,
+    "chapter_id": 6580,
+    "verse_number": "4.80",
+    "content_sanskrit": "तत्राक्षोभ्यं यशोराशिं निवेश्यावरुरोह सः । पौसस्त्यतुलितस्याद्रेरादधान इव ह्रियम् ॥",
+    "padaccheda": "तत्र । अक्षोभ्यम् । यशोराशिम् । निवेश्य । अवरुरोह । सः । पौलस्त्यतुलितस्य । अद्रेः । आदधानः । इव । ह्रियम्",
+    "anvaya": "सः तत्र अक्षोभ्यं यशोराशिं निवेश्य, पौलस्त्यतुलितस्य अद्रेः ह्रियम् आदधानः इव, अवरुरोह।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having established his unshakeable monument of fame there, he (Raghu) descended, as if causing shame to the mountain (Kailasa) which had once been lifted by Ravana.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002469,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ स रघुस्तत्र हिमाद्रावक्षोभ्यमधृष्यं यशोराशिं निवेश्य निधाय पौलस्त्येन रावणेन तुलितस्य चालितस्याद्रेः कैलासस्य ह्रियमादधानो जनयन्निव। अवरुरोहावततार। कैलासमगत्वैव प्रतिनिवृत्त इत्यर्थः। न हि शूराः परेण पराजितमभियुज्यन्त इति भावः ॥"
+    }
+  ]
+}

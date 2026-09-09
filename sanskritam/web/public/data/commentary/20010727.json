@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010727,
+    "chapter_id": 6676,
+    "verse_number": "4.73",
+    "content_sanskrit": "निर्यान्तमर्जुनं द्रष्टुं नागराणां प्रधावताम् । चकार धूसरं व्योम सृमरं सरणौ रजः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010727,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निर्यान्तमर्जुनं द्रष्टुं प्रधावतां नागराणां सरणौ सृमरं सरद्रजो व्योम धूसरं चकार । 'सृघस्य दः क्रमरच्' (पा.३|२|१६०) । एवमद्मरघस्मरौ ॥"
+    }
+  ]
+}

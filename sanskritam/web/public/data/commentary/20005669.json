@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005669,
+    "chapter_id": 6627,
+    "verse_number": "15.44",
+    "content_sanskrit": "विलङ्घ्य पत्रिणां पङ्क्तिं भिन्नः शिवशिलीमुखैः । ज्यायो वीर्यं समाश्रित्य न चकम्पे कपिध्वजः ॥",
+    "padaccheda": "विलङ्घ्य । पत्रिणाम् । पङ्क्तिम् । भिन्नः । शिवशिलीमुखैः । ज्यायः । वीर्यम् । समाश्रित्य । न । चकम्पे । कपिध्वजः",
+    "anvaya": "शिवशिलीमुखैः भिन्नः कपिध्वजः पत्रिणाम् पङ्क्तिम् विलङ्घ्य, ज्यायः वीर्यम् समाश्रित्य, न चकम्पे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though pierced by Shiva's arrows, Arjuna (the monkey-bannered one), surpassing the stream of those arrows and resorting to his superior valor, did not tremble.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005669,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विलङ्घ्येति ॥ शिवशिलीमुखैः पत्रिणां पङ्क्तिं निजशरावलिं विलङ्घ्यातिक्रम्य भिन्नो विद्धः कपिध्वजोऽर्जुनो ज्यायः प्रशस्तम् । `वृद्धप्रशस्ययोर्ज्यायान्` इत्यमरः । वीर्यं सत्त्वमुपाश्रित्यावस्थाय न चकम्पे न चचाल । किं तु तान्सहन्नवतस्थावित्यर्थः ।"
+    }
+  ]
+}

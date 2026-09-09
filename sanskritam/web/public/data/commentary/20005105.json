@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005105,
+    "chapter_id": 6618,
+    "verse_number": "6.36",
+    "content_sanskrit": "ऋषिवंशजः स यदि दैत्यकुले यदि वान्वये महति भूमिभृताम् । चरतस्तपस्तव वनेषु सदा न वयं निरूपयितुमस्य गतिम् ॥",
+    "padaccheda": "ऋषिवंशजः । सः । यदि । दैत्यकुले । यदि । वा । अन्वये । महति । भूमिभृताम् । चरतः । तपः । तव । वनेषु । सदा । न । वयम् । निरूपयितुम् । अस्य । गतिम्",
+    "anvaya": "सः ऋषि-वंश-जः यदि, दैत्य-कुले (जातः) यदि, वा महति भूमि-भृताम् अन्वये (जातः) यदि, (इति) तव वनेषु सदा तपः चरतः अस्य गतिम् निरूपयितुम् वयम् न (शक्ताः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Whether he is born from a lineage of sages, or in a family of demons, or in the great dynasty of kings—we are unable to determine the origin of this man who is constantly performing penance in your forests.\"",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005105,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "ऋषीति ॥ स पुरुषः । ऋषिवंशजो वेति शेषः। काकुर्वा । यदि वा दैत्यकुले । जात इति शेषः। यदि वा महति भूमिभृतामन्वये जातः। तव वनेषु तपश्चरतोऽस्य गतिं स्वरूपं निरूपयितुं वयम् । सहन्त इति सहाः । पचाद्यच् । न सहाः । स्म इति शेषः । अपृष्टपरिभाषणापराधं परिहरन्ति"
+    }
+  ]
+}

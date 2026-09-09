@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013887,
+    "chapter_id": 6705,
+    "verse_number": "13.33",
+    "content_sanskrit": "श्रुत्वेति पप्रच्छुरमुं विनेयाः स्वामिन्विनेव श्रवणाद्युपायैः । अलव्ध विज्ञानमयं कथं वा भवानिदं साधु विदांकरोतु ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013887,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अयं विज्ञानं कथं लब्धवानिदं भवान्साधु सम्यग्बोधयतु ॥ ३३ ॥"
+    }
+  ]
+}

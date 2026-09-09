@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002966,
+    "chapter_id": 6586,
+    "verse_number": "10.79",
+    "content_sanskrit": "स्वाभाविकं विनीतत्वं तेषां विनयकर्मणा । मुमूर्च्छ सहजं तेजो हविषेव हविर्भुजाम् ॥",
+    "padaccheda": "स्वाभाविकम् । विनीतत्वम् । तेषाम् । विनयकर्मणा । मुमूर्च्छ । सहजम् । तेजः । हविषा । इव । हविर्भुजाम्",
+    "anvaya": "तेषाम् स्वाभाविकम् विनीतत्वम् विनयकर्मणा मुमूर्च्छ हविषा हविर्भुजाम् सहजम् तेजः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Their natural modesty increased through disciplined training, just as the innate brilliance of fire increases when fed with sacrificial oblations.",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002966,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वाभाविकमिति॥ तेषां कुमाराणां संबन्धि स्वाभाविकं सहजं विनीतत्वं विनयकर्मणा शिक्षया। हविर्भुजामग्नीनां सहजं तेजो हविषाऽऽज्यादिकेनेव। मुमूर्छ ववृधे। निसर्गसंस्काराभ्यां विनीता इत्यर्थः ॥"
+    }
+  ]
+}

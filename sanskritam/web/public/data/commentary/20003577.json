@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003577,
+    "chapter_id": 6593,
+    "verse_number": "17.50",
+    "content_sanskrit": "मन्त्रः प्रतिदिनं तस्य बभूव सह मन्त्रिभिः । स जातु सेव्यमानोऽपि गुप्तद्वारो न सूच्यते ॥",
+    "padaccheda": "मन्त्रः । प्रतिदिनम् । तस्य । बभूव । सह । मन्त्रिभिः । सः । जातु । सेव्यमानः । अपि । गुप्तद्वारः । न । सूच्यते",
+    "anvaya": "तस्य प्रतिदिनम् मन्त्रिभिः सह मन्त्रः बभूव । गुप्त-द्वारः सः (मन्त्रः) जातु सेव्यमानः अपि न सूच्यते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Every day he held counsel with his ministers. That counsel, being conducted behind closed doors, was never divulged, even while it was in progress.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003577,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मन्त्र इति॥ तस्य राज्ञः प्रतिदिनं मन्त्रिभिः सह मन्त्रो विचारो बभूव। स मन्त्रः सेव्यमानोऽप्यन्वहमावर्त्यमानोऽपि जातु कदाचिदपि न सूच्यते न प्रकाश्यते। तत्र हेतुः-गुप्तद्वार इति। संवृतेङ्गिताकारादिज्ञानमार्ग इत्यर्थः ॥"
+    }
+  ]
+}

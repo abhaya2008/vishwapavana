@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004721,
+    "chapter_id": 6611,
+    "verse_number": "16.13",
+    "content_sanskrit": "चापैराकर्णमाकृष्टैर्विमुक्ता दूरमाशुगाः । अधाबन्रुधिरास्वादलुब्धा इव रणैषिणाम् ॥",
+    "padaccheda": "चापैः । आकर्णम् । आकृष्टैः । विमुक्ताः । दूरम् । आशुगाः । अधावन् । रुधिरास्वादलुब्धाः । इव । रणैषिणाम्",
+    "anvaya": "आकर्णम् आकृष्टैः चापैः विमुक्ताः आशुगाः रुधिर-आस्वाद-लुब्धाः इव रणैषिणाम् दूरम् अधावन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The arrows, released from bows drawn right back to the ears, sped far across the battlefield as if they were creatures greedy to taste the blood of the warriors seeking combat.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004721,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चापैरिति आकर्ण कर्णपर्यन्तमाकृष्टै रणैषिणां योद्धॄणां सम्बन्धिभिश्चापैर्धनुर्भिर्विमुक्ता विसृष्टा आशुगाः शरा रुधिरास्वादे लुब्धा लम्पटा इव दूरमधावन्विद्रुताः । लम्पटा अपि भोजनास्वादाय द्रुतं पलायत्ते तद्वत् । 16.13 ।।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011505,
+    "chapter_id": 6683,
+    "verse_number": "11.82",
+    "content_sanskrit": "इति स्तुतवतां तेषां भक्तानां मधुसूदनः । छित्त्वैनांसि तनोति स्म पुण्यानीति किमुच्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011505,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "छित्त्वेति । छो छेदने । 'आदेच उपदेशेऽशिति' (पा.६|१|४५) इत्यात्वम् । क्त्वायां 'शाच्छोरन्यतरस्या'मितीत्वम् (पा.७|४|४१) ॥"
+    }
+  ]
+}

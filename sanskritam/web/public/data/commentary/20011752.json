@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011752,
+    "chapter_id": 6685,
+    "verse_number": "13.88",
+    "content_sanskrit": "पद्मापतेस्स पापोऽपि पादपातैरपूयत । गाङ्गञ्जनङ्गमस्यापि पावनं हि विगाहनम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011752,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जनङ्गमश्चण्डालः । संज्ञायां गमश्चेति (पा.३|२|४७) खच् ॥"
+    }
+  ]
+}

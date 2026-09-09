@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002856,
+    "chapter_id": 6585,
+    "verse_number": "9.51",
+    "content_sanskrit": "ग्रथितमौलिरसौ वनमालया तरुपलाशसवर्णतनुच्छदः । तुरगवल्गनचञ्चलकुण्डलो विरुरुचे रुरुचेष्टितभूमिषु ॥",
+    "padaccheda": "ग्रथितमौलिः । असौ । वनमालया । तरुपलाशसवर्णतनुच्छदः । तुरगवल्गनचञ्चलकुण्डलः । विरुरुचे । रुरुचेष्टितभूमिषु",
+    "anvaya": "वनमालया ग्रथितमौलिः, तरुपलाशसवर्णतनुच्छदः, तुरगवल्गनचञ्चलकुण्डलः असौ रुरु-चेष्टित-भूमिषु विरुरुचे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With his crest woven with a forest garland, his armor matching the color of tree leaves, and his earrings dangling from the galloping of his horse, he shone brightly in the lands frequented by the Ruru deer.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002856,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ग्रथितेति॥ वनमालया वनपुष्पस्रजा ग्रथितमौलिर्बद्धधम्मिल्लः । तरुणां पलाशैः पत्रैः सवर्णः समानस्तनुच्छदो वर्म यस्य स तथोक्तः। इदं च वर्मणः पलाशसावर्ण्याभिधानं मृगादीनां विश्वासार्थम्। तुरगस्य वल्गनेन गतिविशेषेण चञ्चलकुण्डलोऽसौ दशरथो रुरुभिर्भृगविशेषैश्चेष्टिताश्चरिता या भूमयस्तासु विरुरुचे विदिद्युते ॥"
+    }
+  ]
+}

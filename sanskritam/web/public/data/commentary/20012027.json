@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012027,
+    "chapter_id": 6688,
+    "verse_number": "16.34",
+    "content_sanskrit": "अमीभिस्सहितो नित्यं चतुर्भिर्धर्मजानुजैः । तथाऽहमपि वर्तेय मोदेथास्त्वं यथा पितः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012027,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वर्तेयेति त्वदनुग्रहादिति शेषः । प्रार्थने लिङ् । 'इटोऽत्' (पा.३|४|१०६) । मोदेथा इति संभावने लिङ् ॥"
+    }
+  ]
+}

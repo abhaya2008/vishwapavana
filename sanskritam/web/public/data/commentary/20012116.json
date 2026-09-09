@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012116,
+    "chapter_id": 6688,
+    "verse_number": "16.123",
+    "content_sanskrit": "रत्नं हि लोके राजार्हं नारीरत्नं च वः स्वसा । राजा च याचिता नाऽहं जित्वा वस्तदिमां हरे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012116,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "याचितेति कर्मणि तृन् ।"
+    }
+  ]
+}

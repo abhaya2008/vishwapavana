@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003823,
+    "chapter_id": 6597,
+    "verse_number": "2.45",
+    "content_sanskrit": "भुवनालोकनप्रीतिः स्वर्गिभिर्नानुभूयते । खिलीभूते विमानानां तदापातभयात्पथि ॥",
+    "padaccheda": "भुवनालोकनप्रीतिः । स्वर्गिभिः । न । अनुभूयते । खिलीभूते । विमानानाम् । तदापातभयात् । पथि",
+    "anvaya": "तदापातभयात् विमानानां पथि खिलीभूते (सति) स्वर्गिभिः भुवनालोकनप्रीतिः न अनुभूयते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The celestial beings no longer experience the joy of observing the worlds, because the pathway for their celestial chariots has become impassable due to the fear of his attacks.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003823,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भुवनेति ॥ तस्य तारकस्यापातात्समापत्तेर्भयाद्विमानानां पथि खिलीभूतेऽप्रहतीभूते सति । `द्वे खिलाप्रहते समे` इत्यमरः (अ.को.2|1|6) । स्वर्गिभिर्देवैभुवनानामालोकने प्रीतिर्नानुभूयते"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003080,
+    "chapter_id": 6588,
+    "verse_number": "12.14",
+    "content_sanskrit": "ससैन्यश्चान्वगाद्रामं दर्शतानाश्रमालयैः । तस्य पश्यन्ससौमित्रेरुदश्रुर्वसतिद्रुमान् ॥",
+    "padaccheda": "ससैन्यः । च । अन्वगात् । रामं । दर्शितानाश्रमालयैः । तस्य । पश्यन् । ससौमित्रेः । उदश्रुः । वसतिद्रुमान्",
+    "anvaya": "ससैन्यः च ससौमित्रेः तस्य वसतिद्रुमान् पश्यन् उदश्रुः दर्शतानाश्रमालयैः रामम् अन्वगात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Accompanied by his army and weeping, Bharata followed Rama. Along the way, he looked upon the trees under which Rama and Lakshmana had stayed, which served as temporary dwellings in the absence of proper hermitages.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003080,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ससैन्य इति॥ ससैन्यो भरतो राममन्वगाञ्च। किं कुर्वन्? आश्रमालयैर्वनवासिभिर्दर्शितान् `एते रामनिवासाः` इति कथितान् ससौमित्रेर्लक्ष्मणसहितस्य तस्य रामस्य वसतिद्रुमान्निवासवृक्षान्पश्यन्न्रुदश्रू रुदन् ॥"
+    }
+  ]
+}

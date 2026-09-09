@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004095,
+    "chapter_id": 6601,
+    "verse_number": "6.45",
+    "content_sanskrit": "भ्रूभेदिभिः सकम्पोष्ठैर्ललिताङ्गुलितर्जनैः । यत्र कोपैः कृताः स्त्रीणामाप्रसादार्थिनः प्रियाः ॥",
+    "padaccheda": "भ्रूभेदिभिः । सकम्पोष्ठैः । ललिताङ्गुलितर्जनैः । यत्र । कोपैः । कृताः । स्त्रीणाम् । आप्रसादार्थिनः । प्रियाः",
+    "anvaya": "यत्र स्त्रीणां भ्रूभेदिभिः सकम्पोष्ठैः ललिताङ्गुलितर्जनैः कोपैः प्रियाः आ प्रसादार्थिनः कृताः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, by the women's feigned anger—expressed through knitted brows, trembling lips, and playful threats with graceful fingers—their lovers are made to seek their favor until they are appeased.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004095,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भ्रूभेदिभिरिति तत्र पुरे प्रिया युवानो भ्रुभेदिभिर्भ्रूभङ्गवद्भिः सकम्पा ओष्ठा येषु तैर्ललितान्यङ्गुलितर्जनानि येषु तैः, स्त्रीणां कोपैर्मानाख्यैराप्रसादार्थिन आप्रसादं प्रसादपर्यन्तमर्थिनो याचकाः कृताः । न तु शत्रुकोपैरिति भावः"
+    }
+  ]
+}

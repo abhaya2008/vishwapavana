@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013802,
+    "chapter_id": 6704,
+    "verse_number": "12.38",
+    "content_sanskrit": "इति तां वचनैः प्रपूज्य भैक्षौ- दनमात्रेण स तुष्टिमान्कृतार्थः । बहुसाधकसंस्तुतः कियन्तं समयं तत्र निनाय शान्तचेताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013802,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "उपसंहरति । इतीति । कियन्तं समयं कालं निनाय नीतवान् । 'विषमे ससजा गुरू समे चेत्सभरा यश्च वसन्तमालिका सा' ।॥ ३८ ॥"
+    }
+  ]
+}

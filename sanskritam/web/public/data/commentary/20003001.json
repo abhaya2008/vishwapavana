@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003001,
+    "chapter_id": 6587,
+    "verse_number": "11.28",
+    "content_sanskrit": "सोऽस्त्रमुग्रजवमस्त्रकोविदः संदधे धनुषि वायुदैवतम् । तेन शैलगुरुमप्यपातयत्पाण्डुपत्रमिव ताडकासुतम् ॥",
+    "padaccheda": "सः । अस्त्रम् । उग्रजवम् । अस्त्रकोविदः । संदधे । धनुषि । वायुदैवतम् । तेन । शैलगुरुम् । अपि । अपातयत् । पाण्डुपत्रम् । इव । ताडकासुतम्",
+    "anvaya": "अस्त्रकोविदः सः धनुषि उग्रजवम् वायुदैवतम् अस्त्रम् संदधे। तेन शैलगुरुम् अपि ताडकासुतम् पाण्डुपत्रम् इव अपातयत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāma, an expert in weaponry, fixed a swift Vāyavya missile on his bow. With it, he felled the son of Tāḍakā, who was as heavy as a mountain, making him fall as easily as a withered pale leaf.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003001,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ अस्त्रकोविदोऽस्त्रज्ञः स राम उग्रजवमुत्कटजवं वायुदैवतं वायुर्देवता यस्य तद्वायव्यमस्त्रं धनुषि संदधे संहितवान्। कर्तरि लिट्। तेनास्त्रेण शैलवद्गुरुमपि ताडकासुतं मारीचम्। पाण्डुपत्रमिव। परिणतपर्णमिवेत्यर्थः। अपातयत् पातितवान् ॥"
+    }
+  ]
+}

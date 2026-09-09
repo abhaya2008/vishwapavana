@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002897,
+    "chapter_id": 6586,
+    "verse_number": "10.10",
+    "content_sanskrit": "प्रभानुलिप्तश्रीवत्सं लक्ष्मीविभ्रमदर्पणम् । कौस्तुभाख्यमपां सारं बिभ्राणं बृहतोरसा ॥",
+    "padaccheda": "प्रभानुलिप्तश्रीवत्सं । लक्ष्मीविभ्रमदर्पणम् । कौस्तुभाख्यम् । अपाम् । सारं । बिभ्राणं । बृहता । उरसा",
+    "anvaya": "बृहता उरसा प्रभा-अनुलिप्त-श्रीवत्सम्, लक्ष्मी-विभ्रम-दर्पणम्, कौस्तुभ-आख्यम् अपाम् सारम् बिभ्राणम् (तम् ददृशुः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They saw him, bearing on his broad chest the Kaustubha gem—the essence of the waters—which served as a mirror for Lakshmi's charms and whose lustre anointed the Srivatsa mark.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002897,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रभेति॥ पुनः किंविधम्? प्रभयाऽनुलिप्तमनुरञ्जितं श्रीवत्सं नाम लाञ्छनं येन तम्। लक्ष्म्या विभ्रमदर्पणं कौस्तुभ इत्याख्या यस्य तम्। अपां समुद्राणां सारं स्थिरांशम्। अम्मयमणिमित्यर्थः। बृहतोरसा बिभ्राणम् ॥"
+    }
+  ]
+}

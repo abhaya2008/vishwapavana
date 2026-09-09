@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004282,
+    "chapter_id": 6603,
+    "verse_number": "8.42",
+    "content_sanskrit": "सोऽयमानतशिरोधरैर्हयैः कर्णचामरविघट्टितेक्षणैः । अस्तमेति युगभुग्नकेसरैः संनिधाय दिवसं महोदधौ ॥",
+    "padaccheda": "सः । अयम् । आनतशिरोधरैः । हयैः । कर्णचामरविघट्टितेक्षणैः । अस्तम् । एति । युगभुग्नकेसरैः । संनिधाय । दिवसम् । महोदधौ",
+    "anvaya": "सः अयम् भानुः आनतशिरोधरैः, कर्णचामरविघट्टितेक्षणैः, युगभुग्नकेसरैः हयैः दिवसम् महोदधौ संनिधाय अस्तम् एति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'This sun, having deposited the day in the great ocean, now sets, drawn by his horses. Their necks are bent, their eyes are brushed by the chowries on their ears, and their manes are curved by the yoke.'",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004282,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति । सोऽयं भानुर्दिवसं महोदधौ संनिधाय निधायेत्यर्थः दिवसस्यादर्शनादियमुत्प्रेक्षा । आनतशिरोधरैर्गगनावतरणान्नम्रकन्धरैरतएव कर्णचामरविघट्टितेक्षणैर्युगभुग्नकेसरैः कुटिलितस्कन्धरोमभिर्हयैरस्तमेति । `अस्तस्तु चरमक्षमाभृत्` इत्यमरः"
+    }
+  ]
+}

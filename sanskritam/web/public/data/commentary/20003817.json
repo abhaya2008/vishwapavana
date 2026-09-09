@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003817,
+    "chapter_id": 6597,
+    "verse_number": "2.39",
+    "content_sanskrit": "तत्कृतानुग्रहापेक्षी तं मुहुर्दूतहारितैः । अनुकूलयतीन्द्रोऽपि कल्पद्रुमविभूषणैः ॥",
+    "padaccheda": "तत्कृतानुग्रहापेक्षी । तम् । मुहुः । दूतहारितैः । अनुकूलयति । इन्द्रः । अपि । कल्पद्रुमविभूषणैः",
+    "anvaya": "तत्कृतानुग्रहापेक्षी इन्द्रः अपि दूतहारितैः कल्पद्रुमविभूषणैः तम् मुहुः अनुकूलयति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even Indra, seeking favor from him, repeatedly tries to win him over with ornaments from the wish-fulfilling Kalpa tree, sent through messengers.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003817,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इन्द्रोपि तेन तारकेण कृतं तत्कृतमनुग्रहं प्रसादमपेक्षते इति तथोक्तः सन् । मुहुर्दूतहारितैर्दूतप्रापिनैः कल्पद्रुमाणां विभूषणैः । तत्प्रसूनैरित्यर्थः । तं तारकमनुकूलयत्यनुकूलं करोति"
+    }
+  ]
+}

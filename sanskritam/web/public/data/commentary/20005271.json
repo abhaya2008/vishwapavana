@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005271,
+    "chapter_id": 6621,
+    "verse_number": "9.58",
+    "content_sanskrit": "प्राप्यते गुणवतापि गुणानां व्यक्तमाश्रयवशेन विशेषः । तत्तथा हि दयिताननदत्तं व्यानशे मधु रसातिशयेन ॥",
+    "padaccheda": "प्राप्यते । गुणवता । अपि । गुणानाम् । व्यक्तम् । आश्रयवशेन । विशेषः । तत् । तथा । हि । दयिताननदत्तम् । व्यानशे । मधु । रसातिशयेन",
+    "anvaya": "हि गुणवता अपि गुणानाम् विशेषः आश्रय-वशेन व्यक्तम् प्राप्यते । तथा तत् दयिता-आनन-दत्तम् मधु रस-अतिशयेन व्यानशे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, even for something already possessing qualities, a special excellence is clearly obtained due to its container. Thus, the wine offered from the mouths of their beloveds was pervaded with an extraordinary flavor.",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005271,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्राप्यत इति ॥ गुणवताप्याश्रयवशेन गुणानां विशेषः प्रकर्षः प्राप्यते व्यक्तम् । तत्तथा । यदुक्तं तत्तथैवेत्यर्थः । हि यस्माद्दयिताया आननेन करणेन दत्तं मधु रसातिशयेन स्वादुप्रकर्षण कर्त्रा व्यानशे व्याप्तम् । विशेषेण सामान्यसमर्थनरूपोऽर्थान्तरन्यासः॥"
+    }
+  ]
+}

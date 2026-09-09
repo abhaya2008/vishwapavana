@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011788,
+    "chapter_id": 6686,
+    "verse_number": "14.12",
+    "content_sanskrit": "महीपरागसंभिन्नकुचकुड्मलमण्डला । उड्डीयमानं मार्तण्डं नमस्यामास चाऽसकृत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011788,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उड्डीयमानमुत्पतन्तम् । डीङ् विहायसा गतौ । दिवादिः ॥"
+    }
+  ]
+}

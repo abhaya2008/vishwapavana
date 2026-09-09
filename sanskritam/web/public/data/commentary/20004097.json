@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004097,
+    "chapter_id": 6601,
+    "verse_number": "6.47",
+    "content_sanskrit": "अथ ते मुनयो दिव्याः प्रेक्ष्य हैमवतं पुरम् । स्वर्गाभिसंधिसुकृतं वञ्चनामिव मेनिरे ॥",
+    "padaccheda": "अथ । ते । मुनयः । दिव्याः । प्रेक्ष्य । हैमवतं । पुरम् । स्वर्गाभिसंधिसुकृतं । वञ्चनाम् । इव । मेनिरे",
+    "anvaya": "अथ ते दिव्याः मुनयः हैमवतं पुरं प्रेक्ष्य स्वर्गाभिसंधिसुकृतं वञ्चनाम् इव मेनिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, upon seeing Himavat's city, those divine sages considered the merit they had acquired to attain heaven as a kind of deception, since this city on earth surpassed heaven.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004097,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति । ते दिवि भवा दिव्या मुनयो हिमवत इदं हैमवतं पुरं प्रेक्ष्य स्वर्गाभिसंधिना स्वर्गोद्देशेन यत्सुकृतं ज्योतिष्टोमाद्यनुष्ठानं तत्स्वर्गाभिसंधिसुकृतं वञ्चनां प्रतारणामिव मेनिरे । हिमवन्नगरमवेक्ष्य स्वर्गस्य पुण्यफलत्वं वदता वेदेन वयं विप्रलब्धा इत्यर्थः । स्वर्गादतिरमणीयमिति भावः"
+    }
+  ]
+}

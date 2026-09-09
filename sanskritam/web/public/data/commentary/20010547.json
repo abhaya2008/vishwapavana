@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010547,
+    "chapter_id": 6674,
+    "verse_number": "2.127",
+    "content_sanskrit": "दन्तपत्रप्रतिच्छ(यच्छलेनेन्दुमिवामले । वसन्तं कान्तिपोपाय वहन्तीं गण्डमण्डले ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010547,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपह्नुतिरलङ्कारः । प्रतिच्छाया प्रतिबिंबम् ॥"
+    }
+  ]
+}

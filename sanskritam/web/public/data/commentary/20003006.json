@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003006,
+    "chapter_id": 6587,
+    "verse_number": "11.33",
+    "content_sanskrit": "तैः शिवेषु वसतिर्गताध्वभिः सायमाश्रमतरुष्वगृह्यत । येषु दीर्घतपसः परिग्रहो वासवक्षणकलत्रतां ययौ ॥",
+    "padaccheda": "तैः । शिवेषु । वसतिः । गताध्वभिः । सायम् । आश्रमतरुषु । अगृह्यत । येषु । दीर्घतपसः । परिग्रहः । वासवक्षणकलत्रताम् । ययौ",
+    "anvaya": "गताध्वभिः तैः सायम् शिवेषु आश्रमतरुषु वसतिः अगृह्यत येषु दीर्घतपसः परिग्रहः वासवक्षणकलत्रताम् ययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the evening, the travelers took rest under the auspicious trees of the hermitage where the wife of the ascetic Gautama had once briefly become the consort of Indra.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003006,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तैरिति॥ गताध्वभिस्तैस्त्रिभिः सायं शिवेषु रम्येष्वाश्रमतरुषु वसतिः स्थआनमगृह्यत। येष्वाश्रमतरुषु दीर्घतपसो गौतमस्य परिग्रहः पत्नी। `पत्नीपरिजनादानमूलशापाः परिग्रहाः` इत्यमरः (अ.को.3|3|252)। अहल्येति यावत्। वासवस्येन्द्रस्य क्षणकलत्रतां ययौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004737,
+    "chapter_id": 6611,
+    "verse_number": "16.29",
+    "content_sanskrit": "क्रोधादभ्यापतद्दन्तिदन्तारुढाः पदातयः । अश्वारोहा गजारोहप्राणान्प्रासैरपाहरन् ॥",
+    "padaccheda": "क्रोधात् । अभ्यापतद्दन्तिदन्तारुढाः । पदातयः । अश्वारोहाः । गजारोहप्राणान् । प्रासैः । अपाहरन्",
+    "anvaya": "क्रोधात् अभ्यापतद्दन्तिदन्तारुढाः पदातयः अश्वारोहाः प्रासैः गजारोहप्राणान् अपाहरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Foot-soldiers, having climbed onto the tusks of charging elephants in anger, and horse-riders alike destroyed the lives of elephant-riders using their spears.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004737,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "क्रोधादिति । पदातयः पद्गतयोऽश्वारोहाश्च क्रोधाद्धेतोरभ्यापततां समृखमागच्छतां दन्तिनां दन्तेष्वारुढाः सन्तः प्रासैः कुन्तैर्गजारोहप्राणान्यन्तृणामसूनपाहरन्"
+    }
+  ]
+}

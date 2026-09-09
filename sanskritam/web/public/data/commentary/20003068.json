@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003068,
+    "chapter_id": 6588,
+    "verse_number": "12.2",
+    "content_sanskrit": "तं कर्णमूलमागत्य रामे श्रीर्न्यस्यतामिति । कैकेयीशङ्कयेवाह पलितच्छद्मना जरा ॥",
+    "padaccheda": "तम् । कर्णमूलम् । आगत्य । रामे । श्रीः । न्यस्यताम् । इति । कैकेयीशङ्कया । इव । आह । पलितच्छद्मना । जरा",
+    "anvaya": "जरा पलितच्छद्मना तं कर्णमूलम् आगत्य कैकेयीशङ्कया इव रामे श्रीः न्यस्यताम् इति आह ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Old age, appearing in the form of grey hair, approached the King's ear and whispered, as if out of fear of Kaikeyi, that the royal fortune should now be transferred to Rama. The grey hair near the ear is poetically imagined as old age whispering advice to the King to retire and crown his son.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003068,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ जरा कैकेयीशङ्कयेव पलितस्य केशादिशौक्ल्यस्य छद्मना मिषेण। `पलितं जरसा शौक्ल्यं केशादौ` इत्यमरः (अ.को.2|6|41)। कर्णमूलं कर्णोपकण्ठमागत्य रामे श्रीराज्यलक्ष्मीर्न्यस्यतां निधीयतामिति तमाह। दशरथो `बृद्धोऽहम्`इति विचार्य रामस्य यौवराज्याभिषेकं चकाङ्क्षेत्यर्थः ॥"
+    }
+  ]
+}

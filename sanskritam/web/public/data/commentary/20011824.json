@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011824,
+    "chapter_id": 6686,
+    "verse_number": "14.48",
+    "content_sanskrit": "सुभ्रुवां कुचकुम्भेषु नखरेखा रराजिरे । रेजिरे रदलक्ष्माणि रदनच्छदनेषु च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011824,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "रराजिरे रेजिरे इति पूर्ववत् ॥"
+    }
+  ]
+}

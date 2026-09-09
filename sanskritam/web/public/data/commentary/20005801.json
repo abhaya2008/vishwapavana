@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005801,
+    "chapter_id": 6629,
+    "verse_number": "17.59",
+    "content_sanskrit": "आक्षिप्तचापावरणेषुजालश्छिन्नोत्तमासिः स मृधेऽवधूतः । रिक्तः प्रकाशश्च बभूव भूमेरुत्सादितोद्यान इव प्रदेशः ॥",
+    "padaccheda": "आक्षिप्तचापावरणेषुजालः । छिन्नोत्तमासिः । सः । मृधे । अवधूतः । रिक्तः । प्रकाशः । च । बभूव । भूमेः । उत्सादितोद्यानः । इव । प्रदेशः",
+    "anvaya": "मृधे आक्षिप्त-चाप-आवरण-इषु-जालः, छिन्न-उत्तम-असिः, अवधूतः सः (अर्जुनः) रिक्तः प्रकाशः च बभूव, उत्सादित-उद्यानः भूमेः प्रदेशः इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the battle, Arjuna—his bow, quiver, and net of arrows snatched away, his excellent sword shattered, and himself overpowered—became both empty-handed and conspicuous, like a plot of land whose garden has been destroyed.",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005801,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "आक्षिप्तेति ॥ आक्षिप्तान्यपहृतानि चापावरणेषुजालानि धनुर्वर्मबाणसमूहा यस्य स छिन्नोत्तमासिर्लूनमहाखड्गो मृधे रणे। `मृधमास्कन्दनं संख्यम्` इत्यमरः (अ.को.2|8|104) । अवधूतो  निरस्तः सोऽर्जुन उत्सादितमुत्पाटितमुद्यानं यस्य स भूमेः प्रदेशो भूमिभाग इव रिक्तः शून्यः प्रकाशो निःसंबाधश्च । दृश्य इति यावत् । बभूव ॥"
+    }
+  ]
+}

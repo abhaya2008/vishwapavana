@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014194,
+    "chapter_id": 6707,
+    "verse_number": "15.90",
+    "content_sanskrit": "अथ भास्करमस्करिप्रवीरौ बहुधाक्षेपसमर्थनप्रवीणौ । बहुभिर्वचनैरुदारवृत्तैर्व्यदधातां विजयैषिणौ विवादम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014194,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथानन्तरं भास्करयतीशप्रवीरौ बहुवाक्षेपसमर्थनयोरतिकुशलौ विजयैषिणौ बहु-भिरुदारपद्यैर्वचनैर्विवादं कृतवन्तौ ॥ ९० ॥"
+    }
+  ]
+}

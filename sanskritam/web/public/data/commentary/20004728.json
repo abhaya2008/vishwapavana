@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004728,
+    "chapter_id": 6611,
+    "verse_number": "16.20",
+    "content_sanskrit": "बहुभिः सह युद्ध्वा वा परिभ्रम्य रणोल्बणाः । उद्दिश्य तानुपेयुः केऽपि ये पूर्ववृता रणे ॥",
+    "padaccheda": "बहुभिः । सह । युद्ध्वा । वा । परिभ्रम्य । रणोल्बणाः । उद्दिश्य । तान् । उपेयुः । केऽपि । ये । पूर्ववृताः । रणे",
+    "anvaya": "के अपि रण-उल्बणाः बहुभिः सह युद्ध्वा वा परिभ्रम्य रणे ये पूर्व-वृताः तान् उद्दिश्य उपेयुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Some warriors, fierce in combat, after fighting with many or roaming the field, specifically sought out and approached those particular opponents they had previously chosen to duel with in the battle.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004728,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बहुभिरिति । रण उल्बणा उद्भटाः केऽपि योधा रणे संग्रामे बहुभिः सह युद्ध्वा परिभ्रम्य वा तानुद्दिश्योपेयतुर्युद्धार्थमबि जग्मुः । ये पूर्वं वृता अङ्गीकृताः यैः सह पूर्वमयोधि पुनरपि तैरेव सह योद्धुं जग्मुरित्यर्थः"
+    }
+  ]
+}

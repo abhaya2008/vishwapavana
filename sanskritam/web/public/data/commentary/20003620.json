@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003620,
+    "chapter_id": 6594,
+    "verse_number": "18.12",
+    "content_sanskrit": "पूर्वस्तयोरात्मसमे चिरोढामात्मोद्भवे वर्णचतुष्टयस्य । धुरं निधायैकनिधिर्गुणानां जगाम यज्वा यजमानलोकम् ॥",
+    "padaccheda": "पूर्वः । तयोः । आत्मसमे । चिरोढाम् । आत्मोद्भवे । वर्णचतुष्टयस्य । धुरम् । निधाय । एकनिधिः । गुणानाम् । जगाम । यज्वा । यजमानलोकम्",
+    "anvaya": "तयोः पूर्वः, गुणानाम् एकनिधिः, यज्वा (सः) आत्मसमे आत्मोद्भवे वर्णचतुष्टयस्य चिरोढां धुरं निधाय यजमानलोकं जगाम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The former of the two (Kshemadhanvan), who was a performer of sacrifices and the sole repository of virtues, placed the long-borne yoke of protecting the four castes upon his son, who was equal to himself, and then departed to the world of sacrificers (heaven).",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003620,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पूर्व इति॥ गुणानामेकनिधिर्यज्वा विधिवदिष्टवांस्तयोः पितृ-पुत्रयोर्मध्ये पूर्वः पिता क्षेमधन्वाऽऽत्मसमे स्वतुल्य आत्मोद्भवे पुत्रे देवानीके चिरोढां चिरं धृतां वर्णचतुष्टडयस्य धुरं रक्षाभारं निधाय यजमानलोकं यष्टृलोकं नाकं जगाम ॥"
+    }
+  ]
+}

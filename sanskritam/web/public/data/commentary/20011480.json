@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011480,
+    "chapter_id": 6683,
+    "verse_number": "11.57",
+    "content_sanskrit": "'पार्थस्य पाणिना कृष्णः प्रणामात् क्षितिरेणुमत् । स्विन्नं पुलकितेनाङ्गं मार्ष्टि स्माऽम्भोजबन्धुना ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011480,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मार्ष्टीति मृजेर्वृद्धिः (पा.७|२|११४) । स्विन्नं पुलकितेनेति परस्परप्रेमलिङ्गम् ॥"
+    }
+  ]
+}

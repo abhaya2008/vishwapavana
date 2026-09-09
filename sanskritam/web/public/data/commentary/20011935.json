@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011935,
+    "chapter_id": 6687,
+    "verse_number": "15.32",
+    "content_sanskrit": "सोमै'र्मदिष्यते देवैः कामैर्मोदिष्यते द्विजैः । कुशैर्मेदिष्यतेऽन्धोभिर्यजमाने युधिष्ठिरे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011935,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मदिष्यत इत्यत्र लघूपधगुणः । न तु मिदेर्गुणः (पा.७|३|८२) । तत्र शितीत्यधिकारात् यजमाने यक्ष्यमाणे । धातुसंबन्धे प्रत्यया इति (पा.३|४|१) ॥"
+    }
+  ]
+}

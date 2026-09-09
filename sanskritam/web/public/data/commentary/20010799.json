@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010799,
+    "chapter_id": 6677,
+    "verse_number": "5.39",
+    "content_sanskrit": "विहितेन्द्रियसंयामाः कृतमानससंयमाः । जपैरस्यन्त्यघं केचित् चर्मजीर्णमिवाहयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010799,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "व्यधजपयो'र्व्यधजपोरनुपसर्गे' (पा.३|३|६१) इति अप् । संयामसंयमयो'र्यमः समुपनिबिषु च' (पा.३|३|६३) इति वाधिकारादब्घञौ ॥"
+    }
+  ]
+}

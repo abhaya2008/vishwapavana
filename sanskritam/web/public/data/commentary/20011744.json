@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011744,
+    "chapter_id": 6685,
+    "verse_number": "13.80",
+    "content_sanskrit": "नेत्राभ्यां क्रोधदीप्ताभ्यां पश्यत्युत्तानितानने । त्वत्पुत्रेण व्यराजेतां दिवाकरनिशाकरौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011744,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "व्यराजेतामिति भ्वादिः । स्वरितेत् ॥"
+    }
+  ]
+}

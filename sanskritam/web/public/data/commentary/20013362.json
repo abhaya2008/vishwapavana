@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013362,
+    "chapter_id": 6700,
+    "verse_number": "8.28",
+    "content_sanskrit": "कर्मकाले न संभाष्य अहं मूर्खेण संप्रति । अहो प्रकटितं ज्ञानं पतिभङ्गेन भाषिणा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013362,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "एवं प्रत्युत्तरैः पराजितो वक्तुमशक्तः सन्मण्डन आह । संप्रतीदानीं कर्मकालेऽहं मूर्खेण त्वया संभाष्यो भाषणयोग्यो न भवामि । एवमुक्तो भगवानुवाच । यतौ पाठ-"
+    }
+  ]
+}

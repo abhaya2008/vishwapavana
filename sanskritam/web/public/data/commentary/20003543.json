@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003543,
+    "chapter_id": 6593,
+    "verse_number": "17.16",
+    "content_sanskrit": "तस्य सन्मन्त्रपूताभिः स्नानमद्भिः प्रतीच्छतः । ववृधे वैद्युतस्याग्नेर्वृष्टिसेकादिव द्युतिः ॥",
+    "padaccheda": "तस्य । सन्मन्त्रपूताभिः । अद्भिः । प्रतीच्छतः । ववृधे । वैद्युतस्य । अग्नेः । वृष्टिसेकात् । इव । द्युतिः",
+    "anvaya": "सत्-मन्त्र-पूताभिः अद्भिः (स्नानम्) प्रतीच्छतः तस्य द्युतिः, वृष्टि-सेकात् वैद्युतस्य अग्नेः (द्युतिः) इव, ववृधे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As he received the bath with waters purified by sacred mantras, his splendor increased, just like the brilliance of lightning-fire increases from a shower of rain.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003543,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ सन्मन्त्रैः पूताभिः शुद्धाभिरद्भिः स्नानं प्रतीच्छतः कुर्वपतस्तस्य वृष्टिसेकात्। विद्युतोऽयं वैद्युतः। तस्याबिन्धनस्याग्नेरिव। द्युतिर्ववृधे ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010963,
+    "chapter_id": 6678,
+    "verse_number": "6.84",
+    "content_sanskrit": "उलूपी रमयामास ततस्तं प्राणनायकम् । प्रययौ च तमापृच्छ्य विनाभूय कथञ्चन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010963,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नानाकारमिति नानार्थप्रत्ययस्योदाहरणानि । विनञ् भ्यां नानानौ न सहेति । द्वैधंकारमिति धात्वर्थस्य नमुञः द्विञ्चोश्च धमुञिति (पा.५|३|४५) । विनाभूयेति भवतेरुदाहरणम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004422,
+    "chapter_id": 6605,
+    "verse_number": "10.39",
+    "content_sanskrit": "सुधासारैरिवाम्भोभिरभिषिक्तो हुताशनः । यथागतं जगामाथ परां निर्वृतिमादधत् ॥",
+    "padaccheda": "सुधासारैः । इव । अम्भोभिः । अभिषिक्तः । हुताशनः । यथागतम् । जगाम । अथ । पराम । निर्वृतिम् । आदधत्",
+    "anvaya": "हुताशनः सुधासारैः अम्भोभिः इव अभिषिक्तः अथ पराम् निर्वृतिम् आदधत् यथागतम् जगाम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Agni, as if bathed in showers of nectar by the waters of Gaṅgā, felt supreme satisfaction and departed the way he had come.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004422,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सुधासारैरिति । अथानन्तरम् । सुधासारैरिवाम्भोभिर्जलैरभिषिक्तः स्नातोऽत एव परामत्युत्कटां निर्वृतिं सुखमादधद्विभ्रद्धुताशनोऽग्निर्यथागतमनतिक्रम्य जगाम गतवान्"
+    }
+  ]
+}

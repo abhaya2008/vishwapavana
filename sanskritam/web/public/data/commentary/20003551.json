@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003551,
+    "chapter_id": 6593,
+    "verse_number": "17.24",
+    "content_sanskrit": "चन्दनेनाङ्गरागं च मृगनाभिसुगन्धिना । समापय्य ततश्चक्रुः पत्रं विन्यस्तरोचनम् ॥",
+    "padaccheda": "चन्दनेन । अङ्गरागम् । च । मृगनाभिसुगन्धिना । समापय्य । ततः । चक्रुः । पत्रम् । विन्यस्तरोचनम्",
+    "anvaya": "ततः मृगनाभिसुगन्धिना चन्दनेन अङ्गरागम् समापय्य, विन्यस्तरोचनम् पत्रम् च चक्रुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, after applying the unguent of sandalwood paste fragrant with musk, they also created decorative patterns on his body using yellow pigment.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003551,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चन्दनेनेति॥ किंच, मृगनाभ्या कस्तूरिकया सुगन्धिना चन्दनेन अङ्गरागमङ्गविलेपनं समापय्य समाप्य ततोऽनन्तरं विन्यस्ता रोचना गोरोचना यस्मिंस्तत्पत्रं पत्ररचनं चक्रुः ॥"
+    }
+  ]
+}

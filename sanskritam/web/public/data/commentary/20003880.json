@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003880,
+    "chapter_id": 6598,
+    "verse_number": "3.38",
+    "content_sanskrit": "गीतान्तरेषु श्रमवारिलेशैः किंचित्समुच्छ्वासितपत्रलेखम् । पुष्पासवाघूर्णितनेत्रशोभि प्रियामुखं किंपुरुषश्चुचुम्बे ॥",
+    "padaccheda": "गीतान्तरेषु । श्रमवारिलेशैः । किंचित्समुच्छ्वासितपत्रलेखम् । पुष्पासवाघूर्णितनेत्रशोभि । प्रियामुखम् । किंपुरुषः । चुचुम्बे",
+    "anvaya": "किंपुरुषः गीत-अन्तरेषु श्रम-वारि-लेशैः किंचित् समुच्छ्वासित-पत्र-लेखम्, पुष्प-आसव-आघूर्णित-नेत्र-शोभि प्रिया-मुखम् चुचुम्बे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the intervals of singing, the Kimpurusha kissed the face of his beloved, which was lovely with eyes rolling from the intoxication of flower-nectar, and on which the painted leaf-designs were slightly disturbed by droplets of perspiration.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003880,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गीतान्तरेष्विति । किंपुरुषः किंनरः श्रमवारिलेशैः स्वेदोदबिन्दुभिः किंचिदीषत्समुच्छ्‌वासिता विश्लेषिताः पत्रलेखा यस्य तत् । पुष्पाणामासवो मद्यं पुष्पासवः । पुष्पोद्भवमद्यमित्यर्थः । वसन्ते मधूकस्य संभवात्पुष्पवासितमिति केचित् । तेनाघूर्णिताभ्यामुद्‌भ्रान्ताभ्यां शोभत इति तथोक्तं प्रियामुखं गीतान्तरेषु गीतमध्यंषु चुचुम्बे चुचुम्ब"
+    }
+  ]
+}

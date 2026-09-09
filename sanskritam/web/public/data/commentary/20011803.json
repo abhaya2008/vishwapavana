@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011803,
+    "chapter_id": 6686,
+    "verse_number": "14.27",
+    "content_sanskrit": "श्रुत्त्वाऽऽसीनं परिव्राजं जातु जातकुतूहला । विविधं लोकवृत्तान्तं परिपप्रच्छ माधवी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011803,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जातकुतूहलेति तस्मिन् यतावेव । तत्संभाषणवशाल्लोकवृत्तान्ते च ॥"
+    }
+  ]
+}

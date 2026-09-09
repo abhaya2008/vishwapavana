@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011988,
+    "chapter_id": 6687,
+    "verse_number": "15.85",
+    "content_sanskrit": "सुभद्राचोदिताश्वस्तद्रथमारुह्य मामकम् । जित्वा शङ्खरावाहूतान् वृष्णीन् कार्योऽमुनाऽऽगमः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011988,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "ननु महारथैर्वृष्णिभिस्सह संप्रहारे संशयितो विजयस्यापि विजय इत्याशङ्क्याह—"
+    }
+  ]
+}

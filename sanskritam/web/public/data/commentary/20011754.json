@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011754,
+    "chapter_id": 6685,
+    "verse_number": "13.90",
+    "content_sanskrit": "मातुलानीस्समाश्वास्य त्वाञ्च मातामहीञ्च सः । तदौर्ध्वदेहिकं शत्रोस्साधु युष्मानकारयत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011754,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मातामहीञ्चेति । तव पत्नीञ्चेत्यर्थः । और्ध्वदेहिकं । ऊर्ध्वं देहादूर्ध्वदेहः । तत्र भवमौर्ध्वदेहिकं (पा.४|३|५३) कर्म ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002467,
+    "chapter_id": 6580,
+    "verse_number": "4.78",
+    "content_sanskrit": "शरैरुत्सवसंकेतान्स कृत्वा विरतोत्सवान् । जयोदाहरणं बाह्वोर्गापयामास किंनरान् ॥",
+    "padaccheda": "शरैः । उत्सवसंकेतान् । सः । कृत्वा । विरतोत्सवान् । जयोदाहरणम् । बाह्वोः । गापयामास । किंनरान्",
+    "anvaya": "सः उत्सवसंकेतान् शरैः विरतोत्सवान् कृत्वा किंनरान् बाह्वोः जयोदाहरणं गापयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having defeated the Utsavasanketa tribes with his arrows and thus stopped their festivities, he made the Kinnaras sing a song in praise of the victory of his arms.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002467,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शरैरिति॥ स रघुः शरैर्बाणैरुत्सवसंकेतान्नाम गणान्विरतोत्सवान्कृत्वा। डित्वेत्यर्थः। किंनरान्बाह्वोः स्वभुजयोर्जयोदाहरणं जयख्यापकं प्रबन्धविशेषं गापयामास। `गतिबुद्धि-` (पा.1।4।52) इत्यादिना किंकराणां कर्मत्वम्॥"
+    }
+  ]
+}

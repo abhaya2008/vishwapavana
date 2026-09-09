@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011614,
+    "chapter_id": 6684,
+    "verse_number": "12.66",
+    "content_sanskrit": "यौवनद्विपवक्षोजकुम्भदानलवानसौ । मुखचन्द्रसुधाबिन्दून् स्वेदलेशानसुस्रवत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011614,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "असुस्रवदिति पूर्ववत् । 'परम्परितरूपकमिदम् । विसृष्टवतीत्यर्थः ॥"
+    }
+  ]
+}

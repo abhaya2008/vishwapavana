@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005810,
+    "chapter_id": 6630,
+    "verse_number": "18.4",
+    "content_sanskrit": "व्रणमुखच्युतशोणितशीकरस्थगितशैलतटाभभुजान्तरः । अभिनवौषसरागभृता बभौ जलधरेण समानमुमापतिः ॥",
+    "padaccheda": "व्रणमुखच्युतशोणितशीकरस्थगितशैलतटाभभुजान्तरः । अभिनवौषसरागभृता । बभौ । जलधरेण । समानम् । उमापतिः",
+    "anvaya": "व्रण-मुख-च्युत-शोणित-शीकर-स्थगित-शैल-तट-आभ-भुज-अन्तरः उमा-पतिः अभिनव-औषस-राग-भृता जल-धरेण समानम् बभौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Uma's lord (Shiva), his chest resembling a mountain slope covered by sprays of blood flowing from the mouths of wounds (inflicted by Arjuna), shone like a cloud bearing the fresh red hue of dawn.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005810,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "व्रणेति॥ व्रणमुखेभ्यश्च्युतस्य क्षरितस्य शोणितस्य शीकरैः स्थगितमावृतं शैलतटाभं शिलासदृशं भुजान्तरं वक्षो यस्य स तथोक्त उमापतिरभिनवमौपसरागं संध्यारागंविभर्तीति तथोक्तेन जलधरेण समानं तुल्यं यथा तथा बभावित्युपमा ॥ उरसिशूलभृतः प्रहिता मुहुः प्रतिहतिं ययुरर्जुनवृष्टयः । भृशरया इव सह्यमहीभृतः पृथुनि रोधसि सिन्धुमहोर्मयः"
+    }
+  ]
+}

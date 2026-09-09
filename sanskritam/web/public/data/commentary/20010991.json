@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010991,
+    "chapter_id": 6679,
+    "verse_number": "7.1",
+    "content_sanskrit": "ततस्ततयशा गत्वामगलूरान्महीमणिः । दक्षिणो दाक्षिणात्यानि पार्थस्तीर्थान्यसेवत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010991,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अथ तद्धिताधिकारः । तदर्थमुपक्रमते—"
+    }
+  ]
+}

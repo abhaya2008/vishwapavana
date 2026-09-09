@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011881,
+    "chapter_id": 6686,
+    "verse_number": "14.105",
+    "content_sanskrit": "इन्द्रमिन्द्रानुजः प्राप्तमथाऽऽनर्च स्वमालयम् । विवाहसंभ्रमैरेव पौलोमीमपि रुक्मिणी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011881,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विवाहसंभ्रमैरेवेति । तद्धि इदानीं शोभते ॥"
+    }
+  ]
+}

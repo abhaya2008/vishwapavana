@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004185,
+    "chapter_id": 6602,
+    "verse_number": "7.40",
+    "content_sanskrit": "ततो गणैः शूलभृतः पुरोगैरुदीरितो मङ्गलतूर्यघोषः । विमानशृङ्गाण्यवगाहमानः शशंस सेवावसरं सुरेभ्यः ॥",
+    "padaccheda": "ततः । गणैः । शूल-भृतः । पुरोगैः । उदीरितः । मङ्गल-तूर्य-घोषः । विमान-शृङ्गाणि । अवगाहमानः । शशंस । सेवा-अवसरम् । सुरेभ्यः",
+    "anvaya": "ततः शूल-भृतः पुरोगैः गणैः उदीरितः, विमान-शृङ्गाणि अवगाहमानः मङ्गल-तूर्य-घोषः सुरेभ्यः सेवा-अवसरम् शशंस।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the Ganas preceding the trident-bearer Shiva raised a clamor of auspicious music. This sound, pervading the spires of the celestial chariots, announced to the other gods that the time for rendering service had arrived.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004185,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति । ततोऽनन्तरं शूलभृतः शिवस्य पुरो गच्छन्तीति पुरोगैरग्रेसरैः। `अन्यत्रापि दृश्यत इति वक्तव्यम्` इति गमेर्डप्रत्ययः । गणैः प्रमथैरुदीरित उत्पादितो मङ्गलतूर्यघोषो मङ्गलवाद्यध्वनिर्विमानश्रृंगाण्यवगाहमानः सन् सुरेभ्यो विमानस्थेभ्यः सेवाऽवसरं शशंस । सुराः प्रस्थानध्वनिमाकर्ण्यायमेव नः सेवाऽवसर इत्याजग्मुरित्यर्थः"
+    }
+  ]
+}

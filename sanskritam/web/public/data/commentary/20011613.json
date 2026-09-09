@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011613,
+    "chapter_id": 6684,
+    "verse_number": "12.65",
+    "content_sanskrit": "पयोधरद्वयं तस्या यद्द्वेयथुमशिश्रियत् । प्रियन्तं परिरब्धुं तत् किन्नु किञ्चिद्ददुद्रुवत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011613,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अशिश्रियददुद्रुवदिति । 'णिश्रिद्रुस्रुभ्यः कर्तरि चङ्' (पा.३|१|४८) । 'अचिश्न्वा'दिना (पा.६|४|७७) इयङुवङौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003635,
+    "chapter_id": 6594,
+    "verse_number": "18.27",
+    "content_sanskrit": "कौसल्य इत्युत्तरकोसलानां पत्युः पतङ्गान्वयभूषणस्य । तस्यौरसः सोमसुतः सुतोऽभून्नेत्रोत्सवः सोम इव द्वितीयः ॥",
+    "padaccheda": "कौसल्यः । इति । उत्तरकोसलानां । पत्युः । पतङ्गान्वयभूषणस्य । तस्य । औरसः । सोमसुतः । सुतः । अभूत् । नेत्रोत्सवः । सोमः । इव । द्वितीयः",
+    "anvaya": "उत्तर-कोसलानाम् पत्युः, पतङ्ग-अन्वय-भूषणस्य तस्य (हिरण्यनाभस्य) सोम-सुतः, द्वितीयः सोमः इव नेत्र-उत्सवः, कौसल्यः इति औरसः सुतः अभूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "To that king Hiranyanabha, lord of the North Kosalas and an ornament of the Solar dynasty, a legitimate son named Kausalya was born from a Soma sacrifice. He was a delight to the eyes, like a second moon.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003635,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कौसल्य इति॥ उत्तरकोसलानां पत्युः पतङ्गन्वयभूषणस्य सूर्यशाभरणस्य सोमसुतः सोमं सुतवतः। यज्वन इत्यर्थःथ। `सोमे सुञः` (पा.3।2।90) इति क्विप्। तस्य हिरण्यनाभस्य द्वितीयः सोमश्चन्द्र इव। नेत्रोत्सवो नयनानन्दकरः कौसल्य इति प्रसिद्ध औरसो धर्मपत्नीजः सुतोऽभूत् ॥"
+    }
+  ]
+}

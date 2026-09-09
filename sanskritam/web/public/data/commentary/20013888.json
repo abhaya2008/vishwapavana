@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013888,
+    "chapter_id": 6705,
+    "verse_number": "13.34",
+    "content_sanskrit": "तानब्रवीत्संयमिचक्रवर्ती कश्चित्पुरा यामुनतीरवर्ती । बभूव सिद्धः किल साधुवृत्तः सांसारिकेभ्यः सुतरां निवृत्तः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013888,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "एवं पृष्ट आचार्यस्तस्य प्राग्भवीयं वृत्तान्तमुक्तवानित्याह । तानिति ॥ ३४ ॥"
+    }
+  ]
+}

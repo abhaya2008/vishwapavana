@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011704,
+    "chapter_id": 6685,
+    "verse_number": "13.40",
+    "content_sanskrit": "कृतार्थावपि तावावां सार्वौ हर्तुं भुवो भरम् । अनार्यान् पातुमार्यांश्च स्वेच्छयाऽवात्तराव गाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011704,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सावौँ सर्वहितत्वात् । भुवो भरं, अनार्यानिति समानाधिकरणे पदे । स्वेच्छयेति । न कर्मवश्यौ । गां भूमिम् ॥"
+    }
+  ]
+}

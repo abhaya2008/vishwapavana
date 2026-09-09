@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012611,
+    "chapter_id": 6693,
+    "verse_number": "1.56",
+    "content_sanskrit": "ब्रह्माऽपि ते सहायार्थं मण्डनो नाम भूसुरः । भविष्यति महेन्द्रोऽपि सुधन्वा नाम भूमिपः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012611,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "भूसुरो ब्राह्मणः ॥ ५६ ॥"
+    }
+  ]
+}

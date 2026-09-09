@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004421,
+    "chapter_id": 6605,
+    "verse_number": "10.38",
+    "content_sanskrit": "कृशानुरेतसो रेतस्यादृते सरिता तया । निश्चक्राम ततः सौख्यं हव्यवाहो वहन्बहु ॥",
+    "padaccheda": "कृशानुरेतसः । रेतसि । आदृते । सरिता । तया । निश्चक्राम । ततः । सौख्यम् । हव्यवाहः । वहन् । बहु",
+    "anvaya": "ततः तया सरिता अदृते कृशानुरेतसः रेतसि (सति) बहु सौख्यम् वहन् हव्यवाहः निश्चक्राम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When that seed of Śiva was received by the river, Agni emerged from her waters feeling great relief and happiness.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004421,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृशान्विति । तया सरिता गङ्गया कृशानुरेतसी हरस्य रेतसि धामिनि । `कृशानुरेताः सर्वज्ञः' इत्यमरः । आदृते । आदरपुर्वकं गृहोते सतीत्यर्थः । हव्यवाहोऽग्निः । णिजन्तात्पचाद्यच् । बहु सौख्यं वहन् सन् । ततो गङ्गातो निश्चक्राम बहिर्निःसृतः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010801,
+    "chapter_id": 6677,
+    "verse_number": "5.41",
+    "content_sanskrit": "कल्याणनिगदोदीर्णकान्तमन्दहसाननैः । पटुहासनिगादालीसहस्रपरिवारितैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010801,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हसहासशब्दयोर्निगदनिगादयोश्च 'स्वनहसोर्वा' (पा.३|३|६२) इत्यनेन 'नौ गदनदपठस्वन' (पा.३|३|६४) इत्यनेन चाब्घञौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010755,
+    "chapter_id": 6676,
+    "verse_number": "4.101",
+    "content_sanskrit": "होष्यत्सु मुनिमुख्येषु जलादि स्वयमाहरन् । भोक्ष्यमाणेषु च स्वादु फलमूलञ्च फल्गुनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010755,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "होष्यत्सु भोक्ष्यमाणेषु इति 'लृटस्सद्रा' (पा.३|३|१४) इति शतृशानचौ ॥"
+    }
+  ]
+}

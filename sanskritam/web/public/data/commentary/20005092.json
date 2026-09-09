@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005092,
+    "chapter_id": 6618,
+    "verse_number": "6.23",
+    "content_sanskrit": "शिरसा हरिन्मणिनिभः स वहन्कृतजन्मनोऽभिषवणेन जटाः । उपमां ययावरुणदीधितिभिः परिमृष्टमूर्धनि तमालतरौ ॥",
+    "padaccheda": "शिरसा । हरिन्मणिनिभः । सः । वहन् । कृतजन्मनः । अभिषवणेन । जटाः । उपमाम् । ययौ । अरुणदीधितिभिः । परिमृष्टमूर्धनि । तमालतरौ",
+    "anvaya": "सः हरिन्मणिनिभः अभिषवणेन कृतजन्मनः जटाः शिरसा वहन्, अरुणदीधितिभिः परिमृष्टमूर्धनि तमालतरौ उपमाम् ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He, resembling an emerald and carrying on his head matted locks grown from ritual bathing, attained the likeness of a Tamala tree whose top is caressed by the rays of the rising sun.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005092,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "शिरसेति ॥ हरिन्मणिनिभो मरकतमणिश्यामोऽभिषवणेन स्नानेन कृतजन्मनो जनिताः। अतः पिशङ्गीरिति भावः। जटाः शिरसा वहन्सोऽर्जुनोऽरुणस्यानूरोर्दीधितिभिः परिमृष्टमूर्धनि व्याप्तशिरसि तमालतरावुपमां तमालतरोः सादृश्यं ययावित्यार्थीयमुपमा । तरोरौपम्याधिकरणत्वात्तदपेक्षया सप्तमी ॥"
+    }
+  ]
+}

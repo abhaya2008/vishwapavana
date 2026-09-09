@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002164,
+    "chapter_id": 6577,
+    "verse_number": "1.15",
+    "content_sanskrit": "आकारसदृशप्रज्ञः प्रज्ञया सदृशागमः । आगमैः सदृशारम्भ आरम्भसदृशोदयः ॥",
+    "padaccheda": "आकारसदृशप्रज्ञः । प्रज्ञया । सदृशागमः । आगमैः । सदृशारम्भः । आरम्भसदृशोदयः",
+    "anvaya": "आकारसदृशप्रज्ञः प्रज्ञया सदृशागमः आगमैः सदृशारम्भः आरम्भसदृशोदयः (सः आसीत्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His intellect matched his majestic form, his scriptural knowledge matched his intellect, his actions matched his knowledge, and his ultimate success always matched his actions.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002164,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आकारेति॥ आकारेण मूर्त्या सदृशी प्रज्ञा यस्य सः। प्रज्ञया सदृशागमः प्रज्ञानुरूपशास्त्त्रपरिश्रमः। आगमैः सदृश आरम्भः कर्म यस्य स तथोक्तः। आरभ्यत इत्यारम्भः कर्म। तत्सदृश उदयः फलसिद्धिर्यस्य स तथोक्तः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004125,
+    "chapter_id": 6601,
+    "verse_number": "6.75",
+    "content_sanskrit": "अणिमादिगुणोपेतमस्पृष्टपुरुषान्तरम् । शब्दमीश्वर इत्युच्चैः सार्धचन्द्रं बिभर्ति यः ॥",
+    "padaccheda": "अणिमादिगुणोपेतम् । अस्पृष्टपुरुषान्तरम् । शब्दम् । ईश्वर । इति । उच्चैः । सार्धचन्द्रम् । बिभर्ति । यः",
+    "anvaya": "यः अणिमादि-गुण-उपेतम्, अस्पृष्ट-पुरुषान्तरम्, स-अर्धचन्द्रम् 'ईश्वरः' इति शब्दम् उच्चैः बिभर्ति...",
+    "meaning_sanskrit": "",
+    "meaning_english": "He who bears the lofty title 'Ishvara' (Lord)—a title endowed with supernatural powers like Anima, untouched by any other being, and distinguished by the crescent moon... (This verse begins the description of Shiva).",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004125,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अणिमेति । यः शंभुरणिमादिगुणोपेतमणिमादिभिरष्टाभिर्गुणैर्वाच्यभूतैरुपेतम् । अष्टैश्वर्यवाचकमित्यर्थः, अतएवास्पृष्टं पुरुषान्तरं येन तं तथोक्तम् पुरुषान्तरस्यानभिधायकम् । तस्यैवैवंगुणत्वादित्यर्थः, उच्चः परमेश्वर इति शब्दम् । निरुपपदेश्वरशाब्दमित्यर्थः । सार्धचन्द्रमर्धचन्द्रयुक्तम् । अर्धचन्द्रं चेत्यर्थः । बिभर्ति"
+    }
+  ]
+}

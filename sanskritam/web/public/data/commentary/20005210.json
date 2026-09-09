@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005210,
+    "chapter_id": 6620,
+    "verse_number": "8.54",
+    "content_sanskrit": "प्रियेण सिक्ता चरमं विपक्षतश्चुकोप काचिन्न तुतोष सान्त्वनैः । जनस्य रूढप्रणयस्य चेतसः किमप्यमर्षोऽनुनये भृशायते ॥",
+    "padaccheda": "प्रियेण । सिक्ता । चरमं । विपक्षतः । चुकोप । काचित् । न । तुतोष । सान्त्वनैः । जनस्य । रूढप्रणयस्य । चेतसः । किमपि । अमर्षः । अनुनये । भृशायते",
+    "anvaya": "विपक्षतः चरमम् प्रियेण सिक्ता काचित् चुकोप, सान्त्वनैः न तुतोष। रूढ-प्रणयस्य जनस्य चेतसः अमर्षः अनुनये किम् अपि भृशायते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A certain woman, splashed by her beloved after her rival was, became angry and was not pleased even by his consolations. Indeed, in the mind of a person with deep-rooted love, indignation strangely intensifies when attempts at conciliation are made.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005210,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रियेणेति ॥ काचित्प्रियेण विपक्षतः सपत्नीतश्चरमं पश्चात्सिक्ता सती चुकोप ।  सान्त्वनैरनुनयैर्न तुतोष । तथाहि । रूढप्रणयस्य गाढप्रेम्णो जनस्य संबन्धी चेतसो मनसोऽमर्षः प्रकोपः किमपि कुतोऽपि हेतोरनुनये सति भृशायते गाढो भवति । `भृशादिभ्यो भुव्यच्वेर्लोपश्च हलः` (पा.3।1।12) इति क्यङ् । अन्यत्र शान्तिहेतुरनुनयोऽत्र प्रकोपायैव भवति । तत्र कारणं तु न ज्ञायत इत्यर्थः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003400,
+    "chapter_id": 6591,
+    "verse_number": "15.64",
+    "content_sanskrit": "वृत्तं रामस्य वाल्मीकेः कृतिस्तौ किंनरस्वनौ । किं तद्येन मनो हर्तुमलं स्यातां न श्रृण्वताम् ॥",
+    "padaccheda": "वृत्तं । रामस्य । वाल्मीकेः । कृतिः । तौ । किंनरस्वनौ । किं । तत् । येन । मनः । हर्तुम् । अलं । स्यातां । न । शृण्वताम्",
+    "anvaya": "रामस्य वृत्तम्, वाल्मीकेः कृतिः, तौ किंनर-स्वनौ (च) । तत् किम् (अस्ति) येन (एतत् त्रयम्) शृण्वताम् मनः हर्तुम् अलम् न स्याताम्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "The story was of Rama, the composition was Valmiki's, and the two singers had voices like Kinnaras. What was there that would not be able to captivate the minds of the listeners?",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003400,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वृत्तमिति॥ रामस्य वृत्तं वर्ण्यम्। वस्त्विति शेषः। वाल्मीकेः कृतिः काव्यम्। गेयमिति शेषः। तौ कुशलवौ किंनरस्वनौ किंनरकण्ठौ गायकौ। पुनरिति शेषः। अत एव तत्किं येन निमित्तेन तौ शृण्वतां मनो हर्तुमलं शक्तौ न स्याताम्। सर्वं सरसमित्यर्थः ॥"
+    }
+  ]
+}

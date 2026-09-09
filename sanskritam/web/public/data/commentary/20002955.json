@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002955,
+    "chapter_id": 6586,
+    "verse_number": "10.68",
+    "content_sanskrit": "रघुवंशप्रदीपेन तेनाप्रतिमतेजसा । रक्षागृहगता दीपाः प्रत्यादिष्टा इवाभवन् ॥",
+    "padaccheda": "रघुवंशप्रदीपेन । तेन । अप्रतिमतेजसा । रक्षागृहगताः । दीपाः । प्रत्यादिष्टाः । इव । अभवन्",
+    "anvaya": "अप्रतिमतेजसा तेन रघुवंशप्रदीपेन रक्षागृहगताः दीपाः प्रत्यादिष्टाः इव अभवन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "By that lamp of the Raghu dynasty, who possessed incomparable brilliance, the lamps in the lying-in chamber appeared as if they were eclipsed or surpassed.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002955,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रघ्विति॥ रघुवंशस्य प्रदीपेन प्रकाशकेन। अप्रतिमतेजसा तेन रामेण रक्षागृहगताः सूतिकागृहगता दीपाः प्रत्यादिष्टाः प्रतिबद्धा इवाभवन्। महादीपसमीपे नाल्पाः स्फुरन्तीति भावः ॥"
+    }
+  ]
+}

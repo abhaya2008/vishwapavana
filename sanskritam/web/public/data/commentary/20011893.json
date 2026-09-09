@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011893,
+    "chapter_id": 6686,
+    "verse_number": "14.117",
+    "content_sanskrit": "स्नपिते शीतलैरस्रैश्श्वशुरैर्घ्रातमूर्धभिः । दम्पती दधतुः क्षेत्रे पुलकान्मञ्जलाङ्कुरान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011893,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्षेत्रे शरीरे ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005656,
+    "chapter_id": 6627,
+    "verse_number": "15.31",
+    "content_sanskrit": "दूनास्तेऽरिबलादूना निरेभा बहु मेनिरे । भीताः शितशराभीताः शंकरं तत्र शंकरम् ॥",
+    "padaccheda": "दूनाः । ते । अरिबलादूनाः । निरेभाः । बहु । मेनिरे । भीताः । शितशराभीतम् । शंकरम् । तत्र । शंकरम्",
+    "anvaya": "अरि-बलात् ऊनाः दूनाः निरेभाः भीताः ते तत्र शित-शर-अभीतम् शंकरम् शंकरम् बहु मेनिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They (the Ganas), distressed, diminished by the enemy's strength, without splendor, and afraid, highly esteemed Shankara (Shiva) there, who was both a bestower of good fortune and fearless of sharp arrows.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005656,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दूना इति॥दूनाः शरतप्ताः।`ल्वादिभ्यः` (पा.8।2।44)इति निष्ठानत्वम्। अरिबलाच्छत्रुबलादूना ऊनबलाः।`पञ्चमी विभक्ते` (पा.2।3।42)इति पञ्चमी।निरेभा निःशब्दाः।कुतः। भीतास्त्रस्ता: । कुतः।यतः शितैस्तीक्ष्णैः शरैरभीता अभिव्याप्ताः। इणः कर्मणि क्तः। ते गणास्तत्र रणे शंकरमभयवचनेन सुखकरं शंकरं शिवं बहु यथा तथा मेनिरेऽमन्यन्त । पादाद्यन्तयमकम् ॥"
+    }
+  ]
+}

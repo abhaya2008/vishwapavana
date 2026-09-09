@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014112,
+    "chapter_id": 6707,
+    "verse_number": "15.8",
+    "content_sanskrit": "अभिवाद्य विदर्भराडवादीदथ कर्णाटवसुंधरामियासुम् । भगवन्बहुभिः कपालिजालैः स हि देशो भवतामगम्यरूपः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014112,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथ कर्णाटभूमिं गन्तुमिच्छुमभिवाद्य विदर्भराडुक्तवान् । हे भगवन्स हि देशो बहुभिः कापालिकैर्भवतामगम्यरूपः ॥ ८ ॥"
+    }
+  ]
+}

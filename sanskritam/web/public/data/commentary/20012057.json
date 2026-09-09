@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012057,
+    "chapter_id": 6688,
+    "verse_number": "16.64",
+    "content_sanskrit": "वन्दस्व सर्वा गृहदेवतास्त्वं प्रातः प्रयाणे जननीगुरूश्च । गत्वा लभस्व स्वजनादनुज्ञां शीलेन सन्तोषय बन्धुभृत्यान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012057,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वन्दस्वेत्यादिषु विधौ निमन्त्रणे वा लोट् । थासस्से (पा.३|४|८०) । 'सवाभ्यां वामौ' (पा.३|४|९१) ॥"
+    }
+  ]
+}

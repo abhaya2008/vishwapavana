@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012621,
+    "chapter_id": 6693,
+    "verse_number": "1.66",
+    "content_sanskrit": "षडभिज्ञा निशम्येमां वाचं तात्पर्यगर्भिताम् । नितरां चरणस्पृष्टा भुजंगा इव चुक्रुधुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012621,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "षडभिज्ञा बौद्धा निशम्य श्रुत्वा ॥ ६६ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012621,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "अत्र भुजंगोपमया तेषां द्विजिह्वत्वादि ध्वन्यते"
+    }
+  ]
+}

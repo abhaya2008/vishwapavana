@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014128,
+    "chapter_id": 6707,
+    "verse_number": "15.24",
+    "content_sanskrit": "कुमताश्रय पश्य मे प्रभावं फलमाप्स्यस्यधुनैव कर्मणोऽस्य । इति हस्ततले दधत्कपालं क्षणमध्यायदसौ निमील्य नेत्रे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014128,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "असौ क्रकचो नेत्रे निमील्य क्षणमात्रं ध्यानं कृतवान् ॥ २४ ॥ ॥ २४ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014128,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "कुमतेति । इति जल्पन्नित्यार्थिकम्"
+    }
+  ]
+}

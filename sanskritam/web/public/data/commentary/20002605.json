@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002605,
+    "chapter_id": 6582,
+    "verse_number": "6.52",
+    "content_sanskrit": "नृपं तमावर्तमनोज्ञनाभिः सा व्यत्यगादन्यवधूर्भवित्री । महीधरं मार्गवशादुपेतं स्रोतोवहा सागरगामिनीव ॥",
+    "padaccheda": "नृपम् । तम् । आवर्तमनोज्ञनाभिः । सा । व्यत्यगात् । अन्यवधूर्भवित्री । महीधरम् । मार्गवशात् । उपेतम् । स्रोतोवहा । सागरगामिनी । इव",
+    "anvaya": "आवर्तमनोज्ञनाभिः अन्यवधूर्भवित्री सा, मार्गवशात् उपेतं महीधरं सागरगामिनी स्रोतोवहा इव, तं नृपं व्यत्यगात्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "She, Indumati, whose navel was as lovely as a whirlpool and who was destined to be another's bride, passed by that king, just as an ocean-bound river bypasses a mountain that comes in its path.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002605,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नृपमिति॥ `स्यादावर्तोऽम्भसां भ्रमः` इत्यमरः (अ.को.1|10|6)। आवर्तमनोज्ञा नाभिर्यस्याः सा। इदं च नदीसाम्यार्थमुक्तम्। अन्यवधूरन्यपत्नी भवित्री भाविनी सा कुमारी महीधरं तं नृपम्। सागरगामिनी सागरं गन्त्री स्रोतोवहा नदीमार्गवशादुपेतं प्राप्तं महीधरं पर्वतमिव। व्यत्यगादतीत्य गता ॥"
+    }
+  ]
+}

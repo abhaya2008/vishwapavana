@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010852,
+    "chapter_id": 6677,
+    "verse_number": "5.92",
+    "content_sanskrit": "शीतनिर्झरिणीवारिपानमूलादिभोजनम् । सुखाकरोति वः पत्नीरपत्यानि च कञ्चन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010852,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पानं भोजनमिति 'कर्मणि च येन संस्पर्शात् कर्तुः शरीरसुखं' (पा.३|३|११६) इति ल्युट् । पूर्वेणैव सिद्धे ल्युटि वचनं नित्योपपदसमासार्थम् ॥"
+    }
+  ]
+}

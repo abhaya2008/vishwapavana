@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002165,
+    "chapter_id": 6577,
+    "verse_number": "1.16",
+    "content_sanskrit": "भीमकान्तैर्नृपगुणैः स बभूवोपजीविनाम् । अधृष्यश्चाभिगम्यश्च यादोरत्नैरिवार्णवः ॥",
+    "padaccheda": "भीमकान्तैः । नृपगुणैः । सः । बभूव । उपजीविनाम् । अधृष्यः । च । अभिगम्यः । यादोरत्नैः । इव । अर्णवः",
+    "anvaya": "सः भीमकान्तैः नृपगुणैः उपजीविनाम् अधृष्यः च अभिगम्यः च यादोरत्नैः इव अर्णवः बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Because of his royal qualities that were both awe-inspiring and pleasing, he was both unapproachable and accessible to his subjects, like the ocean with its terrifying monsters and precious gems.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002165,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भीमेति॥ भीमैश्च कान्तैश्च नृपगुणै राजगुणैस्तेजः प्रतापादिभिः कुलशीलदाक्षिण्यादिभिश्च स दिलीप उपजीविनामाश्रितानाम्। यादोभिर्जलजीवैः। `यादांसि जलजन्तवः` इत्यमरः (अ.को.1|10|20)। रत्नैश्चार्णव इव। अधृष्योऽनभिभवनीयश्चाभिगम्य आश्रयणीयश्च बभूव ॥"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012635,
+    "chapter_id": 6693,
+    "verse_number": "1.80",
+    "content_sanskrit": "सौगतास्त्वब्रुवन्वेदं प्रमाणं मतनिर्णये । मणिमन्त्रौषधैरेवं देहरक्षा भवेदिति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012635,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "॥ ८० ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012635,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "सौगतास्त्विति । इदं पर्वतशृङ्गान्नपतनं मतनिर्णये विषये नैव प्रमा- णमित्यब्रुवन्निति योजना । इतिशब्दो हेत्वर्थः"
+    }
+  ]
+}

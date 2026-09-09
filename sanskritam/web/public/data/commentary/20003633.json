@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003633,
+    "chapter_id": 6594,
+    "verse_number": "18.25",
+    "content_sanskrit": "अंशे हिरण्याक्षरिपोः स जाते हिरण्यनाभे तनये नयज्ञः । द्विषामसह्यः सुतरां तरूणां हिरण्यरेता इव सानिलोऽभूत् ॥",
+    "padaccheda": "अंशे । हिरण्याक्षरिपोः । सः । जाते । हिरण्यनाभे । तनये । नयज्ञः । द्विषाम् । असह्यः । सुतराम् । तरूणाम् । हिरण्यरेताः । इव । सानिलः । अभूत्",
+    "anvaya": "हिरण्याक्ष-रिपोः अंशे, नयज्ञः सः हिरण्यनाभे तनये जाते (सति), स-अनिलः हिरण्यरेताः इव, तरूणाम् (इव) द्विषाम् सुतराम् असह्यः अभूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When his son Hiranyanabha—an expert in polity and a partial incarnation of Vishnu—was born, King Vishvasaha became exceedingly unbearable to his enemies, just as fire accompanied by wind is to trees.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003633,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अंश इति॥ नयज्ञो नीतिज्ञः स विश्वसहः। हिरण्याक्षरिपीर्विष्णोरंशे। हिरण्यनाभे तन्नाम्नि तनये जाते सति। तरूणां सानिलो हिरण्यरेता हुतभुगिव। द्विषां सुतरामसह्योऽभूत् ॥"
+    }
+  ]
+}

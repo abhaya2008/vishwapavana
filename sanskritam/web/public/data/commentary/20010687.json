@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010687,
+    "chapter_id": 6676,
+    "verse_number": "4.33",
+    "content_sanskrit": "गृहं प्रविष्टमभ्यर्चन्नथ विप्रस्स फल्गुनम् । मेने वर्धिष्णुमात्मानं सुकृतैरुत्पचिष्णुभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010687,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वर्धिष्ण्वादिषु 'अलंकृञ् निराकृञ् प्रजनोत्पचोत्पतोन्मदरुच्यपत्रपृतुवृधुसहचर इष्णुच्' (पा.३|२|१३६) इति इष्णुच् ॥"
+    }
+  ]
+}

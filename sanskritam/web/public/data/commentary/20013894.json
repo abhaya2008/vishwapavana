@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013894,
+    "chapter_id": 6705,
+    "verse_number": "13.40",
+    "content_sanskrit": "तत्तादृशात्युज्ज्वलकीर्तिराशिः समस्तशास्त्रार्णवपारदर्शी । आसादितो धर्महितः प्रयत्ना- त्स चेन्न रोचेत न दृश्यतेऽन्यः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013894,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "नकी वृत्तम् ॥ ४० ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013894,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "तत्तादृशेति । एतेन लोकशास्त्रोभयप्रवृत्तिचातुर्यमपि तत्र मूचितम्"
+    }
+  ]
+}

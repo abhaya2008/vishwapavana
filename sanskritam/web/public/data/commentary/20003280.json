@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003280,
+    "chapter_id": 6590,
+    "verse_number": "14.31",
+    "content_sanskrit": "स किंवदन्तीं वदतां पुरोगः स्ववृत्तमुद्दिश्य विशुद्धवृत्तः । स र्पाधिराजोरुभुजोऽपसर्पं पप्रच्छ भद्रं विजितारिभद्रः ॥",
+    "padaccheda": "सः । किंवदन्तीम् । वदताम् । पुरोगः । स्ववृत्तम् । उद्दिश्य । विशुद्धवृत्तः । सर्पाधिराजोरुभुजः । अपसर्पम् । पप्रच्छ । भद्रम् । विजितारिभद्रः",
+    "anvaya": "वदताम् पुरोगः विशुद्धवृत्तः सर्प-अधिराज-उरु-भुजः विजित-अरि-भद्रः सः स्ववृत्तम् उद्दिश्य किंवदन्तीम् (विषये) भद्रम् नाम अपसर्पम् पप्रच्छ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He, the foremost of speakers, of pure conduct, with arms as mighty as the serpent king, and who had conquered formidable foes, questioned a spy named Bhadra about the public rumor concerning his own conduct.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003280,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ वदतां वाग्मिनां पुरोगः श्रेष्ठो विशुद्धवृत्तः। सर्पाधिराजः शेषः तद्वदुरू भुजौ यस्य स विजितारिभद्रो विजितारिश्रेष्ठः स रामः स्ववृत्तमुद्दिश्य भद्रं भद्रनामकमपसर्पं चरं किंवदन्तीं जनवादं पप्रच्छ। `अपसर्पश्चरः स्पशः`इति, `किंवदन्ती जनश्रुतिः`इति चामरः॥"
+    }
+  ]
+}

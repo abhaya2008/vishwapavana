@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003113,
+    "chapter_id": 6588,
+    "verse_number": "12.47",
+    "content_sanskrit": "तं शरैः प्रतिजग्राह खरत्रिशिरसौ च सः । क्रमशस्ते पुनस्तस्य चापात्सममिवोद्ययुः ॥",
+    "padaccheda": "तम् । शरैः । प्रतिजग्राह । खरत्रिशिरसौ । च । सः । क्रमशः । ते । पुनः । तस्य । चापात् । समम् । इव । उद्ययुः",
+    "anvaya": "सः तं खर-त्रिशिरसौ च शरैः प्रतिजग्राह ते पुनः तस्य चापात् क्रमश: समं इव उद्ययुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama countered Dushana, Khara, and Trishiras with his arrows. Although he shot at them one after another, the arrows seemed to fly out from his bow all at once because of his great speed.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003113,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ स रामस्तं दूषणं खरत्रिशिरसौ च शरैः प्रतिजग्राह। प्रतिजहारेत्यर्थः। क्रमशो यथाक्रमम्। प्रयुक्ता अपीति शेषः। तस्य ते शराः पुनश्चापात्समं युगपदिवोद्ययुः। अतिलघुहस्त इति भावः ॥"
+    }
+  ]
+}

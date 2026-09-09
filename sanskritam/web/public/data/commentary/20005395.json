@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005395,
+    "chapter_id": 6623,
+    "verse_number": "11.41",
+    "content_sanskrit": "इदमीदृग्गुणोपेतं लब्धावसरसाधनम् । व्याकुर्यात्कः प्रियं वाक्यं यो वक्ता नेदृगाशयः ॥",
+    "padaccheda": "इदम् । ईदृग्गुणोपेतम् । लब्धावसरसाधनम् । व्याकुर्यात् । कः । प्रियम् । वाक्यम् । यः । वक्ता । न । ईदृगाशयः",
+    "anvaya": "यः वक्ता ईदृगाशयः न (अस्ति), कः (सः) ईदृक्गुणोपेतम् लब्धावसरसाधनम् इदम् प्रियम् वाक्यम् व्याकुर्यात्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Who could utter such a pleasing sentence, endowed with these qualities and having found the opportune means, if the speaker did not possess such a noble intention? (A rhetorical praise of Arjuna's speech by the poet).",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005395,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "इदमिति ॥ इदमीदृग्गुणोपेतं यथोक्तगुणयुक्तम् । इदमुपपदादृशेः क्विप् । `इदंकिमोरीश्की` इतीशादेशः । लब्धे प्राप्तेऽवसरसाधने कालोपायौ येन तत्प्रियं प्रीतिकरं वाक्यं को वक्ता व्याकुर्याद्ववाहरेत् । यो वक्ता सोऽनीदृगाशय ईदृग्विवक्षावान्न भवति । अबुद्धिरित्यर्थः । तस्यार्थस्य वक्तुमशक्यत्वादिति भावः ॥ एवमिन्द्रवाक्यमुपश्लोक्य नाहमस्योपदेशस्याधिकारीति परिहरति"
+    }
+  ]
+}

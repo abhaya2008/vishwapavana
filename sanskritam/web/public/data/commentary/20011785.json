@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011785,
+    "chapter_id": 6686,
+    "verse_number": "14.9",
+    "content_sanskrit": "दर्शयन्त्यपि जिह्राय याऽऽत्मानं परिचर्यया । सा नाऽविनयलक्ष्माणि बभारेति कृतं गिरा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011785,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अयमप्यामभावपक्षः । अविनयलक्ष्माणि मदनविकारलिङ्गानि । गिरा कृतमलम् ॥ अथ तस्या नित्याचारं वर्णयति—"
+    }
+  ]
+}

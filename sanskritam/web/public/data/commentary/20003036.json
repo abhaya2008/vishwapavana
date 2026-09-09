@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003036,
+    "chapter_id": 6587,
+    "verse_number": "11.63",
+    "content_sanskrit": "तेजसः सपदि राशिरुत्थितः प्रादुरास किल वाहिनीमुखे । यः प्रमृज्य नयनानि सैनिकैर्लक्षणीयपुरुषाकृतिश्चिरात् ॥",
+    "padaccheda": "सपदि । वाहिनीमुखे । तेजसः । राशिः । उत्थितः । प्रादुरास । किल । यः । सैनिकैः । नयनानि । प्रमृज्य । चिरात् । लक्षणीयपुरुषाकृतिः",
+    "anvaya": "सपदि वाहिनीमुखे तेजसः राशिः उत्थितः प्रादुरास किल यः सैनिकैः नयनानि प्रमृज्य चिरात् लक्षणीयपुरुषाकृतिः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Suddenly, a mass of light appeared at the front of the army. After rubbing their eyes, the soldiers could finally discern a human form within that radiance after a long time.",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003036,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तेजसा इति॥ सपद्युत्थितस्तेजसो राशिर्वाहिनीमुखे सेनाग्रे प्रादुरास किल खलु। यः सैनिकैर्नयनानि प्रमृज्य चिराल्लक्षणीया भावनीया पुरुषाकृतिर्यस्य स तथोक्तः । अभूदिति शेषः ॥"
+    }
+  ]
+}

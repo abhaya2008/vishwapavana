@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003145,
+    "chapter_id": 6588,
+    "verse_number": "12.79",
+    "content_sanskrit": "स नादं मेघनादस्य धनुश्चेन्द्रायुधप्रभम् । मेघस्येव शरत्कालो न किंचित्पर्यशेषयत् ॥",
+    "padaccheda": "सः । नादम् । मेघनादस्य । धनुः । च । इन्द्रायुधप्रभम् । मेघस्य । इव । शरत्कालः । न । किञ्चित् । पर्यशेषयत्",
+    "anvaya": "शरत्कालः मेघस्य इव सः मेघनादस्य नादं इन्द्रायुधप्रभं धनुः च न किंचित् पर्यशेषयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as the autumn season leaves nothing of a cloud's thunder or its rainbow, Lakshmana left nothing remaining of Meghanada's roar or his bow that shone with the splendor of a rainbow.",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003145,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स लक्ष्मणः शरत्कालो मेघस्येव। मेघनादस्येन्द्रजितो नादं सिंहनादम्। अन्यत्र, -गर्जितं च इन्द्रायुधप्रभं शक्रधनुःप्रभं धनुश्च किंचिदल्पमपि न पर्यशेषयन्नावशेषितवान्। तमवधीदित्यर्थः ॥"
+    }
+  ]
+}

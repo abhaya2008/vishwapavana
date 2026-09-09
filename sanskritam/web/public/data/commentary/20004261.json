@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004261,
+    "chapter_id": 6603,
+    "verse_number": "8.21",
+    "content_sanskrit": "सोऽनुमान्य हिमवन्तमात्मभूरात्मजाविरहदुःखखेदितम् । तत्र तत्र विजहार संपतन्नप्रमेयगतिना ककुद्मता ॥",
+    "padaccheda": "सः । अनुमान्य । हिमवन्तम् । आत्मभूः । आत्मजाविरहदुःखखेदितम् । तत्र । तत्र । विजहार । संपतन् । अप्रमेयगतिना । ककुद्मता",
+    "anvaya": "आत्मभूः सः आत्मजाविरहदुःखखेदितं हिमवन्तम् अनुमान्य, अप्रमेयगतिना ककुद्मता संपतन् तत्र तत्र विजहार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He, the self-existent one (Shiva), after taking leave of Himavat who was distressed by the sorrow of separation from his daughter, roamed here and there, flying with his bull (Nandi) of immeasurable speed.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004261,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति । स आत्मभूः शिव आत्मजाया दुहितुर्विरहदुःखेन पीडितं हिमवन्तमनुमान्यानुमतं कृत्वा अप्रमेयगतिनापरिच्छेद्यगतिना ककुद्मता वृषेण संचरन्संचरमाणस्तत्र तत्र नानादेशेषु विजहार"
+    }
+  ]
+}

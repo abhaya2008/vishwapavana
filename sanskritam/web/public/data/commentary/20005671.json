@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005671,
+    "chapter_id": 6627,
+    "verse_number": "15.46",
+    "content_sanskrit": "विफलीकृतयत्नस्य क्षतबाणस्य शम्भुना । गाण्डीवधन्वनः खेभ्यो निश्चचार हुताशनः ॥",
+    "padaccheda": "विफलीकृतयत्नस्य । क्षतबाणस्य । शम्भुना । गाण्डीवधन्वनः । खेभ्यः । निश्चचार । हुताशनः",
+    "anvaya": "शम्भुना विफलीकृतयत्नस्य क्षतबाणस्य गाण्डीवधन्वनः खेभ्यः हुताशनः निश्चचार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Fire emerged from the quivers of Arjuna, the wielder of the Gandiva bow, whose efforts had been frustrated and whose arrows had been destroyed by Shiva.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005671,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " विफलीति ।। शंभुना क्षतबाणस्यातएव विफलीकृतयत्नस्य निष्फलप्रयत्नस्य गाण्डीवं धनुर्यस्य तस्य गाण्डीवधन्वनोऽर्जुनस्य । `वा संज्ञायाम्` (पा.5।4।133) इत्यनङादेशः । खेभ्य इन्द्रियरन्ध्रेभ्यः । `खमिन्द्रिये सुखे स्वर्ग` इति विश्वः । हुताशनोऽग्निर्निश्चक्राम निष्क्रान्तः। क्रोधादिति भावः ॥"
+    }
+  ]
+}

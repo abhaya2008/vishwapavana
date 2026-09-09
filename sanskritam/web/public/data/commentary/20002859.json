@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002859,
+    "chapter_id": 6585,
+    "verse_number": "9.54",
+    "content_sanskrit": "अथ नभस्य इव त्रिदशायुधं कनकपिङ्गतडिद्गुणसंयुतम् । धनुरधिज्यमनाधिरुपाददे नरवरो रवरोषितकेसरी ॥",
+    "padaccheda": "अथ । नभसि । इव । त्रिदशायुधम् । कनकपिङ्गतडिद्गुणसंयुतम् । धनुः । अधिज्यम् । अनाधिः । उपाददे । नरवरः । रवरोषितकेसरी",
+    "anvaya": "अथ रव-रोषित-केसरी अनाधिः नरवरः, नभसि त्रिदशायुधम् इव, कनकपिङ्गतडित्-गुण-संयुतम् अधिज्यम् धनुः उपाददे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then that best of men, who angered lions with his sound and was free from anxiety, took up his strung bow. With its string resembling a golden-tawny flash of lightning, the bow looked like Indra's rainbow in the sky.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002859,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथानाधिर्मनोव्यथारहितो नरवरो नरश्रेष्ठः। रवेण धनुष्टङ्कारेण रोषिताः केसरिणः सिंहा येन स राजा। कनकमिव पिङ्गः पिशङ्गो यस्तडिदेवप गुणो मौर्वी तेन संयुतं त्रिदशायुधमिन्द्रचापं नभस्यो भाद्रपदमास इव। `स्युर्नभस्यप्रौष्टपदभाद्रभाद्रपदाः समाः` इत्यमरः। अधिज्यमधिगतमौर्वीकं धनुरुपापदे जग्राह ॥"
+    }
+  ]
+}

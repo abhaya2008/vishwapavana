@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012821,
+    "chapter_id": 6695,
+    "verse_number": "3.75",
+    "content_sanskrit": "धवे परोक्षेऽपि कदाचिदेयु- र्गृहं तदीया अपि वा महान्तः । ते पूजनीया बहुमानपूर्वं नो चेन्निराशाः कुलदाहकाः स्युः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012821,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "धवे पत्यौ परोक्षे बहिर्गते सति । उपजातिवृत्तम् ॥ ७५ ॥"
+    }
+  ]
+}

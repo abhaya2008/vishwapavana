@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004726,
+    "chapter_id": 6611,
+    "verse_number": "16.18",
+    "content_sanskrit": "केचिद्धीरैः प्रणादैश्च वीराणामभ्युपेयुषाम् । निपेतुः क्षोभतो वाहादपरे मुमुहुर्मदात् ॥",
+    "padaccheda": "केचित् । धीरैः । प्रणादैः । च । वीराणाम् । अभ्युपेयुषाम् । निपेतुः । क्षोभतः । वाहात् । अपरे । मुमुहुः । मदात्",
+    "anvaya": "केचित् अभ्युपेयुषाम् वीराणाम् धीरैः प्रणादैः च क्षोभतः वाहात् निपेतुः, अपरे मदात् मुमुहुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Some warriors fell from their mounts due to the agitation caused by the deep roars of the approaching heroes, while others were completely bewildered or fainted out of sheer battle-intoxication.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004726,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "केचिदिति । अभ्युपेयुषां संमुखमागतवतां वीराणां धीरैर्गम्भीरैः प्रणादैर्गर्जितैः केचिद्वीराः क्षोभतश्चित्तसंचलनाद्धेतोर्वाहादश्वान्निपेतुर्मुमूर्च्छः । अपरे केचिन्मदाद् गर्वान्मुमुहुः । चेतनाविरहिता बभूवुरित्यर्थः"
+    }
+  ]
+}

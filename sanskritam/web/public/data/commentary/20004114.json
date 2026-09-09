@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004114,
+    "chapter_id": 6601,
+    "verse_number": "6.64",
+    "content_sanskrit": "इत्यूचिवांस्तमेवार्थं दरीमुखविसर्पिणा । द्विरिव प्रतिशब्देन व्याजहार हिमालयः ॥",
+    "padaccheda": "इति । उचिमान् । तम् । एव । अर्थम् । दरीमुखविसर्पिणा । द्विः । इव । प्रतिशब्देन । व्याजहार । हिमालयः",
+    "anvaya": "हिमालयः इति उचिमान् तम् एव अर्थम् दरीमुखविसर्पिणा प्रतिशब्देन द्विः इव व्याजहार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Himalaya, having mentally assented to their proposal, spoke, his voice seeming to repeat the same meaning twice, like an echo spreading from the mouths of his caves.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004114,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति । इत्यूचिवानुक्तवान् । वचेः क्वसुप्रत्ययः । हिमालयो हिमवान्गुहानां मुखेषु विवरेषु विसर्पतीति तथोक्तेन प्रतिशब्देन तमेव पूर्वोक्तमेवार्थं द्विर्द्विवारम् । `द्वित्रिचतुर्भ्यः सुच्` (पा.5|4|18) इति सुच्प्रत्ययः । व्याजहार बभाषे"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003401,
+    "chapter_id": 6591,
+    "verse_number": "15.65",
+    "content_sanskrit": "रूपे गीते च माधुर्यं तयोस्तज्ज्ञैर्निवेदितम् । ददर्श सानुजो रामः शुश्राव च कुतूहली ॥",
+    "padaccheda": "रूपे । गीते । च । माधुर्यं । तयोः । तज्ज्ञैः । निवेदितम् । ददर्श । सानुजः । रामः । शुश्राव । च । कुतूहली",
+    "anvaya": "तज्ज्ञैः निवेदितम् तयोः रूपे गीते च माधुर्यम् कुतूहली स-अनुजः रामः ददर्श शुश्राव च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The charm in their appearance and the sweetness in their song, reported by experts, was seen and heard by the curious Rama along with his younger brothers.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003401,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रूप इति॥ ते जानन्तीति तज्ज्ञाः, तैस्तज्ज्ञैरभिज्ञैर्निवेदितं तयोः कुशलवयो रूपे आकारे गीते च माधुर्यं रामणीयकं सानुजो रामाः कुतूहली सानन्दः सन्, यथासंख्यं ददर्श शुश्राव च ॥"
+    }
+  ]
+}

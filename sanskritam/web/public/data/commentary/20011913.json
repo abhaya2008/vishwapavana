@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011913,
+    "chapter_id": 6687,
+    "verse_number": "15.10",
+    "content_sanskrit": "पाण्डवाऽऽखण्डलप्रस्थमितस्त्वं यदि यास्यसि । अथाऽहमनुढौके त्वां विशयो नाऽत्र मे हृदि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011913,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'यास्यस्यनुढौके' इति 'लोडर्थलक्षणे चे'ति (पा.३|३|८) वा लृट् । उत्तरसूत्रेणोत्तरश्लोके वा लृट् ॥"
+    }
+  ]
+}

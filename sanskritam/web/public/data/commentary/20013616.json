@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013616,
+    "chapter_id": 6702,
+    "verse_number": "10.38",
+    "content_sanskrit": "ते च ज्ञात्वा गानविलोलं तरुणीसक्तं धरणीपालम् । विविशुः स्वीकृतगायकवेषा नगरं विदितसमस्तविशेषाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013616,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "ते च तरुणीषु सक्तं गानविलोलं भूपालं ज्ञात्वा स्वीकृतगायकवेषा नगरं विविशु-र्यतो विदितसमस्तविशेषाः ॥ ४० ॥"
+    }
+  ]
+}

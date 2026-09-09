@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003378,
+    "chapter_id": 6591,
+    "verse_number": "15.42",
+    "content_sanskrit": "अथ जानपदो विप्रः शिशुमप्राप्तयौवनम् । अवतार्याङ्कशय्यास्थं द्वारि चक्रन्द भूपतेः ॥",
+    "padaccheda": "अथ । जानपदः । विप्रः । शिशुम् । अप्राप्तयौवनम् । अवतार्य । अङ्कशय्यास्थम् । द्वारि । चक्रन्द । भूपतेः",
+    "anvaya": "अथ जानपदः विप्रः अप्राप्तयौवनम् अङ्कशय्यास्थम् शिशुम् अवतार्य भूपतेः द्वारि चक्रन्द।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, a brahmin from the countryside, after placing down his young son who had died before reaching youth from the bed of his lap, cried out loudly at the king's gate.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003378,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ जनपदे भवो जानपदो विप्रः। कश्चिदिति शेषः। अप्राप्त यौवनं शिशुम्। मृतमिति शेषः। भूपते रामस्य द्वारि। अङअकशय्यास्थं यथा तथाऽवतार्याङ्कस्थत्वेनैवावरोप्य। चक्रन्द चुक्रोश ॥"
+    }
+  ]
+}

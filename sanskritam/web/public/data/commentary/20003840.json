@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003840,
+    "chapter_id": 6597,
+    "verse_number": "2.62",
+    "content_sanskrit": "इति व्याहृत्य विबुधान्विश्वयोनिस्तिरोदधे । मनस्याहितकर्तव्यास्तेऽपि प्रतिययुर्दिवम् ॥",
+    "padaccheda": "इति । व्याहृत्य । विबुधान् । विश्वयोनिः । तिरोदधे । मनसि । आहितकर्तव्याः । ते । अपि । प्रतिययुः । दिवम्",
+    "anvaya": "विश्वयोनिः इति विबुधान् व्याहृत्य तिरोदधे। मनसि आहितकर्तव्याः ते अपि दिवम् प्रतिययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having thus spoken to the gods, Brahma, the source of the universe, disappeared. The gods, with their duty fixed in their minds, also returned to heaven.",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003840,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति ॥ विश्वस्य योनिः कारणम् । `योनिः स्त्रीणां भगस्थाने कारणं तान्त्रिके पणे` इति वैजयन्ती । बिबुधान्सुरानिति व्याहृत्याभिधाय तिरोदधोऽन्तर्हितवान् । ते देवा अपि मनस्याहितं कर्तव्यं यैस्ते तथोक्ताः सन्ता दिवं स्वर्गं ययुः प्रापुः"
+    }
+  ]
+}

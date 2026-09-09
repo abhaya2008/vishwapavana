@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002313,
+    "chapter_id": 6578,
+    "verse_number": "2.69",
+    "content_sanskrit": "स नन्दिनीस्तन्यमनिन्दितात्मा सद्वत्सलो वत्सहुतावशेषम् । पपौ वसिष्ठेन कृताभ्यनुज्ञः शुभ्रं यशो मूर्तमिवातितृष्णः ॥",
+    "padaccheda": "सः । नन्दिनीस्तन्यम् । अनिन्दितात्मा । सद्वत्सलः । वत्सहुतावशेषम् । पपौ । वसिष्ठेन । कृताभ्यनुज्ञः । शुभ्रम् । यशः । मूर्तम् । इव । अतितृष्णः",
+    "anvaya": "अनिन्दित-आत्मा सत्-वत्सलः सः वसिष्ठेन कृत-अभ्यनुज्ञः (सन्) अति-तृष्णः (सन्) वत्स-हुत-अवशेषम् नन्दिनी-स्तन्यम् मूर्तम् शुभ्रम् यशः इव पपौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That blameless king, affectionate towards the virtuous, having been given permission by Vasishtha, drank with great thirst the milk of Nandini, which was the remainder after her calf had fed and the sacrificial offerings were made. He drank it as if it were his own pure fame, embodied and white.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002313,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ अनिन्दितात्माऽगर्हितस्वभावः। सत्सु वत्सलः प्रेमवान् सद्वत्सलः। `वत्सांसाभ्यां कामबले` (पा.5।2।98)इति लच्प्रत्ययः। वसिष्ठेन कृताभ्यनुज्ञः कृतानुमतिः स राजा वत्सस्य हुतस्य चावशेषं पीतहुतावशिष्टं नन्दिन्याः स्तन्यं क्षीरम्। शुभ्रं मूर्तं परिच्छिन्नं यश इव। अतितृष्णः सन्पपौ ॥"
+    }
+  ]
+}

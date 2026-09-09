@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003866,
+    "chapter_id": 6598,
+    "verse_number": "3.24",
+    "content_sanskrit": "तस्मिन्वने संयमिनां मुनीनां तपःसमाधेः प्रतिकूलवर्ती । संकल्पयोनेरभिमानभूतमात्मानमाधाय मधुर्जजृम्भे ॥",
+    "padaccheda": "तस्मिन् । वने । संयमिनाम् । मुनीनाम् । तपःसमाधेः । प्रतिकूलवर्ती । संकल्पयोनेः । अभिमानभूतम् । आत्मानम् । आधाय । मधुः । जजृम्भे",
+    "anvaya": "तस्मिन् वने संयमिनाम् मुनीनाम् तपः-समाधेः प्रतिकूल-वर्ती, संकल्प-योनेः अभिमान-भूतम् आत्मानम् आधाय, मधुः जजृम्भे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In that forest, Spring (Madhu) began to manifest himself, embodying the very pride of the mind-born god (Kama). His presence was hostile to the asceticism and deep meditation of the self-controlled sages residing there.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003866,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मिन्निति ॥ तस्मिन्वने स्थाण्वाश्रमे संयमिनां समाधिमतां मुनीनां तपसः समाधेरेकाग्रतायाः प्रतिकूलं वर्तते इति प्रतिकूलवर्ती विरोधी मधुर्वसन्तः संकल्पयोनोर्मनोभवस्याभिमानभूतम् । गर्वहेतुभूतमित्यर्थः । कार्यकारणयोरभेदोपचारः । आत्मानं निजस्वरुपमाधाय संनिधाय जजृम्भे प्रादुर्बभूव । वसन्तधर्मान्प्रवर्तयामासेत्यर्थः"
+    }
+  ]
+}

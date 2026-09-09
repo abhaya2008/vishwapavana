@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005596,
+    "chapter_id": 6626,
+    "verse_number": "14.36",
+    "content_sanskrit": "अनादरोपात्तधृतैकसायकं जयेऽनुकूले सुहृदीव सस्पृहम् । शनैरपूर्णप्रतिकारपेलवे निवेशयन्तं नयने बलोदधौ ॥",
+    "padaccheda": "अनादरोपात्तधृतैकसायकम् । जये । अनुकूले । सुहृदि । इव । सस्पृहम् । शनैः । अपूर्णप्रतिकारपेलवे । निवेशयन्तम् । नयने । बलोदधौ",
+    "anvaya": "जये अनुकूले सुहृदि इव सस्पृहम् अनादरोपात्तधृतैकसायकं (तम्) अपूर्णप्रतिकारपेलवे बलोदधौ शनैः नयने निवेशयन्तं (ददृशुः)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They saw him slowly casting his eyes upon the ocean-like army, which was delicate due to its inability to offer a complete counter-attack. He held a single arrow, taken up and held with casual disdain, looking upon the approaching victory with the same fondness one has for a helpful friend.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005596,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अनादरेति ॥ पुनश्च । अनादरेणावगणनयोपात्तो निषङ्गादुद्धृतो धृतश्चैकः सायको येन तं तथानुकूले सुहृदीव जये सस्पृहं जयमिच्छन्तमित्यर्थः । पुनश्च । अपूर्णो न्यूनः प्रतिकारो बाणाहरणप्रत्यर्पणरूपो यस्य सः । अत एव पेलेवो लघुस्तस्मिन्नपूर्णप्रतिकारपेलवे बलोदधौ सेनासमुद्रे शनैरसंभ्रमेण नयने दृष्टी निवेशयन्तमिति वीरस्वभावोक्तिः । बलमुदधिरिवेत्युपमितसमासः। `पेषवासवाहूनधिषु च` इत्युदकस्योदादेशः ॥"
+    }
+  ]
+}

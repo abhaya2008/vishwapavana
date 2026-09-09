@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002795,
+    "chapter_id": 6584,
+    "verse_number": "8.85",
+    "content_sanskrit": "रुदता कुत एव सा पुनर्भवता नानुमृतापि लभ्यते । परलोकजुषां स्वकर्मभिर्गतयो भिन्नपथा हि देहिनाम् ॥",
+    "padaccheda": "रुदता । कुतः । एव । सा । पुनः । भवता । न । अनुमृता । अपि । लभ्यते । परलोक-जुषाम् । स्व-कर्मभिः । गतयः । भिन्न-पथाः । हि । देहिनाम्",
+    "anvaya": "रुदता भवता सा पुनः कुतः एव लभ्यते? अनुमृता अपि न लभ्यते । हि परलोक-जुषाम् देहिनाम् गतयः स्व-कर्मभिः भिन्न-पथाः (भवन्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "How can she be regained by you weeping? She cannot be obtained even if you follow her in death. For the paths of embodied souls who have gone to the other world are different, determined by their own respective deeds.",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002795,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रुदतेति॥ रुदता भवता सा कुत एव लभ्यते? न लभ्यत एव। अनुम्रियत इत्यनुमृत्। क्विप्। तेनानुमृतानुमृतवताऽपि भवता पुनर्न लभ्यते। कथं न लभ्यत इत्याह-परलोकजुषां लोकान्तरभाजां देहिनाम्। गम्यत इति गतयो गम्यस्थानानि स्वकर्मभिः पूर्वाचरितपुण्यपापैर्भिन्नपथाः पृथक्कृतमार्गा हि। परत्रापि स्वस्वधर्मानुरूपफलभोगाय भिन्नदेहगमनान्न मृतेनापि लभ्यत इत्यर्थः ॥"
+    }
+  ]
+}

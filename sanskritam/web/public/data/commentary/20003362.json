@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003362,
+    "chapter_id": 6591,
+    "verse_number": "15.26",
+    "content_sanskrit": "स हत्वा लवणं वीरस्तदा मेने महौजसः । भ्रातुः सोदर्यमात्मानमिन्द्रजिद्वधशोभिनः ॥",
+    "padaccheda": "स । हत्वा । लवणं । वीरः । तदा । मेने । महौजसः । भ्रातुः । सोदर्यम् । आत्मानम् । इन्द्रजिद्वधशोभिनः",
+    "anvaya": "तदा वीरः सः लवणम् हत्वा महा-ओजसः इन्द्रजित्-वध-शोभिनः भ्रातुः आत्मानम् सोदर्यम् मेने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the hero Shatrughna, having killed Lavana, considered himself a worthy brother to the mighty Lakshmana, who was renowned for slaying Indrajit.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003362,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स वीरः शत्रुघ्नो लवणं हत्वा तदाऽऽत्मानं महौजसो महाबलस्येन्द्रजिद्वधेन शोभिनो भ्रातुर्लक्ष्मणस्य समानोदरे शयितं सोदर्यमेकोदरं मेने। `सोदराद्यः` (पा.4।4।109) इति यप्रत्ययः ॥"
+    }
+  ]
+}

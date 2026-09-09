@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011087,
+    "chapter_id": 6679,
+    "verse_number": "7.97",
+    "content_sanskrit": "इन्द्रनीलमयं यत्र दृष्ट्वा प्रासादमुन्नतम् । जितप्रावृषिकांभोदं ननृतुः केकिनो मुदा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011087,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रावृषिकेति । जातार्थे 'प्रावृषष्ठप्' (पा.४|३|२६) । इतः प्राञ्चः प्रत्ययाः शैषिकास्सर्वे वेदितव्याः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003430,
+    "chapter_id": 6591,
+    "verse_number": "15.94",
+    "content_sanskrit": "विद्वानपि तयोर्द्वाःस्थः समयं लक्ष्मणोऽभिनत् । भीतो दुर्वाससः शापाद्रामसंदर्शनार्थिनः ॥",
+    "padaccheda": "विद्वान् । अपि । तयोः । द्वाःस्थः । समयम् । लक्ष्मणः । अभिनत् । भीतः । दुर्वाससः । शापात् । रामसंदर्शनार्थिनः",
+    "anvaya": "द्वाःस्थः विद्वान् अपि लक्ष्मणः रामसंदर्शनार्थिनः दुर्वाससः शापात् भीतः (सन्) तयोः समयम् अभिनत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although he was the gatekeeper and knew the agreement, Lakshmana, fearing a curse from Durvasa who was seeking an audience with Rama, broke the pact between them (Rama and Kala).",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003430,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विद्वानिति॥ द्वाःस्थो द्वारि नियुक्तो लक्ष्मणो विद्वानपि पूर्वश्लोकोक्तं जानन्नपि रामसंदर्शनार्थिनो दुर्वाससो मुनेः शापाद्भीतः सन्। तयोः काल-रामयोः समयं संवादम्। अभिनद्बिभेद ॥"
+    }
+  ]
+}

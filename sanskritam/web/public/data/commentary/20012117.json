@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012117,
+    "chapter_id": 6688,
+    "verse_number": "16.124",
+    "content_sanskrit": "इमामकामयिष्ये चेदद्य चोरयितुं प्रियाम् । शङ्खघोषेण नाह्वास्ये युष्मान् द्वीपमितो गतान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012117,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अकामयिष्ये चेन्नाह्वास्ये इति भूते हेतुहेतुमद्भावे लिङ्निमित्ते लृङ् (पा.३|३|१३९) ।"
+    }
+  ]
+}

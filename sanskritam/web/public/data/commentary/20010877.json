@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010877,
+    "chapter_id": 6677,
+    "verse_number": "5.117",
+    "content_sanskrit": "आराधनीया युष्माभिस्सर्वेमी मुनयोऽधुना । तीर्थस्नानाय गच्छन्तः कार्यं कार्यन्न वा मम ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010877,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अधुना तीर्थस्नानाय गच्छन्तोमी मुनयः युष्माभिराराधनीया इति प्राप्तकाले कृत्यः । मम कार्यं कार्यं न वेति अतिसर्गे कामचाराभ्यनुज्ञानलक्षणे कृत्यः ।"
+    }
+  ]
+}

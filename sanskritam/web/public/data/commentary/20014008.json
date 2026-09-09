@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014008,
+    "chapter_id": 6706,
+    "verse_number": "14.79",
+    "content_sanskrit": "शाखोपशाखाश्रितमेव वृक्षं बाधन्त आगत्य न तद्विहीनम् । यथा तथा वा धनिनं दरिद्रा बाधन्त आगत्य दिने दिने स्म ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014008,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "शाखोपशाखाभिराश्रितं व्याप्तमलंकृतं वा । तथा वा तथैव ॥७९॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014008,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ शाखेति । पक्षिणदय इति शेषः ] ॥ ७९ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002953,
+    "chapter_id": 6586,
+    "verse_number": "10.66",
+    "content_sanskrit": "अथाग्र्यमहिषीं राज्ञः प्रसूतिसमये सती । पुत्रं तमोपहं लेभे नक्तं ज्योतिरिवौषधिः ॥",
+    "padaccheda": "अथ । अग्र्यमहिषीम् । राज्ञः । प्रसूतिसमये । सती । पुत्रम् । तमोपहम् । लेभे । नक्तम् । ज्योतिः । इव । ओषधिः",
+    "anvaya": "अथ प्रसूतिसमये सती राज्ञः अग्र्यमहिषी नक्तं ज्योतिः ओषधिः इव तमोपहं पुत्रं लेभे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, at the time of delivery, the virtuous chief queen of the King gave birth to a son who dispels darkness, just as a medicinal herb emits light at night.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002953,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ राज्ञो दशरथस्य सती पतिव्रता। अग्र्या चासौ महिषी चाग्र्यमहिषी कौसल्या। प्रसूतिसमये प्रसूतिकाले। ओषधिर्नक्तं रात्रिसमये तमोऽपहन्तीति तमोपहम्। `अपे क्लेशतमसोः` (पा.3।2।50)इति ङप्रत्ययः। ज्योतिरिव। तमोपहं तमोनाशकरं पुत्रं लेभे प्राप॥"
+    }
+  ]
+}

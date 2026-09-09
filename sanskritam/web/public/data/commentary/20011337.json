@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011337,
+    "chapter_id": 6681,
+    "verse_number": "9.89",
+    "content_sanskrit": "प्रतिवेश्मासृजद्भूमिं प्रतिसद्म भुवोऽचरन् । सानन्दाः पुरसुन्दर्यस्सिन्दूरछुरिताननाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011337,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रतिसद्म प्रतिवेश्ममिति । वीप्सायामव्ययीभावः । अव्ययीभावेऽनन्ते ‘नपुंसकादन्यतरस्या’मिति (पा.५|४|१०९) वा टच् ॥"
+    }
+  ]
+}

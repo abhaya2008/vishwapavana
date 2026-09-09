@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003088,
+    "chapter_id": 6588,
+    "verse_number": "12.22",
+    "content_sanskrit": "ऐन्द्रिः किल नखैस्तस्या विददार स्तनौ द्विजः । प्रियोपभोगचिह्नेषु पौरोभाग्यमिवाचरन् ॥",
+    "padaccheda": "ऐन्द्रिः । किल । नखैः । तस्याः । विददार । स्तनौ । द्विजः । प्रियोपभोगचिह्नेषु । पौरोभाग्यम् । इव । आचरन्",
+    "anvaya": "द्विजः ऐन्द्रिः किल तस्याः स्तनौ नखैः विददार प्रियोपभोग-चिह्नेषु पौरोभाग्यम् आचरन् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It is said that the son of Indra, in the form of a bird, tore Sita's breasts with his claws, as if practicing meddlesome fault-finding upon the marks of her lover's enjoyment.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003088,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ऐन्द्रिरिति॥ ऐन्द्रिरिन्द्रस्य पुत्रो द्विजः पक्षी काकस्तस्याः सीताया स्तनौ। प्रियस्य रामस्योपभोगचिह्नेषु। तत्कृतनखक्षतेष्वित्यर्थः। पुरोभागिनो दोषैकदर्शिनः कर्म पौरोभाग्यम्। `दोषैकदृक्पुरोभागी` इत्यमरः (अ.को.3|1|46)। दुःश्लिष्टदोषघातमाचरन्कुर्वन्निव। नखैर्विददार विलिलेख। `किल`इत्यैतिह्ये ॥"
+    }
+  ]
+}

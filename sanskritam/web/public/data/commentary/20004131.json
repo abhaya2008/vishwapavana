@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004131,
+    "chapter_id": 6601,
+    "verse_number": "6.81",
+    "content_sanskrit": "प्रणम्य शितिकण्ठाय विबुधास्तदनन्तरम् । चरणौ रञ्जयन्त्यस्याश्चूडामणिमरीचिभिः ॥",
+    "padaccheda": "प्रणम्य । शितिकण्ठाय । विबुधाः । तदनन्तरम् । चरणौ । रञ्जयन्ति । अस्याः । चूडामणिमरीचिभिः",
+    "anvaya": "तत्-अनन्तरम् विबुधाः शितिकण्ठाय प्रणम्य, अस्याः चरणौ चूडामणि-मरीचिभिः रञ्जयन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "After bowing to Shiva, the gods will then bow to her, coloring her feet with the brilliant rays emanating from the jewels on their crowns.",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004131,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रणम्येति । विबुधा देवाः शितिकण्ठाय शिवाय प्रणाम्य तदनन्तरं नीलकण्ठप्रणामानन्तरमस्याश्चरणौ चूडामणिमरीचिभी रञ्जयन्तु । ईश्वरपरिग्रहादखिलदेवतावन्द्या भवत्वित्यर्थः"
+    }
+  ]
+}

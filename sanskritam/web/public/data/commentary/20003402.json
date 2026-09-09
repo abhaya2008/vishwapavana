@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003402,
+    "chapter_id": 6591,
+    "verse_number": "15.66",
+    "content_sanskrit": "तद्गीतश्रवणैकाग्रा संसदश्रुमुखी बभौ । हिमनिष्यन्दिनी प्रातर्निर्वातेव वनस्थली ॥",
+    "padaccheda": "तद्गीतश्रवणैकाग्रा । संसद् । अश्रुमुखी । बभौ । हिमनिष्यन्दिनी । प्रातः । निर्वाता । इव । वनस्थली",
+    "anvaya": "तत्-गीत-श्रवण-एकाग्रा अश्रु-मुखी संसद्, प्रातः निर्-वाता हिम-निष्यन्दिनी वन-स्थली इव, बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The assembly, intently focused on hearing their song and with tear-filled faces, appeared like a windless forest glade in the morning, shedding drops of dew.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003402,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥ तयोर्गीतश्रवण एकाग्राऽऽसक्ता। अश्रुमुखी। आनन्दादिति भावः। संसत् सभा प्रातर्हिमनिष्यन्दिनी निर्वाता वातरहिता वनस्थलीव। बभौ शुशुभे। आनन्दपारवश्यान्निष्पन्दमास्त इत्यर्थः ॥"
+    }
+  ]
+}

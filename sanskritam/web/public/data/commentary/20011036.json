@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011036,
+    "chapter_id": 6679,
+    "verse_number": "7.46",
+    "content_sanskrit": "आर्याणां क्वापि संप्रीतिरिन्दुपादेन्दुकान्तवत् । अन्योन्यं प्रत्यनार्याणां तथोलूकान्धकारवत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011036,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तत्र तस्येव (पा.५|१|११६) वतिः ।"
+    }
+  ]
+}

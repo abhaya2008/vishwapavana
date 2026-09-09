@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003162,
+    "chapter_id": 6588,
+    "verse_number": "12.96",
+    "content_sanskrit": "राघवो रथमप्राप्तं तामाशां च सुरद्विषाम् । अर्धचन्द्रमुखैर्बाणैश्चिच्छेद कदलीसुखम् ॥",
+    "padaccheda": "राघवः । रथम् । अप्राप्तं । ताम् । आशां । च । सुरद्विषाम् । अर्धचन्द्रमुखैः । बाणैः । चिच्छेद । कदलीसुखम्",
+    "anvaya": "राघवः रथमप्राप्तं सुरद्विषाम् तां आशाम् च अर्धचन्द्रमुखैः बाणैः कदलीसुखम् चिच्छेद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Before the weapon could reach his chariot, Rama sliced it—along with the hopes of the demons—using crescent-tipped arrows, cutting through it as effortlessly as one would cut a soft banana plant.",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003162,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राघव इति॥ राघवो रथमप्राप्तां तां शतघ्नीं सुरद्विषां रक्षसामाशां विजयतृष्णां च। `आशा तृष्णादिशोः प्रोक्ता` इति विश्वः। अर्धचन्द्र इव मुखं येषां तैर्बाणैः कदलीवत्सुखं यथा तथा चिच्छिद। अथवा कदल्यामिव सुखमक्लेशो यस्मिन्कर्मणि तदिति विग्रहः ॥"
+    }
+  ]
+}

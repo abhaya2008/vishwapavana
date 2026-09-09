@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002919,
+    "chapter_id": 6586,
+    "verse_number": "10.32",
+    "content_sanskrit": "महिमानं यतुत्कीर्त्य तव संह्रियते वचः । श्रमेण तदशक्त्या वा न गुणानामियत्तया ॥",
+    "padaccheda": "महिमानम् । यत् । उत्कीर्त्य । तव । संह्रियते । वचः । श्रमेण । तत् । अशक्त्या । वा । न । गुणानाम् । इयत्तया",
+    "anvaya": "तव महिमानम् उत्कीर्त्य यत् वचः संह्रियते, तत् श्रमेण वा अशक्त्या (भवति), गुणानाम् इयत्तया न।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When speech ceases after attempting to praise Your greatness, it is due to the speaker's fatigue or inability, not because Your virtues have a limit and have been fully enumerated.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002919,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "महिमानमिति॥ तव महिमानमुत्कीर्त्य वचः सं ह्रियत इति यत्। तद्वचःसंहरणं श्रमेण वाग्यापारश्रान्त्या। अशक्त्या कार्त्स्न्येन वक्तुमशक्यत्वाद्वा। गुणानामियत्तयैतावन्मात्रतया न। तेषामानन्त्यादिति भावः ॥"
+    }
+  ]
+}

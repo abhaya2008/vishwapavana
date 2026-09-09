@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003116,
+    "chapter_id": 6588,
+    "verse_number": "12.50",
+    "content_sanskrit": "सा बाणवर्षिणं रामं योधयित्वा सुरद्विषाम् । अप्रबोधाय सुष्वाप गृध्रच्छाये वरूथिनी ॥",
+    "padaccheda": "सा । बाणवर्षिणम् । रामम् । योधयित्वा । सुरद्विषाम् । अप्रबोधाय । सुष्वाप । गृध्रच्छाये । वरूथिनी",
+    "anvaya": "सा सुर-द्विषां वरूथिनी बाण-वर्षिणं रामं योधयित्वा गृध्र-छाये अप्रबोधाय सुष्वाप ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "That army of the enemies of the gods, after fighting against Rama who showered them with arrows, finally slept the eternal sleep (death) in the shade cast by the hovering vultures.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003116,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ सा सुरद्विषां वरूथिनी सेना बाणवर्षिणं रामं योधयित्वा युद्धं कारयित्वा गृध्राणां छाया गृध्रच्छायम्। `छाया बाहुल्ये` (पा.2।4।22) इति क्लीबत्वम्। तस्मिन्। अप्रबोधायापुनर्बोधाय सुष्वाप। ममारेत्यर्थः। अत्र सुरतश्रान्तकान्तासमाधिर्धअवन्यते ॥"
+    }
+  ]
+}

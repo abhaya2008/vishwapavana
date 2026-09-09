@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004356,
+    "chapter_id": 6604,
+    "verse_number": "9.25",
+    "content_sanskrit": "नखव्रणश्रेणिवरे बबन्ध नितम्बबिम्बे रशनाकलापम् । चलस्वचेतोमृगबन्धनाय मनोभुवः पाशमिव स्मरारिः ॥",
+    "padaccheda": "नखव्रणश्रेणिवरे । बबन्ध । नितम्बबिम्बे । रशनाकलापम् । चलस्वचेतोमृगबन्धनाय । मनोभुवः । पाशम् । इव । स्मरारिः",
+    "anvaya": "स्मरारिः नखव्रणश्रेणिवरे नितम्बबिम्बे चलस्वचेतोमृगबन्धनाय मनोभुवः पाशम् इव रशनाकलापम् बबन्ध ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Śiva, the enemy of Kāmadeva, tied a girdle around Pārvatī's hips which were marked by nail-scratches. It appeared as if he were using a noose belonging to Kāmadeva to capture and bind the restless deer of his own mind.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004356,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नखेति । स्मरारिर्हरः नखव्रणश्रेणिभिरात्मप्रयुक्ताभिर्वरे मनोहरे तस्या नितम्बबिम्बे रशनाकलापम् । चलं स्वं चेत एव मृगस्तस्य बन्धनाय मनोभुवः सम्बन्धिनं पाशमिव बबन्ध । मनोभूरस्यात्मनश्चेतोमृगस्य रशनाकलापरुपजालेन बन्धनं करिष्यत्यतो हरः स्वयमेव तत्र तं निदधावित्यर्थः । नहि कामलुब्धक आत्मनीनं गणयतीति भावः"
+    }
+  ]
+}

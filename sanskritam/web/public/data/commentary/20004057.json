@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004057,
+    "chapter_id": 6601,
+    "verse_number": "6.7",
+    "content_sanskrit": "अधःप्रवर्त्तिताश्वेन समावर्जितकेतुना । सहस्ररश्मिना शश्वत्सप्रमाणमुदीक्षिताः ॥",
+    "padaccheda": "अधःप्रवर्त्तिताश्वेन । समावर्जितकेतुना । सहस्ररश्मिना । शश्वत् । सप्रमाणम् । उदीक्षिताः",
+    "anvaya": "अधः प्रवर्तिताश्वेन समावर्जितकेतुना सहस्ररश्मिना शश्वत् सप्रमाणम् उदीक्षिताः (ते आसन्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They were constantly looked upon with reverence by the thousand-rayed Sun, who, in their presence, would turn his horses downwards and lower his banner (charioteer Aruna).",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004057,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अध इति । अधः प्रस्थापिताश्वेन । सूर्यमण्डलोपरिवर्तित्वात्सप्तर्षिमण्डलस्येति भावः । समावर्जितकेतुना तन्मण्डलाघातशङ्कया नमितध्वजेन सहस्त्ररश्मिना सूर्येण साक्षात्स्वयमेव सप्रणाममुदीक्षिताः । गमनाभ्यनुज्ञादानपर्यन्तमित्यर्थः । भगवतः सूर्यस्याप्युपास्या इति भावः"
+    }
+  ]
+}

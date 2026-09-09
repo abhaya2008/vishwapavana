@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002384,
+    "chapter_id": 6579,
+    "verse_number": "3.65",
+    "content_sanskrit": "अमोच्यमश्वं यदि मन्यसे प्रभो! ततः समाप्ते विधिनैव कर्मणि । अजस्रदीक्षाप्रयतः स मद्गुरुः क्रतोरशेषेण फलेन युज्यताम् ॥",
+    "padaccheda": "अमोच्यम् । अश्वम् । यदि । मन्यसे । प्रभो । ततः । समाप्ते । विधिना । एव । कर्मणि । अजस्रदीक्षाप्रयतः । सः । मद्गुरुः । क्रतोः । अशेषेण । फलेन । युज्यताम्",
+    "anvaya": "प्रभो! यदि अश्वम् अमोच्यम् मन्यसे, ततः कर्मणि विधिना एव समाप्ते (सति), अजस्र-दीक्षा-प्रयतः सः मत्-गुरुः क्रतोः अशेषेण फलेन युज्यताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Lord! If you think the horse must not be released, then let the ritual be considered completed by this very rite (of my fighting you). May my father, who is purified by constant consecration, be endowed with the entire fruit of the sacrifice.\"",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002384,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमोच्यमिति॥ हे प्रभो इन्द्र! अश्वममोच्यं मन्यसे यदि ततस्तर्ह्यजस्रदीक्षायां प्रयतः स मद्गुरुर्मम पिता विधिनैव कर्मणि समाप्ते सति क्रतोर्यत्फलं तेन फलेनाशेषेण कृत्स्नेन युज्यतां युक्तोऽस्तु । अश्वमेधफललाभे किमश्वेनेति भावः॥"
+    }
+  ]
+}

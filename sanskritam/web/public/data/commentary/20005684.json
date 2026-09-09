@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005684,
+    "chapter_id": 6628,
+    "verse_number": "16.6",
+    "content_sanskrit": "अभ्यायतः संततधूमधूम्रं व्यापि प्रभाजालमिवान्तकस्य । रजः प्रतूर्णाश्वरथाङ्गनुन्नं तनोति न व्योमनि मातरिश्वा ॥",
+    "padaccheda": "अभ्यायतः । संततधूमधूम्रम् । व्यापि । प्रभाजालम् । इव । अन्तकस्य । रजः । प्रतूर्णाश्वरथाङ्गनुन्नम् । तनोति । न । व्योम्नि । मातरिश्वा",
+    "anvaya": "मातरिश्वा प्रतूर्णाश्वरथाङ्गनुन्नं, संततधूमधूम्रं, अन्तकस्य प्रभाजालम् इव व्यापि रजः व्योम्नि न तनोति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The wind does not spread dust in the sky—dust raised by swift horses and chariot wheels, which is dark like continuous smoke and all-pervading like the aura of Death himself. (Arjuna notes the absence of battle dust).",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005684,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अभीति ॥ अभ्यायतो वीरान्हन्तुमभ्यागच्छतः । इणः शतृप्रत्ययः । अन्तकस्य कालस्य संबन्धि संततं सततं धूमवद्धूम्रं व्यापि व्यापकं प्रभाजालमिव स्थितं प्रतूर्णैर्वेगवद्भिरश्वै रथाङ्गै रथचक्रैश्च नुन्नं प्रेरितं रजो मातरिश्वा मरुद्व्योमन्यन्तरिक्षे न तनोति न विस्तारयति ॥"
+    }
+  ]
+}

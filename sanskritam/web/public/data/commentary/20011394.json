@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011394,
+    "chapter_id": 6682,
+    "verse_number": "10.38",
+    "content_sanskrit": "इत्थमुक्त्वा स कौन्तेयः नीलश्वेतविलोचनाम् । कुमारतापसीं पत्नीं लोपामुद्रां व्यलोकत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011394,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नीलश्वेतेति—'वर्णो वर्णेन' (पा.२|१|६९) इति समासः । कुमारतापसीमिति । 'कुमारश्रमणादिभि'रिति (पा.२|१|७०) । उत्तर श्लोके कुमारपण्डितैरिति च ॥"
+    }
+  ]
+}

@@ -188,6 +188,24 @@
       "icon": "🪷",
       "display_order": 6,
       "parent_id": 11
+    },
+    {
+      "id": 24,
+      "name_sanskrit": "नाटकम्",
+      "name_english": "Nataka",
+      "description": "Sanskrit dramas / plays",
+      "icon": "🎭",
+      "display_order": 1,
+      "parent_id": 9
+    },
+    {
+      "id": 25,
+      "name_sanskrit": "महाकाव्यम्",
+      "name_english": "Mahakavya",
+      "description": "Sanskrit epic poems",
+      "icon": "📜",
+      "display_order": 2,
+      "parent_id": 9
     }
   ],
   "texts": [
@@ -213,7 +231,7 @@
     },
     {
       "id": 3,
-      "category_id": 9,
+      "category_id": 25,
       "name_sanskrit": "मणिमञ्जरी",
       "name_english": "Manimanjari",
       "description": "A Sanskrit kāvya on Madhvacharya — with Kannada word meanings and grammatical commentary",
@@ -639,6 +657,106 @@
       "description": "श्रुतिसारसमुद्धरणम् — अद्वैतशारदाग्रन्थसारः",
       "author": "श्रीमच्छङ्करभगवत्पूज्यपादशिष्यश्रीतोटकाचार्यविरचितम्",
       "display_order": 73,
+      "has_audio": 0
+    },
+    {
+      "id": 74,
+      "category_id": 24,
+      "name_sanskrit": "अभिज्ञानशाकुन्तलम्",
+      "name_english": "Abhijnana Shakuntalam",
+      "description": "Kalidasa’s celebrated nataka on King Dushyanta and Shakuntala, and the ring that reunites them.",
+      "author": "महाकविः कालिदासः",
+      "display_order": 1,
+      "has_audio": 0
+    },
+    {
+      "id": 75,
+      "category_id": 24,
+      "name_sanskrit": "स्वप्नवासवदत्तम्",
+      "name_english": "Swapnavasavadattam",
+      "description": "Bhasa’s nataka in which King Udayana dreams of his queen Vasavadatta, believed lost in a fire.",
+      "author": "भासः",
+      "display_order": 2,
+      "has_audio": 0
+    },
+    {
+      "id": 76,
+      "category_id": 24,
+      "name_sanskrit": "ऊरुभङ्गम्",
+      "name_english": "Urubhangam",
+      "description": "Bhasa’s vyayoga (one-act play) on Duryodhana’s fall, thighs broken by Bhima’s mace.",
+      "author": "भासः",
+      "display_order": 3,
+      "has_audio": 0
+    },
+    {
+      "id": 77,
+      "category_id": 25,
+      "name_sanskrit": "रघुवंशम्",
+      "name_english": "Raghuvamsham",
+      "description": "Kalidasa’s mahakavya tracing the lineage of the Raghu dynasty, from Dilipa to Agnivarna.",
+      "author": "महाकविः कालिदासः",
+      "display_order": 2,
+      "has_audio": 0
+    },
+    {
+      "id": 78,
+      "category_id": 25,
+      "name_sanskrit": "कुमारसम्भवम्",
+      "name_english": "Kumarasambhavam",
+      "description": "Kalidasa’s mahakavya on the courtship of Shiva and Parvati and the birth of Kumara (Skanda).",
+      "author": "महाकविः कालिदासः",
+      "display_order": 3,
+      "has_audio": 0
+    },
+    {
+      "id": 79,
+      "category_id": 25,
+      "name_sanskrit": "किरातार्जुनीयम्",
+      "name_english": "Kiratarjuniyam",
+      "description": "Bharavi’s mahakavya on Arjuna’s penance and combat with Shiva disguised as a mountain hunter (Kirata).",
+      "author": "भारविः",
+      "display_order": 4,
+      "has_audio": 0
+    },
+    {
+      "id": 80,
+      "category_id": 25,
+      "name_sanskrit": "शिशुपालवधम्",
+      "name_english": "Shishupalavadham",
+      "description": "Magha’s mahakavya on the slaying of Shishupala by Krishna at Yudhishthira’s Rajasuya sacrifice.",
+      "author": "माघः",
+      "display_order": 5,
+      "has_audio": 0
+    },
+    {
+      "id": 81,
+      "category_id": 25,
+      "name_sanskrit": "नैषधीयचरितम्",
+      "name_english": "Naishadhiyacharitam",
+      "description": "Shriharsha’s mahakavya on King Nala of Nishadha and his union with Damayanti.",
+      "author": "श्रीहर्षः",
+      "display_order": 6,
+      "has_audio": 0
+    },
+    {
+      "id": 82,
+      "category_id": 25,
+      "name_sanskrit": "सुभद्राहरणम्",
+      "name_english": "Subhadraharanam",
+      "description": "A mahakavya on Arjuna’s abduction of Subhadra, Krishna’s sister, with the विवरणव्याख्यानम् commentary.",
+      "author": "नारायणः (ब्रह्मदत्तसूनुः)",
+      "display_order": 7,
+      "has_audio": 0
+    },
+    {
+      "id": 83,
+      "category_id": 25,
+      "name_sanskrit": "श्रीमच्छंकरदिग्विजयः",
+      "name_english": "Shankara Digvijayam",
+      "description": "A biographical mahakavya on the life, debates and digvijaya (conquest of quarters) of Adi Shankaracharya.",
+      "author": "श्रीविद्यारण्यस्वामी (माधवाचार्यः)",
+      "display_order": 8,
       "has_audio": 0
     }
   ],
@@ -64177,6 +64295,1174 @@
       "name_english": "Chapter 4",
       "chapter_number": 4,
       "display_order": 4
+    },
+    {
+      "id": 6563,
+      "text_id": 74,
+      "name_sanskrit": "प्रथमोऽङ्कः",
+      "name_english": "King Duṣyanta meets Śakuntalā at a hermitage.",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6564,
+      "text_id": 74,
+      "name_sanskrit": "द्वितीयोऽङ्कः",
+      "name_english": "Duṣyanta stays at the hermitage to protect sages.",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6565,
+      "text_id": 74,
+      "name_sanskrit": "तृतीयोऽङ्कः",
+      "name_english": "Duṣyanta and Śakuntalā marry in secret.",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6566,
+      "text_id": 74,
+      "name_sanskrit": "चतुर्थोऽङ्कः",
+      "name_english": "A curse is cast as Śakuntalā leaves home.",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6567,
+      "text_id": 74,
+      "name_sanskrit": "पञ्चमोऽङ्कः",
+      "name_english": "Duṣyanta forgets Śakuntalā and rejects her.",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6568,
+      "text_id": 74,
+      "name_sanskrit": "षष्ठोऽङ्कः",
+      "name_english": "The King recovers his memory and leaves for war.",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6569,
+      "text_id": 74,
+      "name_sanskrit": "सप्तमोऽङ्कः",
+      "name_english": "Duṣyanta reunites with Śakuntalā and their son.",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6570,
+      "text_id": 75,
+      "name_sanskrit": "प्रथमोऽङ्कः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6571,
+      "text_id": 75,
+      "name_sanskrit": "द्वितीयोऽङ्कः",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6572,
+      "text_id": 75,
+      "name_sanskrit": "तृतीयोऽङ्कः",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6573,
+      "text_id": 75,
+      "name_sanskrit": "चतुर्थोऽङ्कः",
+      "name_english": null,
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6574,
+      "text_id": 75,
+      "name_sanskrit": "पञ्चमोऽङ्कः",
+      "name_english": null,
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6575,
+      "text_id": 75,
+      "name_sanskrit": "षष्ठोऽङ्कः",
+      "name_english": null,
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6576,
+      "text_id": 76,
+      "name_sanskrit": "एकाङ्कः",
+      "name_english": "The Play",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6577,
+      "text_id": 77,
+      "name_sanskrit": "प्रथमः सर्गः (वसिष्ठाश्रमाभिगमनम्)",
+      "name_english": "King Dilīpa is asked by the sage Vasiṣṭha to serve a cow.",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6578,
+      "text_id": 77,
+      "name_sanskrit": "द्वितीयः सर्गः (नन्दिनीवरप्रदानम्)",
+      "name_english": "Dilīpa offers his life to save a cow.",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6579,
+      "text_id": 77,
+      "name_sanskrit": "तृतीयः सर्गः (रघुराज्याभिषेकः)",
+      "name_english": "Raghu is born, battles Indra, and becomes king.",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6580,
+      "text_id": 77,
+      "name_sanskrit": "चतुर्थः सर्गः (रघुदिग्विजयः)",
+      "name_english": "King Raghu conquers the world and performs a sacrifice.",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6581,
+      "text_id": 77,
+      "name_sanskrit": "पञ्चमः सर्गः (अजस्वयंवराभिगमनम्)",
+      "name_english": "Raghu obtains gold and Aja travels to a wedding.",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6582,
+      "text_id": 77,
+      "name_sanskrit": "षष्ठः सर्गः (स्वयंवरवर्णनम्)",
+      "name_english": "Indumatī chooses Prince Aja as her husband.",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6583,
+      "text_id": 77,
+      "name_sanskrit": "सप्तमः सर्गः (अजपाणिग्रहणम्)",
+      "name_english": "Aja marries Indumatī and defeats his rivals.",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6584,
+      "text_id": 77,
+      "name_sanskrit": "अष्टमः सर्गः (अजविलापः)",
+      "name_english": "King Aja rules, loses his wife, and dies.",
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6585,
+      "text_id": 77,
+      "name_sanskrit": "नवमः सर्गः (मृगयावर्णनम्)",
+      "name_english": "King Daśaratha hunts and receives a curse.",
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6586,
+      "text_id": 77,
+      "name_sanskrit": "दशमः सर्गः (रामावतारः)",
+      "name_english": "Viṣṇu is born as the four sons of Daśaratha.",
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6587,
+      "text_id": 77,
+      "name_sanskrit": "एकादशः सर्गः (सीताविवाहवर्णनम्)",
+      "name_english": "Rāma marries Sītā and subdues Paraśurāma.",
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6588,
+      "text_id": 77,
+      "name_sanskrit": "द्वादशः सर्गः (रावणवधः)",
+      "name_english": "Rāma defeats Rāvaṇa and returns from exile.",
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6589,
+      "text_id": 77,
+      "name_sanskrit": "त्रयोदशः सर्गः (दण्डकाप्रत्यागमनम्)",
+      "name_english": "Rāma returns to Ayodhyā and meets Bharata.",
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6590,
+      "text_id": 77,
+      "name_sanskrit": "चतुर्दशः सर्गः (सीतापरित्यागः)",
+      "name_english": "Rāma abandons Sītā to preserve his reputation.",
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6591,
+      "text_id": 77,
+      "name_sanskrit": "पञ्चदशः सर्गः (श्रीरामस्वर्गारोहणम्)",
+      "name_english": "Rāma meets his sons and returns to heaven.",
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6592,
+      "text_id": 77,
+      "name_sanskrit": "षोडशः सर्गः (कुमुद्वतीपरिणयः)",
+      "name_english": "Kuśa restores Ayodhyā and marries a Nāga princess.",
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 6593,
+      "text_id": 77,
+      "name_sanskrit": "सप्तदशः सर्गः (अतिथिवर्णनम्)",
+      "name_english": "King Atithi is crowned and governs with virtue.",
+      "chapter_number": 17,
+      "display_order": 17
+    },
+    {
+      "id": 6594,
+      "text_id": 77,
+      "name_sanskrit": "अष्टादशः सर्गः (वंशानुक्रमः)",
+      "name_english": "A line of kings rules before a child inherits the throne.",
+      "chapter_number": 18,
+      "display_order": 18
+    },
+    {
+      "id": 6595,
+      "text_id": 77,
+      "name_sanskrit": "एकोनविंशः सर्गः (अग्निवर्णशृङ्गारः)",
+      "name_english": "The reign and death of the self-indulgent Agnivarṇa.",
+      "chapter_number": 19,
+      "display_order": 19
+    },
+    {
+      "id": 6596,
+      "text_id": 78,
+      "name_sanskrit": "प्रथमः सर्गः",
+      "name_english": "The birth of Pārvatī and the description of the Himālaya.",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6597,
+      "text_id": 78,
+      "name_sanskrit": "द्वितीयः सर्गः",
+      "name_english": "The gods seek Brahmā's help against Tāraka.",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6598,
+      "text_id": 78,
+      "name_sanskrit": "तृतीयः सर्गः",
+      "name_english": "Kāma attempts to distract Śiva and is incinerated.",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6599,
+      "text_id": 78,
+      "name_sanskrit": "चतुर्थः सर्गः",
+      "name_english": "Rati laments Kāma and hears a celestial voice.",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6600,
+      "text_id": 78,
+      "name_sanskrit": "पञ्चमः सर्गः",
+      "name_english": "Pārvatī performs austerities and Śiva tests her.",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6601,
+      "text_id": 78,
+      "name_sanskrit": "षष्ठः सर्गः",
+      "name_english": "The Seven Sages formalize the marriage proposal.",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6602,
+      "text_id": 78,
+      "name_sanskrit": "सप्तमः सर्गः",
+      "name_english": "Śiva and Pārvatī perform their wedding ceremonies.",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6603,
+      "text_id": 78,
+      "name_sanskrit": "अष्टमः सर्गः",
+      "name_english": "Śiva and Pārvatī spend their union on the mountains.",
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6604,
+      "text_id": 78,
+      "name_sanskrit": "नवमः सर्गः",
+      "name_english": null,
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6605,
+      "text_id": 78,
+      "name_sanskrit": "दशमः सर्गः",
+      "name_english": null,
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6606,
+      "text_id": 78,
+      "name_sanskrit": "एकादशः सर्गः",
+      "name_english": null,
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6607,
+      "text_id": 78,
+      "name_sanskrit": "द्वादशः सर्गः",
+      "name_english": null,
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6608,
+      "text_id": 78,
+      "name_sanskrit": "त्रयोदशः सर्गः",
+      "name_english": null,
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6609,
+      "text_id": 78,
+      "name_sanskrit": "चतुर्दशः सर्गः",
+      "name_english": null,
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6610,
+      "text_id": 78,
+      "name_sanskrit": "पञ्चदशः सर्गः",
+      "name_english": null,
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6611,
+      "text_id": 78,
+      "name_sanskrit": "षोडशः सर्गः",
+      "name_english": null,
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 6612,
+      "text_id": 78,
+      "name_sanskrit": "सप्तदशः सर्गः",
+      "name_english": null,
+      "chapter_number": 17,
+      "display_order": 17
+    },
+    {
+      "id": 6613,
+      "text_id": 79,
+      "name_sanskrit": "प्रथमः सर्गः",
+      "name_english": "A spy reports on Duryodhana and Draupadī urges war.",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6614,
+      "text_id": 79,
+      "name_sanskrit": "द्वितीयः सर्गः",
+      "name_english": "Bhīma and Yudhiṣṭhira debate political conduct.",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6615,
+      "text_id": 79,
+      "name_sanskrit": "तृतीयः सर्गः",
+      "name_english": "Arjuna receives a secret vidyā and departs.",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6616,
+      "text_id": 79,
+      "name_sanskrit": "चतुर्थः सर्गः",
+      "name_english": "Arjuna travels through the autumn landscape.",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6617,
+      "text_id": 79,
+      "name_sanskrit": "पञ्चमः सर्गः",
+      "name_english": "Arjuna begins his penance on the Himalayas.",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6618,
+      "text_id": 79,
+      "name_sanskrit": "षष्ठः सर्गः",
+      "name_english": "Indra sends nymphs to test Arjuna's discipline.",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6619,
+      "text_id": 79,
+      "name_sanskrit": "सप्तमः सर्गः",
+      "name_english": "Indra's celestial army camps on the mountain.",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6620,
+      "text_id": 79,
+      "name_sanskrit": "अष्टमः सर्गः",
+      "name_english": "Celestial beings engage in forest and water sports.",
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6621,
+      "text_id": 79,
+      "name_sanskrit": "नवमः सर्गः",
+      "name_english": "The celestial host drinks wine and celebrates.",
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6622,
+      "text_id": 79,
+      "name_sanskrit": "दशमः सर्गः",
+      "name_english": "Arjuna remains unmoved by the celestial temptations.",
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6623,
+      "text_id": 79,
+      "name_sanskrit": "एकादशः सर्गः",
+      "name_english": "Indra disguised as an ascetic debates Arjuna.",
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6624,
+      "text_id": 79,
+      "name_sanskrit": "द्वादशः सर्गः",
+      "name_english": "Shiva transforms into a hunter to meet Arjuna.",
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6625,
+      "text_id": 79,
+      "name_sanskrit": "त्रयोदशः सर्गः",
+      "name_english": "Arjuna and the Kirāta dispute a kill.",
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6626,
+      "text_id": 79,
+      "name_sanskrit": "चतुर्दशः सर्गः",
+      "name_english": "Arjuna fights the Kirāta's army.",
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6627,
+      "text_id": 79,
+      "name_sanskrit": "पञ्चदशः सर्गः",
+      "name_english": "Shiva and Arjuna engage in an archery duel.",
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6628,
+      "text_id": 79,
+      "name_sanskrit": "षोडशः सर्गः",
+      "name_english": "The hunter neutralizes Arjuna's divine weapons.",
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 6629,
+      "text_id": 79,
+      "name_sanskrit": "सप्तदशः सर्गः",
+      "name_english": "Arjuna fights Shiva with rocks and trees.",
+      "chapter_number": 17,
+      "display_order": 17
+    },
+    {
+      "id": 6630,
+      "text_id": 79,
+      "name_sanskrit": "अष्टादशः सर्गः",
+      "name_english": "Shiva reveals himself and grants a weapon.",
+      "chapter_number": 18,
+      "display_order": 18
+    },
+    {
+      "id": 6631,
+      "text_id": 80,
+      "name_sanskrit": "प्रथमः सर्गः (कृष्णनारदसम्भाषणम्)",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6632,
+      "text_id": 80,
+      "name_sanskrit": "द्वितीयः सर्गः (मन्त्रवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6633,
+      "text_id": 80,
+      "name_sanskrit": "तृतीयः सर्गः (पुरीप्रस्थानम्)",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6634,
+      "text_id": 80,
+      "name_sanskrit": "चतुर्थः सर्गः (रैवतकवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6635,
+      "text_id": 80,
+      "name_sanskrit": "पञ्चमः सर्गः (सेनानिवेशनम्)",
+      "name_english": null,
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6636,
+      "text_id": 80,
+      "name_sanskrit": "षष्ठः सर्गः (ऋतुवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6637,
+      "text_id": 80,
+      "name_sanskrit": "सप्तमः सर्गः (वनविहारवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6638,
+      "text_id": 80,
+      "name_sanskrit": "अष्टमः सर्गः (जलविहारवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6639,
+      "text_id": 80,
+      "name_sanskrit": "नवमः सर्गः (प्रदोषवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6640,
+      "text_id": 80,
+      "name_sanskrit": "दशमः सर्गः (सुरतवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6641,
+      "text_id": 80,
+      "name_sanskrit": "एकादशः सर्गः (प्रत्यूषवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6642,
+      "text_id": 80,
+      "name_sanskrit": "द्वादशः सर्गः (प्रयाणवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6643,
+      "text_id": 80,
+      "name_sanskrit": "त्रयोदशः सर्गः (श्रीकृष्णसमागमवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6644,
+      "text_id": 80,
+      "name_sanskrit": "चतुर्दशः सर्गः (श्रीकृष्णार्घदानवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6645,
+      "text_id": 80,
+      "name_sanskrit": "पञ्चदशः सर्गः (शिशुपालक्रोधवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6646,
+      "text_id": 80,
+      "name_sanskrit": "षोडशः सर्गः (दूतसंवादवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 6647,
+      "text_id": 80,
+      "name_sanskrit": "सप्तदशः सर्गः (यदुवंशक्षोभणम्)",
+      "name_english": null,
+      "chapter_number": 17,
+      "display_order": 17
+    },
+    {
+      "id": 6648,
+      "text_id": 80,
+      "name_sanskrit": "अष्टादशः सर्गः (सङ्कुलयुद्धवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 18,
+      "display_order": 18
+    },
+    {
+      "id": 6649,
+      "text_id": 80,
+      "name_sanskrit": "एकोनविंशः सर्गः (युद्धवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 19,
+      "display_order": 19
+    },
+    {
+      "id": 6650,
+      "text_id": 80,
+      "name_sanskrit": "विंशः सर्गः (शिशुपालवधवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 20,
+      "display_order": 20
+    },
+    {
+      "id": 6651,
+      "text_id": 81,
+      "name_sanskrit": "प्रथमः सर्गः",
+      "name_english": "Nala captures a golden swan.",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6652,
+      "text_id": 81,
+      "name_sanskrit": "द्वितीयः सर्गः",
+      "name_english": "A swan describes Damayantī's beauty.",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6653,
+      "text_id": 81,
+      "name_sanskrit": "तृतीयः सर्गः",
+      "name_english": "A swan speaks to Damayantī about Nala.",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6654,
+      "text_id": 81,
+      "name_sanskrit": "चतुर्थः सर्गः",
+      "name_english": "Damayantī suffers from lovesickness.",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6655,
+      "text_id": 81,
+      "name_sanskrit": "पञ्चमः सर्गः",
+      "name_english": "Gods appoint Nala as their messenger.",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6656,
+      "text_id": 81,
+      "name_sanskrit": "षष्ठः सर्गः",
+      "name_english": "Nala enters the palace invisibly.",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6657,
+      "text_id": 81,
+      "name_sanskrit": "सप्तमः सर्गः",
+      "name_english": "Nala views Damayantī's physical form.",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6658,
+      "text_id": 81,
+      "name_sanskrit": "अष्टमः सर्गः",
+      "name_english": "Nala delivers the gods' message.",
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6659,
+      "text_id": 81,
+      "name_sanskrit": "नवमः सर्गः",
+      "name_english": "Damayantī vows to marry only Nala.",
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6660,
+      "text_id": 81,
+      "name_sanskrit": "दशमः सर्गः",
+      "name_english": "The gods and kings gather.",
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6661,
+      "text_id": 81,
+      "name_sanskrit": "एकादशः सर्गः",
+      "name_english": "Sarasvatī introduces the first suitors.",
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6662,
+      "text_id": 81,
+      "name_sanskrit": "द्वादशः सर्गः",
+      "name_english": "Damayantī rejects further royal suitors.",
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6663,
+      "text_id": 81,
+      "name_sanskrit": "त्रयोदशः सर्गः",
+      "name_english": "Sarasvatī uses puns for five Nalas.",
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6664,
+      "text_id": 81,
+      "name_sanskrit": "चतुर्दशः सर्गः",
+      "name_english": "Damayantī chooses the real Nala.",
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6665,
+      "text_id": 81,
+      "name_sanskrit": "पञ्चदशः सर्गः",
+      "name_english": "The bride and groom prepare.",
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6666,
+      "text_id": 81,
+      "name_sanskrit": "षोडशः सर्गः",
+      "name_english": "The wedding and return to Niṣadha.",
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 6667,
+      "text_id": 81,
+      "name_sanskrit": "सप्तदशः सर्गः",
+      "name_english": "Kali plans to ruin Nala.",
+      "chapter_number": 17,
+      "display_order": 17
+    },
+    {
+      "id": 6668,
+      "text_id": 81,
+      "name_sanskrit": "अष्टादशः सर्गः",
+      "name_english": "Nala and Damayantī's first night.",
+      "chapter_number": 18,
+      "display_order": 18
+    },
+    {
+      "id": 6669,
+      "text_id": 81,
+      "name_sanskrit": "एकोनविंशः सर्गः",
+      "name_english": "Bards awaken the king at dawn.",
+      "chapter_number": 19,
+      "display_order": 19
+    },
+    {
+      "id": 6670,
+      "text_id": 81,
+      "name_sanskrit": "विंशः सर्गः",
+      "name_english": "Nala and Damayantī converse in private.",
+      "chapter_number": 20,
+      "display_order": 20
+    },
+    {
+      "id": 6671,
+      "text_id": 81,
+      "name_sanskrit": "एकविंशः सर्गः",
+      "name_english": "Nala performs his religious rites.",
+      "chapter_number": 21,
+      "display_order": 21
+    },
+    {
+      "id": 6672,
+      "text_id": 81,
+      "name_sanskrit": "द्वाविंशः सर्गः",
+      "name_english": "The couple describes the moonrise.",
+      "chapter_number": 22,
+      "display_order": 22
+    },
+    {
+      "id": 6673,
+      "text_id": 82,
+      "name_sanskrit": "प्रथमः सर्गः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6674,
+      "text_id": 82,
+      "name_sanskrit": "द्वितीयः सर्गः",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6675,
+      "text_id": 82,
+      "name_sanskrit": "तृतीयः सर्गः",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6676,
+      "text_id": 82,
+      "name_sanskrit": "चतुर्थस्सर्गः",
+      "name_english": null,
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6677,
+      "text_id": 82,
+      "name_sanskrit": "पञ्चमस्सर्गः",
+      "name_english": null,
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6678,
+      "text_id": 82,
+      "name_sanskrit": "षष्ठस्सर्गः",
+      "name_english": null,
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6679,
+      "text_id": 82,
+      "name_sanskrit": "सप्तमस्सर्गः",
+      "name_english": null,
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6680,
+      "text_id": 82,
+      "name_sanskrit": "अष्टमस्सर्गः",
+      "name_english": null,
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6681,
+      "text_id": 82,
+      "name_sanskrit": "नवमस्सर्गः",
+      "name_english": null,
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6682,
+      "text_id": 82,
+      "name_sanskrit": "दशमस्सर्गः",
+      "name_english": null,
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6683,
+      "text_id": 82,
+      "name_sanskrit": "एकादशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6684,
+      "text_id": 82,
+      "name_sanskrit": "द्वादशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6685,
+      "text_id": 82,
+      "name_sanskrit": "त्रयोदशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6686,
+      "text_id": 82,
+      "name_sanskrit": "चतुर्दशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6687,
+      "text_id": 82,
+      "name_sanskrit": "पञ्चदशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6688,
+      "text_id": 82,
+      "name_sanskrit": "षोडशः सर्गः",
+      "name_english": null,
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 6689,
+      "text_id": 82,
+      "name_sanskrit": "सप्तदशस्सर्गः [ प्रसन्नकाण्डम् ]",
+      "name_english": null,
+      "chapter_number": 17,
+      "display_order": 17
+    },
+    {
+      "id": 6690,
+      "text_id": 82,
+      "name_sanskrit": "अष्टादशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 18,
+      "display_order": 18
+    },
+    {
+      "id": 6691,
+      "text_id": 82,
+      "name_sanskrit": "एकोनविंशः सर्गः",
+      "name_english": null,
+      "chapter_number": 19,
+      "display_order": 19
+    },
+    {
+      "id": 6692,
+      "text_id": 82,
+      "name_sanskrit": "विंशस्सर्गः",
+      "name_english": null,
+      "chapter_number": 20,
+      "display_order": 20
+    },
+    {
+      "id": 6693,
+      "text_id": 83,
+      "name_sanskrit": "प्रथमः सर्गः (उपोद्धातः)",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 6694,
+      "text_id": 83,
+      "name_sanskrit": "द्वितीयः सर्गः (आचार्यजन्मादिकथनम्)",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 6695,
+      "text_id": 83,
+      "name_sanskrit": "तृतीयः सर्गः (देवावतारः)",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 6696,
+      "text_id": 83,
+      "name_sanskrit": "चतुर्थः सर्गः (कौमारचरितवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 6697,
+      "text_id": 83,
+      "name_sanskrit": "पञ्चमः सर्गः (संन्यासग्रहणम्)",
+      "name_english": null,
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 6698,
+      "text_id": 83,
+      "name_sanskrit": "षष्ठः सर्गः (आत्मविद्याप्रतिष्ठा)",
+      "name_english": null,
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 6699,
+      "text_id": 83,
+      "name_sanskrit": "सप्तमः सर्गः (व्यासदर्शनादिचरितवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 6700,
+      "text_id": 83,
+      "name_sanskrit": "अष्टमः सर्गः (श्रीमदाचार्यमण्डनमिश्रसंवादः)",
+      "name_english": null,
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 6701,
+      "text_id": 83,
+      "name_sanskrit": "नवमः सर्गः (श्रीमदाचार्यसरस्वतीसंवादः)",
+      "name_english": null,
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 6702,
+      "text_id": 83,
+      "name_sanskrit": "दशमः सर्गः (राजदेहप्रवेशादिकथनम्)",
+      "name_english": null,
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 6703,
+      "text_id": 83,
+      "name_sanskrit": "एकादशः सर्गः (उग्रभैरववधः)",
+      "name_english": null,
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 6704,
+      "text_id": 83,
+      "name_sanskrit": "द्वादशः सर्गः (हस्तामलकादीनां शिष्यत्वेन ग्रहणम्)",
+      "name_english": null,
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 6705,
+      "text_id": 83,
+      "name_sanskrit": "त्रयोदशः सर्गः (ब्रह्मविद्याविचारः)",
+      "name_english": null,
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 6706,
+      "text_id": 83,
+      "name_sanskrit": "चतुर्दशः सर्गः (पद्मपादतीर्थयात्रावर्णनम्)",
+      "name_english": null,
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 6707,
+      "text_id": 83,
+      "name_sanskrit": "पञ्चदशः सर्गः (आचार्यकृतदिग्विजयवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 6708,
+      "text_id": 83,
+      "name_sanskrit": "षोडशः सर्गः (श्रीमदाचार्याणां शारदापीठवासवर्णनम्)",
+      "name_english": null,
+      "chapter_number": 16,
+      "display_order": 16
     }
   ]
 }

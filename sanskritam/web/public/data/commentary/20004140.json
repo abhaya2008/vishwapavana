@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004140,
+    "chapter_id": 6601,
+    "verse_number": "6.90",
+    "content_sanskrit": "ईप्सितार्थक्रियोदारं तेऽभिनन्द्य गिरेर्वचः । आशीर्भिरेधयामासुः पुरःपाकाभिरम्बिकाम् ॥",
+    "padaccheda": "ईप्सितार्थक्रियोदारम् । ते । अभिनन्द्य । गिरेः । वचः । आशीर्भिः । एधयामासुः । पुरःपाकाभिः । अम्बिकाम्",
+    "anvaya": "ते गिरेः ईप्सितार्थक्रिया-उदारम् वचः अभिनन्द्य, पुरःपाकाभिः आशीर्भिः अम्बिकाम् एधयामासुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Applauding the words of the mountain, which were generous in fulfilling the desired objective, they (the sages) caused Ambika (Parvati) to prosper with blessings that would bear fruit in the future.",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004140,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ईप्सितार्थेति । ते मुनयः । ईप्सितार्थक्रिययेष्टार्थकरणेनोदारं महत् । `उदारो दातृमहतोः` इत्यमरः (अ.को.3|3|200) । गिरेर्हिमवतो वचो वचनमभिनन्द्य साध्विति संस्तुत्याम्बिकामम्बाम् । पच्यत इति पाकः फलम् । पुरःपाकाभिः पुरस्कृतफलाभिराशीर्भिराशीर्वादैरेधयामासुः संवर्धयामासुः"
+    }
+  ]
+}

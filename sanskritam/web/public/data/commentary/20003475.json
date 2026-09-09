@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003475,
+    "chapter_id": 6592,
+    "verse_number": "16.36",
+    "content_sanskrit": "आधूय शाखाः कुसुमद्रुमाणां स्पृष्ट्वा च शीतान्सरयूतरंगान् । तं क्लान्तसैन्यं कुलराजधान्याः प्रत्युज्जगामोपवनान्तवायुः ॥",
+    "padaccheda": "आधूय । शाखाः । कुसुमद्रुमाणाम् । स्पृष्ट्वा । च । शीतान् । सरयूतरंगान् । तम् । क्लान्तसैन्यम् । कुलराजधान्याः । प्रत्युज्जगाम । उपवनान्तवायुः",
+    "anvaya": "कुसुमद्रुमाणां शाखाः आधूय, शीतान् सरयूतरंगान् च स्पृष्ट्वा, कुलराजधान्याः उपवनान्तवायुः क्लान्तसैन्यम् तम् प्रत्युज्जगाम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The breeze from the edge of the groves of the ancestral capital, after shaking the branches of flowering trees and touching the cool waves of the Sarayu, came forth to greet him (Kusha), whose army was weary.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003475,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आधूयेति॥ कुलराजधान्या उपवनान्तवायुः कुसुमद्रामाणां शाखा आधूयेषद्धत्वा। सुरभिर्मन्दश्चेत्यर्थः। शीतान्सरयूतरंगांश्च स्पृष्ट्वा। अनेन शैत्योक्तिः। क्लान्तसैन्यं तं कुशं प्रत्युज्जगाम ॥"
+    }
+  ]
+}

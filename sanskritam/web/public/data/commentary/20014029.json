@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014029,
+    "chapter_id": 6706,
+    "verse_number": "14.100",
+    "content_sanskrit": "स्वधर्मनिष्ठा विदिताखिलार्था जितेन्द्रियाः सेवितसर्वतीर्थाः । परोपकारव्रतिनो महान्त आयान्ति सर्वे गृहिणो गृहाय ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014029,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "ननु तथाऽपि स्वयमेव प्रवासं कृत्वा पुण्यं कुतो न संपादनीयमिति चेत्तत्राऽऽह स्वेतिद्वाभ्याम् ॥ १०० ॥"
+    }
+  ]
+}

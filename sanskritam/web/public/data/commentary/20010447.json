@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010447,
+    "chapter_id": 6674,
+    "verse_number": "2.27",
+    "content_sanskrit": "इति भक्तिमतीं वाचं तस्य श्रुत्वा महर्षयः । चित्रीयमाणाः प्रत्यूचुः प्रसादस्निग्धदृष्टयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010447,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "चित्रीयमाणा इति पूर्ववत् क्यङ् । चित्रङ आश्चर्यकरणे । विस्मयमाना इत्यर्थः । चित्रङोर्ङित्त्वादात्मनेपदम् । शिष्टं स्पष्टम् ॥"
+    }
+  ]
+}

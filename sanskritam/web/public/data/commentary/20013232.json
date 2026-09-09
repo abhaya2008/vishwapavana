@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013232,
+    "chapter_id": 6699,
+    "verse_number": "7.18",
+    "content_sanskrit": "शार्दूलचर्मोद्वहनेन भूते- रुद्धूलनेनापि जटांछटाभिः । रुद्राक्षमालावलयने शंभो- रर्धासनाध्यासनसख्यपात्रम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013232,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "शार्दूलचर्मोद्वहनादिना शंभोरर्धासनाध्यासनस्य सख्यस्य पात्रम् । इन्द्रवज्रा वृत्तम् ॥ १८ ॥"
+    }
+  ]
+}

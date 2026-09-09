@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005022,
+    "chapter_id": 6617,
+    "verse_number": "5.5",
+    "content_sanskrit": "मणिमयूखचयांशुकभासुराः सुरवधूपरिभुक्तलतागृहाः । दधतमुच्चशिलान्तरगोपुराः पुर इवोदितपुष्पवना भुवः ॥",
+    "padaccheda": "मणिमयूखचयांशुकभासुराः । सुरवधूपरिभुक्तलतागृहाः । दधतम् । उच्चशिलान्तरगोपुराः । पुरः । इव । उदितपुष्पवनाः । भुवः",
+    "anvaya": "मणिमयूखचयांशुकभासुराः, सुरवधूपरिभुक्तलतागृहाः, उच्चशिलान्तरगोपुराः, उदितपुष्पवनाः भुवः पुरः इव दधतम् (हिमाचलम्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(He approached the Himalaya) which held regions that were like cities: radiant with garments made from the collection of gem-rays, having creeper-bowers enjoyed by celestial nymphs, possessing high rocks as their inner gates, and featuring gardens with blooming flowers.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005022,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मणीति ॥ पुनः। मणिमयूखचया अंशुकानीव पटकादीनीव तैर्भासुराः । सुरवधूभिः परिभुक्ता लता गृहा इव यासु तास्तथोक्ताः । उच्चानि शिलान्तराणि गोपुराणीव शिलान्तराणि शिलामध्यानि पुरद्वाराणि यासु ताः । उदितान्यूर्जितानि पुष्पाणां वनानि यासु ताः । अतएव पुर इव नगराणीव स्थिताः। भुवो दधतम् ॥"
+    }
+  ]
+}

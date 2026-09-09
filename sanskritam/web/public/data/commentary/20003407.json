@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003407,
+    "chapter_id": 6591,
+    "verse_number": "15.71",
+    "content_sanskrit": "स तावाख्याय रामाय मैथिलेयौ तदात्मजौ । कविः कारुणिको वव्रे सीतायाः संपरिग्रहम् ॥",
+    "padaccheda": "सः । तौ । आख्याय । रामाय । मैथिलेयौ । तदात्मजौ । कविः । कारुणिकः । वव्रे । सीतायाः । संपरिग्रहं",
+    "anvaya": "सः कारुणिकः कविः तौ मैथिलेयौ तत्-आत्मजौ इति रामाय आख्याय, सीतायाः संपरिग्रहम् वव्रे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The compassionate poet, Valmiki, after revealing to Rama that those two sons of Maithili were his own sons, asked for the acceptance of Sita.",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003407,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ करुणा प्रयोजनमस्य कारुणिको दयासुः। `प्रयोजनम्` (पा.5।1।109) इति ठञ्। `स्यादृयालुः कारुणिकः` इत्यमरः। स कवी रामाय तौ मैथिलेयौ तदात्मजौ रामसुतावाख्याय सीतायाः संपरिग्रहं स्वीकारं वव्रे ययाचे ॥"
+    }
+  ]
+}

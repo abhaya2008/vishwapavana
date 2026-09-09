@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003069,
+    "chapter_id": 6588,
+    "verse_number": "12.3",
+    "content_sanskrit": "सा पौरान्पौरकान्तस्य रामस्याभ्युदयश्रुतिः । प्रत्येकं ह्लादयांचक्रे कुल्येवोद्यानपादपान् ॥",
+    "padaccheda": "सा । पौरान् । पौरकान्तस्य । रामस्य । अभ्युदयश्रुतिः । प्रत्येकम् । ह्लादयांचक्रे । कुल्या । इव । उद्यानपादपान्",
+    "anvaya": "पौरकान्तस्य रामस्य सा अभ्युदयश्रुतिः कुल्या उद्यानपादपान् इव पौरान् प्रत्येकं ह्लादयांचक्रे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The news of the upcoming coronation of Rama, who was beloved by all citizens, delighted every single resident of the city, just as a water canal nourishes and refreshes every tree in a garden.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003069,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ सा पौरकान्तस्य रामस्याभ्युदयश्रुतिरभिषेकवार्ता। कुल्या कृत्रिमा सरित्। `कुल्याऽल्पा कृत्रिमा सरित्` इत्यमरः। उद्यानपादपानिव। पौरान्प्रत्येकं ह्लादयांचक्रे ॥"
+    }
+  ]
+}

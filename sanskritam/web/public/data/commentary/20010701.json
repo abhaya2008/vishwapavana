@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010701,
+    "chapter_id": 6676,
+    "verse_number": "4.47",
+    "content_sanskrit": "वात्सल्यप्रभवं मोहमापन्नः परिदेवकः । आक्रोशकेन दिष्ट्याहमधुना बोधितस्त्वया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010701,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परिदेवकः आक्रोशकेन इति । 'देविक्रुशोश्चोपसर्गे' (पा.३|२|१४७) इति वुञ् ॥"
+    }
+  ]
+}

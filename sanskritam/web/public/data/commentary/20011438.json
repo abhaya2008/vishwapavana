@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011438,
+    "chapter_id": 6683,
+    "verse_number": "11.15",
+    "content_sanskrit": "ज्वालाभिवडबस्याग्नेर्दह्यमानमिवानिशम् । चोक्रुश्यमानमत्यार्त्या विधुतोर्मिभुजावलिम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011438,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "इयमप्युत्प्रक्षा । दह्यमानतयेवानिशमत्यार्त्या चोक्रुश्यमानं पुनःपुनर्भृशं वा रुदन्तम् । यङि रूपम् ॥"
+    }
+  ]
+}

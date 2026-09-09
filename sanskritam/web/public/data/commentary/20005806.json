@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005806,
+    "chapter_id": 6629,
+    "verse_number": "17.64",
+    "content_sanskrit": "अभिलषत उपायं विक्रमं कीर्तिलक्ष्म्योरसुगममरिसैन्यैरङ्कमभ्यागतस्य । जनक इव शिशुत्वे सुप्रियस्यैकसूनोरविनयमपि सेहे पाण्डवस्य स्मरारिः ॥",
+    "padaccheda": "अभिलषतः । उपायम् । विक्रमम् । कीर्तिलक्ष्म्योः । असुगमम् । अरिसैन्यैः । अङ्कम् । अभ्यागतस्य । जनकः । इव । शिशुत्वे । सुप्रियस्य । एकसूनोः । अविनयम् । अपि । सेहे । पाण्डवस्य । स्मरारिः",
+    "anvaya": "स्मर-अरिः, कीर्ति-लक्ष्म्योः उपायम्, अरि-सैन्यैः असुगमम् विक्रमम् अभिलषतः, अङ्कम् अभ्यागतस्य, सुप्रियस्य एक-सूनोः शिशुत्वे जनकः इव, पाण्डवस्य अविनयम् अपि सेहे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The enemy of Smara (Shiva) tolerated even the impertinence of the Pandava, just as a father tolerates the misbehavior of his dearly loved only son in childhood. He did so because Arjuna, desiring valor unattainable by enemy armies as the means to fame and fortune, had come into close contact with him.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005806,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अभिलषत इति॥कीर्तिलक्ष्म्योरुपायं साधनभूतमरिसैन्यैरसुगमं दुरासदं विक्रममभिलषतः। सूनुपक्षे यत्किचिन्महत्फलं प्रार्थयमानस्येत्यर्थः । अतएवाङ्कमन्तिकमभ्यागतस्योत्सङ्गमारूढस्य च पाण्डवस्याविनयं स्मरारिः। अनेन भक्तवात्सल्यमेव सहनकारणमिति सूच्यते । शिशुत्वे शैशवे सुप्रियस्य परमप्रेमास्पदस्य । कुतः । एक एव सुनुस्तस्यैकसूनोविनयं जनक इव सेहे सोढवान्"
+    }
+  ]
+}

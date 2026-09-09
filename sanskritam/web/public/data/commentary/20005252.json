@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005252,
+    "chapter_id": 6621,
+    "verse_number": "9.39",
+    "content_sanskrit": "उच्यतां स वचनीयमशेषं नेश्वरे परुषता सखि साध्वी । आनयैनमनुनीय कथं वा विप्रियाणि जनयन्ननुनेयः ॥",
+    "padaccheda": "उच्यताम् । सः । वचनीयम् । अशेषम् । न । ईश्वरे । परुषता । सखि । साध्वी । आनय । एनम् । अनुनीय । कथम् । वा । विप्रियाणि । जनयन् । अनुनेयः",
+    "anvaya": "सखि, सः अशेषं वचनीयम् उच्यताम्। ईश्वरे परुषता न साध्वी। एनम् अनुनीय आनय। कथं वा विप्रियाणि जनयन् (सः) अनुनेयः?",
+    "meaning_sanskrit": "",
+    "meaning_english": "A proud lady tells her friend: \"Friend, let him be told everything he deserves! (Then, considering advice) Harshness towards a lover is not proper. Bring him here after placating him. (Then, rejecting it) But how can one who constantly causes displeasure be placated?\"",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005252,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "उच्यतामिति ॥ तत्र नायिकाह :-स धूर्तोऽशेषमखिलं वचनीयं वक्तव्यमुच्यताम् । निःशङ्कमुपालभ्यतामित्यर्थः । ब्रूझो दुहादित्वादप्रधाने कर्मणि लोट् । अथ सख्याह-हे सखि, ईश्वरे भर्तरि नायके विषये परुषता पारुष्यं न साध्वी न हिता। अथ नायिकाह—तनमननीय सान्त्वयित्वानय । पुनः सख्याह-विप्रियाणि जनयन्नप्रियाणि कुर्वन्स कथं वानुनेयोऽनुनयाहः ॥"
+    }
+  ]
+}

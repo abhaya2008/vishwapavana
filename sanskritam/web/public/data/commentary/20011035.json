@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011035,
+    "chapter_id": 6679,
+    "verse_number": "7.45",
+    "content_sanskrit": "नप्तारो धार्तराष्ट्राश्च पाण्डवाश्चोभयेपि मे । तदपीच्छामि वो भूतिं सन्तस्सतपक्षपातिनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011035,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सन्तस्सतपक्षपातिनः इत्येतदेवोपपादयति—"
+    }
+  ]
+}

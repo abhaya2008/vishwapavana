@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004081,
+    "chapter_id": 6601,
+    "verse_number": "6.31",
+    "content_sanskrit": "एवं वाच्यः स कन्यार्थमिति वो नोपदिश्यते । भवत्प्रणीतमाचारमामनन्ति हि साधवः ॥",
+    "padaccheda": "एवम् । वाच्यः । सः । कन्यार्थम् । इति । वः । न । उपदिश्यते । भवत्प्रणीतम् । आचारम् । आमनन्ति । हि । साधवः",
+    "anvaya": "सः कन्या-अर्थम् एवम् वाच्यः इति वः न उपदिश्यते । हि साधवः भवत्-प्रणीतम् आचारम् आमनन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It is not being instructed to you that he (Himalaya) should be spoken to thus for the girl. For the wise hold the etiquette established by you (sages) as the authority.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004081,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति । कन्यार्थं कन्याप्रदानार्थं स हिमवानेवं वाच्य इति वो युष्मभ्यं नोपदिश्यते । कुतः । हि यस्मात्साधवो विद्धांसो भवद्भिः प्रणीतं स्मृतिरुपेण निबद्धमाचारमामनन्त्युपदिशन्ति । न हि स्वयमुपदेष्टारः परोपदेशमपेक्षन्त इत्यर्थः"
+    }
+  ]
+}

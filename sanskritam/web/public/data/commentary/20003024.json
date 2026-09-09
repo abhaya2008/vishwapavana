@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003024,
+    "chapter_id": 6587,
+    "verse_number": "11.51",
+    "content_sanskrit": "तस्य कल्पितपुरस्क्रियाविधेः शुश्रुवान्वचनमग्रजन्मनः । उञ्चचाल बलभित्सखो वशी सैन्यरेणुमुषितार्कदीधितिः ॥",
+    "padaccheda": "तस्य । कल्पितपुरस्क्रियाविधेः । शुश्रुवान् । वचनम् । अग्रजन्मनः । उच्चचाल । बलभित्सखः । वशी । सैन्यरेणुमुषितार्कदीधितिः",
+    "anvaya": "तस्य अग्रजन्मनः कल्पितपुरस्क्रियाविधेः वचनं शुश्रुवान् बलभित्सखः वशी सैन्यरेणुमुषितार्कदीधितिः उच्चचाल ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having heard the Brahmin's words and honored him with hospitality, the self-controlled Daśaratha—a friend of Indra—set out for Mithilā. His vast army raised such a cloud of dust that it obscured the very rays of the sun.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003024,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ बलभित्सख इन्द्रसहचरो वशी स्वाधानतावान्। `वश आयत्ततार्या च` इति विश्वः। कल्पितपुरस्क्रियाविधेः कृतपूजाविधेस्तस्याग्रजन्मनो द्विजस्य वचनं जनकेन संदिष्टं शुश्रुवान् श्रुतवान्। शृणोतेः क्वसुः। सैन्यरेणुमुषितार्कदीधितिः सन्, उञ्चचाल प्रतस्थे ॥"
+    }
+  ]
+}

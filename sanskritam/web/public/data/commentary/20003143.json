@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003143,
+    "chapter_id": 6588,
+    "verse_number": "12.77",
+    "content_sanskrit": "ततो बिभेद पौलस्त्यः शक्त्या वक्षसि लक्ष्मणम् । रामस्त्वनाहतोऽप्यासीद्विदीर्णहृदयः शुचा ॥",
+    "padaccheda": "ततः । बिभेद । पौलस्त्यः । शक्त्या । वक्षसि । लक्ष्मणम् । रामः । तु । अनाहतः । अपि । आसीत् । विदीर्णहृदयः । शुचा",
+    "anvaya": "ततः पौलस्त्यः शक्त्या लक्ष्मणं वक्षसि बिभेद । रामः तु अनाहतः अपि शुचा विदीर्णहृदयः आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Ravana pierced Lakshmana in the chest with a powerful spear. Although Rama himself was not physically struck, his heart was shattered with intense grief for his brother.",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003143,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततः पौसस्त्यो रावणः शक्त्या कासूनामकेनायुधेन। `कासूसामर्थ्योः शक्तिः` इत्यमरः। लक्ष्मणं वक्षसि बिभेद विदारयामास। रामस्त्वनाहतोऽप्यहतोऽपि शुचा शोकेन विदीर्णहृदय आसीत् ॥"
+    }
+  ]
+}

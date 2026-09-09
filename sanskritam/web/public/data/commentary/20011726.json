@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011726,
+    "chapter_id": 6685,
+    "verse_number": "13.62",
+    "content_sanskrit": "उपविष्टं च तं तत्र प्राणमत्सार्धमन्धकैः । दीप्तांशुना किरीटेन चरणाम्बुजचुम्बिना ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011726,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दीप्तांशुना किरीटेनेति श्लेषः । दीप्तांशुना सूर्येणेवेत्यर्थः । चरणाम्बुजचुंबिनेति रूपकम् ॥"
+    }
+  ]
+}

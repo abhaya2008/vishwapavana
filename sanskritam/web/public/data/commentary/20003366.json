@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003366,
+    "chapter_id": 6591,
+    "verse_number": "15.30",
+    "content_sanskrit": "तत्र सौधगतः पश्यन्यमुनां चक्रवाकिनीम् । हेमभक्तिमतीं भूमेः प्रवेणीमिव पिप्रिये ॥",
+    "padaccheda": "तत्र । सौधगतः । पश्यन् । यमुनां । चक्रवाकिनीम् । हेमभक्तिमतीं । भूमेः । प्रवेणीमिव । पिप्रिये",
+    "anvaya": "तत्र सौध-गतः (सः) चक्रवाकिनीम्, भूमेः हेम-भक्तिमतीम् प्रवेणीम् इव (स्थिताम्) यमुनाम् पश्यन् पिप्रिये ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, having gone to his palace terrace, he was pleased watching the Yamuna river, which was full of Chakravaka birds and looked like the earth's single braid of hair, adorned with golden patterns.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003366,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ तत्र मथुरायां सौधगतो हर्म्यारूढः स चक्रवाकिनीं चक्रवाकवतीं यमुनाम्। हेमभक्तिमतीं सुवर्णरचनावतीं भूमेः प्रवेणीं वेणीमिव। `वेणिः प्रवेणी` इत्यमरः। पश्यन्पिप्रिये प्रीतः। `प्रीङ् प्रीणने` इति धातोर्दैवादिकाल्लिट् ॥"
+    }
+  ]
+}

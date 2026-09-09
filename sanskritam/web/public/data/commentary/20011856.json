@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011856,
+    "chapter_id": 6686,
+    "verse_number": "14.80",
+    "content_sanskrit": "उक्तेति कृष्णं वृष्णिभ्यो दत्त्वा चेप्सितमीप्सितम् । अन्तर्दधेऽन्धकारातिराननेन्दुश्च ते समे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011856,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दत्त्वा चेप्सितमीप्सितमिति । कृष्णेन प्रार्थितो वाचैव प्रसन्न इत्यर्थः । सम इति सर्वे । समशब्दो हि सर्वपर्यायः सर्वनामः ॥"
+    }
+  ]
+}

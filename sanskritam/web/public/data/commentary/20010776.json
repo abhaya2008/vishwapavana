@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010776,
+    "chapter_id": 6677,
+    "verse_number": "5.16",
+    "content_sanskrit": "अवघ्नतीभिर्नीवारानुलूखलबिले कृतान् । तापसीभिस्सहुंकारं पर्यायेण परिष्कृतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010776,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नीवारानिति । 'नौ वृ धान्ये' (पा.३|३|४८) इति घञ् । पर्यायेणानुपात्यये 'परावनुपात्यय इणः' (पा.३|३|३८) इति घञ् ॥"
+    }
+  ]
+}

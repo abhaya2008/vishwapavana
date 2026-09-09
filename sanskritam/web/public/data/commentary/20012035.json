@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012035,
+    "chapter_id": 6688,
+    "verse_number": "16.42",
+    "content_sanskrit": "अहञ्च मम पत्न्यश्च तनया बान्धवाश्च मे । दृष्ट्वा साम्राज्यमुच्चैर्वां गुरुमुह्याम सम्मदम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012035,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उह्याम यासुटः कित्वाद्यजादित्वात् सम्प्रसारणादि ॥"
+    }
+  ]
+}

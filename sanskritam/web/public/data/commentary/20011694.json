@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011694,
+    "chapter_id": 6685,
+    "verse_number": "13.30",
+    "content_sanskrit": "हाऽवदश्च विविक्ते तं शौरिरुन्मूलयन् शुचम् । विस्रम्भयन्मनस्तस्य सौहार्दं च प्रकाशयन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011694,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हागमे । 'दृशश्चतेर्लङ च' (पा.३|२|११६) इति लिङ्विषये लङ् । स च भूतानद्यतनपरोक्षः । उन्मूलयन् शुचं । हेतौ शता । 'विस्रम्भयन्मनस्तस्य' । लक्षणे शता ॥"
+    }
+  ]
+}

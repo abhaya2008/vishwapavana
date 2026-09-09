@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013873,
+    "chapter_id": 6705,
+    "verse_number": "13.19",
+    "content_sanskrit": "स एव युष्मच्चरणारविन्द- सेवाविनिर्धूतसमस्तभेदः । आजानसिद्धोऽर्हति सूत्रभाष्ये वृत्तिं विधातुं भगवन्नगाधे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013873,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "आजानसिद्धः स्वभावत एव सिद्धः ॥ १९ ॥"
+    }
+  ]
+}

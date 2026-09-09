@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010633,
+    "chapter_id": 6675,
+    "verse_number": "3.75",
+    "content_sanskrit": "नृपप्रसादलब्धार्थैर्यत्राढ्यंभावुकान्तरान् । पाणिघास्ताडघाद्याश्च सदाऽसेवन्त शिल्पिनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010633,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पाणिघास्ताडघाः शिल्पिविशेषाः । 'पाणिघताडघौ शिल्पिनि' (पा.३|२|५५) इति साधु । घत्वटिलोपौ निपात्येते । स्युर्नृखिष्णुच्ख्युक्ञा उदाहृताः ॥"
+    }
+  ]
+}

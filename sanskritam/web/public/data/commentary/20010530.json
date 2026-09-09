@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010530,
+    "chapter_id": 6674,
+    "verse_number": "2.110",
+    "content_sanskrit": "द्विजाधिपं द्विषन्ती श्रीररविन्दान्यपाजहात् । भूतिं तस्याभिनन्दन्ती प्रपेदे कुमुदानि तु ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010530,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "समासोक्तिरलङ्कारः । 'द्विषोऽमित्र' इति (पा.३|२|१३१) शता ॥"
+    }
+  ]
+}

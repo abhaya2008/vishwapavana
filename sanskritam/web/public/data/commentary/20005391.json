@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005391,
+    "chapter_id": 6623,
+    "verse_number": "11.37",
+    "content_sanskrit": "व्याहृत्य मरुतां पत्याविति वाचमवस्थिते । वचः प्रश्रयगम्भीरमथोवाच कपिध्वजः ॥",
+    "padaccheda": "व्याहृत्य । मरुताम् । पत्यौ । इति । वाचम् । अवस्थिते । वचः । प्रश्रयगम्भीरम् । अथ । उवाच । कपिध्वजः",
+    "anvaya": "अथ मरुताम् पत्यौ इति वाचम् व्याहृत्य अवस्थिते (सति), कपिध्वजः प्रश्रयगम्भीरम् वचः उवाच।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, after the lord of the Maruts (Indra) had spoken these words and paused, Arjuna, the one with the monkey banner, spoke words that were profound with humility.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005391,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "व्याहृत्येति॥ मरुतां पत्यौ देवेन्द्र इति वाचं व्याहृत्योक्त्वावस्थिते सति तूष्णीं स्थिते सति । अथ कपिध्वजोऽर्जुनः प्रश्रयगम्भीरं विनयमधुरम् । `विनयप्रश्रयो समौ` इति यादवः । वच उवाचोक्तवान् ॥ किमुवाचेत्यपेक्षायामादौ चतुर्भिरिन्द्रवाक्यमुपश्लोकयन्नाह"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003190,
+    "chapter_id": 6589,
+    "verse_number": "13.20",
+    "content_sanskrit": "असौ महेन्द्रद्विपदानगन्धिस्त्रिमार्गगावीचिविमर्दशीतः । आकाशवायुर्दिनयौवनोत्थानाचामति स्वेदलवान्मुखे ते ॥",
+    "padaccheda": "असौ । महेन्द्रद्विपदानगन्धिः । त्रिमार्गगावीचिविमर्दशीतः । आकाशवायुः । दिनयौवनोत्थान् । आचामति । स्वेदलवान् । मुखे । ते",
+    "anvaya": "असौ महेन्द्रद्विपदानगन्धिः त्रिमार्गगावीचिविमर्दशीतः आकाशवायुः ते मुखे दिनयौवनोत्थान् स्वेदलवान् आचामति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama tells Sita that this celestial wind, fragrant like the ichor of Indra's elephant Airavata and cooled by the waves of the Ganga, is sipping away the drops of perspiration from her face, caused by the midday heat.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003190,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असाविति॥ महेन्द्रद्विपदानगन्धिरैरावतमदगन्धिः। त्रिभिमार्गैर्गच्छतीति त्रिमार्गगा गङ्गा। `तद्धितार्थ-` (पा.2।1।51)इत्यादिनोत्तरपदसमासः। तस्या वीचीनां विमर्देन संपर्केण शीतोऽसावाकाशवायुर्दिनयौवनोत्थान्मध्याह्नसंभवांस्ते मुखे स्वेदलवानाचामति हरति। अनेन सुरपथसंचारो दर्शितः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002431,
+    "chapter_id": 6580,
+    "verse_number": "4.42",
+    "content_sanskrit": "ताम्बूलीनां दलैस्तत्र रचितापानभूमयः । नारिकेलासवं योधाः शात्रवं च पपुर्यशः ॥",
+    "padaccheda": "तत्र । योधाः । ताम्बूलीनाम् । दलैः । रचित-आपानभूमयः । नारिकेल-आसवम् । शात्रवम् । यशः । च । पपुः",
+    "anvaya": "तत्र योधाः ताम्बूलीनाम् दलैः रचित-आपानभूमयः (सन्तः) नारिकेल-आसवम् शात्रवम् यशः च पपुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, Raghu's warriors, having prepared drinking grounds with betel leaves, drank both coconut liquor and the fame of their enemies.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002431,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ताम्बूलीनामिति॥ तत्र महेन्द्राद्रौ। युध्यन्त इति योधाः। पचाद्यच्। रचिताः कल्पिता आपानभूमयः पानयोग्यप्रदेशा यैस्ते तथोक्ताः सन्तो नारिकेलासवं नारिकेलमद्यं ताम्बूलीनां नागवल्लीनां दलैः पपुः। तत्र विजह्रुरित्यर्थः। शात्रवं यशश्च पपुः, जह्रुरित्यर्थः॥"
+    }
+  ]
+}

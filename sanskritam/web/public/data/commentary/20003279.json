@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003279,
+    "chapter_id": 6590,
+    "verse_number": "14.30",
+    "content_sanskrit": "ऋद्धापणं राजपथं स पश्यन्विगाह्यमानां सरयूं च नौभिः । विलासिभिश्चाध्युषितानि पौरैः पुरोपकण्ठोपवनानि रेमे ॥",
+    "padaccheda": "ऋद्धापणम् । राजपथम् । सः । पश्यन् । विगाह्यमानाम् । सरयूम् । च । नौभिः । विलासिभिः । च । अध्युषितानि । पौरैः । पुरोपकण्ठोपवनानि । रेमे",
+    "anvaya": "सः ऋद्ध-आपणम् राजपथम्, नौभिः विगाह्यमानाम् सरयूम् च, विलासिभिः पौरैः अध्युषितानि पुर-उपकण्ठ-उपवनानि च पश्यन् रेमे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He took delight in seeing the royal road with its prosperous shops, the Sarayu river being navigated by boats, and the gardens on the city's outskirts frequented by pleasure-seeking citizens.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003279,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ऋद्धापणमिति॥ स रामः। ऋद्धाः समृद्धा आपणाः पण्यभूमयो यस्मिंस्तं राजपथम्। नौभिः समुद्रवाहिनीभिर्विगाह्यमानां सरयूं च पौरैर्विलासिभिरध्युषितानि पुरोपकण्ठोपवनानि च पश्यन्रेमे। विलासिनश्च विलासिन्यश्च विलासिनः। `पुमान्स्त्रिया` (पा.1।2।67) इत्येकशेषः ॥"
+    }
+  ]
+}

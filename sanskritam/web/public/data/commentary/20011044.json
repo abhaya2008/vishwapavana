@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011044,
+    "chapter_id": 6679,
+    "verse_number": "7.54",
+    "content_sanskrit": "इत्युक्त्वान्तर्हिते व्यासे मुदितः श्वेतवाहनः । आमन्त्र्य तान्मुनीनुक्तो मणलूरपुरं ययौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011044,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्वाभिलषितोपदेशान्मुदितः । 'उक्त उन्मनाः' इत्युत्सेके वाच्ये उञ्छब्दात् कन् निपात्यते ॥"
+    }
+  ]
+}

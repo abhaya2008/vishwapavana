@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005375,
+    "chapter_id": 6623,
+    "verse_number": "11.21",
+    "content_sanskrit": "अभिद्रोहेण भूतानामर्जयन्गत्वरीः श्रियः । उदन्वानिव सिन्धूनामापदामेति पात्रताम् ॥",
+    "padaccheda": "अभिद्रोहेण । भूतानाम् । अर्जयन् । गत्वरीः । श्रियः । उदन्वान् । इव । सिन्धूनाम् । आपदाम् । एति । पात्रताम्",
+    "anvaya": "भूतानाम् अभिद्रोहेण गत्वरीः श्रियः अर्जयन् नरः सिन्धूनाम् उदन्वान् इव आपदाम् पात्रताम् एति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A person who acquires transient fortunes by harming living beings becomes a receptacle for calamities, just as the ocean is the receptacle for rivers.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005375,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अभिद्रोहेणेत्यादि । भूतानामभिद्रोहेण हिंसया गत्वरारास्थराः श्रियः सपदाऽजयज्जनः । उदकमस्तीत्यदन्वानुदधिः । `उदन्वानुदधौ च` (पा.8।2।13) इति निपातनात्साधुः । सिन्धूनां नदीनामिवापदां विपदां पात्रतां मूलत्वमेति ॥ आपत्पात्रतामेव व्यनक्ति-"
+    }
+  ]
+}

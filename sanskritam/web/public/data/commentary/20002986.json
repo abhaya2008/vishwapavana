@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002986,
+    "chapter_id": 6587,
+    "verse_number": "11.13",
+    "content_sanskrit": "स्थाणुदग्धवपुषस्तपोवनं प्राप्य दाशरथिरात्तकार्मुकः । विग्रहेण मदनस्य चारुणा सोऽभवत्प्रतिनिधिर्न कर्मणा ॥",
+    "padaccheda": "स्थाणुदग्धवपुषः । तपोवनम् । प्राप्य । दाशरथिः । आत्तकार्मुकः । विग्रहेण । मदनस्य । चारुणा । सः । अभवत् । प्रतिनिधिः । न । कर्मणा",
+    "anvaya": "दाशरथिः स्थाणुदग्धवपुषः मदनस्य तपोवनं प्राप्य चारुणा विग्रहेण तस्य प्रतिनिधिः अभवत्, कर्मणा न ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Upon reaching the penance grove where Śiva had burnt the body of Kāmadeva, Rāma, holding his bow, became a substitute for the God of Love through his beautiful physical form, though not through his actions.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002986,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्थाण्विति॥ स आत्तकार्मुकः। दशरथस्यापत्यं पुमान् दाशरथी रामः। `अत इञ्` (पा.4।1।95) इतीञ्प्रत्ययः। स्थाणुर्हरः। `स्थाणुः कीले हरे स्थिरे` इति विश्वः। तेन दग्धवपुषो मदनस्य तपोवनं प्राप्य चारुणा विग्रहेण कायेन। `विग्रहः समरे काये` इति विश्वः। प्रतिनिधिः प्रतिकगृतिः सदृशोऽभवत्, कर्मणा न पुनः, देहेन मदनसुन्दर इति भावः ॥"
+    }
+  ]
+}

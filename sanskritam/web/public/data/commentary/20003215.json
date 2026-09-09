@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003215,
+    "chapter_id": 6589,
+    "verse_number": "13.45",
+    "content_sanskrit": "अदः शरण्यं शरभङ्गनाम्नस्तपोवनं पावनमाहिताग्नेः । चिराय संतर्प्य समिद्भिरग्निं यो मन्त्रपूतां तनुमप्यहौषीत् ॥",
+    "padaccheda": "अदः । शरण्यम् । शरभङ्गनाम्नः । तपोवनम् । पावनम् । आहिताग्नेः । चिराय । संतर्प्य । समिद्भिः । अग्निम् । यः । मन्त्रपूताम् । तनुम् । अपि । अहौषीत्",
+    "anvaya": "अदः शरभङ्ग-नाम्नः आहिताग्नेः शरण्यम् पावनम् तपोवनम् (अस्ति)। यः चिराय समिद्भिः अग्निम् संतर्प्य, मन्त्र-पूताम् तनुम् अपि अहौषीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That is the holy penance grove, a refuge, belonging to the sage named Sharabhanga, who maintained the sacred fires. After gratifying the fire with fuel for a long time, he offered even his own mantra-purified body as an oblation.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003215,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अद इति॥ शरणे रक्षणे साधु शरण्यम्। पावयतीति पावनम्। अदो दृश्यमानं तपोवनमाहिताग्नेः शरभङ्गनाम्नो मुनेः संबन्धि। यः शरभङ्गश्चिरायचिरमग्निं समिद्भिः संतर्प्य तर्पयित्वा ततो मन्त्रैः पूतां शुद्धां तनुमप्यहौषीद्धुतवान्। जुहोतेर्लुङ् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002191,
+    "chapter_id": 6577,
+    "verse_number": "1.42",
+    "content_sanskrit": "पवनस्यानुकूलत्वात्प्रार्थनासिद्धिशंसिनः । रजोभिस्तुरगोत्कीर्णैरस्पृष्टालकवेष्टनौ ॥",
+    "padaccheda": "पवनस्य । अनुकूलत्वात् । प्रार्थनासिद्धिशंसिनः । रजोभिः । तुरगोत्कीर्णैः । अस्पृष्टालकवेष्टनौ",
+    "anvaya": "प्रार्थना-सिद्धि-शंसिनः पवनस्य अनुकूलत्वात् तुरग-उत्कीर्णैः रजोभिः अ-स्पृष्ट-आलक-वेष्टनौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the wind blew favorably, signaling the fulfillment of their desires, the dust kicked up by the horses' hooves did not touch or soil the couple's beautiful hair or the ornaments around their locks.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002191,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पवनस्येति॥ प्रार्थनासिद्धिशंसिनोऽनुकूलत्वादेव मनोरथसिद्धिसूचकस्य पवनस्यानुकूलत्वाद्गन्तव्यदिगभिमुखत्वात्। तुरगोत्कीर्णै रजोभिरस्पृष्टा अलका देव्या वेष्टनमुष्णीषं च राज्ञो ययोस्तौ तथोक्तौ। `शिरसा वेष्टनशोभिना सुतः` (8। 12)इति वक्ष्यति॥"
+    }
+  ]
+}

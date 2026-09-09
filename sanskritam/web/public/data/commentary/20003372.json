@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003372,
+    "chapter_id": 6591,
+    "verse_number": "15.36",
+    "content_sanskrit": "शत्रुघातिनि शत्रुघ्नः सुबाहौ च बहुश्रुते । मथुराविदिशे सून्वोर्निदधे पूर्वजोत्सुकः ॥",
+    "padaccheda": "शत्रुघातिनि । शत्रुघ्नः । सुबाहौ । च । बहुश्रुते । मथुराविदिशे । सून्वोः । निदधे । पूर्वजोत्सुकः",
+    "anvaya": "पूर्वजोत्सुकः शत्रुघ्नः शत्रुघातिनि च बहुश्रुते सुबाहौ सून्वोः मथुराविदिशे निदधे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Eager to be with his elder brother Rama, Shatrughna established his two sons, Shatrughatin and the learned Subahu, as rulers of the kingdoms of Mathura and Vidisha respectively.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003372,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शत्रुघातिनीति॥ पूर्वजोत्सुको ज्येष्ठप्रियः शत्रुघ्नो बहुश्रुते शत्रुघातिनि सुबाहौ च तन्नामकयोः सून्वोर्मथुरा च विदिशा च ते नगर्यौ निदधे। निधाय गत इत्यर्थः॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003167,
+    "chapter_id": 6588,
+    "verse_number": "12.101",
+    "content_sanskrit": "मरुतां पश्यतां तस्य शिरांसि पतितान्यपि । मनो नातिविशश्वास पुनःसंधानशङ्क्तिनाम् ॥",
+    "padaccheda": "मरुतां । पश्यतां । तस्य । शिरांसि । पतितानि । अपि । मनः । न । अतिविशश्वास । पुनःसंधानशङ्किनाम्",
+    "anvaya": "पश्यतां मरुतां मनः पतितानि अपि तस्य शिरांसि पुनःसंधानशङ्क्तिनाम् न अतिविशश्वास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even as the gods watched Ravana's heads fall to the ground, their minds could not fully believe he was defeated. They remained apprehensive, fearing that his severed heads might miraculously reattach themselves, given his past displays of supernatural power and resilience.",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003167,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मरुतामिति॥ पतितानि तस्य रावणस्य शिरांसि पश्यतामपि पुनः-संधानशङ्क्तिनाम्। पूर्वं तथादर्शनादिति भावः। मरुताममराणाम्। `मरुतौ पवनामरौ` इत्यमरः (अ.को.3|3|66)। मनो नातिविशश्वासाऽतिविश्वासं न प्राप ॥"
+    }
+  ]
+}

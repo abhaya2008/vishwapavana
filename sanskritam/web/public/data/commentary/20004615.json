@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004615,
+    "chapter_id": 6609,
+    "verse_number": "14.11",
+    "content_sanskrit": "विरोधिनां शोणितपारणैषिणीं गदामनूनां नरवाहनो वहन् । महाहवाम्भोधि विगाहनोद्धतं यियासु मन्वागमदीशनन्दनम् ॥",
+    "padaccheda": "विरोधिनाम् । शोणितपारणैषिणीम् । गदाम् । अनूनाम् । नरवाहनः । वहन् । महाहवाम्भोधि-विगाहनोद्धतम् । यियासुम् । मन्वागमदीशनन्दनम्",
+    "anvaya": "विरोधिनाम् शोणितपारणैषिणीम् अनूनाम् गदाम् वहन् नरवाहनः महाहवाम्भोधि-विगाहनोद्धतम् यियासुम् ईशनन्दनम् अन्वागमत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kubera, carrying his massive mace that thirsted for the blood of enemies, followed Kārttikeya. Kubera appeared eager to dive into the vast ocean of the upcoming great battle, just as the son of Śiva was preparing to depart.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004615,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विरोधिनामिति । नरवाहनः कुबेरः । `पौलस्त्यो नरवाहनः' इत्यमरः । विरोधिनां शत्रूणां संबन्धि शोणितं रुधिरं तेन या पारणा भोजनं तामिच्छति तथाभूतामनूनामन्यूनसारां गदामायुधविशेषं वहन् धारयन्सन् महाहवौ महारणः स एवाम्भोधिः समुद्रस्तस्य विगाहन उद्धतमुद्भटम् । समर्थमिति यावत् । अत एव यियासुं जिगमिषुमीशनन्दनं शिवपुत्रं कुमारमन्वगमत् अनुगच्छति स्मेत्यर्थः"
+    }
+  ]
+}

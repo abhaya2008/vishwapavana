@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011984,
+    "chapter_id": 6687,
+    "verse_number": "15.81",
+    "content_sanskrit": "पुरं पुरन्दरप्रस्थं गम्यं वध्वा सहाऽमुना । वियोगदुखं त्वस्माभिस्सोढव्यं कार्यचिन्तया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011984,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गम्यं सोढव्यमिति पूर्ववत् कृत्यः । कार्यचिन्तयेत्येतदेव विवृणोति—"
+    }
+  ]
+}

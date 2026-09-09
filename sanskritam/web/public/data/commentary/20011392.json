@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011392,
+    "chapter_id": 6682,
+    "verse_number": "10.36",
+    "content_sanskrit": "वक्तव्यमधुरं भोज्यं खादुपानीयशीतलम् । आतिथ्यमातिथेयानां कच्चिद्वो भवति त्रयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011392,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वक्तव्यमधुरादिषु 'कृत्यतुल्याख्या अजात्या' (पा.२|१|६८) इति गुणवचनैस्समासः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005393,
+    "chapter_id": 6623,
+    "verse_number": "11.39",
+    "content_sanskrit": "न्यायनिर्णीतसारत्वान्निरपेक्षमिवागमे । अप्रकम्प्यतयान्येषामाम्नायवचनोपमम् ॥",
+    "padaccheda": "न्यायनिर्णीतसारत्वात् । निरपेक्षम् । इव । आगमे । अप्रकम्प्यतया । अन्येषां । आम्नायवचनोपमम्",
+    "anvaya": "(तत् वचः) न्यायनिर्णीतसारत्वात् आगमे निरपेक्षम् इव (आसीत्), अन्येषाम् अप्रकम्प्यतया आम्नायवचनोपमम् (आसीत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Because its essence was established by logic, it seemed independent of scriptural authority; yet, due to its unshakeable and authoritative nature for others, it was comparable to a pronouncement from the Vedas.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005393,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "न्यायेति ॥ पुनर्न्यायेन युक्त्या निर्णीतसारत्वान्निश्चितार्थत्वाद्धेतोरागमे शास्त्रे विषये निरपेक्षं स्वतन्त्रमिव । युक्तिदार्ढ्यादेवं प्रतीयते । वस्तुतस्तु शास्त्रसिद्धार्थमिवेतीवशब्दार्थः । किं च । अन्येषां प्रतिवादिनामप्रकम्प्यतयानुमानादिभिरबाध्यत्वादप्रत्याख्येयतयाम्नायवचनोपमम् । वेदवाक्यतुल्यमित्यर्थः ।।"
+    }
+  ]
+}

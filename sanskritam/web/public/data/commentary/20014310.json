@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014310,
+    "chapter_id": 6708,
+    "verse_number": "16.30",
+    "content_sanskrit": "अमुनैव ततो गदेन नीचः प्रतिपातेन हतो ममार गुप्तः । मतिपूर्वकृतो महानुभावेष्वनयः कस्य भवेत्सुखोपलब्ध्यै ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014310,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "ततः किं वृत्तमित्याकाङ्क्षायामाह । अमुनैवेति । प्रतिघातेन प्रतिप्राप्तेन ॥३२॥ ॥ ३२ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014310,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "गुप्तोऽभिनवगुप्तः शाक्त इत्यर्थः ] [ अनयोऽपराधः"
+    }
+  ]
+}

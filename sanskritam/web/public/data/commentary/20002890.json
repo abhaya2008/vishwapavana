@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002890,
+    "chapter_id": 6586,
+    "verse_number": "10.3",
+    "content_sanskrit": "अतिष्ठत्प्रत्ययापेक्षसंततिः स चिरं नृपः । प्राङ्यन्थादनभिव्यक्तरत्नोत्पत्तिरिवार्णवः ॥",
+    "padaccheda": "अतिष्ठत् । प्रत्ययापेक्षसंततिः । सः । चिरम् । नृपः । प्राक् । मन्थात् । अनभिव्यक्तरत्नोत्पत्तिः । इव । अर्णवः",
+    "anvaya": "सः नृपः प्रत्यय-अपेक्ष-संततिः (सन्) चिरम् अतिष्ठत्, प्राक् मन्थात् अनभिव्यक्त-रत्न-उत्पत्तिः अर्णवः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That king (Dasharatha), whose progeny depended on a specific cause (the sacrifice), waited for a long time, just like the ocean before churning, whose gems are yet to be manifested.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002890,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अतिष्ठदिति॥ प्रत्ययं हेतुमपेक्षत इति प्रत्ययापेक्षा संततिर्यस्य स तथोक्तः। `प्रत्ययोऽधीनशपथज्ञानविशअवासहेतुषु` इत्यमरः। स नृपः। मन्थात्प्राङ्यन्थनात्पूर्वमनभिव्यक्ताऽदृष्टा रत्नोत्पत्तिर्यस्य सोऽर्णव इव। चिरमतिष्ठत्। सामग्र्यभावाद्विलम्बो न तु वन्ध्यत्वादिति भावः ॥"
+    }
+  ]
+}

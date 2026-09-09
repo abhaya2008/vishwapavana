@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013908,
+    "chapter_id": 6705,
+    "verse_number": "13.54",
+    "content_sanskrit": "नैष्कर्म्यसिद्धाख्यनिबन्धमेकं कृत्वाऽऽत्मपूज्याय निवेद्य चाऽऽप्त्वा । विश्वासंमुक्त्वाऽऽथ पुनर्बभाषे स विश्वरूपो गुरुमात्मदेवम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013908,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "विश्वासं च प्राप्याऽऽचार्येत्याद्युक्त्वाऽथ पुनरुवाच । उपजातिवृत्तम् ॥ ५४ ॥"
+    }
+  ]
+}

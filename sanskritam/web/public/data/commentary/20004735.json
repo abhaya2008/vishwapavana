@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004735,
+    "chapter_id": 6611,
+    "verse_number": "16.27",
+    "content_sanskrit": "वीराणां शस्त्रभिन्नानि शिरांसि निपतन्त्यपि । अधावन्दन्तदष्टोष्ठभीमान्यभिरिपुं क्रुधा ॥",
+    "padaccheda": "वीराणाम् । शस्त्रभिन्नानि । शिरांसि । निपतन्ति । अपि । अधावन् । दन्तदष्टोष्ठभीमानि । अभिरिपुम् । क्रुधा",
+    "anvaya": "शस्त्रभिन्नानि वीराणां शिरांसि निपतन्ति अपि क्रुधा दन्तदष्टोष्ठभीमानि अभिरिपुं अधावन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "The heads of warriors, severed by weapons, appeared terrifying as their teeth bit their lips in anger; even while falling, they seemed to rush toward the enemy.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004735,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वीराणामिति । शस्त्रभिन्नान्यत एव निपतन्त्यपि दन्तैर्दष्टाः पीडिता य ओष्ठा अधरास्तैर्भीमानि घोराणि वीराणां शिरांसि क्रुधाभिरिपुं वैरिसंमुखमधावन्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004388,
+    "chapter_id": 6605,
+    "verse_number": "10.5",
+    "content_sanskrit": "हव्यवाह ! त्वयासादि दुर्दशेयं दशा कुतः । इति पृष्टः सुरेन्द्रेण स निःश्वस्य वचोऽवदत् ॥",
+    "padaccheda": "हव्यवाह । त्वया । आसादि । दुर्दशा । इयम् । कुतः । इति । पृष्टः । सुरेन्द्रेण । सः । निःश्वस्य । वचः । अवदत्",
+    "anvaya": "हव्यवाह ! त्वया इयम् दुर्दशा कुतः आसादि इति सुरेन्द्रेण पृष्टः सः निःश्वस्य वचः अवदत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra asked, \"O Agni, how did you come to this miserable state?\" Thus questioned, Agni sighed and began to speak.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004388,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हव्यवाहेति । सोऽग्निः । हव्यवाह ! त्वया दुर्दशेयं दशावस्था कुतो हेतोरासादि प्रापोति सुरेन्द्रेण पृष्टः सन्निःश्वासं कृत्वा वचो वक्ष्यमाणमवदत्"
+    }
+  ]
+}

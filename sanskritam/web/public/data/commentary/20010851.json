@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010851,
+    "chapter_id": 6677,
+    "verse_number": "5.91",
+    "content_sanskrit": "वीनां रुतानि शृण्वन्त: पश्यन्तो गमनानि च । हरिणानां वने कच्चिद्रमध्वे मुनयस्सदा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010851,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "रुतानि गमनानि इति ‘नपुंसके भावे क्त:’ (पा.३|३|११४), ‘ल्युट् च’ (पा.३|३|११५) इति क्तल्युटौ ॥"
+    }
+  ]
+}

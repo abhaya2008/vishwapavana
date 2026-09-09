@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004062,
+    "chapter_id": 6601,
+    "verse_number": "6.12",
+    "content_sanskrit": "तामगौरवभेदेन मुनींश्चापश्यदीश्वरः । स्त्री पुमानित्यनास्थैषा वृत्तं हि महितं सताम् ॥",
+    "padaccheda": "ताम् । अगौरवभेदेन । मुनीन् । च । अपश्यत् । ईश्वरः । स्त्री । पुमान् । इति । अनास्था । एषा । वृत्तम् । हि । महितम् । सताम्",
+    "anvaya": "ईश्वरः ताम् मुनीन् च अगौरवभेदेन अपश्यत् । हि सताम् स्त्री पुमान् इति एषा अनास्था (भवति), वृत्तम् (एव) महितम् (भवति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Lord looked upon her (Arundhati) and the sages without any difference in reverence. For the virtuous, this disregard for distinctions like 'woman' or 'man' is natural; it is character alone that is honored.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004062,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तामिति । ईश्वरो भगवांस्तामरुन्धतीं मुनींश्चागौरवभेदेन समानप्रतिपत्त्यापश्यद्दृष्टवान् । न चायमविवेक इत्याह-हि यस्मात्स्त्री पुमांश्चेत्येषानास्था स्त्रीपुंसभेदो न विवक्षितः । किंतु सतां साधूनां वृत्तं चरित्रमेव महितं पूज्यम् । `गुणाः पुजास्थानं गुणिषु न च लिङ्गं न च वयः` इति भावः"
+    }
+  ]
+}

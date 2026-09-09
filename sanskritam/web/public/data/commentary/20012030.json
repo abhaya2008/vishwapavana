@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012030,
+    "chapter_id": 6688,
+    "verse_number": "16.37",
+    "content_sanskrit": "क्रियेताऽद्यैव सन्नाहः पार्थेन श्वः प्रगे गमः । तदाऽशिषोनयोर्ब्रूयाः पितर्मात्रा सहानया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012030,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्रियेतेति विधौ लिङ् । ब्रूया इत्यधीष्टे ॥"
+    }
+  ]
+}

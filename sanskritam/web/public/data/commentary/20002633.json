@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002633,
+    "chapter_id": 6582,
+    "verse_number": "6.80",
+    "content_sanskrit": "ततः सुनन्दावचनावसाने लज्जां तनूकृत्य नरेन्द्रकन्या । दृष्ट्या प्रसादामलया कुमारं प्रत्यग्रहीत्संवरणस्रजेव ॥",
+    "padaccheda": "ततः । सुनन्दावचनावसाने । लज्जाम् । तनूकृत्य । नरेन्द्रकन्या । दृष्ट्या । प्रसादमलया । कुमारम् । प्रत्यग्रहीत् । संवरणस्रजा । इव",
+    "anvaya": "ततः सुनन्दावचन-अवसाने नरेन्द्रकन्या लज्जाम् तनूकृत्य, प्रसाद-अमलया दृष्ट्या कुमारम् संवरण-स्रजा इव प्रत्यग्रहीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, at the end of Sunanda's speech, the princess (Indumati), lessening her shyness, accepted the prince (Aja) with her clear and gracious glance, as if she were placing the wedding garland on him.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002633,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततः सुनन्दावचनस्यावसानेऽन्ते नरेन्द्रकन्येन्दुमती लज्जां तनूकृत्य संकोच्य प्रसादेन मनःप्रसादेनामलया प्रसन्नया दृष्ट्या संवरणस्य स्रजा स्वयंवरणार्थं स्रजेव कुमारमजं प्रत्यग्रहीत् स्वीचकार। सम्यक्सानुरागमपश्यदित्यर्थः ॥"
+    }
+  ]
+}

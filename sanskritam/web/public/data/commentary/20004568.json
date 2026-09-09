@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004568,
+    "chapter_id": 6608,
+    "verse_number": "13.15",
+    "content_sanskrit": "स्वर्लोकलक्ष्मीकचकर्षणाय दोर्मण्डलं वल्गति यस्य चण्डम् । इहैव तच्छोणितपानकेलिमह्नाय कुर्वन्तु शरा ममैते ॥",
+    "padaccheda": "स्वर्लोकलक्ष्मीकचकर्षणाय । दोर्मण्डलम् । वल्गति । यस्य । चण्डम् । इह । एव । तच्छोणितपानकेलिम् । अह्नाय । कुर्वन्तु । शराः । मम । एते",
+    "anvaya": "स्वर्लोकलक्ष्मीकचकर्षणाय यस्य दोर्मण्डलम् चण्डम् वल्गति मम् एते शराः इह एव अह्नाय तच्छोणितपानकेलिम् कुर्वन्तु",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kumāra vows that his arrows will swiftly make a sport of drinking the blood of that demon, whose arms move fiercely to humiliate the Goddess of Heaven by dragging her by the hair. He promises to end the demon's arrogance right here.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004568,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वर्लोकेति । स्वर्लोकस्य लक्ष्म्याः कचाः केशास्तेषां कर्षणाय । लक्ष्मीकेशानां हरणं कर्तुमित्यर्थः । `तुमर्थात्' इति चतुर्थी । चण्डं प्रचण्डं यस्य तारकस्य दोर्मण्डलं वल्गति चलति । तस्य तारकस्य यच्छोणितं रुधिरं तस्य पानं तदेव केलिः क्रीडा तां कर्मभूतामेते मम शरा अह्नाय झटिति । `द्राग्झटित्यञ्जसाह्नाय' इत्यमरः । इहैव कुर्वन्तु । तं विनाशयन्त्वित्यर्थः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002971,
+    "chapter_id": 6586,
+    "verse_number": "10.84",
+    "content_sanskrit": "स चतुर्धा बभौ व्यस्तः प्रसवः पृथिवीपतेः । धर्मार्थकाममोक्षाणामवतार इवाङ्गवान् ॥",
+    "padaccheda": "सः । चतुर्धा । बभौ । व्यस्तः । प्रसवः । पृथिवीपतेः । धर्मार्थकाममोक्षाणाम् । अवतारः । इव । अङ्गवान्",
+    "anvaya": "सः पृथिवीपतेः व्यस्तः चतुर्धा प्रसवः अङ्गवान् धर्म-अर्थ-काम-मोक्षाणाम् अवतारः इव बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The fourfold offspring of King Daśaratha, though divided into four individuals, shone like the embodied incarnation of the four goals of human life: Dharma, Artha, Kāma, and Mokṣa.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002971,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स चतुर्धा। `संख्याया विधार्थे धा` (पा.5।3।42) इत्यनेन धाप्रत्ययः। व्यस्तो विभक्तः पृथिवीपतेर्दसरथस्य प्रसवः संतानः। चतुर्धाऽङ्गवान् मूर्तिमान् धर्मार्थकाममोक्षाणामवतार इव बभौ ॥"
+    }
+  ]
+}

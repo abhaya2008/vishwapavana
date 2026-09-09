@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004293,
+    "chapter_id": 6603,
+    "verse_number": "8.53",
+    "content_sanskrit": "तामिमां तिमिरवृद्धिपीडितां शैलराजतनयेऽधुना स्थिताम् । एकतस्तटतमालमालिनीं पश्य धातुरसनिम्नगामिव ॥",
+    "padaccheda": "ताम् । इमाम् । तिमिरवृद्धिपीडिताम् । शैलराजतनये । अधुना । स्थिताम् । एकतः । तटतमालमालिनीम् । पश्य । धातुरसनिम्नगाम् । इव",
+    "anvaya": "शैलराजतनये! अधुना स्थिताम्, तिमिरवृद्धिपीडिताम्, एकतः तटतमालमालिनीम्, धातुरसनिम्नगाम् इव ताम् इमाम् (संध्याम्) पश्य।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O daughter of the mountain king, look at this twilight, now afflicted by the growing darkness. On one side, lined with Tamala trees on its bank, it appears like a river of mineral ores.\"",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004293,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तामिति । संप्रति तिमिरवृत्तिपीडितां तमोवृत्त्युपरुद्धामतएव भूमौ लग्नमिव स्थितां तामिमां संध्यामेकत एकत्र तटतमालमालिनीं तीरतमालतरुपङ्क्तिमतीम् । ब्रीह्यादित्वादिनिः । धातुरसनिम्नगां धातुद्रवनदीमिव पश्य"
+    }
+  ]
+}

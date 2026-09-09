@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004909,
+    "chapter_id": 6614,
+    "verse_number": "2.49",
+    "content_sanskrit": "मदमानसमुद्धतं नृपं न वियुङ्क्ते नियमेन मूढता । अतिमूढ उदस्यते नयान्नयहीनादपरज्यते जनः ॥",
+    "padaccheda": "मदमानसमुद्धतम् । नृपम् । न । वियुङ्क्ते । नियमेन । मूढता । अतिमूढः । उदस्यते । नयात् । नयहीनात् । अपरज्यते । जनः",
+    "anvaya": "मूढता मद-मान-समुद्धतम् नृपम् नियमेन न वियुङ्क्ते । अति-मूढः नयात् उदस्यते । नय-हीनात् जनः अपरज्यते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Foolishness invariably does not abandon a king who is arrogant with pride and conceit. One who is excessively foolish is cast away from policy, and the people become disaffected with one who is devoid of policy.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004909,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मदेति। अपरागेति च ॥ मदमानाभ्यां दर्पहंकाराभ्यां समुद्धतं नृपं मूढता कार्यापरिज्ञानं नियमेनावश्यं न वियुङ्क्ते न विमुञ्चति । अतिमूढो नयान्नीतिमार्गादुदस्यत उत्क्षिप्यते । कर्मकर्तरि लट्। नयहीनाज्जनोऽपरज्यतेऽपरक्तो भवति । ‘स्वरितञित:इत्यादिनात्मनेपदम् ॥"
+    }
+  ]
+}

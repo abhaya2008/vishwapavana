@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004129,
+    "chapter_id": 6601,
+    "verse_number": "6.79",
+    "content_sanskrit": "तमर्थमिव भारत्या सुतया योक्तुमर्हसि । अशोच्या हि पितुः कन्या सद्भर्त्रे प्रतिपादिता ॥",
+    "padaccheda": "तम् । अर्थम् । इव । भारत्या । सुतया । योक्तुम् । अर्हसि । अशोच्या । हि । पितुः । कन्या । सद्भर्त्रे । प्रतिपादिता",
+    "anvaya": "भारत्या अर्थम् इव तम् (शम्भुम्) सुतया योक्तुम् अर्हसि। हि सद्भर्त्रे प्रतिपादिता कन्या पितुः अशोच्या (भवति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You should unite your daughter with him, just as speech is united with its meaning. Indeed, a daughter given in marriage to a worthy husband is no cause for grief to her father.",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004129,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति । तं शंभुं भारत्या वाचार्थमभिधेयमिव सुतया दुहित्रा योक्तुं संघटयितुमर्हसि । अत्र वागर्थयोरुपमानत्वसामर्थ्याच्छिवयोर्नित्ययोगो विवक्षित इत्युक्तम् `वागर्थाविव संपक्तौ` (रघुवंशे १/१) इत्यत्रापि । तथाहि सद्भर्त्रे प्रतिपादिता दत्ता कन्या पितुरशोच्या"
+    }
+  ]
+}

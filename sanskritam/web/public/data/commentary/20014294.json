@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014294,
+    "chapter_id": 6708,
+    "verse_number": "16.14",
+    "content_sanskrit": "तेऽतीत्य देशान्बहुलांन्स्वकार्य- सिद्ध्यै कचिद्राजपुरे भिषग्भः । अवाप्य संदर्शनभाषणानि समानयंस्तान्गुरुवर्यपार्श्वम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014294,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "गुरुवर्यसमीपं तान्भिषजः समानीतवन्तः । उपजातिवृत्तम् ॥ १६ ॥"
+    }
+  ]
+}

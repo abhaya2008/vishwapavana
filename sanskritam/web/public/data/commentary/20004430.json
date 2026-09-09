@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004430,
+    "chapter_id": 6605,
+    "verse_number": "10.47",
+    "content_sanskrit": "पादाङ्गुष्ठाग्रभूमिस्थैः सूर्यसम्बद्धदृष्टिभिः । ब्रह्मर्षिभिः परं ब्रह्म गृणद्भिरुपसेविताम् ॥",
+    "padaccheda": "पादाङ्गुष्ठाग्रभूमिस्थैः । सूर्यसम्बद्धदृष्टिभिः । ब्रह्मर्षिभिः । परम् । ब्रह्म । गृणद्भिः । उपसेविताम्",
+    "anvaya": "पादाङ्गुष्ठाग्रभूमिस्थैः सूर्यसम्बद्धदृष्टिभिः परं ब्रह्म गृणद्भिः ब्रह्मर्षिभिः उपसेविताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The river was frequented by divine sages who stood on the tips of their big toes with their gaze fixed on the Sun, chanting hymns to the Supreme Brahman.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004430,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पादेति । पादसंबन्धिनोऽङ्गुष्ठस्याग्रेणैव । न समग्रपादेनेत्यर्थः । भूमिस्थैः पृथिव्यां स्थितौरित्यर्थः । तथा सूर्ये सम्बद्धदृष्टिभिरन्वितविलोचनैः । तथा परं ब्रह्म गृणद्भिर्जपद्भिर्ब्रह्मर्षिभिः सप्तर्षिभिरुपशैवितामुपाश्रिताम्"
+    }
+  ]
+}

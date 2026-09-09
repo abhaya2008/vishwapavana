@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004344,
+    "chapter_id": 6604,
+    "verse_number": "9.13",
+    "content_sanskrit": "प्रसन्नचेता मदनान्तकारः स तारकारेर्जयिनो भवाय । शक्रस्य सेनाधिपतेर्जयाय व्यचिन्तयच्चेतसि भावि किञ्चित् ॥",
+    "padaccheda": "प्रसन्नचेताः । मदनान्तकारः । सः । तारकारेः । जयिनो । भवाय । शक्रस्य । सेनाधिपतेः । जयाय । व्यचिन्तयत् । चेतसि । भावि । किञ्चित्",
+    "anvaya": "प्रसन्नचेताः सः मदनान्तकारः तारकारेः जयिनो भवाय शक्रस्य सेनाधिपतेः जयाय भावि किञ्चित् चेतसि व्यचिन्तयत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Śiva, the destroyer of Madana, being pleased in mind, contemplated in his heart a future course of action for the birth of the conqueror of Tārakāsura and for the victory of Indra's commander.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004344,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रसन्नेति । प्रसन्नचेताः स मदनान्तकारो हरो जयिनो जयशीलस्य तथा जयाय शत्रुपराजयार्थं शक्रस्य सेमाधिपतेस्तारकारेस्तारकशत्रोः अपत्यस्येत्यर्थः । भवाय जन्मने । तत्कर्तुमित्यर्थः । भावि भविष्यत्किंचिच्चेतसि ब्यचिन्तयत् विचचारेत्यर्थः"
+    }
+  ]
+}

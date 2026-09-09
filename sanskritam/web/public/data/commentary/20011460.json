@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011460,
+    "chapter_id": 6683,
+    "verse_number": "11.37",
+    "content_sanskrit": "नूनमत्रास्ति कृष्णश्च महान् यत्राऽयमुत्सवः । विशामस्तदिमां तूर्णं विष्टरश्रवसः पुरीम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011460,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विशाम इत्यपि वर्तमानसामीप्ये (पा.३|३|१३१) भविष्यति लट् ॥"
+    }
+  ]
+}

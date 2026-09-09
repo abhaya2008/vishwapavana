@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003937,
+    "chapter_id": 6599,
+    "verse_number": "4.19",
+    "content_sanskrit": "विबुधैरसि यस्य दारुणैरसमाप्ते परिकर्मणि स्मृतः । तमिमं कुरु दक्षिणेतरं चरणं निर्मितरागमेहि मे ॥",
+    "padaccheda": "विबुधैः । असि । यस्य । दारुणैः । असमाप्ते । परिकर्मणि । स्मृतः । तम् । इमम् । कुरु । दक्षिणेतरम् । चरणम् । निर्मितरागम् । एहि । मे",
+    "anvaya": "यस्य परिकर्मणि असमाप्ते सति दारुणैः विबुधैः स्मृतः असि, तम् इमम् मे दक्षिण-इतरम् चरणम् निर्मित-रागम् कुरु। एहि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"You were summoned by the cruel gods while my adornment was still incomplete. Come, and place this left foot of mine, whose lac-dye has been applied, on your head (as a sign of appeasement).\"",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003937,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विबुधैरिति । दारुणैः क्रूरैः । प्राणान्तिके कर्मणि नियोगादिति भावः । विबुधैर्देवैः । अनभिज्ञत्रत्वं च ध्वन्यते । यस्य मच्चरणस्य परिकर्मणि प्रसाधने । `परिकर्म प्रसाधनम्` इत्यमरः । आसमाप्ते सति स्मृतोऽसि । तमिमं दक्षिणेतरं वामं मे चरणं निर्मितरागं कुर्वेह्यागच्छ"
+    }
+  ]
+}

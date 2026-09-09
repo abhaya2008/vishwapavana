@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012017,
+    "chapter_id": 6688,
+    "verse_number": "16.24",
+    "content_sanskrit": "न मृष्यं मम तत्पार्थ यच्च तं भवतामरिम् । अग्रेसरमसाधूनां गदायां शिक्षयेद्बलः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012017,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यच्च यत् । तस्माद्वध्य एव दुर्योधन इति भावः । पूर्ववदमर्षे लिङ् । एवमपि कर्णसहायत्वादवध्यो दुर्योधन इत्यत्राह—"
+    }
+  ]
+}

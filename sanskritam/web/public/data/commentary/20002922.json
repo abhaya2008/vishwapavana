@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002922,
+    "chapter_id": 6586,
+    "verse_number": "10.35",
+    "content_sanskrit": "अथ वेलासमासन्नशैलरन्ध्रानुनादिना । स्वरेणोवाच भगवान् परिभूतार्णवध्वनिः ॥",
+    "padaccheda": "अथ । वेलासमासन्नशैलरन्ध्रानुनादिना । स्वरेण । उवाच । भगवान् । परिभूतार्णवध्वनिः",
+    "anvaya": "अथ भगवान् परिभूतार्णवध्वनिः वेलासमासन्नशैलरन्ध्रानुनादिना स्वरेण उवाच।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the Lord, whose voice surpassed the roar of the ocean, spoke with a tone that resounded through the caves of the mountains near the shore.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002922,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ वेलायामब्धिकूले समासन्नानां संनिकृष्टानां शैलानां रन्ध्रेषु गह्वरेष्वनुनादिना प्रतिध्वनिमता स्वरेण परिभूतार्णवध्वनिस्तिरस्कृतसमुद्रघोषो भगवानुवाच ॥"
+    }
+  ]
+}

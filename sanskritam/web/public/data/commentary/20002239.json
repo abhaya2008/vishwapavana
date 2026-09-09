@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002239,
+    "chapter_id": 6577,
+    "verse_number": "1.90",
+    "content_sanskrit": "वधूर्भक्तिमती चैनामर्चितामा तपोवनात् । प्रयता प्रातरन्वेतु सायं प्रत्युद्व्रजेदपि ॥",
+    "padaccheda": "भक्तिमती । वधूः । च । अर्चिताम् । एनाम् । प्रातः । तपोवनात् । आ । प्रयता । अन्वेतु । सायम् । प्रत्युद्व्रजेत् । अपि",
+    "anvaya": "भक्तिमती वधूः च अर्चिताम् एनाम् प्रातः आ तपोवनात् प्रयता अन्वेतु सायं प्रत्युद्व्रजेत् अपि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Let your devoted wife, having worshipped her, follow her with restraint to the edge of the forest in the morning and go out to welcome her back in the evening.",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002239,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वधूरिति॥ वधूर्जाया च भक्तिमती प्रयता सती गन्धादिभिरर्चितामेनां गां प्रातरा तपोवनात्। आङ् मर्यादायाम्। पदद्वयं चैतत्। अन्वेत्वनुगच्छतु। सायमपि प्रत्युद्व्रजेत् प्रत्युद्गच्छेत्। विध्यर्थे लिङ् ॥"
+    }
+  ]
+}

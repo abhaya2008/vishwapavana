@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014049,
+    "chapter_id": 6706,
+    "verse_number": "14.120",
+    "content_sanskrit": "आगच्छदात्माभिमुखं निरीक्ष्य सर्वे तदुत्तस्थुरुदारवीर्याः । ततेः पुमाकारमदृश्यतैत- न्महाप्रभामण्डल मध्यवर्ति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014049,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "एतज्ज्योतिः । उपजातिवृत्तम् ॥ १२० ॥"
+    }
+  ]
+}

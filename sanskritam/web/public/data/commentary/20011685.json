@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011685,
+    "chapter_id": 6685,
+    "verse_number": "13.21",
+    "content_sanskrit": "का ते रुगित्यपृच्छन्तां भद्राख्याऽथ प्रिया सखी । शिरोरोगो ज्वरश्चेति ह्रीता साऽदिशदुत्तरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011685,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपृच्छदिति । प्रच्छ ज्ञीप्सायाम् । तुदादिरुदात्तेत् । ग्रहिज्यादिना (पा.६|१|१६) सम्प्रसारणम् । अदिशदिति । दिश अतिसर्जने । तुदादिः । स्वरितेत् ॥"
+    }
+  ]
+}

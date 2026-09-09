@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005693,
+    "chapter_id": 6628,
+    "verse_number": "16.15",
+    "content_sanskrit": "धृतोत्पलापीड इव प्रियायाः शिरोरुहाणां शिथिलः कलापः । न बर्हभारः पतितस्य शङ्कोर्निषादिवक्षःस्थलमातनोति ॥",
+    "padaccheda": "धृतोत्पलापीडः । इव । प्रियायाः । शिरोरुहाणाम् । शिथिलः । कलापः । न । बर्हभारः । पतितस्य । शङ्कोः । निषादि । वक्षःस्थलम् । आतनोति",
+    "anvaya": "पतितस्य शङ्कोः बर्हभारः, प्रियायाः शिरोरुहाणां धृतोत्पलापीडः शिथिलः कलापः इव, निषादिवक्षःस्थलम् न आतनोति किम्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Does the heavy plume of a fallen peacock not cover the chest of its rider, like a loose tress of a beloved's hair holding a lotus garland? (This implies that it does, creating a poignant image amidst the violence).",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005693,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "धृतेति । पतितस्य वक्षसि मग्नस्य शङ्कोस्तोमरस्य संबन्धी । `वा पुंसि शल्यं शङ्कुर्नां सर्वला तोमरोऽस्त्रियाम्` इत्यमरः (अ.को.2|8|93) । बर्हभारस्तन्मूलबद्धो लाञ्छनपिच्छकलापो धृत उत्पलापीडः कुवलयशेखरो यस्मिन्स प्रियायाः संबन्धी शिथिलः स्रस्तः शिरोरुहाणां कलापः केशपाश इव निषादिनो हस्त्यारोहस्य वक्षःस्थलं नातनोतिन व्याप्नोति ॥"
+    }
+  ]
+}

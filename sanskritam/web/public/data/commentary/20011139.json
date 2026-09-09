@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011139,
+    "chapter_id": 6680,
+    "verse_number": "8.25",
+    "content_sanskrit": "सुवृत्तैरास्तिकैः कच्चिदमात्यैर्नास्तिकेततरः । राजा परिवृतो भाति कामैश्च परिचारकैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011139,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आस्तिकनास्तिकयोः ‘अस्ति नास्ति दिष्टं मतिः’ (पा.४|४|६०) इति ठक् । कामैः ‘कामंस्ताच्छील्ये’ इति निपातनात् अण्टिलोपौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005075,
+    "chapter_id": 6618,
+    "verse_number": "6.6",
+    "content_sanskrit": "प्रबभूव नालमवलोकयितुं परितः सरोजरजसारुणितम् । सरिदुत्तरीयमिव संहतिमत्स तरङ्गरङ्गि कलहंसकुलम् ॥",
+    "padaccheda": "प्रबभूव । न । अलम् । अवलोकयितुं । परितः । सरोजरजसा । अरुणितम् । सरिदुत्तरीयम् । इव । संहतिमत् । स । तरङ्गरङ्गि । कलहंसकुलम्",
+    "anvaya": "सः परितः सरोजरजसा अरुणितं तरङ्गरङ्गि संहतिमत् कलहंसकुलं सरिदुत्तरीयम् इव अवलोकयितुम् अलं न प्रबभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He was unable to gaze fully at the flock of swans, which, reddened all over by lotus pollen, moving amidst the waves, and forming a dense mass, looked like the upper garment of the river.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005075,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रवभूवेति ॥ सोऽर्जुनः परितः सरोजरजसा कमलरेणुनारुणितं पाटलितम् । उत्तरीयं च कुसुमादिनारुणितं भवति । संहतिमन्नीरन्ध्रं तरङ्गरङ्गि वारितरङ्गशोभि सरिदुत्तरीयं स्तनांशुकमिव स्थितं कलहंसकुलं कादम्बकुलमवलोकयितुमलमत्यर्थं न प्रबभूव न शशाक । तत्सौन्दर्योद्वेलत्वादिति भावः ।।"
+    }
+  ]
+}

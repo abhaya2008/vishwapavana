@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003573,
+    "chapter_id": 6593,
+    "verse_number": "17.46",
+    "content_sanskrit": "प्रसादाभिमुखे तस्मिंश्चपलापि स्वभावतः । निकषे हेमरेखेव श्रीरासीदनपायिनी ॥",
+    "padaccheda": "प्रसादाभिमुखे । तस्मिन् । चपला । अपि । स्वभावतः । निकषे । हेमरेखेव । श्रीः । आसीत् । अनपायिनी",
+    "anvaya": "स्वभावतः चपला अपि श्रीः, प्रसाद-अभिमुखे तस्मिन्, निकषे हेम-रेखा इव, अनपायिनी आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although fickle by nature, the royal fortune (Shri), when he was inclined to show favor, became permanent, like a streak of gold on a touchstone.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003573,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रसादेति॥ स्वभावतश्चपला चञ्चलापि श्रीः प्रसादाभिमुखे तस्मिन्नृपे। निकषे निकषोपले हेमरेखेव अनपायिनी स्थिराऽऽसीत् ॥"
+    }
+  ]
+}

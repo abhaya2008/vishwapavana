@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014062,
+    "chapter_id": 6706,
+    "verse_number": "14.133",
+    "content_sanskrit": "इत्थं यत्र प्रेरितोऽगस्त्यवाचा सेतुं रामो बन्धयामास वार्धौ । तुङ्गैः शृङ्गैर्वानरैस्तेन गत्वा तं हत्वाऽऽजौ जानकीमानिनाय ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 133,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014062,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तुङ्गैरुच्छ्रितैस्तेन सेतुना तं रावणमाजौ संग्रामे ॥ ३३ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014062,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "वानरैः सह"
+    }
+  ]
+}

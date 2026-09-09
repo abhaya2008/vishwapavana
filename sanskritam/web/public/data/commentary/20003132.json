@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003132,
+    "chapter_id": 6588,
+    "verse_number": "12.66",
+    "content_sanskrit": "श्रुत्वा रामः प्रियोदन्तं मेने तत्संगमोत्सुकः । महार्णवपरिक्षेपं लङ्कायाः परिखालघुम् ॥",
+    "padaccheda": "श्रुत्वा । रामः । प्रियोदन्तम् । मेने । तत्संगमोत्सुकः । महार्णवपरिक्षेपम् । लङ्कायाः । परिखालघुम्",
+    "anvaya": "प्रियोदन्तं श्रुत्वा तत्संगमोत्सुकः रामः लङ्कायाः महार्णवपरिक्षेपं परिखालघुम् मेने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Upon hearing news of his beloved and eager for union with her, Rama considered the vast ocean surrounding Lanka to be as insignificant as a small moat.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003132,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "श्रुत्वेति॥ प्रियाया उदन्तं वार्ताम्। `उदन्तः साधुवार्तयोः`इति विश्वः। श्रुत्वा तस्याः सीतायाः संगम उत्सुको रामो लङ्कायाः संबन्धी यो महार्णव एव परिक्षेपः परिवेषस्तं परिखालघुं दुर्गवेष्टनवत्सुतरं मेने ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002335,
+    "chapter_id": 6579,
+    "verse_number": "3.16",
+    "content_sanskrit": "जनाय शुद्धान्तचराय शंसते कुमारजन्मामृतसंमिताक्षरम् । अदेयमासीत्त्रयमेव भूपतेः शशिप्रभं छत्रमुभे च चामरे ॥",
+    "padaccheda": "जनाय । शुद्धान्तचराय । शंसते । कुमारजन्मामृतसंमिताक्षरम् । अदेयम् । आसीत् । त्रयम् । एव । भूपतेः । शशिप्रभं । छत्रम् । उभे । च । चामरे",
+    "anvaya": "कुमार-जन्म-अमृत-संमित-अक्षरं शंसते शुद्धान्त-चराय जनाय भूपतेः शशि-प्रभं छत्रम् उभे चामरे च इति त्रयम् एव अदेयम् आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "To the palace attendant who announced the news of the prince's birth in words as sweet as nectar, the only three things the king deemed ungivable were his moon-like white parasol and the two royal whisks. Everything else was given away in his joy.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002335,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जनायेति॥ भूपतेर्दिलीपस्यामृतसंमिताक्षरममृतसमानाक्षरम्। `सरूपसमसंमिताः` इत्याह दण्डी। कुमारजन्म पुत्रोत्पत्तिं शंसते कथयते शुद्धान्तचरायान्तःपुरचारिणे जनाय त्रयमेवादेयमासीत्। किं तत्? शशिप्रभमुज्ज्वलं छत्रम्। उभे चामरे च, छत्रादीनां राज्ञः प्रधानाङ्गत्वादिति भावः ॥"
+    }
+  ]
+}

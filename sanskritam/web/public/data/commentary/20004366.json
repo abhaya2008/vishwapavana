@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004366,
+    "chapter_id": 6604,
+    "verse_number": "9.35",
+    "content_sanskrit": "क्रमान्महेन्द्रप्रमुखाः प्रणेमुः शिरोनिबद्धाञ्जलयो महेशम् । प्रालेयशैलाधिपतेस्तनूजां देवीं च लोकत्रयमातरं ते ॥",
+    "padaccheda": "क्रमात् । महेन्द्रप्रमुखाः । प्रणेमुः । शिरोनिबद्धाञ्जलयः । महेशम् । प्रालेयशैलाधिपतेः । तनूजाम् । देवीम् । च । लोकत्रयमातरम् । ते",
+    "anvaya": "क्रमात् महेन्द्रप्रमुखाः ते शिरोनिबद्धाञ्जलयः महेशम् प्रालेयशैलाधिपतेः तनूजां लोकत्रयमातरं देवीम् च प्रणेमुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "One by one, the gods headed by Indra bowed down with their hands folded over their heads. They paid their respects to Lord Śiva and to the Goddess Pārvatī, the daughter of the King of the Himalayas and the mother of the three worlds.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004366,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "क्रमादिति । महेन्द्रप्रमुखास्ते देवाः शिरःसु निबद्धा अञ्जलयो यैस्तथोक्ताः सन्तो महेशं हरम् । तथा प्रालेयो हिमानोरुपो यः शैलाधिपतिः पर्वतराजो हिमालयस्तस्य तनूजां कन्यां लोकत्रयस्य मातरं जननीं देवीं पार्वतीं च क्रमात्प्रणेमुः । नमश्चक्रुरित्यर्थः । नमश्चक्रुरित्यर्थः । `उपसर्गादसमासेऽपि' इति णत्वम्"
+    }
+  ]
+}

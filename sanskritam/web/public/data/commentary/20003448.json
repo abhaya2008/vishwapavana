@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003448,
+    "chapter_id": 6592,
+    "verse_number": "16.9",
+    "content_sanskrit": "तमब्रवीत्सा गुरुणानवद्या या नीतपौरा स्वपदोन्मुखेन । तस्याः पुरः संप्रति वीतनाथां जानीहि राजन्निधिदेवतां माम् ॥",
+    "padaccheda": "तम् । अब्रवीत् । सा । गुरुणा । अनवद्या । या । नीतपौरा । स्वपदोन्मुखेन । तस्याः । पुरः । सम्प्रति । वीतनाथाम् । जानीहि । राजन् । अधिदेवताम् । माम्",
+    "anvaya": "सा तम् अब्रवीत् - राजन्! या अनवद्या (पुरी) स्वपदोन्मुखेन गुरुणा नीतपौरा (आसीत्), तस्याः पुरः सम्प्रति वीतनाथां अधिदेवतां मां जानीहि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "She replied to him: \"O King, know me to be the presiding deity of that faultless city, Ayodhya, now without a lord, as its citizens were led away by your great ancestor when he departed for his celestial abode.\"",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003448,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ सा वनिता तं कुशमब्रवीत्। अनवद्याऽदोषा या पूःस्वपदोन्मुखेन विष्णुपदोन्मुखेन गुरुणा त्वत्पित्रा नीतपौरा हे राजन्! मां संप्रति वीतनाथामनाथां तस्याः पुरो नगर्या अयोध्याया अधिदेवतां जानीहि ॥"
+    }
+  ]
+}

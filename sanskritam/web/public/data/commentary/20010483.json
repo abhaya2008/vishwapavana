@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010483,
+    "chapter_id": 6674,
+    "verse_number": "2.63",
+    "content_sanskrit": "वैकक्षक्यकारुणमणिच्छाया तस्योरसि व्यधात् । गाढाश्लेषमिलल्लक्ष्मीकुचकुङ्कुमसंशयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010483,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तिरश्चीनं विशिष्टमुरोभूषणं वैकक्षक्यम् ॥"
+    }
+  ]
+}

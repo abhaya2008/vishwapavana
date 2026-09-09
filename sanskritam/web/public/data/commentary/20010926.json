@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010926,
+    "chapter_id": 6678,
+    "verse_number": "6.47",
+    "content_sanskrit": "आशङ्कमानो होमेन हर्षयित्वा हुताशनम् । स तां पार्श्वगतां नम्रां पप्रच्छेति स्मितोत्तरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010926,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "किमिदमापतितमित्याशङ्कमानो धीरतया कृत्यनिष्ठया च होमेन हुताशनं हर्षयित्वा स तां पार्श्वगतां नम्रां विनीततया च पप्रच्छ इति स्मितप्रधानम् ॥"
+    }
+  ]
+}

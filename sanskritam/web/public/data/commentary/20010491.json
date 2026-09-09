@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010491,
+    "chapter_id": 6674,
+    "verse_number": "2.71",
+    "content_sanskrit": "अङ्गैरेव प्रशस्ताङ्गैः पुपुषे राजवर्चसम् । भूतिव्याकरणं तस्य भूषणानि तु केवलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010491,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "राज्ञो वर्चस्तेजो राजवर्चसम् । 'ब्रह्महस्तिभ्यां वर्चसः' (पा.५|४|७८) इत्यत्र 'पल्यराजभ्यां चेति वक्तव्यं' इत्यच् समासान्तः ॥"
+    }
+  ]
+}

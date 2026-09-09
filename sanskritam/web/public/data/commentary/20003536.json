@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003536,
+    "chapter_id": 6593,
+    "verse_number": "17.9",
+    "content_sanskrit": "ते तस्य कल्पयामासुरभिषेकाय शिल्पिभिः । विमानं नवमुद्वेदि चतुःस्तम्भप्रतिष्ठितम् ॥",
+    "padaccheda": "ते । तस्य । कल्पयामासुः । अभिषेकाय । शिल्पिभिः । विमानम् । नवम् । उद्वेदि । चतुःस्तम्भप्रतिष्ठितम्",
+    "anvaya": "ते शिल्पिभिः तस्य अभिषेकाय उद्वेदि चतुः-स्तम्भ-प्रतिष्ठितम् नवम् विमानम् कल्पयामासुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For his coronation, they (the ministers) had artisans construct a new pavilion, which had a raised altar and was established on four pillars.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003536,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति॥ ते मन्त्रिणस्तस्यातिथेरभिषेकाय शिल्पिभिरुद्वेदि उन्नतवेदिकं चतुःस्तम्भप्रतिष्ठितं चतुर्षु स्तम्भेषु प्रतिष्ठितं नवं विमानं मण्डपं कल्पयामासुः कारयामासुः ॥"
+    }
+  ]
+}

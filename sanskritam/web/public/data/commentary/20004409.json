@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004409,
+    "chapter_id": 6605,
+    "verse_number": "10.26",
+    "content_sanskrit": "शम्भोरम्भोमयी मूर्तिः सैव देवी सुरापगा । त्वत्तः स्मरद्विषो बीजं दुर्धरं धारयिष्यति ॥",
+    "padaccheda": "शम्भोः । अम्भोमयी । मूर्तिः । सा । एव । देवी । सुरापगा । त्वत्तः । स्मरद्विषः । बीजम् । दुर्धरम् । धारयिष्यति",
+    "anvaya": "शम्भोः अम्भोमयी मूर्तिः सा देवी सुरापगा एव त्वत्तः स्मरद्विषः दुर्धरम् बीजम् धारयिष्यति",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Goddess Gaṅgā is herself the watery manifestation of Lord Śiva. Therefore, she will be able to receive and bear that unbearable seed of the enemy of Smara (Śiva) from you.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004409,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शंभोरिति । भो अग्ने ! शंभोरम्भोमयी जलमयी मूर्तेर्देवी सा सुरापगैव गङ्गैव दुर्धरं स्मरद्विषो हरस्य बीजं तेजस्त्वत आदाय धारयिष्यति । धरिष्यतीत्यर्थः । `शुक्रं तेजोरेतसी च बीजवीर्येन्द्रयाणि च' । इत्यमरः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003353,
+    "chapter_id": 6591,
+    "verse_number": "15.17",
+    "content_sanskrit": "अपशूलं तमासाद्य लवणं लक्ष्मणानुजः । रुरोध संमुखीनो हि जयो रन्ध्रप्रहारिणाम् ॥",
+    "padaccheda": "अपशूलं । तम् । आसाद्य । लवणं । लक्ष्मणानुजः । रुरोध । संमुखीनो । हि । जयो । रन्ध्रप्रहारिणाम्",
+    "anvaya": "लक्ष्मण-अनुजः अप-शूलम् तम् लवणम् आसाद्य रुरोध । हि रन्ध्र-प्रहारिणाम् जयः सम्मुखीनः (भवति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Lakshmana's younger brother, Shatrughna, approached and confronted Lavana, who was without his trident. Indeed, victory favors those who strike at a moment of weakness.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003353,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अपशूलमिति॥ लक्ष्मणानुजः शत्रुघ्नोऽपशूलं शूलरहितं तं लवणमासाद्य रुरोध। तथा हि-रन्ध्रप्रहारिणां रन्ध्रप्रहरणशीलानाम्। अपशूलतैवात्र रन्धअरम्। जयः संमुखीनो हि संमुखस्य दर्शनो हि। `यथामुखसंमुखस्य दर्शनः खः` (पा.5।2।6) इति खप्रत्ययः। अधिकारलक्षणार्थस्तु दुर्लभ एव ॥"
+    }
+  ]
+}

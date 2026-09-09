@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010928,
+    "chapter_id": 6678,
+    "verse_number": "6.49",
+    "content_sanskrit": "इत्युक्ता सा बभाषे तमस्त्यैरावतवंशजः । कौरव्यो नाम नागेन्द्रस्तस्यापत्यमुलूप्यहम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010928,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "द्वौ प्रश्नौ । कात्वमित्यस्योत्तरं उलूप्यहमिति । उलूपी नामाहमित्यर्थः ॥"
+    }
+  ]
+}

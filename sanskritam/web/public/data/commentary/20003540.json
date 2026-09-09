@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003540,
+    "chapter_id": 6593,
+    "verse_number": "17.13",
+    "content_sanskrit": "पुरोहितपुरोगास्तं जिष्णुं जैत्रैरथर्वभिः । उपचक्रमिरे पूर्वमभिषेक्तुं द्विजातयः ॥",
+    "padaccheda": "पुरोहितपुरोगाः । तम् । जिष्णुम् । जैत्रैः । अथर्वभिः । उपचक्रमिरे । पूर्वम् । अभिषेक्तुम् । द्विजातयः",
+    "anvaya": "पुरोहित-पुरोगाः द्विजातयः पूर्वम् जिष्णुम् तम् जैत्रैः अथर्वभिः अभिषेक्तुम् उपचक्रमिरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "First, the Brahmins, led by the chief priest, began to consecrate the victorious one (Sudarshana) with victorious hymns from the Atharvaveda.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003540,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पुरोहितेति॥ पुरोहितपुरोगाः पुरोहितप्रमुखा द्विजातयो ब्राह्मणा जिष्णुं जयशीलं तमतिथिं जैत्रैर्जयशीलरथर्वभिर्मन्त्रविशेषैः करणैः पूर्वमभिषेक्तुमुपचक्रमिरे ॥"
+    }
+  ]
+}

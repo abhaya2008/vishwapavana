@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011430,
+    "chapter_id": 6683,
+    "verse_number": "11.7",
+    "content_sanskrit": "विभृतफेननिर्मोकान् कवलीकृतसन्मणीन् । कलयन्तं महाकालं कल्लोलानुरगानिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011430,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्र रूपकोपमाश्लेपसंसृष्टिः एवं प्रायेण संसृष्ट्यलङ्कारो द्रष्टव्यः । महाकालमतिमेचकं महाकालं भूतनाथमिव ॥"
+    }
+  ]
+}

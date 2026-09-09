@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002910,
+    "chapter_id": 6586,
+    "verse_number": "10.23",
+    "content_sanskrit": "अभ्यासनिगृहीतेन मनसा हृदयाश्रयम् । ज्योतिर्मयं विचिन्वन्ति योगिनस्त्वां विमुक्तये ॥",
+    "padaccheda": "अभ्यासनिगृहीतेन । मनसा । हृदयाश्रयम् । ज्योतिर्मयम् । विचिन्वन्ति । योगिनः । त्वाम् । विमुक्तये",
+    "anvaya": "योगिनः विमुक्तये अभ्यासनिगृहीतेन मनसा हृदयाश्रयम् ज्योतिर्मयम् त्वाम् विचिन्वन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Yogis, for the sake of liberation, seek You—the one who is luminous and resides in the heart—with a mind controlled through constant practice.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002910,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अभ्यासेति॥ अभ्यासेन निगृहीतं विषयान्तरेभ्यो निवर्तितम्। तेन मनसा योगिनो हृदयाश्रयं हृत्पद्मस्थं ज्योतिर्मयं त्वां विमुक्तये मोक्षार्थविचिन्वन्त्यन्विष्यन्ति। ध्यायन्तीत्यर्थः ॥"
+    }
+  ]
+}

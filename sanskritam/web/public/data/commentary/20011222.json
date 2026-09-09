@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011222,
+    "chapter_id": 6680,
+    "verse_number": "8.108",
+    "content_sanskrit": "इत्युक्तानुमतास्ताभिर्विहिताञ्जलिभिर्गिरा । ययौ नृपालयं जिष्णुः कटाक्षैरपि कान्तया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011222,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विहिताञ्जलिभिरिति । ययाचेत्यर्थः । 'कटाक्षैरपि कान्तया' इति अनुमत इत्येव ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011300,
+    "chapter_id": 6681,
+    "verse_number": "9.52",
+    "content_sanskrit": "केशजाग्रहोत्तानमुखीनामभिकैः पपे । कामेषृज्ज्वरभैषज्यं कान्तानामधरामृतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011300,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भैषज्यावसथ्यशब्दौ 'अनन्तावसथेतिहभेषजाञ्ञ्यः' (पा.५|४|२३) इति ञ्यन्तौ ॥"
+    }
+  ]
+}

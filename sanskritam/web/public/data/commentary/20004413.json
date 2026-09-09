@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004413,
+    "chapter_id": 6605,
+    "verse_number": "10.30",
+    "content_sanskrit": "महेश्वरजटाजूटवासिनी, पापनाशिनी । सरागान्वयनिर्वाणकारिणी, धर्मधारिणी ॥",
+    "padaccheda": "महेश्वरजटाजूटवासिनी । पापनाशिनी । सरागान्वयनिर्वाणकारिणी । धर्मधारिणी",
+    "anvaya": "महेश्वरजटाजूटवासिनी पापनाशिनी सरागान्वयनिर्वाणकारिणी धर्मधारिणी",
+    "meaning_sanskrit": "",
+    "meaning_english": "Dwelling in the matted locks of Lord Śiva, she is the destroyer of sins. She grants liberation even to those bound by worldly attachments and serves as the eternal upholder of Dharma.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004413,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "महेश्वरेति । पुनश्च महेश्वरस्य जटाजूटे वासिनी वासवती । पुनश्च पापनाशिनी । अत्रापि तारिणीवत्प्रत्ययव्यवस्था । पुनश्च सरागस्य विषयलिप्सोरन्वयस्य वंशस्यापि निर्वाणकारिणी ।किं पुनर्विमुक्तानामित्यर्थः । धर्मं धारयतीति धर्मधारिणी । आत्मसम्बन्धेन जन्तून् धर्मवतः कुर्वन्तीत्यर्थः"
+    }
+  ]
+}

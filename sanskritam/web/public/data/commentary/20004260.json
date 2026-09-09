@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004260,
+    "chapter_id": 6603,
+    "verse_number": "8.20",
+    "content_sanskrit": "एवमिन्द्रियसुखस्य वर्त्मनः सेवनादनुगृहीतमन्मथः । शैलराजभवने सहोमया मासमात्रमवसद्वृषध्वजः ॥",
+    "padaccheda": "एवम् । इन्द्रियसुखस्य । वर्त्मनः । सेवनात् । अनुगृहीतमन्मथः । शैलराजभवने । सह । उमया । मासमात्रम् । अवसत् । वृषध्वजः",
+    "anvaya": "एवम् इन्द्रियसुखस्य वर्त्मनः सेवनात् अनुगृहीतमन्मथः वृषध्वजः उमया सह शैलराजभवने मासमात्रम् अवसत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus, by following the path of sensual pleasure, Vrishadhvaja (Shiva), having favored Manmatha (the god of love), lived with Uma in the palace of the mountain king for a full month.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004260,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति । वृषध्वजो हर एवमुक्तरीत्येन्द्रियाणां सुखस्यानुकूलस्य वर्त्मनो मार्गस्य स्त्रीप्रसङ्गस्येत्यर्थः । सेवनात्परिभोगादनुगृहीतमन्मथः पुनरुज्जीवितमदनः सन् । उमया सह शैलराजभवने हिमवद्गेहे मासमात्रमवसत् । अत्यन्तसंयोगे द्वितीया । मासमात्रमिति वधूवशीकरणकालक्लृप्तिः प्रदर्शिता"
+    }
+  ]
+}

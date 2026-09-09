@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010607,
+    "chapter_id": 6675,
+    "verse_number": "3.49",
+    "content_sanskrit": "कचिल्लिपिकरैर्युक्तं कचिन्नन्दीकरैर्नटैः । कचिद्बलिकरैर्यैच्च कचित् क्षेत्लकरैर्नरैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010607,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्वचिल्लिपिकरैः लेखकैः नान्दीकरैर्नटैः । बलिः पुष्पोपहारः । क्षेत्रं केदारः । पूर्ववत् टः ॥"
+    }
+  ]
+}

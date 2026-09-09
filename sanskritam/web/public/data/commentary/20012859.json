@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012859,
+    "chapter_id": 6696,
+    "verse_number": "4.30",
+    "content_sanskrit": "अथ चक्रभृतो वधूमये सुकृतेन्तर्धिमुपागते सति । प्रशशंसुरतीव शंकरं महिमानं तमवेक्ष्य विस्मिताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012859,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथ चक्रधरस्य विष्णोर्वधूमये पुण्येऽन्तर्धानं गते सति तथाभूतं महिमानमवेक्ष्य विस्मयं प्राप्ता जनाः श्रीशंकरमत्यन्तं प्रशशंसुः ॥ ३१ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002905,
+    "chapter_id": 6586,
+    "verse_number": "10.18",
+    "content_sanskrit": "अमेयो मितलोकस्त्वमनर्थी प्रार्थनावहः । अजितो जिष्णुरत्यन्तमव्यक्तो व्यक्तकारणम् ॥",
+    "padaccheda": "अमेयः । मितलोकः । त्वम् । अनर्थी । प्रार्थनावहः । अजितः । जिष्णुः । अत्यन्तम् । अव्यक्तः । व्यक्तकारणम्",
+    "anvaya": "त्वम् अमेयः (अपि) मित-लोकः, अनर्थी (अपि) प्रार्थना-वहः, अजितः (अपि) जिष्णुः, अत्यन्तम् अव्यक्तः (अपि) व्यक्त-कारणम् (असि) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You are immeasurable, yet you have measured the worlds. You have no desires, yet you fulfill prayers. You are unconquered, yet you are ever victorious. You are utterly unmanifest, yet you are the cause of the manifest world.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002905,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमेय इति॥ हे देव! त्वममेयो लोकैरियत्तया न परिच्छेद्यः। मितलोकः परिच्छिन्नलोकः। अनर्थी निःस्पृहः। आवहतीत्यावहः। पचाद्यच्। प्रार्थनानामावहः कामदः। अजितोऽन्यैर्न जितः। जिष्णुर्जयशीलः। अत्यन्तमव्यक्तोऽतिसूक्ष्मरूपः। व्यक्तस्य स्थूलरूपस्य कारणम् ॥"
+    }
+  ]
+}

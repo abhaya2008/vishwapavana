@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003221,
+    "chapter_id": 6589,
+    "verse_number": "13.51",
+    "content_sanskrit": "अत्राभिषेकाय तपोधनानां सप्तर्षिहस्तोद्धृतहेमपद्माम् । प्रवर्तयामास किलानसूया त्रिस्रोतसं त्र्यम्बकमौलिमालाम् ॥",
+    "padaccheda": "अत्र । अभिषेकाय । तपोधनानाम् । सप्तर्षिहस्तोद्धृतहेमपद्माम् । प्रवर्तयामास । किल । अनसूया । त्रिस्रोतसम् । त्र्यम्बकमौलिमालाम्",
+    "anvaya": "अत्र किल अनसूया तपोधनानाम् अभिषेकाय, सप्तर्षिहस्तोद्धृतहेमपद्मां त्र्यम्बकमौलिमालां त्रिस्रोतसं प्रवर्तयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It is said that here, for the ritual bathing of the ascetics, Anasuya (wife of Atri) caused the three-streamed Ganga—the very garland from Shiva's head, from which the Seven Sages plucked golden lotuses—to flow.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003221,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अत्रेति॥ अत्र वनेऽनसूयाऽत्रिपत्नी। सप्त च ते ऋषयश्च सप्तर्षयः। `दिक्संखअये संज्ञायाम्` (पा.2।1।50) इति तत्पुरुषसमासः। तेषां हस्तौरुद्धृतानि हेमपद्मानि यस्यास्तां त्र्यम्बकमौलिमालां हरशिरःस्रजं त्रिस्रोतप्तं भागीरथीं तपोधनानामृषीणामभिषेकाय स्नानाय प्रवर्तयामास प्रवाहयामास। किलेत्यैतिह्ये ॥"
+    }
+  ]
+}

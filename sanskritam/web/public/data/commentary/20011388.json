@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011388,
+    "chapter_id": 6682,
+    "verse_number": "10.32",
+    "content_sanskrit": "राजवृन्दारकः कच्चिन्नृपनागैरुपास्यते । किंराजभिश्च नमितैः प्रतापेन युधिष्ठिरः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011388,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "किंराजभिश्चेति । 'किं क्षेपे' (पा.२|१|६४) इति समासः । 'राजाहस्सखिभ्यष्टच्' (पा.५|४|९१) इति प्राप्तस्य टचः 'किमः क्षेपे' (पा.५|४|७०) इति निषेधः ॥"
+    }
+  ]
+}

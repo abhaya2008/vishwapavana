@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002771,
+    "chapter_id": 6584,
+    "verse_number": "8.61",
+    "content_sanskrit": "मिथुनं परिकल्पितं त्वया सहकारः फलिनी च नन्विमौ । अविधाय विवाहसत्क्रियामनयोर्गम्यत इत्यसांप्रतम् ॥",
+    "padaccheda": "मिथुनम् । परिकल्पितम् । त्वया । सहकारः । फलिनी । च । ननु । इमौ । अविधाय । विवाहसत्क्रियाम् । अनयोः । गम्यते । इति । असाम्प्रतम्",
+    "anvaya": "ननु त्वया इमौ सहकारः फलिनी च मिथुनम् परिकल्पितम् । अनयोः विवाहसत्क्रियाम् अविधाय गम्यते इति असाम्प्रतम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Aja says: \"Indeed, you imagined this mango tree and this Priyangu creeper as a couple. It is improper that you are leaving without performing their wedding ceremony.\"",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002771,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मिथुनमिति॥ ननु हे प्रिये! सहकारस्तरुविशेषः फलिनी प्रियंगुलता चेमौ त्वया मिथुनं परिकल्पितं मिथुनत्वेनाभ्यमानि। अनयोः फलिनी-सहकारयोर्विवाहसत्क्रियां विवाहमङ्गलमविधायाकृत्वा गम्यत इत्यसांप्रतमुक्तम्। मातृहीनानां न किंचित्सुखमस्तीति भावः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003423,
+    "chapter_id": 6591,
+    "verse_number": "15.87",
+    "content_sanskrit": "युधाजितश्च संदेशात्स देशं सिन्धुनामकम् । ददौ दत्तप्रभावाय भरताय भृतप्रजः ॥",
+    "padaccheda": "युधाजितः । च । संदेशात् । सः । देशम् । सिन्धुनामकम् । ददौ । दत्तप्रभावाय । भरताय । भृतप्रजः",
+    "anvaya": "भृतप्रजः सः युधाजितः संदेशात् च दत्तप्रभावाय भरताय सिन्धुनामकम् देशम् ददौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Rama), the protector of his subjects, also, at the message from Yudhajit, gave the country named Sindhu to Bharata, whose power had been proven.",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003423,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "युधाजित इति॥ किंच, भृतप्रजः स रामो युधाजितो भरतमातुलस्य संदेशात्सिन्धुनामकं देशं दत्तप्रभावाय दत्तैश्वर्याय। रामेणेति शेषः। भरताय ददौ ॥"
+    }
+  ]
+}

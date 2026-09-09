@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003714,
+    "chapter_id": 6595,
+    "verse_number": "19.53",
+    "content_sanskrit": "स त्वनेकवनितासखोऽपि सन्पावनीमनवलोक्य संततिम् । वैद्ययत्नपरिभाविनं गदं न प्रदीप इव वायुमत्यगात् ॥",
+    "padaccheda": "सः । तु । अनेकवनितासखः । अपि । सन् । पावनीम् । अनवलोक्य । संततिम् । वैद्ययत्नपरिभाविनम् । गदम् । न । प्रदीपः । इव । वायुम् । अत्यगात्",
+    "anvaya": "तु अनेक-वनिता-सखः अपि सः पावनीम् संततिम् अनवलोक्य, वैद्य-यत्न-परिभाविनम् गदम्, वायुम् प्रदीपः इव, न अत्यगात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "But he, though a companion to many women, died without seeing a purifying offspring, unable to overcome the disease that defied the efforts of physicians, just as a lamp cannot overcome the wind.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003714,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स त्वग्निवर्णोऽनेकवनितासखः सन्नपि। पावनीं पितॄणमोचनीं संततिमनवलोक्य। पुत्रमनवाप्येत्यर्थः। वैद्ययत्नपरिभाविनं गदं रोगम्। प्रदीपो वायुविव। नात्यगान्नातिचक्राम। ममारेत्यर्थः ॥"
+    }
+  ]
+}

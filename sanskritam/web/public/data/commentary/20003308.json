@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003308,
+    "chapter_id": 6590,
+    "verse_number": "14.59",
+    "content_sanskrit": "सीता तमुत्थाप्य जगाद वाक्यं प्रीतास्मि ते सौम्य! चिराय जीव । बिडौजसा विष्णुरिवाग्रजेन भ्रात्रा यदित्थं परवानसि त्वम् ॥",
+    "padaccheda": "सीता । तम् । उत्थाप्य । जगाद । वाक्यं । प्रीता । अस्मि । ते । सौम्य । चिराय । जीव । बिडौजसा । विष्णुः । इव । अग्रजेन । भ्रात्रा । यत् । इत्थं । परवान् । असि । त्वम्",
+    "anvaya": "सौम्य! सीता तम् उत्थाप्य वाक्यम् जगाद - 'ते प्रीता अस्मि। चिराय जीव। यत् त्वम् बिडौजसा विष्णुः इव अग्रजेन भ्रात्रा इत्थम् परवान् असि'।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Raising him up, Sita spoke, \"O gentle one, I am pleased with you. Live long! For you are thus subservient to your elder brother, just as Vishnu is to his elder brother, Indra (in his Vamana incarnation).\"",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003308,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सीतेति॥ सीता तं लक्ष्मणमुत्थाप्य वाक्यं जगाद। किमिति? हे सौम्य साधो! ते प्रीतास्मि। चिराय चिरं जीव। यद्यस्मात्। बिडौजसेन्द्रेण विष्णुरुपेन्द्र इव। अग्रजेन ज्येष्ठेन भ्रात्रा त्वमित्थं परवान् परतन्त्रोऽसि ॥"
+    }
+  ]
+}

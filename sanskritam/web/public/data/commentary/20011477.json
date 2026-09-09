@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011477,
+    "chapter_id": 6683,
+    "verse_number": "11.54",
+    "content_sanskrit": "वयसा किञ्चिदप्यूनं दृष्ट्वा स्वगृहमागतम् । सौहार्देन गरीयांसं पार्थं प्रत्युत्थितो हरिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011477,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वयसा किञ्चिदप्यूनमिति छलालङ्कारः । प्रेयो वा गरीयश्शब्दस्य निमित्तयोरभेदाश्रयणात् ॥"
+    }
+  ]
+}

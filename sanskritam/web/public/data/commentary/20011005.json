@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011005,
+    "chapter_id": 6679,
+    "verse_number": "7.15",
+    "content_sanskrit": "बार्हस्पत्यं भरद्वाजं भरद्वाजैस्तथा सह । वसिष्ठैस्सह कुंभोत्थं वसिष्ठञ्च महामुनिम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011005,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "बार्हस्पत्यमिति पत्युत्तरपदान्ण्यः (पा.४|१|८५) । भरद्वाजैरिति पूर्ववदञो लुक् । वसिष्ठादृष्यणोऽ त्रिभृग्वादिना (पा.२|४|६५) बहुषु लुक् ॥"
+    }
+  ]
+}

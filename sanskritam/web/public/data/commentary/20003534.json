@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003534,
+    "chapter_id": 6593,
+    "verse_number": "17.7",
+    "content_sanskrit": "तयोर्दिवस्पतेरासीदेकः सिंहासनार्धभाक् । द्वितीयापि सखी शच्याः पारिजातांशभागिनी ॥",
+    "padaccheda": "तयोः । दिवस्पतेः । आसीत् । एकः । सिंहासनार्धभाक् । द्वितीया । अपि । सखी । शच्याः । पारिजातांशभागिनी",
+    "anvaya": "तयोः एकः दिवः-पतेः सिंहासन-अर्ध-भाक् आसीत्। द्वितीया अपि शच्याः सखी पारिजात-अंश-भागिनी आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Of those two, one (Atithi) became a sharer of half of Indra's throne. The second (Kumudvati) also became a friend of Shachi and a sharer of the Parijata flowers.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003534,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तयोरिति॥ थयोः कुश-कुमुद्वत्योर्मध्य एकः कुशो दिवस्पतेरिन्द्रस्य सिंहासनार्धं सिंहासनैकदेशः, तद्भाक्। आसीत्। द्वितीया कुमुद्वत्यपि शच्या इन्द्राण्याः पारिजातांशस्य भागिनी ग्राहिणी। `संपृच्-` इत्यादिना भजेर्घिनुण्प्रत्ययः। सख्यासीत्। कस्कादित्वाद्दिवस्पतिः साधुः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010958,
+    "chapter_id": 6678,
+    "verse_number": "6.79",
+    "content_sanskrit": "बाहू शिरोधितःकृत्य कृत्योरस्तः स्तनावपि । त्वामालिङ्गितुमिच्छामि मुखतोभावमास्स्व मे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010958,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'स्वाङ्गे तस्प्रत्यये कृञ्वोः' (पा.३|४|६१) इति कृञःक्त्वाणमुलौ ॥"
+    }
+  ]
+}

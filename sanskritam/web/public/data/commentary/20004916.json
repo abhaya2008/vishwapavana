@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004916,
+    "chapter_id": 6614,
+    "verse_number": "2.56",
+    "content_sanskrit": "सहसोपगतः सविस्मयं तपसां सूतिरसूतिरेनसाम् । ददृशे जगतीभुजा मुनिः स वपुष्मानिव पुण्यसंचयः ॥",
+    "padaccheda": "सहसा । उपगतः । सविस्मयम् । तपसाम् । सूतिः । असूतिः । एनसाम् । ददृशे । जगतीभुजा । मुनिः । सः । वपुष्मान् । इव । पुण्यसंचयः",
+    "anvaya": "सहसा उपगतः, तपसां सूतिः, एनसाम् असूतिः, वपुष्मान् पुण्यसंचयः इव सः मुनिः जगतीभुजा सविस्मयम् ददृशे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Suddenly, the king (Yudhishthira) saw with astonishment that sage who had approached. The sage, a source of austerities and an ender of sins, appeared like an embodied accumulation of merit.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004916,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "सहसेति ॥ पुनः सहसोपगतोऽकस्मादागतस्तपसां सूतिः प्रभव आपदामसूतिरप्रभवः । निवर्तक इति यावत् । स मुनिर्व्यासो वपुष्मान्देहधारी पुण्यसंचयः पुण्यराशिरिवेत्युत्प्रेक्षा । जगतीभुजा राज्ञा सविस्मयं ददृशे दृष्टः ।।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003315,
+    "chapter_id": 6590,
+    "verse_number": "14.66",
+    "content_sanskrit": "साहं तपः सूर्यनिविष्टदृषअटिरूर्ध्वं प्रसूतेश्चरितुं यतिष्ये । भूयो यथा मे जजान्तरेऽपि त्वमेव भर्ता न च विप्रयोगः ॥",
+    "padaccheda": "सा । अहम् । तपः । सूर्यनिविष्टदृष्टिः । ऊर्ध्वम् । प्रसूतेः । चरितुम् । यतिष्ये । भूयः । यथा । मे । जन्मान्तरे । अपि । त्वम् । एव । भर्ता । न । च । विप्रयोगः",
+    "anvaya": "सा अहम् प्रसूतेः ऊर्ध्वम् सूर्यनिविष्टदृष्टिः (सती) तपः चरितुम् यतिष्ये, यथा मे जन्मान्तरे अपि भूयः त्वम् एव भर्ता (स्याः), च विप्रयोगः न (स्यात्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"I, Sita, will strive to perform austerities after childbirth, with my gaze fixed on the sun, so that in my next life, you alone will be my husband again, and there will be no separation between us.\"",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003315,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ साऽहं प्रसूतेरूर्घ्वं सूर्यनिविष्टदृष्टिः सती तथाविधं तपश्चरितुं यतिष्ये। यथा भूयस्तेन तपसा मे मम जननान्तरेऽपि त्वमेव भर्ता स्याः, विप्रयोगश्च न स्यात् ॥"
+    }
+  ]
+}

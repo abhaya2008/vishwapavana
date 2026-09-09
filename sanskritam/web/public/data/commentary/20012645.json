@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012645,
+    "chapter_id": 6693,
+    "verse_number": "1.90",
+    "content_sanskrit": "सत्यमेव महाराज ब्राह्मणा यद्वभाषिरे । मा कृथाः संशयं तत्र भव सत्यप्रतिश्रवः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012645,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "हे महाराज ब्राह्मणा यदुक्तवन्तस्तत्सत्यमेव तत्र तदुक्ते संशयं मा कुरु सत्यप्र- तिश्रवः सत्यप्रतिज्ञो भव ॥ ९० ॥"
+    }
+  ]
+}

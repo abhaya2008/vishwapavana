@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004402,
+    "chapter_id": 6605,
+    "verse_number": "10.19",
+    "content_sanskrit": "हवींषि मन्त्रपूतानि हुताश ! त्वयि जुह्वतः । तपस्विनस्तपःसिद्धिं यान्ति, त्वं तपसां प्रभुः ॥",
+    "padaccheda": "हवींषि । मन्त्रपूतानि । हुताश । त्वयि । जुह्वतः । तपस्विनः । तपःसिद्धिम् । यान्ति । त्वम् । तपसाम् । प्रभुः",
+    "anvaya": "हुताश ! त्वयि मन्त्रपूतानि हवींषि जुह्वतः तपस्विनः तपःसिद्धिं यान्ति त्वं तपसां प्रभुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "O Agni! Ascetics who offer oblations purified by mantras into you attain the perfection of their penance, for you are the lord and master of all austerities.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004402,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हवींषीति । भो हुताश ! तपस्विनो मन्त्रपूतानि हवींषि त्वयि जुह्वतः सन्तः । `नाभ्यस्ताच्छतुः' इति नुम्निषेधः । तपःसिद्धिं यान्ति प्राप्नुवन्ति । यतस्त्वं तपसां प्रभुः"
+    }
+  ]
+}

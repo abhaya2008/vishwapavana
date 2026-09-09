@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013531,
+    "chapter_id": 6701,
+    "verse_number": "9.65",
+    "content_sanskrit": "न दिवा न निश्यपि च वादकथा विरराम नैयमिककालमृते । इति जल्पतोः सममनल्पधियो- र्दिवसाश्च सप्त दश चात्यगमन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013531,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "नैयमिककालं संध्यावन्दनादिषु नियतं कालं विना ॥ ६५ ॥"
+    }
+  ]
+}

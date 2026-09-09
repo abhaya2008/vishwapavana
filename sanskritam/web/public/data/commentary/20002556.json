@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002556,
+    "chapter_id": 6582,
+    "verse_number": "6.3",
+    "content_sanskrit": "वैदर्भनिर्दिष्टमसौ कुमारः क्लृप्तेन सोपानपथेन मञ्चम् । शिलाविभङ्गैर्मृगराजशावस्तुङ्गं नगोत्सङ्गमिवारुरोह ॥",
+    "padaccheda": "वैदर्भनिर्दिष्टम् । असौ । कुमारः । क्लृप्तेन । सोपानपथेन । मञ्चम् । शिलाविभङ्गैः । मृगराजशावः । तुङ्गम् । नगोत्सङ्गम् । इव । आरुरोह",
+    "anvaya": "असौ कुमारः, मृग-राज-शावः शिला-विभङ्गैः तुङ्गम् नग-उत्सङ्गम् इव, क्लृप्तेन सोपान-पथेन वैदर्भ-निर्दिष्टम् मञ्चम् आरुरोह।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That prince, Aja, ascended the stage designated for him by the king of Vidarbha via a prepared staircase, just as a lion cub climbs a high mountain peak using projecting ledges of rock as steps.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002556,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वैदर्भेति॥ असौ कुमारो वैदर्भेण भोजेन निर्दिष्टं प्रदर्शितं मञ्चं पर्यङ्कं क्लप्तेन सुविहितेन सोपानपथेन। मृगराजशावः सिंहपोतः। `पोतः पाकोऽर्भको डिम्भः पृथुकः शावकः शिशुः` इत्यमरः (अ.को.2|5|40)। शिलानां विभङ्गैर्भङ्गीस्तुङ्गमुन्नतं नगोत्सङ्गं शैलाग्रमिव। आरुरोह ॥"
+    }
+  ]
+}

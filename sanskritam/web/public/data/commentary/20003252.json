@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003252,
+    "chapter_id": 6590,
+    "verse_number": "14.3",
+    "content_sanskrit": "आनन्दजः शोकजमश्रु बाष्पस्तयोरशीतं शिशिरो बिभेद । गङ्गासरय्वोर्जलमुष्णतप्तं हिमाद्रिनिस्यन्द इवावतीर्णः ॥",
+    "padaccheda": "आनन्दजः । शोकजं । अश्रु । बाष्पः । तयोः । अशीतं । शिशिरः । बिभेद । गङ्गासरय्वोः । जलम् । उष्णतप्तं । हिमाद्रिनिस्यन्दः । इव । अवतीर्णः",
+    "anvaya": "तयोः शिशिरः आनन्दजः बाष्पः, उष्ण-तप्तं गङ्गा-सरय्वोः जलम् अवतीर्णः हिमाद्रि-निस्यन्दः इव, अशीतं शोकजम् अश्रु बिभेद।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The mothers' cold tears of joy mingled with their warm tears of sorrow. This was like a cold stream from the Himalayas descending into the sun-warmed waters of the confluence of the Ganga and Sarayu rivers.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003252,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आनन्दज इति॥ तयोर्मात्रोरानन्दजः शिशिरो बाष्पः शोकजमशीतमुष्णमश्रु। उष्णतप्तं ग्रीष्मतप्तं गङ्गासरय्वोर्जलं कर्म अवतीर्णो हिमाद्रेर्निस्यन्दो निर्झर इव। बिभेद। आनन्देन शोकस्तिरस्कृत इत्यर्थः ॥"
+    }
+  ]
+}

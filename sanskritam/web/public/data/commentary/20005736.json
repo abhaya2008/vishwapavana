@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005736,
+    "chapter_id": 6628,
+    "verse_number": "16.58",
+    "content_sanskrit": "स्वकेतुभिः पाण्डुरनीलपाटलैः समागताः शक्रधनुःप्रभाभिदः । असंस्थितामादधिरे विभावसोर्विचित्रचीनांशुकचारुतां त्विषः ॥",
+    "padaccheda": "स्वकेतुभिः । पाण्डुरनीलपाटलैः । समागताः । शक्रधनुःप्रभाभिदः । असंस्थिताम् । आदधिरे । विभावसोः । विचित्रचीनांशुकचारुताम् । त्विषः",
+    "anvaya": "पाण्डुर-नील-पाटलैः स्व-केतुभिः (धूमैः) समागताः शक्र-धनुः-प्रभा-भिदः विभावसोः त्विषः असंस्थिताम् विचित्र-चीन-अंशुक-चारुताम् आदधिरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The splendors of the fire, mingling with its own banners of smoke—which were white, dark-blue, and pale-red—and rivaling the brilliance of Indra's bow, assumed the unstable beauty of a multi-colored Chinese silk cloth.",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005736,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " स्वकेतुभिरिति ॥ पाण्डुरैर्नीलैः पाटलैश्च पाण्डुरनीलपाटलैर्विचित्रैः स्वकेतुभिर्धूमै: समागताः संगताः। अतएव शक्रधनुषः प्रभाभिद इन्द्रधनुर्द्युतिभाजो विभावसोरग्नेस्त्विषोऽसंस्थितामस्थिरां विचित्रस्य चीनांशुकस्य पट्टवस्त्रविशेषस्य चारुतामादधिरे दधु:॥"
+    }
+  ]
+}

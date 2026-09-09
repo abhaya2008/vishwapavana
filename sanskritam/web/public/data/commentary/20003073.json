@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003073,
+    "chapter_id": 6588,
+    "verse_number": "12.7",
+    "content_sanskrit": "पित्रा दत्तां रुदन्रामः प्राङ्महीं प्रत्यपद्यत । पश्चाद्वनाय गच्छेति तदाज्ञां मुदितोऽग्रहीत् ॥",
+    "padaccheda": "पित्रा । दत्तां । रुदन् । रामः । प्राक् । महीं । प्रत्यपद्यत । पश्चात् । वनाय । गच्छ । इति । तदाज्ञां । मुदितः । अग्रहीत्",
+    "anvaya": "रामः पित्रा दत्तां महीं प्राक् रुदन् प्रत्यपद्यत पश्चात् वनाय गच्छ इति तदाज्ञां मुदितः अग्रहीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When his father previously offered him the kingdom, Rama accepted it with tears (out of humility or empathy for the responsibility). However, when ordered to go to the forest, he accepted that command with a joyful heart, showing his supreme devotion to his father's word.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003073,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पित्रेति॥ रामः। प्राक् पित्रा दत्तां महीं रुदन्प्रत्यपद्यताङ्गीचकार। स्वत्यागदुःखादिति भावः। पश्चाद्वनाय गच्छेत्येवंरूपां तदाज्ञां पित्राज्ञां मुदितोऽग्रहीत्। पित्राज्ञाकरणलाभादिति भावः ॥"
+    }
+  ]
+}

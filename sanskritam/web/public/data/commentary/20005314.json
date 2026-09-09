@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005314,
+    "chapter_id": 6622,
+    "verse_number": "10.23",
+    "content_sanskrit": "अभिभवति मनः कदम्बवायौ मदमधुरे च शिखण्डिनां निनादे । जन इव न धृतेश्चचाल जिष्णुर्न हि महतां सुकरः समाधिभङ्गः ॥",
+    "padaccheda": "अभिभवति । मनः । कदम्बवायौ । मदमधुरे । च । शिखण्डिनाम् । निनादे । जन । इव । न । धृतेः । चचाल । जिष्णुः । न । हि । महताम् । सुकरः । समाधिभङ्गः",
+    "anvaya": "कदम्ब-वायौ च मद-मधुरे शिखण्डिनां निनादे मनः अभिभवति (सति), जिष्णुः जनः इव धृतेः न चचाल। हि महतां समाधि-भङ्गः सुकरः न (भवति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although the wind, fragrant with Kadamba flowers, and the sweet, passionate cries of the peacocks were overpowering the mind, Arjuna did not swerve from his resolve like an ordinary person. Indeed, breaking the concentration of the great-minded is not an easy task.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005314,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अभिभवतीति ॥ कदम्बवायौ कदम्बसंबन्धिनि मारुते मदमधुरे शिखण्डिनां निनादे च मनोऽभिभवत्यभिहरति सति जिष्णुर्जयनशीलोऽर्जुनो जनः पृथग्जन इव धृतेर्धैर्यान्न चचाल । वर्षा अपि तदुद्दीपनाय न शेकुरित्यर्थः । हि यस्मान्महतां समाधिभङ्गः सुकरो न । न केनापि कर्तुं शक्यत इत्यर्थः ॥"
+    }
+  ]
+}

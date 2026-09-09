@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005672,
+    "chapter_id": 6627,
+    "verse_number": "15.47",
+    "content_sanskrit": "स पिशङ्गजटावलिः किरन्नुरुतेजः परमेण मन्युना । ज्वलितौषधिजातवेदसा हिमशैलेन समं विदिद्युते ॥",
+    "padaccheda": "सः । पिशङ्गजटावलिः । किरन् । उरुतेजः । परमेण । मन्युना । ज्वलितौषधिजातवेदसा । हिमशैलेन । समम् । विदिद्युते",
+    "anvaya": "परमेण मन्युना उरुतेजः किरन्, सः पिशङ्गजटावलिः, ज्वलितौषधिजातवेदसा हिमशैलेन समम् विदिद्युते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With supreme wrath, scattering great splendor, he (Shiva), with his line of tawny matted locks, shone brightly, like the Himalaya mountain with its fire of blazing phosphorescent herbs.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005672,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥पिशङ्गजटावलिः पिशङ्गजटाजूटः परमेणोत्कृष्टेन मनुना क्रोधेनोरु महत्तेजः किरन्विक्षिपन्सोऽर्जुनो ज्वलिता ओषधयस्तृणज्योतींषि जातवेदा दवाग्निश्च यस्मिम्स्तेन हिमशैलेन समं तुल्यं हिमाद्रिरिव विदिद्युते हिमाद्रिवच्छुशुभ इति बिम्बप्रतिबिम्बभावोपमा ।।"
+    }
+  ]
+}

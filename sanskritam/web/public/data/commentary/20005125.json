@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005125,
+    "chapter_id": 6619,
+    "verse_number": "7.9",
+    "content_sanskrit": "अत्यर्थं दुरुपसदादुपेत्य दूरं पर्यन्तादहिममयूखमण्डलस्य । आशानामुपरचितामिवैकवेणीं रम्योर्मीं त्रिदशनदीं ययुर्बलानि ॥",
+    "padaccheda": "अत्यर्थम् । दुरुपसदात् । उपेत्य । दूरम् । पर्यन्तात् । अहिममयूखमण्डलस्य । आशानाम् । उपरचिताम् । इव । एकवेणीम् । रम्योर्मीम् । त्रिदशनदीम् । ययुः । बलानि",
+    "anvaya": "बलानि अत्यर्थम् दुरुपसदात् अहिममयूखमण्डलस्य पर्यन्तात् दूरम् उपेत्य, आशानाम् उपरचिताम् एकवेणीम् इव रम्योर्मीम् त्रिदशनदीम् ययुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having traveled far from the vicinity of the sun's orb, which is exceedingly difficult to approach, the armies reached the celestial river. With its beautiful waves, it appeared like a single, ornamental braid for all the directions.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005125,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अत्यर्थमिति ॥ बलानि सैन्यान्यत्यर्थं दुरुपसदाहुःसहादहिममयूखमण्डलस्य सूर्यबिम्बस्य पर्यन्तात्समीपाद्दूरमपेत्यागत्याशानामुपरिचितां गुम्फितामेकवेणीमिव स्थितामित्युत्प्रेक्षा। रम्या ऊर्मयस्तरङ्गा भङ्ग्यश्च यस्यास्तां त्रिदशनदीं मन्दाकिनीं ययुः प्रापुः ॥"
+    }
+  ]
+}

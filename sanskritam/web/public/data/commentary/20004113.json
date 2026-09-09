@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004113,
+    "chapter_id": 6601,
+    "verse_number": "6.63",
+    "content_sanskrit": "एते वयममी दाराः कन्येयं कुलजीवितम् । ब्रूत येनात्र वः कार्यमनास्था बाह्यवस्तुषु ॥",
+    "padaccheda": "एते । वयम् । अमी । दाराः । कन्या । इयं । कुलजीवितम् । ब्रूत । येन । अत्र । वः । कार्यम् । अनास्था । बाह्यवस्तुषु",
+    "anvaya": "एते वयं, अमी दाराः, इयं कुलजीवितं कन्या (अस्ति) । अत्र येन वः कार्यं (तत्) ब्रूत । बाह्यवस्तुषु अनास्था (अस्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Here we are, here is my wife, and here is this daughter, who is the very life of our family. Tell me with which of these your purpose may be served. I have no attachment to external possessions.\"",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004113,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एत इति । किं बहुना एते वयममी दारा इयं कुलस्य जीवितं प्राणभृतां परमप्रेमास्पदमित्यर्थः । कन्या । अत्रैषां मध्ये येन जनेन वः कार्यं प्रयोजनं ब्रूत । तदिति शेषः । येन तदपि दोयत इति भावः । रत्नहिरण्यादिकं तु न मे गण्यमित्याह-बाह्यवस्तुकनकरत्नादिष्वनास्थानादरः । प्रसज्यप्रतिषेधेऽपि नञ्समास इष्यते । अदेयं न किंचिदस्तीति भावः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002449,
+    "chapter_id": 6580,
+    "verse_number": "4.60",
+    "content_sanskrit": "पारसीकांस्ततो जेतुं प्रतस्थे स्थलवर्त्मना। इन्द्रियाख्यानिव रिपूंस्तत्त्वज्ञानेन संयमी ॥",
+    "padaccheda": "पारसीकान् । ततः । जेतुम् । प्रतस्थे । स्थलवर्त्मना । इन्द्रिय-आख्यान् । इव । रिपून् । तत्त्वज्ञानेन । संयमी",
+    "anvaya": "ततः संयमी तत्त्वज्ञानेन इन्द्रिय-आख्यान् रिपून् इव (जेतुम्), (सः) स्थलवर्त्मना पारसीकान् जेतुम् प्रतस्थे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, Raghu set out by the land route to conquer the Persians, just as a self-controlled ascetic sets out to conquer his enemies called the senses through the knowledge of reality.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002449,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पारसीकानिति॥ ततः स रघुः। संयमी योगी तत्त्वज्ञानेनेन्द्रियाख्यानिन्द्रियनामकान् रिपूनिव। पारसीकान् राज्ञो जेतुं स्थलवर्त्मना प्रतस्थे। न तु नेदिष्टेनापि जलपथेन। समुद्रयानस्य निषिद्धत्वादिति भावः ॥"
+    }
+  ]
+}

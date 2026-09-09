@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010747,
+    "chapter_id": 6676,
+    "verse_number": "4.93",
+    "content_sanskrit": "पवित्रपाणिभिर्जुष्टान् महामुनिभिराश्रमान् । भेजे धवित्रधृताग्नीन् सोऽन्वहं शीतलद्रुमान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010747,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पवित्रपाणिभिर्दर्भपवित्रं कुशपवित्रं वा पाणिषु येषां तैः । 'पुवः संज्ञायां' (पा.३|२|१८५) इति इत्रः । अन्वहं अहन्यहनि । वीप्सायामव्ययीभावः ॥"
+    }
+  ]
+}

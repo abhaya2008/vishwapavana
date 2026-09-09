@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002587,
+    "chapter_id": 6582,
+    "verse_number": "6.34",
+    "content_sanskrit": "असौ महाकालनिकेतनस्य वसन्नदूरे किल चन्द्रमौलेः । तमिस्रपक्षेऽपि सह प्रियामिर्ज्योत्स्नावतो निर्विशति प्रदोषान् ॥",
+    "padaccheda": "असौ । महाकालनिकेतनस्य । वसन् । अदूरे । किल । चन्द्रमौलेः । तमिस्रपक्षे । अपि । सह । प्रियाभिः । ज्योत्स्नावतः । निर्विशति । प्रदोषान्",
+    "anvaya": "असौ महाकालनिकेतनस्य चन्द्रमौलेः अदूरे वसन् किल तमिस्रपक्षे अपि प्रियाभिः सह ज्योत्स्नावतः प्रदोषान् निर्विशति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Residing near the Mahakala temple of the moon-crested Shiva, this king, with his beloveds, enjoys moonlit evenings even during the dark fortnight, thanks to the light from Shiva's crescent moon.\"",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002587,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असाविति॥ असाववन्तिनाथः महाकालं नाम स्थानविशेषशः, तदेव निकेतनं स्थानं यस्य तस्य चन्द्रमौलेरीश्वरस्याऽदूरे समीपे वसन्। अत एव हेतोस्तमिस्रपक्षे कृष्णपक्षेऽपि प्रियाभिः सह ज्योत्स्नावतः प्रदोषान्रात्रीर्निर्विशत्यनुभवति किल। नित्यज्योत्स्नाविहारत्वमेतस्यैव नान्यस्येति भावः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011142,
+    "chapter_id": 6680,
+    "verse_number": "8.28",
+    "content_sanskrit": "कच्चिदापूपिकान्नित्यमपूपैर्धिनुथ द्विजान् ? प्रसन्ना हि महीदेवाः कल्पन्ते कल्पपादपाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011142,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आपूपिकाः । ‘हितं भक्षाः’ इति (पा.४|४|६५) ठक् ॥"
+    }
+  ]
+}

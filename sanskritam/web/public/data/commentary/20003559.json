@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003559,
+    "chapter_id": 6593,
+    "verse_number": "17.32",
+    "content_sanskrit": "स पुरं पुरुहूतश्रीः कल्पद्रुमनिभध्वजाम् । क्रममाणश्चकार द्यां नागेनैरावतौजसा ॥",
+    "padaccheda": "सः । पुरम् । पुरुहूतश्रीः । कल्पद्रुमनिभध्वजाम् । क्रममाणः । चकार । द्याम् । नागेन । ऐरावतौजसा",
+    "anvaya": "पुरुहूतश्रीः सः ऐरावतौजसा नागेन कल्पद्रुमनिभध्वजाम् पुरम् क्रममाणः द्याम् चकार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He, whose splendor was like Indra's, while traversing on an elephant as mighty as Airavata, made the city, with its banners resembling wish-fulfilling trees, seem like heaven itself.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003559,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ पुरुहूतश्रीः सोऽतिथिः कल्पद्रुमाणां निभाः समाना ध्वजा यस्यास्तां पुरमयोध्याम्। ऐरावतस्य ओज इवौजो बलं यस्य तेन नागेन कुञ्जरेण क्रममाणश्चरन्। `अनुपसर्माद्वा` (पा.1।2।43) इति वैकल्पिकमात्मनेपदम्। द्यां चकार। स्वर्गलोकसदृशीं चकारेत्यर्थः। `द्यौः स्वर्पसुरवर्त्मनोः` इति विश्वः ॥"
+    }
+  ]
+}

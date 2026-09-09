@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004304,
+    "chapter_id": 6603,
+    "verse_number": "8.64",
+    "content_sanskrit": "पश्य पार्वति नवेन्दुरश्मिभिः सामिभिन्नतिमिरं नभस्तलम् । लक्ष्यते द्विरदभोगदूषितं संप्रसीददिव मानसं सरः ॥",
+    "padaccheda": "पश्य । पार्वति । नवेन्दुरश्मिभिः । सामिभिन्नतिमिरम् । नभस्तलम् । लक्ष्यते । द्विरदभोगदूषितम् । संप्रसीदत् । इव । मानसम् । सरः",
+    "anvaya": "पार्वति! पश्य। नवइन्दुरश्मिभिः सामिभिन्नतिमिरम् नभस्तलम्, द्विरदभोगदूषितम् संप्रसीदत् मानसम् सरः इव, लक्ष्यते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Look, Parvati! The surface of the sky, with its darkness partially dispelled by the rays of the new moon, appears like the Manasa lake becoming clear after being muddied by the sporting of elephants.\"",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004304,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पश्येति । हे पार्वति ! नवेन्दुरश्मिभिः सामिभिन्नतिमिरमर्धनिरस्तध्वान्तं नभस्तलं द्विरदभोगदूषितं गजक्रीडाकलुषितं संप्रसीदत्प्रसादं गच्छन्मानसं मानसाख्यं सर इव लक्ष्यते पश्य"
+    }
+  ]
+}

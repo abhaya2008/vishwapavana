@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004732,
+    "chapter_id": 6611,
+    "verse_number": "16.24",
+    "content_sanskrit": "रणे वाणगणैर्भिन्ना भ्रमन्तो भिन्नयोधिनः । निममज्जुर्मिलद्रक्तनिम्नगासु महागजाः ॥",
+    "padaccheda": "रणे । बाणगणैः । भिन्नाः । भ्रमतः । भिन्नयोधिनः । निममज्जुः । मिलद्रक्तनिम्नगासु । महागजाः",
+    "anvaya": "रणे बाणगणैः भिन्नाः भ्रमन्तः भिन्नयोधिनः महागजाः मिलद्रक्तनिम्नगासु निममज्जुः",
+    "meaning_sanskrit": "",
+    "meaning_english": "Great elephants, pierced by volleys of arrows and reeling after their riders were slain, sank into the rivers formed by the flowing blood on the battlefield.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004732,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रण इति । रणे संग्रामे बाणगणैः शत्रुशरनिकरैर्भिन्नयोधिनो विदीर्णयन्तारः । अत एव स्वयमपि भिन्ना अत एव भ्रमन्तो महागजा मिलन्त्यः सयिजन्त्यो या रक्तस्य निम्नगा नद्यस्तासु निममज्जुः"
+    }
+  ]
+}

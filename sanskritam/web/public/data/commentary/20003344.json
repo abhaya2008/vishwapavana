@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003344,
+    "chapter_id": 6591,
+    "verse_number": "15.8",
+    "content_sanskrit": "अग्रजेन प्रयुक्ताशीस्ततो दाशरथी रथी । ययौ वनस्थलीः पश्यन्पुष्पिताः सुरभीरभीः ॥",
+    "padaccheda": "अग्रजेन । प्रयुक्ताशीः । ततः । दाशरथिः । रथी । ययौ । वनस्थलीः । पश्यन् । पुष्पिताः । सुरभीः । अभीः",
+    "anvaya": "ततः अग्रजेन प्रयुक्त-आशीः अभीः रथी दाशरथिः पुष्पिताः सुरभीः वनस्थलीः पश्यन् ययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, having received blessings from his elder brother, the fearless chariot-warrior Shatrughna, son of Dasharatha, set out, observing the fragrant, flowering forest regions along the way.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003344,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अग्रजेनेति॥ ततोऽग्रजेन रामेण प्रयुक्ताशीः कृताशीर्वादो रथी रथिकोऽभीर्निर्भीको दाशरथिः पुष्पाणि संजातानि यासां ताः पुष्पिताः सुरभीरामोदमाना वनस्थलीः पश्यन्ययौ ॥"
+    }
+  ]
+}

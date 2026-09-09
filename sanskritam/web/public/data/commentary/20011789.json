@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011789,
+    "chapter_id": 6686,
+    "verse_number": "14.13",
+    "content_sanskrit": "विदग्धालीकृतां दध्रे ललाटेन ललाटिकाम् । प्रकाशितकपोलाभ्यां कर्णाभ्यामपि कर्णिकाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011789,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दध्रे इति । धृञ् धारणे । कर्णिकाललाटिकयोः 'कर्णललाटात् कन्वलङ्कार ' इति (पा.४|३|६५) कन् ॥"
+    }
+  ]
+}

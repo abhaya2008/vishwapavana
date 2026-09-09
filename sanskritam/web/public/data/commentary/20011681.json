@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011681,
+    "chapter_id": 6685,
+    "verse_number": "13.17",
+    "content_sanskrit": "चन्द्रकान्तशिलापृष्ठे हरिचन्दनपल्लवान् । असुन्वन् बहुलं सख्यः प्रासिञ्चंस्ताश्च तद्रसैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011681,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "असुन्वन्निति । षुञभिषवे । स्वादिः । प्रासिञ्चन्नौक्षन् । षिच क्षरणे । तुदादिः । ‘शेमुचादीना’ मिति (पा.७|१|५९) नुम् ॥"
+    }
+  ]
+}

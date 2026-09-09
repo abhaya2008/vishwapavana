@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003425,
+    "chapter_id": 6591,
+    "verse_number": "15.89",
+    "content_sanskrit": "स तक्षपुष्कलौ पुत्रौ राजधान्योस्तदाख्ययोः । अभिषिच्याभिषेकार्हौ रामान्तिकमगात्पुनः ॥",
+    "padaccheda": "सः । तक्षपुष्कलौ । पुत्रौ । राजधान्योः । तदाख्ययोः । अभिषिच्य । अभिषेकार्हौ । राम-अन्तिकम् । अगात् । पुनः",
+    "anvaya": "सः अभिषेकार्हौ पुत्रौ तक्षपुष्कलौ तदाख्ययोः राजधान्योः अभिषिच्य, पुनः राम-अन्तिकम् अगात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Bharata), after consecrating his two sons, Taksha and Pushkala, who were worthy of coronation, in the capitals named after them (Takshashila and Pushkalavati), returned to Rama's presence.",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003425,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स भरतः। अभिषेकार्हौ तक्षपुष्कलौ नाम पुत्रौ तदाख्ययोः। तक्षपुष्कलाख्ययोरित्यर्थः। पुष्कलं पुष्कलावत्यां तक्षं तक्षशिलायामिति राजधान्योर्नगर्योरभिषिच्य पुना रामान्तिकमगात् ॥"
+    }
+  ]
+}

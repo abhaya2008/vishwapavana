@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003037,
+    "chapter_id": 6587,
+    "verse_number": "11.64",
+    "content_sanskrit": "पित्र्यमंशमुपवीतलक्षणं मातृकं च धनुरूर्जितं दधत् । यः ससोम इव घर्मदीधितिः सद्विजिह्व इव चन्दनद्रुमः ॥",
+    "padaccheda": "पित्र्यम् । उपवीतलक्षणम् । अंशम् । मातृकम् । च । धनुः । ऊर्जितम् । दधत् । यः । ससोमः । घर्मदीधितिः । इव । सद्विजिह्वः । चन्दनद्रुमः",
+    "anvaya": "पित्र्यम् उपवीतलक्षणम् अंशं मातृकं च ऊर्जितं धनुः दधत् यः ससोमः घर्मदीधितिः इव सद्विजिह्वः चन्दनद्रुमः इव ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "He bore the paternal heritage characterized by the sacred thread and a mighty bow from his mother's side, appearing like the sun accompanied by the moon, or a sandalwood tree inhabited by a snake.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003037,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पित्र्यमिति॥ उपवीतं लक्षणं चिह्नं यस्य तम्। पितुरयं पित्र्यः। `वाय्वुतुपित्रुषसो यत्` (पा.4।2।31) इति यत्प्रत्ययः । तमंशम्। धनुषोर्जितं धनुरूर्जितम्। मातुरयं मातृकः। `ऋतष्ठञअ` (पा.4।3।78)इति ठञ्प्रत्ययः। तमंशं च दधत्। यो भार्गवः। ससोमश्चन्द्रयुक्तो घर्मदीधितिः सूर्य इव। सद्विजिह्नः रसर्पश्चन्दनद्रुम इव। स्थितः ॥"
+    }
+  ]
+}

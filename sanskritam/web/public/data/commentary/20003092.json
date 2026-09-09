@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003092,
+    "chapter_id": 6588,
+    "verse_number": "12.26",
+    "content_sanskrit": "बभौ तमनुगच्छन्ती विदेहाधिपतेः सुता । प्रतिषिद्धापि कैकेय्या लक्ष्मीरिव गुणोन्मुखी ॥",
+    "padaccheda": "बभौ । तम् । अनुगच्छन्ती । विदेहाधिपतेः । सुता । प्रतिषिद्धा । अपि । कैकेय्या । लक्ष्मीः । इव । गुणोन्मुखी",
+    "anvaya": "तम् अनुगच्छन्ती विदेहाधिपतेः सुता कैकेय्या प्रतिषिद्धा अपि गुणोन्मुखी लक्ष्मीः इव बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Following him, the daughter of the King of Videha (Sita) shone like the Goddess of Fortune (Lakshmi), who, though forbidden by Kaikeyi, remains drawn toward Rama's virtues.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003092,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बभाविति॥ तं राममनुगच्छन्ती विदेहाधिपतेः सुता सीता कैकेय्या प्रतिषिद्धा निवारिताऽपि गुणोन्मुखी गुणोत्सुका लक्ष्मी राजलक्ष्मीरिव बभौ॥"
+    }
+  ]
+}

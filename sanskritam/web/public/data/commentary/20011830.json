@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011830,
+    "chapter_id": 6686,
+    "verse_number": "14.54",
+    "content_sanskrit": "मधु द्विषन्मधुं यद्वन्ननन्दोपस्थितं तदा । कामस्यापि द्विषन्कारमाददे तद्वदागतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011830,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "द्विषश्शतुर्वा वचनमिति मधुमित्यत्र कर्मणि द्वितीया (पा.२|३|२) । कामस्येत्यत्र षष्ठी । आददे सञ्चकार । दुङ आदरे । आङ्पूर्वः ॥"
+    }
+  ]
+}

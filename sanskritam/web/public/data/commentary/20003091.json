@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003091,
+    "chapter_id": 6588,
+    "verse_number": "12.25",
+    "content_sanskrit": "प्रययावातिथेयेषु वसन्नृषिकुलेषु सः । दक्षिणां दिशमृक्षेषु वार्षिकेष्विव भास्करः ॥",
+    "padaccheda": "प्रययौ । आतिथेयेषु । वसन् । ऋषिकुलेषु । सः । दक्षिणाम् । दिशम् । ऋक्षेषु । वार्षिकेषु । इव । भास्करः",
+    "anvaya": "सः आतिथेयेषु ऋषि-कुलेषु वसन् दक्षिणाम् दिशम् प्रययौ वार्षिकेषु ऋक्षेषु भास्करः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Dwelling in the hospitable hermitages of sages, he proceeded toward the southern direction, just as the sun moves through the constellations during the rainy season.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003091,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रययाविति॥ सः रामः। अतिथिषु साधूनि आतिथेयानि। `पथ्यतिथिवसतिस्वपतेर्ढञ्` (पा.4।4।104)इति ढञ्प्रत्ययः। तेषु। ऋषिकुलेष्वृष्याश्रमेषु। `कुलं कुल्ये गणे देहे गेहे जनपदेऽन्वये`इति हैमः। वर्षासु भवानि वार्षिकाणि। `वर्षाभ्यष्ठक्` (पा.4।3।18)इति ठक्प्रत्ययः। तेषु। ऋक्षेषु नक्षत्रेषु राशिषु वा भास्कर इव वसन् दक्षिणां दिशं प्रययौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011408,
+    "chapter_id": 6682,
+    "verse_number": "10.52",
+    "content_sanskrit": "इति प्रयुक्तो मुनिनेन्द्रसूनुर्मुने मदाज्ञापयसि त्वमद्य । अहं करिष्यामि तदित्युदीर्य तत्कल्पितं दिव्यगृहं विवेश ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011408,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "इति प्रयुक्तः । उदीर्येति गतिसमासः ॥"
+    }
+  ]
+}

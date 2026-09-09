@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003120,
+    "chapter_id": 6588,
+    "verse_number": "12.54",
+    "content_sanskrit": "तौ सीतान्वेषिणौ गृध्रं लूनपक्षमपश्यताम् । प्राणैर्दशरथप्रीतेरनृणं कण्ठवर्तिभिः ॥",
+    "padaccheda": "तौ । सीतान्वेषिणौ । गृध्रम् । लूनपक्षम् । अपश्यताम् । प्राणैः । दशरथप्रीतेः । अनृणम् । कण्ठवर्तिभिः",
+    "anvaya": "सीतान्वेषिणौ तौ कण्ठवर्तिभिः प्राणैः दशरथप्रीतेः अनृणं लूनपक्षं गृध्रम् अपश्यताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While searching for Sita, the two brothers saw the vulture Jatayu with his wings severed; he was clinging to life only long enough to repay his debt of friendship to Dasharatha by informing them.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003120,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ताविति॥ सीतान्वेषिणौ तौ राघवौ लूनपक्षं रावणेन छिन्नपक्षं कण्ठवर्तिभिः प्राणैर्दशरथप्रीतेर्दशरथसख्यस्यानृणमृणैर्विमुक्तं गृध्रं जटायुषमपश्यतां दृष्टवन्तौ। दर्शर्लङि रूपम् ॥"
+    }
+  ]
+}

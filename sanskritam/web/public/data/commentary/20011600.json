@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011600,
+    "chapter_id": 6684,
+    "verse_number": "12.52",
+    "content_sanskrit": "अरिक्षदेष तत्राजौ कर्णप्रष्ठान् महारथान् । येऽमुं पुरस्तादाक्रुक्षन्नीर्ष्यामोहितमानसाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011600,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अरिक्षदिति । रुश रिशहिंसायाम् । व्रश्चादिषत्वम् । 'षढोः कः सि' (पा.८|२|४१) । अक्रुक्षन्निति । क्रुश आह्वाने । पुरस्तादस्त्रदर्शने ॥"
+    }
+  ]
+}

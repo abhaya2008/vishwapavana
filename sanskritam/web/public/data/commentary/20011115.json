@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011115,
+    "chapter_id": 6680,
+    "verse_number": "8.1",
+    "content_sanskrit": "अथाराध्य यथाशास्त्रं पाण्डयः पाण्डवमब्रवीत् । प्ररोहान् प्रेमसस्यस्य दशनांशून् प्रकाशयन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011115,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अथ प्राग्वहतीयानुदाहर्तुमुपक्रमते । यथाशास्त्रं शास्त्रानुसारेण ।"
+    }
+  ]
+}

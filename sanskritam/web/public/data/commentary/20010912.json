@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010912,
+    "chapter_id": 6678,
+    "verse_number": "6.33",
+    "content_sanskrit": "हस्तग्राहं द्विजानन्धान् स वृद्धांश्च गृहीतवान् । विष्टरेषु च सृष्टेषु पाणिवर्तमवर्तयत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010912,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हस्तग्राहं गृहीतवान् पाणिवर्तमवर्तयत् इति । 'हस्ते वर्तिग्रहो'रिति (पा.३|४|५९) णमुल् । हस्त इत्यर्थग्रहणं वर्तीति ण्यन्तस्य ग्रहणम् ॥"
+    }
+  ]
+}

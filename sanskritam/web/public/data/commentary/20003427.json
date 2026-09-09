@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003427,
+    "chapter_id": 6591,
+    "verse_number": "15.91",
+    "content_sanskrit": "इत्यारोपितपुत्रास्ते जननीनां जनेश्वराः । भर्तृलोकप्रपन्नानां निवापान्विदधुः क्रमात् ॥",
+    "padaccheda": "इति । आरोपितपुत्राः । ते । जननीनाम् । जनेश्वराः । भर्तृलोकप्रपन्नानाम् । निवापान् । विदधुः । क्रमात्",
+    "anvaya": "इति आरोपितपुत्राः ते जनेश्वराः भर्तृलोकप्रपन्नानाम् जननीनाम् क्रमात् निवापान् विदधुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus, those lords of men (Rama and his brothers), having established their sons on their thrones, duly performed the funeral rites for their mothers, who had passed on to their husband's world.",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003427,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इत्यारोपितपुत्रास्ते जनेश्वरा रामादयो भर्तृलोकप्रपन्नानां स्वर्यातानां जननीनां क्रमान्निवापाञ्श्राद्धादीन्विदधुश्चक्रुः ॥"
+    }
+  ]
+}

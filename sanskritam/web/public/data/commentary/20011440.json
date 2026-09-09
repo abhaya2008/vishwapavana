@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011440,
+    "chapter_id": 6683,
+    "verse_number": "11.17",
+    "content_sanskrit": "वीचिबाहुभिराश्लिष्टान् फेनधौताम्बरोज्ज्वले । उत्सङ्गे लुठतो मेघानर्भकानिव बिभ्रतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011440,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्र रूपकोपमासंसृष्टिः ॥"
+    }
+  ]
+}

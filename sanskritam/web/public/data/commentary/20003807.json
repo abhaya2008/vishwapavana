@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003807,
+    "chapter_id": 6597,
+    "verse_number": "2.29",
+    "content_sanskrit": "ततो मन्दानिलोद्धूतकमलाकरशोभिना । गुरुं नेत्रसहस्रेण चोदयामास वासवः ॥",
+    "padaccheda": "ततः । मन्दानिलोद्धूतकमलाकरशोभिना । गुरुम् । नेत्रसहस्रेण । चोदयामास । वासवः",
+    "anvaya": "ततः वासवः मन्द-अनिल-उद्धूत-कमल-आकर-शोभिना नेत्र-सहस्रेण गुरुम् चोदयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Indra (Vasava), with his thousand eyes that shone like a lotus pond gently stirred by a soft breeze, prompted his preceptor, Brihaspati, to speak.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003807,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति ॥ ततो भगवत्प्रश्नानन्तरं वासव इन्द्रो गुरुं बृहस्पतिम् । `गुरूगीष्पतिपित्राद्यौ` इत्यमरः । मन्दानिलोद्धूतो यः कमलाकरः स इव शोभत इति तेन तथोक्तेन नेत्राणां सहस्रेण नोदयामास प्रेरयामास। सहस्रग्रहणमास्थातिशयार्थम् । अनिमेषाणामपि प्रयत्नवशादक्षिस्पन्दो न विरुध्यते"
+    }
+  ]
+}

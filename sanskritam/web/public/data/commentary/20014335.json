@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014335,
+    "chapter_id": 6708,
+    "verse_number": "16.55",
+    "content_sanskrit": "प्राच्याः प्राच्यां पश्चिमाः पश्चिमायां ये चोदीच्यास्तामुदीचीं प्रपन्नाः । सर्वज्ञास्तद्द्वारमुद्घाटयन्तो दाक्षा नद्धं नो तदुद्घाटयन्ति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014335,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "दाक्षा दाक्षिणात्याः पिनद्धं तद्द्वारं नोद्घाटयन्ति ॥ ५७ ॥"
+    }
+  ]
+}

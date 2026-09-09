@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002878,
+    "chapter_id": 6585,
+    "verse_number": "9.73",
+    "content_sanskrit": "कुम्भपूरणभवः पटुरुञ्चैरुञ्चचार निनदोऽम्भसि तस्याः । तत्र स द्विरदबृंहितशङ्की शब्दपातिनमिषुं विससर्ज ॥",
+    "padaccheda": "कुम्भपूरणभवः । पटुः । उच्चैः । उच्चचार । निनदः । अम्भसि । तस्याः । तत्र । सः । द्विरदबृंहितशङ्की । शब्दपातिनम् । इषुम् । विससर्ज",
+    "anvaya": "तस्याः अम्भसि कुम्भ-पूरण-भवः पटुः निनदः उच्चैः उच्चचार। तत्र सः द्विरद-बृंहित-शङ्की (सन्) शब्द-पातिनम् इषुं विससर्ज।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A loud gurgling sound, produced by the filling of a pot, arose from the river's water. Suspecting it to be the trumpeting of an elephant, he released an arrow that targets its object by sound alone.",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002878,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कुम्भेति॥ तस्यास्तमसाया अम्भसि कुम्भपूरणेन भव उत्पन्नः। पचाद्यच्। पटुर्मधुरः। उञ्चैर्गम्भूरो निनदो ध्वनिरुञ्चचारोदियाय। तत्र निनदे स नृपः। द्विरदबृंहितं शङ्कत इति द्विरदबृंहितशङ्की सन्, शब्देन शब्दानुसारेण तपतीति शब्दपातिनमिषुं विससर्ज। स्वागतावृत्तम् ॥"
+    }
+  ]
+}

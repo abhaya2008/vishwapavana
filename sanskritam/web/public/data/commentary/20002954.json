@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002954,
+    "chapter_id": 6586,
+    "verse_number": "10.67",
+    "content_sanskrit": "राम इत्यभिरामेण वपुषा तस्य चोदितः । नामधेयं गुरुश्चक्रे जगत्प्रथममङ्गलम् ॥",
+    "padaccheda": "रामः । इति । अभिरामेण । वपुषा । तस्य । चोदितः । नामधेयम् । गुरुः । चक्रे । जगत्प्रथममङ्गलम्",
+    "anvaya": "तस्य अभिरामेण वपुषा चोदितः गुरुः जगत्प्रथममङ्गलं रामः इति नामधेयं चक्रे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Prompted by the child's charming body, the preceptor Vasiṣṭha gave him the name 'Rāma', which is the foremost auspicious blessing for the world.",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002954,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राम इति॥ अभिरमन्तेऽत्रेत्यभिरामं मनोहरम्। अधिकरणार्थे घञ्प्रत्ययः। तेन वपुषा चोदितः प्रेरितो गुरुः पिता दशरथस्तस्य पुत्रस्य जगतां प्रथमं मङ्गलं सुलक्षणं राम इति नामधेयं चक्रे। अभिरामत्वमेव रामशब्दप्रवृत्तिनिमित्तमित्यर्थः ॥"
+    }
+  ]
+}

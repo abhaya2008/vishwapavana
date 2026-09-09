@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005088,
+    "chapter_id": 6618,
+    "verse_number": "6.19",
+    "content_sanskrit": "प्रणिधाय तत्र विधिनाथ धियं दधतः पुरातनमुनेर्मुनिताम् । श्रममादधावसुकरं न तपः किमिवावसादकरमात्मवताम् ॥",
+    "padaccheda": "प्रणिधाय । तत्र । विधिना । अथ । धियं । दधतः । पुरातनमुनेः । मुनिताम् । श्रमम् । आदधौ । असुकरं । न । तपः । किम् । इव । अवसादकरम् । आत्मवताम्",
+    "anvaya": "अथ तत्र विधिना धियं प्रणिधाय पुरातनमुनेः मुनितां दधतः तस्य असुकरं तपः श्रमं न आदधौ । आत्मवतां किम् इव अवसादकरम् अस्ति?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, having fixed his mind there according to prescribed rules and assuming the ascetic state of an ancient sage, his difficult penance did not cause him fatigue. Indeed, what can cause distress to the self-possessed?",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005088,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रणिधायेति ॥ अथ तत्रादौ विधिना योगशास्त्रानुसारेण धियं चित्तवृत्तिं प्रणिधाय ध्येयविषये धियं नियम्य । `नेर्गद—` (पा.8।4।17) इत्यादिना णत्वम् । मुनितां दधतः । तपस्यत इत्यर्थः । पुरातनमुनेः । अर्जुनस्येत्यर्थः । असुकरं दुष्करं तपः श्रमं खेदं नादधौ न चकार । तथाहि । आत्मवतां मनस्विनामवसादकरमशान्तिजनकं किमिव । न किंचिदित्यर्थः । इवशब्दो वाक्यालंकारे ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014000,
+    "chapter_id": 6706,
+    "verse_number": "14.71",
+    "content_sanskrit": "रामसेतुगमनाय संदधे मानसं मुनिरनुत्तमः पुनः । वर्त्मनि प्रयतमानसो व्रज- न्संददर्श सरितं कवेरजाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014000,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "पुनरनुत्तमो मुनिः पद्मपादो रामसेतुगमनाय मनो दधे । प्रयतं मनो येन स पथि गच्छन्कवेरजां कावेरीं नदीं ददर्श । रथोद्धता वृत्तम् ॥ ७१ ॥"
+    }
+  ]
+}

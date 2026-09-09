@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002764,
+    "chapter_id": 6584,
+    "verse_number": "8.54",
+    "content_sanskrit": "तदपोहितुमर्हसि प्रिये! प्रतिबोधेन विषादमाशु मे । ज्वलितेन गुहागतं तमस्तुहिनाद्रेरिव नक्तमोषधिः ॥",
+    "padaccheda": "तत् । अपोहितुम् । अर्हसि । प्रिये । प्रतिबोधेन । विषादम् । आशु । मे । ज्वलितेन । गुहागतम् । तमः । तुहिनाद्रेः । इव । नक्तमोषधिः",
+    "anvaya": "प्रिये! तुहिन-अद्रेः नक्तम्-ओषधिः ज्वलितेन गुहा-गतम् तमः इव, (त्वम्) प्रतिबोधेन मे विषादम् आशु अपोहितुम् अर्हसि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "O beloved! Therefore, you should quickly dispel my despair by waking up, just as a phosphorescent herb on the Himalayas dispels the darkness inside a cave by its glow.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002764,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥ हे प्रिये! तत्तस्मात्कारणादाशु विषादं दुःखम्। नक्तं रात्रावोषधिस्तृणज्योतिराख्या लता ज्वलितेन प्रकाशेन तुहिनाद्रेर्हिमाचलस्य गुहागतं तमोऽन्धकारमिव। प्रतिबोधेन ज्ञानेनापोहितुं निरसितुमर्हसि ॥"
+    }
+  ]
+}

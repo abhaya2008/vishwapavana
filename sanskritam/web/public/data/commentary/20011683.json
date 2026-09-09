@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011683,
+    "chapter_id": 6685,
+    "verse_number": "13.19",
+    "content_sanskrit": "निसर्गशीतलैरेतैरित्थं तामजुषन्त ताः । समाश्नुत महाधीरस्मरतापस्तथापि ताम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011683,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अजुषन्तेति । जुषी प्रीतिसेवनयोः । तुदादिरनुदात्तेत् । समश्नुतेति । अशू व्याप्तौ । स्वादिरनुदात्तेत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003356,
+    "chapter_id": 6591,
+    "verse_number": "15.20",
+    "content_sanskrit": "सौमित्रेर्निशितैर्बाणैरन्तरा शकलीकृतः । गात्रं पुष्परजः प्राप न शाखी नैर्ऋतेरितः ॥",
+    "padaccheda": "सौमित्रेः । निशितैः । बाणैः । अन्तरा । शकलीकृतः । गात्रं । पुष्परजः । प्राप । न । शाखी । नैर्ऋतेरितः",
+    "anvaya": "नैर्ऋतेरितः शाखी अन्तरा सौमित्रेः निशितैः बाणैः शकलीकृतः (सन्) पुष्प-रजः (भूत्वा) गात्रम् प्राप, न (पुनः शाखी भूत्वा) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The tree, hurled by the Rakshasa, was shattered midway by Shatrughna's sharp arrows and reached his body only as fine dust, not as a tree.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003356,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सौमित्रेरिति॥ नैर्ऋतेरितो रक्षःप्रेरितः शाख्यन्तरा मध्ये निशइतैर्बाणैः शकलीकृतः सन्, सौमित्रेः शत्रुघ्नस्य गात्रं न प्राप। किंतु पुष्परजः प्राप ॥"
+    }
+  ]
+}

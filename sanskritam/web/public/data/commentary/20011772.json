@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011772,
+    "chapter_id": 6685,
+    "verse_number": "13.108",
+    "content_sanskrit": "विना सखीभिस्त्रपया परीता निवारिताभिर्मधुसूदनेन । सैकाकिनी मुग्धकटाक्षपाता पार्श्वे स्थिता मन्दमवन्दतैनम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011772,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "एनमित्यन्वादेशे 'द्वितीया टौस्स्वेनः' (पा.२|४|३४) ॥"
+    }
+  ]
+}

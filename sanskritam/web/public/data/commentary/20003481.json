@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003481,
+    "chapter_id": 6592,
+    "verse_number": "16.42",
+    "content_sanskrit": "वसन्स तस्यां वसतौ रघूणां पुराणशोभामधिरोपितायाम् । न मैथिलेयः स्पृहयांबभूव भर्त्रे दिवो नाप्यलकेश्वराय ॥",
+    "padaccheda": "वसन् । सः । तस्याम् । वसतौ । रघूणाम् । पुराणशोभाम् । अधिरोपितायाम् । न । मैथिलेयः । स्पृहयांबभूव । भर्त्रे । दिवः । न । अपि । अलकेश्वराय",
+    "anvaya": "पुराणशोभाम् अधिरोपितायाम् रघूणाम् तस्याम् वसतौ वसन् सः मैथिलेयः दिवः भर्त्रे न स्पृहयांबभूव, अलकेश्वराय अपि न (स्पृहयांबभूव) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Dwelling in that residence of the Raghus, which had been restored to its ancient splendor, Kusha, the son of the Maithili princess (Sita), felt no envy for Indra, the lord of heaven, nor for Kubera, the lord of Alaka.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003481,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वसन्निति॥ स मैथिलेयः कुशः पुराणशोभां पूर्वशोभामधिरोपितायां तस्यां रघूणां वसतावयोध्यायां वसन्। दिवो भर्त्रे देवेन्द्राय तथाऽलकेश्वराय कुबेरायापि न स्पृहयांबभूव। तावपि न गणयामासेत्यर्थः। `स्पृहेरीप्सितः` (पा.1।4।37) इति संप्रदानत्वाञ्चतुर्थी। एतेनायोध्याया अन्यनगरातिशायित्वं गम्यते ॥"
+    }
+  ]
+}

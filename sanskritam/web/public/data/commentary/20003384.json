@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003384,
+    "chapter_id": 6591,
+    "verse_number": "15.48",
+    "content_sanskrit": "इत्याप्तवचनाद्रामो विनेष्यन्वर्णविक्रियाम् । दिशः पपात पत्रेण वेगनिष्कम्पकेतुना ॥",
+    "padaccheda": "इति । आप्तवचनात् । रामः । विनेष्यन् । वर्णविक्रियाम् । दिशः । पपात । पत्रेण । वेगनिष्कम्पकेतुना",
+    "anvaya": "इति आप्तवचनात् वर्णविक्रियाम् विनेष्यन् रामः वेगनिष्कम्पकेतुना पत्रेण दिशः पपात।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hearing this trustworthy voice and intending to correct the transgression of social order, Rama flew through the skies in his chariot, whose banner remained still due to its immense speed.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003384,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इत्याप्तवचनाद्रामो वर्णविक्रियां वर्णापचारं विनेष्यन्नपनेष्यन् वेगेन निष्कम्पकेतुना पत्रेण वाहनेन पुष्पकेण। `पत्रं वाहनपक्षयोः` इत्यमरः (अ.को.3|3|187)। दिशः पपात धावति स्म ॥"
+    }
+  ]
+}

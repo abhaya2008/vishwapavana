@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011098,
+    "chapter_id": 6679,
+    "verse_number": "7.108",
+    "content_sanskrit": "श्रुत्वा नृपागतं पार्थं पार्थिवश्चित्रवाहनः । मुख्यामात्यवृतः प्रीतस्सम्भ्रान्तः प्रत्युदव्रजत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011098,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अमात्येति अमाशब्दात् 'अव्ययात्यप्' (पा.४|२|१०४) इति त्यप् शौषिकः । तत्रच'मेहक्वतसित्रैभ्य' इति परिगणनं कृतम् ॥"
+    }
+  ]
+}

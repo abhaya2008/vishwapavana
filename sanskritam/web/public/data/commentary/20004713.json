@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004713,
+    "chapter_id": 6611,
+    "verse_number": "16.5",
+    "content_sanskrit": "सङ्ग्रामानन्दवर्धिष्णौ विग्रहे पुलकाञ्चिते । आसीत्कवचविच्छेदो वीराणां मिलतां मिथः ॥",
+    "padaccheda": "सङ्ग्रामानन्दवर्धिष्णौ । विग्रहे । पुलकाञ्चिते । आसीत् । कवचविच्छेदः । वीराणाम् । मिलताम् । मिथः",
+    "anvaya": "सङ्ग्रामानन्दवर्धिष्णौ पुलकाञ्चिते विग्रहे मिथः मिलतां वीराणां कवचविच्छेदः आसीत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the warriors clashed with each other, their bodies bristled with hair out of the increasing thrill of battle, causing their armor to split or snap under the physical expansion of their excitement.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004713,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संग्रामेति संग्रामानन्देन समरोत्साहेन बर्धिष्णौ वृद्धिशीले अत एव पुलकाञ्चिते रोमाञ्चव्याप्ते मिथो मिलतां सङ्गच्छमानानां वीराणां योद्धॄणां विग्रहे शरीरे । जातावेकवचनम् । कवचानां वारणानां विभेद आसीत्"
+    }
+  ]
+}

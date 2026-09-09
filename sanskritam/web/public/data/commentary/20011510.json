@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011510,
+    "chapter_id": 6683,
+    "verse_number": "11.87",
+    "content_sanskrit": "स्फुटत्फलायारण्यानी कालकौशेयवाससम् । हिमानीधवलं दृष्ट्वा हलिनं हृष्यति स्म सः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011510,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अरण्यानी हिमानी । 'हिमारण्ययोर्महत्त्वे' इति वचनान्महत्त्वे ङीषानुकौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004564,
+    "chapter_id": 6608,
+    "verse_number": "13.11",
+    "content_sanskrit": "पुरो भव त्वं, न पुरो भवामि, नाहं पुरोगोऽस्मि, पुरः सरस्त्वम् । इत्थं सुरास्तत्क्षणमेव भीताः स्वर्गं प्रवेष्टुं कलहं वितेनुः ॥",
+    "padaccheda": "पुरः । भव । त्वम् । न । पुरः । भवामि । न । अहम् । पुरोगः । अस्मि । पुरःसरः । त्वम् । इत्थम् । सुराः । तत्क्षणम् । एव । भीताः । स्वर्गम् । प्रवेष्टुम् । कलहम् । वितेनुः",
+    "anvaya": "त्वम् पुरः भव अहम् पुरः न भवामि अहम् पुरोगः न अस्मि त्वम् पुरःसरः इत्थम् भीताः सुराः तत्क्षणम् एव स्वर्गम् प्रवेष्टुम् कलहम् वितेनुः",
+    "meaning_sanskrit": "",
+    "meaning_english": "Terrified of the impending battle, the gods began to quarrel among themselves at that very moment. Ironically, instead of fighting the enemy, they argued about who should go first to enter heaven (fleeing the battlefield), each urging the other to take the lead in their retreat.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004564,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पुर इति । तत्क्षणम् । `कालाध्वनोः-' इति द्वितीया । प्रवेशसमय इत्यर्थः । भीता अतस्तारकावस्थानशङ्क्या सभयाः सुराः स्वर्गं प्रवेष्टुम् `त्वं पुरोऽग्रे भव । अङं पुरो न भवामि, किं तु त्वमेव भव । अहं पुरोगो नास्मि न भवामि । त्वं पुरः सुरो भव' इत्थंमेवंभूतं कलहं विग्रहं वितेनुः । चक्रुरित्यर्थः । अस्मीत्यहमर्थकमव्ययम् । सर्वेषां त्रिधाभूततया न कोऽप्यन्तः प्रवेष्टुं शशाक । किंतु तत्रैव कलहायमानास्तस्थुरिति भावः"
+    }
+  ]
+}

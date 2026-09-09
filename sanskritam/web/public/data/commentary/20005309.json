@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005309,
+    "chapter_id": 6622,
+    "verse_number": "10.18",
+    "content_sanskrit": "सपदि हरिसखैर्वधूनिदेशाद्ध्वनितमनोरमवल्लकीमृदङ्गैः । युगपद् ऋतुगणस्य संनिधानं वियति वने च यथायथं वितेने ॥",
+    "padaccheda": "सपदि । हरिसखैः । वधूनिदेशात् । ध्वनितमनोरमवल्लकीमृदङ्गैः । युगपत् । ऋतुगणस्य । संनिधानम् । वियति । वने । च । यथायथम् । वितेने",
+    "anvaya": "सपदि वधू-निदेशात् ध्वनित-मनोरम-वल्लकी-मृदङ्गैः हरि-सखैः ऋतु-गणस्य संनिधानं वियति वने च यथा-यथं युगपत् वितेने।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Immediately, at the command of the women, the Gandharvas, friends of Indra, playing their charming lutes and drums, simultaneously brought about the presence of all the seasons, each manifesting appropriately in the sky and the forest.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005309,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "सपदीति । सपदि वधूनां निदेशानियोगाद्ध्वनिता नादितामनोरमा वल्लक्यो विणा मृदङ्गाश्च यैस्तैर्हरिसखैर्गन्धर्वैर्वियत्याकाशे वने च युगपद्दतुगपणस्यतुर्षट्कस्य संनिधानमाविर्भावो यथायथं यथास्वम् । असंकरेणेत्यर्थः।`यथास्वं तु यथायथम्`इति निपातः। वितेने वितस्तरे । उद्दीपनसामग्री संपादितेत्यर्थः ।। अथ वर्षाक्रमेणर्तून्वर्णयति-सजलेत्यादि ।"
+    }
+  ]
+}

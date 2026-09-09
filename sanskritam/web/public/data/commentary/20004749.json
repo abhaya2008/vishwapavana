@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004749,
+    "chapter_id": 6611,
+    "verse_number": "16.41",
+    "content_sanskrit": "तुरङ्गी तुरगारुढं प्रासेनाहत्य वक्षसि । पततस्तस्य नाज्ञासीत्प्रसघातं स्वके हृदि ॥",
+    "padaccheda": "तुरङ्गी । तुरगारुढम् । प्रासेन । आहत्य । वक्षसि । पततः । तस्य । न । आज्ञासीत् । प्रासघातम् । स्वके । हृदि",
+    "anvaya": "तुरङ्गी तुरग-आरुढं प्रासेन वक्षसि आहत्य पततः तस्य प्रस-घातं स्वके हृदि न आज्ञासीत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "A cavalryman struck an opponent mounted on a horse in the chest with a spear. As the opponent was falling, the cavalryman was so absorbed in the act that he did not even realize he himself had been struck by a spear in his own heart.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004749,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तुरङ्गीति । तुरङ्ग्यश्वारोहः कश्चिद्योद्धा तुरगारुढमश्ववारं प्रासेन कुन्तेन वक्षस्याहत्य ताडयित्वा पततस्तस्याश्ववारस्य कर्तृकं स्वक आत्मीये हृदि प्रासघातं कुन्तक्षतं नाज्ञासीन्न विजज्ञे । तदीयपतनजानन्दस्योद्वेलत्वादिति भावः"
+    }
+  ]
+}

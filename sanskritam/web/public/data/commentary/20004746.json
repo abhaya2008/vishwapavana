@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004746,
+    "chapter_id": 6611,
+    "verse_number": "16.38",
+    "content_sanskrit": "क्रुद्धस्य दन्तिनः पत्तिर्जिघृक्षोरसिना करम् । निर्भिद्य दन्तमुसलावारुरोह जिघृक्षया ॥",
+    "padaccheda": "क्रुद्धस्य । दन्तिनः । पत्तिः । जिघृक्षोः । असिना । करम् । निर्भिद्य । दन्तमुसलौ । आरुरोह । जिघृक्षया",
+    "anvaya": "पत्तिः करम् जिघृक्षोः क्रुद्धस्य दन्तिनः दन्त-मुसलौ असिना निर्भिद्य जिघृक्षया आरुरोह ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "An infantryman, having split the pestle-like tusks of an angry elephant wanting to seize him with its trunk, climbed the animal with the intent to capture it.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004746,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "क्रुद्धस्येति । पत्तिः पादचारी काश्चिद्योधः क्रुद्धस्यात एव जिघृक्षोर्गृहीतुमिच्छोर्दन्तिनः करं दन्तयोरधोभागम् । असिना निर्भिद्य अच्छित्वा जिघृक्षया प्रत्युत तस्यैव ग्रहीतुमिच्छया दन्तमुसलावारुरोहारुढवान्"
+    }
+  ]
+}

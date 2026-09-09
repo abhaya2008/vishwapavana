@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004326,
+    "chapter_id": 6603,
+    "verse_number": "8.86",
+    "content_sanskrit": "तौ क्षणं शिथिलितोपगूहनौ दम्पती चलितमानसोर्मयः । पद्मभेदपिशुनाः सिषेविरे गन्धमादनवनान्तमारुताः ॥",
+    "padaccheda": "तौ । क्षणम् । शिथिलितोपगूहनौ । दम्पती । चलितमानसोर्मयः । पद्मभेदपिशुनाः । सिषेविरे । गन्धमादनवनान्तमारुताः",
+    "anvaya": "चलितमानसोर्मयः पद्मभेदपिशुनाः गन्धमादनवनान्तमारुताः क्षणं शिथिलितोपगूहनौ तौ दम्पती सिषेविरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The breezes from the edges of the Gandhamadana forest, which indicated the blossoming of lotuses and stirred waves of emotion in the mind, served the couple for a moment as they loosened their embrace.",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004326,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ताविति । शिथिलितोपगूहनौ शिथिलितालिङ्गनौ । जाया च पतिश्चदंपती । जायाशब्दस्य दंभावो निपातितः तौ शिवौ रचितमानसोर्मयः । मानसे सरसि रचिततरङ्गा इत्यर्थः । पद्मभेदनिपुणाः । पद्मभेदपिशुना इति यावत् । विकाससूचका इत्यर्थः । गन्धमादनवनान्तमारुताः क्षणं सिषेविरे"
+    }
+  ]
+}

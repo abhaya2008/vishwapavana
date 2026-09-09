@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011435,
+    "chapter_id": 6683,
+    "verse_number": "11.12",
+    "content_sanskrit": "सर्वीयतरत्सम्पूर्णं गम्भीरं वाहिनीभृतम् । पूरयन्तं जगद्वन्धून्महतो जलदाञ्जलैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011435,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "समाधिरयम् । विशेषणैर्बहुभिः श्लिष्टैस्सुराज्ञः सम्प्रत्ययात् जगद्वन्धून्महत इत्यनेन चात्र भूतानां ब्राह्मणानां जलदानित्यनेन जलैरित्यनेन च धनानाम् ॥"
+    }
+  ]
+}

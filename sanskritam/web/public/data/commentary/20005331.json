@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005331,
+    "chapter_id": 6622,
+    "verse_number": "10.40",
+    "content_sanskrit": "मुनिमभिमुखतां निनीषवो याः समुपययुः कमनीयतागुणेन । मदनमुपदधे स एव तासां दुरधिगमा हि गतिः प्रयोजनानाम् ॥",
+    "padaccheda": "मुनिम् । अभिमुखताम् । निनीषवः । याः । समुपययुः । कमनीयतागुणेन । मदनम् । उपदधे । सः । एव । तासाम् । दुरधिगमा । हि । गतिः । प्रयोजनानाम्",
+    "anvaya": "याः कमनीयतागुणेन मुनिम् अभिमुखतां निनीषवः समुपययुः, सः एव तासां मदनम् उपदधे। हि प्रयोजनानां गतिः दुरधिगमा भवति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Those celestial women who, by the quality of their loveliness, approached the sage (Arjuna) desiring to win his attention, found that he himself instead produced love in them. Indeed, the outcome of undertakings is difficult to comprehend.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005331,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मुनिमिति ॥ या: स्त्रियः कमनीयता सौन्दर्यं सैव गुणस्तेन मुनिमर्जुनमभिमुखतां वश्यतां निनीषवो नेतुमिच्छवः समुपययुः । तासां स्त्रीणां स मुनिरेव मदनमुपदधे जनयामास। तथा हि । प्रयोजनानामुद्देश्यानां गतिः परिणतिर्दुरधिगमा हि दुर्ज्ञेया खलु । अतः कचिद्भवति क्वचिन्न भवतीति भावः ॥ अथासामनुरागमेव कार्यतः प्रपञ्चयति"
+    }
+  ]
+}

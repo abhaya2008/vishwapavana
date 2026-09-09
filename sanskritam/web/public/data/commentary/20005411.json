@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005411,
+    "chapter_id": 6623,
+    "verse_number": "11.57",
+    "content_sanskrit": "ध्वंसेत हृदयं सद्यः परिभूतस्य मे परैः । यद्यमर्षः प्रतीकारं भुजालम्बं न लम्भयेत् ॥",
+    "padaccheda": "ध्वंसेत । हृदयम् । सद्यः । परिभूतस्य । मे । परैः । यदि । अमर्षः । प्रतीकारम् । भुजालम्बम् । न । लम्भयेत्",
+    "anvaya": "यदि अमर्षः प्रतीकारम् भुजालम्बम् न लम्भयेत्, (तर्हि) परैः परिभूतस्य मे हृदयम् सद्यः ध्वंसेत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'My heart, having been so deeply insulted by my enemies, would shatter instantly if my own burning indignation did not make retaliation, supported by the strength of my arms, an attainable goal.'",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005411,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "ध्वंसतेति ॥ परैः शत्रुभिः परिभूतस्य मे हृदयं सद्यो ध्वंसेत। भ्रश्येदित्यर्थः । अमर्षः कर्ता प्रतीकारं प्रतिक्रियारूपं भुजालम्बं हस्तावलम्बनं न लम्भयेन्न ग्राहयेद्यदि । हृदयेनेति शेषः । सत्यं जीवामि प्रतिविधित्सया । न तु निर्लज्जतयेति भावः ॥ ननु तवैव कोऽयमभिमानस्तत्राह"
+    }
+  ]
+}

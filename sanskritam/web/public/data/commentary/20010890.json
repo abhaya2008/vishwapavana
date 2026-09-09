@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010890,
+    "chapter_id": 6678,
+    "verse_number": "6.11",
+    "content_sanskrit": "पश्यन्तं तमुवाचेदं फल्गुनं गाथिनन्दनः । बीभत्सो पश्य पश्येमां गङ्गां सर्वसरिद्वराम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010890,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आन्तरालिकानि'से सेनादीनि' छान्दसत्वादतिक्रम्य क्त्वादीन्युदाहरति—"
+    }
+  ]
+}

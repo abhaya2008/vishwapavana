@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011924,
+    "chapter_id": 6687,
+    "verse_number": "15.21",
+    "content_sanskrit": "स्मृतश्चेदं त्वया तं स दंशयिष्यति पन्नगैः । दंष्ट्रास्तेषां भविष्यन्ति चूर्णास्तद्गात्रसङ्गताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011924,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विभाषा साकांक्षे इति (पा.३|२|११४) वा लृट् ॥"
+    }
+  ]
+}

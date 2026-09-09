@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002803,
+    "chapter_id": 6584,
+    "verse_number": "8.93",
+    "content_sanskrit": "तस्य प्रसह्य हृदयं किल शोकशङ्कुः प्लक्षप्ररोह इव सौधतलं बिभेद । प्राणान्तहेतुमपि तं भिषजामसाध्यं लाभं प्रियानुगमने त्वरया स मेने ॥",
+    "padaccheda": "तस्य । सा । प्रसह्य । हृदयम् । किल । शोक-शङ्कुः । प्लक्ष-प्ररोहः । इव । सौध-तलम् । बिभेद । प्राण-अन्त-हेतुम् । अपि । तम् । भिषजाम् । असाध्यम् । लाभम् । प्रिय-अनुगमने । त्वरया । सः । मेने",
+    "anvaya": "प्लक्ष-प्ररोहः सौध-तलम् इव, सा शोक-शङ्कुः किल तस्य हृदयम् प्रसह्य बिभेद । सः भिषजाम् असाध्यम् प्राण-अन्त-हेतुम् अपि तम् (शोकशङ्कुम्) प्रिय-अनुगमने त्वरया लाभम् मेने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, that stake of grief violently split his heart, just as a shoot of the Plaksha tree breaks through a palace terrace. He considered that grief, though incurable by physicians and the cause of his eventual death, a gain because it hastened his reunion with his beloved.",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002803,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ शोक एव शङ्कुः कीलः। `शङ्कुः कीले शिवेऽस्त्रे च` इति विश्वः। तस्याजस्य हृदयम्। प्लक्षप्ररोहः सौधतलमिव। प्रसह्य बलात्किल बिभेद। सोऽजः प्राणान्तहेतुं मरणकारणमपि भिषजामसाध्यमप्रतिसमाधेयं तं शोकशङ्कुं रोगपर्यवसितं प्रियाया अनुगमने त्वरयोत्कण्ठया लाभं मेने। तद्विरहस्यातिदुःसहत्वात्तत्प्राप्तिकारणं मरणमेव वरमित्यमन्यतेत्यर्थः ॥"
+    }
+  ]
+}

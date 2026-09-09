@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004127,
+    "chapter_id": 6601,
+    "verse_number": "6.77",
+    "content_sanskrit": "योगिनो यं विचिन्वन्ति क्षेत्राभ्यन्तरवर्तिनम् । अनावृत्तिभयं यस्य पदमाहुर्मनीषिणः ॥",
+    "padaccheda": "योगिनः । यम् । विचिन्वन्ति । क्षेत्राभ्यन्तरवर्तिनम् । अनावृत्तिभयम् । यस्य । पदम् । आहुः । मनीषिणः",
+    "anvaya": "योगिनः क्षेत्र-अभ्यन्तर-वर्तिनम् यम् विचिन्वन्ति, यस्य पदम् मनीषिणः अनावृत्ति-भयम् आहुः...",
+    "meaning_sanskrit": "",
+    "meaning_english": "...whom yogis seek, residing within the 'field' (the body), and whose state the wise declare to be the supreme abode, free from the fear of rebirth... (The description of Shiva concludes).",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004127,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "योगिन इति । योगिनोऽध्यात्मवेदिनः क्षेत्राभ्यन्तरवर्तिनं शरीरान्तश्चरं सर्वभूतान्तर्यामिणम् । परमात्मस्वरूपिणमित्यर्थः । `क्षेत्रं पत्नीशरीरयोः` इत्यमरः (अ.को.3|3|188) । यं शंभुं विचिन्वन्ति मृगयन्ते, मनीषिणो विद्वांसो यस्य शंभोः पदं स्थानमविद्यमानमावृत्तेः पुनः संसारापत्तेर्भयं यत्र तत्तथाभूतमाहुः"
+    }
+  ]
+}

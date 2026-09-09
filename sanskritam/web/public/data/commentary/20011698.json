@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011698,
+    "chapter_id": 6685,
+    "verse_number": "13.34",
+    "content_sanskrit": "सा त्वया कथनीया मे याऽऽकर्षद्धृदयन्तव । पतितोरसि मारार्ता वेदितव्या च सा त्वया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011698,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सा मदुपायैस्त्वोरसि मारार्ता पतिता वेदितव्या च यदि कथयिष्यसीत्यर्थः । 'आशंसायां भूतवच्चे'ति (पा.३|३|१३२) क्तः ॥"
+    }
+  ]
+}

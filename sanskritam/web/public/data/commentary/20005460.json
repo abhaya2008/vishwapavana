@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005460,
+    "chapter_id": 6624,
+    "verse_number": "12.25",
+    "content_sanskrit": "मुनयस्ततोऽभिमुखमेत्य नयनविनिमेषनोदिताः । पाण्डुतनयतपसा जनितं जगतामशर्म भृशमाचचक्षिरे ॥",
+    "padaccheda": "मुनयः । ततः । अभिमुखम् । एत्य । नयनविनिमेषनोदिताः । पाण्डुतनयतपसा । जनितम् । जगताम् । अशर्म । भृशम् । आचचक्षिरे",
+    "anvaya": "ततः नयनविनिमेषनोदिताः मुनयः अभिमुखम् एत्य, पाण्डुतनयतपसा जनितम् जगताम् अशर्म भृशम् आचचक्षिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the sages, prompted by a blink of his eyes, approached him and reported in detail the great distress caused to the worlds by the penance of Pandu's son (Arjuna).",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005460,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मुनय इति ॥ ततो दर्शनानन्तरं मुनयोऽभिमुखमेत्य । शिवस्येति शेषः । नयनविनिमेषेण नेत्रसंज्ञया नोदिताः प्रेरिताः सन्तः पाण्डुतनयस्यार्जुनस्य तपसा जनितं तत्पूर्वोक्तं जगतामशर्मासुखम् । दुःखमित्यर्थः । `शर्मशातसुखानि च` इत्यमरः (अ.को.1|4|26) । भृशं सम्यगाचचक्षिरे कथितवन्तः।।"
+    }
+  ]
+}

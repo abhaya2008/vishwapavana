@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010904,
+    "chapter_id": 6678,
+    "verse_number": "6.25",
+    "content_sanskrit": "यथा वर्षति कूपप्रं नदपूरञ्च वासवः । तथा स पूरयन् बालान् वयस्थांश्चौदनं ददौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010904,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कूपप्रं नदपूरमिति । 'वर्षप्रमाण ऊलोपश्चास्यान्यतरस्यां' (पा.३|४|३२) इति णमुल् । ऊकारस्य च वा लोपः । अत्रापि न पौर्वकाल्यम् । गोष्पदादि पूरयन् हि देवो वर्षति ॥"
+    }
+  ]
+}

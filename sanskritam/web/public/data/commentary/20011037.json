@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011037,
+    "chapter_id": 6679,
+    "verse_number": "7.47",
+    "content_sanskrit": "उत्तमो नम्रतामेति ज्ञानभारं वहन्निव । विभर्त्युत्तालतामेव तमविभ्रदिवेतरः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011037,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आर्यस्वभावं द्रढयितुमनार्यस्वभावकथनम् । यदुत्तमः प्रकृत्या नमनशीलः । नीचश्चोद्धतः । नीच एवाधिकः । उत्तमस्तु हीन एवेत्यत आह—"
+    }
+  ]
+}

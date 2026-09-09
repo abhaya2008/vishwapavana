@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005462,
+    "chapter_id": 6624,
+    "verse_number": "12.27",
+    "content_sanskrit": "स धनुर्महेषुधि बिभर्ति कवचमसिमुत्तमं जटाः । वल्कमजिनमिति चित्रमिदं मुनिताविरोधि न च नास्य राजते ॥",
+    "padaccheda": "सः । धनुः । महेषुधी । बिभर्ति । कवचम् । असिम् । उत्तमम् । जटाः । वल्कम् । अजिनम् । इति । चित्रम् । इदम् । मुनिताविरोधि । न । च । न । अस्य । राजते",
+    "anvaya": "सः धनुः, महेषुधी, कवचम्, उत्तमम् असिम्, जटाः, वल्कम्, अजिनम् (च) बिभर्ति । इदम् मुनिताविरोधि चित्रम् अस्य न राजते इति न च (अस्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"He bears a bow, two large quivers, armor, an excellent sword, matted hair, bark garments, and a deerskin. This strange combination, contradictory to the life of a sage, is not that it does not suit him; it shines splendidly.\"",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005462,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ किं च । स पुरुषो महान्ताविषुधी यस्य तन्महेषुधि धनुः कवचं वर्मोत्तममसिं खड्गं जटा वल्कं चीरमजिनं चर्म च बिभर्ति । इत्येवंरूपमिदं विरुद्धवेषधारणं मुनिताविरोधि मुनित्वप्रतिबन्धकं तथाप्यस्य न राजत इति न । किं तु राजत एषेत्यर्थः । चित्रमाश्चर्यम् । `संभाव्यनिषेधनिवर्तने द्वौ प्रतिषेधौ` इति वामनः ॥"
+    }
+  ]
+}

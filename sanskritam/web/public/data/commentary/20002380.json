@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002380,
+    "chapter_id": 6579,
+    "verse_number": "3.61",
+    "content_sanskrit": "रघुर्भृशं वक्षसि तेन ताडितः पपात भूमौ सह सैनिकाश्रुभिः । निमेषमात्रादवधूय च व्यथां सहोत्थितः सैनिकहर्षनिस्वनैः ॥",
+    "padaccheda": "रघुः । भृशम् । वक्षसि । तेन । ताडितः । पपात । भूमौ । सह । सैनिकाश्रुभिः । निमेषमात्रात् । अवधूय । च । व्यथाम् । सह । उत्थितः । सैनिकहर्षनिस्वनैः",
+    "anvaya": "तेन वक्षसि भृशम् ताडितः रघुः सैनिक-अश्रुभिः सह भूमौ पपात । च निमेषमात्रात् व्यथाम् अवधूय सैनिक-हर्ष-निस्वनैः सह उत्थितः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Struck heavily on the chest by it (the Vajra), Raghu fell to the ground along with the tears of his soldiers. And, in just a moment, shaking off the pain, he rose up along with the joyous shouts of his soldiers.",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002380,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रघुरिति॥ रघुस्तेन वज्रेण भृशमत्यर्थं वक्षसि ताडितो हतः सन् । सैनिकानामश्रुभिः सह भूमौ पपात। तस्मिन्पतिते ते रुरुदुरित्यर्थः। निमेषमात्राद्व्यथां दुःखमवधूय तिरस्कृत्य सैनिकानां हर्षेण ये निस्वनाः क्ष्वेडास्तैः सहोत्थितश्च। तस्मिन्नुत्थिते हर्षात्सिंहनादांश्चक्रुरित्यर्थः॥"
+    }
+  ]
+}

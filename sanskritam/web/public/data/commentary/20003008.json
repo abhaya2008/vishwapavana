@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003008,
+    "chapter_id": 6587,
+    "verse_number": "11.35",
+    "content_sanskrit": "राघवान्वितमुपस्थितं मुनिं तं निशम्य जनको जनेश्वरः । अर्थकामसहितं सपर्यया देहबद्धमिव धर्ममभ्यगात् ॥",
+    "padaccheda": "राघवान्वितम् । उपस्थितम् । मुनिम् । तम् । निशम्य । जनकः । जनेश्वरः । अर्थकामसहितम् । सपर्यया । देहबद्धम् । इव । धर्मम् । अभ्यगात्",
+    "anvaya": "जनेश्वरः जनकः राघवान्वितम् उपस्थितम् तम् मुनिम् निशम्य सपर्यया अर्थकामसहितम् देहबद्धम् धर्मम् इव अभ्यगात्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hearing of the arrival of the Sage accompanied by the two Raghava princes, King Janaka went out to welcome him with offerings, as if he were welcoming embodied Dharma accompanied by Artha and Kāma.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003008,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राघवेति॥ राघवाभ्यामन्वितं युक्तमुपस्थितमागतं तं मुनिं जनको जनेश्वरो निशम्य। अर्थकामाभ्यां सहितं देहबद्धं बद्धदेहम्। मूर्तिमन्तमित्यर्थः। वाहिताग्न्यादित्वात्साधुः। धर्ममिव। सपर्ययाऽभ्यगात् प्रत्युद्गतवान् ॥"
+    }
+  ]
+}

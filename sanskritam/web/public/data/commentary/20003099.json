@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003099,
+    "chapter_id": 6588,
+    "verse_number": "12.33",
+    "content_sanskrit": "सा सीतासंनिधावेव तं वव्रे कथितान्वया । अत्यारूढो हि नारीणामकालज्ञो मनोभवः ॥",
+    "padaccheda": "सा । सीतासंनिधौ । एव । तम् । वव्रे । कथितान्वया । अत्यारूढः । हि । नारीणाम् । अकालज्ञः । मनोभवः",
+    "anvaya": "सा सीतासंनिधौ एव कथितान्वया तं वव्रे हि नारीणाम् अत्यारूढः मनोभवः अकालज्ञः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the very presence of Sita, she declared her lineage and chose Rama as her husband. Indeed, when love in women becomes excessive, it loses all sense of propriety and timing.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003099,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ सा शूर्पणखा सीतासंनिधावेव कथितान्वया कथितस्ववंशा सती तं रामं वव्रे वृतवती। तथा हि-अत्यारूढोऽतिप्रवृद्धो नारीणां मनोभवः कामः कालज्ञोऽवसरज्ञो न भवतीत्यकालज्ञो हि ॥"
+    }
+  ]
+}

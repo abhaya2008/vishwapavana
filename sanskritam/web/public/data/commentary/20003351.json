@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003351,
+    "chapter_id": 6591,
+    "verse_number": "15.15",
+    "content_sanskrit": "स च प्राप मधूपघ्नं कुम्भीनस्याशअच कुक्षिजः । वनात्करमिवादाय सत्त्वराशिमुपस्थितः ॥",
+    "padaccheda": "सः । च । प्राप । मधूपघ्नम् । कुम्भीनस्याः । च । कुक्षिजः । वनात् । करम् । इव । आदाय । सत्त्वराशिम् । उपस्थितः",
+    "anvaya": "कुम्भीनस्याः कुक्षिजः सः च वनात् करम् इव सत्त्व-राशिम् आदाय उपस्थितः (सन्) मधूपघ्नम् प्राप ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And that son of Kumbhinasi, Lavana, having returned from the forest bringing a heap of living beings like a tax, reached Madhupaghna.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003351,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स चेति॥ स शत्रुश्च मधूपघअनं नाम लवणपुरं प्राप। कुम्भीनसी नाम रावणस्वसा। तस्याः कुक्षिजः पुत्रो लवणश्च वनात्करं बलिमिव सत्त्वानां प्राणिनां राशिमादायोपस्थितः प्राप्तः ॥"
+    }
+  ]
+}

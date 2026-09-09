@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011183,
+    "chapter_id": 6680,
+    "verse_number": "8.69",
+    "content_sanskrit": "स मासिकादिसंसर्गमुदितः स्म समर्चति । समीनैरंबरैस्सूक्ष्मैर्भूषणैश्च मनीषिणः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011183,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मासिकेति । भूते प्राग्वतेष्ठञ् (पा.५|१|१८) । समीनैरिति भाविनि खः । समां भाविभिर्द्रढिष्ठैरित्यर्थः ॥"
+    }
+  ]
+}

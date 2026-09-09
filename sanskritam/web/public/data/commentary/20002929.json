@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002929,
+    "chapter_id": 6586,
+    "verse_number": "10.42",
+    "content_sanskrit": "स्रष्टुर्वरातिसर्गात्तु मया तस्य दुरात्मनः । अत्यारूढं रिपोः सोढं चन्दनेनेव भोगिनः ॥",
+    "padaccheda": "स्रष्टुः । वर-अतिसर्गात् । तु । मया । तस्य । दुरात्मनः । अत्यारूढम् । रिपोः । सोढम् । चन्दनेन । इव । भोगिनः",
+    "anvaya": "तु स्रष्टुः वर-अतिसर्गात् मया तस्य दुरात्मनः रिपोः अत्यारूढम् सोढम्, चन्दनेन भोगिनः (अत्यारूढम्) इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "However, due to the excessive boon granted by the Creator (Brahma), I have so far endured the extreme arrogance of that evil-minded enemy, just as a sandalwood tree tolerates a serpent coiled around it.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002929,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्रष्टुरिति॥ किंतु स्रष्टुर्ब्रह्मणो वरातिसर्गाद्वरदानाद्धेतोः। मया तस्य दुरात्मनो रिपो रावणस्यात्यारूढमत्यारोहणम्। अतिवृद्धिरित्यर्थः। नपुंसके भावेक्तः। भोगिनः सर्पस्यात्यारूढं चन्दनेनेव सोढम्। चन्दनद्रुमस्यापि तथा सहनं स्रष्टुर्नियतेरिति द्रष्टव्यम् ॥"
+    }
+  ]
+}

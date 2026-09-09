@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013514,
+    "chapter_id": 6701,
+    "verse_number": "9.48",
+    "content_sanskrit": "भगवन्न वेद्मि दुहितुर्मम भा- व्यखिलं च वेत्ति तपसा हि भवान् । प्रणते जने हि सुधियः कथय- न्त्यपि गोप्यमार्यसदृशाः कृपया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013514,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "हे भगवन्मद्दुहितुर्भविष्यमहं न जानामि भवान्हि तपसा वेत्त्यार्यसदृशा नम्रे जने गोप्यमपि कृपया कथयन्त्येव ॥ ४८ ॥"
+    }
+  ]
+}

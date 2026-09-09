@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003333,
+    "chapter_id": 6590,
+    "verse_number": "14.84",
+    "content_sanskrit": "बभूव रामः सहसा सबाष्पस्तुषारवर्षीव सहस्यचन्द्रः । कौलीनभीतेन गृहान्निरस्ता न तेन वैदेहसुता मनस्तः ॥",
+    "padaccheda": "बभूव । रामः । सहसा । सबाष्पः । तुषारवर्षी । इव । सहस्यचन्द्रः । कौलीनभीतेन । गृहात् । निरस्ता । न । तेन । वैदेहसुता । मनस्तः",
+    "anvaya": "रामः सहसा तुषारवर्षी सहस्यचन्द्रः इव सबाष्पः बभूव। कौलीनभीतेन तेन वैदेहसुता गृहात् निरस्ता, मनस्तः न।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama suddenly became tearful, like the moon in the month of Pausha shedding dew. Though he, fearing public scandal, had banished Sita from his house, he had not banished her from his mind.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003333,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बभूवेति॥ सहसा सपदि सबाष्पो रामः। तुषारवर्षी सहस्यचन्द्र इव बभूव। अत्यश्रुतया तुषारवर्षिणा पौषचन्द्रेण तुल्योऽभूत्। `पौषे तैषसहस्यौ द्वौ` इत्यमरः (अ.को.1|4|16)। युक्तं चैतदित्याह-कौलीनाल्लोकापवादाद्भीतेन तेन रामेण वैदेहसुता सीता गृहान्निरस्ता। न मनस्तो मनसश्चित्तान्न निरस्ता। पञ्चम्यास्तसिल् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011565,
+    "chapter_id": 6684,
+    "verse_number": "12.17",
+    "content_sanskrit": "अवेपिषातामन्यस्याश्चलमुक्तावलीकुचौ । अकम्पिषाताञ्चैकस्या दोर्लते धृतकङ्कणे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011565,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वेपतिकम्पती अप्युदात्तानुदात्तेतौ । श्वासस्वेदवेपथवः शृङ्गाररसस्यानुभावा दर्शिताः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010659,
+    "chapter_id": 6676,
+    "verse_number": "4.5",
+    "content_sanskrit": "वर्णाश्रमान् कर्मकृतः करोत्येष नृपः सुकृत् । पुरोहितैरमात्यैश्च मन्त्रकृद्भिरुपासितः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010659,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनेन परिपालनसौष्ठवमाह । पूर्ववत् क्विप् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003489,
+    "chapter_id": 6592,
+    "verse_number": "16.50",
+    "content_sanskrit": "स्नानार्द्रमुक्तेष्वनुधूपवासं विन्यस्तसायंतनमल्लिकेषु ॥ कामो वसन्तात्ययमन्दवीर्यः केशेषु लेभे बलमङ्गनानाम् ॥",
+    "padaccheda": "स्नानार्द्रमुक्तेषु । अनुधूपवासम् । विन्यस्तसायंतनमल्लिकेषु । कामः । वसन्तात्ययमन्दवीर्यः । केशेषु । लेभे । बलम् । अङ्गनानाम्",
+    "anvaya": "वसन्तात्ययमन्दवीर्यः कामः, स्नानार्द्रमुक्तेषु, अनुधूपवासम्, विन्यस्तसायंतनमल्लिकेषु अङ्गनानाम् केशेषु बलम् लेभे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The god of love, whose power had waned with the passing of spring, regained his strength in the hair of women, which was let loose after being wet from bathing, then scented with incense, and finally adorned with evening jasmine flowers.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003489,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्नानेति॥ वसन्तस्यात्मसहकारिणोऽत्ययेनातिक्रमेण मन्दवीर्योऽतिदुर्बलः कामः स्नानार्द्राश्च ते मुक्ताश्च। धूपसंचारणार्थमित्यर्थः, तेषु। अनुधूपवासं धूपवासानन्तरं विन्यस्ताः सायंतनमल्लिका येषु तेषु। अङ्गनानां केशेषु बलं लेभे। तैरुद्दीपित इत्यर्थः ॥"
+    }
+  ]
+}

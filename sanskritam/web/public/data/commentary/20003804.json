@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003804,
+    "chapter_id": 6597,
+    "verse_number": "2.26",
+    "content_sanskrit": "आवर्जितजटामौलिविलम्बिशशिकोटयः । रुद्राणामपि मूर्धानः क्षतहुंकारशंसिनः ॥",
+    "padaccheda": "आवर्जितजटामौलिविलम्बिशशिकोटयः । रुद्राणाम् । अपि । मूर्धानः । क्षतहुंकारशंसिनः",
+    "anvaya": "रुद्राणाम् अपि आवर्जित-जटा-मौलि-विलम्बि-शशि-कोटयः मूर्धानः क्षत-हुंकार-शंसिनः (सन्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Even the heads of the Rudras, with the tips of the crescent moon dangling from their bowed crests of matted hair, indicate that their defiant roars have been suppressed.\" Brahma observes that even the fierce Rudras have been subdued.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003804,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आवर्जितेति ॥ आवर्जितेषु परिभवदुःखावनम्रेषु जटानां मोलिषु जटाजूटेषु विलम्बिन्यः स्त्रंसिन्यः शशिकोटयश्चन्द्ररेखा येषां ते तथोक्ताः । रुद्राणामपि । एकादशानामिति शेषः । मूर्धानः क्षतं हुङ्कारं शंसन्तीति तथोक्ताः । हुङ्कारक्षत्यनुमापका इत्यर्थः । हुङ्कारशस्त्रा हि रुद्रा इति भावः"
+    }
+  ]
+}

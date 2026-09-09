@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002473,
+    "chapter_id": 6580,
+    "verse_number": "4.84",
+    "content_sanskrit": "कामरूपेश्वरस्तस्य हेमपीठाधिदेवताम् । रत्नपुष्पोपहारेण छायामानर्च पादयोः ॥",
+    "padaccheda": "कामरूपेश्वरः । तस्य । हेमपीठाधिदेवताम् । रत्नपुष्पोपहारेण । छायाम् । आनर्च । पादयोः",
+    "anvaya": "कामरूपेश्वरः रत्नपुष्पोपहारेण तस्य पादयोः छायाम् हेमपीठाधिदेवताम् (इव) आनर्च।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The king of Kamarupa, with offerings of jewel-flowers, worshipped the shadow of Raghu's feet as if it were the presiding deity of a golden throne.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002473,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कामरूपेश्वर इति॥ कामरूपेश्वरो हेमपीठस्याधिदेवतां तस्य रघोः पादयोश्छायां कनकमयपादपीठव्यापिनीं कान्तिं रत्नान्येव पुष्पाणि तेषामुपहारेण समर्पणेनानर्चार्चयामास ॥"
+    }
+  ]
+}

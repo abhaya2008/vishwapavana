@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011092,
+    "chapter_id": 6679,
+    "verse_number": "7.102",
+    "content_sanskrit": "हैमनैश्शैशिरैश्चापि द्रुमैर्गन्धान्वितालिभिः । दीर्घिकांबुच्छटासिक्तं यदुद्यानमशोभत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011092,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वासन्तैस्त्येवमादिषु पुष्यत्यर्थेऽण् । प्रावृषेण्यैरित्यत्र 'प्रावृष एण्यः' (पा.४|३|१७) ॥"
+    }
+  ]
+}

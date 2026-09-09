@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003048,
+    "chapter_id": 6587,
+    "verse_number": "11.75",
+    "content_sanskrit": "क्षत्रियान्तकरणोऽपि विक्रमस्तेन मामवति नाजिते त्वयि । पावकस्य महिमा स गण्यते कक्षवज्ज्वलति सागरेऽपि यः ॥",
+    "padaccheda": "क्षत्रियान्तकरणः । अपि । विक्रमः । तेन । माम् । न । अवति । अजिते । त्वयि । पावकस्य । महिमा । सः । गण्यते । कक्षवत् । ज्वलति । सागरे । अपि । यः",
+    "anvaya": "क्षत्रियान्तकरणः अपि मे विक्रमः तेन अजिते त्वयि माम् न अवति । यः कक्षवत् सागरे अपि ज्वलति सः पावकस्य महिमा गण्यते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Paraśurāma stated that his prowess, though famous for destroying the Kṣatriya race, does not satisfy him as long as Rāma remains unconquered. He explained that the true greatness of fire is recognized only when it can burn even in the middle of the ocean, just as it burns through dry grass. Similarly, his own power is only truly validated if it can overcome a formidable opponent like Rāma.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003048,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "क्षत्रियेति॥ तेन कारणेन। क्रियते येनासौ करणः। क्षत्रियान्तस्य करणोऽपि विक्रमः। त्वय्यजिते मां नावति न प्रीणाति। तथा हि-पावकस्याग्नेर्महिमा स गण्यते यः कक्षवत् कक्ष इव। `तत्र तस्येव` (पा.5।1।116) इति सप्तम्यर्थे वतिः। सागरेऽपि। ज्वलति ॥"
+    }
+  ]
+}

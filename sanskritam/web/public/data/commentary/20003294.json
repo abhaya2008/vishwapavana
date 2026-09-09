@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003294,
+    "chapter_id": 6590,
+    "verse_number": "14.45",
+    "content_sanskrit": "प्रजावती दोहदशंसिनी ते तपोवनेषु स्पृहयालुरेव । स त्वं रथी तद्व्यपदेशनेयां प्रापय्य वाल्मीकिपदं त्यजैनाम् ॥",
+    "padaccheda": "प्रजावती । दोहदशंसिनी । ते । तपोवनेषु । स्पृहयालुः । एव । सः । त्वं । रथी । तद्व्यपदेशनेयां । प्रापय्य । वाल्मीकिपदं । त्यज । एनाम्",
+    "anvaya": "प्रजावती दोहद-शंसिनी ते (भार्या) तपोवनेषु स्पृहयालुः एव अस्ति। सः त्वम् रथी भूत्वा तत्-व्यपदेश-नेयाम् एनाम् वाल्मीकि-पदम् प्रापय्य त्यज।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama instructs Lakshmana: \"She (Sita), who is pregnant, has expressed to you her craving to visit the hermitages. Therefore, you, as the charioteer, on the pretext of fulfilling that wish, take her to the hermitage of Valmiki and abandon her there.\"",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003294,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रजावतीति॥ दोहृदो गर्भिणीमनोरथः। तच्छंसिनी ते प्रजावती भ्रातृजाया। `प्रजावती भ्रातृजाया` इत्यमरः (अ.को.2|6|30)। तपोवनेषु स्पृहयालुरेव सस्पृहेव। `स्पृहिगृहि-` (पा.3।2।158) इत्यादिनालुच्प्रत्ययः। स त्वं रथी सन्। तद्व्यपदेशेन दोहदमिषेण नेयां नेतव्यामेनां सीतां वाल्मीकेः पदं स्थानं प्रापय्य गमयित्वा। `विभाषापः` (पा.6।4।57) इत्ययादेशः। त्यज॥"
+    }
+  ]
+}

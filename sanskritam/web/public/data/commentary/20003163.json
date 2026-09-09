@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003163,
+    "chapter_id": 6588,
+    "verse_number": "12.97",
+    "content_sanskrit": "अमोघं संदधे चास्मै धनुष्येकधनुर्धरः । ब्राह्ममस्त्रं प्रियाशोकशल्यनिष्कर्षणौषधम् ॥",
+    "padaccheda": "अमोघं । संदधे । च । अस्मै । धनुषि । एकधनुर्धरः । ब्राह्मम् । अस्त्रं । प्रियाशोकशल्यनिष्कर्षणौषधम्",
+    "anvaya": "एकधनुर्धरः अस्मै धनुषि प्रियाशोकशल्यनिष्कर्षणौषधम् अमोघं ब्राह्मम् अस्त्रं संदधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The peerless archer Rama then fixed the unfailing Brahma weapon to his bow. This weapon acted as the ultimate remedy to extract the painful thorn of grief caused by the separation from his beloved Sita.",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003163,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमोघमिति॥ एकोऽद्वितीयो धनुर्धरो रामः प्रियायाः शोक एव शल्यं तस्य निषअकर्षणमुद्धारकं यदौषधं तदमोघं ब्राह्मं ब्रह्मदेवताकमस्त्रमभिमन्त्रितं बाणमस्मै रावणाय च। तद्वधार्थमित्यर्थः। धनुषि संदधे ॥"
+    }
+  ]
+}

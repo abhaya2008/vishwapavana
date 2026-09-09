@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005613,
+    "chapter_id": 6626,
+    "verse_number": "14.53",
+    "content_sanskrit": "दिवः पृथिव्याः ककुभां नु मण्डलात्पतन्ति बिम्बादुत तिग्मतेजसः । सकृद्विकृष्टादथ कार्मुकान्मुनेः शराः शरीरादिति तेऽभिमेनिरे ॥",
+    "padaccheda": "दिवः । पृथिव्याः । ककुभाम् । नु । मण्डलात् । पतन्ति । बिम्बात् । उत । तिग्मतेजसः । सकृद्विकृष्टात् । अथ । कार्मुकात् । मुनेः । शराः । शरीरात् । इति । ते । अभिमेनिरे",
+    "anvaya": "शराः दिवः पृथिव्याः ककुभां मण्डलात् नु पतन्ति? उत तिग्मतेजसः बिम्बात्? अथ मुनेः सकृद्विकृष्टात् कार्मुकात्? शरीरात्? इति ते अभिमेनिरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Kiratas wondered, \"Are these arrows falling from the sky, from the earth, or from the circle of directions? Or from the orb of the sharp-rayed sun? Or from the sage's bow, drawn but once? Or from his very body?\" Thus they conjectured, unable to comprehend the source of the unending shower of arrows.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005613,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दिव इति ॥ शरा दिवोऽन्तरिक्षात्पृथिव्या भूगोलाद्वा ककुभां मण्डलान्नु दिशां मण्डलाद्वोत तिग्मतेजसोऽर्कस्य बिम्बान्मण्डलाद्वाथवा सकृद्विकृष्टात्कार्मुकाद्वा मुनेः शरीराद्वा पतन्तीति ते गणा अभिमेनिरे ज्ञातवन्तः।अन्यथा कथममी विश्वमन्तर्धाय शराः संभाव्यन्त इति भावः । अत्र सर्वतः शरसंपातदर्शनात्संभावनया पृथिव्यादीनामन्यतमस्यापादानत्वोत्प्रेक्षा । सा च प्रतीयमाना व्यञ्जकाप्रयोगात् । नुशब्दादयस्तु संशये ॥"
+    }
+  ]
+}

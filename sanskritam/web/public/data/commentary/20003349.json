@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003349,
+    "chapter_id": 6591,
+    "verse_number": "15.13",
+    "content_sanskrit": "तस्यामेवस्य यामिन्यामन्तर्वत्नी प्रजावती । सुतावसूत संपन्नौ कोशदण्डाविव क्षितिः ॥",
+    "padaccheda": "तस्याम् । एव । अस्य । यामिन्याम् । अन्तर्वत्नी । प्रजावती । सुतौ । असूत । संपन्नौ । कोशदण्डौ । इव । क्षितिः",
+    "anvaya": "अस्य तस्याम् एव यामिन्याम्, अन्तर्वत्नी प्रजावती (सीता), क्षितिः इव संपन्नौ कोशदण्डौ इव, सुतौ असूत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On that very night of his stay, the pregnant lady Sita gave birth to twin sons, just as the Earth brings forth its two great powers, the Treasury (Kosha) and the Army (Danda), both perfect and complete.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003349,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्यामिति॥ तस्यामेव यामिन्यां रात्रौ। अस्य शत्रुघ्नस्य। अन्तरस्या अस्तीत्यन्तर्वत्नी गर्भिणी `अन्तर्वत्नी च गर्भिणी` इत्यमरः (अ.को.2|6|22)। `अन्तर्वत्पतिवतोर्मुक्` (पा.4।1।32) इति ङीप्, नुगागमश्च। प्रजावती भ्रातृजाया सीता। क्षितिः संपन्नौ समग्रौ कोशदण्डाविव। सुतावसूत ॥"
+    }
+  ]
+}

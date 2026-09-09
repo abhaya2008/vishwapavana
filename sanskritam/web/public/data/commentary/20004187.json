@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004187,
+    "chapter_id": 6602,
+    "verse_number": "7.42",
+    "content_sanskrit": "मूर्ते च गङ्गायमुने तदानीं सचामरे देवमसेविषाताम् । समुद्रगारूपविपर्ययेऽपि सहंसपाते इव लक्ष्यमाणे ॥",
+    "padaccheda": "मूर्ते । च । गङ्गा-यमुने । तदानीम् । स-चामरे । देवम् । असेविषाताम् । समुद्रगा-रूप-विपर्यये । अपि । स-हंस-पाते । इव । लक्ष्यमाणे",
+    "anvaya": "तदानीम् मूर्ते गङ्गा-यमुने च स-चामरे (सत्यौ) देवम् असेविषाताम्। समुद्रगा-रूप-विपर्यये अपि (ते) स-हंस-पाते इव लक्ष्यमाणे (आस्ताम्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that time, the rivers Ganga and Yamuna, in personified forms, served the god by waving whisks. Even though they had abandoned their river forms, the movement of the white whisks made them appear as if they were still accompanied by flights of swans.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004187,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मूर्ते इति । गङ्गा च यमुना च गङ्गायमुने मूर्ते विग्रहधारिण्यौ सचामरे चामरसहिते सत्यौ । अत एव समुद्रगा नदी तस्या रुपं स्वरुपं तस्य विपर्ययेऽप्यभावेऽपि सह हंसपातेन हंसचारेण वर्तेत इति सहंसपाते इव `तेन सहेति तुल्ययोगे` (पा.2|2|28) इति बहुव्रीहिः । `वोपसर्जनस्य` (पा.6|3|82) इति सभावः । लक्ष्यमाणे दृश्यमाने सत्यौ तदानीं विवाहसमये देवमसेविषातामभजताम् । सेवतेर्लङ् । गङ्गायमुने चामरग्राहिण्यौ देवमुपतस्थतुरित्यर्थः"
+    }
+  ]
+}

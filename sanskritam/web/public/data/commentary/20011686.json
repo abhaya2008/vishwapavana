@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011686,
+    "chapter_id": 6685,
+    "verse_number": "13.22",
+    "content_sanskrit": "स्मरार्त्या सीदतोरीत्थं सुभद्रासव्यसाचिनोः । कल्पायमाना साव्यौच्छत् कथं कथमपि क्षपाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011686,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "व्यौच्छत् । व्युष्टा प्रभाता । उच्छी विवासे । तुदादिरुदात्तेत् ॥"
+    }
+  ]
+}

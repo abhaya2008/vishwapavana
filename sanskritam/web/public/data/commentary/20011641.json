@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011641,
+    "chapter_id": 6684,
+    "verse_number": "12.93",
+    "content_sanskrit": "रक्तोऽजनि निशानाथस्सुदृशां'हृदयैस्सह । अदीपि सह मारेण मानिनीचित्तवृत्तिना ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011641,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अजन्यदीपीति दीपजनादिना (पा.३|१|६१) कर्तरि चिण् । 'जनिवध्योश्चे'ति (पा.७|३|३५) वृद्धिप्रतिषेधः । सहोक्तिरलङ्कारः । रक्तोऽजनीति छलम् ॥"
+    }
+  ]
+}

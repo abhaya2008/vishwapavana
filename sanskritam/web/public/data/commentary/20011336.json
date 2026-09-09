@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011336,
+    "chapter_id": 6681,
+    "verse_number": "9.88",
+    "content_sanskrit": "छत्रोपानहमार्येभ्यो भक्तं वित्तञ्च पुष्कलम् । विलेभे भूपतिर्भूत्यै कुमारस्यातिवत्सलः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011336,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "छत्रोपानहम्—“द्वन्द्वाच्चुदषहान्तात्समाहारे” (पा.५|४|१०६) इति टच् । विलेभे ददौ ॥"
+    }
+  ]
+}

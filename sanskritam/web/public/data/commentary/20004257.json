@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004257,
+    "chapter_id": 6603,
+    "verse_number": "8.17",
+    "content_sanskrit": "शिष्यतां निधुवनोपदेशिनः शङ्करस्य रहसि प्रपन्नया । शिक्षितं युवतिनैपुणं तया यत्तदेव गुरुदक्षिणीकृतम् ॥",
+    "padaccheda": "शिष्यताम् । निधुवनोपदेशिनः । शङ्करस्य । रहसि । प्रपन्नया । शिक्षितम् । युवतिनैपुणम् । तया । यत् । तत् । एव । गुरुदक्षिणीकृतम्",
+    "anvaya": "रहसि निधुवनोपदेशिनः शङ्करस्य शिष्यतां प्रपन्नया तया यत् युवतिनैपुणं शिक्षितं, तत् एव गुरुदक्षिणीकृतम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having accepted discipleship in private to Shankara, the instructor in the art of love, whatever feminine skill she learned from him, that very skill was made into his tutorial fee (by her practicing it on him).",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004257,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शिष्यतामिति । रहस्येकान्ते निधुवनमुपदिशतीति निधुवनोपदेशिनः सुरतविद्यागुरोः । `व्यवायो ग्राम्यधर्मो मैथुनं निधुवनं रतम्` इत्यमरः (अ.को.2|7|61) । शंकरस्य शिष्यतां प्रपन्नया प्राप्तया तया पार्वत्या यद्युवतिनैपुणं युवतिजनोचितं नैपुणम् । सुरतकौशलमित्यर्थः । शिक्षितमभ्यस्तम् । आचरितमित्यर्थः । अनेन कृतप्रतिकृतं सूच्यते"
+    }
+  ]
+}

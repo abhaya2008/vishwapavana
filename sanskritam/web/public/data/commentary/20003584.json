@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003584,
+    "chapter_id": 6593,
+    "verse_number": "17.57",
+    "content_sanskrit": "न धर्ममर्थकामाभ्यां बबाधे न च तेन तौ । नार्थं कामेन कामं वा सोऽर्थेन सदृशस्त्रिषु ॥",
+    "padaccheda": "न । धर्मम् । अर्थकामाभ्याम् । बबाधे । न । च । तेन । तौ । न । अर्थम् । कामेन । कामम् । वा । सः । अर्थेन । सदृशः । त्रिषु",
+    "anvaya": "सः अर्थ-कामाभ्याम् धर्मम् न बबाधे, तेन (धर्मेण) तौ (अर्थ-कामौ) च न (बबाधे) । कामेन अर्थम् न (बबाधे), अर्थेन कामम् वा न (बबाधे) । (सः) त्रिषु सदृशः (आसीत्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He did not obstruct Dharma with Artha and Kama, nor those two with Dharma. He did not obstruct Artha with Kama, nor Kama with Artha. He was impartial towards all three pursuits of life.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003584,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "न धर्ममिति॥ स राजा। अर्थकामाभ्यां धर्मं न बबाधे न नाशितवान्। तेन धर्मेण! च तावर्थ-कामौ न। अर्थं कामेन कामं वाऽर्थेन न बबाधे। एकत्रैवासक्तो नाभूदित्यर्थः। किंतु त्रिषु धर्मार्थकामेषु सदृशस्तुल्यवृत्तिः। अभूदित्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003404,
+    "chapter_id": 6591,
+    "verse_number": "15.68",
+    "content_sanskrit": "उभयोर्न तथा लोकः प्रावीण्येन विसिष्मिपे । नृपतेः प्रीतिदानेषु वीतस्पृहतया यथा ॥",
+    "padaccheda": "उभयोः । न । तथा । लोकः । प्रावीण्येन । विसिष्मिये । नृपतेः । प्रीतिदानेषु । वीतस्पृहतया । यथा",
+    "anvaya": "लोकः उभयोः प्रावीण्येन तथा न विसिष्मिये, यथा नृपतेः प्रीति-दानेषु (तयोः) वीत-स्पृहतया (विसिष्मिये) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The people were not as astonished by the skill of the two boys as they were by their complete lack of desire for the affectionate gifts offered by the king.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003404,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उभयोरिति॥ लोको जन उभयोः कुमारयोः प्राविण्येन नैपुण्येन तथा न विसिष्मिये न विस्मितवान्, यथा नृपतेः प्रीतिदानेषु वीतस्पृहतया नैःस्पृह्येण विसिष्मिये ॥"
+    }
+  ]
+}

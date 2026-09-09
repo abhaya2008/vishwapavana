@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010937,
+    "chapter_id": 6678,
+    "verse_number": "6.58",
+    "content_sanskrit": "व्रतकालमतीत्य त्वां ततो रमयितास्म्यहम् । आगत्य हृदयोत्पीडमुल्लुपि भव निर्वृता ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010937,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हृदयोत्पीडमिति । परीप्सायां 'द्वितीयायाञ्चे'ति (पा.३|४|५३) णमुल् ॥"
+    }
+  ]
+}

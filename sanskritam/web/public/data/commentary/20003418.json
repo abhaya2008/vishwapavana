@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003418,
+    "chapter_id": 6591,
+    "verse_number": "15.82",
+    "content_sanskrit": "एवमुक्ते तया साध्व्या रन्ध्रात्सद्योभवाद्भुवः । शातह्रदमिव ज्योतिः प्रभामण्डलमुद्ययौ ॥",
+    "padaccheda": "एवम् । उक्ते । तया । साध्व्या । रन्ध्रात् । सद्यःभवात् । भुवः । शातह्रदम् । इव । ज्योतिः । प्रभामण्डलम् । उद्ययौ",
+    "anvaya": "तया साध्व्या एवम् उक्ते (सति), भुवः सद्यःभवात् रन्ध्रात् शातह्रदम् इव ज्योतिः प्रभामण्डलम् उद्ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When the virtuous lady had spoken thus, a circle of light, like lightning, arose from a fissure that suddenly appeared in the earth.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003418,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति॥ साध्व्या पतिव्रतया तया सीतयैवमुक्ते सति सद्योभवाद्भुवो रन्ध्राच्छातह्रदं वैद्युतं ज्योतिरिव प्रभामण्डलमुद्ययौ ॥"
+    }
+  ]
+}

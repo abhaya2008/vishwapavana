@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005623,
+    "chapter_id": 6626,
+    "verse_number": "14.63",
+    "content_sanskrit": "अमर्षिणा कृत्यमिव क्षमाश्रयं मदोद्धतेनेव हितं प्रियं वचः । बलीयसा तद्विधिनेव पौरुषं बलं निरस्तं न रराज जिष्णुना ॥",
+    "padaccheda": "अमर्षिणा । कृत्यम् । इव । क्षमा-आश्रयम् । मद-उद्धतेन । इव । हितम् । प्रियम् । वचः । बलीयसा । तत् । विधिना । इव । पौरुषम् । बलम् । निरस्तम् । न । रराज । जिष्णुना",
+    "anvaya": "जिष्णुना निरस्तम् तत् बलम्, अमर्षिणा क्षमा-आश्रयम् कृत्यम् इव, मद-उद्धतेन हितम् प्रियम् वचः इव, बलीयसा विधिना पौरुषम् इव, न रराज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Defeated by the victorious Arjuna, that army did not look splendid, just as an act of forgiveness by an angry person, beneficial and pleasant words from a proud man, or human effort against a more powerful fate do not shine.",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005623,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अमर्षिणेति ॥ अमर्षिणा क्रोधवता क्षमाश्रयं शान्तिसाध्यं कृत्यमिव । यथा मदोद्धतेन पुंसा हितं प्रियं वचो निरस्तं तिरस्कृतमिव । यथा बलीयसा बलवत्तरेण विधिना दैवेन निरस्तं पौरुषमिव ! बलिष्ठदैवप्रतिहतपुरुषव्यापारस्य निष्फलत्वादिति भावः। तथा जिष्णुनार्जुनेन निरस्तं क्षिप्तं बलं किरातसैन्यं न रराज। मालोपमा।।"
+    }
+  ]
+}

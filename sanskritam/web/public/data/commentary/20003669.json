@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003669,
+    "chapter_id": 6595,
+    "verse_number": "19.8",
+    "content_sanskrit": "तं कृतप्रणतयोऽनुजीविनः कोमलात्मनखरागरूषितम् । भेजिरे नवदिवाकरातपस्पृष्टपङ्कजतुलाधिरोहणम् ॥",
+    "padaccheda": "तम् । कृतप्रणतयः । अनुजीविनः । कोमलात्मनखरागरूषितम् । भेजिरे । नवदिवाकरातपस्पृष्टपङ्कजतुलाधिरोहणम्",
+    "anvaya": "कृत-प्रणतयः अनुजीविनः, कोमल-आत्म-नख-राग-रूषितम्, नव-दिवाकर-आतप-स्पृष्ट-पङ्कज-तुला-अधिरोहणम् तम् (चरणम्) भेजिरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His attendants, having made their obeisance, served that foot, which was adorned with the red lac-dye of his soft toenails and which rivaled a lotus touched by the rays of the morning sun.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003669,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ कोमलेन मृदुलेनात्मनखानां रागेणारुप्येन रूषितं छुरितम्। अत एव नवदिवाकरातपेन स्पृष्टं व्याप्तं यत्पङ्कजं तस्य तुलां साम्यतामधिरोहति प्राप्नोतीति तुलाधिरोहणम्। तं चरणमनुजीविनः कृतप्रणतयः कृतनमस्काराः सन्तो भेजिरे सिषेविरे ॥"
+    }
+  ]
+}

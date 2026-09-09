@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011539,
+    "chapter_id": 6683,
+    "verse_number": "11.116",
+    "content_sanskrit": "जहर्ति स्म नवं दुग्धं जरिहर्ति पुरा घृतम् । जरीहर्ति स्म चाऽपूपान् गोपीनामेष शैशवे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011539,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'ऋतश्चे'त्यनेन (पा.७|४|९२) ऋकारान्तस्य चाङ्गस्याभ्यासस्य लुकि रुग्रिक्रीका भवन्ति । तस्योदाहरणानि जहर्ति, जरिहर्ति, जरीहर्ति इति प्रदर्शितानि ॥"
+    }
+  ]
+}

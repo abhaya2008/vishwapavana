@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002619,
+    "chapter_id": 6582,
+    "verse_number": "6.66",
+    "content_sanskrit": "स्वसुर्विदर्भाधिपतेस्तदीयो लेभेऽन्तरं चेतसि नोपदेशः । दिवाकरादर्शनबद्धकोशे नक्षत्रनाथांशुरिवारविन्दे ॥",
+    "padaccheda": "स्वसुः । विदर्भाधिपतेः । तदीयः । लेभे । अन्तरम् । चेतसि । न । उपदेशः । दिवाकरादर्शनबद्धकोशे । नक्षत्रनाथांशुः । इव । अरविन्दे",
+    "anvaya": "विदर्भ-अधिपतेः स्वसुः चेतसि तदीयः उपदेशः, दिवाकर-अदर्शन-बद्ध-कोशे अरविन्दे नक्षत्र-नाथ-अंशुः इव, अन्तरम् न लेभे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That advice (from Sunanda) did not find a place in the heart of the sister of the Vidarbha king (Indumati), just as a moonbeam fails to enter a lotus that has closed its petals due to the absence of the sun.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002619,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वसुरिति॥ विदर्भाधिपतेर्भोजस्य स्वसुरिन्दुमत्याश्चेतसि तदीयः सुनन्दासंबन्ध्युपदेशो वाक्यम्। दिवाकरस्यादर्शनेन बद्धकोशे मुकुलितेऽरविन्दे नक्षत्रनाथांशुश्चन्द्रकिरण इव। अन्तरमवकाशं न लेभे ॥"
+    }
+  ]
+}

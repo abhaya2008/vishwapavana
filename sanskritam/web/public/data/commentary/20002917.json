@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002917,
+    "chapter_id": 6586,
+    "verse_number": "10.30",
+    "content_sanskrit": "उदधेरिव रत्नानि तेजांसीव विवस्वतः । स्तुतिभ्यो व्यतिरिच्यन्ते दूराणि चरितानि ते ॥",
+    "padaccheda": "उदधेः । इव । रत्नानि । तेजांसि । इव । विवस्वतः । स्तुतिभ्यः । व्यतिरिच्यन्ते । दूराणि । चरितानि । ते",
+    "anvaya": "ते दूराणि चरितानि उदधेः रत्नानि इव, विवस्वतः तेजांसि इव, स्तुतिभ्यः व्यतिरिच्यन्ते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Your profound deeds far surpass any praise, just as the gems of the ocean or the rays of the sun are beyond complete enumeration or grasp.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002917,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उदधेरिति॥ उदधे रत्नानीव। विवस्वतस्तेजांसीव। दूराण्यवाङ्भनसगोचराणि ते चरितानि स्तुतिभ्यो व्यतिरिच्यन्ते। निःशेषं स्तोतुं न शक्यन्त इत्यर्थः ॥"
+    }
+  ]
+}

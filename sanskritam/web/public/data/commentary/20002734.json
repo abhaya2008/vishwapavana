@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002734,
+    "chapter_id": 6584,
+    "verse_number": "8.24",
+    "content_sanskrit": "अथ काश्चिदजव्यपेक्षया गमयित्वा समदर्शनः समाः । तमसः परमापदव्ययं पुरुषं योगसमाधिना रघुः ॥",
+    "padaccheda": "अथ । काश्चित् । अजव्यपेक्षया । गमयित्वा । समदर्शनः । समाः । तमसः । परम् । आपद । अव्ययं । पुरुषं । योगसमाधिना । रघुः",
+    "anvaya": "अथ समदर्शनः रघुः अज-व्यपेक्षया काश्चित् समाः गमयित्वा योग-समाधिना तमसः परम् अव्ययं पुरुषम् आपद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, Raghu, who viewed all with equanimity, after passing some years out of consideration for Aja, attained through deep meditation the immutable Supreme Being who is beyond the darkness of ignorance.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002734,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ रघुः समदर्शनः सर्वभूतेषु समदृष्ठिः सन्नजव्यपेक्षयाऽजाकाङ्क्षानुरोधेन काश्चित्समाः कतिचिद्वर्षाणि। `समा वर्षं समं तुल्यम्` इति विश्वः। गमयित्वा नीत्वा योगसमाधिनैक्यानुसंधानेन। `संयोगो योग इत्युक्तो जीवात्मपरमात्मनोः`इति वसिष्ठः। अव्ययमविनाशिनं तमसः परमविद्यायाः परम्। मायातीतमित्यर्थः। पुरुषं परमात्मानम्। आपात् प्राप। सायुज्यं प्राप्त इत्यर्थः॥"
+    }
+  ]
+}

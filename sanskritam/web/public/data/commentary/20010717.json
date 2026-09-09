@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010717,
+    "chapter_id": 6676,
+    "verse_number": "4.63",
+    "content_sanskrit": "गच्छ्याजमीढ पन्थानश्शिवास्सन्तु तवागमात् । रक्षांसि घातुको धन्वीशारुकाणि मुनीन् वने ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010717,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "घातुक इति 'हो हन्तेञ्णिन्नेषु' इति (पा.७|३|५४) कुत्वम् । 'हनस्तोचिण्णलोः' इति (पा.७|३|३२) तत्वम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002666,
+    "chapter_id": 6583,
+    "verse_number": "7.27",
+    "content_sanskrit": "तदञ्जनक्लेदसमाकुलाक्षं प्रम्लानबीजाङ्कुरकर्णपूरम् । वधूमुखं पाटलगन्डलेखमाचारधूमग्रहणाद्बभूव ॥",
+    "padaccheda": "तत् । अञ्जनक्लेदसमाकुलाक्षम् । प्रम्लानबीजाङ्कुरकर्णपूरम् । वधूमुखम् । पाटलगण्डलेखम् । आचारधूमग्रहणात् । बभूव",
+    "anvaya": "आचार-धूम-ग्रहणात् तत् वधू-मुखम् अञ्जन-क्लेद-समाकुल-अक्षम्, प्रम्लान-बीज-अङ्कुर-कर्णपूरम्, पाटल-गण्ड-लेखम् बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "From inhaling the ritual smoke, the bride's face became one whose eyes were troubled by the melting collyrium, whose ear-ornaments of tender sprouts were faded, and whose cheeks had turned a pale red.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002666,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥ तद्वधूमुखमाचारेण प्राप्ताद्धूमग्रहणात्। अञ्जनस्य क्लेदोऽञ्जनक्लेदः। अञ्जनभिश्रबाष्पोदकमित्यर्थः। तेन समाकुलाक्षम्। प्रम्लानो बीजाङ्कुरो यवाङ्कुर एव कर्णपूरोऽवतंसो यस्य तत् पाटलगण्डलेखमरुणगण्डस्थलं च बभूव ॥"
+    }
+  ]
+}

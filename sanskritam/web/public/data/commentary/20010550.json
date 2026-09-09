@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010550,
+    "chapter_id": 6674,
+    "verse_number": "2.130",
+    "content_sanskrit": "द्योतन्नां दधतीं नासां आसनञ्च भ्रुवोर्युगम् । ललाटञ्चार्धचन्द्राभं सुविशेषकशोभनम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010550,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "द्योतनभासनशोभनशब्दाः 'अनुदात्तेतश्च हलादे'रिति (पा.३|२|१४९) युजन्ताः । अत्र साधुकारिणि कर्तरि युच् ॥"
+    }
+  ]
+}

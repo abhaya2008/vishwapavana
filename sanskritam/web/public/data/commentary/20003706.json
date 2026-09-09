@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003706,
+    "chapter_id": 6595,
+    "verse_number": "19.45",
+    "content_sanskrit": "तं पयोधरनिषिक्तचन्दनैर्मौक्तिकग्रथितचारुभूषणैः । ग्रीष्मवेषविधिभिः सिषेविरे श्रोणिलम्बिमणिमेखलैः प्रियाः ॥",
+    "padaccheda": "तम् । पयोधरनिषिक्तचन्दनैः । मौक्तिकग्रथितचारुभूषणैः । ग्रीष्मवेषविधिभिः । सिषेविरे । श्रोणिलम्बिमणिमेखलैः । प्रियाः",
+    "anvaya": "प्रियाः पयोधर-निषिक्त-चन्दनैः मौक्तिक-ग्रथित-चारु-भूषणैः श्रोणि-लम्बि-मणि-मेखलैः ग्रीष्म-वेष-विधिभिः तम् सिषेविरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His beloveds attended to him with their summer attire. This included sandalwood paste sprinkled on their breasts, beautiful ornaments strung with pearls, and jeweled girdles hanging low on their hips.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003706,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ प्रियाः पयोधऱेषु स्तनेषु निषिक्तमुक्षितं चन्दनं येषु तैः। मौक्तिकैर्ग्रथितानि प्रोतानि चारुभूषणानि येषु तैः। मुक्ताप्रायाभरणैरित्यर्थः। श्रोणिलम्बिन्यो मणिमेखला मरकतादिमणियुक्तकटिसूत्राणि येषु तादृशैर्ग्रीष्मवेषविधइनिरुष्णकालोचितनेपथ्यविधानैः। शीतलोपायैरित्यर्थः । तमग्निवर्णं सिषेविरे ॥"
+    }
+  ]
+}

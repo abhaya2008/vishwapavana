@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011119,
+    "chapter_id": 6680,
+    "verse_number": "8.5",
+    "content_sanskrit": "उत्तिष्ठमानोपि सदा कुले दैवविरोधिनि । पुत्रं न पश्यामि मरौ खानित्रिक इवोदकम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011119,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "खानित्रिकः । खनित्रेण खनन् । 'तेन खनती'ति (पा.४|४|२) पूर्ववत् ठक् ॥"
+    }
+  ]
+}

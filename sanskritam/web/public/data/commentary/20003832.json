@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003832,
+    "chapter_id": 6597,
+    "verse_number": "2.54",
+    "content_sanskrit": "संपत्स्यते वः कामो यं कालः कश्चित्प्रतीक्ष्यताम् । न त्वस्य सिद्धौ यास्यामि सर्गव्यापारमात्मना ॥",
+    "padaccheda": "संपत्स्यते । वः । कामः । अयम् । कालः । कश्चित् । प्रतीक्ष्यताम् । न । तु । अस्य । सिद्धौ । यास्यामि । सर्गव्यापारम् । आत्मना",
+    "anvaya": "वः अयं कामः संपत्स्यते। कश्चित् कालः प्रतीक्ष्यताम्। तु अस्य सिद्धौ आत्मना सर्गव्यापारं न यास्यामि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Brahma said: \"This desire of yours will be fulfilled. Wait for some time. However, for its accomplishment, I will not personally undertake the act of creation.\"",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003832,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संपत्स्यत इति ॥ अयं वो युष्माकं कामो मनोरथः सेनानीरुपः संपत्स्यते सेत्स्यति । कश्चित्कियानपि कालः प्रतीक्ष्यताम् । तु किंतु तस्य सेनान्यः सिद्धौ विषय आत्मना स्वयं सर्गः सृष्टिरेव व्यापारस्तं न यास्यामि । नाहं स्रक्ष्यामीत्यर्थः"
+    }
+  ]
+}

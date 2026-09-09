@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013297,
+    "chapter_id": 6699,
+    "verse_number": "7.83",
+    "content_sanskrit": "भवादृशां दर्शनमेव लोके विशेषतोऽस्मिन्समये दुरापम् । पुरार्जितैः पुण्यचयैः कथंचि- त्त्वमद्य मे दृष्टिपथं गतोऽभूः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013297,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "विशेषत एतद्भवद्दर्शनं त्वतिदुर्लभं मया लब्धमित्याह । भवादृशामिति । उपेन्द्रवज्रा वृत्तम् ॥ ८४ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013297,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ अस्मिन्समयेऽन्तकाले ]"
+    }
+  ]
+}

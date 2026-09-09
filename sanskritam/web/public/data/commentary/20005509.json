@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005509,
+    "chapter_id": 6625,
+    "verse_number": "13.20",
+    "content_sanskrit": "अथ दीपितवारिवाहवर्त्मा रववित्रासितवारणादवार्यः । निपपात जवादिषु पिनाकान्महतोऽभ्रादिव वैद्युतः कृशानुः ॥",
+    "padaccheda": "अथ । दीपित-वारिवाह-वर्त्मा । रव-वित्रासित-वारणः । अवार्यः । निपपात । जवात् । इषुः । पिनाकात् । महतः । अभ्रात् । इव । वैद्युतः । कृशानुः",
+    "anvaya": "अथ दीपित-वारिवाह-वर्त्मा रव-वित्रासित-वारणः अवार्यः इषुः पिनाकात् जवात् निपपात, महतः अभ्रात् वैद्युतः कृशानुः इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the unstoppable arrow, which illuminated the path of the clouds and terrified elephants with its sound, fell swiftly from the Pinaka bow, like fire from lightning falling from a great cloud.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005509,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति ॥ अथ रिपोर्मध्यप्रवेशानन्तरं दीपितं वारिवाहवर्त्माकाशं येन सः। अवार्यों दुर्वार इषुः शरो रववित्रासितवारणात्स्वघोषभीषितगजात्पिनाकाच्छिवधनुषः`पिनाकोऽजगवं धनुः` इत्यमरः (अ.को.1|1|42) । महतोऽभ्रान्मेघाद्विद्युतोऽयं वैद्युतः कृशानुरशनि । रिव जवाद्वेगान्निपपातादधाव ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002937,
+    "chapter_id": 6586,
+    "verse_number": "10.50",
+    "content_sanskrit": "अथ तस्य विशांपत्युरन्ते कामस्य कर्मणः । पुरुषः प्रबभूवाग्नेर्विस्मयेन सहर्त्विजाम् ॥",
+    "padaccheda": "अथ । तस्य । विशांपत्युः । अन्ते । कामस्य । कर्मणः । पुरुषः । प्रबभूव । अग्नेः । विस्मयेन । सह । ऋत्विजाम्",
+    "anvaya": "अथ तस्य विशांपत्युः कामस्य कर्मणः अन्ते ऋत्विजां विस्मयेन सह अग्नेः पुरुषः प्रबभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, at the end of the desire-fulfilling ritual of that king, a divine being arose from the fire, along with the astonishment of the priests.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002937,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ स्य विशांपत्युर्दशरथस्य संबन्धिनः काम्यस्य कर्मणः पुत्रकामेष्टेरन्तेऽवसानेऽग्नेः पावकात् पुरुषः कश्चिद्दिव्यः पुमान्। ऋत्विजां विस्मयेन सह प्रबभूव प्रादुर्बभूव। तदाविर्भावात्तेषामपि विस्मयोऽभूदित्यर्थः ॥"
+    }
+  ]
+}

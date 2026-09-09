@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012647,
+    "chapter_id": 6693,
+    "verse_number": "1.92",
+    "content_sanskrit": "निरस्ताखिलसंदेहो विन्यस्तेतरदर्शनात् । व्यधादाज्ञां ततो राजा वधाय श्रुतिविद्विषाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012647,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "विन्यस्ताद्घटे स्थापितादाशीविषादितरस्य मधुद्विषो दर्शनं तस्माद्धेतोर्निरस्ता अप- गता अखिलाः संदेहा यस्य सः ॥ ९२ ॥"
+    }
+  ]
+}

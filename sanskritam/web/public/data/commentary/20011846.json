@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011846,
+    "chapter_id": 6686,
+    "verse_number": "14.70",
+    "content_sanskrit": "पूजयाञ्चकृषे न त्वं दक्षेण स्वमखे किल । चुक्रोधिव ततस्तस्मै सुस्रोथ च मखक्षितिम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011846,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पूजयाञ्चकृषे इति कर्मणि लिट् । कास्प्रत्ययादाममन्त्रे लिटीत्याम् (पा.३|१|३५) । चुक्रोधिवेत्यादिषु क्रादि नियमादिट् । सुस्रोथेति दुद्रोथवत् । स्रु गतौ ॥"
+    }
+  ]
+}

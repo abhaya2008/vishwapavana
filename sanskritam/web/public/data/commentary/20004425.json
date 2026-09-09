@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004425,
+    "chapter_id": 6605,
+    "verse_number": "10.42",
+    "content_sanskrit": "तेजसा तेन रौद्रेण तप्तानि सलिलान्यपि । समुदञ्चन्ति चण्डानि दुर्धराणि बभार सा ॥",
+    "padaccheda": "तेजसा । तेन । रौद्रेण । तप्तानि । सलिलानि । अपि । समुदञ्चन्ति । चण्डानि । दुर्धराणि । बभार । सा",
+    "anvaya": "सा तेन रौद्रेण तेजसा तप्तानि चण्डानि अपि सलिलानि समुदञ्चन्ति दुर्धराणि बभार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That river bore the violent, rising, and unbearable waters, which were heated by that fierce and terrible energy of the seed of Śiva.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004425,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तेजसेति । सा गङ्गा । रौद्रेण तेन तेजसा तप्तान्यत एव समुदञ्चन्ति अतितापवशादुत्प्लुत्य बहिर्निःसरन्तीत्यर्थः । अत एव चण्डानि प्रचण्डस्वरुपाण्यत एव दुर्धराण्यपि सलिलानि बभार धृतवती । तेजसो रुद्रसंबन्धितत्वादिति भावः"
+    }
+  ]
+}

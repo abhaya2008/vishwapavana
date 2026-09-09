@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011581,
+    "chapter_id": 6684,
+    "verse_number": "12.33",
+    "content_sanskrit": "अत्रान्तरे सुभद्राख्या भगिनी रामकृष्णयोः । अश्रौषीदागतं पार्थं श्रुतं चिरदिदृक्षितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011581,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अश्रौषीदिति । श्रु श्रवणे । अनुदात्त उदात्तेत् । सिचि वृद्धिः (पा.७|२|१) ॥"
+    }
+  ]
+}

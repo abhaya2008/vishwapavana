@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004741,
+    "chapter_id": 6611,
+    "verse_number": "16.33",
+    "content_sanskrit": "आक्षिप्ता अपि दन्तीन्द्राः कोपनैः पत्तयः परम् । तदसूनहरन्खड्गघातैः स्वस्य पुरः प्रभोः ॥",
+    "padaccheda": "आक्षिप्ताः । अपि । दन्तीन्द्राः । कोपनैः । पत्तयः । परम् । तदसून । अहरन् । खड्गघातैः । स्वस्य । पुरः । प्रभोः",
+    "anvaya": "कोपनैः दन्तीन्द्रैः आक्षिप्ताः अपि पत्तयः परम् स्वस्य प्रभोः पुरः खड्ग-घातैः तद्-असून अहरन् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even when seized by angry great elephants, the infantrymen managed to take the lives of those elephants with sword strikes, right in front of their own master.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004741,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आक्षिप्ता इति । परमतिशयितं कोपनैः क्रुद्धैर्दन्तीन्द्रैराक्षिप्ता अपि । आक्षेप्तुं शुण्डेन गृहीता अपीत्यर्थः । पत्तयः पादचारिणः स्वस्य प्रभोः पुरः खड्गाघातैस्तदसून्दन्तीन्द्रप्राणानहरञ्जगृहुः"
+    }
+  ]
+}

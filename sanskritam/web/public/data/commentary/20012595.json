@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012595,
+    "chapter_id": 6693,
+    "verse_number": "1.40",
+    "content_sanskrit": "इत्युक्त्वोपरतान्देवानुवाच गिरिजाप्रियः । मनोरथं पूरयिष्ये मानुष्यमवलम्ब्य वः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012595,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "मानुष्यमवलम्ब्य मनुष्यभावमाश्रित्य वो युष्माकं मनोरथं वाञ्छां पूरयिष्ये ॥४०॥"
+    }
+  ]
+}

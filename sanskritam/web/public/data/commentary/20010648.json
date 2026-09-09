@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010648,
+    "chapter_id": 6675,
+    "verse_number": "3.90",
+    "content_sanskrit": "तरुणीमुखचन्द्राणां चूषन्तः स्मितचन्द्रिकाः । उद्यानवलये यस्य चकोरा रेमिरेतराम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010648,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सर्वत्राप्यतिशयोक्तिः । रेमिरेतरामिति तिङश्चेति (पा.५|३|५६) तरप् । 'किमेत्तिङव्ययघादाम्वद्रव्यप्रकर्षे' (पा.५|४|११) इति स्वार्थे आमुः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002224,
+    "chapter_id": 6577,
+    "verse_number": "1.75",
+    "content_sanskrit": "पुरा शक्रमुपस्थाय तवोर्वीं प्रति यास्यतः । आसीत्कल्पतरुच्छायामाश्रिता सुरभिः पथि ॥",
+    "padaccheda": "पुरा । शक्रम् । उपस्थाय । तव । उर्वीम् । प्रति । यास्यतः । आसीत् । कल्पतरुच्छायाम् । आश्रिता । सुरभिः । पथि",
+    "anvaya": "पुरा शक्रम् उपस्थाय उर्वीम् प्रति यास्यतः तव पथि कल्प-तरु-छायाम् आश्रिता सुरभिः आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Long ago, as you were returning to earth after visiting Indra, the divine cow Surabhi was resting in the shade of a desire-yielding tree on your path.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002224,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पुरेति॥ पुरा पूर्वं शक्रमिन्द्रमुपस्थाय संसेव्य, उर्वीं प्रति भुवमुद्दिश्य यास्यतो गमिष्यतस्तव पथि कल्पतरुच्छायामाश्रिता सुरभिः कामधेनुरासीत्। तत्र स्थितेत्यर्थः॥"
+    }
+  ]
+}

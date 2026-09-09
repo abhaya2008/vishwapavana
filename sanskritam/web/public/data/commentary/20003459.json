@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003459,
+    "chapter_id": 6592,
+    "verse_number": "16.20",
+    "content_sanskrit": "रात्रावनाविष्कृतदीपभासः कान्तामुखश्रीवियुता दिवापि । तिरस्क्रियन्ते कृमितन्तुजालैर्विच्छिन्नधूमप्रसरा गवाक्षाः ॥",
+    "padaccheda": "रात्रौ । अनाविष्कृतदीपभासः । कान्तामुखश्रीवियुताः । दिवापि । तिरस्क्रियन्ते । कृमितन्तुजालैः । विच्छिन्नधूमप्रसराः । गवाक्षाः",
+    "anvaya": "रात्रौ अन-आविष्कृत-दीप-भासः, दिवा अपि कान्ता-मुख-श्री-वियुताः, विच्छिन्न-धूम-प्रसराः गवाक्षाः कृमि-तन्तु-जालैः तिरस्क्रियन्ते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The windows, which at night are not illuminated by lamplight and by day lack the beauty of beloveds' faces, and from which the smoke of incense no longer spreads, are now being covered by cobwebs.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003459,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रात्राविति॥ रात्रावनाविष्कृतदीपभासः। दीपप्रभाशून्या इत्यर्थः। दिवापि दिवसेऽपि कान्तामुखानां श्रिया कान्त्या वियुता रहिता विच्छिन्नो नष्टो धूमप्रसरो येषां ते गवाक्षाः कृमितन्तुजालैर्लूतातन्तुवितानैः। तिरस्क्रियन्ते छाद्यन्ते ॥"
+    }
+  ]
+}

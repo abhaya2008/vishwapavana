@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012132,
+    "chapter_id": 6688,
+    "verse_number": "16.139",
+    "content_sanskrit": "पिता तु मा पार्थमिति ब्रुवाणस्स्वस्रीयवात्सल्यवशात्तदानीम् । युयुत्सया नाऽऽद्रियताऽऽत्मजाभ्यां तथाविधो ह्यायुधजीविधर्मः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012132,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मा पार्थं बाधिपाथामिति वाक्यशेषो गम्यते ॥"
+    }
+  ]
+}

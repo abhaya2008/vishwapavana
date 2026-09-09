@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012026,
+    "chapter_id": 6688,
+    "verse_number": "16.33",
+    "content_sanskrit": "अस्यैव विजयेयातामपि त्रिभुवनं भुजौ । क्षुद्रराजन्यकाक्रान्तां किमुतेमां वसुन्धराम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012026,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विजयेयातामिति संभावने लिङ् । 'विपराभ्यां जे'रित्यात्मनेपदम् (पा.१|३|१९) ।"
+    }
+  ]
+}

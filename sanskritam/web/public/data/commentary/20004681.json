@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004681,
+    "chapter_id": 6610,
+    "verse_number": "15.26",
+    "content_sanskrit": "अरिष्टमाशङ्क्य विपाकदारुणं निवार्यमाणोऽपि बुधैर्महासुरः । पुरः प्रतस्थे महतां वृथा भवेदसद्ग्रहान्धस्य हितोपदेशनम् ॥",
+    "padaccheda": "अरिष्टम् । आशङ्क्य । विपाकदारुणम् । निवार्यमाणः । अपि । बुधैः । महासुरः । पुरः । प्रतस्थे । महताम् । वृथा । भवेत् । असद्ग्रहान्धस्य । हितोपदेशनम्",
+    "anvaya": "विपाकदारुणम् अरिष्टम् आशङ्क्य बुधैः निवार्यमाणः अपि महासुरः पुरः प्रतस्थे। असद्ग्रहान्धस्य महतां हितोपदेशनम् वृथा भवेत्॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though the wise warned him of the dreadful consequences of these omens and tried to restrain him, the great demon still marched forward. Indeed, the beneficial advice of great souls goes in vain for one blinded by evil obstinacy.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004681,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अरिष्टेति । महासुरस्तारकोऽरिष्टं विपाक उत्तरकाले दारुणं भयदमाशङ्क्य तर्कयित्वा निवार्यमाणो निषिध्यमानोऽपि पुर एव प्रतस्थे, न तु पश्चान्निववृते । तथाहि । असद्ग्रहेणनधस्याविवेकिनः हितस्योपदेशनं वृथा व्यर्थं भवेत् । दुराग्रहशीलस्य सम्यगुपदेशोऽपि तदमततया व्यथः, स्यादिति भावः"
+    }
+  ]
+}

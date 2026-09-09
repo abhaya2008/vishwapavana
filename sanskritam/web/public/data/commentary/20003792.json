@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003792,
+    "chapter_id": 6597,
+    "verse_number": "2.14",
+    "content_sanskrit": "त्वं पितॄणामपि पिता देवानामपि देवता । परतोऽपि परश्चासि विधाता वेधसामपि ॥",
+    "padaccheda": "त्वम् । पितॄणाम् । अपि । पिता । देवानाम् । अपि । देवता । परतः । अपि । परः । च । असि । विधाता । वेधसाम् । अपि",
+    "anvaya": "त्वम् पितॄणाम् अपि पिता, देवानाम् अपि देवता, परतः अपि परः, वेधसाम् अपि विधाता च असि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"You are the father even of the ancestors, the deity even of the gods. You are higher than the high, and the creator even of other creators.\" This verse establishes Brahma's supreme position in the cosmic hierarchy.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003792,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त्वमिति ॥ हे भगवन्, त्वं पितॄणामाग्निष्वात्तादीनामपि पिता । तेषामपि तर्पणीय इत्यर्थः । परतोऽपि परश्चासि । सर्वोत्तरोऽसीत्यर्थः । `इन्द्रियेभ्यः परा ह्यर्था अर्थेभ्यश्च परं मनः । मनसश्च परा बुद्धिर्बुद्धेरात्मा महास्ततः ।महतः परमव्यक्तात्पुरुषः परः । पुरुषान्न परं किंचित्सा काष्ठा सा परा गतिः ॥` इति सर्वोत्तरत्वाभिधानात् । वेधसां दक्षादीनामपि विधाता स्त्रष्टासि"
+    }
+  ]
+}

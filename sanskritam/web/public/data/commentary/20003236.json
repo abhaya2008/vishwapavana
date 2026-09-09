@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003236,
+    "chapter_id": 6589,
+    "verse_number": "13.66",
+    "content_sanskrit": "असौ पुरस्कृत्य गुरुं पदातिः पश्चादवस्थापितवाहिनीकः । वृद्धैरमात्यैः सह चीरवासा मामर्ध्यपाणिर्भरतोऽभ्युपैति ॥",
+    "padaccheda": "असौ । पुरस्कृत्य । गुरुम् । पदातिः । पश्चादवस्थापितवाहिनीकः । वृद्धैः । अमात्यैः । सह । चीरवासा । माम् । अर्ध्यपाणिः । भरतः । अभ्युपैति",
+    "anvaya": "असौ भरतः गुरुम् पुरस्कृत्य, पश्चात् अवस्थापित-वाहिनीकः, पदातिः, चीरवासा, वृद्धैः अमात्यैः सह, अर्ध्य-पाणिः (सन्) माम् अभि-उपैति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That Bharata approaches me on foot, wearing bark garments and carrying offerings in his hands. He has placed his preceptor Vasistha in front, stationed his army behind, and is accompanied by his elderly ministers.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003236,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असाविति॥ असौ पदातिः पादचारी चीरवासा वल्कलवलनो भरतः पश्चात् पृष्ठभागेऽवस्थापिता वाहिनी सेना येन स तथोक्तः सन्। `नद्यृतश्च` (पा.5।4।153)इति कप्। गुरुं वसिष्ठं पुरस्कृत्य वृद्धैरमात्यैः सहार्घ्यपाणिः सन् मामभ्युपैति ॥"
+    }
+  ]
+}

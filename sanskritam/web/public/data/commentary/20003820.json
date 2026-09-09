@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003820,
+    "chapter_id": 6597,
+    "verse_number": "2.42",
+    "content_sanskrit": "वीज्यते स हि संसुप्तः श्वाससाधारणानिलैः । चामरैः सुरबन्दीनां बाष्पशीकरवर्षिभिः ॥",
+    "padaccheda": "वीज्यते । सः । हि । संसुप्तः । श्वाससाधारणानिलैः । चामरैः । सुरबन्दीनाम् । बाष्पशीकरवर्षिभिः",
+    "anvaya": "हि संसुप्तः सः सुरबन्दीनां श्वाससाधारणानिलैः बाष्पशीकरवर्षिभिः चामरैः वीज्यते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, when he is sound asleep, he is fanned by chowries held by captive celestial women; these fans are moved by the wind of their sighs and sprinkle drops of their tears.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003820,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वीज्यते इति ॥ हि यस्मात्कारणत्स तारकः संसुत्पः सन् । श्वाससाधारणो निश्वाससमानोऽनिलो योषां तैः ततोऽप्याधिक्ये निद्राभङ्गभयादिति भावः । वाष्पशीकरवर्षिभिः । तासां स्त्रीणां रोदनस्यायमवसर इति भावः । सुरवन्दीनां सुरप्रग्रहस्त्रीणां संबन्धिभिः । `प्रग्रहापग्रहौ वन्द्याम्` इत्यमरः । चामरैर्वीज्यते"
+    }
+  ]
+}

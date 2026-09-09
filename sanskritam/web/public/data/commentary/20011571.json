@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011571,
+    "chapter_id": 6684,
+    "verse_number": "12.23",
+    "content_sanskrit": "अदर्शिषत चित्रस्थाः कयाचित्प्राप्य देवताः । नेत्राभ्यामनिमेषाभ्यां सकुतूहलया किल ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011571,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अदर्शिषत दृष्टाः । दृशेर्ज्ञे चिण्वद्भावः । किलशब्दः पूर्ववत् ॥"
+    }
+  ]
+}

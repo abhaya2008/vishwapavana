@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014116,
+    "chapter_id": 6707,
+    "verse_number": "15.12",
+    "content_sanskrit": "पितृकाननभस्मनाऽनुलिप्तः करसंप्राप्तकरोटिरात्तशूलः । सहितो बहुभिः स्वतुल्यवेषैः स इति स्माऽऽह महामनाः सगर्वः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014116,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "श्मशानभस्मना लिप्ताङ्गः करसंप्राप्तमनुष्यशिरःकपॉलः ॥ १२ ॥"
+    }
+  ]
+}

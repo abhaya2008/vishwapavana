@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003109,
+    "chapter_id": 6588,
+    "verse_number": "12.43",
+    "content_sanskrit": "मुखावयवलूनां तां नैर्ऋता यत्पुरो दधुः । रामाभियायिनां तेषां तदेवाभूदमङ्गलम् ॥",
+    "padaccheda": "मुखावयवलूनाम् । ताम् । नैर्ऋताः । यत् । पुरः । दधुः । रामाभियायिनाम् । तेषाम् । तत् । एव । अभूत् । अमङ्गलम्",
+    "anvaya": "नैर्ऋताः मुख-अवयव-लूनां तां यत् पुरः दधुः रामाभियायिनां तेषां तत् एव अमङ्गलं अभूत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The fact that the demons placed her, with her facial features mutilated, at their head as they marched against Rama, became an ill-omen for them as they went to battle.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003109,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मुखेति॥ नैर्ऋता राक्षसाः। `नैर्ऋतो यातुरक्षसी` इत्यमरः। मुखावयवेषु कर्णादिषु लूनां छिन्नां तां पुरो दधुरग्रे चक्रुरिति यत्तदेव रामाभियायिनां राममभिद्रवतां तेषाममङ्गलमभूत् ॥"
+    }
+  ]
+}

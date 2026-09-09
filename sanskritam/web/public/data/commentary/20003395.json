@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003395,
+    "chapter_id": 6591,
+    "verse_number": "15.59",
+    "content_sanskrit": "दिग्भ्यो निमन्त्रिताशअचैनमभिजग्मुर्महर्षयः । न भौमान्येव धिष्ण्यानि हित्वा ज्योतिर्मयान्यपि ॥",
+    "padaccheda": "दिग्भ्यः । निमन्त्रिताः । च । एनम् । अभिजग्मुः । महर्षयः । न । भौमानि । एव । धिष्ण्यानि । हित्वा । ज्योतिर्मयानि । अपि",
+    "anvaya": "निमन्त्रिताः महर्षयः च भौमानि धिष्ण्यानि एव न, ज्योतिर्मयानि अपि हित्वा, दिग्भ्यः एनम् अभिजग्मुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And great sages, having been invited, came to him from all directions, leaving behind not only their earthly abodes but also their celestial, luminous ones.",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003395,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दिग्भ्य इति॥ निमन्त्रिता आहूता महर्षयश्च भूम्याः संबन्धीनि भौमानिधिष्ण्यानि स्थानान्येव न। `धिष्ण्यं स्थाने गृहे भेऽग्नौ` इत्यमरः (अ.को.3|3|163)। किंतु ज्योतिर्मयानि नक्षत्ररूपाणि धिष्ण्यान्यपि हित्वा दिग्भ्य एनं राममभिजग्मुः ॥"
+    }
+  ]
+}

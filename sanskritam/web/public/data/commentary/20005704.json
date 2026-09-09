@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005704,
+    "chapter_id": 6628,
+    "verse_number": "16.26",
+    "content_sanskrit": "प्रसक्तदावानलधूमधूम्रा निरुन्धती धाम सहस्ररश्मेः । महावनानीव महातमिस्रा छाया ततानेशबलानि काली ॥",
+    "padaccheda": "प्रसक्त । दावानल । धूम । धूम्रा । निरुन्धती । धाम । सहस्ररश्मेः । महावनानि । इव । महातमिस्रा । छाया । ततान । ईशबलानि । काली",
+    "anvaya": "प्रसक्तदावानलधूमधूम्रा, सहस्ररश्मेः धाम निरुन्धती, महातमिस्रा काली छाया, महावनानि इव, ईशबलानि ततान।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A dark shadow, smoky-hued like the smoke of a raging forest fire and obstructing the sun's light, spread over Shiva's forces, just as a great darkness covers vast forests.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005704,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रसक्तेति ॥ प्रसक्तः संततो यो दावानलधूमस्तद्वद्धूम्रा धूसरा सहस्ररश्मेर्धाम तेजो निरुन्धत्यावृण्वती काली कृष्णवर्णा । `जानपद-` (पा.4।1।42)इत्यादिना ङीप् । छाया कान्तिः। ईशबलानि महातमिस्रा महती तमःसंततिः। `तमिस्रा तु तमस्ततिः` इति विश्वः । महावनानीव । ततान व्यानशे ।"
+    }
+  ]
+}

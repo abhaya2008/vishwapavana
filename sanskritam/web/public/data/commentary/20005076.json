@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005076,
+    "chapter_id": 6618,
+    "verse_number": "6.7",
+    "content_sanskrit": "दधति क्षतीः परिणतद्विरदे मुदितालियोषिति मदस्रुतिभिः । अधिकां स रोधसि बबन्ध धृतिं महते रुजन्नपि गुणाय महान् ॥",
+    "padaccheda": "दधति । क्षतीः । परिणतद्विरदे । मुदितालियोषिति । मदस्रुतिभिः । अधिकां । स । रोधसि । बबन्ध । धृतिं । महते । रुजन् । अपि । गुणाय । महान्",
+    "anvaya": "महान् महते रुजन् अपि गुणाय भवति । यथा परिणतद्विरदे मदस्रुतिभिः क्षतीः दधति मुदितालियोषिति रोधसि सः अधिकां धृतिं बबन्ध ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A great person, even while causing pain to another great one, contributes to their virtue. Similarly, Arjuna felt great satisfaction looking at the riverbank, which, though damaged by the ichor-streams of mature elephants, delighted the female bees.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005076,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दधतीति । सोऽर्जुनः क्षतीः क्षतानि दधति धारयति । कुतः। परिणतास्तिर्यग्दन्तप्रहारिणो द्विरदा यस्मिंस्तस्मिन् । `तिर्यग्दन्तप्रहारस्तु गजः परिणतो मतः` इति हलायुधः । मदस्रुतिभिर्मुदितालियोषिति रोधस्यधिकां धृतिं प्रीतिं बबन्ध । निश्चलीकृतवानित्यर्थः । तथाहि । महान् रुजन्पीडयन्नपि महते गुणायोत्कर्षाय भवति । महत्कृता पीडापि शुभावहैवेत्यर्थः। तद्युक्तं गजरुग्णस्यापि रोधसःप्रीतिकरत्वमिति भावः ।।"
+    }
+  ]
+}

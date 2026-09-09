@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002455,
+    "chapter_id": 6580,
+    "verse_number": "4.66",
+    "content_sanskrit": "ततः प्रतस्थे कौबेरीं भास्वानिव रघुर्दिशम् । शरैरुस्रैरिवोदीच्यानुद्धरिष्यन् रसानिव ॥",
+    "padaccheda": "ततः । प्रतस्थे । कौबेरीम् । भास्वान् । इव । रघुः । दिशम् । शरैः । उस्रैः । इव । उदीच्यान् । उद्धरिष्यन् । रसान् । इव",
+    "anvaya": "ततः रघुः उदीच्यान् शरैः उद्धरिष्यन्, भास्वान् उस्रैः रसान् इव, कौबेरीं दिशं प्रतस्थे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Raghu set out for the northern direction, intending to conquer the northerners with his arrows, just as the sun moves north to draw out the earth's waters with its rays.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002455,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततो रघुर्भास्वान् सूर्य इव शरैर्बाणैरुस्रैः किरणैरिव। `किरणोस्रमयूखांशुगभस्तघृणिरश्मयः` इत्यमरः। उदीच्यानुदग्भवान्नृपान् रसानुदकानीवोद्धरिष्यन् कौबेरीं कुबेरसंबन्धिनीं दिशमुदीचीं प्रतस्थे। अनेकेवशब्देनेयमुपमा। यथाह दण्डी-`एकानेकेवशब्दत्वात्सा वाक्यार्थोपमा द्विधा` इति ॥"
+    }
+  ]
+}

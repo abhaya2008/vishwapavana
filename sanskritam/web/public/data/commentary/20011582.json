@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011582,
+    "chapter_id": 6684,
+    "verse_number": "12.34",
+    "content_sanskrit": "अभाङ्क्षीदाननं यस्याश्शशिमण्डलडम्बरम् । अच्छैत्सीच्च दिनारम्भजृंभिताम्भोजविभ्रमम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011582,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अभाङ्क्षीदिति हलन्तलक्षणा वृद्धिः । तथा अच्छैत्सीदिति ॥"
+    }
+  ]
+}

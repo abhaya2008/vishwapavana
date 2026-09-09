@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011664,
+    "chapter_id": 6684,
+    "verse_number": "12.116",
+    "content_sanskrit": "निरन्तराश्लेषसुखोपघातक्रुधेव चूर्णीकृतहारयष्टि । अरंस्त सर्वं मिथुनं निशायां विना सुभद्राञ्च धनञ्जयञ्च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011664,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उत्प्रेक्षालङ्कारः । विना सुभद्राञ्च धनञ्जयञ्चेति चकारद्वयं निद्राविच्छेदस्य तुल्यत्वद्योतनार्थम् ॥"
+    }
+  ]
+}

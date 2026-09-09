@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003318,
+    "chapter_id": 6590,
+    "verse_number": "14.69",
+    "content_sanskrit": "नृत्यं मयूराः कुसुमानि वृक्षा दर्भानुपात्तान्विजहुर्हरिण्यः । तस्याः प्रपन्ने समदुःखभावमत्यन्तमासीद्रुदितं वनेऽपि ॥",
+    "padaccheda": "नृत्यम् । मयूराः । कुसुमानि । वृक्षाः । दर्भान् । उपात्तान् । विजहुः । हरिण्यः । तस्याः । प्रपन्ने । समदुःखभावम् । अत्यन्तम् । आसीत् । रुदितम् । वने । अपि",
+    "anvaya": "तस्याः समदुःखभावम् प्रपन्ने (वने), मयूराः नृत्यम्, वृक्षाः कुसुमानि, हरिण्यः उपात्तान् दर्भान् विजहुः। वने अपि अत्यन्तम् रुदितम् आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the forest itself seemed to share her sorrow, the peacocks stopped their dancing, the trees shed their flowers, and the female deer dropped the blades of grass they had taken in their mouths. Even in the forest, there was extreme weeping.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003318,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नृत्यमिति॥ मयूरा नृत्यं विजहुस्त्यक्तवन्तः। वृक्षाः कुसुमानि। हरिण्य उपात्तान्दर्भान्। इत्थं तस्याः सीतायाः समदुःखभावं प्रपन्ने तुल्यदुःखत्वं प्राप्ते वनेऽप्यत्यनतं रुदितमासीत्। यथा रामगेहेऽपीति `अपि` शब्दार्थः॥"
+    }
+  ]
+}

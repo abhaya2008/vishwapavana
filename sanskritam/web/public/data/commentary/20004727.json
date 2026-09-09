@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004727,
+    "chapter_id": 6611,
+    "verse_number": "16.19",
+    "content_sanskrit": "कश्चिदभ्यागते वीरे जिघांसौ मुदमादधौ । परावृत्य गते क्षुब्धे विषसादाहवप्रियः ॥",
+    "padaccheda": "कश्चित् । अभ्यागते । वीरे । जिघांसौ । मुदम् । आदधौ । परावृत्य । गते । क्षुब्धे । विषसाद । आहवप्रियः",
+    "anvaya": "आहव-प्रियः कश्चित् जिघांसौ वीरे अभ्यागते मुदम् आदधौ, क्षुब्धे परावृत्य गते (सति) विषसाद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A certain warrior who loved combat felt great joy when an enemy approached intending to kill him; however, he became despondent when that agitated enemy turned around and retreated from the fight.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004727,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कशिचदिति । कश्चिद्वीरो जिघांसौ हन्तुमिच्छौ वौरेऽभ्यागते संमुखमागते सति । मुदमादधौ प्रससाद । अथ च क्षुब्ध एतदीयप्रहारक्षुभितेऽत एव परावृत्य एव परावृत्य गते तु विषसाद खिन्नोऽभूते । यत आहवप्रियः संग्रामप्रियः । वीराणां प्रतिद्वन्द्विसंमुखागमनमेव प्रीतिजनकं भवतीति भावः"
+    }
+  ]
+}

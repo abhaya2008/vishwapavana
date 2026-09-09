@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004754,
+    "chapter_id": 6611,
+    "verse_number": "16.46",
+    "content_sanskrit": "रथिनो रथिभिर्बाणैर्हृतप्राणा दृढासनाः । क्षतकार्मुकसन्धानाः सप्राणा इव मेनिरे ॥",
+    "padaccheda": "रथिनः । रथिभिः । बाणैः । हृतप्राणाः । दृढासनाः । क्षतकार्मुकसन्धानाः । सप्राणाः । इव । मेनिरे",
+    "anvaya": "रथिभिः बाणैः हृत-प्राणाः दृढ-आसनाः क्षत-कार्मुक-सन्धानाः रथिनः स-प्राणाः इव मेनिरे",
+    "meaning_sanskrit": "",
+    "meaning_english": "Chariot warriors, though killed by the arrows of their opponents, remained firmly seated in their positions. With their bows still held in an aiming posture, they appeared to the observers as if they were still alive.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004754,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रथिन इति । रथिभी रथारोहैः कर्तृभिः । बाणैः कृत्वा हृतप्राणास्तथा दृढासनाः क्षतं नष्टं कार्मुकसंधानं धनुःसज्जीकरणं येषामेवंभूता रथिनो रथारोहाः सप्राणा इव जीवन्त इव मेनिरे मताः । कर्मणि लिट् । द्रष्टृभिरिति शेषः"
+    }
+  ]
+}

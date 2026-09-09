@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004130,
+    "chapter_id": 6601,
+    "verse_number": "6.80",
+    "content_sanskrit": "यावदेतानि भूतानि स्थावराणि चराणि च । मातरं कल्पयन्त्येनामीशो हि जगतः पिता ॥",
+    "padaccheda": "यावत् । एतानि । भूतानि । स्थावराणि । चराणि । च । मातरम् । कल्पयन्ति । एनाम् । ईशः । हि । जगतः । पिता",
+    "anvaya": "हि ईशः जगतः पिता (अस्ति)। (अतः) एतानि स्थावराणि चराणि च भूतानि एनाम् मातरम् कल्पयन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Since the Lord (Shiva) is the father of the world, all beings, both stationary and moving, will regard her as their mother.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004130,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यावन्तीति । स्थावराणि चराणि च यावन्त्येतानि भूतानि सन्तीति शेषः । सर्वाणि भूतानीत्यर्थः । एनां ते दुहितरं मातरं कल्पयन्तु । हि यस्मादीशो जगतः पिता । पितृदारेषु मातृभावो न्याय्य इति भावः"
+    }
+  ]
+}

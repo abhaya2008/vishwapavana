@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005358,
+    "chapter_id": 6623,
+    "verse_number": "11.4",
+    "content_sanskrit": "विशदभ्रूयुगच्छन्नवलितापाङ्गलोचनः । प्रालेयावततिम्लानपलाशाब्ज इव ह्रदः ॥",
+    "padaccheda": "विशदभ्रूयुगच्छन्नवलितापाङ्गलोचनः । प्रालेयावततिम्लानपलाशाब्जः । इव । ह्रदः",
+    "anvaya": "(सः) विशद-भ्रू-युग-छन्न-वलित-अपाङ्ग-लोचनः, प्रालेय-अवतति-म्लान-पलाश-अब्जः ह्रदः इव (आसीत्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His eyes, with their wrinkled outer corners covered by his white eyebrows, resembled a lake whose lotuses have their petals faded by an expanse of frost.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005358,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विशदेति ॥ पुनश्च । विशदेन पलितपाण्डुरेण भ्रूयुगेन छन्ने वलितापाङ्गे बलिमत्तान्ते लोचने यस्य स तथोक्तः । `अपाङ्गौ नेत्रयोरन्तौ` इत्यमरः (अ.को.2|6|95)। पामादित्वाल्लोमादि सूत्रेण तृलच्प्रत्ययः । प्रालेयावतत्या हिमसंहत्या म्लानपलाशानि क्लान्तदलान्यब्जानि यस्सिन्स ह्रद इव स्थितः ॥"
+    }
+  ]
+}

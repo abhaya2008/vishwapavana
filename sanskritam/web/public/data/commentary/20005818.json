@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005818,
+    "chapter_id": 6630,
+    "verse_number": "18.12",
+    "content_sanskrit": "वियति वेगपरिप्लुतमन्तरा समभिसृत्य रयेण कपिध्वजः । चरणयोश्चरणानमितक्षितिर्निजगृहे तिसृणां जयिनं पुराम् ॥",
+    "padaccheda": "वियति । वेगपरिप्लुतम् । अन्तरा । सम् अभिसृत्य । रयेण । कपिध्वजः । चरणयोः । चरणानमितक्षितिः । निजगृहे । तिसृणाम् । जयिनम् । पुराम्",
+    "anvaya": "चरणानमितक्षितिः कपिध्वजः वियति वेगपरिप्लुतम् तिसृणाम् पुराम् जयिनम् अन्तरा रयेण सम् अभिसृत्य चरणयोः निजगृहे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Arjuna, the one with the monkey banner, whose feet did not touch the ground, swiftly approached the conqueror of the three cities (Shiva) who was leaping in the sky with great speed, and in mid-air, seized him by the feet.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005818,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "वियतीति ॥ वियत्यन्तरिक्षे वेगेन परिप्लुतमुत्पतितं तिसृणां पुरां जयिनं त्रिपुरान्तकम् । `जिदृक्षि-` (पा.3।2।157)इत्यादिनेनिप्रत्ययः । कपिध्वजोऽर्जुनश्चरणाभ्यां पादाभ्यामानमितक्षितिः सन् । रयेण वेगेन समभिसृत्याभिद्रुत्यान्तरा मध्येमार्गं चरणयोः पदयोर्निजगृहे निगृहीतवान् । उत्पतितस्य भगवतश्चरणौ स्वकरवभ्यां जग्राहेत्यर्थः ॥"
+    }
+  ]
+}

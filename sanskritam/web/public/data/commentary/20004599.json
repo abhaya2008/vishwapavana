@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004599,
+    "chapter_id": 6608,
+    "verse_number": "13.46",
+    "content_sanskrit": "स कश्यपः सा जननी सुराणां तमेधयामासतुराशिषा द्वौ । तया यया नैकजगज्जिगीषुं जेता मृधे तारकमुग्रवीर्यम् ॥",
+    "padaccheda": "स । कश्यपः । सा । जननी । सुराणाम् । तम् । एधयामासतुः । आशिषा । द्वौ । तया । यया । नैकजगज्जिगीषुम् । जेता । मृधे । तारकम् । उग्रवीर्यम्",
+    "anvaya": "सः कश्यपः सा सुराणाम् जननी द्वौ यया नैक-जगज्-जिगीषुम् उग्र-वीर्यम् तारकम् मृधे जेता तया आशीषा तम् एधयामासतुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kaśyapa and Aditi, the mother of the gods, both blessed him with such a benediction by which he would become the conqueror of the fiercely powerful Tāraka, who sought to conquer many worlds, in battle.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004599,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति । स कश्चपो मुनिः सा सुराणां जनन्यदितिः, एतौ द्वौ तं कुमारं तयाशिषाशीर्वादेनैधयामासतुर्वर्धयतः स्म । ययाऽऽशिषा निमित्तेनोग्रवीर्यमत एव नैकजगन्त्यनेकजगन्ति । त्रीणि जगन्तीत्यर्थः । जिगीषुं जेतुमिच्छुम् । `न लोके'- ति षष्ठीनिषेधः । तारकं दैत्यं मृधे सङ्गरे जेता । जेष्यतीत्यर्थः । कर्तरि लुट्"
+    }
+  ]
+}

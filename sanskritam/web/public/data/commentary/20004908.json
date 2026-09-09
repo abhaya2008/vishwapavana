@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004908,
+    "chapter_id": 6614,
+    "verse_number": "2.48",
+    "content_sanskrit": "असमापितकृत्यसम्पदां हतवेगं विनयेन तावता । प्रभवन्त्यभिमानशालिनां मदमुत्तम्भयितुं विभूतयः ॥",
+    "padaccheda": "असमापितकृत्यसम्पदाम् । हतवेगम् । विनयेन । तावता । प्रभवन्ति । अभिमानशालिनाम् । मदम् । उत्तम्भयितुम् । विभूतयः",
+    "anvaya": "तावता विनयेन हत-वेगम्, असमापित-कृत्य-सम्पदाम् अभिमान-शालिनाम् मदम् विभूतयः उत्तम्भयितुम् प्रभवन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For the proud who have not yet completed their great undertakings, prosperity is capable of reviving their pride, which has only been temporarily suppressed by that much humility.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004908,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "असमापितेति ॥ असमापितकृत्यसंपदामकृतकृत्यानामतोऽभिमानशालिनामहंकारिणां विभूतयः संपद एव तावता स्वल्पेन विनयेन । कार्यवशादारोपितेनेति शेषः । हतवेगं प्रतिबद्धवेगं नतु स्वरूपतो हतं मदमुत्तम्भयितुं वर्धयितुं प्रभवन्ति । सर्वथा दुर्जनसंपदो विकारयन्तीति भावः ॥ अथ मदस्यानर्थहेतुतां युग्मेनाह"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004189,
+    "chapter_id": 6602,
+    "verse_number": "7.44",
+    "content_sanskrit": "एकैव मूर्तिर्बिभिदे त्रिधा सा सामान्यमेषां प्रथमावरत्वम् । विष्णोर्हरस्तस्य हरिः कदाचिद्वेधास्तयोस्तावपि धातुराद्यौ ॥",
+    "padaccheda": "एका । एव । मूर्तिः । बिभिदे । त्रिधा । सा । सामान्यम् । एषाम् । प्रथम-अवरत्वम् । विष्णोः । हरः । तस्य । हरिः । कदाचित् । वेधाः । तयोः । तौ । अपि । धातुः । आद्यौ",
+    "anvaya": "सा एका एव मूर्तिः त्रिधा बिभिदे। एषाम् प्रथम-अवरत्वम् सामान्यम्। कदाचित् विष्णोः हरः (आद्यः), तस्य हरिः (आद्यः), तयोः वेधाः (आद्यः), तौ अपि धातुः आद्यौ (भवतः)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That one and the same form divided itself into three: Brahma, Vishnu, and Shiva. The state of being first or last among them is interchangeable. Sometimes Shiva is prior to Vishnu, sometimes Vishnu is prior to him; sometimes Brahma is prior to them both, and at other times, they are both prior to Shiva.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004189,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एकैवेति । सैकैव मूर्तिस्त्रिघा ब्रह्मविष्णुशिवात्मकत्वेन बिभिदे । औपाधिकोऽयं भेदो न वास्तविक इत्यर्थः । अत एवैषां त्रयाणां प्रथमावरयोर्भावः प्रथमावरत्वं ज्येष्ठकनिष्ठभावः । सामान्यं साधारणम् । इच्छया सर्वे ज्येष्ठा भवन्ति कनिष्ठाश्चेत्यर्थः । एतदेव विवृणोति-कदाचिद्धरो विष्णोराद्यः । कदाचिद्धरिस्तस्याद्यः । कदाचिद्वेधास्तथोर्हरिहरयोराद्यः । कदाचित्तौ हरिहरावपि धातुः स्त्रष्टुराद्यौ । एवमेतेषां पौर्वापर्यमनियतमिति दर्शितम्"
+    }
+  ]
+}

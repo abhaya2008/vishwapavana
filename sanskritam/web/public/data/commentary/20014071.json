@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014071,
+    "chapter_id": 6706,
+    "verse_number": "14.142",
+    "content_sanskrit": "दृष्ट्वा बाद्धं मातुलस्तस्य भूयो भीतः प्रास्यद्रोजने तन्मनोघ्नम् । किंचिद्रव्यं पूर्ववन्नाक्षमिष्ट टीकां कर्तुं केचिदेवं ब्रुवन्ति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014071,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "प्रास्यत्याक्षिपत् । नाक्षमिष्ट समर्थो नाभूत्र । शालिनी वृत्तम् ॥ ४२ ॥"
+    }
+  ]
+}

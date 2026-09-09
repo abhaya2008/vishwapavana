@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003298,
+    "chapter_id": 6590,
+    "verse_number": "14.49",
+    "content_sanskrit": "जुगूह तस्याः पथि लक्ष्मणो यत्सव्येतरेण स्फुरता तदक्ष्णा । आख्यातमस्यै गुरु भावि दुःखमत्यन्तलुप्तप्रियदर्शनेन ॥",
+    "padaccheda": "जुगूह । तस्याः । पथि । लक्ष्मणः । यत् । सव्येतरेण । स्फुरता । तत् । अक्ष्णा । आख्यातं । अस्यै । गुरु । भावि । दुःखम् । अत्यन्तलुप्तप्रियदर्शनेन",
+    "anvaya": "पथि सव्य-इतरेण स्फुरता, अत्यन्त-लुप्त-प्रिय-दर्शनेन अक्ष्णा यत् गुरु भावि दुःखम् अस्यै आख्यातम्, तत् लक्ष्मणः तस्याः जुगूह।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On the way, Lakshmana concealed from her the great future sorrow that was indicated to her by the twitching of her right eye—an omen that she would completely lose sight of her beloved.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003298,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जुहूतेति॥ पथि लक्ष्मणो यद्दुःखं तस्याः सीताया जुगूह प्रतिसंहृतवान् तद्गुरु भावि भविष्यद्दुःखमत्यन्तलुप्तं प्रियदर्शनं यस्य तेन स्फुरता सव्येतरेण दक्षिणेनाक्ष्णाऽस्यै सीताया आख्यातम्। स्त्रीणां दक्षिणाक्षिस्फुरणं दुर्निमित्तमाहुः ॥"
+    }
+  ]
+}

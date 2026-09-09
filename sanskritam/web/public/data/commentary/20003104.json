@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003104,
+    "chapter_id": 6588,
+    "verse_number": "12.38",
+    "content_sanskrit": "इत्युक्त्वा मैथिलीं भर्तुरङ्केः निविशतीं भयात् । रूपं शूर्पणखा नाम्नः सदृशं प्रत्यपद्यत ॥",
+    "padaccheda": "इति । उक्त्वा । मैथिलीम् । भर्तुः । अङ्के । निविशतीम् । भयात् । रूपम् । शूर्पणखा । नाम्नः । सदृशम् । प्रत्यपद्यत",
+    "anvaya": "इति उक्त्वा भयात् भर्तुः अङ्के निविशतीं मैथिलीं शूर्पणखा नाम्नः सदृशं रूपं प्रत्यपद्यत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having said this to Sita, who was shrinking into her husband's lap out of fear, Surpanakha assumed a terrifying form that truly befitted her name.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003104,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ भयाद्भर्तुरङ्के निविशंतीमालिङ्गन्तीं मैथिलीमित्युक्त्वा शूर्पणखा नाम्नः सदृशम्। शूर्पाकारनखयुक्तमित्यर्थः। रूपमाकारं प्रत्यपद्यत स्वीचकार। अदर्शयदित्यर्थः॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013735,
+    "chapter_id": 6703,
+    "verse_number": "11.40",
+    "content_sanskrit": "प्रह्लादवश्यो भगवान्कथं वा प्रसादितोऽयं नृहरिस्त्वयेति । सविस्मयैः स्निग्धजनैः स पृष्टः सनन्दनः सस्मितमित्यवादीत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013735,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "सनन्दनः पद्मपादः सस्मितं यथा स्यात्तथेति वक्ष्यमाणमुक्तवान् ॥ ४५ ॥"
+    }
+  ]
+}

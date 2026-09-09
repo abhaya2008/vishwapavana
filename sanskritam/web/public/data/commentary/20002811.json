@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002811,
+    "chapter_id": 6585,
+    "verse_number": "9.6",
+    "content_sanskrit": "समतया वसुवृष्टिविसर्जनैर्नियमनादसतां च नराधिपः । अनुययौ यमपुण्यजनेश्वरौ सवरुणावरुणाग्रसरं रुचा ॥",
+    "padaccheda": "समतया । वसुवृष्टिविसर्जनैः । नियमनात् । असताम् । च । नराधिपः । अनुययौ । यमपुण्यजनेश्वरौ । सः । वरुणम् । अरुणाग्रसरम् । रुचा",
+    "anvaya": "सः नराधिपः समतया वरुणम्, वसुवृष्टिविसर्जनैः पुण्यजनेश्वरम्, असताम् नियमनात् यमम्, च रुचा अरुणाग्रसरम् अनुययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That king (Dasharatha) emulated Varuna through his impartiality, Kubera (lord of the पुण्यजनs) by his showers of wealth, Yama by his restraint of the wicked, and the Sun (whose forerunner is Aruna) by his splendor.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002811,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "समतयेति॥ नराधिपो दशरथः समतया समवर्तित्वेन। मध्यस्थत्वेनेत्यर्थः। वसुवृष्टेर्धनवृष्टेर्विसर्जनैः। असतां दुष्टानां नियमनान्निग्रहाञ्च। सवरुणौ वरुणसहितौ यमपुम्यजनेश्वरौ यमकुबेरौ यमकुबेरवरुणान्। यथासंख्यमनुययावनुचकार। रुचा तेजसाऽरुणाग्रसरमरुणसारथिं सूर्यमनुययौ ॥"
+    }
+  ]
+}

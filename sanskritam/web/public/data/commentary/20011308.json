@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011308,
+    "chapter_id": 6681,
+    "verse_number": "9.60",
+    "content_sanskrit": "शिवकर्मसु पाथोऽर्थान् जनाय बहुशो ददौ । अल्पशो वितरन्त्यर्थानापद्यपि न तादृशाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011308,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "बहुश : अल्पश: इति । बह्वल्पार्थाच्छस् कारकादन्यतरस्या'मिति (पा.५|४|४२) शस् । किंपुनस्संपदीति शेषः ॥"
+    }
+  ]
+}

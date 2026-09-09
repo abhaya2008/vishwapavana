@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013818,
+    "chapter_id": 6704,
+    "verse_number": "12.54",
+    "content_sanskrit": "इतीरयित्वोपरते च विप्रे पप्रच्छ तं शंकरदेशिकेन्द्रः । कस्त्वं किमेवं जडवत्प्रवृत्तः स चाब्रवीद्धालवपुर्महात्मा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013818,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "इत्येवं कथयित्वा प्रभाकर उपरते सति तं शंकरदेशिकेन्द्रः पप्रच्छ ॥ ५४ ॥"
+    }
+  ]
+}

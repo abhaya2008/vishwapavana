@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004179,
+    "chapter_id": 6602,
+    "verse_number": "7.34",
+    "content_sanskrit": "यथाप्रदेशं भुजगेश्वराणां करिश्यतामाभरणान्तरत्वम् । शरीरमात्रं विकृतिं प्रपेदे तथैव तस्थुः फणरत्नशोभाः ॥",
+    "padaccheda": "यथा-प्रदेशम् । भुजग-ईश्वराणाम् । करिष्यताम् । आभरण-अन्तरत्वम् । शरीर-मात्रम् । विकृतिम् । प्रपेदे । तथा । एव । तस्थुः । फण-रत्न-शोभाः",
+    "anvaya": "यथा-प्रदेशम् आभरण-अन्तरत्वम् करिष्यताम् भुजग-ईश्वराणाम् शरीर-मात्रम् विकृतिम् प्रपेदे, फण-रत्न-शोभाः तथा एव तस्थुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The bodies of the serpent lords adorning Shiva, which were to be transformed into other ornaments like gold, underwent a change. However, the brilliance of their hood-jewels remained just as they were, unchanged.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004179,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यथेति । यथाप्रदेशं प्रदेशान्कोष्ठादीननतिक्रम्याभरणान्तरत्वं कङ्कणाद्याभरणविशेषत्वं करिष्यतां संपादयिष्यतां भुजगेश्वराणां शरीरमात्रं शरीरमेव विकृतिं रुपान्तरं प्रपेदे । फणरत्नशोभास्तथैव तस्थुः । तासां तथैवोपादेयत्वादिति भावः"
+    }
+  ]
+}

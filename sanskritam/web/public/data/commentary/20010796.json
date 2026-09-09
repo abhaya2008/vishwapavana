@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010796,
+    "chapter_id": 6677,
+    "verse_number": "5.36",
+    "content_sanskrit": "निश्चयादागमार्थानामनघमोदरा इमे । धन्याः खल्वृषयो मूलफलादिविघसाशिनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010796,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निश्चयादयो ग्रहादिनाप् । विघसोतिथिभोजनविशेषः । 'उपसर्गे ऽदः' (पा.३|३|५९) इत्यप् । 'घञपोश्च' (पा.२|४|३८) इति अदेर्घस्ऌ ॥"
+    }
+  ]
+}

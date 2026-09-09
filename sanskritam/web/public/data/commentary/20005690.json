@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005690,
+    "chapter_id": 6628,
+    "verse_number": "16.12",
+    "content_sanskrit": "निषादिसंनाहमणिप्रभौघे परीयमाणे करिशीकरेण । अर्कत्विषोन्मीलितमभ्युदेति न खण्डमाखण्डलकार्मुकस्य ॥",
+    "padaccheda": "निषादि । संनाह । मणि । प्रभ । ओघे । परीयमाणे । करि । शीकरेण । अर्क । त्विषा । उन्मीलितम् । अभ्युदेति । न । खण्डम् । आखण्डल । कार्मुकस्य",
+    "anvaya": "करिशीकरेण परीयमाणे निषादिसंनाहमणिप्रभौघे (सति), अर्कत्विषा उन्मीलितम् आखण्डलकार्मुकस्य खण्डम् न अभ्युदेति (किन्तु स एव प्रभौघः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When the flood of light from the gems on the riders' armor is surrounded by the spray from the elephants, what arises is not a fragment of Indra's bow (a rainbow) revealed by the sun's rays, but that very mass of light itself, creating a similar spectacular effect.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005690,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "निषादीति ॥ करिणां शीकरेण पुष्करतुषारेण परीयमाणे व्याप्यमाने निषादिनो हस्त्यारोहाः। `हस्त्यारोहा निषादिनः` इत्यमरः (अ.को.2|8|59) । तेषां संनाहाः कवचानि तेषां मणिप्रभौघे रत्नांशुजालेऽर्कस्य त्विषा तेजसोन्मीलितमुत्पादितमाखण्डलकार्मुकस्येन्द्रधनुषः। `आखण्डलः सहस्राक्षः` इत्यमरः (अ.को.1|1|55) । खण्डं नाभ्युदेति ।।"
+    }
+  ]
+}

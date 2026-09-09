@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004482,
+    "chapter_id": 6606,
+    "verse_number": "11.39",
+    "content_sanskrit": "इत्थं महेशाद्रिसुतासुतस्य जन्मोत्सवे सम्मदयाञ्चकार । चराचरं विश्वमशेषमेतत्परं चकम्पे किल तारकश्रीः ॥",
+    "padaccheda": "इत्थम् । महेशाद्रिसुतासुतस्य । जन्मोत्सवे । सम्मदयाञ्चकार । चराचरम् । विश्वम् । अशेषम् । एतत् । परम् । चकम्पे । किल । तारकश्रीः",
+    "anvaya": "इत्थम् महेशाद्रिसुतासुतस्य जन्मोत्सवः एतत् अशेषम् चराचरम् विश्वम् सम्मदयाञ्चकार केवलम् तारकश्रीः चकम्पे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In this manner, the birth festival of the son of Śiva and Pārvatī filled the entire universe of moving and unmoving beings with joy; only the fortune of the demon Tāraka trembled in fear.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004482,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इत्थमिति । महेशो हरः । अद्रिसुता पार्वती तस्याः सुतस्य पुत्रस्येत्थमेवंभूते जन्मोत्सवेऽशेषं समस्तं चराचरं स्थारजङ्गममेतद्विश्वंजगत्संमदयांचकारोन्मत्तीचकार । उन्मादसाधनैरिति शेषः । परं केवलं तारकस्य तारकासुरस्य श्रीर्लक्ष्मीश्चकम्पे । बिभायेत्यर्थः"
+    }
+  ]
+}

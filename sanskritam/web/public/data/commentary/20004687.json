@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004687,
+    "chapter_id": 6610,
+    "verse_number": "15.32",
+    "content_sanskrit": "इत्याद्यरिष्टैरशुभोपदेशिभिर्विहन्यमानोऽप्यसुरः पुनः पुनः । यदा मदान्धो न गतात्न्यवर्तताम्बरात्तदाभून्मरुतां सरस्वती ॥",
+    "padaccheda": "इत्यादि । अरिष्टैः । अशुभोपदेशिभिः । विहन्यमानः । अपि । असुरः । पुनः पुनः । यदा । मदान्धः । न । न्यवर्तत । अम्बरात् । तदा । अभूत् । मरुताम् । सरस्वती",
+    "anvaya": "इति आदि अशुभोपदेशिभिः अरिष्टैः पुनः पुनः विहन्यमानः अपि मदान्धः असुरः यदा न न्यवर्तत तदा अम्बरात् मरुतां सरस्वती अभूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even though the demon was repeatedly warned by such ill-omens indicating misfortune, he did not turn back due to being blinded by pride. At that moment, a divine voice of the gods echoed from the sky.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004687,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इत्यादीति । मदान्धोऽसुरस्तारकोऽशुभोपदेशिभिरमङ्गलसूचकैरित्याद्यरिष्टैः पूर्वोक्तमहोत्पातैः पुनः पुनर्विहन्यमानोऽपि विध्नितः क्रियमाणोऽपि यदा गताद् गमनात् । भावे निष्ठा । न न्यवर्ततत न निवृत्तः । तदाऽम्बराद् व्योम्नः सकाशान्मरुतां देवानां सरस्वती वाण्यभूत्"
+    }
+  ]
+}

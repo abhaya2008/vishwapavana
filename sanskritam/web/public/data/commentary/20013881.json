@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013881,
+    "chapter_id": 6705,
+    "verse_number": "13.27",
+    "content_sanskrit": "अस्मानवेक्ष्यैव मुहुः प्रणम्य कृताञ्जलौ तिष्ठति बालकेऽस्मिन् । इमामपूर्वां प्रकृतिं विलोक्य विसिष्मये तत्र जनः समेतः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013881,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "प्रकृतिं स्वभावम् । तत्र तस्मिन्स्थाने । समेतः संमिलितः ॥ २७ ॥"
+    }
+  ]
+}

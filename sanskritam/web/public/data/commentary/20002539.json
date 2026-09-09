@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002539,
+    "chapter_id": 6581,
+    "verse_number": "5.62",
+    "content_sanskrit": "प्रवेश्य चैनं पुरमग्रयायी नीचैस्तथोपाचरदर्पितश्रीः । मेने यथा तत्र जनः समेतो वैदर्भमागन्तुमजं गृहेशम् ॥",
+    "padaccheda": "प्रवेश्य । च । एनम् । पुरम् । अग्रयायी । नीचैः । तथा । उपाचरत् । अर्पितश्रीः । मेने । यथा । तत्र । जनः । समेतः । वैदर्भम् । आगन्तुम् । अजम् । गृहेशम्",
+    "anvaya": "अग्रयायी अर्पित-श्रीः (वैदर्भः) एनं पुरं प्रवेश्य च नीचैः तथा उपाचरत्, यथा तत्र समेतः जनः वैदर्भम् आगन्तुम् अजं गृहेशं मेने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Leading him into the city, the king of Vidarbha, though possessing great splendor, treated him with such humility that the assembled people there considered the king to be the guest and Aja the master of the house.",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002539,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रवेश्येति॥ एनमजमग्रयीयी। सेवाधर्मेण पुरो गच्छन्नित्यर्थः। नीचैर्नम्रः पुरं प्रवेश्य प्रवेशं कारयित्वा प्रीत्याऽर्पितश्रीस्तथा तेन प्रकारेणोपाचरदुपचरितवान्। यथा येन प्रकारेण तत्र पुरे समेतो मिलितो जनो वैदर्भं भोजमागन्तुं प्राघूर्णिकं मेने। अजं गृहेशं गृहपतिं मेने ॥"
+    }
+  ]
+}

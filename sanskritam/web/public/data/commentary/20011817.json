@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011817,
+    "chapter_id": 6686,
+    "verse_number": "14.41",
+    "content_sanskrit": "चूता रुरुचिरे पुष्पैः पलाशाः प्रचकाशिरे । फुल्लाः कुरबका रेजुः पुपुष्पुरपि चम्पकाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011817,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "रुरुचिरे । रुच् दीप्तौ । अनुदात्तेत् । काशृ दीप्ताविति च । पुपुष्पुः । पुष्प विकसने । उदात्तेत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003102,
+    "chapter_id": 6588,
+    "verse_number": "12.36",
+    "content_sanskrit": "संरम्भं मैथिलीहासः क्षणसौम्यां निनाय ताम् । निवातस्मिमितां वेलां चद्रोदय इवोदधेः ॥",
+    "padaccheda": "संरम्भम् । मैथिलीहासः । क्षणसौम्याम् । निनाय । ताम् । निवातस्तिमिताम् । वेलाम् । चन्द्रोदयः । इव । उदधेः",
+    "anvaya": "मैथिलीहासः ताम् क्षणसौम्यां संरम्भं निनाय चन्द्रोदयः उदधेः निवातस्मिमितां वेलाम् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Sita's laughter provoked the momentarily calm Surpanakha into a fury, just as the rising moon causes the windless, still tide of the ocean to surge violently.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003102,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संरम्भमिति॥ मैथिलीहासः क्षणं सौम्यां सौम्याकारां तां राक्षसीम्। निवातेन स्तिमितां निश्चलामुदधेर्वेलामम्बुविकृतिम्। अम्बुपूरमित्र्थः। `अब्ध्यम्बुविकृतौ वेला` इत्यमरः (अ.को.3|3|207)। चन्द्रोदय इव। संरम्भं संक्षोभं निनाय ॥"
+    }
+  ]
+}

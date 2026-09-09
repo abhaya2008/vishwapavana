@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002427,
+    "chapter_id": 6580,
+    "verse_number": "4.38",
+    "content_sanskrit": "स तीर्त्वा कपिशां सैन्यैर्बद्धद्विरदसेतुभिः । उत्कलादर्शितपथः कलिङ्गाभिमुखो ययौ ॥",
+    "padaccheda": "सः । तीर्त्वा । कपिशाम् । सैन्यैः । बद्धद्विरदसेतुभिः । उत्कलादर्शितपथः । कलिङ्गाभिमुखः । ययौ",
+    "anvaya": "सः बद्ध-द्विरद-सेतुभिः सैन्यैः कपिशाम् तीर्त्वा, उत्कल-आदर्शित-पथः (सन्) कलिङ्ग-अभिमुखः ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having crossed the Kapisha river with his armies using bridges made of elephants, he, with the path shown by the defeated Utkalas, proceeded towards Kalinga.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002427,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स रघुर्बद्धा द्विरदा एव सेतवो यैस्तैः सैन्यैः कपिशां नाम नदीं तीर्त्वा। `करभाम्`इति केचित्पठन्ति। उत्कलै राजभिरादर्शितपथः संदर्शितमर्गः सन् कलिङ्गाभिमुखो ययौ ॥"
+    }
+  ]
+}

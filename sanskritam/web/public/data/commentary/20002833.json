@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002833,
+    "chapter_id": 6585,
+    "verse_number": "9.28",
+    "content_sanskrit": "कुसुममेव न केवलमार्तवं नवमशोकतरोः स्मरदीपनम् । किसलयप्रसवोऽपि विलासिनां मदयिता दयिताश्रवणार्पितः ॥",
+    "padaccheda": "कुसुमम् । एव । न । केवलम् । आर्तवम् । नवम् । अशोकतरोः । स्मरदीपनम् । किसलयप्रसवः । अपि । विलासिनां । मदयिता । दयिताश्रवणार्पितः",
+    "anvaya": "अशोक-तरोः केवलम् आर्तवं नवं कुसुमम् एव स्मरदीपनं न, अपि तु दयिताश्रवणार्पितः किसलयप्रसवः अपि विलासिनां मदयिता (अभूत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It was not merely the new, seasonal flower of the Ashoka tree that kindled desire; the cluster of fresh sprouts, when placed on a beloved's ear, also became an intoxicant for lovers.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002833,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कुसुममिति॥ ऋतुरस्य प्राप्त आर्तवम्। `ऋतोरण्` (पा.5।1।105)इत्यण्। नवं प्रत्यग्रमशोकतरोः केवलं कुसुममेव स्मरदीपनमुद्दीपनं न। किंतु विलासिनां मदयिता मदजनको दयिताश्रवणार्पितः किसलयप्रसवोऽपि पल्लवसंतानोऽपि स्मरदीपनोऽभवत् ॥"
+    }
+  ]
+}

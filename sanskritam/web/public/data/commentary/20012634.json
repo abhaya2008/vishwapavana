@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012634,
+    "chapter_id": 6693,
+    "verse_number": "1.79",
+    "content_sanskrit": "दृष्ट्वा तमेक्षतं राजा श्रद्धां श्रुतिषु संदधे । निनिन्द बहुधाऽऽत्मानं खलसंसर्गदूषितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012634,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "खलानां दुर्जनानां सौगतानां संसर्गेण संबन्धेन दूषितम् ॥ ७९ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012634,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "खलेति । बौद्धसंबन्धसंजातबाधमित्यर्थः"
+    }
+  ]
+}

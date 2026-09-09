@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010541,
+    "chapter_id": 6674,
+    "verse_number": "2.121",
+    "content_sanskrit": "निराकरिष्णुर्विस्तारं रथस्य जघनस्थलम् । दधानामुन्मदिष्णुत्वं नयदार्यहलं मनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010541,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आर्यहलम् । प्रसह्येत्यर्थः । अव्ययमिदं स्वरादिषु पठ्यते ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004411,
+    "chapter_id": 6605,
+    "verse_number": "10.28",
+    "content_sanskrit": "हिरण्यरेतसा तेन देवी स्वर्गतरङ्गिणी । तीर्णाध्वना प्रपेदे सा निःशेषक्लेशनाशिनी ॥",
+    "padaccheda": "हिरण्यरेतसा । तेन । देवी । स्वर्गतरङ्गिणी । तीर्णाध्वना । प्रपेदे । सा । निःशेषक्लेशनाशिनी",
+    "anvaya": "तेन हिरण्यरेतसा सा निःशेषक्लेशनाशिनी देवी स्वर्गतरङ्गिणी तीर्णाध्वना प्रपेदे",
+    "meaning_sanskrit": "",
+    "meaning_english": "Agni, having traveled the distance, reached the Goddess Gaṅgā, the celestial river who destroys every bit of suffering and distress.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004411,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हिरण्येति । तेन प्रस्थितेन तीर्णाध्वनावगाहितमार्गेण हिरण्यरेतसा वह्निना निःशेषक्लेशनाशिनी निःशेषा ये क्लेशाः पञ्च क्लेशास्तेषां नाशिनी । मुक्तिदायिनीत्यर्थः । सा प्रसिद्धा स्वर्गतरङ्गिणी स्वर्णदी देवी प्रपेदे प्राप्ता । कर्मणी लिट्"
+    }
+  ]
+}

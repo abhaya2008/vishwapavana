@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004384,
+    "chapter_id": 6605,
+    "verse_number": "10.1",
+    "content_sanskrit": "आससाद सुनासीरं सदसि त्रिदशैः सह । एष त्रैयम्बकं तीव्रं वहन्वह्निमंहन्महः ॥",
+    "padaccheda": "आससाद । सुनासीरम् । सदसि । त्रिदशैः । सह । एषः । त्रैयम्बकम् । तीव्रम् । वहन् । वह्निः । महः",
+    "anvaya": "एषः त्रैयम्बकम् तीव्रम् महः वहन् वह्निः सदसि त्रिदशैः सह सुनासीरम् आससाद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Carrying the intense energy of Śiva, Agni reached Indra in the assembly where he was seated with the other gods.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004384,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आससादेति । एष वह्लिः । तीव्रं दु)सहं महत्त्रैयम्बकं शैवम् । त्र्यम्बकशब्दात् इदमर्थकेऽणि `न य्वाभ्याम्' इत्यैजादेशः । महो वीर्य वहन् । त्रिदशैर्देवैः सह सदसि सभायां स्थितं सुनासीरं महेन्द्रमाससाद प्राप । `वृद्धश्रवाः सुनासीरः' इत्यमरः"
+    }
+  ]
+}

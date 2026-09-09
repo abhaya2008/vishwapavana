@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002674,
+    "chapter_id": 6583,
+    "verse_number": "7.35",
+    "content_sanskrit": "तमुद्वहन्तं पथि भोजकन्यां रुरोध राजन्यगणः स दृप्तः । बलिप्रदिष्टां श्रियमाददानं त्रैविक्रमं पादमिवेन्द्रशत्रुः ॥",
+    "padaccheda": "तम् । उद्वहन्तम् । पथि । भोज-कन्याम् । रुरोध । राजन्य-गणः । सः । दृप्तः । बलि-प्रदिष्टां । श्रियम् । आददानम् । त्रैविक्रमम् । पादम् । इव । इन्द्र-शत्रुः",
+    "anvaya": "सः दृप्तः राजन्य-गणः, पथि भोज-कन्याम् उद्वहन्तम् तम् (अजम्), बलि-प्रदिष्टां श्रियम् आददानम् त्रैविक्रमम् पादम् इन्द्र-शत्रुः इव, रुरोध।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That arrogant host of kings obstructed Aja on his path as he was carrying away the daughter of Bhoja, just as Bali, the enemy of Indra, obstructed the step of Vishnu (Trivikrama) as he was taking back the fortune that Bali himself had offered.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002674,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ दृप्त उद्वतः स राजन्यगणो राजसंघातः। भोजकन्यामुद्वहन्तं नयन्तं तमजम्। बलिना वैरोचनिना प्रदिष्टां दत्तां श्रियमाददानं स्वीकुवाणम्। त्रिविक्रमस्येमं त्रैविक्रमम्। पादमिन्द्रशत्रुः प्रह्लाद इव। पथिरुरोध। तथा च ब्राह्माण्डपुराणे-`विरोचनविरोधेऽपि प्रह्लादः प्राक्तनं स्मरन्। विषअणोस्तु क्रममाणस्य पादाम्भोजं रुरोध ह ॥` इति ॥"
+    }
+  ]
+}

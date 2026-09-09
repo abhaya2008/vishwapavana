@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002727,
+    "chapter_id": 6584,
+    "verse_number": "8.17",
+    "content_sanskrit": "अजिताधिगमाय मन्त्रिभिर्युयुजे नीतिविशारदैरजः । अनपायिपदोपलब्धये रघुराप्तैः समियाय योगिभिः ॥",
+    "padaccheda": "अजिताधिगमाय । मन्त्रिभिः । युयुजे । नीतिविशारदैः । अजः । अनपायिपदोपलब्धये । रघुः । आप्तैः । समियाय । योगिभिः",
+    "anvaya": "अजः अजित-अधिगमाय नीति-विशारदैः मन्त्रिभिः युयुजे । रघुः अनपायि-पद-उपलब्धये आप्तैः योगिभिः समियाय ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Aja conferred with his ministers, who were experts in statecraft, to acquire what was not yet conquered. Raghu associated with accomplished yogis to attain the imperishable state (liberation).",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002727,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अजितेति॥ अजोऽजिताधिगमायाजितपदलाभाय नीतिविशारदैर्नीतिज्ञैर्मन्त्रिभिर्युयुजे संगतः । रघुरप्यनपायिपदस्योपलब्धये मोक्षस्य प्राप्तये यथार्थदर्शिनो यथार्थवादिनश्चाप्ताः। तैर्योगिभिः समियाय संगमः। उभयत्राप्युपायचिन्तार्थमिति शेषः ॥"
+    }
+  ]
+}

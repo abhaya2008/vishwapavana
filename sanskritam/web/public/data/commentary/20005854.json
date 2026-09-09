@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005854,
+    "chapter_id": 6630,
+    "verse_number": "18.48",
+    "content_sanskrit": "व्रज जय रिपुलोकं पादपद्मानतः सन्गदित इति शिवेन श्लाघितो देवसंघैः । निजगृहमथ गत्वा सादरं पाण्डुपुत्रो धृतगुरुजयलक्ष्मीर्धर्मसूनुं ननाम ॥",
+    "padaccheda": "व्रज । जय । रिपुलोकम् । पादपद्मानतः । सन् । गदितः । इति । शिवेन । श्लाघितः । देवसंघैः । निजगृहम् । अथ । गत्वा । सादरम् । पाण्डुपुत्रः । धृतगुरुजयलक्ष्मीः । धर्मसूनुम् । ननाम",
+    "anvaya": "\"पादपद्मानतः सन् व्रज, रिपुलोकम् जय\" इति शिवेन गदितः, देवसंघैः श्लाघितः पाण्डुपुत्रः अथ निजगृहम् गत्वा सादरम् धृतगुरुजयलक्ष्मीः (सन्) धर्मसूनुम् ननाम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Go, and being bowed at my lotus feet, conquer the world of your enemies.\" Thus addressed by Shiva and praised by the hosts of gods, the son of Pandu (Arjuna) then went to his own abode. Bearing the great glory of victory, he respectfully bowed to the son of Dharma (Yudhishthira).",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005854,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "व्रजेति ॥ शिवेन व्रज स्वपुरं गच्छारिलोकं जयेति गदित उक्तः। यतः पादपद्मानत: शिवपादपङ्कजानतः संस्तथा देवसंघै: श्लाधितः स्तुतोऽत एव धृता गुर्वी जयलक्ष्मीर्येन स पाण्डुपुत्रोऽर्जुनो निजगृहं स्वाश्रमं गत्वा प्राप्याथ सादरं यथा तथा धर्मसूनुं युधिष्ठिरं राजानं ननाम नमश्चक्रे"
+    }
+  ]
+}

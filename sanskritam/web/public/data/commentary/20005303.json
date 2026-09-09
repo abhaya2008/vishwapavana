@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005303,
+    "chapter_id": 6622,
+    "verse_number": "10.12",
+    "content_sanskrit": "सुरसरिति परं तपोऽधिगच्छन्विधृतपिशङ्गबृहज्जटाकलापः । हविरिव विततः शिखासमूहैः समभिलषन्नुपवेदि जातवेदाः ॥",
+    "padaccheda": "सुरसरिति । परम् । तपः । अधिगच्छन् । विधृतपिशङ्गबृहज्जटाकलापः । हविरिव । विततः । शिखासमूहैः । समभिलषन् । उपवेदि । जातवेदाः",
+    "anvaya": "सुर-सरिति परं तपः अधिगच्छन्, विधृत-पिशङ्ग-बृहत्-जटा-कलापः (सः), उपवेदि हविः समभिलषन् शिखा-समूहैः विततः जात-वेदाः इव (बभौ)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Practicing supreme austerity in the celestial river, wearing a large mass of tawny matted hair, he appeared like the sacrificial fire near the altar, which, desiring the oblation, spreads out with its mass of flames.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005303,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "सुरेति ॥ पुनः । सुरसरिति गङ्गाकूले परं तपोऽधिगच्छन्नर्जयन् । फलाभिलाषेणेति शेषः । हविः समभिलषन्नित्युपमानविशेषणसामर्थ्यात् । तथा विधृतः पिशङ्गबृहज्जटाकलापो येन सः। अत एवोपवेदि वेद्याम् । विभक्त्यर्थेऽव्ययीभावः । शिखासमूहैर्ज्वालाजालैर्विततो विस्तृतो हविराज्यादिकं समभिलषन् । जातं वेदो हिरण्यं यस्मादिति जातवेदा वह्निरिव स्थितः ।।"
+    }
+  ]
+}

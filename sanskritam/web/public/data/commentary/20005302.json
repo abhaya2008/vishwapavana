@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005302,
+    "chapter_id": 6622,
+    "verse_number": "10.11",
+    "content_sanskrit": "शशधर इव लोचनाभिरामैर्गगनविसारिभिरंशुभिः परीतः । शिखरनिचयमेकसानुसद्मा सकलमिवापि दधन्महीधरस्य ॥",
+    "padaccheda": "शशधर । इव । लोचनाभिरामैः । गगनविसारिभिः । अंशुभिः । परीतः । शिखरनिचयम् । एकसानुसद्मा । सकलमिव । अपि । दधन् । महीधरस्य",
+    "anvaya": "एक-सानु-सद्मा (सः) लोचन-अभिरामैः गगन-विसारिभिः अंशुभिः परीतः (सन्) महीधरस्य सकलं शिखर-निचयं दधत् अपि शशधरः इव (बभौ)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though dwelling on a single peak, he (Arjuna), surrounded by his lustre which was pleasing to the eyes and spread across the sky, seemed to bear the entire cluster of the mountain's peaks, just like the moon.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005302,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "शशधरश्चन्द्र इव लोचनाभिरामैर्नेत्राह्लादकरैर्गगनविसारिभिरंशुभिस्तेजोभिः परीतो व्याप्तोऽम्बरवदेकं सानु सद्म यस्य सः । एकदेशस्थोऽपीत्यर्थः। महीधरस्येन्द्रकीलस्य सकलं शिखरनिचयमपि दधदावृण्वन्निवेत्युत्प्रेक्षा ॥"
+    }
+  ]
+}

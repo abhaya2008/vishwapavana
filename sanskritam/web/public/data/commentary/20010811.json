@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010811,
+    "chapter_id": 6677,
+    "verse_number": "5.51",
+    "content_sanskrit": "वटवो विजनं गत्वा दीव्यन्त्येते तृणादिभिः । जिगीषवः पुरोडाशफलादिग्लहलोलुपाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010811,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "‘ग्लहलोलुपाः’ इति ‘अक्षेषु ग्लहः’ (पा.३|३|७०) इति ग्लहेर्लत्वं निपात्यते । अप् तु सिद्ध एव ॥"
+    }
+  ]
+}

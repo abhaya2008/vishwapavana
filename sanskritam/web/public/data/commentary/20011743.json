@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011743,
+    "chapter_id": 6685,
+    "verse_number": "13.79",
+    "content_sanskrit": "प्राहिणोत्स प्रलम्बादीन् भागिनेयजिघांसया । सरौहिणेयस्तान् सर्वानमश्नान्मधुसूदनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011743,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अमश्नादिति श्ना । प्रलम्बादीन् प्रलम्बधेनुकारिष्टकेशिनः । तत्र प्रलम्बधेनुकौ रामो हतवान । इतरान् कृष्णः । तदुक्तं सरौहिणेय इति ॥"
+    }
+  ]
+}

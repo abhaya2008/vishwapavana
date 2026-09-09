@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014082,
+    "chapter_id": 6706,
+    "verse_number": "14.153",
+    "content_sanskrit": "इति देवमभिष्टुवन्विशिष्ट- स्तुतितोऽसौ सुरसघसंनिविष्टः । चिरकालवियोगदीर्नाचत्तैः शिरसा शिष्यगणैरथो ववन्दे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014082,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "ववन्द इति कर्मणि लिट् । ते तं शिरसा ववन्दिरे इत्यर्थः ॥ ५३ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014082,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "असौ श्रीशंकराचार्यः"
+    }
+  ]
+}

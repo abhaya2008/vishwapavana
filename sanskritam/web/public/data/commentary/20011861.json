@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011861,
+    "chapter_id": 6686,
+    "verse_number": "14.85",
+    "content_sanskrit": "स तामथेत्थं पप्रच्छ कीदृक् तव मनो मयि । प्रसितं त्वयि चित्तं मे पार्थोऽहं पाण्डुनन्दनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011861,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "त्वयि प्रसितं । प्रकर्षेण बद्धम् । प्रसितोत्सुकाभ्यां तृतीया चेति (पा.२|३|४४) सप्तमी । पार्थोऽहं पाण्डुनन्दन इति यस्य वार्ता त्वया पृष्टेत्यर्थः ॥"
+    }
+  ]
+}

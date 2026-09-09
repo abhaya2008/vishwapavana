@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010512,
+    "chapter_id": 6674,
+    "verse_number": "2.92",
+    "content_sanskrit": "प्रियैस्तैरनुजै राजा सुहृद्भिरपि संवृतः । कान्तैः कथान्तरैरह्नश्शेषं चिक्षेप दक्षिणः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010512,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्पष्टोऽयं श्लोकः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002921,
+    "chapter_id": 6586,
+    "verse_number": "10.34",
+    "content_sanskrit": "तस्मै कुशलसंप्रश्नव्यञ्जितप्रीतये सुराः । भयमप्रलयोद्वेलादाचख्युर्नैर्ऋतोदधेः ॥",
+    "padaccheda": "तस्मै । कुशलसंप्रश्नव्यञ्जितप्रीतये । सुराः । भयम् । अप्रलयोद्वेलात् । आचख्युः । नैर्ऋतोदधेः",
+    "anvaya": "सुराः कुशलसंप्रश्नव्यञ्जितप्रीतये तस्मै, अप्रलयोद्वेलात् नैर्ऋतोदधेः भयम् आचख्युः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The gods then described their fear to Him, who had shown his affection through kind inquiries about their welfare. Their fear was from the 'ocean of Rakshasas,' which was swelling its shores unseasonably, not at the time of cosmic dissolution.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002921,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मा इति॥ सुरा देवाः कुशलस्य संप्रश्नेन व्यञ्जिता प्रकटीकृता प्रीततिर्यस्य तस्मै। लक्षितप्रसादायेत्यर्थः। अन्यथा अनवसरविज्ञप्तिमुखराणामिव निष्फला स्यादिति भावः। तस्मै विष्णवेऽप्रलये प्रलयाभावेऽप्युद्वेलादुन्मर्यादात्। नैर्ऋतो राक्षसः। स एवोदधिः। तस्माद्भयमाचख्युः कथितवन्तः ॥"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013706,
+    "chapter_id": 6703,
+    "verse_number": "11.11",
+    "content_sanskrit": "एतावदुक्त्वाऽन्तरधान्महेश- स्तदादि तत्संग्रहणे धृताशः । चराम्यथापि क्षितिपो न लब्धो न सर्ववित्तत्र मयोपलब्धः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013706,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तयोः सर्वज्ञक्षितिपयोः संग्रह्णे धृताऽऽशा येन तत्र तयोर्मध्ये ॥ १२ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013706,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ तदादि तदारभ्य ]"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004134,
+    "chapter_id": 6601,
+    "verse_number": "6.84",
+    "content_sanskrit": "एवं वादिनि देवर्षौ पार्श्वे पितुरधोमुखी । लीलाकमलपत्राणि गणयामास पार्वती ॥",
+    "padaccheda": "एवम् । वादिनि । देवर्षौ । पार्श्वे । पितुः । अधोमुखी । लीलाकमलपत्राणि । गणयामास । पार्वती",
+    "anvaya": "देवर्षौ एवम् वादिनि (सति), पितुः पार्श्वे अधोमुखी पार्वती लीला-कमल-पत्राणि गणयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the divine sage (Angiras) spoke these words, Parvati, standing by her father's side with her face downcast in modesty, began to count the petals of the lotus she held in her hand.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004134,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति । देवर्षावङ्गिरस्येवंवादिनि सति पार्वती पितुः पार्श्वेऽधोमुखी सती । लज्जयेति शेषः । लीलाकमलपत्राणि गणयामास संचख्यौ । लज्जावशात्कमलदलगणनाव्याजेन हर्ष जुगोपेत्यर्थः । अनेनावहित्याख्यः संचारी भाव उक्तः । तदुक्तम्- `अवहित्था तु लज्जादेर्हर्षादाकारगोपनम्` । इति"
+    }
+  ]
+}

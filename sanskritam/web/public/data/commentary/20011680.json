@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011680,
+    "chapter_id": 6685,
+    "verse_number": "13.16",
+    "content_sanskrit": "अचिन्वन्मौक्तिकैस्सख्यो लतागृहमहीतलम् । अस्तृण्वंस्तत्र शय्याञ्च हरिचन्दनपल्लवैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011680,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अचिन्वन्नस्तृण्वन्निति । चिञ् चयने । स्तृञच्छादने । स्वादी ॥"
+    }
+  ]
+}

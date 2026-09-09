@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003916,
+    "chapter_id": 6598,
+    "verse_number": "3.74",
+    "content_sanskrit": "तमाशु विघ्नं तपसस्तपस्वी वनस्पतिं वज्र इवावभज्य । स्त्रीसंनिकर्षं परिहर्तुमिच्छन्नन्तर्दधे भूतपतिः सभूतः ॥",
+    "padaccheda": "तम् । आशु । विघ्नम् । तपसः । तपस्वी । वनस्पतिम् । वज्रः । इव । अवभज्य । स्त्रीसंनिकर्षम् । परिहर्तुम् । इच्छन् । अन्तर्दधे । भूतपतिः । सभूतः",
+    "anvaya": "तपस्वी भूतपतिः तपसः तम् विघ्नम् वनस्पतिम् वज्रः इव आशु अवभज्य, स्त्री-संनिकर्षम् परिहर्तुम् इच्छन् स-भूतः अन्तर्दधे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The ascetic Lord of beings (Shiva), having swiftly broken that obstacle to his penance like a thunderbolt shatters a great tree, and wishing to avoid the proximity of a woman, vanished along with his attendants.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003916,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति । तपस्वी तपोनिष्ठो भूतपतिः शिवस्तपसो विध्नमन्तरायभूतं तं काममाशु वज्रोऽशनिर्वनस्पतिं वृक्षमिवावभज्य भङ्क्त्वा स्त्रीसंनिकर्षं स्त्रीसंनिधानं परिहर्तुमिच्छन् । तस्यानर्थहेतुत्वादिति भावः । सभूतः सगणः सन्नन्तर्दधे"
+    }
+  ]
+}

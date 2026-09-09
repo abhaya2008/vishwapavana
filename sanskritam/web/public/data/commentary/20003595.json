@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003595,
+    "chapter_id": 6593,
+    "verse_number": "17.68",
+    "content_sanskrit": "इति क्रमात्प्रयुञ्जानो राजनीतिं चतुर्विधाम् । आ तीर्थादप्रतीघातं स तस्याः फलमानशे ॥",
+    "padaccheda": "इति । क्रमात् । प्रयुञ्जानः । राजनीतिम् । चतुर्विधाम् । आ । तीर्थात् । अप्रतीघातम् । सः । तस्याः । फलम् । आनशे",
+    "anvaya": "इति क्रमात् चतुर्विधाम् राजनीतिम् प्रयुञ्जानः सः आ तीर्थात् तस्याः फलम् अप्रतीघातम् आनशे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "By systematically applying the four traditional types of statecraft (Sama, Dana, Bheda, Danda), King Atithi reaped the rewards of his policies without any hindrance, ensuring their benefits reached all the proper channels of his administration.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003595,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इति चतुर्विधाम्। सामाद्युपायैरिति शेषः। राजनीतिं दण्डनीतिं क्रमात् सामादिक्रमादेव प्रयुञ्जानः स राजा। आ तीर्थान्मन्त्र्याद्यष्टादशात्मकतीर्थपर्यन्तम्। `योनौ जलावतारे च मन्त्र्याद्यष्टादशस्वपि। पुण्यक्षेत्रे तथा पात्रे तीर्थं स्यात्` इति हलायुधः। तस्या नीतेः फलमप्रतीघातमप्रतिबन्धं यथा तथा आनशे प्राप्तवान्। मन्त्रादिषउ यमुद्दिश्य य उपायः प्रयुज्यते, स तस्य फलतीत्यर्थः॥"
+    }
+  ]
+}

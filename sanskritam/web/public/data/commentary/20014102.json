@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014102,
+    "chapter_id": 6706,
+    "verse_number": "14.173",
+    "content_sanskrit": "मुखतः पठितां मुनीन्दुना तां विलिखन्नेष विसिष्मियेऽथ भूपः । वद किं करवाणि किंकरोऽहं वरदेति प्रणमन्व्यजिज्ञपच्च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 173,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014102,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तां नाटकत्रयीम् । हे वरद किंकरोऽहं किं करवाणीति प्रणमन्विज्ञापितवान् ॥ ७३ ॥"
+    }
+  ]
+}

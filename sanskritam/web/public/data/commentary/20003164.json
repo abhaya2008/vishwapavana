@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003164,
+    "chapter_id": 6588,
+    "verse_number": "12.98",
+    "content_sanskrit": "तद्व्योम्नि शतधा भिन्नं ददृशे दीप्तिमन्मुखम् । वपुर्महोरगस्येव करालफणमण्डलम् ॥",
+    "padaccheda": "तत् । व्योम्नि । शतधा । भिन्नं । ददृशे । दीप्तिमन्मुखम् । वपुः । महोरगस्य । इव । करालफणमण्डलम्",
+    "anvaya": "तत् व्योम्नि शतधा भिन्नं दीप्तिमन्मुखं महोरगस्य करालफणमण्डलम् वपुः इव ददृशे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the Brahma weapon traveled through the sky, it split into a hundred glowing points, appearing like the massive body of a great serpent with a terrifying circle of multiple flaming hoods.",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003164,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥ व्योम्नि शतधा भिन्नं प्रसृतं दीप्तिमन्ति मुखानि यस्य तद्ब्रह्मास्त्रम्। करालं भीषणं तुङ्गं वा फणमण्डलं यस्य तत्तथोक्तम्। `करालो दन्तुरे तुङ्गे करालो भीषणेऽपि च` इति विश्वः। महोरगस्य शेषस्य वपुरिव। ददृशे दृष्टम् ॥"
+    }
+  ]
+}

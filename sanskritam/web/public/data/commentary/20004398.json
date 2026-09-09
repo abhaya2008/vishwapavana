@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004398,
+    "chapter_id": 6605,
+    "verse_number": "10.15",
+    "content_sanskrit": "इति श्रुत्वा वचो बह्नेः परितापोपशान्तये । हेतुं विचिन्तयामास मनसा विबुधेश्वरः ॥",
+    "padaccheda": "इति । श्रुत्वा । वचः । वह्नेः । परितापोपशान्तये । हेतुम् । विचिन्तयामास । मनसा । विबुधेश्वरः",
+    "anvaya": "इति वह्नेः वचः श्रुत्वा विबुधेश्वरः परितापोपशान्तये मनसा हेतुं विचिन्तयामास ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having heard Agni's words, Indra, the lord of the gods, contemplated in his mind a means to alleviate Agni's intense suffering.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004398,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति । विबुधानामीश्वरो महेन्द्रो वह्नेरितीत्येवंभूतं वचः श्रुत्वा परितापस्योपशान्तये । अर्थात्तस्यैवेत्यर्थः । मनसा हेतुं निदानं विचिन्तयामास । केनोपायेनास्य तापोपशान्तिर्भवेदिति विचारयामासेत्यर्थः"
+    }
+  ]
+}

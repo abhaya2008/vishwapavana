@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005689,
+    "chapter_id": 6628,
+    "verse_number": "16.11",
+    "content_sanskrit": "परिक्षते वक्षसि दन्तिदन्तैः प्रियाङ्कशीता नभसः पतन्ती । नेह प्रमोहं प्रियसाहसानां मन्दारमाला विरलीकरोति ॥",
+    "padaccheda": "परिक्षते । वक्षसि । दन्तिदन्तैः । प्रियाङ्कशीता । नभसः । पतन्ती । न । इह । प्रमोहम् । प्रियसाहसानाम् । मन्दारमाला । विरलीकरोति",
+    "anvaya": "इह दन्तिदन्तैः वक्षसि परिक्षते (सति), प्रियाङ्कशीता मन्दारमाला नभसः पतन्ती प्रियसाहसानाम् प्रमोहं न विरलीकरोति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Here, for heroes who love valorous deeds and are fatally wounded in the chest by elephant tusks, a Mandara garland—falling from heaven and cool like a beloved's embrace—does not descend to dispel their final swoon. (Arjuna notes the absence of the celestial reward for fallen heroes).",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005689,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "परीति ॥ इह रणे दन्तिदन्तैर्गजदन्तैः परिक्षते ताडिते वक्षसि नमसः पतन्ती प्रियाया अङ्क इव शीता शीतला सुखकरी मन्दारमाला । सुरैर्मुक्तेति शेषः । प्रियं साहसं येषां तेषां प्रियसाहसानाम् । यतो गजाभियायिनामिति भावः। प्रमोहं प्रहारमूर्च्छां न विरलीकरोति न मन्दीकरोति । नापनयतीति, यावत् ॥"
+    }
+  ]
+}

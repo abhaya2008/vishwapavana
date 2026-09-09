@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002641,
+    "chapter_id": 6583,
+    "verse_number": "7.2",
+    "content_sanskrit": "सेनानिवेशान्पृथिवीक्षितोऽपि जग्मुर्विभातग्रहमन्दभासः । भोज्यां प्रति व्यर्थमनोरथत्वाद्रूपेषु वेशेषु च साभ्यसूया ॥",
+    "padaccheda": "सेनानिवेशान् । पृथिवीक्षितः । अपि । जग्मुः । विभातग्रहमन्दभासः । भोज्याम् । प्रति । व्यर्थमनोरथत्वात् । रूपेषु । वेषेषु । च । साभ्यसूयाः",
+    "anvaya": "व्यर्थ-मनोरथत्वात् भोज्याम् प्रति रूपेषु वेशेषु च स-अभ्यसूयाः, विभात-ग्रह-मन्द-भासः पृथिवीक्षितः अपि सेना-निवेशान् जग्मुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The other kings, their desires for the princess of Bhoja (Indumati) having been thwarted, departed from their camps. Their splendor dimmed like planets at dawn, and they were filled with envy towards Aja's beauty and attire.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002641,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेनेति॥ भोजस्य राज्ञो गोत्रापत्यं स्त्री भोज्या तामिन्दुमतीं प्रति व्यर्थमनोरथत्वाद्रूपेष्वाकृतिषु वेशेषु नेपथ्येषु च साभ्यसूया वृथेति निन्दन्तः। किंच विभाते प्रातःकाले ये ग्रहाश्चन्द्रादयस्त इव मन्दभासः क्षीणकान्तयः पृथिवीक्षितो नृपा अपि सेनानिविशान् शिबिराणि जग्मुः ॥"
+    }
+  ]
+}

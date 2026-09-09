@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012593,
+    "chapter_id": 6693,
+    "verse_number": "1.38",
+    "content_sanskrit": "अन्येऽपि बहवो मार्गाः सन्ति भूमौ सकण्टकाः । जनैर्यैषु पदं दत्त्वा दुरन्तं दुःखमाप्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012593,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "पदं दत्त्वा गत्वा ॥ ३८ ॥ ॥ ३८ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012593,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "अन्येऽपीति । तार्किकादय इत्यर्थः"
+    }
+  ]
+}

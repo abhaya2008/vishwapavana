@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003121,
+    "chapter_id": 6588,
+    "verse_number": "12.55",
+    "content_sanskrit": "स रावणहृतां ताभअयां वचसाचष्ट मैथिलीम् । आत्मनः सुमहत्कर्म व्रणैरावेद्य संस्थितः ॥",
+    "padaccheda": "सः । रावणहृताम् । ताभ्याम् । वचसा । आचष्ट । मैथिलीम् । आत्मनः । सुमहत् । कर्म । व्रणैः । आवेद्य । संस्थितः",
+    "anvaya": "सः रावणहृतां मैथिलीं ताभ्यां वचसा आचष्ट, आत्मनः सुमहत् कर्म व्रणैः आवेद्य संस्थितः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Jatayu informed the brothers that Sita had been carried off by Ravana; having testified to his own great service through his fatal wounds, he then passed away.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003121,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स जटायू रावणहृतां मैथिलीं ताभ्यां रामलक्ष्मणाभ्याम्। `क्रियाग्रहणमपि कर्तव्यम्`इति संप्रदानत्वाञ्चतुर्थी। वचसा वाग्वृत्त्याचष्ट। आत्मनः सुमहत्कर्म युद्धरूपं व्रणैरावेद्य संस्थितो मृतः ॥"
+    }
+  ]
+}

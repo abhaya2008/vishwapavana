@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003275,
+    "chapter_id": 6590,
+    "verse_number": "14.26",
+    "content_sanskrit": "अथाधिकस्निग्धविलोचनेन मुखेन सीता शरपाण्डुरेण । आनन्दयित्री परिणेतुरासीदनक्षरव्यञ्जितदोहदेन ॥",
+    "padaccheda": "अथ । अधिकस्निग्धविलोचनेन । मुखेन । सीता । शरपाण्डुरेण । आनन्दयित्री । परिणेतुः । आसीत् । अनक्षरव्यञ्जितदोहदेन",
+    "anvaya": "अथ सीता अधिक-स्निग्ध-विलोचनेन शर-पाण्डुरेण अनक्षर-व्यञ्जित-दोहदेन मुखेन परिणेतुः आनन्दयित्री आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, Sita began to delight her husband with her face, which was pale as a Sharad reed and whose eyes were exceptionally tender, revealing her pregnancy cravings without the need for words.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003275,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ सीताऽधिकस्निग्धविलोचनेनात्यन्तमसृणलोचनेन शरवत्तृणविशेषवत् पाण्डुरेणात एव` अनक्षरमवाग्व्यापारं यथा भवति तथा व्यञ्जितं दोहदं गर्भो येन तेन मुखेन परिणेतु पत्युरानन्दयित्र्यासीत् ॥"
+    }
+  ]
+}

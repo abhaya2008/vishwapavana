@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004748,
+    "chapter_id": 6611,
+    "verse_number": "16.40",
+    "content_sanskrit": "करेण करिणा वीरः सुगृहीतोऽपि कोपिना । असिनासूञ्जहाराशु तस्यैव स्वयमक्षतः ॥",
+    "padaccheda": "करेण । करिणा । वीरः । सुगृहीतः । अपि । कोपिना । असिना । असून् । जहार । आशु । तस्य । एव । स्वयम् । अक्षतः",
+    "anvaya": "वीरः कोपिना करिणा करेण सुगृहीतः अपि स्वयम् अक्षतः तस्य एव असून् असिना आशु जहार ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though firmly grasped by the trunk of an angry elephant, the heroic warrior remained unhurt and quickly took the animal's life with his sword.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004748,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "करेणेति । कोपिना क्रुद्धेन करिणा दन्तिना कर्त्रा । करेण कृत्वा सुतरां गृहीतोऽपि वीरोऽसिना खड्गेन तस्यैव करिण एवासून्प्राणाञ्जहार हृतवान् । स्वयमक्षतोऽभूत्"
+    }
+  ]
+}

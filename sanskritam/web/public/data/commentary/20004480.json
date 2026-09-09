@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004480,
+    "chapter_id": 6606,
+    "verse_number": "11.37",
+    "content_sanskrit": "वाता ववुः सौख्यकराः प्रसेदुराशा विधूमो हुतभुग दिदीपे । जलान्यभूवन्विमलानि तत्रोत्सवेऽन्तरिक्षे प्रससाद सद्यः ॥",
+    "padaccheda": "वाताः । ववुः । सौख्यकराः । प्रसेदुः । आशाः । विधूमः । हुतभुक् । दिदीपे । जलानि । अभूवन् । विमलानि । तत्र । उत्सवे । अन्तरिक्षम् । प्रससाद । सद्यः",
+    "anvaya": "सौख्यकराः वाताः ववुः आशाः प्रसेदुः विधूमः हुतभुक् दिदीपे जलानि विमलानी अभूवन् तत्र उत्सवे अन्तरिक्षे सद्यः प्रससाद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Pleasant winds blew, the directions became clear, the sacrificial fire burned brightly without smoke, waters became pure, and the sky instantly turned serene during that festival.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004480,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वाता इति । तत्रोत्सवे । वाताः पवनाः सौख्यकरा ववुश्चेलुः । आशा दिशः प्रसेदुर्निर्मला बभूवुः । हुतभुगग्निर्विधूमो निर्धूमः सन्दिदीपे ज्वलति स्म । `दोपी दीप्तौ' इति लिट् । जलानि विमलान्यभूवन् । `भवो हि लोकाभ्युदयाय तादृशाम्' । इति न्यायादिति भावः"
+    }
+  ]
+}

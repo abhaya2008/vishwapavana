@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005299,
+    "chapter_id": 6622,
+    "verse_number": "10.8",
+    "content_sanskrit": "अतिशयितवनान्तरद्युतीनां फलकुसुमावचयेऽपि तद्विधानाम् । ऋतुरिव तरुवीरुधां समृद्ध्या युवतिजनैर्जगृहे मुनिप्रभावः ॥",
+    "padaccheda": "अतिशयितवनान्तरद्युतीनाम् । फलकुसुमावचये । अपि । तद्विधानाम् । ऋतुरिव । तरुवीरुधाम् । समृद्ध्या । युवतिजनैः । जगृहे । मुनिप्रभावः",
+    "anvaya": "अतिशयित-वन-अन्तर-द्युतीनां तद्-विधानां युवति-जनैः फल-कुसुम-अवचये अपि तरु-वीरुधां समृद्ध्या ऋतुः इव मुनि-प्रभावः जगृहे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even as the young women, whose own splendor surpassed that of the forest, were gathering fruits and flowers, the sage's power was perceived by them through the extraordinary abundance of the trees and creepers, just as one perceives the presence of a season.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005299,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अतिशयितेति ॥ अतिशयितातिक्रान्ता बनान्तराणां द्युतिर्याभिस्तासाम् । कुतः। फलानां कुसुमानां चावचयेऽपि लवनेऽपि सैव विधा प्रकारो यासां तद्विधानाम् । तथैव समग्राणामित्यर्थः। तरूणां वीरुधां समृद्ध्या लिङ्गेन युवतिजनैर्मुनिप्रभावो ऋतुरिव जगृहे निश्चितः । कारणतयेति शेषः । उपमालंकारः॥"
+    }
+  ]
+}

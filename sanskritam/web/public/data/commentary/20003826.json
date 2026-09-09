@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003826,
+    "chapter_id": 6597,
+    "verse_number": "2.48",
+    "content_sanskrit": "तस्मिन्नुपायाः सर्वे नः क्रूरे प्रतिहतक्रियाः । वीर्यवत्यौषधानीव विकारे सांनिपातिके ॥",
+    "padaccheda": "तस्मिन् । उपायाः । सर्वे । नः । क्रूरे । प्रतिहतक्रियाः । वीर्यवति । औषधानि । इव । विकारे । सांनिपातिके",
+    "anvaya": "सांनिपातिके विकारे वीर्यवति औषधानि इव, क्रूरे तस्मिन् नः सर्वे उपायाः प्रतिहतक्रियाः (सन्ति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Against that cruel one, all our strategies are rendered ineffective, just as potent medicines are useless against a severe, complex fever (caused by the derangement of all three bodily humors).",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003826,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मिन्निति ॥ क्रूरे घातुके । `नृशंसो धातुकः क्रूरः` इत्यमरः । तस्मिन्नसुरे नोऽस्माकं सर्वे उपायाः संनिपातदोषत्रयस्य प्रकोपजे सांनिपातिके विकारे ज्वरादौ । `संनिपाताच्च` इति वक्तव्याठ्ठक् । वीर्यवन्ति सारवन्त्यौषधानीव प्रतिहतक्रिया विफलप्रयोगा भवन्ति"
+    }
+  ]
+}

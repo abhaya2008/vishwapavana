@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005480,
+    "chapter_id": 6624,
+    "verse_number": "12.45",
+    "content_sanskrit": "क्षुभिताभिनिःसृतविभिन्नशकुनिमृगयूथनिःस्वनैः । पूर्णपृथुवनगुहाविवरः सहसा भयादिव ररास भूधरः ॥",
+    "padaccheda": "क्षुभिताभिनिःसृतविभिन्नशकुनिमृगयूथनिःस्वनैः । पूर्णपृथुवनगुहाविवरः । सहसा । भयात् । इव । ररास । भूधरः",
+    "anvaya": "क्षुभिताभिनिःसृतविभिन्नशकुनिमृगयूथनिःस्वनैः पूर्णपृथुवनगुहाविवरः भूधरः सहसा भयात् इव ररास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The mountain, its vast forest caves and hollows filled with the cries of scattered flocks of birds and herds of animals that fled in agitation, suddenly roared as if out of fear.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005480,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "क्षुमितेति ॥ क्षुभितास्त्रस्ता अभिनि:सृताः स्वस्थानान्निर्गता विभिन्ना मुक्तसंघाश्च ये शकुनयः पक्षिणो मृगाश्च तेषां यूथानि तानि तेषां निःस्वनैः पूर्णानि पृथूनि वनानि गुहाविवराणि च यस्य स भूधरः सहसा भयादिवेत्युत्प्रेक्षा । ररास चुक्रोश ॥"
+    }
+  ]
+}

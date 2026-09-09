@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005761,
+    "chapter_id": 6629,
+    "verse_number": "17.19",
+    "content_sanskrit": "मुनेर्विचित्रैरिषुभिः स भूयान्निन्ये वशं भूतपतेर्बलौघः । सहात्मलाभेन समुत्पतद्भिर्जातिस्वभावैरिव जीवलोकः ॥",
+    "padaccheda": "मुनेर्विचित्रैरिषुभिः । स । भूयान् । निन्ये । वशं । भूतपतेर्बलौघः । सहात्मलाभेन । समुत्पतद्भिः । जातिस्वभावैरिव । जीवलोकः",
+    "anvaya": "सः भूयान् भूतपतेः बलौघः मुनेः विचित्रैः इषुभिः वशम् निन्ये, जीवलोकः आत्मलाभेन सह समुत्पतद्भिः जातिस्वभावैः इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That vast army of the Lord of Beings (Shiva) was brought under control by the sage's (Arjuna's) varied arrows, just as the world of living beings is controlled by innate dispositions that arise along with their very existence.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005761,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मुनेरिति ॥मुनर्विचित्रैरिषुभिः स भूयानसंख्यो भूतपतेर्बलौघ आत्मलाभेन जन्मना सह समुत्पतद्भिराविर्भवद्भिः। आजन्मसिद्धैरित्यर्थः । जातयो गोत्वमनुष्यत्वादयः । स्वभावा जातिनियता धर्मास्तैर्जातिस्वभावैर्जीवलोकः प्राणिजातमिव वशं निन्ये नीतः। कर्मणि लिट् । प्राणिनो जातिधर्मानिव गणा मुनिशरान्नातिक्रमितुं शेकुरित्यर्थः॥"
+    }
+  ]
+}

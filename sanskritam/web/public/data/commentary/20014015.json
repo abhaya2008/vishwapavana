@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014015,
+    "chapter_id": 6706,
+    "verse_number": "14.86",
+    "content_sanskrit": "अनाप्नुवन्दुःखमसौ सुतीव्रं प्राप्नोति चेष्टेन वियुज्यते पुनः । सर्वात्मना कामवशस्य दुःखं तस्माद्विरक्तिः पुरुषेण कार्या ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014015,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "दारादीननाप्नुवन्दुःखमेव सुतीव्रं प्राप्नोति पुनरिष्टेन च वियुज्यते ॥ ८६ ॥"
+    }
+  ]
+}

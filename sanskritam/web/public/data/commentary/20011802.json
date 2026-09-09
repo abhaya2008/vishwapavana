@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011802,
+    "chapter_id": 6686,
+    "verse_number": "14.26",
+    "content_sanskrit": "क्रमेण चाटुकारत्वं कान्तायाः प्रतिपद्य सः । बभूव भूरपाङ्गानां समन्दस्मितरोचिषाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011802,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनेन तस्या विस्रम्भोत्पत्तिमाह । विस्रम्भानुपातिनी हि चाटुकारता स्मितकटाक्षमाला च ॥"
+    }
+  ]
+}

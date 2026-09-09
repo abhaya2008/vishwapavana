@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010797,
+    "chapter_id": 6677,
+    "verse_number": "5.37",
+    "content_sanskrit": "'केचिदत्र मरुद्वासास्तपस्यन्ति महर्षयः । अपरे सलिलन्यादाः पर्णाश्मनिघसाः परे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010797,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मरुद्वासा वाताशनाः । अनुपसर्गे दो घञि घस्ऌ । आद्निघसशब्दौ 'नौ ण च' इति णावन्तौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004407,
+    "chapter_id": 6605,
+    "verse_number": "10.24",
+    "content_sanskrit": "देवी भागीरथी पूर्व भक्त्यास्माभिः प्रतोषिता । निमज्जतस्तवोदीर्णं तापं निर्वापयिष्यति ॥",
+    "padaccheda": "देवी । भागीरथी । पूर्वम् । भक्त्या । अस्माभिः । प्रतोषिता । निमज्जतः । तव । उदीर्णम् । तापम् । निर्वापयिष्यति",
+    "anvaya": "पूर्वम् अस्माभिः भक्त्या प्रतोषिता देवी भागीरथी निमज्जतः तव उदीर्णम् तापम् निर्वापयिष्यति",
+    "meaning_sanskrit": "",
+    "meaning_english": "Goddess Gaṅgā has already been propitiated by us with devotion. When you immerse yourself in her waters, she will cool the intense heat generated within you by Śiva's seed.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004407,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "देवीति । पूर्वमस्माभिर्भक्त्या प्रतोषिता भागीरथी देवी निमज्जतः स्नानं कुर्वतस्तवोदीर्णमत्युल्बणं तापं निर्वापयिष्यतीत्यर्थः"
+    }
+  ]
+}

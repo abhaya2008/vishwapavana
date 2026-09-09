@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002705,
+    "chapter_id": 6583,
+    "verse_number": "7.66",
+    "content_sanskrit": "स चापकोटीनिहितैकबाहु शिरस्त्रनिष्कर्षणभिन्नमौलिः । ललाटबद्धश्रमवारिबिन्दुर्भीतां प्रियामेत्य वचो बभाषे ॥",
+    "padaccheda": "सः । चापकोटीनिहितैकबाहुः । शिरस्त्रनिष्कर्षणभिन्नमौलिः । ललाटबद्धश्रमवारिबिन्दुः । भीताम् । प्रियाम् । एत्य । वचः । बभाषे",
+    "anvaya": "चाप-कोटि-निहित-एक-बाहुः, शिरस्त्र-निष्कर्षण-भिन्न-मौलिः, ललाट-बद्ध-श्रम-वारि-बिन्दुः सः भीताम् प्रियाम् एत्य वचः बभाषे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With one arm resting on his bow-tip, his hair disheveled from removing his helmet, and with beads of sweat formed on his forehead, he (Aja) approached his frightened beloved (Indumati) and spoke these words.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002705,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ चापकोट्यां निहित एकबाहुर्येन सः। शिरस्त्रस्य निष्कर्षणेनापनयनेन भिन्नमौलिः श्लथकेशबन्धः। `चूडाकिरीटं केशाश्च संयता मौलयस्त्रयः` इत्यमरः। ललाटे बद्धाः श्रमवारिबिन्दवो यस्य सः सोऽजो भीतां प्रियामिन्दुमतीमेत्यासाद्य वचो बभाषे ॥"
+    }
+  ]
+}

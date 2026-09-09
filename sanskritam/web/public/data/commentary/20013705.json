@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013705,
+    "chapter_id": 6703,
+    "verse_number": "11.10",
+    "content_sanskrit": "तुष्टोऽब्रवीन्मां गिरिशः पुमर्थ- मभीप्सितं प्राप्स्यसि मत्प्रियार्थम् । जुहोषि चेत्सर्वविदः शिरो वा हुताशने भूमिपतेः शिरो वा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013705,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "॥ ११ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013705,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ अमुं वक्ष्यमाणत्वेन बुद्धिस्थम् । तमेवार्थं स्फुटयति । अभीप्सितमित्यादिना ]"
+    }
+  ]
+}

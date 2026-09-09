@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005150,
+    "chapter_id": 6619,
+    "verse_number": "7.34",
+    "content_sanskrit": "आघ्राय क्षणमतितृष्यतापि रोषादुत्तीरं निहितविवृत्तलोचनेन । सम्पृक्तं वनकरिनां मदाम्बुसेकैर्नाचेमे हिममपि वारि वारणेन ॥",
+    "padaccheda": "आघ्राय । क्षणम् । अतितृष्यता । अपि । रोषात् । उत्तीरं । निहित । विवृत्त । लोचनेन । सम्पृक्तं । वनकरिनां । मदाम्बुसेकैः । न । आचेमे । हिमम् । अपि । वारि । वारणेन",
+    "anvaya": "अतितृष्यता अपि, उत्तीरम् निहित-विवृत्त-लोचनेन वारणेन, वन-करिनाम् मद-अम्बु-सेकैः सम्पृक्तम् वारि क्षणम् आघ्राय, रोषात् हिमम् अपि न आचेमे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although extremely thirsty, an elephant, with its eyes fixed and turned towards the rival elephants on the opposite bank, merely smelled the water for a moment. Out of jealous rage, it refused to drink even the cool water because it was mixed with the rut-fluid of the wild elephants.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005150,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "आघ्रायेति ॥ अतितृष्यताप्यतिपिपासतापि क्षणमाघ्राय रोषादुत्तीरं परतीरे । विभक्यर्थेऽव्ययीभावः । निहिते विवृत्ते घूर्णिते लोचने यस्य तेन । प्रतिगजदिदृक्षयेति भावः । वारणेन हिमं शीतलमपि वनकरिणां मदाम्बुसेकैर्दानधाराभिः संपृक्तं वारि नाचेमे न पीतम् । `चमू अदने` इति धातोः कर्मणि लिट् ॥"
+    }
+  ]
+}

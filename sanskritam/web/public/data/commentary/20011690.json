@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011690,
+    "chapter_id": 6685,
+    "verse_number": "13.26",
+    "content_sanskrit": "अक्षणोद्दीक्षितः पापं मङ्गलञ्चाऽसनोद्धरिः । शरीरिणामशेषाणां वन्दारूणां प्रगेतराम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011690,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्षणु हिंसायाम् । तनादिः स्वरितेत् । असनोदिति । षणु दाने । क्षणतुल्यः ॥"
+    }
+  ]
+}

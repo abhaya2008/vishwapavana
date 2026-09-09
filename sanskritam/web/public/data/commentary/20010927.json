@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010927,
+    "chapter_id": 6678,
+    "verse_number": "6.48",
+    "content_sanskrit": "का त्वं कथय कल्याणि स्नान्तं भागीरथे जले । भुजाभ्यामुपकर्ष मामनैषीश्च कुतो गृहम् ? ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010927,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भुजाभ्यामुपकर्षमिति पूर्ववत् तृतीयान्त उपपदे णमुल् ॥"
+    }
+  ]
+}

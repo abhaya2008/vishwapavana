@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011648,
+    "chapter_id": 6684,
+    "verse_number": "12.100",
+    "content_sanskrit": "उदिते कुन्दभासीन्दौ कन्दर्पमणिदर्पणे । हृदयं तरलीकुर्वन् कामोऽदीपिष्ट कामिनाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011648,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कुलकमिदम् ॥"
+    }
+  ]
+}

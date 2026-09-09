@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003515,
+    "chapter_id": 6592,
+    "verse_number": "16.76",
+    "content_sanskrit": "कृतः प्रयत्नो न च देव! लब्धं मग्नं पयस्याभरणोत्तमं ते । नागेन लौल्यात्कुमुदेन नूनमुपात्तमन्तर्ह्रदवासिना तत् ॥",
+    "padaccheda": "कृतः । प्रयत्नः । न । च । देव । लब्धम् । मग्नम् । पयसि । आभरणोत्तमम् । ते । नागेन । लौल्यात् । कुमुदेन । नूनम् । उपात्तम् । अन्तर्ह्रदवासिना । तत्",
+    "anvaya": "देव! प्रयत्नः कृतः, च ते पयसि मग्नम् आभरण-उत्तमम् न लब्धम् । नूनम् अन्तः-ह्रद-वासिना नागेन कुमुदेन लौल्यात् तत् उपात्तम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O King, we made every effort, but your excellent ornament that sank in the water was not found. Surely, it has been taken out of greed by the Naga named Kumuda, who dwells deep within the river's pool.\"",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003515,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृत इति॥ हे देव! प्रयत्नः कृतः। पयसि मग्नं त आभरणोत्तमं न च लब्धम्। किंतु तदाभरणमन्तर्ह्रदवासिना कुमुदाख्येन नागेन पन्नगेन लौल्याल्लोभादुपात्तं गृहीतम्। `नूनम्` इति वितर्के ॥"
+    }
+  ]
+}

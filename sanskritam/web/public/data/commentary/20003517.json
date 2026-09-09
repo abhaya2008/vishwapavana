@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003517,
+    "chapter_id": 6592,
+    "verse_number": "16.78",
+    "content_sanskrit": "तस्मिन्ह्रदः संहितमात्र एव क्षोभात्समाविद्धतरंगहृस्तः । रोधांसि निघ्नन्नवपातमग्नः करीव वन्यः परुषं ररास ॥",
+    "padaccheda": "तस्मिन् । ह्रदः । संहितमात्रे । एव । क्षोभात् । समाविद्धतरंगहस्तः । रोधांसि । निघ्नन् । अवपातमग्नः । करीव । वन्यः । परुषम् । ररास",
+    "anvaya": "तस्मिन् संहित-मात्रे एव, ह्रदः क्षोभात् समाविद्ध-तरंग-हस्तः (सन्) रोधांसि निघ्नन्, अवपात-मग्नः वन्यः करी इव परुषम् ररास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The very moment the weapon was fitted to the bow, the river pool became agitated. With its waves like flailing arms striking the banks, it roared harshly, like a wild elephant that has fallen into a pit.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003517,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मिन्निति॥ तस्मिन्नस्त्रे संहितमात्रे सत्येव ह्रदः क्षोभाद्धेतोः समाविद्धाः संघट्टितास्तरंगा एव हस्ता यस्य स रोधांसि निघ्नन्पातयन्। अवपाते गजग्रहणगर्ते मग्नः पतितः। `अवपातस्तु हस्त्यर्थे गर्तश्छन्नस्तृणादिना` इति यादवः। वन्यः करीव परुषं घोरं ररास दध्वान ॥"
+    }
+  ]
+}

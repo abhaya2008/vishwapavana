@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010847,
+    "chapter_id": 6677,
+    "verse_number": "5.87",
+    "content_sanskrit": "परश्शतैर्मखैरिष्ट्वा पराजितशतक्रतुः । धारयस्यमरेभ्यस्त्वं न पुरोडाशभक्षिकाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010847,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पुरोडाशभक्षिकामिति ‘पर्यायार्हणोत्पत्तिषु ण्वुच् (पा.३|३|१११) । इति ऋणे ण्वुच् । अमरेभ्य इति ‘धारेरुत्तमर्ण:’ (पा.१|४|३५) इति सम्प्रदानसंज्ञा ॥"
+    }
+  ]
+}

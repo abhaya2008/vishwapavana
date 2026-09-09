@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003682,
+    "chapter_id": 6595,
+    "verse_number": "19.21",
+    "content_sanskrit": "प्रातरेत्य परिभोगशोभिना दर्शनेन कृतखण्डनव्यथाः । प्राञ्जलिः प्रणयिनीः प्रसादयन्सोऽदुनोत्प्रणयमन्थरः पुनः ॥",
+    "padaccheda": "प्रातः । एत्य । परिभोगशोभिना । दर्शनेन । कृतखण्डनव्यथाः । प्राञ्जलिः । प्रणयिनीः । प्रसादयन् । सः । अदुनोत् । प्रणयमन्थरः । पुनः",
+    "anvaya": "प्रणय-मन्थरः सः प्रातः एत्य, परिभोग-शोभिना दर्शनेन कृत-खण्डन-व्यथाः प्रणयिनीः प्राञ्जलिः सन् प्रसादयन्, पुनः अदुनोत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Slow in his affection, he would come in the morning and, while appeasing his beloveds with folded hands—whose pain from his infidelity was mitigated by his appearance radiant from the night's pleasures—he would pain them again.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003682,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रातरिति॥ सोऽग्निवर्णः प्रातरेत्यागत्य परिभोगशोभिना दर्शनेन हेतुना। दृशेर्ण्यन्ताल्ल्युट्। कृता खण्डनव्यथा यासां तास्तथोक्ताः खण्डिता इत्यर्थः। तदुक्तम्-`ज्ञातेऽन्यासङ्गविकृते खण्डितेर्ष्याकषायिता` इति। प्रणयिनीः प्राञ्जलिः प्रसादयंस्तथापि प्रणयमन्थरः प्रणयेन नर्तकीगतेन मन्थरोऽलसः। तत्र शिथिलप्रयत्नः सन्नित्यर्थः। पुनरदुनोत् पर्यतापयत् ॥"
+    }
+  ]
+}

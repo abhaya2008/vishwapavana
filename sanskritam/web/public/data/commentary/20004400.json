@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004400,
+    "chapter_id": 6605,
+    "verse_number": "10.17",
+    "content_sanskrit": "प्रीतः स्वाहास्वधाहन्तकारैः प्रीणयसे स्वयम् । देवान्पितॄन्मनुष्यांस्त्वमेकस्तेषां मुखं यतः ॥",
+    "padaccheda": "प्रीतम् । स्वाहास्वधाहन्तकारैः । प्रीणयसे । स्वयम् । देवान् । पितॄन् । मनुष्यान् । त्वम् । एकः । तेषाम् । मुखम् । यतः",
+    "anvaya": "त्वं स्वाहास्वधाहन्तकारैः देवान् पितॄन् मनुष्यान् स्वयं प्रीणयसे यतः तेषाम् एकः मुखं प्रीतः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra praises Agni, saying that he himself satisfies the gods, ancestors, and humans through the ritual offerings of Svāhā, Svadhā, and Hantakāra, because he is their sole mouth.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004400,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रीत इति । भौ अग्ने, त्वं प्रीतः सन् । स्वाहाकारः स्वधाकारो हन्तकार एतैः शब्दैः कृत्वा होतृभिः प्रक्षिप्तेन । हविषेति शेषः । देवानिन्द्रादीन्पिन्मनुष्यांश्च स्वयं प्रीणीयसे प्रसादयसि । कथमेतान्प्रसादयामीत्याह-यत एक एव त्वं तेषां देवादीनां मुखमसि"
+    }
+  ]
+}

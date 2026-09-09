@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003599,
+    "chapter_id": 6593,
+    "verse_number": "17.72",
+    "content_sanskrit": "सन्तस्तस्याभिगमनादत्यर्थं महतः कृशाः । उदधेरिव जीमूताः प्रापुर्दातृत्वमर्थिनः ॥",
+    "padaccheda": "सन्तः । तस्य । अभिगमनात् । अत्यर्थम् । महतः । कृशाः । उदधेः । इव । जीमूताः । प्रापुः । दातृत्वम् । अर्थिनः",
+    "anvaya": "कृशाः सन्तः अर्थिनः (अपि) महतः तस्य अभिगमनात्, उदधेः जीमूताः इव, अत्यर्थम् दातृत्वम् प्रापुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Needy but virtuous people who approached the great King Atithi for help received so much wealth that they themselves became great donors. This was like clouds, which draw water from the vast ocean only to generously rain it down upon the earth.",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003599,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सन्त इति॥ अत्यर्थं कृशा दरिद्रा अत एवार्थिनो याचनशीलाः सन्तो विद्वांसो महतस्तस्य राज्ञोऽभिगमनात् उदधेरभिगमनाज्जीमूता इव। दातृत्वं प्रापुः, अर्थिषु दानभोगपर्याप्तं धनं प्रयच्छतीत्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005707,
+    "chapter_id": 6628,
+    "verse_number": "16.29",
+    "content_sanskrit": "कृतान्तदुर्वृत्त इवापरेषां पुरः प्रतिद्वन्द्विनि पाण्डवास्त्रे । अतर्कितं पाणितलान्निपेतुः क्रियाफलानीव तदायुधानि ॥",
+    "padaccheda": "कृतान्तदुर्वृत्ते । इव । अपरेषाम् । पुरः । प्रतिद्वन्द्विनि । पाण्डवास्त्रे । अतर्कितम् । पाणितलात् । निपेतुः । क्रियाफलानि । इव । तदायुधानि",
+    "anvaya": "प्रतिद्वन्द्विनि पाण्डवास्त्रे पुरः स्थिते सति, कृतान्तदुर्वृत्ते इव, अपरेषां तदायुधानि क्रियाफलानि इव अतर्कितं पाणितलात् निपेतुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With Arjuna's weapon opposing them, as if fate itself were acting perversely, the weapons of the other Ganas fell unexpectedly from their hands, like the fruits of actions being lost before they can be enjoyed.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005707,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "कृतान्तेति ॥ कृतान्तदुर्वृत्ते दैवदुश्चेष्टित इव । `कृतान्तो यमसिद्धान्तदैवाकुशलकर्मसु` इति विश्वः । पाण्डवास्त्रे पुरः प्रतिद्वन्द्विनि प्रतिकुलवर्तिनि सति तदा तस्मिन्कालेऽपरेषामायुधानि क्रियाफलानि कृष्यादिफलानीव । अतर्कितमविचारितमेव पाणितलान्निपेतुः॥"
+    }
+  ]
+}

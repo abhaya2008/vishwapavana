@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011868,
+    "chapter_id": 6686,
+    "verse_number": "14.92",
+    "content_sanskrit": "विस्रब्धया त्वया भाव्यं मन्दमन्दाक्षया ततः । दामोदरेऽनुकूले नौ सिद्धं सकलमीप्सितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011868,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सिद्धमित्याशंसायाम् भूतवच्चेति (पा.३|३|१३२) क्तः । अविघ्नो विवाहो नापवादश्चेत्यर्थ ॥"
+    }
+  ]
+}

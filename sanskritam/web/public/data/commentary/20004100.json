@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004100,
+    "chapter_id": 6601,
+    "verse_number": "6.50",
+    "content_sanskrit": "तानर्घ्यानर्घ्यमादाय दूरात्प्रत्युद्ययौ गिरिः । नमयन्सारगुरुभिः पादन्यासैर्वसुन्धराम् ॥",
+    "padaccheda": "तान् । अर्घ्यान् । अर्घ्यम् । आदाय । दूरात् । प्रत्युद्ययौ । गिरिः । नमयन् । सारगुरुभिः । पादन्यासैः । वसुन्धराम्",
+    "anvaya": "गिरिः सारगुरुभिः पादन्यासैः वसुन्धरां नमयन् अर्घ्यम् आदाय दूरात् तान् अर्घ्यान् प्रत्युद्ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Mountain (Himavat), making the earth bend with his substantial and heavy footsteps, went forth from a distance to receive those venerable sages, carrying with him the materials for a respectful offering.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004100,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तानिति । गिरिर्हिमवानर्घ्यमर्घार्थं जलमादाय सारगुरुभिरन्तःसारदुर्भरैः पादन्यासैर्वसुंधरां नमयन्नधः प्रापयन् । अघमर्हन्तीत्यर्ध्यान् पूज्यान् । दण्डादित्वाद्यप्रत्ययः । तान्मुनीन्दूरात्प्रत्युद्ययौ"
+    }
+  ]
+}

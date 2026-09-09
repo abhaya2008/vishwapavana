@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002726,
+    "chapter_id": 6584,
+    "verse_number": "8.16",
+    "content_sanskrit": "यतिपार्थिवलिङ्गधारिणौ ददृशाते रघुराघवौ जनैः । अपवर्गमहोदयार्थयोर्भुवमंशाविव धर्मयोर्गतौ ॥",
+    "padaccheda": "यतिपार्थिवलिङ्गधारिणौ । ददृशाते । रघुराघवौ । जनैः । अपवर्गमहोदयार्थयोः । भुवम् । अंशौ । इव । धर्मयोः । गतौ",
+    "anvaya": "जनैः यति-पार्थिव-लिङ्ग-धारिणौ रघु-राघवौ, अपवर्ग-महोदय-अर्थयोः धर्मयोः भुवम् गतौ अंशौ इव ददृशाते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The people saw Raghu and Raghava (Aja), bearing the respective signs of an ascetic and a king, as if they were two parts of Dharma itself—one aimed at liberation (Apavarga) and the other at worldly prosperity (Mahodaya)—manifested on earth.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002726,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यतीति॥ यतिर्भिक्षुः। पार्थिवो राजा। तयोर्लिङ्गधारिणौ रघुराघवौ रघुतत्सुतौ। अपवर्गमहोदयार्थयोर्मोक्षाभ्युदयफलयोः। धर्मयोः। निवर्तकप्रवर्तकरूपयोरित्यर्थः। भुवं गतौ भूलोकमवतीर्णावंशाविव। जनैर्ददृशाते दृष्टौ ॥"
+    }
+  ]
+}

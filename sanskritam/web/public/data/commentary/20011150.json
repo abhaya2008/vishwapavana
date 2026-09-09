@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011150,
+    "chapter_id": 6680,
+    "verse_number": "8.36",
+    "content_sanskrit": "कृषन्ति सैरिकाः कच्चित् केदार्यं विषये तव । काले काले समुन्नम्रघनमुक्तजलाविलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011150,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सैरिका इति 'हलसीरात् ठक्' (पा.४|४|८१)॥"
+    }
+  ]
+}

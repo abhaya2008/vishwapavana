@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003010,
+    "chapter_id": 6587,
+    "verse_number": "11.37",
+    "content_sanskrit": "यूपवत्यवसिते क्रियाविधौ कालवित्कुशिकवंशवर्धनः । राममिष्वसनदर्शनोत्सुकं मैथिलाय कथयांबभूव सः ॥",
+    "padaccheda": "यूपवति । अवसिते । क्रियाविधौ । कालवित् । कुशिकवंशवर्धनः । रामम् । इष्वसनदर्शनोत्सुकं । मैथिलाय । कथयांबभूव । सः",
+    "anvaya": "क्रियाविधौ यूपवति अवसिते सति कालवित् कुशिकवंशवर्धनः सः इष्वसनदर्शनोत्सुकं रामं मैथिलाय कथयांबभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When the sacrificial rites were completed and the sacrificial posts were erected, the sage Vishvamitra, who knew the proper time and was the enhancer of the Kushika race, introduced Rama, who was eager to see the bow, to the King of Mithila.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003010,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यूपेति॥ यूपवति क्रियाविधौ कर्मानुष्ठाने। क्रतावित्यर्थः। अवसिते समाप्ते सति कालविदवसरज्ञः कुशिकवंशवर्धनः स मुनी रामम्। अस्यतेऽनेनेत्यसनम्, इषूणामसनमिष्वसनं चापम्। तस्य दर्शन उत्सुकं मैथिलाय जनकाय कथयांबभूव कथितवान् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011849,
+    "chapter_id": 6686,
+    "verse_number": "14.73",
+    "content_sanskrit": "दारुणं भेजिषे रूपं तदा त्वं कुपितो हर । शमयाञ्चकृमाऽथ त्वान्नुवन्तो विबुधा वयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011849,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भेजिष इति तृफलेत्यादिनेत्वादि (पा.६|४|१२२) ॥"
+    }
+  ]
+}

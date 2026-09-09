@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003385,
+    "chapter_id": 6591,
+    "verse_number": "15.49",
+    "content_sanskrit": "अथ धूमाभिताम्राक्षं वृक्षशाखावलम्बिनम् । ददर्श कंचिदैक्ष्वाकस्तपस्यन्तमधोमुखम् ॥",
+    "padaccheda": "अथ । धूमाभिताम्राक्षम् । वृक्षशाखावलम्बिनम् । ददर्श । कञ्चित् । ऐक्ष्वाकः । तपस्यन्तम् । अधोमुखम्",
+    "anvaya": "अथ ऐक्ष्वाकः धूमाभिताम्राक्षम्, अधोमुखम्, वृक्षशाखावलम्बिनम्, तपस्यन्तम् कञ्चित् ददर्श।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rama, the descendant of Ikshvaku, saw a certain man performing penance, hanging upside down from a tree branch, his eyes coppery-red from the smoke.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003385,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथेक्ष्वाकुवंशप्रभव ऐक्ष्वाको रामः। `कोपधादण्` (पा.4।2।32) इत्यणि कृते `दाण्डिनायन-` (पा.6।4।174) इत्यादिनोकारलोपनिपातः। धूमेन पीयमानेनाभिताम्राक्षं वृक्षशाखावलम्बिनमधोमुखं तपस्यन्तं तपश्चरन्तं कंचित्पुरुषं ददर्श ॥"
+    }
+  ]
+}

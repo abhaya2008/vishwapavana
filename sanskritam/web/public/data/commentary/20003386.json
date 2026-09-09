@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003386,
+    "chapter_id": 6591,
+    "verse_number": "15.50",
+    "content_sanskrit": "पृष्टनामान्वयो राज्ञा स किलाचष्ट धूमपः । आत्मानं शम्बुकं नाम शूद्रं सुपरदार्थिनम् ॥",
+    "padaccheda": "पृष्टनामान्वयः । राज्ञा । सः । किल । आचष्ट । धूमपः । आत्मानम् । शम्बुकम् । नाम । शूद्रम् । सुपरदार्थिनम्",
+    "anvaya": "राज्ञा पृष्टनामान्वयः सः धूमपः किल आत्मानम् शम्बुकम् नाम, सुपरदार्थिनम् शूद्रम् आचष्ट।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When asked his name and lineage by the king, that smoke-drinker identified himself as a Shudra named Shambuka, who was aspiring to attain a high state (heaven) through his penance.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003386,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पृष्टेति॥ राज्ञा नाम चान्वयश्च नामान्वयौ, तौ पृष्टौ यस्य तथोक्तः। धूमं पिबतीति धूमपः। `सुपि-` (पा.3।2।4) इति योगविभागात्कप्रत्ययः। स पुरुष आत्मानं सुरपदार्थिनम्। अनेन प्रयोजनमपि पृष्टमिति ज्ञेयम्। शम्बुकं नाम शूद्रमाचष्ट बभाषे किल ॥"
+    }
+  ]
+}

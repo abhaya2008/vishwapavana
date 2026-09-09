@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004747,
+    "chapter_id": 6611,
+    "verse_number": "16.39",
+    "content_sanskrit": "खड्गेन मूलतो हत्वा दन्तिनो रदनद्वयम् । प्रातिपक्ष्ये प्रविष्टोऽपि पदातिर्निरगाद्द्रुतम् ॥",
+    "padaccheda": "खड्गेन । मूलतः । हत्वा । दन्तिनः । रदनद्वयम् । प्रातिपक्ष्ये । प्रविष्टः । अपि । पदातिः । निरगात् । द्रुतम्",
+    "anvaya": "पदातिः खड्गेन दन्तिनः रदन-द्वयम् मूलतः हत्वा प्रातिपक्ष्ये प्रविष्टः अपि द्रुतम् निरगात् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "A foot-soldier, having hacked off both tusks of an elephant from their roots with his sword, quickly escaped even after having entered deep into the enemy's ranks.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004747,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "खड्गेनेति । प्रातिपक्ष्ये शत्रुसम्बन्धिनि सैन्ये प्रविष्टोऽपि पदातिः पादचारी दन्तिनो गजस्य रदनद्वयं दन्तद्वयं खड्गेन कृत्वा मूलतो मूलाद्धत्वा भित्त्वा द्रुतं निरगान्निश्चक्राम । शत्रुसैन्यप्रविष्टस्य मरणमेव ध्रुवम्, तदस्य विपरीतमभूदित्यपिना द्योत्यते"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011654,
+    "chapter_id": 6684,
+    "verse_number": "12.106",
+    "content_sanskrit": "सपत्न्येत्युदितः कश्चिदवागस्यादधोमुखः । दोषान्तरं हि दोषस्य प्रथमानस्य निह्नुतिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011654,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अवागवचनः । दोषान्तरमिति प्रेम्णि सति मौनम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011716,
+    "chapter_id": 6685,
+    "verse_number": "13.52",
+    "content_sanskrit": "न च वञ्चयितुं जातु गुरुत्वान्मे स गच्छति । तदुपायेन केनापि हृत्वा नेया त्वयाऽऽशु सा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011716,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "ते मे टार्थे । 'याति गच्छति शक्ये' इत्यव्ययसूत्रम् । न च स मया कदाचिदपि वञ्चयितुं शक्यः । गुरुत्वादित्यर्थः । आशुशब्दो हृत्वा नेया इत्युभाभ्यामपि संबध्यते ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010862,
+    "chapter_id": 6677,
+    "verse_number": "5.102",
+    "content_sanskrit": "इङ्गुदीतैलमुद्धृत्य तैलोदङ्केन भाजनात् । मुनयः पर्णशालासु तेन दीपानदीपयन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010862,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तैलोदङ्केन तैलोद्धरणकरणेन दर्व्येत्यर्थः । 'उदङ्कोऽनुदके' (पा.३|३|१२३) इत्युदञ्चतेः करणे घञ् निपात्यते ॥"
+    }
+  ]
+}

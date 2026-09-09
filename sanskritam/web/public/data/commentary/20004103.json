@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004103,
+    "chapter_id": 6601,
+    "verse_number": "6.53",
+    "content_sanskrit": "तत्र वेत्रासनासीनान्कृतासनपरिग्रहः । इत्युवाचेश्वरान्वाचं प्राञ्जलिः पृथिवीधरः ॥",
+    "padaccheda": "तत्र । वेत्रासनासीनान् । कृतासनपरिग्रहः । इति । उवाच । ईश्वरान् । वाचं । प्राञ्जलिः । पृथिवीधरः",
+    "anvaya": "तत्र कृतासनपरिग्रहः प्राञ्जलिः पृथिवीधरः वेत्रासनासीनान् ईश्वरान् इति वाचं उवाच ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, having taken his own seat, the Mountain (Himavat), with folded hands, spoke these words to the powerful sages who were seated on cane chairs.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004103,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति । वेत्रं लताविशेषः । तत्र शुद्धान्ते वेत्रासनासीनान्वेत्रमयविष्टरोपविष्टानीश्वरान्प्रभून्मुनीन्भूधरेश्वरो हिमवान्कृतासनपरिग्रहः । उपविष्टः सन्नित्यर्थः । प्राञ्जलिः कृताञ्जलिः सन् । इत्येवं वाचमुवाच"
+    }
+  ]
+}

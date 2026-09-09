@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003367,
+    "chapter_id": 6591,
+    "verse_number": "15.31",
+    "content_sanskrit": "सखा दशरथस्यापि जनकस्य च मन्त्रकृत् । संचस्कारोभयप्रीत्या मैथिलेयौ यथाविधइ ॥",
+    "padaccheda": "सखा । दशरथस्य । अपि । जनकस्य । च । मन्त्रकृत् । संचस्कार । उभयप्रीत्या । मैथिलेयौ । यथाविधि",
+    "anvaya": "दशरथस्य जनकस्य च अपि सखा मन्त्र-कृत् (वाल्मीकिः) उभय-प्रीत्या मैथिलेयौ यथा-विधि संचस्कार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sage Valmiki, a friend and counselor to both Dasharatha and Janaka, performed the sacraments for the two sons of Sita according to the prescribed rites, out of his affection for both families.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003367,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सखेति॥ दशरथस्य जनकस्य च सखा मन्त्रकृन्मन्त्रद्रष्टा स वाल्मीकिरपि। `सुकर्मपापमन्त्रपुण्येषु कृञः` (पा.3।2।89) इति क्विप्। उभयोर्दशरथजनकयोः प्रीत्या स्नेहेन मैथिलेयौ मैथिलीपुत्रौ यथाविधि यथाशास्त्रं संचस्कार संस्कृतवान्। जातकर्मादिभिरिति शेषः ॥"
+    }
+  ]
+}

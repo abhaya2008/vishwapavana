@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010770,
+    "chapter_id": 6677,
+    "verse_number": "5.10",
+    "content_sanskrit": "नवश्यामलशष्पालीनिगारोद्गारदक्षिणैः । रोमन्थायितुमासीनैः कुरङ्गै राजिताजिरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010770,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निगाराद्गारेति । 'उन्न्योर्ग्रः' (पा.३|३|२९) इति घञ् ॥"
+    }
+  ]
+}

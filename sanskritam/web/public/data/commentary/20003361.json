@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003361,
+    "chapter_id": 6591,
+    "verse_number": "15.25",
+    "content_sanskrit": "वयसां पङ्क्तयः पेतुर्हतस्योपरि विद्विषः । तत्प्रतिद्वन्द्विनो मूर्धअनि दिव्याः कुसुमवृष्टयः ॥",
+    "padaccheda": "वयसां । पङ्क्तयः । पेतुः । हतस्य । उपरि । विद्विषः । तत्प्रतिद्वन्द्विनो । मूर्धनि । दिव्याः । कुसुमवृष्टयः",
+    "anvaya": "हतस्य विद्विषः उपरि वयसाम् पङ्क्तयः पेतुः । तत्-प्रतिद्वन्द्विनः मूर्धनि दिव्याः कुसुम-वृष्टयः (पेतुः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Flocks of birds of prey fell upon the slain enemy, while divine showers of flowers fell upon the head of his opponent, Shatrughna.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003361,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वयसामिति॥ हतस्य विद्वेष्टीति विद्विट् तस्य विद्विषो राक्षसस्योपरि वयसां पक्षिणां पङ्क्तयः पेतुः। तत्प्रतिद्वन्द्विनः शत्रुघ्नस्य मूर्न्धि तु दिव्याः कुसुमवृष्टयः पेतुः ॥"
+    }
+  ]
+}

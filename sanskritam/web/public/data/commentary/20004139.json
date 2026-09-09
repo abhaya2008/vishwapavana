@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004139,
+    "chapter_id": 6601,
+    "verse_number": "6.89",
+    "content_sanskrit": "एतावदुक्त्वा तनयाम् ऋषीनाह महीधरः । इयं नमति वः सर्वांस्त्रिलोचनवधूरिति ॥",
+    "padaccheda": "एतावत् । उक्त्वा । तनयाम् । ऋषीन् । आह । महीधरः । इयम् । नमति । वः । सर्वान् । त्रिलोचनवधूः । इति",
+    "anvaya": "महीधरः एतावत् उक्त्वा तनयाम् ऋषीन् आह, 'इयम् त्रिलोचनवधूः वः सर्वान् नमति' इति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The mountain (Himalaya), having said this much to his daughter, told the sages, \"This bride of the three-eyed one (Shiva) bows to all of you.\"",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004139,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एतावदिति । महीधरो हिमवांस्तनयामेतावत्पूर्वोक्तमुक्त्वार्षीनाह-किमिति । इयं त्रिलोचनवधूस्त्र्यम्बकपत्नी वः सर्वान्नमतीति । त्रिलोचनवधूरितिसिद्धवदभिधानेनाविप्रतिपन्नं दानमिति सूचयति"
+    }
+  ]
+}

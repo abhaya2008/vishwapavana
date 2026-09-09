@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011797,
+    "chapter_id": 6686,
+    "verse_number": "14.21",
+    "content_sanskrit": "इयेष सा सदा द्रष्टुं वक्तुमालिङ्गितुं च तम् । चोदिता पञ्चबाणेन त्रपया न शशाक च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011797,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "इयेष । तं वक्तुमिति । प्रधानकर्मवचनक्रियया तस्याप्तुमिष्टतमत्वात् । नत्वकथितम् ॥"
+    }
+  ]
+}

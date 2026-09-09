@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012025,
+    "chapter_id": 6688,
+    "verse_number": "16.32",
+    "content_sanskrit": "वदन्तमुक्तवानित्थं पितरं पुष्करेक्षणः । पूरयेयमहं तात तवाशास्त्वदनुग्रहात् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012025,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'पूरयेय'मिति प्रार्थने लिङ् ।"
+    }
+  ]
+}

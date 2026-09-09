@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003550,
+    "chapter_id": 6593,
+    "verse_number": "17.23",
+    "content_sanskrit": "तेऽस्य मुक्तागुणोन्नद्धं मौलिमन्तर्गतस्रजम् । प्रत्यूपुः पद्मरागेण प्रभामण्डलशोभिना ॥",
+    "padaccheda": "ते । अस्य । मुक्तागुणोन्नद्धम् । मौलिम् । अन्तर्गतस्रजम् । प्रत्यूपुः । पद्मरागेण । प्रभामण्डलशोभिना",
+    "anvaya": "ते अस्य मुक्तागुणोन्नद्धम् अन्तर्गतस्रजम् मौलिम् प्रभामण्डलशोभिना पद्मरागेण प्रति ऊपुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The ministers studded his crown, which was tied with strings of pearls and had a garland placed inside, with a ruby that shone with a halo of light.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003550,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति॥ ते प्रसाधका मुक्तागुणेन मौक्तिकसरेणोन्नद्धमुद्बद्धमन्तर्गतस्रजमस्यातिथेर्मौलिं धम्मिल्लं प्रभामण्डलशोभिना पद्मरागेण माणिक्येन प्रत्यूपुः प्रत्युप्त चक्रुः ॥"
+    }
+  ]
+}

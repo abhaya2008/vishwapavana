@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012119,
+    "chapter_id": 6688,
+    "verse_number": "16.126",
+    "content_sanskrit": "पातुम्मधु न कालोऽयं पातव्ये ते बले बल ! ऊष्मायमाणैर्मद्वाणैः पीयमानाखिलोष्मणि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012119,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पातव्य इति प्राप्तकाले कृत्यः (पा.३|३|१६३) । रक्षितव्ये । पातुं चूषितुम् । मधुपानलिङ्गलौहित्यादिदर्शनादेवमुच्यते ॥"
+    }
+  ]
+}

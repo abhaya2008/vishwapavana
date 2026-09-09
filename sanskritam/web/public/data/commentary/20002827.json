@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002827,
+    "chapter_id": 6585,
+    "verse_number": "9.22",
+    "content_sanskrit": "अवभृथप्रयतो नियतेन्द्रियः सुरसमाजसमाक्रमणोचितः । नमयति स्म स केवलमुन्नतं वनमुचे नमुचेररये शिरः ॥",
+    "padaccheda": "अवभृथप्रयतः । नियतेन्द्रियः । सुरसमाजसमाक्रमणोचितः । नयति स्म । सः । केवलम् । उन्नतम् । वनमुचे । नमुचेः । अरये । शिरः",
+    "anvaya": "अवभृथप्रयतः नियतेन्द्रियः सुरसमाजसमाक्रमणोचितः सः (दशरथः) केवलं नमुचेः अरये वनमुचे (इन्द्राय) उन्नतं शिरः नमयति स्म ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Dasharatha)—purified by the post-sacrificial bath, with senses controlled, and worthy of entering the assembly of gods—bowed his lofty head only to the enemy of Namuchi, the cloud-releaser (Indra).",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002827,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अवभृथेति॥ अवभृथेन प्रयतो नियतेन्द्रियः सुरसमाजसमाक्रमणोचितो देवसभाधिष्ठानार्हः स दशरथ उन्नतं शिरो वनमुचे जलवर्षिणे। `जलं नीरं वनं सत्त्वम्` इति शाश्वतः। मनुचेररये केवलमिन्द्रायैव नमयति स्म। न कस्मैचिदन्यस्मै मानुषायेत्यर्थः ॥"
+    }
+  ]
+}

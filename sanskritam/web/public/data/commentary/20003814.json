@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003814,
+    "chapter_id": 6597,
+    "verse_number": "2.36",
+    "content_sanskrit": "पर्यायसेवामुत्सृज्य पुष्पसंभारतत्पराः । उद्यानपालसामान्यम् ऋतवस्तमुपासते ॥",
+    "padaccheda": "पर्यायसेवाम् । उत्सृज्य । पुष्पसंभारतत्पराः । उद्यानपालसामान्यम् । ऋतवः । तम् । उपासते",
+    "anvaya": "ऋतवः पर्यायसेवाम् उत्सृज्य पुष्पसंभारतत्पराः (सन्तः) तम् उद्यानपालसामान्यम् उपासते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The seasons, abandoning their rotational service, are constantly engaged in gathering flowers for him. They serve him as if they were ordinary gardeners, not as the great powers they are.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003814,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पर्यायेति ॥ ऋतवः षड् वसन्तादयः पर्यायसेवां क्रमसेवामुत्सृज्य पुष्पाणां संभारे संग्रहे तत्पराः । आसक्ताः सन्त इत्यर्थः । `तत्परे प्रसितासक्तौ` इत्यमरः (अ.को.3|1|9) । उद्यानपालैरुद्यानाधिकृतैः सामान्यं साधारणं यथा भवति तथा तं तारकमुपासते सेवन्ते । शीतोष्णादिदोषप्रकाशनं तु दूरापास्तमित्यर्थः"
+    }
+  ]
+}

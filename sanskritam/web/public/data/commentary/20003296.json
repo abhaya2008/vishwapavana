@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003296,
+    "chapter_id": 6590,
+    "verse_number": "14.47",
+    "content_sanskrit": "अथानुकूलश्रवणप्रतीतामत्रस्नुभिर्युक्तधुरं तुरंगैः । रथं सुमन्त्रप्रतिपन्नरश्मिमारोप्य वैदेहसुतां प्रतस्थे ॥",
+    "padaccheda": "अथ । अनुकूलश्रवणप्रतीताम् । अत्रस्नुभिः । युक्तधुरं । तुरंगैः । रथं । सुमन्त्रप्रतिपन्नरश्मिम् । आरोप्य । वैदेहसुतां । प्रतस्थे",
+    "anvaya": "अथ (लक्ष्मणः) अनुकूल-श्रवण-प्रतीताम् वैदेह-सुताम्, अत्रस्नुभिः तुरंगैः युक्त-धुरम्, सुमन्त्र-प्रतिपन्न-रश्मिम् रथम् आरोप्य प्रतस्थे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Lakshmana, having placed Sita—who was delighted to hear the favorable news of visiting hermitages—onto the chariot whose reins were held by Sumantra and yoked with fearless horses, set out.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003296,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथासौ लक्ष्मणः। अनुकूलश्रवणेन प्रतीतामिष्टाकर्णनेन तुष्टां वैदेहसुतामत्रस्नुभिरभीरुभिर्गर्भिणीवहनयोग्यैः। `त्रसिगृधिधृषिक्षिपेः क्नुः` (पा.3।2।140) इति क्नुप्रत्ययः। तुरंगैर्युक्तधुरं सुमन्त्रेण प्रतिपन्नरश्मिं गृहीतप्रग्रहं रथमारोप्य प्रतस्थे ॥"
+    }
+  ]
+}

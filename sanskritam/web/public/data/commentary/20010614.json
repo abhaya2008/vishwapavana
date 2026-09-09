@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010614,
+    "chapter_id": 6675,
+    "verse_number": "3.56",
+    "content_sanskrit": "पात्रैः प्रस्थंपचैर्द्रोणंपचैर्यत्रालया बभुः । खारिंपचैश्च विमलैरेकवेशनिवेशितैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010614,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पात्रैरिति । 'परिमाणे पचः' (पा.३|२|३३) इति खश् । खारिंपचैरिति 'खित्यनव्ययस्य' (पा.६|३|६६) इत्योत्तरपदिको ह्रस्वः ॥"
+    }
+  ]
+}

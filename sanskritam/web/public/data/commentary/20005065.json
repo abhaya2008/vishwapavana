@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005065,
+    "chapter_id": 6617,
+    "verse_number": "5.48",
+    "content_sanskrit": "जलदजालघनैरसिताश्मनामुपहतप्रचयेह मरीचिभिः । भवति दीप्तिरदीपितकंदरा तिमिरसंवलितेव विवस्वतः ॥",
+    "padaccheda": "इह । जलदजालघनैः । मरीचिभिः । उपहतप्रचया । असिताश्मनाम् । अदीपितकंदरा । दीप्तिः । विवस्वतः । तिमिरसंवलिता । इव । भवति",
+    "anvaya": "इह जलदजालघनैः मरीचिभिः उपहतप्रचया असिताश्मनाम् अदीपितकंदरा दीप्तिः विवस्वतः तिमिरसंवलिता इव भवति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On this mountain, the radiance of the black gems, its brilliance diminished by the sun's rays which are themselves obscured by dense clouds, makes the unlit caves appear as if they are filled with a mixture of light and darkness.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005065,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " जलदेति ॥ इहास्मिन्नद्रौजलदजालधनैर्मेघवृन्दसान्द्रैरसिताश्मनामिन्द्रनीलानां मरीचिभिर्दीधितिभिः । `भानुः करो मरीचिः स्त्रीपुंसयोर्दीधितिः स्त्रियाम्` इत्यमरः (अ.को.1|3|37) । उपहतप्रचया विघट्टितसंघाता अतएवादीपितकंदरा अप्रकाशितगह्वरा विवस्वतो दीप्तिस्तिमिरैः संवलिता संहता व्यामिश्रितेव भवतीत्युप्रेक्षा ॥"
+    }
+  ]
+}

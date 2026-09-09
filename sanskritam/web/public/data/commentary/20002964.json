@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002964,
+    "chapter_id": 6586,
+    "verse_number": "10.77",
+    "content_sanskrit": "संतानकमयी वृष्टिर्भवने चास्य पेतुषी । सन्मङ्घलोपचाराणां सैवादिरचनाऽभवत् ॥",
+    "padaccheda": "संतानकमयी । वृष्टिः । भवने । च । अस्य । पेतुषी । सन्मङ्घलोपचाराणाम् । सा । एव । आदिरचना । अभवत्",
+    "anvaya": "अस्य भवने च संतानकमयी वृष्टिः पेतुषी सा एव सन्मङ्घलोपचाराणाम् आदिरचना अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A shower of celestial Mandāra flowers fell in the King's palace, and that itself became the first auspicious decoration for the birth ceremonies.",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002964,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संतानकेति॥ अस्य राज्ञो भवने संतानकानां कल्पवृक्षकुसुमानां विकारः संतानकमयी वृष्टिश्च पेतुषी पपात। `क्वसुश्च` (पा.3।2।107) इति क्वसुप्रत्ययः। `उगितश्च` (पा.4।1।6)इति ङीप्। सा वृष्टिरेव सन्तः पुत्रजन्मन्यावश्यका ये मङ्गलोपचारास्तेषामादिरचना प्रथमक्रियाऽभवत् ॥"
+    }
+  ]
+}

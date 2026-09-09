@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011133,
+    "chapter_id": 6680,
+    "verse_number": "8.19",
+    "content_sanskrit": "कच्चित्पृच्छथ शास्त्रार्थान् पारिषद्यान् विपश्चितः । पूजां कुरुध्वे सैन्यानामुत्तमानाञ्च कञ्चन ? ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011133,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पारिषद्यान परिषदं समवयतः । 'परिषदो ण्यः' (पा.४|४|४४) । सैन्यानां सेनां समवयताम् । 'सेनाया वा' (पा.४|४|४५) इति ण्यः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003466,
+    "chapter_id": 6592,
+    "verse_number": "16.27",
+    "content_sanskrit": "तेनातपत्रामलमण्डलेन प्रस्थापितः पूर्वनिवासभूमिम् । बभौ बलौघः शशिनोदितेन वेलामुदन्वानिव नीयमानः ॥",
+    "padaccheda": "तेन । आतपत्रामलमण्डलेन । प्रस्थापितः । पूर्वनिवासभूमिम् । बभौ । बलौघः । शशिना । उदितेन । वेलाम् । उदन्वान् । इव । नीयमानः",
+    "anvaya": "तेन आतपत्र-अमल-मण्डलेन पूर्व-निवास-भूमिम् प्रस्थापितः बल-ओघः, उदितेन शशिना वेलाम् नीयमानः उदन्वान् इव बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Led by him under his spotless white royal parasol towards his ancestral land, the mass of the army shone like the ocean being drawn towards the shore by the risen moon.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003466,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तेनेति॥ आतपत्रमेवामलं मण्डलं बिम्बं यस्य तेन। तेन कुशेन पूर्वनिवासभूमिमयोध्यां प्रति प्रस्थापितो बलौघः। आतपत्रवदमलमण्डलेनोदितेन शशिना वेलां नीयमानः प्राप्यमाणः। उदकमस्यास्तीत्युदन्वान् उदधिरिव। बभौ। `उदन्वानुदधौ च` (पा.8।2।13) इति निपातनात्साधुः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010931,
+    "chapter_id": 6678,
+    "verse_number": "6.52",
+    "content_sanskrit": "ह्य एवाहमपश्यन्त्वामासीनं मुनिभिस्सह । मायावृततनुर्भूत्वा चरन्ती जाह्नवीतटे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010931,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपश्यमित्यनद्यतने भूते लङ् । पाघ्रादिना (पा.७|३|७८) शपि शिति दृशेः पश्यादेशः । किमत इत्यत्राह—"
+    }
+  ]
+}

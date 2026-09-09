@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002615,
+    "chapter_id": 6582,
+    "verse_number": "6.62",
+    "content_sanskrit": "अस्रं हरादाप्तवता दुरापं येनेन्द्रलोकावजयाय दृप्तः । पुरा जनस्थानविमर्दशङ्की संधाय लङ्काधिपतिः प्रतस्थे ॥",
+    "padaccheda": "अस्त्रम् । हरात् । आप्तवता । दुरापम् । येन । इन्द्रलोकावजयाय । दृप्तः । पुरा । जनस्थानविमर्दशङ्की । संधाय । लङ्काधिपतिः । प्रतस्थे",
+    "anvaya": "पुरा इन्द्र-लोक-अवजयाय दृप्तः जनस्थान-विमर्द-शङ्की लङ्का-अधिपतिः, दुरापम् अस्त्रम् हरात् आप्तवता येन संधाय प्रतस्थे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the past, the lord of Lanka (Ravana), arrogant with the desire to conquer Indra's world and fearing devastation in Janasthana, made a treaty with this king (Pandya), who had obtained an unconquerable weapon from Shiva, and then proceeded on his campaign.",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002615,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अस्त्रमिति॥ पुरा पूर्वं जनस्थानस्य खरालयस्य विमर्दशङ्की दृप्त उद्धतो लङ्काधिपती रावणो दुरापं दुर्लभमस्त्रं ब्रह्मशिरोनामकं हरादाप्तवता येन पाण्ड्येन संधाय इन्द्रलोकावजयायेन्द्रलोकं जेतुं प्रतस्थे। इन्द्रविजयिनो रावणस्यापि विजेतेत्यर्थः॥"
+    }
+  ]
+}

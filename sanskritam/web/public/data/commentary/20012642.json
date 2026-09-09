@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012642,
+    "chapter_id": 6693,
+    "verse_number": "1.87",
+    "content_sanskrit": "ततस्ते सौगताः सर्वे भुजंगोऽस्तीत्यवादिषुः । भोगीशभोगशयनो भगवानिति भूसुराः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012642,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "भुजंगः सर्पः । अवादिषुः कथितवन्तः । भोगीशस्य शेषस्य भोगे शरीरे शयनं यस्य स विष्णुरित्यर्थः ॥ ८७ ॥"
+    }
+  ]
+}

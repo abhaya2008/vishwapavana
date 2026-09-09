@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002732,
+    "chapter_id": 6584,
+    "verse_number": "8.22",
+    "content_sanskrit": "न नवः प्रभुरा फळलोदयात्स्थिरकर्मा विरराम कर्मणः । न च योगविधेर्नवेतरः स्थिरधीरा परमात्मदर्शनात् ॥",
+    "padaccheda": "न । नवः । प्रभुः । आ । फलोदयात् । स्थिरकर्मा । विरराम । कर्मणः । न । च । योगविधेः । नवेतरः । स्थिरधीः । आ । परमात्मदर्शनात्",
+    "anvaya": "स्थिरकर्मा नवः प्रभुः (अजः) आ फलोदयात् कर्मणः न विरराम । स्थिरधीः नवेतरः (रघुः) च आ परमात्म-दर्शनात् योग-विधेः न (विरराम) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The new lord, Aja, resolute in his actions, did not cease from his work until its fruit was achieved. And the other, Raghu, of steady intellect, did not desist from the practice of yoga until he had realized the Supreme Self.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002732,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति॥ स्थिरकर्मा फलोदयकर्मकारी नवः प्रभुरज आ फलोदयात् फलसिद्धिपर्यन्तं कर्मण आरम्भान्न विरराम न निवृत्तः। जुगुप्साविरामप्रमादार्थानामुपसंख्यानम्`(वा.1079) इत्यपादानात्पञ्चमी। `व्याङ्परिभ्यो रमः` (पा.1।3।83)इति परस्मैपदम्। स्थिरधीर्निश्चलचित्तो नवेतरो रघुश्चापरमात्मदर्शनात् परमात्मसाक्षात्कारपर्यन्तं योगविधेरैक्यानुसंधानान्न विरराम ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003882,
+    "chapter_id": 6598,
+    "verse_number": "3.40",
+    "content_sanskrit": "श्रुताप्सरोगीतिरपि क्षणेऽस्मिन्हरः प्रसंख्यानपरो बभूव । आत्मेश्वराणां न हि जातु विघ्नाः समाधिभेदप्रभवो भवन्ति ॥",
+    "padaccheda": "श्रुताप्सरोगीतिः । अपि । क्षणे । अस्मिन् । हरः । प्रसंख्यानपरः । बभूव । आत्मेश्वराणाम् । न । हि । जातु । विघ्नाः । समाधिभेदप्रभवः । भवन्ति",
+    "anvaya": "अस्मिन् क्षणे श्रुत-अप्सरः-गीतिः अपि हरः प्रसंख्यान-परः बभूव । हि जातु आत्म-ईश्वराणाम् विघ्नाः समाधि-भेद-प्रभवाः न भवन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that moment, even though he could hear the songs of the Apsaras, Hara (Shiva) remained absorbed in deep meditation. Indeed, for those who are masters of themselves, obstacles are never capable of breaking their concentration.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003882,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "श्रुतेति । अस्मिन्क्षणे वसन्ताविर्भावकाले भगवान्हरः श्रुताप्सरोगीतिरपि । दिव्याङ्गनागानमाकर्णयन्नपीत्यर्थः । प्रसंख्यानपर आत्मानुसंधानपरो बभूव । तथाहि । आत्मनश्चित्तस्येश्वराणां नियन्तॄणाम् । वशिनामित्यर्थः । विहन्यन्त एभिरिति विध्नाः प्रत्यूहाः । घञर्थे कप्रत्ययः । जातु कदाचिदपि समाधिभेदे समाधिभञ्जने प्रभवः समर्था न भवन्ति"
+    }
+  ]
+}

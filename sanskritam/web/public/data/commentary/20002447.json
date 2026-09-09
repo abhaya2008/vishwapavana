@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002447,
+    "chapter_id": 6580,
+    "verse_number": "4.58",
+    "content_sanskrit": "अवकाशं कोलोदन्वान् रामायाभ्यर्थितो ददौ । अपरान्तमहीपालव्याजेन रघवे करम् ॥",
+    "padaccheda": "अवकाशम् । किल । उदन्वान् । राम-अभ्यर्थितः । ददौ । अपरान्त-महीपाल-व्याजेन । रघवे । करम्",
+    "anvaya": "राम-अभ्यर्थितः उदन्वान् रामाय अवकाशम् ददौ किल। (सः एव उदन्वान्) अपरान्त-महीपाल-व्याजेन रघवे करम् ददौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The ocean, which, when requested by Parashurama, had once given him land, now gave tribute to Raghu under the pretext of it being offered by the kings of the Aparanta region.",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002447,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अवकाशमिति॥ उदन्वानुदधी रामाय जामदग्न्याय। अभ्यर्थितो याचितः सन्। अवकाशं स्थानं ददौ किल। `किल` इति प्रसिद्धौ। रघवे त्वपरान्तमहीपालव्याजेन करं बलिं ददौ। `बलिहस्तांशवः कराः` इत्यमरः (अ.को.3|3|172)। अपरान्तानां समुद्रमध्यदेशवर्तित्वात्तैर्दत्ते करे समुद्रदत्तत्वोपचारः। करदानं च भीत्या, न तु याञ्चयेति रामाद्रघोरुत्कर्षः ॥"
+    }
+  ]
+}

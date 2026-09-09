@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003799,
+    "chapter_id": 6597,
+    "verse_number": "2.21",
+    "content_sanskrit": "किं चायमरिदुर्वारः पाणौ पाशः प्रचेतसः । मन्त्रेण हतवीर्यस्य फणिनो दैन्यमाश्रितः ॥",
+    "padaccheda": "किम् । च । अयम् । अरिदुर्वारः । पाणौ । पाशः । प्रचेतसः । मन्त्रेण । हतवीर्यस्य । फणिनः । दैन्यम् । आश्रितः",
+    "anvaya": "किम् च, प्रचेतसः पाणौ अयम् अरि-दुर्वारः पाशः मन्त्रेण हत-वीर्यस्य फणिनः दैन्यम् आश्रितः (इव अस्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"And why has this noose of Varuna, usually irresistible to enemies, taken on the pitiable state of a serpent whose power has been destroyed by a spell?\" Brahma observes that Varuna's weapon is also powerless.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003799,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "किं चेति ॥ किं चायमरिदुर्वारो रिपुदुष्प्रधर्षः प्रचेतसो वरुणस्य । `प्रचेता वरुणः पाशी` इत्यमरः (अ.को.1|1|73) । पाणौ पाशो रज्जुरायुधविशेषः । मन्त्रेण गारुडेन हतवीर्यस्य प्रतिबद्धशक्तेः । फणिनः सर्पस्य दैन्यं शोच्यत्वमाश्रितः । अत्र फणिनिष्ठदैन्यस्य पाशेऽसम्भवाद्दैन्यमिव दैन्यमिति कल्पनादसंभवद्वस्तुसंबन्धो निदर्शनालंकारः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014266,
+    "chapter_id": 6707,
+    "verse_number": "15.162",
+    "content_sanskrit": "अभिभूय मुरारिमिश्रवर्यं सहसा चोदयनं विजित्य वादे । अवधूय च धर्मगुप्तमिश्रं स्वयशः प्रौढमगापयत्स गौडान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 162,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014266,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तेषु गौडदेशेषु स्थितान्मुरारिमिश्रादीन्विजित्य प्रौढं स्वयशो गौडदेशोद्भवानगा- पयत् ॥ ६२ ॥"
+    }
+  ]
+}

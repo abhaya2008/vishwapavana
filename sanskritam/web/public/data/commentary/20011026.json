@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011026,
+    "chapter_id": 6679,
+    "verse_number": "7.36",
+    "content_sanskrit": "आ जन्मनस्सहमात्यैः कर्णदुश्शासनादिभिः । हन्तुमुत्सहते युष्मान् सविपाशीविषादिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011026,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उत्तरैः श्लोकैः शत्रुमित्राणि विभजति ॥"
+    }
+  ]
+}

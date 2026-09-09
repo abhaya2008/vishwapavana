@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012639,
+    "chapter_id": 6693,
+    "verse_number": "1.84",
+    "content_sanskrit": "वक्ष्यामहे वयं भूप श्वः प्रभातेऽस्य निर्णयम् । इति प्रसाद्य राजानं जग्मुर्भूसुरसौगताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012639,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "॥ ८४ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012639,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "भूसुरा ब्राह्मणाः"
+    }
+  ]
+}

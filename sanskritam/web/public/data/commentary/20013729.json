@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013729,
+    "chapter_id": 6703,
+    "verse_number": "11.34",
+    "content_sanskrit": "स तत्क्षणक्षुब्धानजस्वभावः प्रवृद्धरूढिस्मृतमर्त्यभावः । आविष्कृतात्युग्रनृसिंहभावः समुत्पपातातुलितप्रभावः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013729,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "स पद्मपादः प्रवृद्धरूढप्रवृद्धरोषः । उपजातिवृत्तम् ॥ ३९ ॥"
+    }
+  ]
+}

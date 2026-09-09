@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002721,
+    "chapter_id": 6584,
+    "verse_number": "8.11",
+    "content_sanskrit": "गुणवत्सुतरोपितश्रियः परिणामे हि दिलीपवंशजाः । पदवीं तरुवल्कवाससां प्रयताः संयमिनां प्रपेदिरे ॥",
+    "padaccheda": "गुणवत्सुतरोपितश्रियः । परिणामे । हि । दिलीपवंशजाः । पदवीम् । तरुवल्कवाससाम् । प्रयताः । संयमिनाम् । प्रपेदिरे",
+    "anvaya": "हि गुणवत्-सुत-रोपित-श्रियः दिलीप-वंश-जाः परिणामे प्रयताः (सन्तः) तरु-वल्क-वाससाम् संयमिनाम् पदवीम् प्रपेदिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, in their old age, the descendants of Dilipa's line, after having entrusted the royal fortune to a virtuous son, would piously take to the path of self-controlled ascetics who wear garments of tree-bark.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002721,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गुणवदिति॥ दिलीपवंशजाः परिणामे वार्धके गुणवत्सुतेषु रोपितश्रियः स्थापितलक्ष्मीकाः प्रयताश्च सन्तः। तरुवल्कान्येव वासांसि तेषां संयमिनां यतीनां पदवीं प्रपेदिरे। यस्मात्तस्मादस्यापीदमुचितमित्यर्थः ॥"
+    }
+  ]
+}

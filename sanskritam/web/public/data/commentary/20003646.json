@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003646,
+    "chapter_id": 6594,
+    "verse_number": "18.38",
+    "content_sanskrit": "लोकेन भावी पितुरेव तुल्यः संभावितो मौलिपरिग्रहात्सः । दृष्टो हि वृण्वन्कलभप्रमाणोऽप्याशाः पुरोवातमवाप्य मेघः ॥",
+    "padaccheda": "लोकेन । भावी । पितुः । एव । तुल्यः । संभावितः । मौलिपरिग्रहात् । सः । दृष्टः । हि । वृण्वन् । कलभप्रमाणः । अपि । आशाः । पुरोवातम् । अवाप्य । मेघः",
+    "anvaya": "सः मौलि-परिग्रहात् लोकेन भावी पितुः एव तुल्यः संभावितः । हि कलभ-प्रमाणः अपि मेघः पुरः-वातम् अवाप्य आशाः वृण्वन् दृष्टः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "From the moment of his coronation, the people deemed that he would grow to be the equal of his father. Indeed, even a cloud the size of a young elephant, upon catching the east wind, is seen to cover all the quarters of the sky.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003646,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लोकेनेति॥ स बालो मौलिपरिग्रहात्किरीटस्वीकाराद्धेतोः पितुस्तुल्यः पितृसरूप एव भावी भविष्यति इति लोकेन जनेन संभावितस्तर्कितः। तथा हि-कलभप्रमाणः कलभमात्रोऽपि मेघः पुरोवातमवाप्य। आशा दिशो वृण्वन्गच्छन् दृष्टो हि ॥"
+    }
+  ]
+}

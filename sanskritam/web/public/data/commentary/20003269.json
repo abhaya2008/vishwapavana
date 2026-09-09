@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003269,
+    "chapter_id": 6590,
+    "verse_number": "14.20",
+    "content_sanskrit": "तञ्चात्मचिन्तासुलभं विमानं हृतं सुरारेः सह जीवितेन । कैलासनाथोद्वहनाय भूयः पुष्पं दिवः पुष्पकमन्वमंस्त ॥",
+    "padaccheda": "तत् । च । आत्मचिन्तासुलभं । विमानं । हृतं । सुरारेः । सह । जीवितेन । कैलासनाथोद्वहनाय । भूयः । पुष्पम् । दिवः । पुष्पकम् । अन्वमंस्त",
+    "anvaya": "च सुर-अरेः जीवितेन सह हृतम्, आत्म-चिन्ता-सुलभं, दिवः पुष्पम् तत् पुष्पकं विमानं भूयः कैलास-नाथ-उद्वहनाय (रामः) अन्वमंस्त।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And that Pushpaka aerial chariot—a flower of heaven, obtainable by mere thought, which had been seized from Ravana along with his life—Rama permitted it to return to its service of carrying Kubera, the lord of Kailasa.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003269,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तञ्चेति॥ तञ्चात्मचिन्तासुलभं स्वेच्छामात्रलभ्यं सुरारे रावणस्य जीवितेन सह हृतं दिवः पुष्पं पुष्पवदाभरणभूतं पुष्पकं-विमानं भूयः पुनरपि कैलासनाथस्य कुबेरस्योद्वहनायान्वमंस्तानुज्ञातवान्। मन्यतेर्लुङ्। `भूयो`ग्रहणेन पूर्वमप्येतत्कौबेरमेवेति सूच्यते ॥"
+    }
+  ]
+}

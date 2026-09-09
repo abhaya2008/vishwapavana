@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002956,
+    "chapter_id": 6586,
+    "verse_number": "10.69",
+    "content_sanskrit": "शय्यगतेन रामेण माता शातोदरी बभौ । सैकताम्भोजबलिना जाह्नवीव शरत्कृशा ॥",
+    "padaccheda": "शय्यगतेन । रामेण । माता । शातोदरी । बभौ । सैकताम्भोजबलिना । जाह्नवी । इव । शरत्कृशा",
+    "anvaya": "शय्यगतेन रामेण शातोदरी माता सैकताम्भोजबलिना शरत्कृशा जाह्नवी इव बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The slender-waisted mother, with Rāma lying on the bed, shone like the river Ganges in autumn, which is thin and adorned with offerings of lotuses on its sandy banks.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002956,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शय्येति॥ शातोदरी गर्भमोचनात्कृशोदरी माता शय्यागतेन रामेण। सैकते पुलिने योऽम्भोजबलिः पद्मोपहारस्तेन शरदि कृशा जाह्नवी गङ्गेव। बभौ ॥"
+    }
+  ]
+}

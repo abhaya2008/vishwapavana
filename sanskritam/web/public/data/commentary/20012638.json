@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012638,
+    "chapter_id": 6693,
+    "verse_number": "1.83",
+    "content_sanskrit": "इति संश्रुत्य गोत्रेशो घटमाशीविषान्वितम् । आनीयात्र किमस्तीति पप्रच्छ द्विजसौगतान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012638,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "इत्येवं संश्रुत्य प्रतिज्ञां विधाय गोत्रा पृथ्वी 'गोत्रा कुः पृथिवी'इत्यमरः । तस्या ईशो राजाऽऽशीविषः सर्पो द्विजाश्च सौगताश्च तान् ॥ ८३ ॥"
+    }
+  ]
+}

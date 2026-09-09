@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003389,
+    "chapter_id": 6591,
+    "verse_number": "15.53",
+    "content_sanskrit": "कृतदण्डः स्वयं राज्ञा लेभे शूद्रः सतां गतिम् । तपसा दुश्चरेणापि न स्वमार्गविलङ्घिना ॥",
+    "padaccheda": "कृतदण्डः । स्वयम् । राज्ञा । लेभे । शूद्रः । सताम् । गतिम् । तपसा । दुश्चरेण । अपि । न । स्वमार्गविलङ्घिना",
+    "anvaya": "राज्ञा स्वयम् कृतदण्डः सः शूद्रः सताम् गतिम् लेभे, या गतिः दुश्चरेण अपि स्वमार्गविलङ्घिना तपसा न लभ्यते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That Shudra, having been punished by the king himself, attained the exalted state of the virtuous—a state not achievable even by difficult penance if it involves transgressing one's prescribed path.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003389,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृतेति॥ शूद्रः शम्बुको राज्ञा स्वयं कृतदण्डः कृतशिक्षः सन्। सतां गतिं लेभे। दुश्चरेणापि स्वमार्गविलङ्घिना। अनधिकारदुष्टेनेत्यर्थः। तपसा न लेभे। अत्र मनुः(8।3।18) `राजभिः कृतदण्डास्तु कृत्वा पापानि मानवाः। निर्मलाः स्वर्गमायान्ति सन्तः मुकृतिनो यथा ॥` इति॥"
+    }
+  ]
+}

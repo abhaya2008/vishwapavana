@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014003,
+    "chapter_id": 6706,
+    "verse_number": "14.74",
+    "content_sanskrit": "गच्छन्गच्छन्मार्गमध्येऽभियातं गेहं भिक्षुर्मातुलस्याऽऽजगाम । दृष्ट्वा शिष्यैस्तं चिरेणाभियातं मोदं प्रापन्मातुलः शास्त्रवेदी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014003,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "शिष्यैः सहितम् । शालिनी वृत्तम् ॥ ७४ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011560,
+    "chapter_id": 6684,
+    "verse_number": "12.12",
+    "content_sanskrit": "पार्थमालोकयन्तीनां रूपापहसितस्मरम् । शृङ्गारयोनयस्तासामुदपत्सन्त विभ्रमाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011560,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शृङ्गारयोनय इति बहुव्रीहिः । शृङ्गाररसयोनिका इत्यर्थः । उदपत्सन्तेति उदपद्यन्त । पदॢ गतौ । अनुदात्तः । सिचि रूपम् ॥ इत ऊर्ध्वं तानेव विवृणोति—"
+    }
+  ]
+}

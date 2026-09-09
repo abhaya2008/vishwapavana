@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011762,
+    "chapter_id": 6685,
+    "verse_number": "13.98",
+    "content_sanskrit": "साध्वीभ्यां सह पत्नीभ्यां गृहमेधी पुरातनः । सोऽमोदततरामर्च्चन्तमभ्यर्च्याऽतिथिं प्रियम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011762,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अमोदततरामिति । मुद हर्षे । भ्वादिरनुदात्तेत् । अतिथिं प्रियमिति । प्रियोऽपि शास्त्रेऽतिथिरिति स्मृतः इति भावः ॥"
+    }
+  ]
+}

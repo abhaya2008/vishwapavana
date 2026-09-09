@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014319,
+    "chapter_id": 6708,
+    "verse_number": "16.39",
+    "content_sanskrit": "इत्यद्वैताचार्यवर्येण तेन प्रेम्णा पृष्टः शंकरः साधुशीलः । भक्त्युद्रेकाद्वाष्पपर्याकुलाक्षो बभ्रन्मूर्धन्यञ्जलिं व्याजहार ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014319,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "बाष्पपर्याकुले परिव्याप्ते अक्षिणी यस्य ॥ ४१ ॥ ॥ ४१ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014319,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "मूर्धनि मस्तके"
+    }
+  ]
+}

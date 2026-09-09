@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010532,
+    "chapter_id": 6674,
+    "verse_number": "2.112",
+    "content_sanskrit": "चूषन्तश्चन्द्रिकोत्पीडं चकोरास्समपत्स्रत । चक्रमुश्चक्रवाकास्तु कान्ताविरहकातराः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010532,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "चूष पाने । भ्वादिरुदात्तेत् । समपत्स्रत इति संपूर्वात् पद्यतेर्लुङि सिचि 'आत्मनेपदेष्वनतः' (पा.७|१|५) इत्यङभावे च रूपम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012104,
+    "chapter_id": 6688,
+    "verse_number": "16.111",
+    "content_sanskrit": "रहितो यतिवेषेण स सान्ध्येनेव तेजसा । पूर्वाह्णे रथमारूढश्शुशुभे भानुमानिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012104,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सान्ध्येन तेजसेवेति काषायांबरलोहितत्वात् ॥"
+    }
+  ]
+}

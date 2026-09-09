@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003136,
+    "chapter_id": 6588,
+    "verse_number": "12.70",
+    "content_sanskrit": "स सेतुं बन्धयामास प्लवगैर्लवणाम्भसि । रसातलादिवोन्मग्नं शेषं स्वप्नाय शार्ङ्गिणः ॥",
+    "padaccheda": "सः । सेतुम् । बन्धयामास । प्लवगैः । लवणाम्भसि । रसातलात् । इव । उन्मग्नम् । शेषम् । स्वप्नाय । शार्ङ्गिणः",
+    "anvaya": "सः प्लवगैः लवणाम्भसि सेतुं बन्धयामास । रसातलात् उन्मग्नं शार्ङ्गिणः स्वप्नाय शेषं इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama had a bridge built across the salt ocean by the monkeys. It appeared like the serpent Shesha emerging from the underworld to serve as a bed for Lord Vishnu's sleep.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003136,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स रामो लवणं क्षारमम्भो यस्यासौ लवणाम्भस्तस्मिँल्लवणाब्धौ प्लृवगैः प्रयोज्यैः। शार्ङ्गिणो विष्णोः स्वप्नाय शयनाय रसातलात् पातालादुन्मग्नमुत्थितं शेषमिव स्थितम्। सेतुं बन्धयामास ॥"
+    }
+  ]
+}

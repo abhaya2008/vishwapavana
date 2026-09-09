@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011916,
+    "chapter_id": 6687,
+    "verse_number": "15.13",
+    "content_sanskrit": "स्वगृहं यास्यसि त्वं चेद्यास्याम्यहमपीति ते । वचो निशम्य साशंसं प्रीतोऽहं सम्प्रति प्रिये ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011916,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्वगृहं यास्यसि, यास्याम्यहमपीत्या'शंसयां भूतवच्चे'ति (पा.३|३|१३२) लृट् । भविष्यद्विषया ह्याशंसा ॥"
+    }
+  ]
+}

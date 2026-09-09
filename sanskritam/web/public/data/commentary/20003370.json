@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003370,
+    "chapter_id": 6591,
+    "verse_number": "15.34",
+    "content_sanskrit": "रामस्य मधुरं वृत्तं गायन्तौ मातुरग्रतः । तद्वियोगव्यथां किंचिच्छिथिलीचक्रतुः सुतौ ॥",
+    "padaccheda": "रामस्य । मधुरम् । वृत्तम् । गायन्तौ । मातुः । अग्रतः । तद्वियोगव्यथाम् । किञ्चित् । शिथिलीचक्रतुः । सुतौ",
+    "anvaya": "सुतौ मातुः अग्रतः रामस्य मधुरम् वृत्तम् गायन्तौ तस्य वियोगव्यथाम् किञ्चित् शिथिलीचक्रतुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In front of their mother, the two sons, Kusha and Lava, while singing the sweet story of Rama, somewhat lessened her pain of separation from him.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003370,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रामस्येति॥ तौ सुतौ रामस्य वृत्तं मातुरग्रतो मधुरं गायन्तौ तद्वियोगव्यथां रामविरहवेदनां किंचिच्छिथिलीचक्रतुः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005658,
+    "chapter_id": 6627,
+    "verse_number": "15.33",
+    "content_sanskrit": "स बभार रणापेतां चमूं पश्चादवस्थिताम् । पुरः सूर्यादुपावृत्तां छायामिव महातरुः ॥",
+    "padaccheda": "सः । बभार । रणापेताम् । चमूम् । पश्चादवस्थिताम् । पुरः । सूर्यात् । उपावृत्ताम् । छायाम् । इव । महातरुः",
+    "anvaya": "सः महा-तरुः पुरः सूर्यात् उपावृत्ताम् छायाम् इव, पश्चात् अवस्थिताम् रण-अपेताम् चमूम् बभार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Shiva) supported the army, which had retreated from battle and was positioned behind him, just as a great tree supports the shade that has moved back from its front due to the sun's movement.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005658,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ स शिवोरणापेतां रणादपवृत्तां पराङ्मुखीभूतामत एव पश्चात्पृष्ठभागेऽव स्थितां चमूं पुरोऽग्रे स्थितः सूर्यः पुरःसूर्यः । रणोपमानमेषः। तस्मादपावृत्तां परावृत्तां छायां महातरुरिव बभार । छायां तरुरिवात्मैकशरणां तां चमूं न' मुमोचेत्यर्थः ॥"
+    }
+  ]
+}

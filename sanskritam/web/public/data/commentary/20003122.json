@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003122,
+    "chapter_id": 6588,
+    "verse_number": "12.56",
+    "content_sanskrit": "तयोस्तस्मिन्नवीभूतपितृव्यापत्तिशोकयोः । पितरीवाग्निसंस्कारात्परा ववृतिरे क्रियाः ॥",
+    "padaccheda": "तयोः । तस्मिन् । नवीभूतपितृव्यापत्तिशोकयोः । पितरि । इव । अग्निसंस्कारात् । पराः । ववृतिरे । क्रियाः",
+    "anvaya": "नवीभूतपितृव्यापत्तिशोकयोः तयोः तस्मिन् पितरि इव अग्निसंस्कारात् पराः क्रियाः ववृतिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For the two brothers, whose grief over their father's death was renewed by this loss, the subsequent funeral rites for Jatayu were performed as if they were for their own father.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003122,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तयोरिति॥ व्यापत्तिर्मरणम्। नवीभूतः पितृव्यापत्तिशोको ययोस्तौ तयो राघवयोस्तस्मिन्गृध्रे पितरीवाग्निसंस्कारादग्निसंस्कारमारभ्य परा उत्तराः क्रिया ववृतिरेऽवर्तन्त। तस्य पितृवदौर्ध्वदेहिकं चक्रतुरित्यर्थः ॥"
+    }
+  ]
+}

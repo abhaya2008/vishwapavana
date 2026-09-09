@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005717,
+    "chapter_id": 6628,
+    "verse_number": "16.39",
+    "content_sanskrit": "निःश्वासधूमैः स्थगितांशुजालं फणावतामुत्फणमण्डलानाम् । गच्छन्निवास्तं वपुरभ्युवाह विलोचनानां सुखमुष्णरश्मिः ॥",
+    "padaccheda": "निःश्वासधूमैः । स्थगितांशुजालः । फणावताम् । उत्फणमण्डलानाम् । गच्छन् । इव । अस्तम् । वपुः । अभ्युवाह । विलोचनानाम् । सुखम् । उष्णरश्मिः",
+    "anvaya": "उत्-फण-मण्डलानाम् फणावताम् निःश्वास-धूमैः स्थगित-अंशु-जालः उष्णरश्मिः अस्तम् गच्छन् इव वपुः अभ्युवाह, (तत् च) विलोचनानाम् सुखम् (आसीत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sun, its web of rays obscured by the smoke from the hissing breaths of the serpents with their raised hoods, assumed a form as if it were setting, which was a pleasure for the eyes (of the celestial observers).",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005717,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "निःश्वासेति । उष्णरश्मिरस्तं गच्छन्निवोन्नमितानि फणामण्डलानि येषां तेषां फणावतां सर्पाणां निःश्वासेषु ये धूमास्तैः स्थगितमाच्छादितमंशुजालं यस्य तत्तथोक्तम् । अतएव विलोचनानां सुखं सुखकरं वपुरभ्युवाह ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004132,
+    "chapter_id": 6601,
+    "verse_number": "6.82",
+    "content_sanskrit": "उमा वधूर्भवान्दाता याचितार इमे वयम् । वरः शंभुरलं ह्येष त्वत्कुलोद्भूतये विधिः ॥",
+    "padaccheda": "उमा । वधूः । भवान् । दाता । याचितारः । इमे । वयम् । वरः । शम्भुः । अलम् । हि । एषः । त्वत्कुलोद्भूतये । विधिः",
+    "anvaya": "उमा वधूः, भवान् दाता, इमे वयम् याचितारः, शम्भुः वरः। हि एषः विधिः त्वत्-कुल-उद्भूतये अलम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Uma is the bride, you are the giver, we are the supplicants, and Shambhu is the groom. Indeed, this entire arrangement is perfectly suited for the exaltation of your lineage.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004132,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उमेति । उमा वधूः । इमे वयं याचितारः प्रार्थकाः । शंभुर्वरो वोढा । एष विधिरेषा सामग्री त्वत्कुलस्योद्भूतये उच्छ्रयायालं पर्याप्तं हि । `नमः स्वस्तिस्वाहास्वधे-` त्यादिना चतुर्थी"
+    }
+  ]
+}

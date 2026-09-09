@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013285,
+    "chapter_id": 6699,
+    "verse_number": "7.71",
+    "content_sanskrit": "सस्नौ प्रयागे सह शिष्यसंघैः स्वयं कृतार्थो जनसंग्रहार्थी । अस्मारि माताऽपि च सा पुपोष दधार या दुःखमसोढ भूरि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013285,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "या पुपोष गर्भे दधार दुःखं च भूर्यसोढ सा माताऽप्यस्मारि स्मृता । आख्यानकी वृत्तम् ॥ ७२ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003251,
+    "chapter_id": 6590,
+    "verse_number": "14.2",
+    "content_sanskrit": "उभावुभाभ्यां प्रणतौ हतारी यथाक्रमं विक्रमशोभिनौ तौ । विस्पष्टमस्नान्धतया न दृष्टौ ज्ञातौ सुतस्पर्शसुखोपलम्भात् ॥",
+    "padaccheda": "उभौ । उभाभ्यां । प्रणतौ । हतारी । यथाक्रमं । विक्रमशोभिनौ । तौ । विस्पष्टं । अस्नान्धतया । न । दृष्टौ । ज्ञातौ । सुतस्पर्शसुखोपलम्भात्",
+    "anvaya": "उभौ, हत-अरी, विक्रम-शोभिनौ तौ (दाशरथी) यथाक्रमम् उभाभ्याम् (जननीभ्याम्) प्रणतौ। (तौ) अस्न-अन्धतया विस्पष्टं न दृष्टौ, (किन्तु) सुत-स्पर्श-सुख-उपलम्भात् ज्ञातौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Those two valiant princes, shining with valor after having slain their enemies, bowed down to their two mothers in turn. Blinded by tears, the mothers could not see them clearly but recognized them from the joy of their sons' touch.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003251,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उभाविति॥ यथाक्रमं स्वस्वमातृपूर्वकं प्रणतौ नमस्कृतवन्तौ हतारी हतशत्रुकौ विक्रमशोभिनौ तावुभौ रामलक्ष्मणौ। उभाभ्यां मातृभ्यामस्नैरश्रुभिरन्थतया हेतुना। `अस्रमश्रु च शोणितम्` इति यादवः। विस्पष्टं न दृष्टौ किंतु सुतस्पर्शेन यत् सुखं तस्योपलम्भादनुभवाज्ज्ञातौ ॥"
+    }
+  ]
+}

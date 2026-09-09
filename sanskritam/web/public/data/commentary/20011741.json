@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011741,
+    "chapter_id": 6685,
+    "verse_number": "13.77",
+    "content_sanskrit": "अपिनट् पादपद्माभ्यां तमुत्तानशयो हरिः । प्रयच्छन्तीं विषस्तन्यं पूतनामप्यपातयत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011741,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपिनट् पिष्टवान् । पिष्लृ सञ्चूर्णने लृदित् । रुधादिः । पदान्ते जश्त्वचर्त्वे । उत्तानशय इति । उत्तानादिषु कर्तृष्वित्यच् ॥"
+    }
+  ]
+}

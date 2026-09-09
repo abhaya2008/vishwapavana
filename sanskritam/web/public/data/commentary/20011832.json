@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011832,
+    "chapter_id": 6686,
+    "verse_number": "14.56",
+    "content_sanskrit": "नमो भवाय शर्वाय तुभ्यं पशुपते नमः । उग्राय महते भीमरुद्रेशान नमो नमः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011832,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नमो भवायेत्यादिषु वाक्येषु तुभ्यमिति प्रत्येकं संबध्यते । नमः स्वस्त्यादिना (पा.२|३|१६) चतुर्थी । भवादिनामाष्टकयुक्ताहुतिमन्त्रः सशूलगव इति अनेन श्लोकेन द्योत्यते ॥"
+    }
+  ]
+}

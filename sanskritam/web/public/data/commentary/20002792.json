@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002792,
+    "chapter_id": 6584,
+    "verse_number": "8.82",
+    "content_sanskrit": "क्रथकैशिकवंशसंभवा तव भूत्वा महिषी चिराय सा । उपलब्धवती दिवश्च्युतं विवशा शापनिवृत्तिकारणम् ॥",
+    "padaccheda": "क्रथकैशिक-वंश-सम्भवा । तव । भूत्वा । महिषी । चिराय । सा । उपलब्धवती । दिवः । च्युतम् । विवशा । शाप-निवृत्ति-कारणम्",
+    "anvaya": "सा क्रथकैशिक-वंश-सम्भवा चिराय तव महिषी भूत्वा, विवशा (सती) दिवः च्युतम् शाप-निवृत्ति-कारणम् उपलब्धवती ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(Vasistha speaks to Aja) She, born in the lineage of Krathakaishika, became your queen for a long time. Being helpless due to the curse, she has now obtained the cause for the curse's end, which had fallen from heaven.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002792,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "क्रथेति॥ क्रथकैशिकानां राज्ञां वंशे संभवो यस्याः सा हरिणी तव भहिष्यभिषिक्ता स्त्री। `कृताभिषेका महिषी` इत्यमरः (अ.को.2|6|5)। भूत्वा चिराय दिवः स्वर्गाञ्च्युतं पतितं शापनिवृत्तिकारणं सुरपुष्परूपलब्धवती विवशा। अभूदिति शेषः। मृतेत्यर्थः॥"
+    }
+  ]
+}

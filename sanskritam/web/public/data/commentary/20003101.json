@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003101,
+    "chapter_id": 6588,
+    "verse_number": "12.35",
+    "content_sanskrit": "ज्येष्ठाभिगमनात्पूर्वं तेनाप्यनभिनन्दिताम् । साऽभूद्रामाश्रया भूयो नदीवोभयकूलभाक् ॥",
+    "padaccheda": "ज्येष्ठाभिगमनात् । पूर्वम् । तेन । अपि । अनभिनन्दिता । सा । अभूत् । रामाश्रया । भूयः । नदी । इव । उभयकूलभाक्",
+    "anvaya": "तेन अपि ज्येष्ठाभिगमनात् पूर्वम् अनभिनन्दिता सा भूयो रामाश्रया अभूत् उभयकूलभाक् नदी इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rejected by Lakshmana as well because she had first approached his elder brother, she returned to Rama, moving between the two like a river that touches both its banks.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003101,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ज्येष्ठेति॥ पूर्वं ज्येष्ठाभिगमनात्तेन लक्ष्मणेनाष्यनभिनन्दिता नाङअगीकृता भूयो रामाश्रया सा राक्षसी। उभे कूले भजतीत्युभयकूलभाक् नदीवाभूत् सा हि यातायाताभ्यां पर्यायेण कूलद्वयगामिनी नदीसदृश्यभूदित्यर्थः ॥"
+    }
+  ]
+}

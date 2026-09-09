@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014130,
+    "chapter_id": 6707,
+    "verse_number": "15.26",
+    "content_sanskrit": "अथ मर्त्यशिरःकपालमाली ज्वलनज्वालजटाछटास्त्रिशूली । विकटप्रकटाट्टहासशाली पुरतः प्रादुरभून्महाकपाली ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014130,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथ भैरवस्वरूपस्मरणानन्तरं वह्निज्वालासदृशानां जटानां छटा समूहो यस्य स महाकपाली भैरवः ॥ २६ ॥"
+    }
+  ]
+}

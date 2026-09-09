@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011978,
+    "chapter_id": 6687,
+    "verse_number": "15.75",
+    "content_sanskrit": "गृहे मम जगन्नाथ त्वया चेन्नाऽजनिष्यथ । इह नाऽहममोदिष्ये दिवि वाऽमरनायकः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011978,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हेतुहेतुमतोर्लिङिति (पा.३|३|१५६), लिङ्निमित्ते क्रियातिपत्तौ (पा.३|३|१३९) भूते चेति (पा.३|३|१४०) नित्यो लृङ् ॥"
+    }
+  ]
+}

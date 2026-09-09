@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003613,
+    "chapter_id": 6594,
+    "verse_number": "18.5",
+    "content_sanskrit": "तस्यानलौजास्तनयस्तदन्ते वंशश्रियं प्राप नलाभिधानः । यो नड्वलानीव गजः परेषां बलान्यमृद्गान्नलिनाभवक्त्रः ॥",
+    "padaccheda": "तस्य । अनलौजाः । तनयः । तदन्ते । वंशश्रियम् । प्राप । नलाभिधानः । यः । नड्वलानि । इव । गजः । परेषाम् । बलानि । अमृद्गात् । नलिनाभवक्त्रः",
+    "anvaya": "तदन्ते तस्य अनलौजाः नलाभिधानः तनयः वंशश्रियं प्राप । यः नलिनाभवक्त्रः गजः नड्वलानि इव परेषां बलानि अमृद्गात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At the end of Nishadha's reign, his son named Nala, who possessed the splendor of fire, obtained the glory of the dynasty. This lotus-faced king crushed the armies of his enemies just as an elephant crushes beds of reeds.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003613,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ अनलौजा नलाभिधानो नलाख्यस्तस्य निषधस्य तनयस्तस्य निषधस्यान्तेऽवसाने वंशश्रियं राज्यलक्ष्मीं प्राप। नलिनाभवक्त्रो यो नलः। गजो नड्वलानि नडप्रायस्थलानीव। `नडशादाद् ड्वलच्` (पा.4।2।88) इति ड्वलच्प्रत्ययः। परेषां बलान्यमृद्गान्ममर्द ॥"
+    }
+  ]
+}

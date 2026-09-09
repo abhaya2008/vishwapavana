@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011543,
+    "chapter_id": 6683,
+    "verse_number": "11.120",
+    "content_sanskrit": "शिश्रवाययिषति स्माऽसौ गोपीस्सङ्केतमन्दिरम् । रचयन्नखरेखाङ्कैः पदवीं नवपल्लवैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011543,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शिश्रवाययिषति स्म जिगमयिषति स्म । सन्वरे णौ सम्प्रसारणाभावपक्षः ॥"
+    }
+  ]
+}

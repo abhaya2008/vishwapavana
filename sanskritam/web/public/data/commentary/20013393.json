@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013393,
+    "chapter_id": 6700,
+    "verse_number": "8.59",
+    "content_sanskrit": "इत्थं प्रतिज्ञां कृतवत्युदारां श्रीशंकरे भिक्षुवरे स्वकीयाम् । स विश्वरूपो गृहमेधिवर्य- श्चक्रे प्रतिज्ञां स्वमतप्रतिष्ठाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013393,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "विश्वरूपो मण्डनः स्वमते प्रतिष्ठा यस्यास्तथाभूतां प्रतिज्ञाम् । उपजातिवृत्तम् ॥ ६३ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011923,
+    "chapter_id": 6687,
+    "verse_number": "15.20",
+    "content_sanskrit": "श्रुतपूर्वं त्वया ज्ञातमिदमिन्दुनिभानने । भीमं सुयोधनो बाल्ये विषान्नं भोजयिष्यति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011923,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "बाल्यात् प्रभृति नो द्रोढा इत्यस्य विवरणमिदम् । भोजयिष्यतीत्यभिज्ञावचने लृट् (पा.३|२|११२) ॥"
+    }
+  ]
+}

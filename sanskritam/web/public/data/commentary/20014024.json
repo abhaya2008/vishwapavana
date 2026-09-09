@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014024,
+    "chapter_id": 6706,
+    "verse_number": "14.95",
+    "content_sanskrit": "उच्चैः शास्त्रं भाषमाणोऽपि भिक्षु- स्तारं मन्त्रं संजपन्वा यतात्मा । मध्येघस्रं जाठराग्नौ प्रदीप्ते दण्डी नित्यं गेहिनो गेहमेति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014024,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथ यतेस्तामाह । उच्चैरिति । तारं प्रणवं घस्रस्य दिनस्य मध्ये । इन्द्रवज्रा वृत्तम् ॥ ९५ ॥"
+    }
+  ]
+}

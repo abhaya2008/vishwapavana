@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002374,
+    "chapter_id": 6579,
+    "verse_number": "3.55",
+    "content_sanskrit": "हरेः कुमारोऽपि कुमारविक्रमः सुरद्विपास्फालनकर्कशाङ्गुलौ । भुजे शचीपत्रविशेषकाङ्किते स्वनामचिह्नं निचखान सायकम् ॥",
+    "padaccheda": "हरेः । कुमारः । अपि । कुमारविक्रमः । सुरद्विपास्फालनकर्कशाङ्गुलौ । भुजे । शचीपत्रविशेषकाङ्किते । स्वनामचिह्नम् । निचखान । सायकम्",
+    "anvaya": "कुमारविक्रमः कुमारः अपि हरेः सुर-द्विप-आस्फालन-कर्कश-अङ्गुलौ शची-पत्र-विशेषक-अङ्किते भुजे स्व-नाम-चिह्नम् सायकम् निचखान ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The youth Raghu, possessing the valor of Kartikeya, also drove an arrow marked with his own name into Indra's arm—the arm whose fingers were calloused from patting the divine elephant Airavata and which was adorned with decorative paintings by his wife, Shachi.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002374,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हरेरिति॥ कुमारस्य स्कन्दस्य विक्रम इव विक्रमो यस्य स तथोक्तः। `सप्तम्युपमान-` इत्यादिना समासः। कुमारोऽपि रघुरपि सुरद्विपस्यैरावतस्यास्फालनेन कर्कशा अङ्गुलयो यस्य सः। तस्मिन्। शच्याः पत्रविशेषकैरङ्किते शचीपत्रविशेषकाङ्किते हरेरिन्द्रस्य भुजे स्वनामचिह्नं स्वनामाङ्कितं सायकं निचखान निखातवान्। निष्कण्टकराज्यमाप्तस्यायं महानभिभव इति भावः ॥"
+    }
+  ]
+}

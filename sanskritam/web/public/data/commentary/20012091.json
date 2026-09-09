@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012091,
+    "chapter_id": 6688,
+    "verse_number": "16.98",
+    "content_sanskrit": "प्रियेण पत्या बलकेशवाभ्यामनूपमाभिश्च सखीभिराभिः । आच्छिद्यमानास्मदपायबाष्पा गृहानिदानीं गृहपत्नि गच्छ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012091,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गृहस्य पत्नी गृहपत्नी । पत्युर्नो यज्ञसंयोगे (पा.४|१|३३) इति ङीप्नकारौ । गृहपत्नी यथाऽस्याः तथा गच्छेत्यर्थः ॥"
+    }
+  ]
+}

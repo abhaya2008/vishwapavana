@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004077,
+    "chapter_id": 6601,
+    "verse_number": "6.27",
+    "content_sanskrit": "सोऽहं तृष्णातुरैर्वृष्टिं विद्युत्वानिव चातकैः । अरिविप्रकृतैर्देवैः प्रसूतिं प्रति याचितः ॥",
+    "padaccheda": "सः । अहम् । तृष्णातुरैः । वृष्टिम् । विद्युत्वान् । इव । चातकैः । अरिविप्रकृतैः । देवैः । प्रसूतिम् । प्रति । याचितः",
+    "anvaya": "सः अहम् अरि-विप्रकृतैः देवैः, तृष्णा-आतुरैः चातकैः विद्युत्वान् वृष्टिम् इव, प्रसूतिम् प्रति याचितः (अस्मि) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "I, that very person, have been requested for an offspring by the gods who are harassed by their enemies, just as a cloud is beseeched for rain by Chataka birds afflicted with thirst.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004077,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सोऽहमिति । स परार्थवृत्तिरहं तृष्णातुरैश्चातकैर्वृष्टिं विद्युत्वान्मेघ इवारिविप्रकृतैः शत्रुपीडितैर्देवैः प्रसूतिं पुत्रोत्पादनं प्रति याचितः । याचतेर्दुहादित्वादप्रधाने कर्मणि क्तः"
+    }
+  ]
+}

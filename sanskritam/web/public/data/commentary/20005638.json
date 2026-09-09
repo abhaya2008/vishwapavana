@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005638,
+    "chapter_id": 6627,
+    "verse_number": "15.13",
+    "content_sanskrit": "मन्दमस्यन्निषुलतां घृणया मुनिरेष वः । प्रणुदत्यागतावज्ञं जघनेषु पशूनिव ॥",
+    "padaccheda": "मन्दम् । अस्यन् । इषु-लताम् । घृणया । मुनिः । एषः । वः । प्रणुदति । आगत-अवज्ञम् । जघनेषु । पशून् । इव",
+    "anvaya": "एषः मुनिः घृणया इषु-लताम् मन्दम् अस्यन्, आगत-अवज्ञम् वः जघनेषु पशून् इव प्रणुदति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"This sage (I), out of pity, shooting his creeper-like arrows gently, is driving you away by striking you on your backsides, as one drives away cattle, because you have shown contempt by fleeing.\"",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005638,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मन्दामिति ॥ एष मुनिर्घृणया कृपयेषुम् लतां शाखामिव मन्दमस्यन्क्षिपन्यो युष्मान्प' शूनिवागतावज्ञं यथा तथा जघनेषु प्रणुदति चोदयति । किमतः परं कष्टमस्तीति भावः।। न नोननुन्नो नुन्नोनो नाना नानानना ननु । नुन्नोऽनुन्नो ननुन्नेनो नानेना नुन्ननुन्ननुत्"
+    }
+  ]
+}

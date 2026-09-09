@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011488,
+    "chapter_id": 6683,
+    "verse_number": "11.65",
+    "content_sanskrit": "सत्त्वयैकोऽप्यनेकस्त्वं 'तत्त्वावस्थाभिरच्युत । हेम हेमतयाऽप्येकमनेकं कटकादिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011488,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तत्वावस्थाभिः । प्रकृत्यादितत्वैरवस्थाभिः । अच्युत ! । स्वरूपादपरिभ्रष्ट ! हेमेत्यादिभिः प्रतिवस्तूपमा ॥"
+    }
+  ]
+}

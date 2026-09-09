@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002650,
+    "chapter_id": 6583,
+    "verse_number": "7.11",
+    "content_sanskrit": "तासां मुखैरासवगन्धगर्भैर्व्याप्तान्तराः सान्द्रकुतूहलानाम् । विलोलनेत्रभ्रमरैर्गवाक्षाः सहस्रपत्राभरणा इवासन् ॥",
+    "padaccheda": "तासाम् । मुखैः । आसवगन्धगर्भैः । व्याप्तान्तराः । सान्द्रकुतूहलानाम् । विलोलनेत्रभ्रमरैः । गवाक्षाः । सहस्रपत्राभरणाः । इव । आसन्",
+    "anvaya": "सान्द्रकुतूहलानाम् तासाम् आसवगन्धगर्भैः विलोलनेत्रभ्रमरैः मुखैः व्याप्त-अन्तराः गवाक्षाः सहस्रपत्र-आभरणाः इव आसन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The windows, whose interiors were filled by the faces of the intensely curious women—faces fragrant with liquor and having flickering eyes like bees—appeared as if they were adorned with lotuses.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002650,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तासामिति॥ तदानीं सान्द्रकुतूहलानां तासां स्त्रीणामासवगन्धो गर्भे येषां तैः। विलोलानि नेत्राण्येव भ्रमरा येषां तैः। मुखैर्व्याप्तान्तराश्छन्नावकाशा गवाक्षाः सहस्रपत्राभरणा इव कमलालंकृता इव। `सहस्रपत्रं कललम्` इत्यमरः। आसन् ॥"
+    }
+  ]
+}

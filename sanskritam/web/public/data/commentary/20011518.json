@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011518,
+    "chapter_id": 6683,
+    "verse_number": "11.95",
+    "content_sanskrit": "महातमालयुग्माभां धित्सतेऽस्य भुजद्वयम् । रागं युवतिवृन्देभ्यो रोमराजिश्च दित्सते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011518,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "धित्सते दित्सते इति 'दाधाघ्वदाप्' (पा.१|१|२०) इति घुत्वादिसभावः ॥"
+    }
+  ]
+}

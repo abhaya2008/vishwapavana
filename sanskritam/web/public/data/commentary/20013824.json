@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013824,
+    "chapter_id": 6704,
+    "verse_number": "12.60",
+    "content_sanskrit": "पुराभवाभ्यासवशेन सर्वं स वेत्ति सम्यङ्न च वक्ति किंचित् । नो चेत्कथं स्वानुभवैकगर्भ- पद्यानि भाषेत निरक्षरास्यः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013824,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "नन्वेवं भूतेन तवापि किं प्रयोजनमित्याशङ्क्याऽऽह । पुराभवस्य पूर्वजन्मनोऽभ्यासस्य वशेन स तव पुत्रः सर्वं जानाति ॥ ६० ॥"
+    }
+  ]
+}

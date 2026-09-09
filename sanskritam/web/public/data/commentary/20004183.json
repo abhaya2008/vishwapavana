@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004183,
+    "chapter_id": 6602,
+    "verse_number": "7.38",
+    "content_sanskrit": "तं मातरो देवमनुव्रजन्त्यः स्ववाहनक्षोभचलावतंसाः । मुखैः प्रभामण्डलरेणुगौरैः पद्माकरं चक्रुरिवान्तरीक्षम् ॥",
+    "padaccheda": "तम् । मातरः । देवम् । अनुव्रजन्त्यः । स्व-वाहन-क्षोभ-चल-अवतंसाः । मुखैः । प्रभा-मण्डल-रेणु-गौरैः । पद्म-आकरम् । चक्रुः । इव । अन्तरीक्षम्",
+    "anvaya": "स्व-वाहन-क्षोभ-चल-अवतंसाः मातरः तम् देवम् अनुव्रजन्त्यः, प्रभा-मण्डल-रेणु-गौरैः मुखैः अन्तरीक्षम् पद्म-आकरम् इव चक्रुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Following the god Shiva, the divine Mothers, whose ear-ornaments trembled with the movement of their celestial vehicles, made the sky appear like a lake of lotuses with their faces, which were radiant like the pollen from their halos.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004183,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति । तं देवमनुव्रजन्त्योऽनुगच्छन्त्थः स्ववाहनानां क्षोभेण प्रकम्पेण चलावतंसाश्चलकुण्डला मातरः सप्तमातृकाः प्रभामण्डलान्येण रेणवः परागास्तैर्गौरैररुणैः । `गौरोऽरुणे सिते पीते` इति यादवः । मुखैरन्तरिक्षमाकाशं पद्माकरमिव चक्रुः"
+    }
+  ]
+}

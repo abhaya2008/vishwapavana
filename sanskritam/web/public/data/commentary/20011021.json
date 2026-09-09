@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011021,
+    "chapter_id": 6679,
+    "verse_number": "7.31",
+    "content_sanskrit": "शरीरिणमशेषाणां चित्तादिभिरनुग्रहः । सदा महाकुलीनेस्ति दौष्कुलेये विपर्ययः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011021,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "महाकुलीन इत्यन्यतरस्यांग्रहणानुवृत्तेः खः । दौष्कुलेय इति 'दुष्कुलाड्ढक्' (पा.४|१|१४२) ॥"
+    }
+  ]
+}

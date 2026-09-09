@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002657,
+    "chapter_id": 6583,
+    "verse_number": "7.18",
+    "content_sanskrit": "महार्हसिंहासनसंस्थितोऽसौ सरत्नमर्ध्यं मधुपर्कमिश्रम् । भोजोपनीतं च तुकूलयुग्मं जग्राह सार्धं वनिताकटाक्षैः ॥",
+    "padaccheda": "महार्हसिंहासनसंस्थितः । असौ । सरत्नम् । अर्घ्यम् । मधुपर्कमिश्रम् । भोजोपनीतम् । च । तुकूलयुग्मम् । जग्राह । सार्धम् । वनिताकटाक्षैः",
+    "anvaya": "महार्ह-सिंहासन-संस्थितः असौ भोज-उपनीतम् स-रत्नम् मधुपर्क-मिश्रम् अर्घ्यम् च तुकूल-युग्मम् वनिता-कटाक्षैः सार्धम् जग्राह ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Seated on a costly throne, he (Aja) accepted the respectful offering mixed with madhuparka and jewels, and a pair of silk garments brought by King Bhoja, along with the sidelong glances of the women.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002657,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "महार्हेति॥ महार्हसिंहासने संस्थितोऽसावजः। भोजेनोपनीतम्। रत्नैः सहितं सरत्नम्। मधुपर्कमिश्रमर्ध्यं पूजासाधनद्रव्यं दुकूलयोः क्षौमयोर्युग्मं च वनिताकटाक्षैरन्यस्त्रीणामपाङ्गदर्शनैः सार्धम्। जग्राह गृहीतवान् ॥"
+    }
+  ]
+}

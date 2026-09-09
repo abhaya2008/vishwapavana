@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011684,
+    "chapter_id": 6685,
+    "verse_number": "13.20",
+    "content_sanskrit": "मनसाऽपीयत प्राज्यं प्रियरूपमहौषधम् । मारेण दह्यमानाऽपि प्रालीयत न तेन सा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011684,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपीयताऽपिबत् । पीङ् पाने दिवादिः । प्रालीयेतेति । लीङ् श्लेषणे । दिवादिः । प्रपूर्वो नाशवृत्तिः ॥"
+    }
+  ]
+}

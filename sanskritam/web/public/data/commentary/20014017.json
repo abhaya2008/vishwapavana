@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014017,
+    "chapter_id": 6706,
+    "verse_number": "14.88",
+    "content_sanskrit": "अज्ञातगोत्रा विदितात्मतत्त्वा लोकस्य दृष्टया जडवद्विभान्तः । चरन्ति भूतान्यनुकम्पमानाः सन्तो यहच्छोपनतोपभोग्याः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014017,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "यदृच्छयोपनतं समीपे प्राप्तं भोग्यं येभ्यस्ते ॥ ८८ ॥"
+    }
+  ]
+}

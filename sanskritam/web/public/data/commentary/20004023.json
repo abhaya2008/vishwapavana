@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004023,
+    "chapter_id": 6600,
+    "verse_number": "5.59",
+    "content_sanskrit": "यदा च तस्याधिगमे जगत्पतेरपश्यदन्यं न विधिं विचिन्वती । तदा सहास्माभिरनुज्ञया गुरोरियं प्रपन्ना तपसे तपोवनम् ॥",
+    "padaccheda": "यदा । च । तस्य । अधिगमे । जगत्पतेः । अपश्यत् । अन्यम् । न । विधिम् । विचिन्वती । तदा । सह । अस्माभिः । अनुज्ञया । गुरोः । इयम् । प्रपन्ना । तपसे । तपोवनम्",
+    "anvaya": "यदा च विचिन्वती जगत्-पतेः तस्य अधिगमे अन्यम् विधिम् न अपश्यत्, तदा इयम् गुरोः अनुज्ञया अस्माभिः सह तपसे तपोवनम् प्रपन्ना ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And when, while searching, she saw no other means for the attainment of that Lord of the Universe, then, with her father's permission, she, along with us, resorted to the penance-grove for performing austerities.",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004023,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यदेति । जगत्पतेस्तस्येश्वरस्याधिगमे प्राप्तावन्यं विधिमुपायं विचिन्वती मृगयमाणा यदा नापश्यत्तदेयं पार्वती गुरोः पितुरनुज्ञयास्माभिः सह तपसे तपश्चरितुं तपोवनं प्रपन्ना प्राप्ता"
+    }
+  ]
+}

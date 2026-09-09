@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004573,
+    "chapter_id": 6608,
+    "verse_number": "13.20",
+    "content_sanskrit": "तं साधु साध्वित्यभितः प्रशस्य मुदा कुमारं त्रिपुरासुरारेः । आनन्दयन्वीर ! जयेति वाचा गन्धर्वविद्याधरसिद्धसङ्घाः ॥",
+    "padaccheda": "तम् । साधु । साधु । इति । अभितः । प्रशस्य । मुदा । कुमारम् । त्रिपुरासुरारेः । आनन्दयन् । वीर । जय । इति । वाचा । गन्धर्वविद्याधरसिद्धसङ्घाः",
+    "anvaya": "गन्धर्वविद्याधरसिद्धसङ्घाः मुदा कुमारम् अभितः साधु साधु इति प्रशस्य वीर जय इति वाचा त्रिपुरासुरारेः आनन्दयन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "The multitudes of Gandharvas, Vidyādharas, and Siddhas praised Kumāra from all sides with joyful cries of \"Well done! Well done!\" They gladdened the son of Śiva by hailing him with the words, \"O Hero, be victorious!\", as they celebrated his courage.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004573,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति । गन्धर्वा देवगायकाः, विद्याधराः, सिद्धाश्च देवविशेषाः, एषां सङ्घाः समुदायाः कर्तारः तं त्रिपुरासुरस्यारेः शिवस्य कुमारं पुत्रं मुदा प्रीत्या निमित्तेन साधुसाध्विवत्यभितः संमुखत्वेन प्रशस्य स्तुत्वा `हे वीर, त्वं जय शत्रोः सकाशाज्जयं प्राप्नुहि' इत्येवंभूतया वाचानन्दयन्नानन्दिमकुर्वन्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005778,
+    "chapter_id": 6629,
+    "verse_number": "17.36",
+    "content_sanskrit": "रिक्ते सविस्रम्भमथ्+अर्जुनस्य निषङ्गवक्त्रे निपतात पाणिः । अन्यद्विपापीतजले सतर्षं मतङ्गजस्येव नगाश्मरन्ध्रे ॥",
+    "padaccheda": "रिक्ते । सविस्रम्भम् । अथ । अर्जुनस्य । निषङ्गवक्त्रे । निपपात । पाणिः । अन्यद्विपापीतजले । सतर्षम् । मतङ्गजस्य । इव । नगाश्मरन्ध्रे",
+    "anvaya": "अथ अर्जुनस्य पाणिः रिक्ते निषङ्गवक्त्रे सविस्रम्भम् निपपात, सतर्षम् (पाणिः) अन्यद्विपापीतजले नगाश्मरन्ध्रे मतङ्गजस्य (पाणिः) इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, Arjuna's hand confidently reached for the mouth of his quiver, only to find it empty. It was like a thirsty elephant's trunk reaching into a mountain rock cavity where the water had already been drunk by another elephant.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005778,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "रिक्त इति ॥अथ बाणान्तर्धानानन्तरमर्जुनस्य पाणिः करो रिक्ते बाणशुन्ये निषङ्गचक्रे तूणीरमुखेऽन्यद्विपेन गजान्तरेणापीतजले पीततोये नगस्याचलस्याश्मरन्ध्रे शिलागर्ते। प्रदर इत्यर्थः । सतर्षं सतृष्णं यथा स्यात्तथा मतङ्गजस्य पाणिर्लक्षणयां कर इव सविस्त्रम्भं सन्त्येव बाणा इति सविश्वासं निपपात ॥"
+    }
+  ]
+}

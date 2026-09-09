@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011032,
+    "chapter_id": 6679,
+    "verse_number": "7.42",
+    "content_sanskrit": "पैतृष्वसेयमप्यब्जनयनो दमघोषजम् । हन्ता विदधतं क्रोधादपराधान् परश्शतान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011032,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हन्तेत्यनद्यतने लुट् (पा.३|३|१५) । परश्शतान् शतात् परान् । मयूरव्यंसकादित्वात्समासः (पा.२|१|७२) । पारस्करादित्वात् (पा.६|१|१५७) सुट् । श्रुत्वम् ॥"
+    }
+  ]
+}

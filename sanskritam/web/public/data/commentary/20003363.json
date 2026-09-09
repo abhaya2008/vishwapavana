@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003363,
+    "chapter_id": 6591,
+    "verse_number": "15.27",
+    "content_sanskrit": "तस्य संस्तूयमानस्य चरितार्थैस्तपस्विभिः । शुशुभे विक्रमोदग्नं व्रीडयावनतं शिरः ॥",
+    "padaccheda": "तस्य । संस्तूयमानस्य । चरितार्थैः । तपस्विभिः । शुशुभे । विक्रमोदग्नं । व्रीडया । अवनतं । शिरः",
+    "anvaya": "चरित-अर्थैः तपस्विभिः संस्तूयमानस्य तस्य विक्रम-उदग्नम् व्रीडया अवनतम् शिरः शुशुभे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As he was being praised by the ascetics whose purpose was now fulfilled, his head—held high with valor yet bowed down with modesty—shone with beauty.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003363,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ चरितार्थैः कृतार्थैः कृतकार्यैस्तपस्विभिः संस्तूयमानस्य तस्य शत्रुघ्नस्य विक्रमेणोदग्रमुन्नतं व्रीडया लज्जयावनतं नम्रं शिरः शुशुभे। विक्रान्तस्य लज्जैव भूषणमिति भावः ॥"
+    }
+  ]
+}

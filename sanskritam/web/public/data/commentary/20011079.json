@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011079,
+    "chapter_id": 6679,
+    "verse_number": "7.89",
+    "content_sanskrit": "पौरस्त्याद्दाक्षिणात्याच्च पाश्चात्याच्च पयोनिधेः । उदीच्याच्चाहृतै रत्नैराढ्या यत्राभवन्विशः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011079,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पौरस्त्यादिषु 'दक्षिणापश्चात्पुरसस्त्यक्' (पा.४|२|९८) शैषिकः ॥"
+    }
+  ]
+}

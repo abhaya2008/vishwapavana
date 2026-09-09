@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011163,
+    "chapter_id": 6680,
+    "verse_number": "8.49",
+    "content_sanskrit": "कच्चन स्वापतेयं ते वासतेयं वसूपम । पाथेयञ्चातिथेयस्य प्रस्थाने यमसद्मनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011163,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्वापतेयादिषु 'पथ्यतिथिवसतिस्वपतेर्ढञ्' (पा.४|४|१०४) इति तत्र साधौ ढञ् । स्वपतौ धनपतौ साधु इति कृत्वा स्वापतेयं धनम् । वसतौ गृहे साधु वासतेयम् ॥"
+    }
+  ]
+}

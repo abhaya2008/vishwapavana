@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010338,
+    "chapter_id": 6673,
+    "verse_number": "1.14",
+    "content_sanskrit": "अगृह्यमाणं पुरुषैर्बुद्धैर्बुद्धैरसूयाकलुषीकृतैश्च । मनीषिणो मत्सरमुक्तचित्ता नन्वेषते काव्यमिदं मदीयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010338,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "एतत् स्पष्टार्थम् ॥ एवं सहृदयानावर्ज्येदानीं काव्यमारभते—'बभूवे'ति ।"
+    }
+  ]
+}

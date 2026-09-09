@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011878,
+    "chapter_id": 6686,
+    "verse_number": "14.102",
+    "content_sanskrit": "जयन्तेन कुमारेण सहाऽभ्रमुशिरोगता । देवीवृता शचीदेवी दीव्यन्त्यनुदिदेव तम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011878,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अभ्रमुरैरावतवल्लभा । दीव्यन्ती क्रीडन्ती । अनुदिदेव । अनुजगाम ।"
+    }
+  ]
+}

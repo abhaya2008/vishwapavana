@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004745,
+    "chapter_id": 6611,
+    "verse_number": "16.37",
+    "content_sanskrit": "धन्विनस्तुरगारुढा गजारोहाञ्शरैः क्षतान् । प्रत्यैच्छन्मूर्च्छितान्भूयो योद्धुमाश्वसतश्चिरम् ॥",
+    "padaccheda": "धन्विनः । तुरगारुढाः । गजारोहान् । शरैः । क्षतान् । प्रत्यैच्छन् । मूर्च्छितान् । भूयो । योद्धुम् । आश्वसतः । चिरम्",
+    "anvaya": "तुरगा-रुढाः धन्विनः शरैः क्षतान् मूर्च्छितान् आश्वसतः च गजा-रोहान् चिरम् भूयो योद्धुम् प्रत्यैच्छन् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Archers mounted on horses waited a long time for fainted elephant-riders, whom they had wounded with arrows, to regain consciousness so they could fight them again.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004745,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "धन्विन इति । तुरगारुढा धन्विनो धनुर्धारिणो योधाः शरैः क्षतान् । अत एवन मूर्च्छितान्गजारोहान्यन्तृन्भूयोऽपि पुनरपि योद्धुमाश्वसतो जीवत एतादृशांश्चिरं प्रत्यैच्छन् । प्रतीक्षन्ते स्मेत्यर्थः"
+    }
+  ]
+}

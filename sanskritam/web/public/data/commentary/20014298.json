@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014298,
+    "chapter_id": 6708,
+    "verse_number": "16.18",
+    "content_sanskrit": "निगदिते मुनिनेति भिषग्वरा विदधिरे बहुधा गदसत्क्रियाः । न च शशाम गदो बहुतापदो विमनसः पटवो भिषजोऽभवन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014298,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "इत्येवं मुनिना कथिते सति वैद्यवरा रोगस्य सत्क्रिया बहुधा विदधिरे ॥ २० ॥ ॥ २० ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014298,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "पटवश्चतुरा अपीत्यर्थः"
+    }
+  ]
+}

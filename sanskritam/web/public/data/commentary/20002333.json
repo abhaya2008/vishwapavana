@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002333,
+    "chapter_id": 6579,
+    "verse_number": "3.14",
+    "content_sanskrit": "दिशः प्रसेदुर्मरुतो ववुः सुखाः प्रदक्षिणार्चिर्हविरग्निराददे । बभूव सर्वं शुभशंसि तत्क्षणं भवो हि लोकाभ्युदयाय तादृशाम् ॥",
+    "padaccheda": "दिशः । प्रसेदुः । मरुतः । ववुः । सुखाः । प्रदक्षिणार्चिः । हविः । अग्निः । आददे । तत्क्षणं । सर्वं । शुभशंसि । बभूव । हि । तादृशाम् । भवः । लोकाभ्युदयाय",
+    "anvaya": "दिशः प्रसेदुः । सुखाः मरुतः ववुः । अग्निः प्रदक्षिण-अर्चिः (सन्) हविः आददे । तत्-क्षणं सर्वं शुभ-शंसि बभूव । हि तादृशां भवः लोक-अभ्युदयाय (भवति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The directions became clear, pleasant winds blew, and the sacrificial fire, with its flame turning clockwise, accepted the oblation. At that moment, everything became auspicious. Indeed, the birth of such great souls is for the prosperity of the world.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002333,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दिश इति॥ तत्क्षणं तस्मिन्क्षणे। `कालाध्वनोरत्यन्तसंयोगे द्वितीया` (पा.2।3।5)दिशः प्रसेदुः प्रसन्ना बभूवुः। मरुतो वाताः सुखा मनोहरा ववुः। अग्निः प्रदक्षिणार्चिः सन् हविराददे स्वीचकार । इत्थँ सर्वं शुभशंसि शुभसूचकं बभूव। तथा हि-तादृशां रघुप्रकाराणां भवो जन्म लोकाभ्युदयाय। भवतीति शेषः। ततो देवा अपि संतुष्टा इत्यर्थः॥"
+    }
+  ]
+}

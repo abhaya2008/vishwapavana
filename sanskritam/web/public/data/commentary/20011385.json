@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011385,
+    "chapter_id": 6682,
+    "verse_number": "10.29",
+    "content_sanskrit": "ज्ञात्वा समाधिना सम्यगभ्यर्च्यार्ध्यादिभिश्च तम् । महामुनिरुवाचेत्थं प्रह्वमादृतविष्टरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011385,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "महामुनिरित्यादिषु 'सन्महत्परमोत्तमोत्कृष्टाः पूज्यमानैः' (पा.२|१|६१) इत्यनेन समासः ॥"
+    }
+  ]
+}

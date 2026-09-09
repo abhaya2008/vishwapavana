@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003902,
+    "chapter_id": 6598,
+    "verse_number": "3.60",
+    "content_sanskrit": "तस्मै शशंस प्रणिपत्य नन्दी शुश्रूषया शैलसुतामुपेताम् । प्रवेशयामास च भर्तुरेनां भ्रूक्षेपमात्रानुमतप्रवेशाम् ॥",
+    "padaccheda": "तस्मै । शशंस । प्रणिपत्य । नन्दी । शुश्रूषया । शैलसुताम् । उपेताम् । प्रवेशयामास । च । भर्तुः । एनाम् । भ्रूक्षेपमात्रानुमतप्रवेशाम्",
+    "anvaya": "नन्दी प्रणिपत्य शुश्रूषया उपेताम् शैल-सुताम् तस्मै शशंस । च भ्रू-क्षेप-मात्र-अनुमत-प्रवेशाम् एनाम् भर्तुः (सकाशम्) प्रवेशयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having bowed, Nandi announced to him (Shiva) the arrival of the mountain's daughter, who had come with a desire to serve. And he ushered her, whose entry was permitted by a mere movement of her master's brow, into his presence.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003902,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मा इति । अथ नन्दी तस्मै भगवते । क्रियाग्रहणाच्चतुर्थी । प्रणिपत्य नमस्कृत्य शुश्रूषया सेवया निमित्तेनोपेताम् । सेवार्थमागतामित्यर्थः । शैलसुतां शशंस निवेदयामास । भर्तुः स्वामिनो भ्रूक्षेपमात्रेण भ्रूसंज्ञयैवानुमतप्रवेशामङ्गीकृतप्रवेशामेनां शैलसुतां प्रवेशायामास च"
+    }
+  ]
+}

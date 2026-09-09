@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010697,
+    "chapter_id": 6676,
+    "verse_number": "4.43",
+    "content_sanskrit": "तत्सम्पर्की भवास्माभिस्संसर्गी विषयैस्सुखी । मादोषि द्रोहि सत्वेषु परिसारी वनेषु भूः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010697,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मा दोषि । 'न माङ्योगे' (पा.६|४|७४) इत्यडागमनिषेधः ॥"
+    }
+  ]
+}

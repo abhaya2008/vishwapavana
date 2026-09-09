@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011897,
+    "chapter_id": 6686,
+    "verse_number": "14.121",
+    "content_sanskrit": "कुर्वन्तोऽन्योन्यकार्याणि प्रपद्यान्योन्यतामिव । स्निग्धास्सभाजयामासुरन्योन्यं देवयादवाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011897,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अन्योन्यतां प्रपद्येति । अतितात्पर्येणेत्यर्थः । सभाज प्रीतिसेवनयोः । चुरादिः ।"
+    }
+  ]
+}

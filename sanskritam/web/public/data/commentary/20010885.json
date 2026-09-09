@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010885,
+    "chapter_id": 6678,
+    "verse_number": "6.6",
+    "content_sanskrit": "कठिनाद्रिशिलापृष्ठलुठनादिव निर्मलाम् । लघुमप्यलघूल्लोलदलिताद्रितटद्रुमाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010885,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गिरिराजेत्यादिरुत्प्रेक्षा । लघुमपीति विरोधालंकारः ॥"
+    }
+  ]
+}

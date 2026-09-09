@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004318,
+    "chapter_id": 6603,
+    "verse_number": "8.78",
+    "content_sanskrit": "पार्वती तदुपयोगसम्भवां विक्रियामपि सतां मनोहराम् । अप्रतर्क्यविधियोगनिर्मितामाम्रतेव सहकारतां ययौ ॥",
+    "padaccheda": "पार्वती । तदुपयोगसम्भवाम् । विक्रियाम् । अपि । सताम् । मनोहराम् । अप्रतर्क्यविधियोगनिर्मिताम् । आम्रता । इव । सहकारताम् । ययौ",
+    "anvaya": "पार्वती तत्-उपयोग-सम्भवाम्, सताम् मनोहराम् अपि, अप्रतर्क्य-विधियोग-निर्मिताम् विक्रियाम्, आम्रता सहकारताम् इव, ययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Parvati underwent a transformation from consuming the drink. This change, though charming even in noble people, was like a mango tree attaining its special fragrant 'Sahakara' state, a transformation created by an inconceivable act of fate.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004318,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पार्वतीति । पार्वती = कर्त्री । तदुपयोगसंभवां मद्यपानजन्यां विक्रियामपि सतां मनोहराम् आम्रताम्रत्वमप्रतर्क्यो दुर्ज्ञेयो यो विधियोगोऽनुष्ठानयोगस्तेन निर्मितां सहकारतामतिसौरभत्वमिव ययौ = प्रापेत्यर्थः । `आम्रश्चूतो रसालोसौ सहकारोऽतिसौरभः` इत्यमरः । आम्रमेवाऽनुष्ठानविशेषेण यथा सहकारो भवति तद्वद्विक्रियाऽपि मनोहराऽभूदिति भावः"
+    }
+  ]
+}

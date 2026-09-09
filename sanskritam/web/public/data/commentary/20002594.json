@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002594,
+    "chapter_id": 6582,
+    "verse_number": "6.41",
+    "content_sanskrit": "तस्यान्वये भूपतिरेष जातः प्रतीप इत्यागमवृद्धसेवी । येन श्रियः संश्रयदोषरूढं स्वभावलोलेत्ययशः प्रमृष्टम् ॥",
+    "padaccheda": "तस्य । अन्वये । भूपतिः । एषः । जातः । प्रतीपः । इति । आगमवृद्धसेवी । येन । श्रियः । संश्रयदोषरूढम् । स्वभावलोला । इति । अयशः । प्रमृष्टम्",
+    "anvaya": "तस्य अन्वये आगमवृद्धसेवी प्रतीपः इति एषः भूपतिः जातः, येन श्रियः 'स्वभावलोला' इति संश्रयदोषरूढम् अयशः प्रमृष्टम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In his (Kartavirya's) lineage was born this king named Pratipa, a servant of scriptures and elders. By him, the infamy of the Goddess of Fortune—that she is fickle by nature, a reputation arising from the flaws of those she associates with—was wiped away.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002594,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ आगमवृद्धसेवी श्रुतवृद्धसेवी प्रतीप इति। ख्यात इति शेषः। एष भूपतिस्तस्य कार्तवीर्यस्यान्वये वंशे जातः। येन प्रतीपेन संश्रयस्याश्रयस्य पुंसो दोषैर्व्यसनादिभी रूढमुत्पन्नं श्रियः संबन्धि स्वभावलोला प्रकृतिचञ्चलेत्येवंरूपमयशो दुष्कीर्तिः प्रमृष्टं निरस्तम्। दुष्टाश्रयत्यागशीलायाः श्रियः प्रकृतिचापलप्रवादो मूढजनपरिकल्पित इत्यर्थः। अयं तु दोषराहित्यान्न कदाचिदपि श्रिया त्यज्यत इति भावः ॥"
+    }
+  ]
+}

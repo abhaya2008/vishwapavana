@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011292,
+    "chapter_id": 6681,
+    "verse_number": "9.44",
+    "content_sanskrit": "भ्रूचापमुक्तान्निशितानिवेषूनुत्कम्पयन्तौ सकलाङ्गलक्षम् । वधूवरौ पुष्पशरप्रयुक्तौ परस्परं प्राहिणुतामपाङ्गान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011292,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परस्परं प्राहिणुतामिति । हिनोतिर्द्विकर्मकः ॥"
+    }
+  ]
+}

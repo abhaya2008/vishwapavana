@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011147,
+    "chapter_id": 6680,
+    "verse_number": "8.33",
+    "content_sanskrit": "चित्रवाहनमित्युक्तस्सस्नेहं सितवाहनः । स्फुटाभ्यां नेत्रपद्माभ्यां त्रिवर्णाभ्यामभाषत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011147,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नेत्रपद्माभ्यामिति इत्थंभूते तृतीया ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010802,
+    "chapter_id": 6677,
+    "verse_number": "5.42",
+    "content_sanskrit": "संपूर्णमप्सरस्त्रैणैः स्तनकुंभभरालसैः । शंखभेरीनिनादाढ्यमृदङ्गनिनदाकुलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010802,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'निनादनिनदयो'र्नौगदादिना (पा.३|३|६४) घञपौ ॥"
+    }
+  ]
+}

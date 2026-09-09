@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003679,
+    "chapter_id": 6595,
+    "verse_number": "19.18",
+    "content_sanskrit": "तेन दूतिविदितं निषेदुषा पृष्ठतः सुरतवाररात्रिषु । शुश्रुवे प्रियजनस्य कातरं विप्रलम्भपरिशङ्किनो वचः ॥",
+    "padaccheda": "तेन । दूतिविदितम् । निषेदुषा । पृष्ठतः । सुरतवाररात्रिषु । शुश्रुवे । प्रियजनस्य । कातरम् । विप्रलम्भपरिशङ्किनः । वचः",
+    "anvaya": "सुरत-वार-रात्रिषु दूति-विदितम् पृष्ठतः निषेदुषा तेन विप्रलम्भ-परिशङ्किनः प्रिय-जनस्य कातरम् वचः शुश्रुवे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On the nights appointed for love, having sat behind his beloved (unseen by her, but with the knowledge of her messenger), he heard the anxious words of his beloved, who was fearful of being deceived or separated from him.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003679,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तेनेति॥ सुरतस्य वारो वासरः, तस्य रात्रिषु दूतीनां विदितं यथा तथआ पृष्ठतः प्रियजनस्य पश्चाद्भागे निषेदुषा तेनाग्निवर्णेन विप्रलम्भपरिशङ्किनो विरहशङ्किनः। प्रियश्चासौ जनश्च प्रियजनः। तस्य कातरं वचः `प्रियानयनेन मां पाहि` इत्येवमादि दीनवचनं शुश्रुवे ॥"
+    }
+  ]
+}

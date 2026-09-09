@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004739,
+    "chapter_id": 6611,
+    "verse_number": "16.31",
+    "content_sanskrit": "मिलितेषु मिथो योद्धुं दन्तिषु प्रसभं भटाः । अगृह्णन्युद्ध्यमानाश्च शस्त्रैः प्राणान्परस्परम् ॥",
+    "padaccheda": "मिलितेषु । मिथो । योद्धुम् । दन्तिषु । प्रसभम् । भटाः । अगृह्णन् । युद्ध्यमानाः । च । शस्त्रैः । प्राणान् । परस्परम्",
+    "anvaya": "मिथो योद्धुम् मिलितेषु दन्तिषु भटाः प्रसभम् युद्ध्यमानाः च शस्त्रैः परस्परम् प्राणान् अगृह्णन् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "As elephants clashed to fight one another, the warriors, fighting with great force, used their weapons to take each other's lives.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004739,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मिलितेष्विति । योद्धुं मिलितेषु दन्तिषु । आरुढा इति शेषः । भटा मिथोऽन्योन्यं युद्ध्यमानाः प्रसभं बलाच्छस्त्रैः कृत्वा परस्परं प्राणानगृह्णान्"
+    }
+  ]
+}

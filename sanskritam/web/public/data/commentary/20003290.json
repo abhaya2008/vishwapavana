@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003290,
+    "chapter_id": 6590,
+    "verse_number": "14.41",
+    "content_sanskrit": "रक्षोवधान्तो न च मे प्रयासो व्यर्थः स वैरप्रतिमोचनाय । अमर्षणः शोणितकाङ्क्षया किं पदा स्पृशन्तं दशति द्विजिह्वः ॥",
+    "padaccheda": "रक्षोवधान्तः । न । च । मे । प्रयासः । व्यर्थः । सः । वैरप्रतिमोचनाय । अमर्षणः । शोणितकाङ्क्षया । किम् । पदा । स्पृशन्तं । दशति । द्विजिह्वः",
+    "anvaya": "सः मे प्रयासः रक्षः-वध-अन्तः न (अस्ति), च वैर-प्रतिमोचनाय व्यर्थः न (अस्ति)। अमर्षणः द्विजिह्वः पदा स्पृशन्तम् शोणित-काङ्क्षया किम् दशति?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama justifies his harsh decision, saying his effort did not end with Ravana's death, nor is it futile for requiting enmity. He asks rhetorically if an angry snake bites someone stepping on it out of a desire for blood, implying it is an act of intolerance, not malice, similar to his own action against slander.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003290,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रक्ष इति॥ किंच, मे रक्षोवधान्तः प्रयासो व्यर्थो न। किंतु स वैरप्रतिमोचनाय वैरशोधनाय। तथा हि-अमर्षणोऽसहनो द्विजिह्वः सर्पः पदा पादेन स्पृशन्तं पुरुषं शोणितकाङ्क्षया दशति किम्? किंतु वैरनिर्यातनायेत्यर्थः ॥"
+    }
+  ]
+}

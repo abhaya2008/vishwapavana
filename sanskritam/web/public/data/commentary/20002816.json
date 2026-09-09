@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002816,
+    "chapter_id": 6585,
+    "verse_number": "9.11",
+    "content_sanskrit": "अवनिमेकरथेन वरूथिना जितवतः किल तस्य धनुर्भृतः । विजयदुन्दुभितां ययुरर्णवा घनरवा नरवाहनसंपदः ॥",
+    "padaccheda": "अवनिम् । एकरथेन । वरूथिना । जितवतः । किल । तस्य । धनुर्भृतः । विजयदुन्दुभिताम् । ययुः । अर्णवाः । घनरवाः । नरवाहनसंपदः",
+    "anvaya": "किल एकरथेन वरूथिना अवनिं जितवतः धनुर्भृतः तस्य (दशरथस्य), घनरवाः नरवाहनसंपदः अर्णवाः विजयदुन्दुभितां ययुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, for that bow-bearer (Dasharatha) who had conquered the earth with a single armored chariot, the oceans, roaring like thunderclouds and possessing riches like Kubera's, served as his victory drums.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002816,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अवनिमिति॥ वरूथिना गुप्तिमता। `वरूथो रथगुप्तिर्या तिरोधत्ते रथस्थितिम्` इति सज्जनः। एकरथेनाद्वितीयरथेन। अवनिं जितवतो धनुर्भृतो नरवाहनसंपदः कुबेरतुल्यश्रीकस्य तस्य दशरथस्य घनरवा मेघसमघोषा अर्णवा विजयदुन्दुभितां किल ययुः। अर्णवान्तविजयीत्यर्थः ॥"
+    }
+  ]
+}

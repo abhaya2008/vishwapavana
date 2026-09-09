@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010834,
+    "chapter_id": 6677,
+    "verse_number": "5.74",
+    "content_sanskrit": "वृकोदरादयो यूयं गुरोरिच्छां महीभृतः । कच्चित् सदानुवर्तध्वे सर्वे सौभ्रात्रकाम्यया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010834,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "इच्छामिति । ‘इच्छा’ (पा.३|३|१०१) इति निपातनात् छः । सौभ्रात्रकाम्यया इति काम्यजन्तः । ‘अ प्रत्ययात्’ (पा.३|३|१०२) इत्यकारः ।"
+    }
+  ]
+}

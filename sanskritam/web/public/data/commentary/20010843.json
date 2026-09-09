@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010843,
+    "chapter_id": 6677,
+    "verse_number": "5.83",
+    "content_sanskrit": "इच्छाम्यहं फलादीनां भोजिं पर्णे च शायिकाम् । पुण्यां कथाञ्च शुश्रूषे त्वयोक्तामृषिकुञ्जर ! ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010843,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तेनैवार्जुनस्याख्याने त एव प्रत्ययाः । शुश्रूषसे, शुश्रूषे इति 'ज्ञाश्रुस्मृदृशां सनः' (पा.१|३|५७) इत्यात्मनेपदम् ॥"
+    }
+  ]
+}

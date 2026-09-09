@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003149,
+    "chapter_id": 6588,
+    "verse_number": "12.83",
+    "content_sanskrit": "निर्ययावथ पौलस्त्यः पुनर्युद्धाय मन्दिरात् । अरावणमरामं वा जगदद्येति निश्चितः ॥",
+    "padaccheda": "निर्ययौ । अथ । पौलस्त्यः । पुनः । युद्धाय । मन्दिरात् । अरावणम् । अरामम् । वा । जगत् । अद्य । इति । निश्चितः",
+    "anvaya": "अथ पौलस्त्यः अद्य जगत् अरावणम् अरामं वा इति निश्चितः पुनर्युद्धाय मन्दिरात् निर्ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Ravana, determined that by the end of the day the world would be either without Ravana or without Rama, set out once more from his palace for the final battle.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003149,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निर्ययाविति॥ अथ पौलस्त्यो रावणः। अद्य जगदरावणं रावणशून्यमरामं रामशून्यं वा भवेत्। इति निश्चितो निश्चितवान्, कर्तरि क्तः। विजयमरणयोरन्यतरनिश्चयवान् पुनर्युद्धाय मन्दिरान्निर्ययौ निर्जगाम ॥"
+    }
+  ]
+}

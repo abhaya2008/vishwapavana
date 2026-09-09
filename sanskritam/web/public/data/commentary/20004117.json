@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004117,
+    "chapter_id": 6601,
+    "verse_number": "6.67",
+    "content_sanskrit": "स्थाने त्वां स्थावरात्मानं विष्णुमाहुस्तथा हि ते । चराचराणां भूतानां कुक्षिराधारतां गतः ॥",
+    "padaccheda": "स्थाने । त्वाम् । स्थावरात्मानम् । विष्णुम् । आहुः । तथा । हि । ते । चराचराणाम् । भूतानाम् । कुक्षिः । आधारताम् । गतः",
+    "anvaya": "स्थाने (विद्वांसः) स्थावरात्मानम् त्वाम् विष्णुम् आहुः। तथा हि ते कुक्षिः चराचराणाम् भूतानाम् आधारताम् गतः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It is appropriate that the wise call you, with your stationary form, an embodiment of Vishnu. For indeed, your vast interior has become the support for all beings, both moving and unmoving.",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004117,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्थान इति । त्वां स्थावरात्मानं स्थावररूपिणं विष्णुमाहुः `स्थावराणां हिमालयः` इति गीतावचनात् । स्थने युक्तम् । युक्तार्थेऽव्ययमेतत् । `युक्ते द्वे सांप्रतं स्थाने` इत्यमरः । तथाहि । ते तव कुक्षिश्चराचराणां जङ्गमस्थावररूपिणां भूतानां पृथिव्यादीनामाधारतां गतः । तवेव विष्णोः कुक्षिरेवंभूत इति भावः"
+    }
+  ]
+}

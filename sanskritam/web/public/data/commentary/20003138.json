@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003138,
+    "chapter_id": 6588,
+    "verse_number": "12.72",
+    "content_sanskrit": "रणः प्रववृते तत्र भीमः प्लवगरक्षसाम् । दिग्विजृम्भितकाकुत्स्थपौलस्त्यजयघोषणः ॥",
+    "padaccheda": "रणः । प्रववृते । तत्र । भीमः । प्लवगरक्षसाम् । दिग्विजृम्भितकाकुत्स्थपौलस्त्यजयघोषणः",
+    "anvaya": "तत्र दिग्विजृम्भितकाकुत्स्थपौलस्त्यजयघोषणः भीमः प्लवगरक्षसां रणः प्रववृते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A terrible battle then commenced there between the monkeys and the demons, filled with the shouts of victory for both Rama (the descendant of Kakutstha) and Ravana (the son of Pulastya) echoing through all directions.",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003138,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रण इति॥ तत्र लङ्कायां प्लवगानां रक्षसां च भीमो भयंकरो दिग्विजृम्भितं काकुत्स्थः-पौलस्त्ययो राम-रावणयोर्जयघोषणं जयशब्दो यस्मिन्स तथोक्तो रणः प्रववृते प्रवृत्तः। `अस्त्रियां समरानीकरणाः कलहनिग्रहौ` इत्यमरः ॥"
+    }
+  ]
+}

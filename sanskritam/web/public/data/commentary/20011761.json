@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011761,
+    "chapter_id": 6685,
+    "verse_number": "13.97",
+    "content_sanskrit": "रुक्मिणीसत्यभामाभ्यां स्वयं सम्पादितां ततः । भिक्षामश्वददात्तस्मै ससत्काररसोत्तराम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011761,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अददादिति । डु दाञ् दाने । जुहोत्यादिः । पूर्ववत् ॥"
+    }
+  ]
+}

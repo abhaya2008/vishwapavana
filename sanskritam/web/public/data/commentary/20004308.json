@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004308,
+    "chapter_id": 6603,
+    "verse_number": "8.68",
+    "content_sanskrit": "कल्पवृक्षशिखरेषु संप्रति प्रस्फुरद्भिरिव पश्य सुन्दरि । हारयष्टिगणनामिवांशुभिः कर्तुमागतकुतूहलः शशी ॥",
+    "padaccheda": "कल्पवृक्षशिखरेषु । संप्रति । प्रस्फुरद्भिः । इव । पश्य । सुन्दरि । हारयष्टिगणनाम् । इव । अंशुभिः । कर्तुम् । आगतकुतूहलः । शशी",
+    "anvaya": "सुन्दरि! पश्य, शशी संप्रति कल्पवृक्षशिखरेषु प्रस्फुरद्भिः अंशुभिः हारयष्टिगणनाम् कर्तुम् आगतकुतूहलः इव भाति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Look, beautiful one! The moon, with its rays now flickering on the tops of the Kalpa trees, seems to have become curious to count, as it were, the pearl necklaces hanging there.\"",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004308,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कल्पवृक्षेति । हे अविकल्पेनाविवादेन सुन्दरि अविवल्पसुन्दरि ! शशी संप्रति कल्पवृक्षाणां शिखरेष्वग्रेषु प्रस्फुरद्भिरंशुभिः । करस्थानीयैरिति भावः । हारयष्टिरशनां कल्पतरुलम्बिहारपरिगणनां कर्तुमुद्यतकुतूहल इवोत्पन्नकौतुकः किम् । इत्युत्प्रेक्षा"
+    }
+  ]
+}

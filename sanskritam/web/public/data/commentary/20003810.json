@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003810,
+    "chapter_id": 6597,
+    "verse_number": "2.32",
+    "content_sanskrit": "भवल्लब्धवरोदीर्णस्तारकाख्यो महासुरः । उपप्लवाय लोकानां धूमकेतुरिवोत्थितः ॥",
+    "padaccheda": "भवल्लब्धवरोदीर्णः । तारकाख्यः । महासुरः । उपप्लवाय । लोकानाम् । धूमकेतुः । इव । उत्थितः",
+    "anvaya": "भवत्-लब्ध-वर-उदीर्णः तारक-आख्यः महा-असुरः लोकानाम् उपप्लवाय धूमकेतुः इव उत्थितः (अस्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"A great demon named Taraka, made arrogant by a boon he obtained from you, has arisen like a comet for the affliction of the worlds.\" Brihaspati names the cause of their distress.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003810,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भवदिति ॥ भवतस्त्वत्तो लब्धेन वरेणोदीर्ण उद्धतः तारक इत्याख्या नामधेयं यस्य स तारकाख्यः । महानसुरो महासुरः । `सन्महत्परमोत्तमोत्कृष्टाः पूज्यमानैः` (पा.2|1|61) इति तत्पुरुषः । धूमकेतुरुत्पातविशेष इव लोकानामुपप्लवायोपद्रवायोत्थित उत्पन्नः"
+    }
+  ]
+}

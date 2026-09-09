@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003800,
+    "chapter_id": 6597,
+    "verse_number": "2.22",
+    "content_sanskrit": "कुबेरस्य मनःशल्यं शंसतीव पराभवम् । अपविद्धगदो बाहुर्भग्नशाख इव द्रुमः ॥",
+    "padaccheda": "कुबेरस्य । मनःशल्यम् । शंसति । इव । पराभवम् । अपविद्धगदः । बाहुः । भग्नशाखः । इव । द्रुमः",
+    "anvaya": "कुबेरस्य अपविद्ध-गदः बाहुः भग्न-शाखः द्रुमः इव (भूत्वा) मनः-शल्यम् पराभवम् शंसति इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Kubera's arm, with his mace cast away, is like a tree with a broken branch. It seems to proclaim his heart-piercing defeat.\" Brahma notes the defeated state of Kubera, the god of wealth.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003800,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कुबेरस्येति ॥ अपविद्धा त्यक्ता गदा येन सोऽपबिद्धगदः । अतएव भग्नशाखो द्रुम इव स्थितः कुबेरस्य बाहुर्मनः शल्यम् । दुःखहेतुत्वान्मनसः शल्यप्रायमित्यर्थः । पराभवम् । शत्रुकृतमिति शेषः । शंसतीव कथयतीव । लक्षणयानुमापयतीत्यर्थः । बाहौ मुख्यकथनस्यासम्भवादिवशब्दोऽप्यत एव"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003704,
+    "chapter_id": 6595,
+    "verse_number": "19.43",
+    "content_sanskrit": "दक्षिणेन पवनेन संभृतं प्रेक्ष्य चूतकुसुमं सपल्लवम्। अन्वनैषुरवधूतविग्रहास्तं दुरुत्सहवियोगमङ्गनाः ॥",
+    "padaccheda": "दक्षिणेन । पवनेन । संभृतम् । प्रेक्ष्य । चूतकुसुमम् । सपल्लवम् । अन्वनैषुः । अवधूतविग्रहाः । तम् । दुरुत्सहवियोगम् । अङ्गनाः",
+    "anvaya": "दक्षिणेन पवनेन संभृतम् स-पल्लवम् चूत-कुसुमम् प्रेक्ष्य, अवधूत-विग्रहाः अङ्गनाः दुरुत्सह-वियोगम् तम् अन्वनैषुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Upon seeing the mango blossoms with their new leaves, brought forth by the southern breeze of spring, the women gave up their quarrels. They made up with the king, from whom separation now seemed unbearable.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003704,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दक्षिणेनेति॥ अङ्गना दक्षिणेन पवनेन मलयानिलेन संभृतं जनितं सपल्लवं चूतकुसुमं प्रेक्ष्य। अवधूतविग्रहास्त्यक्तविरोधाः सत्यो दुरुत्सहवियोगं दुःसहविरहं तमन्वनैषुः। तद्विरहमसहमानाः स्वयमेवानुनीतवत्य इत्यर्थः ॥"
+    }
+  ]
+}

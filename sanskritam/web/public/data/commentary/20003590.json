@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003590,
+    "chapter_id": 6593,
+    "verse_number": "17.63",
+    "content_sanskrit": "सर्पस्येव शिरोरत्नं नास्य शक्तित्रयं परः । स चकर्ष परस्मात्तदयस्कान्त इवायसम् ॥",
+    "padaccheda": "सर्पस्य । इव । शिरःरत्नम् । न । अस्य । शक्तित्रयम् । परः । सः । चकर्ष । परस्मात् । तत् । अयस्कान्तः । इव । आयसम्",
+    "anvaya": "परः सर्पस्य शिरःरत्नम् इव अस्य शक्तित्रयम् न (आदातुम् अशक्नोत्) । सः अयस्कान्तः आयसम् इव परस्मात् तत् चकर्ष ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "No enemy could seize King Atithi's triad of powers, just as one cannot take a jewel from a serpent's head. However, he himself drew that very power from his enemies, just as a magnet attracts iron.",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003590,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सर्पस्येति॥ सर्पस्य शिरोरत्नमिव। अस्य राज्ञः शक्तित्रयं परः शत्रुर्न चकर्ष। स तु परस्मात् शत्रोः। तत् शक्तित्रयम्। अयस्कान्तो मणिविशेष आयसं लोहविकारमिव चकर्ष ॥"
+    }
+  ]
+}

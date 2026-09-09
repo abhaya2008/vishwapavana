@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004141,
+    "chapter_id": 6601,
+    "verse_number": "6.91",
+    "content_sanskrit": "तां प्रणामादरस्रस्तजाम्बूनदवतंसकाम् । अङ्कमारोपयामास लज्जमानामरुन्धती ॥",
+    "padaccheda": "ताम् । प्रणामादरस्रस्तजाम्बूनदवतंसकाम् । अङ्कम् । आरोपयामास । लज्जमानाम् । अरुन्धती",
+    "anvaya": "अरुन्धती प्रणाम-आदर-स्रस्त-जाम्बूनद-अवतंसकाम् लज्जमानाम् ताम् अङ्कम् आरोपयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Arundhati placed the blushing Parvati, whose golden ear-ornament had slipped due to her respectful bow, onto her lap.",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004141,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तामिति । प्रणामादरेण नमस्कारासक्त्या स्रस्ते जाम्बूनदे सुवर्णविकारौ वतंसके कनककुण्डले यस्यास्तां लज्जमानां तामम्बिकामरुन्धत्यङ्कमारोपयामास । `रुहः पोऽन्यतरस्याम्` (पा.7|3|43) इति पकारः"
+    }
+  ]
+}

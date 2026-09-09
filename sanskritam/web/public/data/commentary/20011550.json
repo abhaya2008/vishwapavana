@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011550,
+    "chapter_id": 6684,
+    "verse_number": "12.2",
+    "content_sanskrit": "आख्यातां तत्र पर्यङ्कं सर्वरत्नविभूषितम् । फेनशुभ्रोपबर्हाढ्यं क्षीरसागरपाण्डरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011550,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आस्थातां आक्रम्य स्थितौ । ‘आङः स्थः प्रतिज्ञाने इति वक्तव्य’मित्यात्मनेपदम् । नाऽर्थान्तरे पूर्ववत् स्थादिषु सिचो लुक् । उपमालङ्कारः । उपबर्हमुपधानम् ॥"
+    }
+  ]
+}

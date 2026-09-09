@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004106,
+    "chapter_id": 6601,
+    "verse_number": "6.56",
+    "content_sanskrit": "अद्यप्रभृति भूतानामधिगम्योऽस्मि शुद्धये । यदध्यासितमर्हद्भिस्तद्धि तीर्थं प्रचक्षते ॥",
+    "padaccheda": "अद्यप्रभृति । भूतानाम् । अधिगम्यः । अस्मि । शुद्धये । यत् । अध्यासितम् । अर्हद्भिः । तत् । हि । तीर्थं । प्रचक्षते",
+    "anvaya": "अद्यप्रभृति भूतानां शुद्धये अधिगम्यः अस्मि । यत् अर्हद्भिः अध्यासिनम्, तत् हि तीर्थं प्रचक्षते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"From this day forward, I have become accessible to all beings for their purification. For, whatever place is occupied by the venerable ones, that indeed is called a holy pilgrimage site (Tirtha).\"",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004106,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अद्येति । अद्यप्रभृतीत आरभ्य भूतानां प्राणिनां शुद्धयेऽधिगम्योऽस्मि । शुद्ध्यर्थिनां तीर्थभूतोऽस्मीत्यर्थः । भवदागमनादिति शेषः । हि यस्मात् । यदर्हद्भिः सद्भिरध्यासितमधिष्ठितम् । जुष्टमिति यावत् । तत्तीर्थ प्रचक्षते । `निपानागमयोस्तीर्थमृषिजुष्टजले गुरौ` इत्यमरः"
+    }
+  ]
+}

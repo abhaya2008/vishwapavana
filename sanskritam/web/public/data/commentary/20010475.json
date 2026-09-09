@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010475,
+    "chapter_id": 6674,
+    "verse_number": "2.55",
+    "content_sanskrit": "युगपत्पातपादाय भूयसामिव भूभुजाम् । मणिस्तंभप्रतिच्छायाछलेनाभूत्स भूमवान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010475,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपह्नुतिरयमल्लङ्कारः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010768,
+    "chapter_id": 6677,
+    "verse_number": "5.8",
+    "content_sanskrit": "पूर्णं वायूल्लसच्छाखाहस्तोन्नायविचक्षणैः । नटैरिव प्रनृत्यद्भिर्द्रुमैः कुसुमभूषितैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010768,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हस्तोन्नायेति 'अवोदोर्नियः' (पा.३|३|२६) इति घञ् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005247,
+    "chapter_id": 6621,
+    "verse_number": "9.34",
+    "content_sanskrit": "सद्मनां विरचनाहितशोभैरागतप्रियकथैरपि दूत्यम् । संनिकृष्टरतिभिः सुरदारैर्भूषितैरपि विभूषणमीषे ॥",
+    "padaccheda": "सद्मनाम् । विरचनाहितशोभैः । आगतप्रियकथैः । अपि । दूत्यम् । संनिकृष्टरतिभिः । सुरदारैः । भूषितैः । अपि । विभूषणम् । ईषे",
+    "anvaya": "सद्मनां विरचनाहितशोभैः आगतप्रियकथैः अपि दूत्यम् ईषे। भूषितैः अपि संनिकृष्टरतिभिः सुरदारैः विभूषणम् ईषे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The role of a messenger was undertaken by the beautiful decorations of the palaces and by the news of a lover's arrival. The role of an ornament was undertaken by the lovers for the celestial ladies, who, though already adorned, found their partners to be their greatest embellishment.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005247,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "सद्मनामित्यादि ॥ संनिकृष्टरतिभिरासन्नसुरतोत्सवैरत एव सुरदारैः सुरवधूभिराहितशोभैः प्रागेव विहितकेलिगृहमण्डनैरपि पुनः सद्मनां केलिगृहाणां विरचना मण्डनमीषेऽभिलेषे । इषेः कर्मणि लिट् । आगतप्रियकथैः प्राप्तप्रियजनवृत्तान्तैरपि दू तस्य कर्म दूत्यं दूतीव्यापार ईषे । दूतस्य भावकर्मणोर्यत्प्रत्ययः । तथा भूषितैरपि विभूषणं प्रसाधनमीषे । औत्सुक्यातिरेकादिति भावः ॥"
+    }
+  ]
+}

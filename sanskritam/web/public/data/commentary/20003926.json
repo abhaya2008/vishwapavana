@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003926,
+    "chapter_id": 6599,
+    "verse_number": "4.8",
+    "content_sanskrit": "स्मरसि स्मर मेखलागुणैरुत गोत्रस्खलितेषु बन्धनम् । च्युतकेशरदूषितेक्षणान्यवतंसोत्पलताडनानि वा ॥",
+    "padaccheda": "स्मरसि । स्मर । मेखलागुणैः । उत । गोत्रस्खलितेषु । बन्धनम् । च्युतकेशरदूषितेक्षणानि । अवतंसोत्पलताडनानि । वा",
+    "anvaya": "हे स्मर, गोत्र-स्खलितेषु मेखला-गुणैः बन्धनम् उत च्युत-केशर-दूषित-ईक्षणानि अवतंस-उत्पल-ताडनानि वा स्मरसि?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Smara (Kama), do you remember being bound with my girdle-strings when you mistakenly called out another's name? Or the playful beatings with my ear-lotuses, their filaments scattered, blurring my vision?\"",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003926,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्मरसीति । हे स्मर ! गोत्रस्खलितेषु नामव्यत्यासेषु । `गोत्रं नाम्न्यचले कुले` इति विश्वः । मेखलागुणैर्बन्धनं स्मरस्युत स्मरसि वा । `विकल्पे किं किमुत च` इत्यमरः । च्युतकेशरैर्भ्रष्टकिञ्जल्कैर्दूषिते ईक्षणे येषु तान्यवतंसोत्पलताडनानि । सधूलिक्षेपताडनानीत्यर्थः । स्मरसि वा । अपकारस्मरणादिदमदर्शनमिति भावः"
+    }
+  ]
+}

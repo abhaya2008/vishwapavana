@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002950,
+    "chapter_id": 6586,
+    "verse_number": "10.63",
+    "content_sanskrit": "कृताभिषेकैर्दिव्यायां त्रिस्रोतसि च सप्तभिः । ब्रह्मर्षिभिः परं ब्रह्म गृणद्भिरुपतस्थिरे ॥",
+    "padaccheda": "कृताभिषेकैः । दिव्यायाम् । त्रिस्रोतसि । च । सप्तभिः । ब्रह्मर्षिभिः । परम् । ब्रह्म । गृणद्भिः । उपतस्थिरे",
+    "anvaya": "सप्तभिः दिव्यायां त्रिस्रोतसि कृताभिषेकैः परं ब्रह्म गृणद्भिः ब्रह्मर्षिभिः (ते) उपतस्थिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The seven celestial sages, having performed their sacred ablutions in the divine triple-streamed Ganges and chanting the supreme Brahman, waited upon the queens.",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002950,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृतेति॥ किंच, दिवि भवायां दिव्यायां त्रिस्रोतस्याकाशगङ्गायां कृताभिषेकैः कृतावगाहैः। परं ब्रह्म वेदरहस्यं गृणद्भिः पठद्भिः सप्तभिर्ब्रह्मर्षिभिः कश्यपप्रभृतिभिरुपतस्थिर उपासांचक्रिरे ॥"
+    }
+  ]
+}

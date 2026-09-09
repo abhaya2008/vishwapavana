@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002743,
+    "chapter_id": 6584,
+    "verse_number": "8.33",
+    "content_sanskrit": "अथ रोधसि दक्षिणोदधेः श्रितगोकर्णनिकेतमीश्वरम् । उपवीणयितुं ययौ रवेरुदयावृत्तिपथेन नारदः ॥",
+    "padaccheda": "अथ । रोधसि । दक्षिणोदधेः । श्रितगोकर्णनिकेतम् । ईश्वरम् । उपवीणयितुं । ययौ । रवेः । उदयावृत्तिपथेन । नारदः",
+    "anvaya": "अथ नारदः दक्षिण-उदधेः रोधसि श्रित-गोकर्ण-निकेतम् ईश्वरम् उपवीणयितुं रवेः उदय-आवृत्ति-पथेन ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the sage Narada, traveling through the sky by the path of the sun, went to the shore of the southern ocean to praise Lord Shiva, whose abode is the famed Gokarna shrine, by playing his Vina.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002743,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ दक्षिणस्योदधेः समुद्रस्य रोधसि तीरे श्रितगोकर्णनिकेतमधिष्ठितगोकर्णाख्यस्थानमीश्वरं शिवमुपवीणयितुं वीणयोप समीपे गातुम्। `सत्यापाश-` (पा.3।1।25)इत्यादिना `वीणा`शब्दादुपगानार्थे णिच्प्रत्ययः। ततस्तुमुन्। नारदो देवर्षी रवेः सूेर्यस्य संबन्धिना। उदयावृत्तिपथेनाकाशमार्गेण ययौ जगाम। सूर्योपमानेनास्यातितेजस्त्वमुच्यते ॥"
+    }
+  ]
+}

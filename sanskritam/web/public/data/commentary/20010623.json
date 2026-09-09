@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010623,
+    "chapter_id": 6675,
+    "verse_number": "3.65",
+    "content_sanskrit": "महाकालैर्गजव्यूहैरावद्धमददुर्द्दिनैः । भयङ्करं यद्वंशानां कालो मेघंकरो यथा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010623,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "महाकालैरिति । भयङ्करं मेघङ्कर इति । 'मेघर्तिभयेषु कृञः' (पा.३|२|४३) इति खच् ॥"
+    }
+  ]
+}

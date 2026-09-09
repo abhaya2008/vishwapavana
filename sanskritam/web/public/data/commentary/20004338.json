@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004338,
+    "chapter_id": 6604,
+    "verse_number": "9.7",
+    "content_sanskrit": "असि त्वमेको जगतामधीशः स्वर्गौकसां त्वं विपदो निहंसि । ततः सुरेन्द्रप्रमुखाः प्रभो त्वामुपासते दैत्यवरैर्विधूताः ॥",
+    "padaccheda": "असि । त्वम् । एकः । जगताम् । अधीशः । स्वर्गौकसाम् । विपदः । निहंसि । ततः । सुरेन्द्रप्रमुखाः । प्रभो । त्वाम् । उपासते । दैत्यवरैः । विधूताः",
+    "anvaya": "त्वम् एकः जगताम् अधीशः असि त्वम् स्वर्गौकसाम् विपदः निहंसि ततः प्रभो दैत्यवरैः विधूताः सुरेन्द्रप्रमुखाः त्वाम् उपासते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Agni addressed Śiva, stating that he is the sole Lord of the worlds and the destroyer of the gods' calamities. Therefore, harassed by the demons, the gods led by Indra seek refuge in and worship him.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004338,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असीति । हे प्रभो, त्वमेको जगतामधीशोऽसि त्वत्सदृशो जगतां पालयिता न कोऽप्यन्योऽस्तीत्यर्थः । अत एव स्वर्गौकसामिन्द्रादीनां विपदस्त्वं निहंसि दूरीकरोषि । ततः कारणात्सुरेन्द्रप्रमुखा देवास्त्वामुपासते । यतो दैत्यवरैर्विधूतास्तिरस्कृताः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003196,
+    "chapter_id": 6589,
+    "verse_number": "13.26",
+    "content_sanskrit": "एतद्गिरेर्माल्यवतः पुरस्तादाविर्भवत्यम्बरलेखि श्रृङ्गम् । नवं पयो यत्र घनैर्मया च त्वद्विप्रयोगाश्रु समं विसृष्टम् ॥",
+    "padaccheda": "एतत् । गिरेः । माल्यवतः । पुरस्तात् । आविर्भवति । अम्बरलेखि । श्रृङ्गम् । नवम् । पयः । यत्र । घनैः । मया । च । त्वद्विप्रयोगाश्रु । समम् । विसृष्टम्",
+    "anvaya": "माल्यवतः गिरेः एतत् अम्बरलेखि श्रृङ्गम् पुरस्तात् आविर्भवति । यत्र घनैः नवम् पयः, मया च त्वत्-विप्रयोग-अश्रु समम् विसृष्टम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama points ahead, \"Look, the sky-scraping peak of Mount Malyavat appears before us. It was there that the clouds shed fresh rain and I shed tears from the pain of separation from you, both at the same time.\"",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003196,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एतदिति॥ माल्यवतो नाम गिरेरम्बरलेख्यभ्रंकषं श्रृङ्गमेतत्पुरस्तादग्र आविर्भवति। यत्र शृङ्गे धनैर्मेघैर्नवं पयो मया त्वद्विप्रयोगेण यदश्रु तञ्च समं युगपद्विसृष्टम्। मेघदर्शनाद्वर्षतुल्यमश्रु विमुक्तमिति भावः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005366,
+    "chapter_id": 6623,
+    "verse_number": "11.12",
+    "content_sanskrit": "शरदम्बुधरच्छाया गत्वर्यो यौवनश्रियः । आपातरम्या विषयाः पर्यन्तपरितापिनः ॥",
+    "padaccheda": "शरदम्बुधरच्छायाः । गत्वर्यः । यौवनश्रियः । आपातरम्याः । विषयाः । पर्यन्तपरितापिनः",
+    "anvaya": "यौवनश्रियः शरद्-अम्बुधर-च्छायाः इव गत्वर्यः सन्ति । विषयाः आपातरम्याः किन्तु पर्यन्तपरितापिनः भवन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The splendors of youth are as fleeting as the shadows of autumn clouds. Sensual pleasures are delightful at first but cause suffering in the end.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005366,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "शरदिति ॥ यौवनश्रियस्तावच्छरदम्बुधरच्छाया इव गत्वर्यश्चञ्चलाः । इति क्वरबन्तो निपातः। `टिडाणञ्-` इत्यादिना ङीप् । विषयाः शब्दादयस्त्वापातरम्यास्तत्कालरमणीयाः। `तदात्वे पात आपात:` इति वैजयन्ती । पर्यन्तेऽवसाने परितापयन्ति दुःखं कुर्वन्तीति तथोक्ताः ॥"
+    }
+  ]
+}

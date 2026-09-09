@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002933,
+    "chapter_id": 6586,
+    "verse_number": "10.46",
+    "content_sanskrit": "वैमानिकाः पुण्यकृतस्त्यजन्तु मरुतां पथि । पुष्पकालोकसंक्षोभं मेघावरणतत्पराः ॥",
+    "padaccheda": "वैमानिकाः । पुण्यकृतः । त्यजन्तु । मरुताम् । पथि । पुष्पकालोकसंक्षोभम् । मेघावरणतत्पराः",
+    "anvaya": "पुण्यकृतः वैमानिकाः मरुतां पथि मेघावरणतत्पराः (सन्तः) पुष्पकालोकसंक्षोभं त्यजन्तु।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Let the meritorious celestial beings, who travel on the path of the winds, no longer need to be intent on hiding behind clouds, and thus abandon their agitation at the sight of the Pushpaka chariot.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002933,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वैमानिका इति॥ मरुतां देवानां पथि व्योम्नि वैमानिका विमानैश्चरन्तः। `चरति` (पा.4।4।8) इति ठक्प्रत्ययः। मेघावरणतत्परा रावणभयान्मेघेष्वन्तर्धानतत्पराः। पुण्यकृतः सुकृतिनः पुष्पकालोकेन यदृच्छया रावणविमानदर्शनेन यः संक्षोभो भयचकितं तं त्यजन्तु । `संक्षोभो भयचकितम्` इति शब्दार्णवः ॥"
+    }
+  ]
+}

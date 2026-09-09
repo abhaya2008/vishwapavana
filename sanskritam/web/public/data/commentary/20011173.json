@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011173,
+    "chapter_id": 6680,
+    "verse_number": "8.59",
+    "content_sanskrit": "लक्षणैरर्जुनं राजा सार्वभौमममन्यत । राज्यं प्रीत्या च भीत्या च तदधीनं चकार च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011173,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सार्वभौममिति पूर्ववदञ् । उभयपदवृद्धिञ्च ॥"
+    }
+  ]
+}

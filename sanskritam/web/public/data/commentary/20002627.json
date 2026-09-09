@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002627,
+    "chapter_id": 6582,
+    "verse_number": "6.74",
+    "content_sanskrit": "जातः कुले तस्य किलोरुकीर्तिः कुलप्रदीपो नृपतिर्दिलीपः । अतिष्ठदेकोनशतक्रतुत्वे शक्राभ्यसूयाविनिवृत्तये यः ॥",
+    "padaccheda": "जातः । कुले । तस्य । किल । उरुकीर्तिः । कुलप्रदीपः । नृपतिः । दिलीपः । अतिष्ठत् । एकोनशतक्रतुत्वे । शक्राभ्यसूयाविनिवृत्तये । यः",
+    "anvaya": "तस्य कुले किल उरु-कीर्तिः कुल-प्रदीपः दिलीपः नृपतिः जातः, यः शक्र-अभ्यसूया-विनिवृत्तये एक-ऊन-शत-क्रतुत्वे अतिष्ठत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"In his (Kakutstha's) lineage was born the renowned king Dilipa, a lamp to his dynasty, who, to avoid Indra's jealousy, stopped at the completion of ninety-nine sacrifices (one short of Indra's hundred).\"",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002627,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जात इति॥ उरुकीर्तिर्महायशाः कुलप्रदीपो वंशप्रदीपको दिलीपो नृपतिस्तस्य ककुत्स्थस्य कुले जातः किल। यो दिलीपः शक्राभ्यसूयाविनिवृत्तये। न त्वशक्त्येति भावः। एकेनोनाः शतं क्रतवो यस्य स एकोनशतक्रतुस्तस्य भावे तत्त्वेऽतिष्ठत्। इन्द्रप्रीतये शततमं क्रतुमवशेषितवानित्यर्थः॥"
+    }
+  ]
+}

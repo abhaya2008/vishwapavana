@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011086,
+    "chapter_id": 6679,
+    "verse_number": "7.96",
+    "content_sanskrit": "अपराह्णेतनस्नानशीतलैः स्तनमण्डलैः । आलिङ्गन्नङ्गना यत्र गाढं ग्रीष्मेषु वल्लभान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011086,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपराह्णेतनेति ट्युट्युत्पक्षः । निशि शयनेष्विति शेषः ॥"
+    }
+  ]
+}

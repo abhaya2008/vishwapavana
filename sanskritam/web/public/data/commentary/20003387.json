@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003387,
+    "chapter_id": 6591,
+    "verse_number": "15.51",
+    "content_sanskrit": "तपस्यनधइकारित्वात्प्रजानां तमघावहम् । शीर्षच्छेद्यं परिच्छिद्य नियन्ता शस्त्रमाददे ॥",
+    "padaccheda": "तपसि । अनधिकारित्वात् । प्रजानाम् । तम् । अघावहम् । शीर्षच्छेद्यम् । परिच्छिद्य । नियन्ता । शस्त्रम् । आददे",
+    "anvaya": "नियन्ता, तपसि अनधिकारित्वात् प्रजानाम् अघावहम् तम् शीर्षच्छेद्यम् परिच्छिद्य, शस्त्रम् आददे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Recognizing that he was bringing misfortune upon the people due to his unauthorized practice of penance, the ruler Rama, having judged him deserving of beheading, took up his sword.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003387,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तपसीति॥ तपस्यनधिकारित्वात्प्रजानामघावहं दुःखावहं तं शूद्रं शीर्षच्छेद्यम्। `शीर्षच्छेदाद्यञ्च` (पा.5।1।65) इति यत्प्रत्ययः। परिच्छिद्य निश्चित्य नियन्ता रक्षको रामः शस्त्रमाददे जग्राह ॥"
+    }
+  ]
+}

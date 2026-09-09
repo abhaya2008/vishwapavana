@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003939,
+    "chapter_id": 6599,
+    "verse_number": "4.21",
+    "content_sanskrit": "मदनेन विनाकृता रतिः क्षणमात्रं किल जीवितेति मे । वचनीयमिदं व्यवस्थितं रमण त्वामनुयामि यद्यपि ॥",
+    "padaccheda": "मदनेन । विनाकृता । रतिः । क्षणमात्रम् । किल । जीवित । इति । मे । वचनीयम् । इदम् । व्यवस्थितम् । रमण । त्वाम् । अनुयामि । यद्यपि",
+    "anvaya": "(हे) रमण, यद्यपि मदनेन विनाकृता रतिः क्षणमात्रम् जीवित किल इति मे इदम् वचनीयम् व्यवस्थितम्, (तथापि) त्वाम् अनुयामि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rati, addressing her dead husband Kama, says, \"O beloved, although I will face the certain reproach that 'Rati, separated from Kama, lived even for a moment,' I will still follow you in death.\"",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003939,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मदनेनेति । हे रमण ! त्वामनुयामि यद्यप्यनुगमिष्याम्येव । `वर्तमानसामीप्ये वर्तमानवद्वा` (पा.3|3|131) इति लट् । `यद्यपीत्यवधारणे` इति केशवः । किंतु रतिर्मदनेन विनाकृता । वियोजिता सतीत्यर्थः । सुप्सुपेति समासः । क्षणमात्रं जीविता किलेतीदं वचनीयं निन्दा मे मम व्यवस्थितं स्थिरमभूत्"
+    }
+  ]
+}

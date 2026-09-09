@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005440,
+    "chapter_id": 6624,
+    "verse_number": "12.5",
+    "content_sanskrit": "न विसिस्मिये न विषसाद मुहुरलसतां नु चाददे । सत्त्वमुरुधृति रजस्तमसी न हतः स्म तस्य हतशक्तिपेलवे ॥",
+    "padaccheda": "न । विसिस्मिये । न । विषसाद । मुहुः । अलसताम् । नु । च । आददे । सत्त्वम् । उरुधृतिः । रजः । तमसी । न । हतः । स्म । तस्य । हतशक्तिपेलवे",
+    "anvaya": "उरुधृतिः (सः) हतशक्तिपेलवे रजः तमसी सत्त्वम् न हतः स्म । सः न विसिस्मिये, न विषसाद, मुहुः अलसताम् नु च न आददे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That man of great fortitude (Arjuna) was neither surprised nor dejected, nor did he repeatedly succumb to laziness. The qualities of Rajas (passion) and Tamas (inertia), their power destroyed and rendered feeble, did not overcome his Sattva (goodness).",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005440,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति ॥ सोऽर्जुनो न विसिस्मिये। अहो मुहत्तपस्तप्तमिति न विस्मयं जगाम । `तपः क्षरति विस्मयात्` इति स्मृतेरिति भावः । न विषसाद फलविलम्बाद्गतोत्साहो न बभूव। `विषादश्चेतसो भङ्गः` इति लक्षणात् । `सदिरप्रते:` इति षत्वम् । मुहुरलसतां तपति मन्दोधमत्वं च नागमत् । किं च । हतशक्तिनी हतसारे अत एव पेलवे भङ्गुरे ते हतशक्तिपेलवे रजस्तमसी गुणावुरुधृति महासारं तस्यार्जुनस्य सत्त्वं सत्त्वगुणं न हतः स्म न हतवती । हन्तेः `लट् स्मे` (पा.3।2।118) इति भूतार्थे लट् ॥"
+    }
+  ]
+}

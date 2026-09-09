@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003131,
+    "chapter_id": 6588,
+    "verse_number": "12.65",
+    "content_sanskrit": "स प्राप हृदयन्यस्तमणिस्पर्शनिमीलितः । अपयोधरसंसर्गां प्रियालिङ्गननिर्वृतिम् ॥",
+    "padaccheda": "सः । प्राप । हृदयन्यस्तमणिस्पर्शनिमीलितः । अपयोधरसंसर्गाम् । प्रियालिङ्गननिर्वृतिम्",
+    "anvaya": "सः हृदयन्यस्तमणिस्पर्शनिमीलितः अपयोधरसंसर्गां प्रियालिङ्गननिर्वृतिम् प्राप ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With his eyes closed at the touch of the jewel placed upon his heart, Rama experienced the bliss of his beloved's embrace, though it lacked the physical contact of her breasts.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003131,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ हृदये वक्षसि न्यस्तस्य धृतस्य मणेरभिज्ञानरत्नस्य। स्पर्शेन निमीलितो मोहितः स रामोऽविद्यमानः पयोधरसंसर्गः स्तनस्पर्शो यस्यास्तां तथाभूतां प्रियाया आलिङ्गनेन या निर्वृतिरानन्दस्तां प्राप ॥"
+    }
+  ]
+}

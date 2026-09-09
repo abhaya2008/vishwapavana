@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013704,
+    "chapter_id": 6703,
+    "verse_number": "11.9",
+    "content_sanskrit": "अनेन देहेन सहैव गन्तुं कैलासमशेन समं च रन्तुम् । अतोषयं तीव्रतपोभिरुग्रं सुदुष्करैरब्दशतं समग्रम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013704,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "सर्वविदा त्वया निर्वर्तितमित्युक्तं तद्विवृणोति । अनेनेति । 'उग्रः कपर्दी श्रीकण्ठः' इत्यमरादुग्रं रुद्रम् । उपजातिवृत्तम् ॥ १० ॥"
+    }
+  ]
+}

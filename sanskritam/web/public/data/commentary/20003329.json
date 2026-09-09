@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003329,
+    "chapter_id": 6590,
+    "verse_number": "14.80",
+    "content_sanskrit": "तामर्पयामास च शोकदीनां तदागमप्रीतिषु तापसीषु । निर्विष्टसारां पितृभिर्हिमांशोरन्त्यां कलां दर्श इवौषधीषु ॥",
+    "padaccheda": "ताम् । अर्पयामास । च । शोकदीनाम् । तदागमप्रीतिषु । तापसीषु । निर्विष्टसाराम् । पितृभिः । हिमांशोः । अन्त्याम् । कलाम् । दर्शः । इव । ओषधीषु",
+    "anvaya": "च (सः) शोकदीनाम् ताम्, पितृभिः निर्विष्टसाराम् हिमांशोः अन्त्याम् कलाम् दर्शः ओषधीषु इव, तत् आगमप्रीतिषु तापसीषु अर्पयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And he entrusted her, wretched with grief, to the female ascetics who were pleased by her arrival, just as the new moon day entrusts the last digit of the moon, whose essence has been enjoyed by the ancestral spirits, to the care of the medicinal herbs.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003329,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तामिति॥ शोकदीनां तां सीतां तस्याः सीताया आगमेन प्रीतिर्यासां तासु तापसीषु। पितृभिरग्निष्वात्तादिभिर्निर्विष्टसारां भुक्तासारां हिमांशोरन्त्यामवशिष्टां कलां दर्शोऽमावास्याकाल ओषधीष्विव अर्पयामास च। अत्र पराशरः-`पिबन्दि विमलं सोमं विशिष्टा तस्य या काला। सुधामृतमयी पुण्यां तामिन्दोः पितरो मुने!॥` इति। व्यासश्च-`अमायां तु सदा सोम ओषधीः प्रतिपद्यते` इति॥"
+    }
+  ]
+}

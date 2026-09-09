@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003410,
+    "chapter_id": 6591,
+    "verse_number": "15.74",
+    "content_sanskrit": "इति प्रतिश्रुते राज्ञा जानकीमाश्रमान्मुनिः । शिष्यैरानाययामास स्वसिद्धिं नियमैरिव ॥",
+    "padaccheda": "इति । प्रतिश्रुते । राज्ञा । जानकीम् । आश्रमात् । मुनिः । शिष्यैः । आनाययामास । स्वसिद्धिम् । नियमैः । इव",
+    "anvaya": "राज्ञा इति प्रतिश्रुते, मुनिः नियमैः स्वसिद्धिम् इव, शिष्यैः जानकीम् आश्रमात् आनाययामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When the king (Rama) had thus promised, the sage (Valmiki), through his disciples, had Janaki (Sita) brought from the hermitage, just as one achieves one's own spiritual success through self-restraints.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003410,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ राज्ञेति प्रतिश्रुते प्रतिज्ञाते सति मुनिराश्रमाज्जानकीं शिष्यैः प्रयोज्यैः स्वसिद्धिं स्वार्थसिद्धिं नियमैस्तपोभिरिव। आनाययामास ॥"
+    }
+  ]
+}

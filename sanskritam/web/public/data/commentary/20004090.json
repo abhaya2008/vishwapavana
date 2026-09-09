@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004090,
+    "chapter_id": 6601,
+    "verse_number": "6.40",
+    "content_sanskrit": "शिखरासक्तमेघानां व्यजन्ते यत्र वेश्मनाम् । अनुगर्जितसंदिग्धाः करणैर्मुरजस्वनाः ॥",
+    "padaccheda": "शिखरासक्तमेघानां । व्यज्यन्ते । यत्र । वेश्मनाम् । अनुगर्जितसंदिग्धाः । करणैः । मुरजस्वनाः",
+    "anvaya": "यत्र शिखरासक्तमेघानां वेश्मनां मुरजस्वनाः करणैः अनुगर्जितसंदिग्धाः व्यज्यन्ते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the sounds of drums from the houses, which have clouds clinging to their peaks, are made difficult to distinguish from the accompanying rumbling of thunder.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004090,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शिखरेति । यत्र पुरे शिखरेष्वासक्ता मेधा एषां वेश्मनां संबन्धिनः । अनुगर्जितानि प्रतिगर्जितानि तैः संदिग्धा मुरजस्वनाः करणैस्तालव्यवस्थापकैस्ताडनविशेषैः । तदुक्तम् राजकंदर्पेण-- `नृत्यवाद्दित्रगीतानां प्रयोगवशमेदिनाम् । संस्थानं ताडनं रोधः करणानि प्रचक्षते ॥` इति व्यज्यन्ते स्फुटीक्रीयन्ते"
+    }
+  ]
+}

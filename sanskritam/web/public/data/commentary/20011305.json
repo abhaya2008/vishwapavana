@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011305,
+    "chapter_id": 6681,
+    "verse_number": "9.57",
+    "content_sanskrit": "जितास्तद्गृहदासीनां नेत्रैरञ्जनकालकैः । नीलिमानं दधुर्भृङ्गास्तत्र ह्रीकालका इव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011305,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अञ्जनकालकैः । 'रक्ते' (पा.५|४|३२), 'कालाच्च' (पा.५|४|३३) इति कन् । ह्रीकालका इव । 'वर्णे चानित्ये' (पा.५|४|३१), 'कालाच्च' (पा.५|४|३३) इति कन् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003147,
+    "chapter_id": 6588,
+    "verse_number": "12.81",
+    "content_sanskrit": "अकाले बोधितो भ्रात्रा प्रियस्वप्नो वृथा भवान् । रामेषुभिरितीवासौ दीर्घनिद्रां प्रवेशितः ॥",
+    "padaccheda": "अकाले । बोधितः । भ्रात्रा । प्रियस्वप्नः । वृथा । भवान् । रामेषुभिः । इति । इव । असौ । दीर्घनिद्राम् । प्रवेशितः",
+    "anvaya": "भवान् भ्रात्रा अकाले वृथा बोधितः इति इव असौ रामेषुभिः दीर्घनिद्रां प्रवेशितः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Addressing the fallen Kumbhakarna, the poet suggests that since he was woken up prematurely and in vain by his brother Ravana, he has now been sent into an eternal sleep (death) by Rama's arrows, as if to fulfill his love for sleep.",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003147,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अकाल इति॥ प्रियस्वप्न इष्टनिद्रोऽनुजो भवान्वृथा भ्रात्रा रावणेनाकाले बोधित इतीवासौ कुम्भकर्णो रामेषुभी रामबाणैर्दीर्घनिद्रां मरणं प्रवेशितो गमितः। यथा लोकेष्विष्टवस्तुविनाशदुःखितस्य ततोऽपि भूयिष्ठमुपपाद्यते तद्वदिति भावः ॥"
+    }
+  ]
+}

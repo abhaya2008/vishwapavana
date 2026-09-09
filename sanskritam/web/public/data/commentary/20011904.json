@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011904,
+    "chapter_id": 6687,
+    "verse_number": "15.1",
+    "content_sanskrit": "दिनानि कतिचिन्नीत्वा द्वारवत्यामथाऽर्जुनः । जातो जिगमिषुर्जातु काले कंसजितोदिते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011904,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अथ लृड्विलसितमाह—"
+    }
+  ]
+}

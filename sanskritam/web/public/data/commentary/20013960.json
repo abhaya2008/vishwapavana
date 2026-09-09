@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013960,
+    "chapter_id": 6706,
+    "verse_number": "14.31",
+    "content_sanskrit": "असावसङ्गोऽपि तदाऽऽर्द्रचेता- स्तामाह मोहान्धतमोपहर्ता । अम्बायमस्त्यत्र शुचं जहीहि * ब्रवीहि किं ते करवाणि कृत्यम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013960,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "हेऽम्बायं तव पुत्रोऽस्मि शुचं शोकं त्यज । उपजातिवृत्तम् ॥ ३१ ॥"
+    }
+  ]
+}

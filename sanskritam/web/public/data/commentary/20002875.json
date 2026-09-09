@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002875,
+    "chapter_id": 6585,
+    "verse_number": "9.70",
+    "content_sanskrit": "स ललितकुसुमप्रवालशय्यां ज्वलितमहौषधिदीपिकासनाथम् । नरपतिरतिवाहयांबभूव क्वचिदसमेतपरिच्छदस्त्रियामाम् ॥",
+    "padaccheda": "सः । ललितकुसुमप्रवालशय्याम् । ज्वलितमहौषधिदीपिकासनाथाम् । नरपतिः । अतिवाहयांबभूव । क्वचित् । असमेतपरिच्छदः । त्रियामाम्",
+    "anvaya": "क्वचित् असमेत-परिच्छदः सः नरपतिः ललित-कुसुम-प्रवाल-शय्यां ज्वलित-महा-ओषधि-दीपिका-सनाथाम् त्रियामां अतिवाहयांबभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Somewhere in the forest, the king, without his usual retinue, spent the night on a bed of charming flowers and new sprouts, which was illuminated by the natural lamps of glowing medicinal herbs.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002875,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स नरपतिः ललितानि कुसुमानि प्रवालानि पल्लवानि शय्या यस्यां ताम्। ज्वलिताभिर्महौषधिभिरेव दीपिकाभिः सनाथाम्। तत्प्रधानामित्यर्थः। त्रियामां रात्रिं क्वचिदसमेतपरिच्छदः। परिहृतपरिजनः सन्नित्यर्थः। अतिवाहयांबभूव गमयामास। पुष्पिताग्रावृत्तम् ॥"
+    }
+  ]
+}

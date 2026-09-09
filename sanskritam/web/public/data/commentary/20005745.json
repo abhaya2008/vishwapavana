@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005745,
+    "chapter_id": 6629,
+    "verse_number": "17.3",
+    "content_sanskrit": "तेजः समाश्रित्य परैरहार्यं निजं महन्मित्रमिवोरुधैर्यम् । आसादयन्नस्खलितस्वभावं भीमे भुजालम्बमिवारिदुर्गे ॥",
+    "padaccheda": "तेजः । समाश्रित्य । परैः । अहार्यम् । निजम् । महन्मित्रमिव । उरुधैर्यम् । आसादयन् । अस्खलितस्वभावम् । भीमे । भुजालम्बमिव । अरिदुर्गे",
+    "anvaya": "परैः अहार्यम्, अस्खलितस्वभावम्, महत् मित्रम् इव निजम् उरुधैर्यम् तेजः समाश्रित्य, भीमे अरिदुर्गे भुजालम्बम् इव आसादयन्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Relying on his own great and unwavering courage—which was like a great friend, unconquerable by others—he found support in it, just as one finds support in one's own arms when facing a formidable enemy fortress.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005745,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तेज इति ॥ पुनश्च । परैररिभिरहार्यमभेद्यं निजं स्वकीयं महत्तेजो वीर्यं मित्रमिव समाश्रित्य । अतएव भीमे भयानकेऽरिरेव दुर्गं तस्मिन्नरिदुर्गे शत्रुसंकटेऽस्खलितस्वभावमचलशीलमुरु महद्धैर्यं भुजालम्बमिव हस्तावष्टम्भमिवासादयन्प्राप्नुवन् । ईदृशे संकटेऽपि महावीरत्वाद्धैर्यमत्यजन्नित्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010889,
+    "chapter_id": 6678,
+    "verse_number": "6.10",
+    "content_sanskrit": "कृतभक्तभवध्वंसामुरगेन्द्रविभूषिताम् । सर्वावदातां नृत्यन्तीं रुद्रमूर्तिमिवोद्भवाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010889,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तरलभ्रमरारूढैः चटुलतारकैरिवेत्यर्थः । तनुमैन्द्रीमिवेत्युपमा । कृतभक्तभवध्वंसामित्यादि श्लेषः ॥"
+    }
+  ]
+}

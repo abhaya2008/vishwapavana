@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004620,
+    "chapter_id": 6609,
+    "verse_number": "14.16",
+    "content_sanskrit": "कोलाहलेनोच्चलतां दिवौकसां महाचमूनां गुरुभिर्ध्वजव्रजैः । घनैर्निरुच्छ्वासमभूदनन्तरं दिङ्मण्डलं व्योमतलं महीतलम् ॥",
+    "padaccheda": "कोलाहलेने । उच्चलताम् । दिवौकसाम् । महाचमूनाम् । गुरुभिः । ध्वजव्रजैः । घनैः । निरुच्छ्वासम् । अभूत् । अनन्तरम् । दिङ्मण्डलम् । व्योमतलम् । महीतलम",
+    "anvaya": "उच्चलताम् दिवौकसाम् कोलाहलेन गुरुभिः ध्वजव्रजैः घनैः च दिङ्मण्डलं व्योमतलं महीतलम् अनन्तरं निरुच्छ्वासम् अभूत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Immediately, the entire circle of the horizons, the sky, and the earth became completely packed without any breathing space. This was caused by the immense clamor of the marching gods and the dense multitudes of large banners belonging to the great armies.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004620,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कोलाहलेति । उत्प्लुत्योङ्डीय चलताम्, रोषवशादिति भावः । दिवौकसां देवानां कोलाहलेन घोरघोषेण । तथा महाचमूनां गुरुभिर्विशालैर्घनैः सघनैः पुष्टैरिति यावत् । ध्वजव्रजैर्ध्वजसमूहैश्च कृत्वा निरुच्छ्वासं निरुद्धश्वासं निरोधहेतुकव्याप्तिमद्दिशां मण्डलं व्योमतलं महीतलमनन्तरमनुद्भासमानभेदमभूत् । `एकमेवाद्वितीयं ब्रह्म' इत्यद्वैतवादिनां ब्रह्मणोऽद्वैतत्वप्रतिपादने निदर्शनमभूदिति भावः"
+    }
+  ]
+}

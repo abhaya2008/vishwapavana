@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010793,
+    "chapter_id": 6677,
+    "verse_number": "5.33",
+    "content_sanskrit": "कुर्वन्त्यमी परिभवं वह्नेरेव न केवलम् । तेजसा तापसाः किन्तु परिभावं रवेरपि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010793,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परिभावपरिभवशब्दौ 'परो भुवोऽवज्ञाने' (पा.३|३|५५) इति घञबन्तौ ॥"
+    }
+  ]
+}

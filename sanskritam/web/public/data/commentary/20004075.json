@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004075,
+    "chapter_id": 6601,
+    "verse_number": "6.25",
+    "content_sanskrit": "अथ मौलिगतस्येन्दोर्विशदैर्दशनांशुभिः । उपचिन्वन्प्रभां तन्वीं प्रत्याह परमेश्वरः ॥",
+    "padaccheda": "अथ । मौलिगतस्य । इन्दोः । विशदैः । दशनांशुभिः । उपचिन्वन् । प्रभाम् । तन्वीम् । प्रत्याह । परमेश्वरः",
+    "anvaya": "अथ परमेश्वरः मौलि-गतस्य इन्दोः तन्वीम् प्रभाम् विशदैः दशन-अंशुभिः उपचिन्वन् प्रति-आह ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the Supreme Lord, augmenting the slender splendor of the moon on his crown with the bright rays of his teeth (from his smile), replied.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004075,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति । अथ परमेश्वरो मौलिगतस्येन्दोस्तन्वीमल्पाम् । कलामात्रत्वादिति भावः । प्रभां कान्तिं विशदैः शुभ्रैर्दशनांशुभिरुपचिन्वन्वर्धयन्प्रत्याह । प्रत्युवाचेत्यर्थः"
+    }
+  ]
+}

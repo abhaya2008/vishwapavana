@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010788,
+    "chapter_id": 6677,
+    "verse_number": "5.28",
+    "content_sanskrit": "उत्तरादिपरिग्राहस्तुतिशास्त्रादिकोविदाः । यज्ञविद्याः पठन्त्यत्र क्वचित् केचिन्महर्षयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010788,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परिग्राहेति 'परौ यज्ञे' (पा.३|३|४७) इति घञ् ॥"
+    }
+  ]
+}

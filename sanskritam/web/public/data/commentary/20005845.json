@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005845,
+    "chapter_id": 6630,
+    "verse_number": "18.39",
+    "content_sanskrit": "आबाधामरणभयार्चिषा चिराय प्लुष्टेभ्यो भव महता भवानलेन । निर्वाणं समुपगमेन यच्छते ते बीजानां प्रभव नमोऽस्तु जीवनाय ॥",
+    "padaccheda": "आबाधामरणभयार्चिषा । चिराय । प्लुष्टेभ्यः । भव । महता । भवानलेन । निर्वाणम् । समुपगमेन । यच्छते । ते । बीजानाम् । प्रभव । नमः । अस्तु । जीवनाय",
+    "anvaya": "भव, बीजानाम् प्रभव, जीवनाय ते नमः अस्तु । महता भवानलेन आबाधामरणभयार्चिषा चिराय प्लुष्टेभ्यः (जनेभ्यः) समुपगमेन निर्वाणम् यच्छते (ते नमः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "O Bhava, O source of all seeds! May there be salutations to you, the life-giver. To you who, by your very approach, grant liberation to those who have long been scorched by the great fire of worldly existence, whose flames are suffering, fear, and death.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005845,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "आबाधेति ॥ हे भव बीजानां प्रभव कारणभूत । `जीवानाम्` इति पाठे तेषां त्वत्प्रतिबिम्बत्वादिति भावः। आबाधाध्यात्मिकादिदुःखं मरणं पञ्चत्वं ताभ्यां भयं तदेवार्चिर्यस्य तेन महता भवानलेन संसाराग्निना चिराय चिरं प्लुष्टेभ्यो दग्धेभ्यः समुपगमेन संसेवया निर्वाणं संतापशान्तिं यच्छते ददते जीवयतीति जीवनं तस्मै जीवनाय जलात्मने ते तुभ्यं नमः ॥  इदानी नभोमूर्त्तिं स्तौति"
+    }
+  ]
+}

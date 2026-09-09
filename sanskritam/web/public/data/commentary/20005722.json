@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005722,
+    "chapter_id": 6628,
+    "verse_number": "16.44",
+    "content_sanskrit": "ततः सुपर्णव्रजपक्षजन्मा नानागतिर्मण्डलयञ्जवेन । जरत्तृणानीव वियन्निनाय वनस्पतीनां गहनानि वायुः ॥",
+    "padaccheda": "ततः । सुपर्णव्रजपक्षजन्मा । नानागतिः । मण्डलयन् । जवेन । जरत्तृणानि । इव । वियत् । निनाय । वनस्पतीनाम् । गहनानि । वायुः",
+    "anvaya": "ततः सुपर्ण-व्रज-पक्ष-जन्मा नाना-गतिः वायुः जवेन मण्डलयन् वनस्पतीनाम् गहनानि जरत्-तृणानि इव वियत् निनाय।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, a wind born from the wings of the flock of Garudas, moving in various directions and whirling with speed, carried the dense forests of trees into the sky as if they were old blades of grass.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005722,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति ॥ ततः सुपर्णव्रजानां तार्क्ष्यकुलानां पक्षेभ्यो जन्म यस्य स नानागतिर्विचित्रगतिर्वायुर्वनस्पतीनां वृक्षाणां गहनानि जरत्तृणानि जीर्णतृणानीव जवेन मण्डलयन्भ्रमयन्वियदन्तरिक्षं निनाय ।"
+    }
+  ]
+}

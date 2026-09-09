@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003316,
+    "chapter_id": 6590,
+    "verse_number": "14.67",
+    "content_sanskrit": "नृपस्य वर्णाश्रमपालनं यत्स एव ध्रर्मो मनुना प्रणीतः । निर्वासिताप्येवमतस्त्वयाहं तपस्विसामान्यमवेक्षणीया ॥",
+    "padaccheda": "नृपस्य । वर्णाश्रमपालनम् । यत् । सः । एव । धर्मः । मनुना । प्रणीतः । निर्वासिता । अपि । एवम् । अतः । त्वया । अहम् । तपस्विसामान्यम् । अवेक्षणीया",
+    "anvaya": "यत् वर्णाश्रमपालनम् (अस्ति), सः एव नृपस्य धर्मः मनुना प्रणीतः। अतः त्वया एवम् निर्वासिता अपि अहम् तपस्विसामान्यम् अवेक्षणीया।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"The protection of the social orders (varna) and stages of life (ashrama) is the duty of a king, as ordained by Manu. Therefore, even though exiled by you, I should be looked after by you as one of the common ascetics under your protection.\"",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003316,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नृपस्येति॥ वर्णानां ब्राह्मणादीनामाश्रमाणां ब्रह्मचर्यादीनां च पालनं यत्स एव नृपस्य धर्मो मनुना प्रणीत उक्तः। अतः कारणादेवं त्वया निर्वासिता निष्कासिताप्यहं तपस्विभिः सामान्यं साधारणं यथा भवति तथाऽवेक्षणीया। कलत्रदृष्ट्यभावेऽपि वर्णाश्रमदृषअटिः सीतायां कर्तव्येत्यर्थः ॥"
+    }
+  ]
+}

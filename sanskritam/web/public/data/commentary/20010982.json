@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010982,
+    "chapter_id": 6678,
+    "verse_number": "6.103",
+    "content_sanskrit": "गतं केसरिणामेतत् घोरमुर्वीधरस्थलम् । नखभिन्नेभकुम्भालिमुक्तमुक्ताच्छटाचितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010982,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गतमिति गत्यर्थस्याधिकरणे क्तः ॥"
+    }
+  ]
+}

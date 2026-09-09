@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004121,
+    "chapter_id": 6601,
+    "verse_number": "6.71",
+    "content_sanskrit": "तिर्यगूर्ध्वमधस्ताच्च व्यापको महिमा हरेः । त्रिविक्रमोद्यतस्यासीत्स च स्वाभाविकस्तव ॥",
+    "padaccheda": "तिर्यक् । ऊर्ध्वम् । अधस्तात् । च । व्यापकः । महिमा । हरेः । त्रिविक्रमोद्यतस्य । आसीत् । सः । च । स्वाभाविकः । तव",
+    "anvaya": "त्रिविक्रमोद्यतस्य हरेः महिमा तिर्यक् ऊर्ध्वम् अधस्तात् च व्यापकः आसीत्। सः च (महिमा) तव स्वाभाविकः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The glory of Vishnu, when he undertook his three great strides, was all-pervading—horizontally, upwards, and downwards. That same all-encompassing glory is natural to you.",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004121,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तिर्यगिति । तिर्यगूर्ध्वमधस्ताच्च व्यापकः । सर्वव्यापीत्यर्थः । महिमा महत्त्वं हरेर्विष्णोस्त्रिषु विक्रमेषूद्यतस्य सत आसीत् । त्रिविक्रमोद्यतस्यास्ति कदाचिदेव न तु सर्वदेत्यर्थः । तव तु व्यापको महिमा स्वाभाविकः । नित्यसिद्ध इत्यर्थः"
+    }
+  ]
+}

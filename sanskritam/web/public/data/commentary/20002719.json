@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002719,
+    "chapter_id": 6584,
+    "verse_number": "8.9",
+    "content_sanskrit": "न खरो न च भूयसा मृदुः पवमानः पृथिवीरुहानिव । स पुरस्कृतमध्यमक्रमो नमयामास नृपाननुद्धरन् ॥",
+    "padaccheda": "न । खरः । न । च । भूयसा । मृदुः । पवमानः । पृथिवीरुहान् । इव । सः । पुरस्कृतमध्यमक्रमः । नमयामास । नृपान् । अनुद्धरन्",
+    "anvaya": "सः पुरस्कृत-मध्यम-क्रमः (सन्) पवमानः पृथिवी-रुहान् इव, नृपान् अनुद्धरन् (एव), न खरः न च भूयसा मृदुः (भूत्वा) नमयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Adopting a middle course, he was neither harsh nor excessively soft. Like the wind that bends trees without uprooting them, he made other kings bow to him without deposing them from their thrones.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002719,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति॥ स नृपो भूयसा बाहुल्येन खरस्तीक्ष्णो न। भूयसा मृदुरतिमृदुरपि न। कुंतु पुरस्कृतमध्यमक्रमः सन्, मध्यमपरिपाटीमवलम्ब्येत्यर्थः। पवमानो वायुः पृथिवीरुहांस्तरूनिव नृपाननुद्धरन्ननुत्पाटयन्नेव नमयामास। अत्र कामन्दकः-`मृदुश्चेदवमन्येत तीक्ष्णादुद्विजते जनः। तीक्ष्णश्चैव मृदुश्चैव प्रजानां स च संमतः ॥` इति ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002465,
+    "chapter_id": 6580,
+    "verse_number": "4.76",
+    "content_sanskrit": "तस्योत्सृष्टनिवासेषु कण्ठरज्जुक्षतत्वचः । गजवर्ष्म किरातेभ्यः शशंसुर्देवदारवः ॥",
+    "padaccheda": "तस्य । उत्सृष्टनिवासेषु । कण्ठरज्जुक्षतत्वचः । गजवर्ष्म । किरातेभ्यः । शशंसुः । देवदारवः",
+    "anvaya": "तस्य उत्सृष्टनिवासेषु कण्ठरज्जुक्षतत्वचः देवदारवः किरातेभ्यः गजवर्ष्म शशंसुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In his abandoned encampments, the Deodar trees, their barks scraped by the neck-ropes of his elephants, indicated the great size of the elephants to the Kirata tribesmen.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002465,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ तस्य रघोरुत्सृष्टेषूज्झितेषु निवासेषु सेनानिवेशेषु कण्ठरज्जुभिर्गजग्रैवैः क्षता निष्पिष्टास्त्वचो येषां ते देवदारवः किरातेभ्यो वनचरेभ्यो गजानां वर्ष्म प्रमाणम्। `वर्ष्म देहप्रमाणयोः` इत्यमरः (अ.को.3|3|131)। शशंसुः कथितवन्तः, देवदारुस्कन्धत्वक्क्षतैर्गजानामौन्नत्युमनुमीयत इत्यर्थः ॥"
+    }
+  ]
+}

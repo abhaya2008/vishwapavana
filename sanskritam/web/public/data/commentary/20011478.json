@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011478,
+    "chapter_id": 6683,
+    "verse_number": "11.55",
+    "content_sanskrit": "किमाचरसि मामेवं पुरातनपुमन्नवम् । इत्युक्तः प्राञ्जलिः पार्थः पतितस्तस्य पादयोः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011478,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भावोऽयं गुरुविषयः । पुमन्निति । 'सान्त्महतस्संयोगस्ये'त्यत्राऽसंबुद्धाविति (पा.६|४|१०) वर्तते ।"
+    }
+  ]
+}

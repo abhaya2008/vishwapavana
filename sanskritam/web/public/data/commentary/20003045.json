@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003045,
+    "chapter_id": 6587,
+    "verse_number": "11.72",
+    "content_sanskrit": "मैथिलस्य धनुरन्यपार्थिवैस्त्वं किलानमितपूर्वमक्षणोः । तन्निशम्य भवता समर्थये वीर्यश्रृङ्गमिव भग्नमात्मनः ॥",
+    "padaccheda": "मैथिलस्य । धनुः । अन्यपार्थिवैः । अनमितपूर्वम् । अक्षणोः । किल । तत् । निशम्य । भवता । समर्थये । वीर्यश्रृङ्गम् । इव । भग्नम् । आत्मनः",
+    "anvaya": "त्वं मैथिलस्य अन्यपार्थिवैः अनमितपूर्वम् धनुः अक्षणोः किल । तत् निशम्य भवता आत्मनः भग्नं वीर्यश्रृङ्गम् इव समर्थये ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Paraśurāma remarked that Rāma had reportedly broken the bow of the King of Mithilā, a feat no other king had ever managed. Upon hearing this news, Paraśurāma felt as though his own 'horn of prowess'—his unique reputation for strength—had been broken by Rāma. He viewed Rāma's success not just as a feat of strength, but as a direct challenge to his own unmatched status as a warrior.",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003045,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मैथिलस्येति॥ अन्यैः पार्थइवैः। अनमितपूर्वं पूर्वमनमितम्। सुप्सुपेति समासः। अस्य मैथिलस्य धनुस्त्वमक्षणोः क्षतवान्। `किल`इति वार्तायाम्। `वार्तासेभाव्ययोः किल` इत्यमरः। तद्धनुर्भग्नं निशम्याकर्ण्य भवतात्मनो मम वीर्यमेव शृङगं भग्नमिव समर्थये मन्ये ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011039,
+    "chapter_id": 6679,
+    "verse_number": "7.49",
+    "content_sanskrit": "तपःकृशितसर्वाङ्गान् शास्त्राधीनान् सतस्तदा । 'प्रभिन्ना विविधैर्भागैर्निन्दन्त्यज्ञा निरङ्कुशाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011039,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "केवलमज्ञानादेव सज्जनं दुर्जनोभिभवतीत्यर्थः । एवं सदसद्भावौ विभज्येदानीं द्वैपायनो धनञ्जयमनुशास्ति ॥"
+    }
+  ]
+}

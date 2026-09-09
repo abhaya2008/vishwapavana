@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012125,
+    "chapter_id": 6688,
+    "verse_number": "16.132",
+    "content_sanskrit": "तिष्ठन् विशिखदंष्ट्रालस्संग्रामयमुनाह्रदे । अन्योऽहं कालियोऽमर्षं दुर्दोहगरलं हरे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012125,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अमर्षं गरलं दुर्दोह इत्यप्रधाने कर्मणि दुहादीनां खलादय इत्यकथितं कर्मणि खल् ॥"
+    }
+  ]
+}

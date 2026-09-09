@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002475,
+    "chapter_id": 6580,
+    "verse_number": "4.86",
+    "content_sanskrit": "स विश्वजितमाजह्ने यज्ञं सर्वस्वदक्षिणम् । आदानं हि विसर्गाय सतां वारिमुचामिव ॥",
+    "padaccheda": "सः । विश्वजितम् । आजह्रे । यज्ञम् । सर्वस्वदक्षिणम् । आदानम् । हि । विसर्गाय । सताम् । वारिमुचाम् । इव",
+    "anvaya": "सः सर्वस्वदक्षिणम् विश्वजितम् यज्ञम् आजह्रे। हि सताम् आदानम् वारिमुचाम् इव विसर्गाय (भवति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Raghu performed the Vishvajit sacrifice, in which the fee was all his possessions. For, the accumulation of wealth by the virtuous is for giving it away, just as clouds gather water only to rain it down.",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002475,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स रघुः सर्वस्वं दक्षिणा यस्य तं सर्वस्वदक्षिणम्। `विश्वजित्सर्वस्वदक्षिणः`इति श्रुतेः। विश्वजितं नाम यज्ञमाजह्ने। कृतवानित्यर्थः। युक्तं चैतदित्याह-सतां साधूनाम्। वारिमुचां मेघानामिव। आदानमर्जनं विसर्गाय त्यागाय हि। पात्रविनियोगायेत्यर्थः॥"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014063,
+    "chapter_id": 6706,
+    "verse_number": "14.134",
+    "content_sanskrit": "तत्तादृशे तत्र तीर्थे स भिक्षुः स्नात्वा भक्त्या रामनाथं प्रणम्य । तत्र श्रद्धोत्पत्तये मानुषाणां शिष्येभ्यस्तद्वैभवं सम्यगूचे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 134,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014063,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "॥ ३४ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014063,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "यत्रेत्याकाङ्क्षितं पूरयति । तदिति । तादृक्षे तादृशे महामहिमनीत्यर्थः । स पद्मपादाचार्याख्यः"
+    }
+  ]
+}

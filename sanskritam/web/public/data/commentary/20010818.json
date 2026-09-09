@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010818,
+    "chapter_id": 6677,
+    "verse_number": "5.58",
+    "content_sanskrit": "घातं सकललोकानां कर्तुमीशं तपोनिधिम् । सर्वरक्षोवधस्यैकहेतुं दाशरथेर्गुरुम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010818,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "घातमिति । 'हनश्च वधः' (पा.३|३|७६) इति चकारेण भिन्नक्रमेण घञ् । हनोऽप् । घञ् च । अप्संनियोगेन च वधादेश इति । सर्वरक्षोवधस्येत्यपि वधः ॥"
+    }
+  ]
+}

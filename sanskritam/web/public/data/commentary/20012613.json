@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012613,
+    "chapter_id": 6693,
+    "verse_number": "1.58",
+    "content_sanskrit": "अथेन्द्रो नृपतिर्भूत्वा प्रजा धर्मेण पालयन् । दिवं चकार पृथिवीं स्वपुरीममरावतीम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012613,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "दिवं स्वर्गम् ॥ ५८ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012613,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "अथेति । नृपतिः सुधन्वाभिधो भूपतिरित्यर्थः"
+    }
+  ]
+}

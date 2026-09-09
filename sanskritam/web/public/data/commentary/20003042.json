@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003042,
+    "chapter_id": 6587,
+    "verse_number": "11.69",
+    "content_sanskrit": "अर्ध्यमर्ध्यमिति वादिनं नृपं सोऽनवेक्ष्य मरताग्रजो यतः । क्षत्रकोपदहनार्चिषं ततः संदधे दृशमुदग्रतारकाम् ॥",
+    "padaccheda": "सः । भरताग्रजः । अर्घ्यम् । इति । वादिनम् । नृपम् । अनवेक्ष्य । यतः । ततः । क्षत्रकोपदहनार्चिषम् । उदग्रतारकाम् । दृशम् । संदधे",
+    "anvaya": "सः भरताग्रजः अर्घ्यम् अर्घ्यम् इति वादिनं नृपम् अनवेक्ष्य यतः ततः क्षत्रकोपदहनार्चिषम् उदग्रतारकां दृशं संदधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Ignoring King Daśaratha, who was repeatedly offering him the traditional respectful 'arghya', Paraśurāma fixed his gaze intently upon Rāma. His eyes, with pupils raised in intensity, burned like the flames of his legendary wrath against the Kṣatriya race. He completely disregarded the king's hospitality, focusing his entire formidable attention on the young prince who shared his name.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003042,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अर्घ्यमिति॥ स भार्गवः। अर्घ्यमर्घ्यमिति वादिनं नृपमनवेक्षअय। यतो यत्र भरताग्रजस्ततस्तत्र। `इतराभ्योऽपि दृश्यन्ते` (पा.5।3।14) इति सार्वविभक्तिकस्तसिः। क्षत्रे क्षत्रकुले विषये यः कोपदहनो रोषाग्निस्तस्यार्चिषं ज्वालामिव स्थिताम्। `ज्वालाभासोर्नपुंस्यर्चिः` इत्यमरः। उदग्रा तारका कनीनिका यस्यास्ताम्। `तारकाऽक्ष्णः कनीनिका` इत्यमरः। दृशं संदधे ॥"
+    }
+  ]
+}

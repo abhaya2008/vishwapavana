@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010848,
+    "chapter_id": 6677,
+    "verse_number": "5.88",
+    "content_sanskrit": "तवोदपादि यज्ञेषु सुराणां सोमपायिका । ओजस्विनो यया मत्तास्ते सपत्नानतापयन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010848,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तव यज्ञेषु सुराणां सोमपायिका उदपादि इत्यन्वय: । अत्रोत्पत्तौ ण्वुच् ॥"
+    }
+  ]
+}

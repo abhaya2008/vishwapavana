@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011427,
+    "chapter_id": 6683,
+    "verse_number": "11.4",
+    "content_sanskrit": "विसर्पता समीरेण क्षिप्यमाणमितस्ततः । वियन्महातमालस्य पर्णराशिमिव च्युतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011427,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्रोत्प्रेक्षारूपकसंसृष्टिः ॥"
+    }
+  ]
+}

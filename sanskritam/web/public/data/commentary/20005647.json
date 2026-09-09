@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005647,
+    "chapter_id": 6627,
+    "verse_number": "15.22",
+    "content_sanskrit": "निशितासिरतोऽभीको न्येजतेऽमरणा रुचा । सारतो न विरोधी नः स्वाभासो भरवानुत ॥",
+    "padaccheda": "निशितासिरतः । अभीकः । न्येजते । अमरणा । रुचा । सारतः । न । विरोधी । नः । स्वाभासो । भरवान् । उत",
+    "anvaya": "निशित-असि-रतः अभीकः अमरणा रुचा न्येजते । सारतः सु-आभासः भरवान् (सः) नः विरोधी न उत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This verse is a palindrome of syllables, reading the same forwards and backwards. It means: 'Delighting in his sharp sword, the fearless one shines with immortal splendor. In essence, that one, of great splendor and substance, is not our enemy, is he?'",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005647,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "निशितेति ॥ हे अमरणा मरणरहिताः, निशितासिरतोऽतितीक्ष्णखड्गरतोऽभीको निर्भीको रुचा तेजसोपलक्षितः सुष्ट्वाभासत इति स्वाभासो रमणीयः। पचाद्यच् । उतात्यर्थमतिशयेन भरवान्। रणभरसहिष्णुरित्यर्थः । `उत्तात्यर्थविकल्पयोः` इति विश्वः। ईदृशो नोऽस्माकं विरोधी शत्रुः सारतो बलतो न न्येजते न कम्पते । न प्रचलतीत्यर्थः। `एज कम्पने`। लट्। अतो भवद्भिरपि स्थातव्यमेव । न चलितव्यमिति भावः ।। नन्वयं न चलतीति कथं ज्ञायते । तत्राह"
+    }
+  ]
+}

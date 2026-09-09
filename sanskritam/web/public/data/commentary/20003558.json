@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003558,
+    "chapter_id": 6593,
+    "verse_number": "17.31",
+    "content_sanskrit": "प्रसन्नमुखरागं तं स्मितपूर्वाभिभाषिणम् । मूर्तिमन्तममन्यन्त विश्वासमनुजीविनः ॥",
+    "padaccheda": "प्रसन्नमुखरागम् । तम् । स्मितपूर्वाभिभाषिणम् । मूर्तिमन्तम् । अमन्यन्त । विश्वासम् । अनुजीविनः",
+    "anvaya": "अनुजीविनः प्रसन्नमुखरागम् स्मितपूर्वाभिभाषिणम् तम् मूर्तिमन्तम् विश्वासम् अमन्यन्त।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His dependents considered him, with his pleasant facial expression and his habit of speaking with a preceding smile, to be Confidence personified.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003558,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रसन्नेति॥ प्रसन्नो मुखरागो मुखकान्तिर्यस्य तं स्मितपूर्वं यथा तथाऽभिभाषिणमाभाषणशीलं तमतिथिम्। अनुजीविनो मूर्तिमन्तं विग्रहवन्तं विश्वासं विस्रम्भममन्यन्त। `समौ विस्रम्भविश्वासौ` इत्यमरः (अ.को.2|8|23) ॥"
+    }
+  ]
+}

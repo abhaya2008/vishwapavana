@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011724,
+    "chapter_id": 6685,
+    "verse_number": "13.60",
+    "content_sanskrit": "नृपः प्रत्युदतिष्ठत्तमुपायान्तं प्रवेशितम् । सह वृष्ण्यन्धकैस्सर्वे रणन्मणिविभूषणैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011724,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रत्युदतिष्ठदिति । ईहाभावादिति तिप् । सह वृष्ण्यन्धकैरिति । आत्मानमनुतिष्ठद्भिरित्येव ॥"
+    }
+  ]
+}

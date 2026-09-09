@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002952,
+    "chapter_id": 6586,
+    "verse_number": "10.65",
+    "content_sanskrit": "विभक्तात्मा विभुस्तासामेकः कुक्षिष्वनेकधा । उवास प्रतिमाचन्द्रः प्रसन्नानामपामिव ॥",
+    "padaccheda": "विभक्तात्मा । विभुः । तासाम् । एकः । कुक्षिषु । अनेकधा । उवास । प्रतिमाचन्द्रः । प्रसन्नानाम् । अपाम् । इव",
+    "anvaya": "विभुः एकः (अपि) विभक्तात्मा (सन्) प्रसन्नानाम् अपां प्रतिमाचन्द्रः इव तासां कुक्षिषु अनेकधा उवास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The omnipresent Lord, though one, divided Himself and resided in the wombs of the queens in multiple forms, just as the reflection of the moon appears in many clear waters.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002952,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विभक्तेति॥ एक एकरूपो विभुर्विष्णुस्तासां राजपत्नीनां कुक्षिषु गर्भेषु। प्रसन्नानां निर्मलानामपां कुक्षिषु प्रतिमाचन्द्रः प्रतिबिम्बचन्द्र इव। अनेकधा विभक्तात्मा सन्। उवास ॥"
+    }
+  ]
+}

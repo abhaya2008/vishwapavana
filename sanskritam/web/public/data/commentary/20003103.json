@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003103,
+    "chapter_id": 6588,
+    "verse_number": "12.37",
+    "content_sanskrit": "फलमस्योपहासस्य सद्यः प्राप्स्यसि पश्य माम् । मृग्याः परिभवो व्याघ्र्यामित्यवेहि त्वया कृतम् ॥",
+    "padaccheda": "फलम् । अस्य । उपहासस्य । सद्यः । प्राप्स्यसि । पश्य । माम् । मृग्याः । परिभवः । व्याघ्र्याम् । इति । अवेहि । त्वया । कृतम्",
+    "anvaya": "अस्य उपहासस्य फलम् सद्यः प्राप्स्यसि माम् पश्य त्वया व्याघ्र्याम् मृग्याः परिभवः कृतः इति अवेहि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'You shall immediately reap the fruit of this ridicule. Look at me! Know that you, a mere deer, have insulted a tigress,' she threatened.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003103,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "फलमिति॥ श्लोकद्वयेनान्वयः। अस्योपहासस्य फलं सद्यः संप्रत्येव प्राप्स्यसि। मां पश्य । त्वया कर्त्र्या कृतमुपहासरूपं करणं व्याघ्र्यां विषये मृग्याः कर्त्रअयाः परिभव इत्यवेहि ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011429,
+    "chapter_id": 6683,
+    "verse_number": "11.6",
+    "content_sanskrit": "रविदावाग्निदग्धस्य रेणुं व्योमगिरेरिव । सहडिण्डीरभस्मानं पवमानेन पातितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011429,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'डिण्डीरोऽब्धिकफः फेनः' इत्यमरः ॥"
+    }
+  ]
+}

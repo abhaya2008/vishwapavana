@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010925,
+    "chapter_id": 6678,
+    "verse_number": "6.46",
+    "content_sanskrit": "चिकीर्षुरग्निकार्यं स ज्वलितं तत्र पावकम् । साधनानि च सर्वाणि तस्यास्सद्मनि दृष्टवान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010925,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स तत्र रसातले वर्तमाने तस्यास्सद्मनि अग्निकार्यचिकीर्षुर्ज्वलितं पावकं साधनानि च सर्वाणि दृष्टवानित्यन्वयः ॥"
+    }
+  ]
+}

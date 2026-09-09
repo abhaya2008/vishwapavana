@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003270,
+    "chapter_id": 6590,
+    "verse_number": "14.21",
+    "content_sanskrit": "पितुर्नियोगाद्वनवासमेवं निस्तीर्य रामः प्रतिपन्नराज्यः । धर्मार्थकामषु समां प्रपेदे यथा तथैवावरजेषु वृत्तिम् ॥",
+    "padaccheda": "पितुः । नियोगात् । वनवासम् । एवम् । निस्तीर्य । रामः । प्रतिपन्नराज्यः । धर्मार्थकामषु । समाम् । प्रपेदे । यथा । तथा । एव । अवरजेषु । वृत्तिम्",
+    "anvaya": "पितुः नियोगात् एवम् वनवासम् निस्तीर्य प्रतिपन्नराज्यः रामः यथा धर्मार्थकामषु तथा एव अवरजेषु (अपि) समाम् वृत्तिम् प्रपेदे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having completed the forest exile as commanded by his father, Rama, who had now regained his kingdom, adopted an equal attitude towards dharma, artha, and kama, and similarly towards his younger brothers.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003270,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पितुरिति॥ राम एवं पितुर्नियोगाच्छासनाद्वनवासं निस्तीर्य, अनन्तरं प्रतिपन्नराज्यः प्राप्तराज्यः सन्। धऱ्मार्थकामेषु यथा तथैवावरजेष्वनुजेषु समां वृत्तिं प्रपेदे। अवैषम्येण व्यवहृतवानित्यर्थः ॥"
+    }
+  ]
+}

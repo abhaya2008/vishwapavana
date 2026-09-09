@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013325,
+    "chapter_id": 6699,
+    "verse_number": "7.111",
+    "content_sanskrit": "अयं च पन्था यदि ते प्रकाश्यः सुधीश्वरो मण्डनमिश्रशर्मा । दिगन्तविश्रान्तयशा विजेयो यस्मिञ्जिते सर्वमिदं जितं स्यात् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013325,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अद्वैतमार्गप्रकाशनाय मां जेतुमयमागत इति विज्ञायाऽऽह । अयं चेति । दिशामन्ते विश्रान्तं यशो यस्य ॥ १३ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013325,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "अयमद्वैतविद्यारूपः"
+    }
+  ]
+}

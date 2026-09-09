@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003118,
+    "chapter_id": 6588,
+    "verse_number": "12.52",
+    "content_sanskrit": "निग्रहात्स्वसुराप्तानां वधाञ्च धनदानुजः । रामेण निहितं मेने पदं दशसु मूर्धसु ॥",
+    "padaccheda": "निग्रहात् । स्वसुः । आप्तानाम् । वधात् । च । धनदानुजः । रामेण । निहितम् । मेने । पदम् । दशसु । मूर्धसु",
+    "anvaya": "धनदानुजः स्वसुः निग्रहात् आप्तानां वधात् च रामेण दशसु मूर्धसु पदं निहितं मेने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Ravana, the younger brother of Kubera, felt that by the humiliation of his sister and the slaughter of his kinsmen, Rama had effectively placed his foot upon all ten of his heads.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003118,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निग्रहादिति॥ स्वसुः शूर्पणखाया निग्रहादङ्गच्छेदादाप्तानां बन्धूनां खरादीनां वछाञ्च कारणाद्धनदानुजो रावणो रामेण दशसु मूर्धसु पदं पादं निहितं मेने ॥"
+    }
+  ]
+}

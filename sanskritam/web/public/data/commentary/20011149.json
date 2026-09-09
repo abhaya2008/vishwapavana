@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011149,
+    "chapter_id": 6680,
+    "verse_number": "8.35",
+    "content_sanskrit": "कच्चित् कुशलिनोऽश्वास्ते रथ्या युग्यास्तथर्षभाः । राष्ट्रे ते वणिजः कच्चित् शाकटान् वर्धयन्ति गाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011149,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "रथ्ययुग्ययोः 'तद्वहति रथयुगप्रसङ्गम्' (पा.४|४|७६) इति यत् । शाकटानिति 'शकटदण्' (पा.४|४|८०) इत्यण् ॥"
+    }
+  ]
+}

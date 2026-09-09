@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011652,
+    "chapter_id": 6684,
+    "verse_number": "12.104",
+    "content_sanskrit": "अन्वतप्ताऽभिमानेन प्रियसन्नाऽनुपेयुषी । शशाङ्कबिम्बं पश्यन्ती दिवि काचन कामिनी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011652,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अन्वतप्तेति । 'तपोऽनुतापे चे'ति (पा.३|१|६५) चिणः प्रतिषेधे सिच् । अनुतापः । पश्चात्तापः ॥"
+    }
+  ]
+}

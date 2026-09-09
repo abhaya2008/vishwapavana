@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003874,
+    "chapter_id": 6598,
+    "verse_number": "3.32",
+    "content_sanskrit": "चूताङ्कुरास्वादकषायकण्ठः पुंस्कोकिलो यन्मधुरं चुकूज । मनस्विनीमानविघातदक्षं तदेव जातं वचनं स्मरस्य ॥",
+    "padaccheda": "चूताङ्कुरास्वादकषायकण्ठः । पुंस्कोकिलः । यत् । मधुरम् । चुकूज । मनस्विनीमानविघातदक्षम् । तत् । एव । जातम् । वचनम् । स्मरस्य",
+    "anvaya": "चूत-अङ्कुर-आस्वाद-कषाय-कण्ठः पुंस्कोकिलः यत् मधुरम् चुकूज, तत् एव मनस्विनी-मान-विघात-दक्षम् स्मरस्य वचनम् जातम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sweet cooing of the male cuckoo, whose throat was astringent from tasting mango sprouts, itself became the very utterance of Kama (the god of love), skilled in breaking the proud reserve of high-minded women.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003874,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चूताङ्कुरेति । चूताङ्कुराणामास्वादेन कषायकण्ठो रक्तकण्ठः । `सरभावपथे रक्ते कषायः` इति केशवः । पुमान्कोकिलः । पुंग्रहणं प्रागल्भ्यद्योतनार्थम् । मधुरं चुकूजेति यत्तत्कूजनमेव मनस्विनीनां मानविघाते रोषनिरासे दक्षं स्मरस्य वचनं मानं त्यजतेत्याज्ञावचनं जातम् । कोकिलकूजितश्रवणानन्तरं स्मराज्ञत्पा इव मानं जहुरित्यर्थः"
+    }
+  ]
+}

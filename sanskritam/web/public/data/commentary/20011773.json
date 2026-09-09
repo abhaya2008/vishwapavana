@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011773,
+    "chapter_id": 6685,
+    "verse_number": "13.109",
+    "content_sanskrit": "श्यामां विशालेक्षणमूढदण्डं रक्तान्तरीयं रचितोर्ध्वपुण्ड्रम् । न्यशामयन्मस्करिणं कुमारी कुतूहलेन स्तिमितैरपाङ्गैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011773,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "न्यशामयदपश्यत् । शमोऽदर्शन इति (पा.७|३|७४) मित्संज्ञाया अभावात् 'मितां ह्रस्व' इति (पा.६|४|९२) ह्रस्वाभावः ॥"
+    }
+  ]
+}

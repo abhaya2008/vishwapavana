@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011546,
+    "chapter_id": 6683,
+    "verse_number": "11.123",
+    "content_sanskrit": "दामोदराऽहं तव पक्षपाती मत्पक्षपाती न पुनः कुतस्त्वम् ? कृष्णेन भग्नोऽयमुल्खलेन त्वयाऽर्जुनो भूमितले स्म शेते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011546,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "छलालङ्कारोयम् ॥"
+    }
+  ]
+}

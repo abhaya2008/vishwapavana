@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010846,
+    "chapter_id": 6677,
+    "verse_number": "5.86",
+    "content_sanskrit": "ब्रह्मर्षीणामशेषाणां त्वमर्हस्यग्रसारिकाम् । अतितीव्रं तपस्तप्त्वा तपसा किं न लभ्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010846,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अग्रसारिकामित्यर्हे ण्वुच् ॥"
+    }
+  ]
+}

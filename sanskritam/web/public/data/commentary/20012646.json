@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012646,
+    "chapter_id": 6693,
+    "verse_number": "1.91",
+    "content_sanskrit": "श्रुत्वाऽशरीरिणीं वाणीं ददर्श वसुधाधिपः । मूर्तिं मधुद्विषः कुम्भे सुधामिव सुराधिपः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012646,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "मधुद्विषो विष्णोः सुराधिप इन्द्रः ॥ ९१ ॥"
+    }
+  ]
+}

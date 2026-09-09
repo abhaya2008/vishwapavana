@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002523,
+    "chapter_id": 6581,
+    "verse_number": "5.46",
+    "content_sanskrit": "शैलोपमः शैवलमञ्जरीणां जालानि कर्षन्नुरसा स पश्चात् । पूर्वं तदुत्पीडितवारिराशिः सरित्प्रवाहस्तटमुत्ससर्प ॥",
+    "padaccheda": "शैलोपमः । शैवलमञ्जरीणाम् । जालानि । कर्षन् । उरसा । सः । पश्चात् । पूर्वम् । तदुत्पीडितवारिराशिः । सरित्प्रवाहः । तटम् । उत्ससर्प",
+    "anvaya": "पश्चात् शैल-उपमः सः उरसा शैवल-मञ्जरीणाम् जालानि कर्षन् (आगच्छति स्म) । पूर्वम् तत्-उत्पीडित-वारि-राशिः सरित्-प्रवाहः तटम् उत्ससर्प ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "First, the river's current, a mass of water displaced by the elephant, surged towards the bank. Afterwards, the mountain-like elephant itself followed, dragging masses of moss-clusters with its chest.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002523,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शैलेति॥ शैलोपमः स गजः शैवलमञ्जरीणां जालानि वृन्दान्युरसा कर्षन् पश्चात्तटमुत्ससर्प। पूर्वं तेन गजेनोत्पीडितो नुन्नो वारिराशिर्यस्य स सरित्प्रवाहस्तटमुत्ससर्प ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005764,
+    "chapter_id": 6629,
+    "verse_number": "17.22",
+    "content_sanskrit": "क्षोभेण तेनाथ गणाधिपानां भेदं ययवाकृतिरीश्वरस्य । तरङ्गकम्पेन महाह्रदानां छायामयस्येव दिनस्य कर्तुः ॥",
+    "padaccheda": "क्षोभेण । तेनाथ । गणाधिपानां । भेदं । ययौ । आकृतिरीश्वरस्य । तरङ्गकम्पेन । महाह्रदानां । छायामयस्येव । दिनस्य । कर्तुः",
+    "anvaya": "अथ तेन गणाधिपानाम् क्षोभेण ईश्वरस्य आकृतिः भेदम् ययौ, महाह्रदानाम् तरङ्गकम्पेन छायामयस्य दिनस्य कर्तुः आकृतिः इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, due to that agitation of the Gana chiefs, the form of Ishvara (Shiva) appeared fragmented, just as the reflected image of the sun, the maker of the day, appears fragmented in great lakes due to the trembling of the waves.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005764,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "क्षोभेणेति ॥ अथ गणाधिपानां संबन्धिना तेन क्षोभेण कम्पेनेश्वरस्याकृतिराकारो मूर्तिर्महाहृदानां तरंगकम्पेन छायामयस्य प्रतिबिम्बरूपस्य दिनस्य कर्तुर्दिवाकरस्याकृतिरिव भेदं विकारं ययौ प्राप । स्वयं निर्विकारोऽपि प्रतिमासूर्यवत्परसंसर्गात्तथा प्रतीयत इत्यर्थः ॥ यदि देवोऽपि विकृतस्तर्हि कोपः किं न कृतः। तत्राह"
+    }
+  ]
+}

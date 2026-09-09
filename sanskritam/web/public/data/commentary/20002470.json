@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002470,
+    "chapter_id": 6580,
+    "verse_number": "4.81",
+    "content_sanskrit": "चकम्पे तीर्णलौहित्ये तस्मिन्प्राग्ज्योतिषेश्वरः । तद्गजालानतां प्राप्तैः सह कालागुरुद्रुमैः ॥",
+    "padaccheda": "चकम्पे । तीर्णलौहित्ये । तस्मिन् । प्राग्ज्योतिषेश्वरः । तद्गजालानतां । प्राप्तैः । सह । कालागुरुद्रुमैः",
+    "anvaya": "तस्मिन् तीर्णलौहित्ये (सति) प्राग्ज्योतिषेश्वरः तत्गजालानतां प्राप्तैः कालागुरुद्रुमैः सह चकम्पे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When Raghu crossed the Lauhitya river, the king of Pragjyotisha trembled, along with the black aloe-wood trees which had served as tying posts for Raghu's elephants.",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002470,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चकम्प इति॥ तस्मिन्रघौ। तीर्णा लौहित्या नाम नदी येन तस्मिंस्तीर्णलौहित्ये सति। प्राग्ज्योतिषाणां जनपदानामीश्वरस्तस्य रघोर्गजानामालानतां प्राप्तैः कालागुरुद्रुमैः कृष्णागुरुवृक्षैः सह चकम्पे कम्पितवान् ॥"
+    }
+  ]
+}

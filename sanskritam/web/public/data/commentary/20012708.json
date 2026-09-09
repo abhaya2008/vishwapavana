@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012708,
+    "chapter_id": 6694,
+    "verse_number": "2.55",
+    "content_sanskrit": "तौ दंपती शिवपरौ नियतौ स्मरन्तौ स्वप्रेक्षितं गृहगतौ बहुदक्षिणाभैः । संतर्प्य विप्रनिकरं तदुदीरिताभिराशीर्भिरापतुरनल्पमुदं विशुद्धौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012708,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "विप्रनिकरं ब्राह्मणसमूहम् ॥ ५५ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012708,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "ताविति । यतो विशुद्धौ तपःक्षीणकलुषावतोऽनल्पेत्यादिसंबन्धः"
+    }
+  ]
+}

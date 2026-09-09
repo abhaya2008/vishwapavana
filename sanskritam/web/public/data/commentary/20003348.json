@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003348,
+    "chapter_id": 6591,
+    "verse_number": "15.12",
+    "content_sanskrit": "तमृषिः पूजयामास कुमारं क्लान्तवाहनम् । तपःप्रभावसिद्धाभिर्विशेषप्रतिपत्तिभिः ॥",
+    "padaccheda": "तम् । ऋषिः । पूजयामास । कुमारम् । क्लान्तवाहनम् । तपःप्रभावसिद्धाभिः । विशेषप्रतिपत्तिभिः",
+    "anvaya": "ऋषिः क्लान्तवाहनं तं कुमारं तपःप्रभावसिद्धाभिः विशेषप्रतिपत्तिभिः पूजयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sage Valmiki honored the prince, whose horses were weary, with special acts of hospitality that were made possible by the power of his own ascetic penance.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003348,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ क्लान्तवाहनं श्रान्तयुग्यं तं कुमारं शत्रुघ्नमृषिर्वाल्मीकिस्तपः प्रभावसिद्धाभिर्विशेषप्रतिपत्तिभिरुत्कृष्टसंभावनाभिः पूजयामास ॥"
+    }
+  ]
+}

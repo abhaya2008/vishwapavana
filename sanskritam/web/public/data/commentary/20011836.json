@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011836,
+    "chapter_id": 6686,
+    "verse_number": "14.60",
+    "content_sanskrit": "महाविषं जगद्गुप्त्यै कालकूटं त्वमादिथ । पातुं भूतानि भूतेभ्यश्श्मशानानि त्वमारिथ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011836,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनेन लोकरक्षामाह आदिथ जघसिथ । तथा भूतेभ्यो रक्षः पिशाचादिभ्यो भूतानि पातुं श्मशानानि त्वमारिथ ययिथ । इडत्त्यर्तिव्ययतीनामिति (पा.७|२|६६) थलि नित्य इट् ॥"
+    }
+  ]
+}

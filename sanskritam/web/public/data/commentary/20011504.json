@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011504,
+    "chapter_id": 6683,
+    "verse_number": "11.81",
+    "content_sanskrit": "को वर्णयति कृष्ण त्वां लोकनाथाऽर्यवत्सल । वेदान्तैर्मृगयन्ते यं सन्तोऽपि न पुनविँदुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011504,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वर्णयतिमृगयती चुरादौ । मृग अन्वेषणे । अदन्तोऽनुदात्तेत् । सन्तो विद्वांसः ॥"
+    }
+  ]
+}

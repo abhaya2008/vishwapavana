@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002425,
+    "chapter_id": 6580,
+    "verse_number": "4.36",
+    "content_sanskrit": "वङ्गानुत्खाय तरसा नेता नौसाधनोद्यतान् । निचखान जयस्तम्भान्गङ्गास्रोतोन्तरेषु सः ॥",
+    "padaccheda": "वङ्गान् । उत्खाय । तरसा । नेता । नौसाधनोद्यतान् । निचखान । जयस्तम्भान् । गङ्गास्रोतोन्तरेषु । सः",
+    "anvaya": "नेता सः तरसा नौ-साधन-उद्यतान् वङ्गान् उत्खाय, गङ्गा-स्रोतः-अन्तरेषु जय-स्तम्भान् निचखान ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That leader (Raghu), having forcefully uprooted the Vangas who were proficient in naval warfare, planted pillars of victory on the islands amidst the streams of the Ganges.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002425,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वङ्गानिति॥ नेता नायकः स रघुर्नौभिः साधनैरुद्यतान्संनद्धान् वङ्गान्राज्ञस्तरसा बलेन। `तरसी बलरंहसी` इति यादवः। उत्खायोन्मूल्य गङ्गायाः स्रोतसां प्रवाहाणामन्तरेषु द्वीपेषु जयस्तम्भान्निचखान। स्थापितवानित्यर्थः॥"
+    }
+  ]
+}

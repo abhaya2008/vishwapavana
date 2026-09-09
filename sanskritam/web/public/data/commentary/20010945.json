@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010945,
+    "chapter_id": 6678,
+    "verse_number": "6.66",
+    "content_sanskrit": "गत्वाथ कथयित्वा सः स्वस्यादर्शनकारणम् । परमं विस्मयं निन्ये परिपृष्टवतो मुनीन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010945,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परिपृष्टवत इत्युक्तम् । कथं परिपृष्टवत इत्युच्यते—"
+    }
+  ]
+}

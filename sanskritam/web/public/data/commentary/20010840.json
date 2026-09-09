@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010840,
+    "chapter_id": 6677,
+    "verse_number": "5.80",
+    "content_sanskrit": "कोशान् पूरयत द्रव्यैर्दत्त्वा भुक्त्वा च कच्चन । अभ्यूषखादिकाद्या वः क्रीडा धिन्वन्ति कच्चन ? ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010840,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अभ्यूषखादिकाद्या इति 'संज्ञायां' (पा.३|३|१०९) इति ण्वुल् ॥"
+    }
+  ]
+}

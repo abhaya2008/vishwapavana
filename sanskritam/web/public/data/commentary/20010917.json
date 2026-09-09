@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010917,
+    "chapter_id": 6678,
+    "verse_number": "6.38",
+    "content_sanskrit": "जीवनाशमिमामास्म नश्यन्निति सदैक्षत । वनेचरीस्स माहेयीर्मुनीनामग्निहोत्रिणाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010917,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "‘जीवनाशमिमामास्म नश्यन्’, इति स्मोत्तरे लङ् च (पा.३|३|१७६) । ‘कर्त्रोर्जीवपुरुषयोर्नशिवहोः’ (पा.३|४|४३) इति कर्तरि जीव उपपदे नशेर्णमुल् ॥"
+    }
+  ]
+}

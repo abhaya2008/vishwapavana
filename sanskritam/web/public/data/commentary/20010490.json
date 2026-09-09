@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010490,
+    "chapter_id": 6674,
+    "verse_number": "2.70",
+    "content_sanskrit": "महीलोकमहेन्द्रोऽसौ माहेन्द्रमभृतायुधम् । शोणश्यामविभूषाश्मकिरणव्यतिषङ्गजम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010490,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "श्लोकद्वयमुदात्तालङ्कारः । अभृत इति 'ह्रस्वादङ्गादि'ति (पा.८|२|२७) सिचो लोपः ॥"
+    }
+  ]
+}

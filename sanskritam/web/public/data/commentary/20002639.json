@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002639,
+    "chapter_id": 6582,
+    "verse_number": "6.86",
+    "content_sanskrit": "प्रमुदितवरपक्षमेकतस्तत्क्षितिपतिमण्डलमन्यतो वितानम् । उषसि सर इव प्रफुल्लपद्मं कुमुदवनप्रतिपन्ननिद्रमासीत् ॥",
+    "padaccheda": "प्रमुदितवरपक्षम् । एकतः । तत् । क्षितिपतिमण्डलम् । अन्यतः । वितानम् । उषसि । सरः । इव । प्रफुल्लपद्मम् । कुमुदवनप्रतिपन्ननिद्रम् । आसीत्",
+    "anvaya": "एकतः प्रमुदित-वर-पक्षम्, अन्यतः वितानम् तत् क्षितिपति-मण्डलम्, उषसि प्रफुल्ल-पद्मम् कुमुद-वन-प्रतिपन्न-निद्रम् सरः इव आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That assembly of kings became like a lake at dawn: on one side, the groom's party was joyous, like blooming lotuses; on the other side, the rejected suitors were dejected and pale, like a forest of night-lilies that have closed up and gone to sleep.",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002639,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रमुदितेति॥ एकत एकत्र प्रमुदितो हृष्टो वरस्य जामातुः पक्षो वर्गो यस्य तत्तथोक्तम्। अन्यतोऽन्यत्र वितानं शून्यम्। भग्नाशत्वादप्रहृष्टमित्यर्थः। तत्क्षितिपतिमण्डलम्। उषसि प्रफुल्लपद्मं कुमुदवनेन प्रतिपन्ननिर्द्रप्राप्तनिमीलनं सर इव सरस्तुल्यम्। आसीत्। पुष्पिताप्रावृत्तमेतत् ॥"
+    }
+  ]
+}

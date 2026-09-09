@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005755,
+    "chapter_id": 6629,
+    "verse_number": "17.13",
+    "content_sanskrit": "सम्प्रीयमाणोऽनुबभूव तीव्रं पराक्रमं तस्य पतिर्गणानाम् । विषाणभेदं हिमवानसह्यं वप्रानतस्येव सुरद्विपस्य ॥",
+    "padaccheda": "सम्प्रीयमाणो । अनुबभूव । तीव्रं । पराक्रमं । तस्य । पतिर्गणानाम् । विषाणभेदं । हिमवान् । असह्यं । वप्रानतस्य । इव । सुरद्विपस्य",
+    "anvaya": "गणानाम् पतिः सम्प्रीयमाणः सन् तस्य तीव्रम् पराक्रमम् अनुबभूव, हिमवान् वप्रानतस्य सुरद्विपस्य असह्यम् विषाणभेदम् इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lord of the Ganas (Shiva), being pleased, experienced Arjuna's intense prowess, just as the Himalaya mountain experiences the unbearable goring of its tusks by the divine elephant (Airavata) as it bends to butt against its slopes.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005755,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "समिति ॥ गणानां पतिः शिवस्तीव्रं तस्यार्जुनस्य पराक्रमं वप्रे रोधस्यानतस्य परिणतस्य । तटप्रहारिण इत्यर्थः । सुरद्विपस्यासह्यं विषाणभेदं दन्तप्रहारं हिमवानिव संप्रीयमाणः संहृष्यन्ननुबभूवानुभवति स्म । तस्याक्षोभ्यत्वादनुजिघृक्षुत्वाच्चेति भावः ।।"
+    }
+  ]
+}

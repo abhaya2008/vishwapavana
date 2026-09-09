@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003955,
+    "chapter_id": 6599,
+    "verse_number": "4.37",
+    "content_sanskrit": "इति चापि विधाय दीयतां सलिलस्याञ्जलिरेक एव नौ । अविभज्य परत्र तं मया सहितः पास्यति ते स बान्धवः ॥",
+    "padaccheda": "इति । च । अपि । विधाय । दीयताम् । सलिलस्य । अञ्जलिः । एकः । एव । नौ । अविभज्य । परत्र । तम् । मया । सहितः । पास्यति । ते । सः । बान्धवः",
+    "anvaya": "इति च अपि विधाय, नौ एकः एव सलिलस्य अञ्जलिः दीयताम्। परत्र ते सः बान्धवः मया सहितः तम् अविभज्य पास्यति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"And having done this, let just one handful of water be offered for us both. In the next world, that kinsman of yours (Kama), together with me, will drink it without division.\"",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003955,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति ॥ अपि चेत्येवं विधाय कृत्वा नावावाभ्यामेक एव सलिलस्याञ्जलिर्दीयताम् । तमञ्जलिं स ते बान्धवः सखा स्मरः परत्र परलोके मया सहितोऽविभज्य पास्यति"
+    }
+  ]
+}

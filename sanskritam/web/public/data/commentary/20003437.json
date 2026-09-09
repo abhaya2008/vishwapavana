@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003437,
+    "chapter_id": 6591,
+    "verse_number": "15.101",
+    "content_sanskrit": "यद्गोप्रतरकल्पोऽभूत्संमर्दस्तत्र मज्जताम् । अतस्तदाख्यया तीर्थं पावनं भुवि पप्रथे ॥",
+    "padaccheda": "यत् । गोप्रतरकल्पः । अभूत् । संमर्दः । तत्र । मज्जताम् । अतः । तदाख्यया । तीर्थम् । पावनम् । भुवि । पप्रथे",
+    "anvaya": "यत् तत्र मज्जतां संमर्दः गोप्रतरकल्पः अभूत्, अतः तत् (तीर्थं) तदाख्यया (गोप्रतर इति) पावनं तीर्थं (इति) भुवि पप्रथे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Since the throng of people bathing there was like a ford for cattle, that sacred place of pilgrimage therefore became famous on earth by the name 'Gopratara'.",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003437,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यदिति॥ यद्यस्मात्तत्र सरय्वां मज्जतां संमर्दः। गोप्रतरो गोप्रतरणम्। तत्कल्पोऽभूत्। अतस्तदाख्यया गोप्रतराख्यया पावनं शोधकं तीर्थं भुवि पप्रथे ॥"
+    }
+  ]
+}

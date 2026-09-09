@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003828,
+    "chapter_id": 6597,
+    "verse_number": "2.50",
+    "content_sanskrit": "तदीयास्तोयदेष्वद्य पुष्करावर्तकादिषु । अभ्यस्यन्ति तटाघातं निर्जितैरावता गजाः ॥",
+    "padaccheda": "तदीयाः । तोयदेषु । अद्य । पुष्करावर्तकादिषु । अभ्यस्यन्ति । तटाघातम् । निर्जितैरावताः । गजाः",
+    "anvaya": "अद्य निर्जितैरावताः तदीयाः गजाः पुष्करावर्तकादिषु तोयदेषु तटाघातम् अभ्यस्यन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Today, his elephants, which have conquered Indra's elephant Airavata, practice butting against the great clouds like Pushkaravartaka, treating them as riverbanks.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003828,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदीयेति । अद्य सम्प्रति निर्जित ऐरावतो यैस्ते तथोक्ताः । तस्य तारकस्येमे तदीया गजाः पुष्कराश्चावर्तकाश्च नामादयो येषां तेषु तोयदेषु मेघेषु तदाघातं वप्रक्रीडाभ्यस्यन्ति"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011476,
+    "chapter_id": 6683,
+    "verse_number": "11.53",
+    "content_sanskrit": "अथ प्रेयांसमालोक्य सहसा माधवोऽर्जुनम् । तथा स्म मोदते दृष्ट्वा यथा माधवमर्जुनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011476,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्रानन्वयोऽलङ्कारः ॥"
+    }
+  ]
+}

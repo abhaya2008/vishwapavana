@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005726,
+    "chapter_id": 6628,
+    "verse_number": "16.48",
+    "content_sanskrit": "स भोगसंघः शममुग्रधाम्नां सैन्येन निन्ये विनतासुतानाम् । महाध्वरे विध्यपचारदोषः कर्मान्तरेणेव महोदयेन ॥",
+    "padaccheda": "सः । भोगसंघः । शमम् । उग्रधाम्नाम् । सैन्येन । निन्ये । विनतासुतानाम् । महाध्वरे । विध्यपचारदोषः । कर्मान्तरेण । इव । महोदयेन",
+    "anvaya": "सः भोग-संघः उग्र-धाम्नाम् विनता-सुतानाम् सैन्येन शमम् निन्ये, महा-अध्वरे विधि-अपचार-दोषः महा-उदयेन कर्म-अन्तरेण इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That host of serpents was brought to pacification by the army of the sons of Vinata of terrible splendor, just as in a great sacrifice, a flaw from a procedural error is nullified by another highly effective ritual act.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005726,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ स भोगिसंघः सर्पसमूह उग्रधाम्नां तेजस्विनां विनतासुतानां तार्क्ष्याणां सैन्येन महाध्वरे महाक्रतौ विध्यपचारदोषः कर्मस्खलनदोषो महोदयेन महासामर्थ्येनाथवा महता फलेन । तन्मूलेन प्रकृतक्रियासिद्धेरिति । कर्मान्तरेण प्रायश्चित्तेनेव शमं शान्तिं निन्ये प्रापितः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004109,
+    "chapter_id": 6601,
+    "verse_number": "6.59",
+    "content_sanskrit": "भवत्संभावनोत्थाय परितोषाय मूर्च्छते । अपि व्याप्तदिगन्तानि नाङ्गानि प्रभवन्ति मे ॥",
+    "padaccheda": "भवत्संभावनोत्थाय । परितोषाय । मूर्च्छते । अपि । व्याप्तदिगन्तानि । न । अङ्गानि । प्रभवन्ति । मे",
+    "anvaya": "भवत्संभावनोत्थाय मूर्च्छते परितोषाय मे व्याप्तदिगन्तानि अङ्गानि अपि न प्रभवन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"For this overwhelming joy, which arises from the honor you have shown me, even my limbs, which pervade all directions, are not sufficient to contain it.\"",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004109,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भवदिति । व्याप्ता दिगन्ता यैस्तानि व्याप्तदिगन्तानि । महान्त्यपीत्यर्थः । मे ममाङ्गानि भवत्संभावनोत्थाय युष्मदनुग्रहजन्याय मूर्च्छते व्याप्नुवते परितोषाय न प्रभवन्ति न पर्याप्नुवन्ति । अलमर्थयोगाच्चतुर्थी । यथा महत्स्वपि मद्गात्रेषु न माति तथा मे हर्षो वर्धत इत्यर्थः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004734,
+    "chapter_id": 6611,
+    "verse_number": "16.26",
+    "content_sanskrit": "खड्गनिर्लूनमूर्धानो व्यापतन्तोऽपि वाजिनः । प्रथमं पातयामासुरसिना दारितानरीन् ॥",
+    "padaccheda": "खड्गनिर्लूनमूर्धानः । व्यापतन्तः । अपि । वाजिनः । प्रथमम् । पातयामासुः । असिना । दारितानरीन्",
+    "anvaya": "खड्गनिर्लूनमूर्धानः वाजिनः व्यापतन्तः अपि असिना दारितानरीन् प्रथमं पातयामासुर",
+    "meaning_sanskrit": "",
+    "meaning_english": "Horses whose heads had been severed by swords, even as they were falling, managed to knock down the enemies who had been split apart by swords before they themselves hit the ground.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004734,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "खड्गेति । खड्गनिर्लूनमूर्धानः करवालकृत्तशिरसः । अत एव वाजिनोऽश्वाद्व्यापतन्तोऽप्यसिना खड्गेन दारितान्विदीर्णानरीन्प्रथमं पातयामासुः । पुनः स्वयं पेतुरिति शेषः । अत्र `दारयित्वासिना रिपून्' इति पाठः साधीयान्"
+    }
+  ]
+}

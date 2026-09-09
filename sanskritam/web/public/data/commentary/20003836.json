@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003836,
+    "chapter_id": 6597,
+    "verse_number": "2.58",
+    "content_sanskrit": "स हि देवः परं ज्योतिस्तमःपारे व्यवस्थितम् । परिच्छिन्नप्रभावर्द्धिर्न मया न च विष्णुना ॥",
+    "padaccheda": "सः । हि । देवः । परम् । ज्योतिः । तमःपारे । व्यवस्थितम् । परिच्छिन्नप्रभावर्द्धिः । न । मया । न । च । विष्णुना",
+    "anvaya": "हि सः देवः तमःपारे व्यवस्थितं परं ज्योतिः (अस्ति)। (तस्य) प्रभावर्द्धिः मया न परिच्छिन्ना, विष्णुना च न (परिच्छिन्ना)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Indeed, that god (Shiva) is the supreme light existing beyond darkness. The full extent of his increasing power cannot be comprehended either by me or by Vishnu.\"",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003836,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ स देवो नीललोहितस्तमसः पारे परतो व्यवस्थितं तमोगुणातीतं परं ज्योतिः परमात्मा हि । अतएव मया परिच्छिन्नप्रभावर्द्धिरवगाढमहिमातिशयो नभवति तथा विष्णुना च न । अतस्तस्यासाध्यं नास्तीत्यर्थः"
+    }
+  ]
+}

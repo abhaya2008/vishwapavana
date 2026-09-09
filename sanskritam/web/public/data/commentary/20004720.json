@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004720,
+    "chapter_id": 6611,
+    "verse_number": "16.12",
+    "content_sanskrit": "विभिन्नं धन्विनां बाणैर्व्यथार्तमिव विह्वलम् । ररास विरसं व्योम श्येनप्रतिरवच्छलात् ॥",
+    "padaccheda": "विभिन्नम् । धन्विनाम् । बाणैः । व्यथार्तम् । इव । विह्वलम् । ररास । विरसम् । व्योम । श्येनप्रतिरवच्छलात्",
+    "anvaya": "धन्विनाम् बाणैः विभिन्नम् व्यथार्तम् विह्वलम् इव व्योम श्येन-प्रतिरव-च्छलात् विरसम् ररास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sky, pierced by the arrows of the archers, seemed agitated and afflicted with pain; it shrieked harshly under the guise of the screaming echoes of hawks flying through the battlefield.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004720,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विभिन्नमिति । धन्विनां बाणैर्विभिन्नं विदीर्णम् । अत एव व्यथार्त पीडया दुःखितम् । अत एव विह्वलम् । इतिकर्तव्यताविस्मरणाश्रयमित्यर्थः । व्योम नभः श्येनप्रतिरवस्य पक्षिविशेषप्रतिध्वनेश्छलान्मिषेण विरसं कठोरं यथा तथा ररासेव रुरोदेवेत्युत्प्रेक्षालङ्कार"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004346,
+    "chapter_id": 6604,
+    "verse_number": "9.15",
+    "content_sanskrit": "अथोष्णबाष्पानिलदूषितान्तं विशुद्धमादर्शमिवात्मदेहम् । बभार भूम्ना सहसा पुरारिरेतः परिक्षेपकुवर्णमग्निः ॥",
+    "padaccheda": "अथ । उष्णबाष्पानिलदूषितान्तम् । विशुद्धम् । आदर्शम् । इव । आत्मदेहम् । बभार । भूम्ना । सहसा । पुरारिरेतःपरिक्षेपकुवर्णम् । अग्निः",
+    "anvaya": "अथ अग्निः पुरारिरेतःपरिक्षेपकुवर्णम् उष्णबाष्पानिलदूषितान्तम् विशुद्धम् आदर्शम् इव आत्मदेहम् भूम्ना सहसा बभार",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Agni suddenly bore his own body, which had become discolored by the deposition of Śiva's seed, appearing like a pure mirror whose surface is clouded by hot breath.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004346,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति । अथानन्तरमग्निर्विशुद्धमात्मदेहमुष्णवाष्पानिलेन मुखनिःश्वासेन दूषितं म्लानीकृतमन्तर्मध्यं यस्य तमादर्शमिव सहसा भूम्ना बाहुल्येन पुरारेः शिवसंबन्धिनो रेतसः परिक्षेपस्तेन कुवर्ण कुत्सितवर्ण बभार धृतवान्"
+    }
+  ]
+}

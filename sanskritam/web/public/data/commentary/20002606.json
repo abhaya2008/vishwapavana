@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002606,
+    "chapter_id": 6582,
+    "verse_number": "6.53",
+    "content_sanskrit": "अथाङ्गदाश्लिष्टभुजं भुजिष्या हेमाङ्गदं नाम कलिङ्गनाथम् । आसेदुषीं सादितशत्रुपक्षं बालामवालेन्दुमुखीं बभाषे ॥",
+    "padaccheda": "अथ । अङ्गदाश्लिष्टभुजम् । भुजिष्या । हेमाङ्गदम् । नाम । कलिङ्गनाथम् । आसेदुषीम् । सादितशत्रुपक्षम् । बालाम् । अवालेन्दुमुखीम् । बभाषे",
+    "anvaya": "अथ भुजिष्या (सुनन्दा), अङ्गदाश्लिष्टभुजं सादितशत्रुपक्षं हेमाङ्गदं नाम कलिङ्गनाथम् आसेदुषीम् अवालेन्दुमुखीं बालां (इन्दुमतीम्) बभाषे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the handmaiden (Sunanda) spoke to the young woman (Indumati), whose face was like the waxing moon, as she approached the lord of Kalinga, Hemangada by name, who had destroyed his enemies and whose arms were adorned with golden armlets.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002606,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ भुजिष्या किंकरी सुनन्दा। `भुजिष्या किंकरी मता` इति हलायुधः। अङ्गदाश्लिष्टभुजं केयूरनद्धबाहुं सादितशत्रुपक्षं विनाशितशत्रुवर्गं हेमाङ्गदं नाम कलिङ्गनाथमासेदुषीमासन्नामबालेन्दुमुखीं पूर्णेन्दुमुखीं बालामिन्दुमतीं बभाषे ॥"
+    }
+  ]
+}

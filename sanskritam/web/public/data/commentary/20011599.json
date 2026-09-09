@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011599,
+    "chapter_id": 6684,
+    "verse_number": "12.51",
+    "content_sanskrit": "भुजाभ्यां त्वमुनोत्कृष्टा मौर्व्यारुक्षद्धनुश्शिरः । अरुक्षच्च शिरोऽमुष्य शिरोलक्षस्य पक्षिणः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011599,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आरुक्षत् आरुरोह । 'हो ढः' (पा.८|२|३१) । अरुक्षत् भग्नवान् । रुजो भङ्गे । कुत्वचर्त्वषत्वानि ॥"
+    }
+  ]
+}

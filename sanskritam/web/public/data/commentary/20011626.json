@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011626,
+    "chapter_id": 6684,
+    "verse_number": "12.78",
+    "content_sanskrit": "तां सोऽपिपीपडत्प्राप्तो गात्रैस्तं साऽप्यपीपिडत् । प्राप्तो जिजीवन् दृष्ट्या तु स तां तं सोऽप्यजीजिवत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011626,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपिपीपडपीपिडदिति अजिजीवदजीजिवदिति ह्रस्वाभावो ह्रस्वश्च । साऽपीति । गात्रैर्प्राप्ता एवं साऽप्यजीजिवदिति दृष्ट्या प्राप्ता ॥"
+    }
+  ]
+}

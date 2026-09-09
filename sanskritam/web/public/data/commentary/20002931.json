@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002931,
+    "chapter_id": 6586,
+    "verse_number": "10.44",
+    "content_sanskrit": "सोऽहं दाशरथिर्भूत्वा रणभूमेर्वलिक्षमम् । करिष्यामि शरैस्तीक्ष्णैस्तच्छिरःकमलोञ्चयम् ॥",
+    "padaccheda": "सः । अहम् । दाशरथिः । भूत्वा । रणभूमेः । बलिक्षमम् । करिष्यामि । शरैः । तीक्ष्णैः । तत् । शिरःकमलोच्चयम्",
+    "anvaya": "सः अहम् दाशरथिः भूत्वा तीक्ष्णैः शरैः तत् शिरःकमलोच्चयं रणभूमेः बलिक्षमं करिष्यामि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That I (Vishnu), having become the son of Dasharatha, will, with sharp arrows, make the collection of his (Ravana's) lotus-like heads a fitting offering for the battlefield.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002931,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सोऽहमिति॥ सोऽहम्। दशरथस्यापत्यं पुमान् दाशरथिः। `अत इञ्` (पा.8।1।95) इतीञ्प्रत्ययः। रामो भूत्वा तीक्ष्णैः शरैस्तस्य रावणस्य शिरांस्येव कमलानि तेषामुञ्चयं राशिं रणभूमेर्बलिक्षमं पूजार्हं करिष्यामि। पुष्पविशदा हि पूजेति भावः ॥"
+    }
+  ]
+}

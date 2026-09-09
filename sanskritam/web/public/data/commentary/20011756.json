@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011756,
+    "chapter_id": 6685,
+    "verse_number": "13.92",
+    "content_sanskrit": "चक्रायुधजितारातिचक्रस्याऽस्य त्वमीश्वरः । भूचक्रस्य नृपाऽद्यत्वे सर्वस्य जगतोऽथवा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011756,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यत्तु भवता वयं पृष्टाः ‘क्वाऽवसन् भगवन्तः प्राक्’ इत्यादि तस्योत्तरं वदामः—"
+    }
+  ]
+}

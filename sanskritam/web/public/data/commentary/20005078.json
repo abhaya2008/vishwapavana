@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005078,
+    "chapter_id": 6618,
+    "verse_number": "6.9",
+    "content_sanskrit": "सितवाजिने निजगदू रुचयश्चलवीचिरागरचनापटवः । मणिजालमम्भसि निमग्नमपि स्फुरितं मनोगतमिवाकृतयः ॥",
+    "padaccheda": "सितवाजिने । निजगदुः । रुचयः । चलवीचिरागरचनापटवः । मणिजालम् । अम्भसि । निमग्नम् । अपि । स्फुरितं । मनोगतम् । इव । आकृतयः",
+    "anvaya": "चलवीचिरागरचनापटवः रुचयः सितवाजिने अम्भसि निमग्नम् अपि स्फुरितं मणिजालं निजगदुः, आकृतयः मनोगतम् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lustres of the gems, skilled in creating colorful patterns on the moving waves, revealed to Arjuna the collection of jewels, gleaming even though submerged in water, just as physical expressions reveal thoughts hidden in the mind.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005078,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " सितवाजिन इति ॥ चलवीचीनां रागो रञ्जनं वर्णान्तरापादनं तस्य रचना क्रिया तत्र पटवः समर्था रुचयः प्रभाः। अम्भसि निमग्नमपि भणिजालम् । स्वाश्रयभूतमिति भावः । मनोगतं स्फुरितं रोषादिविकारमाकृतयो भ्रूभङ्गादिवाह्यविकारा इव । सितवाजिनेऽर्जुनाय निजगदुः। ज्ञापयामासुरित्यर्थः । आकृत्या हि मनोगतं विचक्षणा जानन्तीति भावः॥"
+    }
+  ]
+}

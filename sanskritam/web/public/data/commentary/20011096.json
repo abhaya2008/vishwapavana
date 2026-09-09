@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011096,
+    "chapter_id": 6679,
+    "verse_number": "7.106",
+    "content_sanskrit": "श्रुत्वा मृगाणां नैशानां वाशितानि निशात्यये । यत्रालिङ्ग्य प्रियान् गाढं शयनानि जहुः प्रियाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011096,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नैशानां निशि व्याहरताम् । 'व्याहरति मृगः' (पा.४|३|५१) इत्यर्थे 'निशाप्रदोषाभ्याञ्च' (पा.४|३|१४) इति ठञ् । ठञभावेऽण् ।"
+    }
+  ]
+}

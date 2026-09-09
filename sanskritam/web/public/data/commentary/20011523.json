@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011523,
+    "chapter_id": 6683,
+    "verse_number": "11.100",
+    "content_sanskrit": "दिदम्भिषन्तं दम्भोलिकरं जम्भमिदं यथा । दृष्ट्वैनं धन्विनं नाडङ्घ्यो द्विषः पिपतिषन्ति के ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011523,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दिदम्भिषन्तमितीट्पक्षः । तथा पिपतिषन्तीति । 'सनीवन्ता'दिसूत्रे (पा.७|२|४९) 'तनिपतिदरिद्राणामुपसंख्यान'मिति वचनात् ॥"
+    }
+  ]
+}

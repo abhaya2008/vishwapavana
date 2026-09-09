@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004177,
+    "chapter_id": 6602,
+    "verse_number": "7.32",
+    "content_sanskrit": "बभूव भस्मैव सिताङ्गरागः कपालमेवामलशेखरश्रीः । उपान्तभागेषु च रोचनाङ्को गजाजिनस्यैव दुकूलभावः ॥",
+    "padaccheda": "बभूव । भस्म । एव । सित-अङ्ग-रागः । कपालम् । एव । अमल-शेखर-श्रीः । उपान्त-भागेषु । च । रोचन-अङ्कः । गज-अजिनस्य । एव । दुकूल-भावः",
+    "anvaya": "भस्म एव सित-अङ्ग-रागः बभूव, कपालम् एव अमल-शेखर-श्रीः (बभूव)। च गज-अजिनस्य उपान्त-भागेषु रोचन-अङ्कः (सन्) एव दुकूल-भावः (बभूव)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His ash itself became the white cosmetic paste. The skull he wore became as beautiful as a pure crest-jewel. And his elephant hide, marked with yellow pigment on its edges, assumed the quality of a fine silk garment.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004177,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बभूवेति । भस्मैव सिताङ्गरागः शुभ्रगन्धानुलेपनं बभूव । कपालमेवामलं शेखरं शिरोभूषणं तस्य श्रीः शोभा बभूव । गजाजिनस्येवोपान्तभागेष्वञ्चलप्रदेशेषु रोचनैवाङ्को हंसादिचिह्नं यस्य स तथोक्तो दुकूलभावः पटांशुकत्वं च बभूव । भस्मादिकमेवाङ्गरागादिभावं प्राप्तमित्यर्थः"
+    }
+  ]
+}

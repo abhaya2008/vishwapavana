@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002237,
+    "chapter_id": 6577,
+    "verse_number": "1.88",
+    "content_sanskrit": "वन्यवृत्तिरिमां शश्वदात्मानुगमनेन गाम् । विद्यामभ्यसनेनेव प्रसादयितुमर्हसि ॥",
+    "padaccheda": "वन्यवृत्तिः । अभ्यसनेन । विद्याम् । इव । आत्मानुगमनेन । इमाम् । गाम् । शश्वत् । प्रसादयितुम् । अर्हसि",
+    "anvaya": "वन्य-वृत्तिः (त्वम्) अभ्यासनेन विद्याम् इव आत्म-अनुगमनेन इमां गाम् शश्वत् प्रसादयितुम् अर्हसि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Adopting the lifestyle of the forest, you should constantly please this cow by following her, just as one masters knowledge through constant practice.",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002237,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वन्येति॥ वने भवं वन्यं कन्दमूलादिकं वृत्तिराहारो यस्य तथाभूतः सन्। इमां गां शश्वत् सदा। आ प्रसादादविच्छेदेनेत्यर्थः। आत्मनस्तव कर्तुः अनुगमनेनानुसरणेन। अभ्यसनेनानुष्ठातुरभ्यासेन विद्यामिव। प्रसादयितुं प्रसन्नां कर्तुमर्हसि ॥"
+    }
+  ]
+}

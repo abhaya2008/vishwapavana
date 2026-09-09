@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014070,
+    "chapter_id": 6706,
+    "verse_number": "14.141",
+    "content_sanskrit": "इत्थं ब्रुवन्तं तमथो न्यगादी- त्पुस्तं गतं बुद्धिरवस्थिता मे । उक्त्वा समारब्ध पुनश्च टीकां कर्तुं स धीरो यतिवृन्दवन्द्यः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 141,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014070,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "न्यगादीदुक्तवान् । टीकां कर्तुमारम्भं कृतवान् । इन्द्रवज्रा वृत्तम् ॥ ४१ ॥"
+    }
+  ]
+}

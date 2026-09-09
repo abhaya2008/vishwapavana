@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012851,
+    "chapter_id": 6696,
+    "verse_number": "4.22",
+    "content_sanskrit": "कीर्तिं स्वकां भुवि विधास्यति यावदेषा किं बोधितेन बहुना शिशुरेष पूर्णः । नापृच्छि जीवितमनेन च तैर्न चोक्तं प्रायो विदन्नपि न वत्क्त्यशुभं शुभज्ञः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012851,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "किंच यावदेषा भूस्तावत्स्वकां कीर्तिं भुवि विधास्यति किं बहुना बोधितेनैष तव"
+    }
+  ]
+}

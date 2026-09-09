@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003093,
+    "chapter_id": 6588,
+    "verse_number": "12.27",
+    "content_sanskrit": "अनसूयातिसृष्टेन पुण्यगन्धेन काननम् । सा चकाराङ्गरागेण पुष्पोञ्चलितषट्पदम् ॥",
+    "padaccheda": "अनसूयातिसृष्टेन । पुण्यगन्धेन । काननम् । सा । चकार । अङ्गरागेण । पुष्पोञ्चलितषट्पदम्",
+    "anvaya": "सा अनसूया-अतिसृष्टेन पुण्य-गन्धेन अङ्गरागेण काननम् पुष्पोञ्चलित-षट्पदम् चकार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With the fragrant body-ointment bestowed upon her by Anasuya, she caused the bees in the forest to rise up from the flowers (attracted by her scent).",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003093,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अनसूयेति॥ सा सीताऽनसूययाऽत्रिभार्यया। अतिसृष्टेन दत्तेन पुण्यगन्धेनाङअगरागेण काननं वनं पुष्पेभ्य उञअचलिता निर्गताः षट्पदा यस्मिंस्तत्तथाभूतं चकार ॥"
+    }
+  ]
+}

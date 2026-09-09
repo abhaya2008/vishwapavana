@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005234,
+    "chapter_id": 6621,
+    "verse_number": "9.21",
+    "content_sanskrit": "अन्तिकान्तिकगतेन्दुविसृष्टे जिह्मतां जहति दीधितिजाले । निःसृतस्तिमिरभारनिरोधादुच्छ्वसन्निव रराज दिगन्तः ॥",
+    "padaccheda": "अन्तिकान्तिकगतेन्दुविसृष्टे । जिह्मतां । जहति । दीधितिजाले । निःसृतः । तिमिरभारनिरोधात् । उच्छ्वसन् । इव । रराज । दिगन्तः",
+    "anvaya": "अन्तिक-अन्तिक-गत-इन्दु-विसृष्टे दीधिति-जाले जिह्मताम् जहति (सति), तिमिर-भार-निरोधात् निःसृतः दिक्-अन्तः उच्छ्वसन् इव रराज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the web of rays, emitted by the moon that had drawn very near, was abandoning its obliqueness, the expanse of the directions, freed from the oppressive obstruction of darkness, shone as if breathing a sigh of relief.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005234,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अन्तिकेति ॥ अन्तिकान्तिकेऽतिसमीपे । `प्रकारे गुणवचनस्य` (पा.8।1।12) इति द्विर्भावः। कर्मधारयवद्भावात्सुपो लुक् । अन्तिकान्तिकगतेनेन्दुना विसृष्टे मुक्ते दीधितिजाले किरणसमूहे जिह्मतां संकोचं जहति त्यजति सति तिमिरभारैस्तमःस्तोमैर्निरोधादुपरोधान्निःसृतो निर्गतो दिगन्त उच्छ्रसन्प्राणन्निव रराजेत्युत्प्रेक्षालंकारः ॥ "
+    }
+  ]
+}

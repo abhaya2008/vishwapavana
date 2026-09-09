@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003041,
+    "chapter_id": 6587,
+    "verse_number": "11.68",
+    "content_sanskrit": "नाम राम इति तुल्यमात्मजे वर्तमानमहिते च दारुणे । ह्यद्यमस्य भयदायि चाभवद्रत्नजातमिव हारसर्पयोः ॥",
+    "padaccheda": "आत्मजे । अहिते । च । दारुणे । वर्तमानम् । राम । इति । तुल्यम् । नाम । हारसर्पयोः । रत्नजातम् । इव । अस्य । हृद्यम् । भयदायि । च । अभवत्",
+    "anvaya": "आत्मजे अहितै च दारुणे वर्तमानं राम इति तुल्यं नाम हारसर्पयोः रत्नजातम् इव अस्य हृद्यं भयदायि च अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The name 'Rāma' was shared by both Daśaratha's beloved son and his formidable enemy, Paraśurāma. This identical name produced conflicting emotions in the king, much like a jewel found on both a decorative necklace and a deadly serpent. To Daśaratha, the name was simultaneously dear to his heart because of his son and a source of great terror because of the fierce sage.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003041,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नामेति ॥ आत्मजे पुत्रे दारुणे घोरेऽहिते शत्रौ च तुल्यमविशेषण वर्तमानं राम इति नाम। हार-सर्पयोर्वर्तमानं रत्नजातं रत्नजातिरिव। अस्य दशरथस्य हृद्यं हृदयंगमं भयदायि भयंकरं चाभवत् ॥"
+    }
+  ]
+}

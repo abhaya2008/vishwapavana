@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002961,
+    "chapter_id": 6586,
+    "verse_number": "10.74",
+    "content_sanskrit": "कृशानुरपधूमत्वात्प्रसन्नत्वात्प्रभाकरः । रक्षोविप्रकृतावास्तामपविद्धशुचाविव ॥",
+    "padaccheda": "कृशानुः । अपधूमत्वात् । प्रसन्नत्वात् । प्रभाकरः । रक्षोविप्रकृताौ । आस्ताम् । अपविद्धशुचौ । इव",
+    "anvaya": "कृशानुः अपधूमत्वात् प्रभाकरः प्रसन्नत्वात् रक्षोविप्रकृताौ अपविद्धशुचौ इव आस्ताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Fire, becoming smokeless, and the Sun, becoming clear and bright, appeared as if they had cast off the sorrow caused by the harassment of the demon Rāvaṇa.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002961,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृशानुरिति॥ रक्षसा रावणेन विप्रकृतावपकृतौ। पीडितावित्यर्थः। कृशानुरग्निः प्रभाकरः सूर्यश्च यथासंख्यमपधूमत्वात्प्रसन्नत्वाञ्चापविद्धशुचौ निरस्तदुःखाविव। आस्तामभवताम् ॥"
+    }
+  ]
+}

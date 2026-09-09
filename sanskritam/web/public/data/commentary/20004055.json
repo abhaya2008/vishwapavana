@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004055,
+    "chapter_id": 6601,
+    "verse_number": "6.5",
+    "content_sanskrit": "आप्लुतास्तीरमन्दारकुसुमोत्किरवीचिषु । आकाशगङ्गास्रोतस्सु दिङ्नागमदगन्धिषु ॥",
+    "padaccheda": "आप्लुताः । तीरमन्दारकुसुमोत्किरवीचिषु । आकाशगङ्गास्रोतस्सु । दिङ्नागमदगन्धिषु",
+    "anvaya": "(ते) दिङ्नागमदगन्धिषु तीरमन्दारकुसुमोत्किरवीचिषु आकाशगङ्गास्रोतस्सु आप्लुताः (आसन्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(They were) bathed in the streams of the celestial Ganga, whose waters were fragrant with the ichor of the elephants of the quarters, and whose waves scattered the Mandara flowers from its banks.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004055,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आप्लुता इति । उत्किरन्ति विक्षिपन्तीत्युत्किराः । `इगुपधे-` त्यादिना कप्रत्ययः । तीरे ये मन्दाराः कल्पवृक्षास्तेषां कुसुमानामुत्किरा वीचयस्तरङ्गा येषां तेषु दिङ्नागानां दिग्गजानां मदगन्धो येष्विति तथोक्तेषु व्योमगङ्गाप्रवाहेष्वाकाशगङ्गास्रोतःस्वाप्लुताः स्नाताः ।"
+    }
+  ]
+}

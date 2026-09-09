@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010783,
+    "chapter_id": 6677,
+    "verse_number": "5.23",
+    "content_sanskrit": "निकायेस्मिन् महर्षीणां निकार्यं पश्यत द्विजाः । काये मलनिकायेऽलं विरक्तानां तपस्यताम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010783,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निकायेस्मिन्निति । 'निवासचितिशरीरोपसमाधानेष्वादेश्च कः' (पा.३|३|४१) इति निवासेर्घञादिकत्वे काय इति शरीरे मलनिकाये इत्युपसमाधाने राशीकरणे ॥"
+    }
+  ]
+}

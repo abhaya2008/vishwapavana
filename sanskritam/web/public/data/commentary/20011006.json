@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011006,
+    "chapter_id": 6679,
+    "verse_number": "7.16",
+    "content_sanskrit": "मेधातिथिप्रधानांश्च सन्दृष्टाष्टममण्डलान् । मधुच्छन्दपुरोगांश्च सोममण्डलमण्डनान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011006,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मेधातिथिप्रधानांश्चेत्येतद् गुणसंविज्ञानो बहुव्रीहिः । तथा मधुच्छन्दपुरोगांश्चेति ॥"
+    }
+  ]
+}

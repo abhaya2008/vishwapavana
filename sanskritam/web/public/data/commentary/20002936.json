@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002936,
+    "chapter_id": 6586,
+    "verse_number": "10.49",
+    "content_sanskrit": "पुरुहूतप्रभृतयः सुरकार्योद्यतं सुराः । अंशैरनुययुर्विष्णुं पुष्पैर्वायुमिव द्रुमाः ॥",
+    "padaccheda": "पुरुहूतप्रभृतयः । सुरकार्योद्यतम् । सुराः । अंशैः । अनुययुः । विष्णुम् । पुष्पैः । वायुम् । इव । द्रुमाः",
+    "anvaya": "द्रुमाः पुष्पैः वायुम् इव, पुरुहूतप्रभृतयः सुराः अंशैः सुरकार्य-उद्यतं विष्णुम् अनुयायुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as trees follow the wind with their flowers, the gods, led by Indra, followed Vishnu—who was ready for the gods' task—with portions of themselves to be born as his allies.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002936,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पुरुहूतेति॥ पुरुहूतप्भृतय इन्द्राद्याः सुराः सुरकार्ये रावणवधरूप उद्यतं विष्णुमंशैर्मात्राभिः। द्रुमाः पुष्पैः स्वांशैर्वायुमिव। अनुययुः। सुग्रीवादिरूपेण वानरयोनिषु जाता इत्यभिप्रायः ॥"
+    }
+  ]
+}

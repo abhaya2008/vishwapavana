@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003740,
+    "chapter_id": 6596,
+    "verse_number": "1.22",
+    "content_sanskrit": "सा भूधराणामधिपेन तस्यां समाधिमत्यामुदपादि भव्या । सम्यक्प्रयोगादपरिक्षतायां नीताविवोत्साहगुणेन संपत् ॥",
+    "padaccheda": "सा । भूधराणाम् । अधिपेन । तस्याम् । समाधिमत्याम् । उदपादि । भव्या । सम्यक् । प्रयोगात् । अपरिक्षतायाम् । नीतौ । इव । उत्साहगुणेन । संपत्",
+    "anvaya": "भव्या सा भूधराणाम् अधिपेन समाधिमत्याम् तस्याम् उदपादि, सम्यक् प्रयोगात् अपरिक्षतायाम् नीतौ उत्साहगुणेन संपत् इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That glorious one (Pārvatī) was born from her (Menā), who was deep in meditation, by the lord of the mountains (Himālaya). This was like prosperity being born from a sound policy, which is undamaged by improper application and is endowed with the quality of enthusiasm.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003740,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति ॥ भव्या कल्याणी सा सती भूधराणामधिपेन हिमवता समाधिमत्यां नियमवत्यां तस्यां मेनकायां सम्यक्प्रयोगात्साध्वाचरणाद्धेतोरपरिक्षतायामभ्रष्टायां नीतावुत्साहगुणेनोत्साहशक्त्या । कर्त्रा । संपदिवोदपाद्युत्पादिता । उत्पद्यतेर्ण्यन्तात्कर्मणि लुङ् । `चिण्भावकर्मणोः` इति चिण्प्रत्ययः । `चिणो लुक्` (पा.6|4|104) इति तस्य लुक्"
+    }
+  ]
+}

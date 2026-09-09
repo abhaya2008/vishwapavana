@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003144,
+    "chapter_id": 6588,
+    "verse_number": "12.78",
+    "content_sanskrit": "स मारुतिसमानीतमहौषधिहतव्यथः । लङ्कास्त्रीणां पुनश्चक्रे विलापाचार्यकं शरैः ॥",
+    "padaccheda": "सः । मारुतिसमानीतमहौषधिहतव्यथः । लङ्कास्त्रीणाम् । पुनः । चक्रे । विलापाचार्यकम् । शरैः",
+    "anvaya": "सः मारुतिसमानीतमहौषधिहतव्यथः शरैः लङ्कास्त्रीणां पुनः विलापाचार्यकं चक्रे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Lakshmana, whose pain was removed by the great medicinal herbs brought by Hanuman, once again acted as a teacher of lamentation to the women of Lanka through the destruction caused by his arrows.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003144,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ लक्ष्मणो मारुतिना मरुत्सुतेन हनुमता समानीतया महौषध्या संजिविन्या हतव्यथः सन् पुनः शरैर्लङ्कास्त्रीणां विलापे परिदेवने। `विलापः परिदेवनम्` इत्यमरः (अ.को.1|6|16)। आचार्यकमाचार्यकर्म। `योपधाद्गुरूपोत्तमाद्वुञ्` (पा.5।1।132)इति वुञ्। चक्रे। पुनरपि राक्षसाञ्जघानेति व्यज्यते ॥"
+    }
+  ]
+}

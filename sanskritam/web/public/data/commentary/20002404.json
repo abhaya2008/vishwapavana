@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002404,
+    "chapter_id": 6580,
+    "verse_number": "4.15",
+    "content_sanskrit": "निर्वृष्टलघुभिर्मेघैर्मुक्तवर्त्मा सुदुःसहः । प्रतापस्तस्य भानोश्च युगपद्व्यानशे दिशः ॥",
+    "padaccheda": "निर्वृष्टलघुभिः । मेघैः । मुक्तवर्त्मा । सुदुःसहः । प्रतापः । तस्य । भानोः । च । युगपत् । व्यानशे । दिशः",
+    "anvaya": "निर्वृष्टलघुभिः मेघैः मुक्तवर्त्मा सुदुःसहः तस्य प्रतापः भानोः (प्रतापः) च युगपत् दिशः व्यानशे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With its path cleared by the clouds that had become light after raining, the unbearable heat of the sun, and simultaneously, the unbearable prowess of King Raghu, pervaded all directions.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002404,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निर्वृष्टेति॥ निःशेषं वृष्टा निर्वृष्टाः। कर्तरि क्तः। अत एव लघवः, तैर्मेघैर्मुक्तवर्मा त्यक्तमार्गः। अत एव सुदुःसहः। तस्य रघोर्भानोश्च प्रतापः पौरुषमातपश्च। `प्रतापौ पौरुषातपौ` इति यादवः। यचुगपद्दिशो व्यानशे व्यापः ॥"
+    }
+  ]
+}

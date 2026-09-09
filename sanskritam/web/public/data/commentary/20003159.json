@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003159,
+    "chapter_id": 6588,
+    "verse_number": "12.93",
+    "content_sanskrit": "विक्रमव्यतिहारेण सामान्याऽभूद्द्वयोरपि । जयश्रीरन्तरा वेदिर्मत्तवारणयोरिव ॥",
+    "padaccheda": "विक्रमव्यतिहारेण । सामान्या । अभूत् । द्वयोः । अपि । जयश्रीः । अन्तरा । वेदिः । मत्तवारणयोः । इव",
+    "anvaya": "विक्रमव्यतिहारेण जयश्रीः मत्तवारणयोः अन्तरा वेदिः इव द्वयोः अपि सामान्या अभूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Due to the equal exchange of valor between the two warriors, the Goddess of Victory remained undecided between them, appearing like an altar situated between two equally matched, intoxicated elephants.",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003159,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विक्रमेति॥ जयश्रीर्विक्रमस्य व्यतिहारेण पर्यायक्रमेण तयोर्द्वयोरपि। अन्तरा मध्ये। अव्ययमेतत्। वेदिर्वेद्याकारा भित्तिर्मत्तवारणयोरिव। सामान्या साधारणाऽभूत्। न त्वन्यतरनियतेत्यर्थः। अत्र `मत्तवारणयोः`इत्यत्र `द्वयोः`इत्यत्र च `अन्तरान्तरेण युक्ते` (पा.2।3।4) इति द्वितीया न भवति। `अन्तरा` शब्दस्योक्तरीत्याऽन्यत्रान्वयात्। मध्ये कामपि भित्तिं कृत्वा गजौ योधयन्तीति प्रसिद्धिः ॥"
+    }
+  ]
+}

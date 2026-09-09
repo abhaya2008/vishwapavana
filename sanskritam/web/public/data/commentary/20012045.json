@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012045,
+    "chapter_id": 6688,
+    "verse_number": "16.52",
+    "content_sanskrit": "दण्डनीत्यादिशास्त्रार्थान्भुत्सीरन्मानसानि वः । सत्यं च सर्वं वागुच्यात् कायो धर्मं कृषीष्ट च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012045,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भुत्सीरन् बुध्यन्ताम् । 'एकाचो बशो भष्' (पा.८|२|३७) ॥"
+    }
+  ]
+}

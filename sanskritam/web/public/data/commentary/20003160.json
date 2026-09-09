@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003160,
+    "chapter_id": 6588,
+    "verse_number": "12.94",
+    "content_sanskrit": "कृतप्रतिकृतप्रीतैस्तयोर्मुक्तां सुरासुरैः । परस्परशरव्राताः पुष्पवृष्टिं न सेहिरे ॥",
+    "padaccheda": "कृतप्रतिकृतप्रीतैः । तयोः । मुक्तां । सुरासुरैः । परस्परशरव्राताः । पुष्पवृष्टिं । न । सेहिरे",
+    "anvaya": "कृतप्रतिकृतप्रीतैः सुरासुरैः तयोः मुक्तां पुष्पवृष्टिं परस्परशरव्राताः न सेहिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The gods and demons, delighted by the exchange of blows, showered flowers upon the combatants; however, the dense volleys of arrows shot by Rama and Ravana were so thick that they did not even allow the flower shower to pass through.",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003160,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृतेति॥ स्वयमस्त्रप्रयोगः कृतं प्रतिकृतं परकृतप्रतीकारस्ताभ्यां प्रीतैः सुरासुरैर्यथासंख्यं तयो राम-रावणयोर्मुक्तां पुष्पवृष्टिम्। द्वयीमिति शेषः। परस्परं शरव्राता न सेहिरे। अहमेवालं, किं त्वयेति चान्तराल एवेतरेतरबाणवृष्टिरितरेतरपुष्पवृष्टिमवारयदित्यर्थः ॥"
+    }
+  ]
+}

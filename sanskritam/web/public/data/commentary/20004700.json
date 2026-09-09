@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004700,
+    "chapter_id": 6610,
+    "verse_number": "15.45",
+    "content_sanskrit": "मनोतिवेगेन रथेन सारथिप्रणोदितेन प्रचलन्महासुरः । ततः प्रपेदे सुरसैन्यसागरं भयङ्कराकारमपारमग्रतः ॥",
+    "padaccheda": "मनोतिवेगेन । रथेन । सारथिप्रणोदितेन । प्रचलन् । महासुरः । ततः । प्रपेदे । सुरसैन्यसागरम् । भयङ्कराकारम् । अपारम् । अग्रतः",
+    "anvaya": "ततः प्रचलन् महासुरः सारथिप्रणोदितेन मनोतिवेगेन रथेन अग्रतः भयङ्कराकारम् अपारं सुरसैन्यसागरं प्रपेदे ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Moving forward in his chariot driven by the charioteer at a speed faster than thought, the great demon then reached the boundless and terrifying ocean of the celestial army that lay before him.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004700,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मन इति । ततोऽनन्तरं मनोतिवेगेनान्तः करणादपि बहुलगतिजवेन सारथिना प्रणोदितेन प्रेरितेन रथेन प्रचलन्गच्झन्महासुरस्तारकोऽग्रतः । पुरतः । स्थितमिति शेषः । अपारमनवधिकं भयंकराकारम् । विभीषकाकृतिमत्पुरुषमित्यर्थः । सुरसैन्यसागरं देवसेनासमुद्रं प्रपेदे प्राप"
+    }
+  ]
+}

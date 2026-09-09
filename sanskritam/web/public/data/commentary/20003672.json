@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003672,
+    "chapter_id": 6595,
+    "verse_number": "19.11",
+    "content_sanskrit": "घ्राणकान्तमधुगन्धकार्षेणीः पानभूमिरवनाः प्रियासखः । अभ्यपद्यत स वासितासखः पुष्पिताः कमलिनीरिव द्विपः ॥",
+    "padaccheda": "घ्राणकान्तमधुगन्धकर्षिणीः । पानभूमिरवनाः । प्रियासखः । अभ्यपद्यत । सः । वासितासखः । पुष्पिताः । कमलिनीः । इव । द्विपः",
+    "anvaya": "प्रिया-सखः वासिता-सखः सः, द्विपः पुष्पिताः कमलिनीः इव, घ्राण-कान्त-मधु-गन्ध-कर्षिणीः पानभूमि-रवनाः अभ्यपद्यत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Accompanied by his beloveds and by female elephants in heat, he approached the drinking pavilions, which were filled with music and attracted the sense of smell with the pleasing fragrance of wine, just as an elephant approaches blooming lotus ponds.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003672,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "घ्राणेति॥ प्रियासखः सोऽग्निवर्णो घ्राणकान्तेन घ्राणतर्पणेन मधुगन्धेन कर्षिणीर्मनोहारिणीः। रच्यन्त इति रचनाः, पानभूपय एव रचनाः, रचिताः पानभूमय इत्यर्थः। वासितासखः करिणीसहचरः। `वासिता स्त्रीकरिण्योश्च` इत्यमरः। द्विपः पुष्पिताः कमलिनीरिव। अभ्यपद्यताभिगतः ॥"
+    }
+  ]
+}

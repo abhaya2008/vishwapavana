@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004105,
+    "chapter_id": 6601,
+    "verse_number": "6.55",
+    "content_sanskrit": "मूढं बुद्धमिवात्मानं हैमीभूतमिवायसम् । भूमेर्दिवमिवारूढं मन्ये भवदनुग्रहात् ॥",
+    "padaccheda": "मूढं । बुद्धम् । इव । आत्मानं । हैमीभूतम् । इव । अयसम् । भूमेः । दिवम् । इव । आरूढं । मन्ये । भवदनुग्रहात्",
+    "anvaya": "भवदनुग्रहात् आत्मानं मूढं बुद्धम् इव, अयसं हैमीभूतम् इव, भूमेः दिवम् आरूढम् इव मन्ये ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"By your grace, I consider myself like an ignorant person who has become enlightened, like iron that has turned into gold, or like one who has ascended from earth to heaven.\"",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004105,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मूढमिति । भवदनुग्रहादात्मानं मां मूढं बुद्धिं विनाकृतं बुद्धमिव मूढो भूत्वा यो बुद्धवांस्तमिव । कर्तरि क्तः । आयसमयोविकारं हैमीभूतम् । आयसत्वं विहाय सौवर्णत्वं प्राप्तमिवेत्यर्थः । भूमेर्भूलोकाद्दिवं स्वर्गमारुढमिव मन्ये । ज्ञानरूपस्थानान्यद्य मे परमुत्कृष्यन्त इति भावः"
+    }
+  ]
+}
