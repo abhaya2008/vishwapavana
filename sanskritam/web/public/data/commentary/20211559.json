@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211559,
+    "chapter_id": 7786,
+    "verse_number": "९०",
+    "content_sanskrit": "सिल्",
+    "padaccheda": "षिलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "उञ्छे",
+    "meaning_english": "to glean",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211559,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "मूर्धन्यादिः ।"
+    }
+  ]
+}

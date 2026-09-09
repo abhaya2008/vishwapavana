@@ -1,0 +1,45 @@
+{
+  "verse": {
+    "id": 20202402,
+    "chapter_id": 7768,
+    "verse_number": "५.४.१२३",
+    "content_sanskrit": "बहुप्रजाश्छन्दसि",
+    "padaccheda": "बहुप्रजाः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": "अनुवृत्तिः — बहुव्रीहौ (५.४.११३), नित्यम् (५.४.१२२), असिच् (५.४.१२२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202402,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "बहुप्रजा इति छन्दसि निपात्यते। बहुप्॒रजा निर्ऋ॑ति॒मावि॑वेश (ऋ० १.१६४.३२)। छन्दसीति किम् ? बहुप्रजो ब्राह्मणः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202402,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "बहुप्रजा निर्ऋतिमाविवेश (ब॒हु॒प्र॒जा निर्ऋ॑ति॒मावि॑वेश) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202402,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The form बहुप्रजास् is valid in the Vedas.\nThus बहुप्रजा निर्ऋतिमाविवेश ॥ In the secular literature, the form is बहुप्रजः, as बहुप्रजो ब्राह्मणः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202402,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The form बहुप्रजास् is valid in the Vedas."
+    }
+  ]
+}

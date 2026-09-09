@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201710,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१३८",
+    "content_sanskrit": "त्रपुजतुनोः षुक्",
+    "padaccheda": "त्रपु-जतुनोः । षुक्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 138,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१३४), विकारः (४.३.१३४), अवयवे (४.३.१३५), अण् (४.३.१३६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201710,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "त्रपुजतुशब्दाभ्यामण् प्रत्ययो भवति विकारे, तत्सन्नियोगेन तयोः षुगागमो भवति। ओरञोऽपवादः। त्रपुणो विकारः त्रापुषम्। जातुषम्। अप्राण्यादित्वाद् नावयवे॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201710,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आभ्यामण् स्याद्विकारे एतयोः षुगागमश्च । त्रापुषम् । जातुषम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201710,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<त्रपुजतुनोः षुक्>> - त्रपुजतुनो षक् । त्रापुषं जातुषमिति । त्रपुणो जतुनश्च विकार इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201710,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<त्रपुजतुनोः षुक्>> - त्रपुजतुनोः ।बिल्वादिभ्योऽणि॑त्यतोऽनुवर्तनादाह — अण्स्यादिति ।ओरञि॑त्यस्यायमपवादः । अप्राण्यादित्वादवयवे न भवतीत्याशयेनाह -विकारे इति । त्रापुषमिति । त्रपुणो विकारः । एवं जुतनो विकारो जातुषम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201710,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अप्राण्यादित्वादिति । प्राण्योषधिवृक्षेष्वन्यतमत्वस्याभावादित्यर्थः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201710,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां विकारेऽण् षुक् च स्यात् त्रापुषं जातुषं तथा ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201710,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अण् with the augment षुक् comes in the sense of 'its modification' after the words त्रपुन् and जतुन्।\nThis debars अञ् [[4.3.139]]. As, त्रपुणो विकारः = त्रापुषम्; जातुषम् 'modification of <i>tin</i> and <i>lac</i>.' In these words denoting non-organic beings, the sense of अवयव is not denoted by the affix."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201710,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अण् with the augment षुक् comes in the sense of 'its modification' after the words त्रपुन् and जतुन्।"
+    }
+  ]
+}

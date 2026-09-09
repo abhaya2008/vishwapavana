@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211987,
+    "chapter_id": 7790,
+    "verse_number": "२३८",
+    "content_sanskrit": "बुक्क्",
+    "padaccheda": "बुक्कँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भषणे",
+    "meaning_english": "to bark",
+    "audio_url": null,
+    "display_order": 238,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211987,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णिचि बुक्कयतीति स्याद्भाषणे शपि बुक्कति ' (श्लो. 42) - देवः ।"
+    }
+  ]
+}

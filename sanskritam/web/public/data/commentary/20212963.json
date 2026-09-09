@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212963,
+    "chapter_id": 7795,
+    "verse_number": "३",
+    "content_sanskrit": "श्रः करन्",
+    "padaccheda": "",
+    "anvaya": "करन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212963,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उत्तरसूत्रे किद्ग्रहणादिह ककारस्य नेत्वम् । शर्करा ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211702,
+    "chapter_id": 7789,
+    "verse_number": "२४",
+    "content_sanskrit": "भॄ",
+    "padaccheda": "भॄ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "भर्त्सने",
+    "meaning_english": "to hate, to insult",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211702,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भरणे ' इत्यप्येके । ' भॄ भर्जने च ' इति क्षीरस्वामी । ' ऋदन्तस्य भृणातीति भर्त्सने श्नि, तथा भरः ' (श्लो. 28) इति देवः । भरणार्थे भर्जनार्थे च सकर्मकोयम् इति ज्ञेयम् ।"
+    }
+  ]
+}

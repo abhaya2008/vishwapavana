@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201732,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१६०",
+    "content_sanskrit": "गोपयसोर्यत्",
+    "padaccheda": "गोपयसोः । यत्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 160,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१३४), विकारः (४.३.१३४), अवयवे (४.३.१३५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201732,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "गोपयःशब्दाभ्यां यत् प्रत्ययो भवति विकारावयवयोरर्थयोः। गव्यम्। पयस्यम्। <<सर्वत्र गोरजादिप्रसङ्गे यत्>> (वा० ४.१.८५) अस्त्येव, मयड्विषये तु विधीयते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201732,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "गव्यम् । पयस्यम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201732,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "गव्यम् । पयस्यम् ॥ इति विकारार्थाः ॥ ६ ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201732,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<गोपयसोर्यत्>> - गोपयसोर्यत् । गव्यमिति । गोर्विकारोऽवयवो वेत्यर्थः ।वान्तो यी॑त्यवादेशः । पयस्यमिति । पयसो विकार इत्यर्थः ।सर्वत्र गोरजादिप्रसङ्गे य॑दित्येव सिद्धे यद्विधानंमयड्वैतयो॑रिति पाक्षिकमयटो बाधनार्थम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201732,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<गोपयसोर्यत्>> - गोपयसोः । यद्यपि सर्वत्र गोरजादिप्रसङ्गे यदुक्तस्तथापिमयड्वैतयो॑रिति पक्षे प्राप्तं मयटं बाधितुं पुनरयं यद्विधिः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201732,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मयड्विषये त्विति ।'मयड्वैतयोः'  इति विहितस्य मयटो विषये ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201732,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "गोविकारो गव्यम् । पयस्यम् ।।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201732,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् comes in the sense of 'product or part' after the words 1. गो and 2. पयस्।\nThus गव्यम् [[6.1.79]], पयस्यम् ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201732,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् comes in the sense of 'product or part' after the words 1. गो and 2. पयस्।"
+    }
+  ]
+}

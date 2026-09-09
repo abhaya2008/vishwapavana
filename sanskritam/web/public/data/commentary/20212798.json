@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212798,
+    "chapter_id": 7793,
+    "verse_number": "१२१",
+    "content_sanskrit": "बहुलमन्यत्रापि",
+    "padaccheda": "",
+    "anvaya": "उसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212798,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आचक्षुः । परिचक्षुः ।"
+    }
+  ]
+}

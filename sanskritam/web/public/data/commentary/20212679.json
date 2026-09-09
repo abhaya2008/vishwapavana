@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212679,
+    "chapter_id": 7793,
+    "verse_number": "२",
+    "content_sanskrit": "हनिकुषिनरिकाशिभ्यः कथन्",
+    "padaccheda": "",
+    "anvaya": "कथन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212679,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हथो विषण्णः । कुष्ठः । नीथो नेता । रथः काष्ठम् ।"
+    }
+  ]
+}

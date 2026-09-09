@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213058,
+    "chapter_id": 7795,
+    "verse_number": "९८",
+    "content_sanskrit": "अब्दादयश्च",
+    "padaccheda": "",
+    "anvaya": "द, दन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213058,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शब्दः । अवतीत्यशब्दः । << कौतेर्नुम् च >> (गणसूत्रम् 205) । कुन्दः ।"
+    }
+  ]
+}

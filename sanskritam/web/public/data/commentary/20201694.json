@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201694,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१२२",
+    "content_sanskrit": "पत्रपूर्वादञ्",
+    "padaccheda": "पत्र-पूर्वात् । अञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१२०), इदम् (४.३.१२०), रथात् (४.३.१२१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201694,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पतन्ति तेनेति पत्रमश्वादिकं वाहनमुच्यते। तत्पूर्वाद् रथशब्दादञ् प्रत्ययो भवति तस्येदमित्येतस्मिन् विषये। पूर्वस्य यतोऽपवादः। आश्वरथं चक्रम्। औष्ट्ररथम्। गार्दभरथम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201694,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पत्रं वाहनम् । अश्वरथस्येदमाश्वरथम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201694,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पत्त्रपूर्वादञ्>> - पत्रपूर्वादञ् । रथादित्येव । पत्रं वाहनमिति ।पत्रं वाहनपक्षयो॑रिति कोशः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201694,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<पत्त्रपूर्वादञ्>> - पत्त्रपूर्वादञ् । पूर्वस्य यतोऽपवादः । पत्रमिति । पतन्त्यनेनेति विग्रहेदाम्नि॑त्यादिना ष्ट्रन् । अआरथस्येदमिति । अआयुक्तो रथोऽआरथस्तस्याङ्गमित्यर्थः । पत्राध्वर्यु । अणोऽपवादः । पत्राद्वाह्रे । पत्त्राद्वाह्र इति । इह पत्त्रेत्यर्थग्रहणे, इतरोयस्तु स्वरूपग्रहणे व्याख्यानमेव शरणम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201694,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पतन्त्यनेनेति पत्रमिति ।'दाम्नीशस'  इत्यादिना ष्ट्रन् । अश्वयुक्तो रथोऽश्वरथः, षष्ठीसमासे वृत्तिस्वभावाद्यौक्तार्थावगतिः । तस्याङ्गमाश्वरथम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201694,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वाहनपूर्वाद् रथादञ् । अश्वरथस्येदम्, आश्वरथं युगादि । औष्ट्ररथम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201694,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "When preceded by a word denoting 'a draught animal', रथ takes the affix अञ् in the sense of 'this is his'.\nThis debars यत् ॥ Thus आश्वरथं चक्रं 'the wheel of a horse-cart' औष्ट्ररथम् ॥ गार्दभ रथं ॥\n\nThe word पत्र means 'that by which any one goes' or a draught-animal, like camel. It is formed by the affix ष्ट्रनृ (111.2. 182)."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201694,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "When preceded by a word denoting 'a draught animal', रथ takes the affix अञ् in the sense of 'this is his'."
+    }
+  ]
+}

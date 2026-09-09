@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212069,
+    "chapter_id": 7790,
+    "verse_number": "३२०",
+    "content_sanskrit": "शीक्",
+    "padaccheda": "शीकँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 320,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212069,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सेके आमर्षे च ' इति वोपदेवप्रभृतयः । तत्तु ' शीकृ सेचने ' इति भ्वादिधातोः सम्पद्यत इति व्यर्थमेव । ' मर्षणे शीकयेत् शीकेत् सेचने शपि शीकते ' (श्लो. 42) - देवः ।"
+    }
+  ]
+}

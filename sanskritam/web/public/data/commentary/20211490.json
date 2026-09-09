@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211490,
+    "chapter_id": 7786,
+    "verse_number": "२१",
+    "content_sanskrit": "त्वच्",
+    "padaccheda": "त्वचँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "संवरणे",
+    "meaning_english": "to cover",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211490,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " संवरणम् = आच्छदनम् ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

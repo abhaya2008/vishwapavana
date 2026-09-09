@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215690,
+    "chapter_id": 7807,
+    "verse_number": "८३",
+    "content_sanskrit": "न चैवोपलभ्यन्ते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": "शब्दविषयप्रदर्शनाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215690,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "अनुपलब्ध्याऽप्रयुक्तत्वं शङ्कते - भाष्ये - <y>न च वेति</y> ॥"
+    }
+  ]
+}

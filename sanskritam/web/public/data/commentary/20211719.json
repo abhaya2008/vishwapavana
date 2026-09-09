@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211719,
+    "chapter_id": 7789,
+    "verse_number": "४१",
+    "content_sanskrit": "भ्री",
+    "padaccheda": "भ्री",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "भये",
+    "meaning_english": "to fear,to support, to wear, to obey",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211719,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भरणे ' इति मैत्रेयक्षी क्षीरस्वामिप्रभृतयः पठन्ति ।"
+    }
+  ]
+}

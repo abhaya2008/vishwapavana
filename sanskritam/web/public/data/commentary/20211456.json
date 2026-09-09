@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211456,
+    "chapter_id": 7785,
+    "verse_number": "२५",
+    "content_sanskrit": "धृष्",
+    "padaccheda": "ञिधृषाँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "प्रागल्भ्ये",
+    "meaning_english": "to boast, to be proud, to show off",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211456,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रागल्भ्यार्थे तु धृष्णोति परस्मैपदिनावुभौ ' (श्लो. 182) इति देवः ।"
+    }
+  ]
+}

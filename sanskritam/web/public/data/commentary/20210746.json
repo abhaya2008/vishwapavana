@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210746,
+    "chapter_id": 7781,
+    "verse_number": "७४७",
+    "content_sanskrit": "निक्ष्",
+    "padaccheda": "णिक्षँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "चुम्बने",
+    "meaning_english": "to kiss",
+    "audio_url": null,
+    "display_order": 747,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210746,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चुम्बनम् = वक्त्रसंयोगः इति क्षीरस्वामी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210323,
+    "chapter_id": 7781,
+    "verse_number": "३२४",
+    "content_sanskrit": "शाड्",
+    "padaccheda": "शाडृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "श्लाघायाम्",
+    "meaning_english": "to praise",
+    "audio_url": null,
+    "display_order": 324,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210323,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' लडयोरभेदात् शालते इत्यपि ' इति काश्यपः ।"
+    }
+  ]
+}

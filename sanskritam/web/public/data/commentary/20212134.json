@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212134,
+    "chapter_id": 7790,
+    "verse_number": "३८५",
+    "content_sanskrit": "कण्ठ्",
+    "padaccheda": "कठिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शोके",
+    "meaning_english": "to be excited, to mourn, to grieve",
+    "audio_url": null,
+    "display_order": 385,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212134,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " उत्पूर्वोयम् उत्कण्ठायाम् ' इति कौमुदी । ' अथ कण्ठते । शोके स्यात् कण्ठयेत् कण्ठेत्, कठे स्यात् कृच्छ्रजीवने ' (श्लो. 79) इति देवः ।"
+    }
+  ]
+}

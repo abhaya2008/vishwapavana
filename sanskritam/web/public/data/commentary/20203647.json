@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203647,
+    "chapter_id": 7777,
+    "verse_number": "८.१.३४",
+    "content_sanskrit": "हि च",
+    "padaccheda": "हि । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": "अनुवृत्तिः — तिङ् (८.१.२८), न (८.१.२९), अङ्ग (८.१.३३), अप्रातिलोम्ये (८.१.३३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203647,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "हि इत्यनेन युक्तं तिङन्तमप्रातिलोम्ये नानुदात्तं भवति। स हि कु॒रु। स हि पच॑। स हि पठ॑। अप्रातिलोम्य इत्येव — स हि कू॒ज३ वृषल, इदानीं ज्ञास्यसि जाल्म॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203647,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हियुक्तं तिङन्तं नानुदात्तम् । आहि ष्मा याति (आहि ष्मा॒ याति॑) । आ हि रुहंतम् (आ हि रु॒हंत॑म्) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203647,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "हिशब्दोऽवधारणे हेतौ वा, स च प्रत्युदाहरणे त्वमर्षे ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203647,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "हियुक्तस्तिङुक्तेऽर्थे न निहन्यते । (वि? स) हि (सो? सा) तोरसृक् क्षता ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203647,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The finite verb retains its accent in connection with हि when used in a friendly assertion.\nThus स हि कुरु꣡, सहि प꣡च, सहि प꣡ठ ॥ Why do we say 'in friendly assertion'? Observe स हि कू॒ज वृषल । इदानीं ज्ञास्यसि जाल्म ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203647,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The finite verb retains its accent in connection with हि when used in a friendly assertion."
+    }
+  ]
+}

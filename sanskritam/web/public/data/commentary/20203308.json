@@ -1,0 +1,94 @@
+{
+  "verse": {
+    "id": 20203308,
+    "chapter_id": 7774,
+    "verse_number": "७.२.३०",
+    "content_sanskrit": "अपचितश्च",
+    "padaccheda": "अपचितः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": "अनुवृत्तिः — न (७.२.८), इट् (७.२.८), निष्ठायाम् (७.२.१४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203308,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अपचित इति वा निपात्यते। अपपूर्वस्य चायतेर्निष्ठायामनिट्त्वं चिभावश्च निपात्यते। अपचितोऽनेन गुरुः, अपचायितोऽनेन गुरुः॥ क्तिनि नित्यमिति वक्तव्यम्॥ क्तिनि नित्यं चिभावो निपात्यते। अपचितिः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203308,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चायतेर्निपातोऽयं वा । अपचितः । अपचायितः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203308,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अपचितश्च>> - अपचितश्च ।अपपूर्वस्य चिञो ण्यन्तस्य निष्ठायां चिभावो निपात्यते॑ इति भाष्यं । तदाह —  चायेर्निपातोऽयमिति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203308,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`चायतेः` इति। चायृ पूजानिशामनयोः` (धातुपाठः-880) इति। अयं योगो यश्चिनोतेरपूर्वसय पूजायां वृतिंत न प्रतिपद्यते तं प्रत्यारभ्यते। यस्तु प्रतिपद्यते तं प्रति नारब्धब्ध एव। तथा हि - चिनोतेरपचित इति भविष्यतीति, चायतेस्त्ववचायित इति। `वक्तव्यम्` इति। व्याख्येयमित्यर्थः। तेत्रेदं व्याख्यानम् - चकारोऽत्र क्रियते। स चानुक्तसमुच्चयार्थः। तेनापचितिरित्येतदपि निपात्यत इति। एतच्च निपातयता चायतेः क्तिनि नित्यं चिभावो वक्तव्यः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203308,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अपचितोऽनेन गुरुरिति । चायृ पूजानिशामनोयोः । निशामने चायं प्रयोगः । पूजायां तु मतिबुद्धिपूजार्थेभ्यश्चेति वर्तमाने क्ते सति क्तस्य च वर्तमाने इति षष्ठ।ल भवितव्यम् । क्तिनि नित्यमिति । क्तिन्नाबादिभ्यः इति क्तिन् । अन्यथा गुरोश्च हलः इत्याकारः स्यात् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203308,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "चायेर्निष्ठायामपचित इति वा स्यात् । विकल्पादपचायितः । पूजित इत्यर्थः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203308,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "अपचितश्च अपचितइति किं निपात्यते ? ॥ ( ॥ चायेश्चिभावश्च(2) ॥ ) चायेश्चिभावो (2)निपात्यते । अपचितः । ( ॥ क्तिनि नित्यम्(3) ॥ ) ॥ क्तिनि नित्यमिति वक्तव्यम् । अपचितिः ॥ ( अपचितश्च ) ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20203308,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And after अपचित has also a second form with the augment इ ।\nThe word अपचित is formed with the preposition अप added to the root चाय् [[1.9.9]] 'to honor, to fear, to see' and चाय् changed irregularly to चि before क्त ॥ The other form is अपचायितः, as अपचितो or अपचायितोऽनेनगुरुः 'the teacher is feared by him'. This example is given when the sense is that of 'fear'; when the word means 'honor', then the participle must govern the genitive case, as required by [[3.2.188]].\n\nVart:- Before क्तिन् affix, चाय् is always changed to चि, as अपचितिः 'Loss, destruction, showing reverence'. The affix क्तिन् is added to चाय्, by considering it as belonging to the class of आप् &c. See [[3.3.94]] <i>Vartika</i>. Otherwise it would take the affix अ by [[3.3.103]]."
+    },
+    {
+      "id": 9,
+      "verse_id": 20203308,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And after अपचित has also a second form with the augment इ ।"
+    },
+    {
+      "id": 10,
+      "verse_id": 20203308,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. क्तिनि नित्यं चिभावो वक्तव्यः ।"
+    },
+    {
+      "id": 11,
+      "verse_id": 20203308,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "ततस्तेऽपचित-द्विषः (भट्टिकाव्यम् 9.22) — `अपचितश्च` इति निपातः।"
+    }
+  ]
+}

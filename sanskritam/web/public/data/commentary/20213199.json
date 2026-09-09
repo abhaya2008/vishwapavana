@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213199,
+    "chapter_id": 7796,
+    "verse_number": "१",
+    "content_sanskrit": "अदि भुवो डुतच्",
+    "padaccheda": "",
+    "anvaya": "डुतच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213199,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अद्भुतम् ।"
+    }
+  ]
+}

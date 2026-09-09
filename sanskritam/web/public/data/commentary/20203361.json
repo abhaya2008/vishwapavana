@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20203361,
+    "chapter_id": 7774,
+    "verse_number": "७.२.८३",
+    "content_sanskrit": "ईदासः",
+    "padaccheda": "ईत् । आसः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": "अनुवृत्तिः — आने (७.२.८२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203361,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आस उत्तरस्यानशब्दस्य ईकारादेशो भवति। आसीनो यजते। अत्र पञ्चम्या परस्य षष्ठी कल्प्यते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203361,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आसः परस्यानस्य ईत्स्यात् । आदेः परस्य <{SK44}> । आसीनः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203361,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ईदासः>> - ईदासः । आस इति पञ्चमी । आनस्येति ।आने मु॑गित्यतस्तदनुवृत्तेरिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203361,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`आसः` इति पञ्चम्यकृतार्था `आने`  [[7.2.82]]  इति पूर्वत्र कृतार्थायाः सप्तम्याः षष्ठीत्वं प्रकल्पयिष्यति; <<तस्मादित्युत्तरस्य>> [[1.1.67]]  इति वचनात्। तेनानस्यैवायमादेशो विधीयते, इत्याह - `आस उत्तरस्यानशब्दस्य` इति। `आसीनः` इति। `आस उपवेशने` (धातुपाठः-1021)। अनुदात्तेत्त्वादात्मनेपदम्; <<आदेः परस्य>> [[1.1.54]]  इत्याकारस्येकारः। अदादित्वाच्छयो लुक्। तपरकरणं मुखसुखार्थम्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203361,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "आसः इति पञ्चम्यचरितार्था पूर्वत्र कृतार्थायाः आने इति सप्तम्याः षष्ठआआ प्रकल्पयति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203361,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आसेः परस्यानस्यादेरीत् स्यात् । आसीनः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203361,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "ई is substituted for the आ of आन after आस्।\nThus आसीनो यजते ॥ (See [[1.1.54]]) by which the first letter of the second term after आसः which is exhibited in the Ablative is taken here). The आने which is in the 7th case in the last aphorism, should be taken in the 6th case in this."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203361,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "ई is substituted for the आ of आन after आस्।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20203361,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "भोगिभोगासनासीनं (रघुवंशम् 10.7) — `ईदासः` इतीकारादेशः।\nआसीनानां व्योम्नि तस्यैव हेतोः (शिशुपालवधम् 18.48) — `ईदासः` इति शानच ईकारः।"
+    }
+  ]
+}

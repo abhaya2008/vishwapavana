@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213578,
+    "chapter_id": 7802,
+    "verse_number": "६",
+    "content_sanskrit": "पान्तानां गुर्वादीनाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213578,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पादपः । आतपः । लघ्वादीना तु - अनूपम् । द्व्यचां तु - नीपम् ॥"
+    }
+  ]
+}

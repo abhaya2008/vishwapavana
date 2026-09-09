@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212052,
+    "chapter_id": 7790,
+    "verse_number": "३०३",
+    "content_sanskrit": "धूप्",
+    "padaccheda": "धूपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 303,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212052,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धूपायतीति सन्तापे भाषार्थे धूपयेदिति' (श्लो. 130) - देवः ।"
+    }
+  ]
+}

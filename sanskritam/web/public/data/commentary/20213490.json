@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213490,
+    "chapter_id": 7799,
+    "verse_number": "१५६",
+    "content_sanskrit": "भृत्रामित्रछात्रपुत्रमन्त्रवृत्रमेढोष्ट्राः पुंस",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 156,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213490,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं भृत्रः । "
+    }
+  ]
+}

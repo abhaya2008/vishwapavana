@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200414,
+    "chapter_id": 7753,
+    "verse_number": "२.१.६४",
+    "content_sanskrit": "किं क्षेपे",
+    "padaccheda": "किम् । क्षेपे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": "अनुवृत्तिः — समानाधिकरणेन (२.१.४९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200414,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "किमित्येतत् क्षेपे गम्यमाने सुपा सह समस्यते, तत्पुरुषश्च समासो भवति। किंराजा, यो न रक्षति। किंसखा, योऽभिद्रुह्यति। किंगौः, यो न वहति। <<किमः क्षेपे>> [[५.४.७०]] इति समासान्तो न भवति। क्षेप इति किम्? को राजा पाटलिपुत्रे॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200414,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कुत्सितो राजा किंराजा । यो न रक्षति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200414,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<किं क्षेपे>> - किं क्षेपे । क्षेपो निन्दा । तत्रगम्ये किमित्यव्ययं समानाधिकरणेन समस्यते स तत्पुरुष इत्यर्थः । कुत्सितो राजेति । अस्वपदविग्रहोऽयम् । किम्पदस्थाने कुत्सिदपदमिति ज्ञेयम्, वाक्येन निन्दानवगमेन स्वपदलौकिकविग्रहाऽसम्भवात् । किंराजेति । 'राजाहःसखिभ्यः' इति टच् तु न, 'किमः क्षेपे' इति निषेधात् । ननु राज्ञो बहुसम्पत्तिशालिनः कथं कुत्सितत्वमित्यत आह — यो न रक्षतीति । स किराजेत्यन्वयः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200414,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<किं क्षेपे>> - किं क्षेपे । किंराजेति ।किमः क्षेपे॑इति समासान्तनिषेधः । क्षेपे किम् । को राजा पाटलिपुत्रे । एवंकिंसखा यो दहति॑किंगौर्यो न वहति॑ इत्यप्युदाहरणं बोध्यम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200414,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`किंसखा` इति। `अनङ सौ`  [[7.1.93]]  इत्यनङादेशः। अथ किंराजेत्यादौ `राजाहः सखिभ्यष्टच्`  [[5.4.91]]  <<गोरतद्धितलुकि>> [[5.4.92]]  इति टच् समासान्तः कस्मान्न भवतीत्याह -  `किमः क्षेपे` इत्यादि। अत्र `न पूजनात्`  [[5.4.69]]  इत्यतः `न` इत्यनुवर्तते॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200414,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कुत्सितो गौः किगौः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200414,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word किम् 'what', when implying 'contempt' is compounded with a word ending in case-affix and the resulting compound is तत्-पुरुष ।\nAs किं राजा यो न रक्षति 'he is a bad king who does not protect his subjects.' किं सखा योऽभिद्रुह्यति 'he is a bad friend who hates.' किं गौः यो न वहति 'it is a bad ox that does not carry.'\n\nThe affix टच् [[5.4.91]] does not come after this compound as in महाराजः मद्रराजः &c., by force of Rule [[5.4.70]]. Otherwise the form would have been किंराज and not किंराजा.\n\nWhy do we say 'when censure is implied?' Observe कस्य राजा = किंराजः 'whose king;' किंसखः"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200414,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word किम् 'what', when implying 'contempt' is compounded with a word ending in case-affix and the resulting compound is तत्-पुरुष ।"
+    }
+  ]
+}

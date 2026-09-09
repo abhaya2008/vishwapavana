@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210511,
+    "chapter_id": 7781,
+    "verse_number": "५१२",
+    "content_sanskrit": "अण्",
+    "padaccheda": "अणँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to breathe,to utter a voice,to sound",
+    "audio_url": null,
+    "display_order": 512,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210511,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अणेरणति शब्दार्थे प्राणते त्वण्यते श्यनि ' (92) इति देवः ।"
+    }
+  ]
+}

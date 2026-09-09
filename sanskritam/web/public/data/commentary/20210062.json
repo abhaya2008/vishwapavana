@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210062,
+    "chapter_id": 7781,
+    "verse_number": "६३",
+    "content_sanskrit": "अन्त्",
+    "padaccheda": "अतिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "बन्धने",
+    "meaning_english": "to bind",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210062,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अत्र धनपालः - 'तान्तं द्रमिडाः पठन्ति, आर्यास्तु दान्तम्' इति । उभयमिति मैत्रेयस्वामिकाश्यपसम्मताकारादयः । ' बन्धतेन्तति, सातत्यगमनेतति, चिन्तयेत्' ( श्लो.94) इति देवः ।"
+    }
+  ]
+}

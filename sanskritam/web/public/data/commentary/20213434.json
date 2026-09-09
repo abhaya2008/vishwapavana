@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213434,
+    "chapter_id": 7799,
+    "verse_number": "१००",
+    "content_sanskrit": "रश्मिदिवसाभिधानानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213434,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतानि पुंसि स्युः । रश्मिर्मयूखः दिवसो घस्नः । "
+    }
+  ]
+}

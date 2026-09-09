@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202560,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१२१",
+    "content_sanskrit": "अवपथासि च",
+    "padaccheda": "अवपथासि । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": "अनुवृत्तिः — अति (६.१.१०९), प्रकृत्या (६.१.११५), यजुषि (६.१.११७), अनुदात्ते (६.१.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202560,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यजुषीत्येव। अनुदात्त इति चशब्देनानुकृष्यते। अवपथाःशब्देऽनुदात्तेऽकारादौ परतो यजुषि विषय एङ् प्रकृत्या भवति। त्री रुद्रेभ्यो अवपथाः (काठ० सं० ३०.६.३२)। वपेर्लङि थासि <<तिङ्ङतिङः>> [[८.१.२८]] इति निघातेनानुदात्तत्वम्। अनुदात्त इत्येव — यद्रुद्रेभ्योऽवपथाः। <<निपातैर्यद्यदिहन्त॰>> [[८.१.३०]] इति निघातः प्रतिषिध्यते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202560,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अनुदात्ते अकारदौ अवपथाःशब्दे परे यजुषि एङ् प्रकृत्या । त्रीरुंद्रेभ्यो अवपथाः (त्रीरुं॒द्रेभ्यो॑ अवपथाः) । वपेस्थासि लङि तिङ्ङतिङः - <{SK3935}> इत्यनुदात्तत्वम् । अनुदात्ते किम् । यद्रुद्रेभ्योऽवपथाः (यद्रुद्रेभ्यो॑ऽवपथाः) । निपातैर्यद्यदि - <{SK3937}> इति निघातो न ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202560,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`यद्रुद्रेभ्योऽवपथाः` इति। अटः स्वरेणाद्युवात्तोऽयमवपथाःशब्दः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202560,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the यजुर्वेद , when the gravely accented अ of अवपथास् follows ए or ओ , the vowels retain their original form.\nThus त्री रुद्रेभ्यो अवपथाः ॥ The word अवपथाः is 2nd person Singular Imperfect of वप् in the <i>Atmanepada</i>. Thus अ + वप् + शप् + थास् ॥ The अ is grave by [[8.1.28]]. When it is not gravely accented, the अ drops. As यद्रुद्रेभ्योऽवपथाः ॥ Here अ is not grave by virtue of [[8.1.30]]."
+    },
+    {
+      "id": 5,
+      "verse_id": 20202560,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the यजुर्वेद , when the gravely accented अ of अवपथास् follows ए or ओ , the vowels retain their original form."
+    }
+  ]
+}

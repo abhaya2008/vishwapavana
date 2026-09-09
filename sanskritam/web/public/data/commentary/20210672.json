@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210672,
+    "chapter_id": 7781,
+    "verse_number": "६७३",
+    "content_sanskrit": "निन्व्",
+    "padaccheda": "णिविँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेवने सेचने संस्रने च",
+    "meaning_english": "to sprinkle,to make wet, to serve",
+    "audio_url": null,
+    "display_order": 673,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210672,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सेचने ' इति क्षीरतरङ्गिण्याम् ।   स्रंसने इति मैत्रेयः ।"
+    }
+  ]
+}

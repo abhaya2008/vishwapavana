@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212622,
+    "chapter_id": 7792,
+    "verse_number": "१०२",
+    "content_sanskrit": "शमेः खः",
+    "padaccheda": "",
+    "anvaya": "ख",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212622,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शङ्खः ।"
+    }
+  ]
+}

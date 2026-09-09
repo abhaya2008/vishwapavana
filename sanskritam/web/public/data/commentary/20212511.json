@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212511,
+    "chapter_id": 7791,
+    "verse_number": "२५३",
+    "content_sanskrit": "कपिलक । निर्विलीक । लोमानि । पांसुल । कल्प । शुक्ल । कपिलका । तर्पिलिका । तर्पिलि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 253,
+    "avatarnika": "कपिलकादिः (8.2.18)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212511,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "कपिलकादीनां संज्ञाछन्दसोर्वेति वाच्यम्"
+    }
+  ]
+}

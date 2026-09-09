@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210670,
+    "chapter_id": 7781,
+    "verse_number": "६७१",
+    "content_sanskrit": "पिन्व्",
+    "padaccheda": "पिविँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेवने सेचने च",
+    "meaning_english": "to sprinkle,to make wet, to serve",
+    "audio_url": null,
+    "display_order": 671,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210670,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सेचने ' इति केचित् ।"
+    }
+  ]
+}

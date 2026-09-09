@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210562,
+    "chapter_id": 7781,
+    "verse_number": "५६३",
+    "content_sanskrit": "शल्",
+    "padaccheda": "शलँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "चलनसंवरणयोः",
+    "meaning_english": "to go, to cover",
+    "audio_url": null,
+    "display_order": 563,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210562,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतौ शलति संवृत्यां चलने शलते शलेः ' (श्लो. 154) इति देवः ।"
+    }
+  ]
+}

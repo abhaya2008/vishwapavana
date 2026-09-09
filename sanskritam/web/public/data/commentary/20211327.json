@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211327,
+    "chapter_id": 7784,
+    "verse_number": "५९",
+    "content_sanskrit": "वाश्",
+    "padaccheda": "वाशृँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to howl,to growl,to roar",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211327,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वासृ ' इति काशकृत्स्नः । ' वाशृ ' इति कातन्त्राः अन्ये वैयाकरणाः च ।"
+    }
+  ]
+}

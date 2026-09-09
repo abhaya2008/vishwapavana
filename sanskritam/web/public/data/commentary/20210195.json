@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210195,
+    "chapter_id": 7781,
+    "verse_number": "१९६",
+    "content_sanskrit": "मुञ्च्",
+    "padaccheda": "मुचिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कल्कने कथने च",
+    "meaning_english": "to boast, to be egoistic, to cheat, to tear off, to powder, to speak, to talk",
+    "audio_url": null,
+    "display_order": 196,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210195,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कल्कने मुञ्चते मुञ्चेः मोक्षे मुञ्चति मुञ्चते ' (श्लो.47) इति देवः । ' मुच ' इति चन्द्रसम्मतः पाठः । ' कल्कनम् = दम्भः, कथनं च ' इति क्षीरतरङ्गिणी । ' शाठ्यम् ' इति मैत्रेयः । ' कत्थनं चेति स्वामी ' इति मा.धा.वृत्तिः । ' कथनम् इत्यन्ये ' इति सिद्धान्तकौमुदी । एवञ्च बह्वर्थकत्वं कल्कनशब्दस्येति ज्ञेयम्  ।"
+    }
+  ]
+}

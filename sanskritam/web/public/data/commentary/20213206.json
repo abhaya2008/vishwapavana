@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213206,
+    "chapter_id": 7796,
+    "verse_number": "८",
+    "content_sanskrit": "तृहेः क्नो हलोपश्च",
+    "padaccheda": "",
+    "anvaya": "क्न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213206,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तृणम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211465,
+    "chapter_id": 7785,
+    "verse_number": "३४",
+    "content_sanskrit": "चिरि",
+    "padaccheda": "चिरि",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to damage, to hurt",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211465,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं धातुश्छान्दसः । भाषायामपीत्येके । द्व्यच्कोयं धातुः । इकारः न इत्संज्ञकः । अत एव, ' दरिद्राजागृदीधीङामनेकाच्त्वं चिरेर्जिरेः । अदन्तोर्णोतिवेवीङां स्मर्यते णेस्तथोलडेः ' इत्यभियुक्तोक्तिः सङ्गच्छते ।"
+    }
+  ]
+}

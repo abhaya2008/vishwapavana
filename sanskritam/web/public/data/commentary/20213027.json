@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213027,
+    "chapter_id": 7795,
+    "verse_number": "६७",
+    "content_sanskrit": "राशदिभ्यां त्रिप्",
+    "padaccheda": "",
+    "anvaya": "त्रिप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213027,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रात्रिः शन्त्रिः । कुञ्जरः ।"
+    }
+  ]
+}

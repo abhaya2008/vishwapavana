@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213045,
+    "chapter_id": 7795,
+    "verse_number": "८५",
+    "content_sanskrit": "कुणिपुल्योः किन्दच्",
+    "padaccheda": "",
+    "anvaya": "किन्दच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213045,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुण शब्दोपकरणयोः । कुणिन्दः शब्दः । पुलिन्दो जातिविशेषः ।"
+    }
+  ]
+}

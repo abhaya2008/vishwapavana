@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213198,
+    "chapter_id": 7795,
+    "verse_number": "२३८",
+    "content_sanskrit": "वशेः कनसिः",
+    "padaccheda": "",
+    "anvaya": "कनसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 238,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213198,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सम्प्रसारणम् । उशनाः"
+    }
+  ]
+}

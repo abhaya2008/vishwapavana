@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212897,
+    "chapter_id": 7794,
+    "verse_number": "९७",
+    "content_sanskrit": "दिधिषाय्यः",
+    "padaccheda": "",
+    "anvaya": "आय्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212897,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दधातेर्द्वित्वमित्वं षुक् च । मित्र इव यो दिधिषाय्यः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212617,
+    "chapter_id": 7792,
+    "verse_number": "९७",
+    "content_sanskrit": "हृसृरुहियुषिभ्य इतिः",
+    "padaccheda": "",
+    "anvaya": "इति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212617,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हरित्ककुभि वर्णे च तृणवाचिविशेषयोः । सरिन्नदी । रोहित् मृगविशेषस्य स्त्री । युष इति सौत्रो धातुः । ऋश्यस्य रोहित् । पुरुषस्य योषित् इति भाष्यम् ।"
+    }
+  ]
+}

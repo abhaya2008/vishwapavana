@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210868,
+    "chapter_id": 7781,
+    "verse_number": "८६९",
+    "content_sanskrit": "प्रथ्",
+    "padaccheda": "प्रथँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रख्याने",
+    "meaning_english": "to become famous,to arise, to declare, to manifest,to publish, to expand the scope",
+    "audio_url": null,
+    "display_order": 869,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210868,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "षिच्च । ' प्रख्यानम् = प्रसिद्धिः ' इति क्षीरस्वामी । ' विस्तारेपि ' इति धा.का.(2.4) । ' प्रतथे प्रथयत्येतत् प्रख्याने द्वितयं प्रथेः ' (श्लो. 99) इति देवः ।"
+    }
+  ]
+}

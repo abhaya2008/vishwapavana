@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201810,
+    "chapter_id": 7764,
+    "verse_number": "४.४.७०",
+    "content_sanskrit": "अगारान्ताट्ठन्",
+    "padaccheda": "अगार-अन्तात् । ठन्",
+    "anvaya": "'तत्र नियुक्तः' (इति) अगारान्तात् ठन्",
+    "meaning_sanskrit": "यस्य अन्ते 'अगार' इति विद्यते, तादृशात् सप्तमीसमर्थात् 'नियुक्तः' अस्मिन् अर्थे ठन्-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": "अनुवृत्तिः — नियुक्तः (४.४.६९), तत्र (४.४.६९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201810,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अगारशब्दान्तात् प्रातिपदिकात् ठन् प्रत्ययो भवति तत्र नियुक्त इत्येतस्मिन् विषये। ठकोऽपवादः। देवागारे नियुक्तो देवागारिकः। कोष्ठागारिकः। भाण्डागारिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201810,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "देवागारे नियुक्तो देवागारिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201810,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "देवागारे नियुक्तो देवागारिकः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201810,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठन् comes in the sense of 'appointed there' after a word ending with अगार।\nThis debars ठक् । The difference is in accent and want of <i>Vriddhi</i>. Thus देवागारे नियुक्तः = देवगारिकः, कोष्ठागारिकः, भाण्डागारिकः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201810,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठन् comes in the sense of 'appointed there' after a word ending with अगार।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201810,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'अगार' (= स्थानम् / गृहम्) अयम् शब्दः यस्य अन्ते अस्ति, तादृशात् शब्दात्   <<तत्र नियुक्तः>> [[4.4.69]] अस्मिन् अर्थे औत्सर्गिकम् ठक्-प्रत्ययं बाधित्वा ठन्-प्रत्ययः भवति । यथा -\n1. देवागारे नियुक्तः = देवागार + ठन् → देवागारिकः । देवालये अर्चनं कर्तुम् यः अधिकृतः अस्ति सः देवागारिकः ।\n2. कोष्ठागारे नियुक्तः = कोष्ठागार + ठन् → कोष्ठागारिकः ।\n3. भाण्डागारे नियुक्तः सः भाण्डागारिकः ।\n"
+    }
+  ]
+}

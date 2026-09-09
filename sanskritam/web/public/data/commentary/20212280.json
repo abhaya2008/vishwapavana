@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212280,
+    "chapter_id": 7791,
+    "verse_number": "२२",
+    "content_sanskrit": "प्रति । परि । अनु ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": "प्रत्यादिः (2.3.43)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212280,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "अप्रत्यादिभिरिति वक्तव्यम्"
+    }
+  ]
+}

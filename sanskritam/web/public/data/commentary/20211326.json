@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211326,
+    "chapter_id": 7784,
+    "verse_number": "५८",
+    "content_sanskrit": "काश्",
+    "padaccheda": "काशृँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to glow, to shine",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211326,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "निर् — निकाल देना\nनिस् — निकाल देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211326,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " काशेः दीप्तौ काश्येत काशते ' (श्लो. 165) इति देवः ।"
+    }
+  ]
+}

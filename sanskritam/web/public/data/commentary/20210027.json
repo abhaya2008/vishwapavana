@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210027,
+    "chapter_id": 7781,
+    "verse_number": "२८",
+    "content_sanskrit": "स्वाद्",
+    "padaccheda": "स्वादँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "आस्वादने",
+    "meaning_english": "to taste,to please the tongue, to have delight",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210027,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' आस्वादनेर्थे स्वदते स्वादयेदिति शब्णिचो:' (श्लो. 103) इति देवः ।"
+    }
+  ]
+}

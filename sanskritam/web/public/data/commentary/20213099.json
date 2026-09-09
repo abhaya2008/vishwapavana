@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213099,
+    "chapter_id": 7795,
+    "verse_number": "१३९",
+    "content_sanskrit": "खनिकष्यज्यसिवसिवनिसनिध्वनिग्रन्थिचरिभ्यश्च",
+    "padaccheda": "",
+    "anvaya": "इ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213099,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "खनिः । कषिर्हिंस्रः । अजिः । असिः । वसिर्वस्त्रम् । वनिरग्निः । सनिर्भक्तिर्दानं च । ध्वनिः । ग्रन्थिः । चरिः पशुः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212591,
+    "chapter_id": 7792,
+    "verse_number": "७१",
+    "content_sanskrit": "अर्तेश्च तुः",
+    "padaccheda": "",
+    "anvaya": "तु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212591,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अर्तेस्तुः स्यात्स च कित् । ऋतुः स्त्रीपुष्पकालयोः ।"
+    }
+  ]
+}

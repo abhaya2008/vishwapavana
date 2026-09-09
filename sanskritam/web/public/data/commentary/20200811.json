@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200811,
+    "chapter_id": 7758,
+    "verse_number": "३.२.४३",
+    "content_sanskrit": "मेघर्तिभयेषु कृञः",
+    "padaccheda": "मेघ-ऋति-भयेषु । कृञः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कर्मणि (३.२.१), अनुपसर्गे (३.२.३), सुपि (३.२.४), खच् (३.२.३८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200811,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "मेघ ऋति भय इत्येतेषु कर्मसूपपदेषु कृञः खच् प्रत्ययो भवति। मेघंकरः। ऋतिंकरः। भयंकरः। उपपदविधौ भयादिग्रहणं तदन्तविधिं प्रयोजयति। अभयंकरः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200811,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "मेघङ्करः । भयंकरः । भयशब्देन तदन्तविधिः । अभयङ्करः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200811,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`उपपदविधौ` इत्यादि। ननु चाभयशब्दो नञ्समासे सिध्यत्येव? नैवं शक्यम्, सतिशिष्टत्वाद्धि `तत्पुरुषे तुल्यार्थ`  [[6.2.2]]  इति पूर्वपदप्रकृतिस्वराद्युदात्तत्वं स्यात्, `{गतिकारकोपपदात् कृत्` इति सूत्रम्} गतिकारकोपपदानाम्`  [[6.2.138]]  इत्यादिनान्तोदात्तत्वं चेष्यते। तस्मात् कर्तव्यम्। अपवादत्वात् खजयमणं बाधते, हेत्वादिविवक्षायाञ्च परत्वाट्टप्रत्ययमपि॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200811,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मेघर्तिभयेषु कृञः॥ करोतेरिति। कृणोतेस्तु पूर्ववदेवाग्रहणम्। शिवंकर इत्यपि च्छन्दसि द्दश्यते - शिव एको ध्येयः शिवंकर इति॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200811,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "मेघङ्करः । ऋतिर्गतिः, ऋतिङ्करः । भयङ्करः भयाढ्यादिषु तदन्तविधि- रित्यभयङ्करोऽपि ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200811,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix खच् comes after the verb कृ 'to make' when the words मेघ 'cloud' अर्ति 'misfortune' and भय 'fear' are in composition as objects.\nAs मेघङ्करः 'producing clouds'; ऋर्तिकरः 'giving pain'; भयङ्करः 'frightful'.\n\nVart:- The <i>tadanta</i> <i>vidhi</i> applies in the case of <i>upapadas</i> like भय. &c. This is an exception to the <i>vartika</i> under (1.1. 72.) by which, in the case of affixes, <i>tadanta</i>-<i>vidhi</i> was prohibited. Thus we have अभयङ्करः 'who causes security'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200811,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix खच् comes after the verb कृ 'to make' when the words मेघ 'cloud' अर्ति 'misfortune' and भय 'fear' are in composition as objects."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200811,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "भयंकरः प्राणभृतां (किरातार्जुनीयम् 11.17) — `मेघर्तिभयेषु कृञः` इति खच्प्रत्ययः।\nमारबलमिव भयङ्करतां (शिशुपालवधम् 15.58) — `मेघर्तिभयेषु कृजः` इति खच्प्रत्यये मुमागमः।\nभयङ्करा भृशमपि दर्शनीयतां (शिशुपालवधम् 17.45) — `मेघर्तिभयेषु कृञः` इति खच्प्रत्ययः।\nमेघं-करमिवायान्तमृतुं (भट्टिकाव्यम् 6.104) — `मेघर्तिभयेषु कृञः` इति खच् प्रत्ययः।"
+    }
+  ]
+}

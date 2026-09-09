@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213347,
+    "chapter_id": 7799,
+    "verse_number": "१३",
+    "content_sanskrit": "विंशत्यादिरानवतेः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213347,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं विंशतिः । त्रिंशत् । चत्वारिंशत् । पञ्चाशत् । षष्टिः । सप्ततिः । अशीतिः । नवतिः ।"
+    }
+  ]
+}

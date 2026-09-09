@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212665,
+    "chapter_id": 7792,
+    "verse_number": "१४५",
+    "content_sanskrit": "भियः षुग्वा",
+    "padaccheda": "",
+    "anvaya": "मक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212665,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भीमः । भीष्मः ।"
+    }
+  ]
+}

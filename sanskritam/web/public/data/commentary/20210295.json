@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210295,
+    "chapter_id": 7781,
+    "verse_number": "२९६",
+    "content_sanskrit": "मण्ठ्",
+    "padaccheda": "मठिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शोके",
+    "meaning_english": "to sorrow, to grieve, to be anxious",
+    "audio_url": null,
+    "display_order": 296,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210295,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मण्ठते शपि शोकार्थे मठेन्मदनिवासयोः ' (श्लो.82) इति देवः । शोकः = आध्यायनम् उत्कण्ठापूर्वकस्मरणम् । उत्कण्ठामात्रे तु अकर्मकः ।"
+    }
+  ]
+}

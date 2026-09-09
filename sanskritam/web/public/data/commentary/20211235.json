@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211235,
+    "chapter_id": 7782,
+    "verse_number": "७०",
+    "content_sanskrit": "शास्",
+    "padaccheda": "शासुँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "अनुशिष्टौ",
+    "meaning_english": "to order, to tell, to explain, to educate, to inform, to rule, to command to punish",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211235,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अनुशिष्टिः नियोगः ' इति क्षीरस्वामी । ' आत्रेय - मैत्रेय - स्वामि - काश्यपाः अमुमुदितं पठन्ति । वर्धमान - सम्मताकार - हरदत्त - गर्गादयः अनुदितं पठन्ति ' इति माधवः । ' इच्छायाम् आशास्ते, शास्ति शासने ' (श्लो. 184) इति देवः ।"
+    }
+  ]
+}

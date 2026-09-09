@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211229,
+    "chapter_id": 7782,
+    "verse_number": "६४",
+    "content_sanskrit": "श्वस्",
+    "padaccheda": "श्वसँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "प्राणने",
+    "meaning_english": "to breathe,to live, to inhale",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211229,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — समाधान करना, आश्वासन करना\nउद् — विवसित होना, प्रफुल्लित होना, खिलना\nनिर् — मरना, दम छोड़ना, सांस भरना\nवि — विश्वास करना, भरोसा रखना"
+    }
+  ]
+}

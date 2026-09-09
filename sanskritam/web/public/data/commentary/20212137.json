@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212137,
+    "chapter_id": 7790,
+    "verse_number": "३८८",
+    "content_sanskrit": "धृष्",
+    "padaccheda": "धृषँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रसहने",
+    "meaning_english": "to conquer, to win, to be eager, to be afraid",
+    "audio_url": null,
+    "display_order": 388,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212137,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धृषेः प्रसहने यौ स्तां धर्षयेद्धर्षतीत्युभे ' (श्लो. 181) - देवः ।"
+    }
+  ]
+}

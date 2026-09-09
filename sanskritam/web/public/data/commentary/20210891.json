@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210891,
+    "chapter_id": 7781,
+    "verse_number": "८९२",
+    "content_sanskrit": "चक्",
+    "padaccheda": "चकँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "तृप्तौ",
+    "meaning_english": "to be satisfied,to be content",
+    "audio_url": null,
+    "display_order": 892,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210891,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रतीघाते च तृप्तौ च चकते चकतीति तु । तृप्तिमात्रे चकेरस्य मित्त्वात् चकयतीति णौ '( श्लो.40) इति देवः । पूर्वम् अनुदात्तेत्सु पठितस्यास्य धातोः तृप्तिरूपेर्थे मित्त्वार्थम् परस्मैपदिनां मध्ये पुनः पाठः कृतः ।"
+    }
+  ]
+}

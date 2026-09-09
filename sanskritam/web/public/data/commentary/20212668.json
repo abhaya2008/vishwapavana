@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212668,
+    "chapter_id": 7792,
+    "verse_number": "१४८",
+    "content_sanskrit": "प्रथेः षिवन् संप्रसारणं च",
+    "padaccheda": "",
+    "anvaya": "षिवन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 148,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212668,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पृथिवी । पवन्नित्येके । पृथवी पृथिवी पृथ्वी इति शब्दार्णवः ।"
+    }
+  ]
+}

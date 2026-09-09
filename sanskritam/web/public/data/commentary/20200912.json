@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20200912,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१४४",
+    "content_sanskrit": "अपे च लषः",
+    "padaccheda": "अपे । च । लषः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घिनुण् (३.२.१४१), वौ (३.२.१४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200912,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<लष कान्तौ>> अस्माद् धातोरप  उपपदे चकाराद् वौ च घिनुण् भवति। अपलाषी। विलाषी॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200912,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चाद्वौ । अपलाषी । विलाषी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200912,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अपे च लषः>> - अपे च लषः । चाद्वाविति । वौ उपपदेऽपीत्यर्थः । अपे वौ च उपपदे लषोर्घिनुणित्यर्थः । ताच्छील्यादिष्वेव ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200912,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "लपेरपे वौ च घिनुण् । अपलाषी । विलापी ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200912,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घिनुण् comes after the verb लष 'to wish' when compounded with the preposition अप and वि।\nAs अपलाषी 'thirsty'; विलाषी. The term वि is to be read into this <i>sutra</i> by the force of the word 'and'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20200912,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घिनुण् comes after the verb लष 'to wish' when compounded with the preposition अप and वि।"
+    }
+  ]
+}

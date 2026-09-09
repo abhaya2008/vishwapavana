@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213532,
+    "chapter_id": 7800,
+    "verse_number": "९",
+    "content_sanskrit": "स्वाङ्गाख्यायामादिर्वा",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213532,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इह दक्षिणस्याद्यन्तौ पर्यायेणोदात्तौ स्तः । दक्षिणो बाहुः । आख्याग्रहणम् किम् । प्रत्यङ्मुखस्यासीनस्य वामपाणिर्दक्षिणो भवति ॥"
+    }
+  ]
+}

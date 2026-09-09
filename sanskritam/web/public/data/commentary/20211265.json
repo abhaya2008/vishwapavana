@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211265,
+    "chapter_id": 7783,
+    "verse_number": "२३",
+    "content_sanskrit": "धिष्",
+    "padaccheda": "धिषँ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211265,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " छान्दसः ।"
+    }
+  ]
+}

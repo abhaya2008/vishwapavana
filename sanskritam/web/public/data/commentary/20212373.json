@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212373,
+    "chapter_id": 7791,
+    "verse_number": "११५",
+    "content_sanskrit": "अध्यात्म । अधिदेव । अधिभूत । इहलोक । परलोक ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": "अध्यात्मादिः (4.3.60)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212373,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "अध्यात्मादिभ्यश्च"
+    }
+  ]
+}

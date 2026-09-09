@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213037,
+    "chapter_id": 7795,
+    "verse_number": "७७",
+    "content_sanskrit": "मस्जेर्नुम् च",
+    "padaccheda": "",
+    "anvaya": "ऊषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213037,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मञ्जूषा ।"
+    }
+  ]
+}

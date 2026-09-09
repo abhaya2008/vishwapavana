@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215653,
+    "chapter_id": 7807,
+    "verse_number": "४६",
+    "content_sanskrit": "अथैतस्मिञ्शब्दोपदेशे सति किं शब्दानां प्रतिपत्तौ प्रतिपदपाठः कर्तव्यः - गौरश्वः पुरुषो हस्ती शकुनिर्मृगो ब्राह्मण इत्येवमादयः शब्दाः पठितव्याः ?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": "शास्त्रनिर्माणरीतिनिरूपणाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215653,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "भाष्ये 'प्रतिपत्तौ' इत्यस्योपायभूत इति शेषः ॥"
+    }
+  ]
+}

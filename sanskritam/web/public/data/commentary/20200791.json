@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200791,
+    "chapter_id": 7758,
+    "verse_number": "३.२.२३",
+    "content_sanskrit": "न शब्दश्लोककलहगाथावैरचाटुसूत्रमन्त्रपदेषु",
+    "padaccheda": "न । शब्द-श्लोक-कलह-गाथा-वैर-चाटु-सूत्र-मन्त्र-पदेषु",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कर्मणि (३.२.१), अनुपसर्गे (३.२.३), सुपि (३.२.४), टः (३.२.१६), कृञः (३.२.२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200791,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "शब्दादिषूपपदेषु करोतेष्टप्रत्ययो न भवति । हेत्वादिषु प्राप्तः प्रतिषिध्यते । शब्दकारः। श्लोककारः। कलहकारः। गाथाकारः। वैरकारः। चाटुकारः। सूत्रकारः। मन्त्रकारः। पदकारः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200791,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एषु कृञष्टो न । हेत्वादिषु प्राप्तः प्रतिषिध्यते । शब्दकार इत्यादि ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200791,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<न शब्दश्लोककलहगाथावैरचाटुसूत्रमन्त्रपदेषु>> - न शब्दश्लोक । शब्द, श्लोक, कलह, गाथा, वैर, चाटु, सूत्र, मन्त्र, पद- एषां नवानां द्वन्द्वः । हेत्वादिष्विति ।कृञो हेतुताच्छील्यानुलोम्येषु॑ इति प्राप्तः टप्रत्ययोऽनेन प्रतिषिध्यते इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200791,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`हेत्वादिषु टः प्राप्तः` इति। `कृञो हेतु`  [[3.2.20]]  इत्यादिना॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200791,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एषु पूर्वेषु कृञो हेत्वादौ प्राप्तष्टो न । शब्दकार इत्याद्यण्येव ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200791,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ट does not come after the verb कृ 'to make' when the following words are in composition with it - 1. शब्द 'sound' 2. श्लोक 'verse' 3. कलह 'quarrel' 4. गाथा 'praise' 5. वैर 'enmity' 6. चाटु 'flattery' 7. सूत्र 'thread' 8. मन्त्र 'hymns' 9. पद 'word'.\nThis prohibition relates even when the sense is that of cause, habit &c. The affix ट being prohibited, the general affix अण् takes its place. As शब्दकारः 'sounding, sonorous'; श्लोककारः 'a verse-maker'; कलहकारः 'one who foments quarrels'; गाथाकारः 'a writer of <i>Gathas</i> or <i>prakritee</i> verses'; वैरकारः 'an enemy'; चाटुकारः 'a flatterer'; सूत्रकारः 'an author of <i>sutras</i>'; मन्त्रकारः 'a composer of <i>Mantras</i>'; पदकारः 'an author of <i>Padapatha</i>' ."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200791,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ट does not come after the verb कृ 'to make' when the following words are in composition with it - 1. शब्द 'sound' 2. श्लोक 'verse' 3. कलह 'quarrel' 4. गाथा 'praise' 5. वैर 'enmity' 6. चाटु 'flattery' 7. सूत्र 'thread' 8. मन्त्र 'hymns' 9. पद 'word'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200791,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "शब्द-कारः पपात खम् (भट्टिकाव्यम् 5.100) — `न शब्द- श्लोक-` इति टे प्रतिपिद्धे- sणेव भवति।\nनिहन्ता वैर-काराणां (भट्टिकाव्यम् 5.78) — `न शब्द- श्लोक-` इत्यादिना टे प्रतिषिद्धे अणेव भवति।"
+    }
+  ]
+}

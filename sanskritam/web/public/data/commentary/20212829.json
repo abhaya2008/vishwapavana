@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212829,
+    "chapter_id": 7794,
+    "verse_number": "२९",
+    "content_sanskrit": "स्तनिह्रुषिपुपिगदिमदिभ्यो णेरित्नुच्",
+    "padaccheda": "",
+    "anvaya": "इत्नुच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212829,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "’अयामन्त-२३११’ इति णेरयादेशः । स्तनयित्नुः । हर्षयित्नुः । पोपयित्नुः गदयित्नुर्वावदूकः । मदयित्नुर्मदिरा ।"
+    }
+  ]
+}

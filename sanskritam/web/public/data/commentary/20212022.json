@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212022,
+    "chapter_id": 7790,
+    "verse_number": "२७३",
+    "content_sanskrit": "वस्",
+    "padaccheda": "वसँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "स्नेहच्छेदापहरणेषु",
+    "meaning_english": "to love, to cut, to destroy, to kidnap, to desire",
+    "audio_url": null,
+    "display_order": 273,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212022,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' उपहरणेषु इति वा पाठः ' इति धातुकाव्यम् । (3.41) ' अवहरणेषु ' इति कातन्त्रशाकटा शाकटायनचन्द्रादयः । ' अवहननेषु इति पाठान्तरम् ' इति क्षीरतरङ्गिण्याम् । ' वस्यति स्तम्भने वस्ते छादने वसयेत् वसेत् । निवासे वासयेत्, स्नेहे वासयत्युपसेवने ' (श्लो. 187 - 188) इति देवः ।"
+    }
+  ]
+}

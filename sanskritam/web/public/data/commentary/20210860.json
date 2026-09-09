@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210860,
+    "chapter_id": 7781,
+    "verse_number": "८६१",
+    "content_sanskrit": "स्रम्भ्",
+    "padaccheda": "स्रन्भुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "विश्वासे",
+    "meaning_english": "to trust, to believe",
+    "audio_url": null,
+    "display_order": 861,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210860,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्त्यादिः अयम् इति सिद्धान्तकौमुद्द्याम् । ' स्रंभु प्रमादे ( भ्वादिः 393) प्रमादोवलेपः ' इति तरङ्गिण्यां दृश्यते । पुरुषकारेणापि ( श्लो. 185 ) उद्धृतोयं पाठः । ' स्रन्हु इति कौशिकः ' इति स्वामी । विपूर्वः एव अयम् ।"
+    }
+  ]
+}

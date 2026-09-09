@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210931,
+    "chapter_id": 7781,
+    "verse_number": "९३२",
+    "content_sanskrit": "स्वन्",
+    "padaccheda": "स्वनँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अवतंसने",
+    "meaning_english": "to decorate, to beautify",
+    "audio_url": null,
+    "display_order": 932,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210931,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पठिष्यमाणस्य अयम् अनुवादः । अमित्त्वार्थकः अयं धातुः (827) इत्यत्र द्रष्टव्यः ।"
+    }
+  ]
+}

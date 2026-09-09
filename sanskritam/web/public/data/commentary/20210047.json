@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210047,
+    "chapter_id": 7781,
+    "verse_number": "४८",
+    "content_sanskrit": "मन्थ्",
+    "padaccheda": "मन्थँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विलोडने",
+    "meaning_english": "to churn, to shake, to stir, to strike,to agitate, to splash",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210047,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "विलोडनं प्रतिघातः' इति कौमुदी । विलोडनं क्षोभणम् इति मा.धा.वृत्तिः । अयं द्विकर्मकः । 'हिंसासंक्लेशयोर्मन्थेत् मथेन्मथ्नाति लोडने' (श्लो. 98) इति देवः ।"
+    }
+  ]
+}

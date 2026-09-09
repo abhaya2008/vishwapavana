@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214058,
+    "chapter_id": 7805,
+    "verse_number": "२६५",
+    "content_sanskrit": "शुद्धस्योच्चारणे स्वार्थः प्रसिद्धो यस्य गम्यते । स मुख्य इति विज्ञेयो रूपमात्रनिबन्धनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 265,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214058,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": " एतदेव संग्रहकारोक्तश्लोकप्रदर्शनेन संवादयितुमाह--\nएतन्मुक्यार्थशब्दलक्षणम् ॥"
+    }
+  ]
+}

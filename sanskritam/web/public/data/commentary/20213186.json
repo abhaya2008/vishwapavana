@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213186,
+    "chapter_id": 7795,
+    "verse_number": "२२६",
+    "content_sanskrit": "गतिकारकोपपदयोः पूर्वपदप्रकृतिस्वरत्वं च",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 226,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213186,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "असिः स्यात् । सुतपाः । जातवेदाः । [[6.2.139]] <<गतिकारकोपदात् कृत्>> इत्युत्तरपदप्रकृतिस्वरत्वे सति शेषस्यानुदात्तत्वे प्राप्ते तदपवादार्थमिदम् ।"
+    }
+  ]
+}

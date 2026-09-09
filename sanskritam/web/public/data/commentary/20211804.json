@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211804,
+    "chapter_id": 7790,
+    "verse_number": "५५",
+    "content_sanskrit": "स्निह्",
+    "padaccheda": "ष्णिहँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "स्नेहने",
+    "meaning_english": "to love, to be kind",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211804,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्फिट इत्येके ' कौमुदी ।"
+    }
+  ]
+}

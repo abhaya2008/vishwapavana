@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211254,
+    "chapter_id": 7783,
+    "verse_number": "१२",
+    "content_sanskrit": "निज्",
+    "padaccheda": "णिजिँर्",
+    "anvaya": "U-पदी, गणः 3",
+    "meaning_sanskrit": "शौचपोषणयोः",
+    "meaning_english": "to wash,to purify,to cleanse,to nourish, to support",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211254,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " निङ्क्ते नेनेक्ति नेनिक्ते शोचेर्थे पोषणे तथा ' (श्लो. 63) इति देवः ।"
+    }
+  ]
+}

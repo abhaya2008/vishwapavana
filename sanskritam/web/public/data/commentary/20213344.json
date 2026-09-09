@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213344,
+    "chapter_id": 7799,
+    "verse_number": "१०",
+    "content_sanskrit": "ईकारान्तश्च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213344,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ईप्रत्ययान्तः स्त्री स्यात् । लक्ष्मीः ।"
+    }
+  ]
+}

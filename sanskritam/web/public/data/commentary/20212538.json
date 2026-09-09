@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212538,
+    "chapter_id": 7792,
+    "verse_number": "१८",
+    "content_sanskrit": "फलिपाटिनमिमनिजनां गुक्पटिनाकिधतश्च",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212538,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "फलेर्गुक् । फल्गु । पाटेः पटिः । पाटयतीति पटुः । नम्यतेऽनेन नाकुर्वल्मीकम् । मन्यते इति मधु । जायते इति जतु ।"
+    }
+  ]
+}

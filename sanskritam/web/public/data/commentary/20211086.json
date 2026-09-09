@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211086,
+    "chapter_id": 7781,
+    "verse_number": "१०८७",
+    "content_sanskrit": "गृ",
+    "padaccheda": "गृ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेचने",
+    "meaning_english": "to irrigate, to moisten, to wet",
+    "audio_url": null,
+    "display_order": 1087,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211086,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ज्ञाने गारयते, गिरेन्निगरणे, शब्दे गृणाति, त्रयं, युक्तं ग्रो गरतीति सेकविषये ह्रस्वान्तधातोः शपि ' (श्लो. 33) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211946,
+    "chapter_id": 7790,
+    "verse_number": "१९७",
+    "content_sanskrit": "डिप्",
+    "padaccheda": "डिपँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "सङ्घाते",
+    "meaning_english": "to collect, to bring together, to pile up, to heap",
+    "audio_url": null,
+    "display_order": 197,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211946,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सङ्घाते डेपयेतीति, क्षेपे डिपति डिप्यति । डेपयेदिति चत्वारि णिचि शे श्यनि णौ डिपेः ' (श्लो. 134) इति देवः ।  \" डबि डिबि ' इति चान्द्र: । विडम्बयति । आडम्बरः । डिम्बयति । डिम्बम् - शस्त्रकलहः इति क्षीरस्वामी । प्रदर्शितप्रयोगानुसारेण डबिडिबिधात्वोः अपि पाठः समीचीनः इति प्रतिभाति \" इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214188,
+    "chapter_id": 7805,
+    "verse_number": "३९५",
+    "content_sanskrit": "येषां समस्तो वाक्यार्थः प्रतिभेदं समाप्यते । तेषां तदानीं भिन्नस्य किं पदार्थस्य सत्तया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 395,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214188,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "अत्राखण्डवाक्यवादी प्रौढवादितया पदवादिमतं निराकर्तुमाह--\nप्रत्येकमखण्डस्यैव वाक्यार्थस्य परिसमाप्तेः पदार्थानाममुपयोगात् पदार्थकल्पना वृथैव ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210291,
+    "chapter_id": 7781,
+    "verse_number": "२९२",
+    "content_sanskrit": "घट्ट्",
+    "padaccheda": "घट्टँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "चलने",
+    "meaning_english": "to walk",
+    "audio_url": null,
+    "display_order": 292,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210291,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' घट्टयेद्घट्टते द्वे स्तां चलने णौ शपि च क्रमात् ' (श्लो.73) - देवः ।"
+    }
+  ]
+}

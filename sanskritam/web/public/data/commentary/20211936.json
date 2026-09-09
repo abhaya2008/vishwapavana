@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211936,
+    "chapter_id": 7790,
+    "verse_number": "१८७",
+    "content_sanskrit": "रुष्",
+    "padaccheda": "रुषँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "रोषे",
+    "meaning_english": "to be angry",
+    "audio_url": null,
+    "display_order": 187,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211936,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रुट ' इति क्षीरस्वामी । ' शपि रोषति हिंसायाम्, रोषे रुष्यति रोषयेत् ' (श्लो. 179) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213585,
+    "chapter_id": 7802,
+    "verse_number": "१३",
+    "content_sanskrit": "यान्तस्यान्त्यात्पूर्वम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213585,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुलायः । तलयः । वलयः ॥"
+    }
+  ]
+}

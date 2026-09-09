@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212237,
+    "chapter_id": 7790,
+    "verse_number": "४८८",
+    "content_sanskrit": "वस",
+    "padaccheda": "वस",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "निवासे",
+    "meaning_english": "to live, to dwell, to stay",
+    "audio_url": null,
+    "display_order": 488,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212237,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वस्यति स्तम्भने, वस्ते छादने वसयेत् वसेत् । निवासे वासयेत्, स्नेहे वासयत्युपसेवने ' (श्लो. 187 - 188) इति देवः ।"
+    }
+  ]
+}

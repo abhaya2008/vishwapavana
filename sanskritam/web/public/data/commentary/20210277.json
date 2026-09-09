@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210277,
+    "chapter_id": 7781,
+    "verse_number": "२७८",
+    "content_sanskrit": "तुञ्ज्",
+    "padaccheda": "तुजिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पालने",
+    "meaning_english": "to follow, to obey",
+    "audio_url": null,
+    "display_order": 278,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210277,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चाभिहिते त्वर्थे पदं तुञ्जयेत् ' (श्लो.66) इति देवः ।"
+    }
+  ]
+}

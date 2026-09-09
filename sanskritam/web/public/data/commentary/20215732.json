@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215732,
+    "chapter_id": 7807,
+    "verse_number": "१२५",
+    "content_sanskrit": "तत्तर्हि वक्तव्यम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": "वर्णोपदेशाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215732,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "तदेव विवृणोति - <y>तत्तर्हीत्यादिना।</y> धात्वादिगतकलादिलिङ्गमित्यर्थः ॥"
+    }
+  ]
+}

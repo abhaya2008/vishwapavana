@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211980,
+    "chapter_id": 7790,
+    "verse_number": "२३१",
+    "content_sanskrit": "गृ",
+    "padaccheda": "गृ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "विज्ञाने",
+    "meaning_english": "to know, to understand",
+    "audio_url": null,
+    "display_order": 231,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211980,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ज्ञाने गारयते, गिरेन्निगरणे, शब्दे गृणाति त्रयं युक्तं, ग्रो गरतीति सेकविषये ह्रस्वान्तधातोः शपि ' (श्लो. 33) इति देवः ।"
+    }
+  ]
+}

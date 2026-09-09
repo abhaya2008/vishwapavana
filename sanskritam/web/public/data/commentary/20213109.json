@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213109,
+    "chapter_id": 7795,
+    "verse_number": "१४९",
+    "content_sanskrit": "वेञः सर्वत्र",
+    "padaccheda": "",
+    "anvaya": "इमनिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213109,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "छन्दसि भाषायां चेत्यर्थः । वेमा तन्तुवायदण्डः । अर्धर्चादिः । सामनी वेमनी इति वृत्तिः ।"
+    }
+  ]
+}

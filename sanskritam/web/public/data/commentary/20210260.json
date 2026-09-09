@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210260,
+    "chapter_id": 7781,
+    "verse_number": "२६१",
+    "content_sanskrit": "खर्ज्",
+    "padaccheda": "खर्जँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "व्यथने पूजने मार्जने च",
+    "meaning_english": "to cause pain, to irritate, to worship, to respect",
+    "audio_url": null,
+    "display_order": 261,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210260,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चकारात् व्यथने । ' खर्ज मार्जने ' इति क्षीरस्वामी मैत्रेयः च ।"
+    }
+  ]
+}

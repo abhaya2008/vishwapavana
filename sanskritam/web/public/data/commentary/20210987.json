@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210987,
+    "chapter_id": 7781,
+    "verse_number": "९८८",
+    "content_sanskrit": "सह्",
+    "padaccheda": "षहँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "मर्षणे",
+    "meaning_english": "to tolerate, to bear, to forgive",
+    "audio_url": null,
+    "display_order": 988,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210987,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मर्षणे सहते , यौ तु साहयेत् सहति द्वयम् ' इति देवः । अपराधे सत्यपि कोपस्य अनाविष्करणं मर्षणम् ।"
+    }
+  ]
+}

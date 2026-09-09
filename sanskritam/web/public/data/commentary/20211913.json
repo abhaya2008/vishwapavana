@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211913,
+    "chapter_id": 7790,
+    "verse_number": "१६४",
+    "content_sanskrit": "चुण्ट्",
+    "padaccheda": "चुटिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "छेदने",
+    "meaning_english": "to cut, to prick",
+    "audio_url": null,
+    "display_order": 164,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211913,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चुट ' इति क्षीरस्वामिसम्मतः पाठः ।"
+    }
+  ]
+}

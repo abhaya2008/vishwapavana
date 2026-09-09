@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210334,
+    "chapter_id": 7781,
+    "verse_number": "३३५",
+    "content_sanskrit": "लट्",
+    "padaccheda": "लटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "बाल्ये",
+    "meaning_english": "to kid, to be childish, to speak less",
+    "audio_url": null,
+    "display_order": 335,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210334,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "बाल्यम्= बाल्यक्रिया ।"
+    }
+  ]
+}

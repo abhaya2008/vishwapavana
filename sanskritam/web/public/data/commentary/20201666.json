@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201666,
+    "chapter_id": 7763,
+    "verse_number": "४.३.९४",
+    "content_sanskrit": "तूदीशलातुरवर्मतीकूचवाराड्ढक्छण्ढञ्यकः",
+    "padaccheda": "तूदी-शलातुर-वर्मती-कूचवारात् । ढक्-छण्-ढञ्-यकः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": "अनुवृत्तिः — सः (४.३.८९), अस्य (४.३.८९), अभिजनः (४.३.९०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201666,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तूद्यादिभ्यश्चतुर्भ्यः शब्देभ्यो यथासंख्यं चत्वार एव ढक् छण् ढञ् यक्  इत्येते प्रत्यया भवन्ति सोऽस्याभिजन इत्येतस्मिन् विषये। अणोऽपवादः। तौदेयः। शालातुरीयः। वार्मतेयः। कौचवार्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201666,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "तूदी अभिजनोऽस्य तौदेयः । शालातुरीयः । वार्मतेयः । कौचवार्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201666,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<तूदीशलातुरवर्मतीकूचवाराड्ढक्छण्ढञ्यकः>> - तुदीसलातुर । तुदी, सलातुर, वर्मती, कूचवार — एभ्यः प्रथमान्तेभ्यो ढक्, छण्, ढञ्, यक् एते स्युः अस्याभिजन इत्यर्थे ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201666,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "उक्तेऽर्थे क्रमात् स्युः । ढक्, तौदेयः । छण्, सालातुरीयः पाणिनिः । ढञ्, वार्मतेयः । यक्, कौचवार्यः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201666,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the words 1. तूदी 2. शलातुर 3. वर्मती and 4. कूचवार come respectively the affixes 1. ढक् 2. छण् 3. ढञ् and 4. यक् in the sense of 'this is his native land'.\nThis debars अण् ॥ Thus तौदेयः, शालातुरीयः, वार्मतेयः and कौचवार्यः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201666,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the words 1. तूदी 2. शलातुर 3. वर्मती and 4. कूचवार come respectively the affixes 1. ढक् 2. छण् 3. ढञ् and 4. यक् in the sense of 'this is his native land'."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211843,
+    "chapter_id": 7790,
+    "verse_number": "९४",
+    "content_sanskrit": "विल्",
+    "padaccheda": "विलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षेपे",
+    "meaning_english": "to throw, to  make something fly",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211843,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वेलेत्तु चलने वेलेः वरणे विलतीति शे ' (श्लो. 157) इति देवः ।"
+    }
+  ]
+}

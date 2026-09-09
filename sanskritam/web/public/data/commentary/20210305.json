@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210305,
+    "chapter_id": 7781,
+    "verse_number": "३०६",
+    "content_sanskrit": "भण्ड्",
+    "padaccheda": "भडिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "परिभाषणे",
+    "meaning_english": "to speak, to tease, to mock",
+    "audio_url": null,
+    "display_order": 306,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210305,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' परितो भाषणम् = परिभाषणम् ' इति स्वाम्यादयः । ' यः सनिन्दोपालम्भस्तत्र स्यात् परिभाषणम् ( अमर.) इति निघण्टुः ' इति मा.धा.वृत्तिः । ' परिहासः सनिन्दोपालम्भनं च परिभाषणम् ' इति कौमुदी ।"
+    }
+  ]
+}

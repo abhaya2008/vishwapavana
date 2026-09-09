@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212539,
+    "chapter_id": 7792,
+    "verse_number": "१९",
+    "content_sanskrit": "वलेर्गुक्च",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212539,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वल संवरणे ।"
+    }
+  ]
+}

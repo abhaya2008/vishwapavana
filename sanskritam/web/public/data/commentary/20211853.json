@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211853,
+    "chapter_id": 7790,
+    "verse_number": "१०४",
+    "content_sanskrit": "मुट्",
+    "padaccheda": "मुटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सञ्चूर्णने",
+    "meaning_english": "to crush,to grind,to powder",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211853,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सञ्चूर्णने चुरादेर्णौ मोटयेदतङस्त्रयः ' (श्लो. 72) इति देवः ।"
+    }
+  ]
+}

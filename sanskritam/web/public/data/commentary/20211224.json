@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211224,
+    "chapter_id": 7782,
+    "verse_number": "५९",
+    "content_sanskrit": "विद्",
+    "padaccheda": "विदँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "ज्ञाने",
+    "meaning_english": "to understand, to learn, to know, to realize, to experience, to be sad, to meditate, to think",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211224,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सत्तायां विद्यते, ज्ञाने वेत्ति, विन्ते विचारणे ' (श्लो. 111) इति देवः । ' मतौ ' इति वोपदेवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211382,
+    "chapter_id": 7784,
+    "verse_number": "११४",
+    "content_sanskrit": "व्युष्",
+    "padaccheda": "व्युषँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "विभागे",
+    "meaning_english": "to split, to divide, to separate, to partition, to burn, to fry",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211382,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " व्युस ' इति केचित् । अयकारो ' वुस ' इत्यन्ये । अयं दाहार्थे पठितः, अर्थभेदे त्वङर्थं दिवादौ पुनः पठ्यते ।"
+    }
+  ]
+}

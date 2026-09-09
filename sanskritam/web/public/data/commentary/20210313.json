@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210313,
+    "chapter_id": 7781,
+    "verse_number": "३१४",
+    "content_sanskrit": "तण्ड्",
+    "padaccheda": "तडिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "ताडने",
+    "meaning_english": "to strike, to hit",
+    "audio_url": null,
+    "display_order": 314,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210313,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "ताडनम् = निरसनम् ।"
+    }
+  ]
+}

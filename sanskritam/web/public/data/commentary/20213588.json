@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213588,
+    "chapter_id": 7802,
+    "verse_number": "१६",
+    "content_sanskrit": "साङ्काश्यकाम्पिल्यनासिक्यदार्वाघाटानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213588,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "द्वितीयमुदात्तं वा ॥"
+    }
+  ]
+}

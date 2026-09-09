@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210895,
+    "chapter_id": 7781,
+    "verse_number": "८९६",
+    "content_sanskrit": "ह्रग्",
+    "padaccheda": "ह्रगेँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "संवरणे",
+    "meaning_english": "to wrap, to cover, to conceal",
+    "audio_url": null,
+    "display_order": 896,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210895,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "संवरणम् = तिरोधानम् इति धा.का. व्याख्या (2.8) ।"
+    }
+  ]
+}

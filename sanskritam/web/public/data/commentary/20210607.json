@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210607,
+    "chapter_id": 7781,
+    "verse_number": "६०८",
+    "content_sanskrit": "फल्",
+    "padaccheda": "फलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "निष्पत्तौ",
+    "meaning_english": "to succeed, to complete, to conclude, to get good results",
+    "audio_url": null,
+    "display_order": 608,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210607,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " फलेर्विशरणे फुल्लं फलितम् फलति त्रयम् । आदितोनादिस्त्वन्त्ये रूपे निष्पत्तिवाचिनः ' (श्लो. 158-159) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212911,
+    "chapter_id": 7794,
+    "verse_number": "१११",
+    "content_sanskrit": "पृषिरञ्जिभ्यां कित्",
+    "padaccheda": "",
+    "anvaya": "अतच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212911,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पृषतो मृगो बिन्दुश्च । रजतम् ।"
+    }
+  ]
+}

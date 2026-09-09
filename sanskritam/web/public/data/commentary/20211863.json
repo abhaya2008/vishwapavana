@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211863,
+    "chapter_id": 7790,
+    "verse_number": "११४",
+    "content_sanskrit": "छञ्ज्",
+    "padaccheda": "छजिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "कृच्छ्रजीवने",
+    "meaning_english": "to live miserably, to live hard life",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211863,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्षजि ' इति धातुकाव्ये (3-24) पाठः । बालमनोरमायाम् अपि तथैव ।"
+    }
+  ]
+}

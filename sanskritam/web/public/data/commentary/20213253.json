@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213253,
+    "chapter_id": 7796,
+    "verse_number": "५५",
+    "content_sanskrit": "लीरीङोर्ह्रस्वः पुट् च तरौ श्लेषणकुत्सनयोः",
+    "padaccheda": "",
+    "anvaya": "त, र",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213253,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तरौ प्रत्ययौ क्रमात् स्तो धातोर्ह्रस्वः प्रत्ययस्य पुट् । लिप्तं श्लिष्टम् । रिप्रं कुत्सितम् ।"
+    }
+  ]
+}

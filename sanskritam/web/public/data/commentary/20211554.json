@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211554,
+    "chapter_id": 7786,
+    "verse_number": "८५",
+    "content_sanskrit": "विल्",
+    "padaccheda": "विलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "संवरणे",
+    "meaning_english": "to cover,to conceal,to cut, to make a hole",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211554,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्त्योष्ठ्यादि: । ' वेलति चलने वेलेर्वरणे विलतीति शे ' (श्लो. 157) इति देवः ।"
+    }
+  ]
+}

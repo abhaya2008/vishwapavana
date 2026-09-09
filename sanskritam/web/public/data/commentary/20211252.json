@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211252,
+    "chapter_id": 7783,
+    "verse_number": "१०",
+    "content_sanskrit": "दा",
+    "padaccheda": "डुदाञ्",
+    "anvaya": "U-पदी, गणः 3",
+    "meaning_sanskrit": "दाने",
+    "meaning_english": "to give, to provide, to donate, to handover",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211252,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — लेना, देना, अंगीकार करना\nवि + आ — उघारना, खोलना\nसम् + आ — प्रसन्न करके लेना\nपरि — देना, सौंपना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211252,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दाञो दत्ते ददातीति, दाणो यच्छति, दो द्यति । दाति दायति दाप्दैपोः, दयते रक्षणे ङितः ' (श्लो.4) इति देवः ।"
+    }
+  ]
+}

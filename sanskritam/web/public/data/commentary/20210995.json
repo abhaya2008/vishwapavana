@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210995,
+    "chapter_id": 7781,
+    "verse_number": "९९६",
+    "content_sanskrit": "कस्",
+    "padaccheda": "कसँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 996,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210995,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतिशासनयोः कस्ते कसतीति गतौ शपि ' ( श्लो. 192) - देवः ।"
+    }
+  ]
+}

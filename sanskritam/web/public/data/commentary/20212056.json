@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212056,
+    "chapter_id": 7790,
+    "verse_number": "३०७",
+    "content_sanskrit": "लोक्",
+    "padaccheda": "लोकृँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 307,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212056,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दर्शने लोकते लोकेभाषार्थे णौ तु लोकयेत्' (श्लो.40) - देवः ।"
+    }
+  ]
+}

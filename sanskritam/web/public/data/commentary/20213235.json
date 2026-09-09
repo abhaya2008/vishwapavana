@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213235,
+    "chapter_id": 7796,
+    "verse_number": "३७",
+    "content_sanskrit": "पचिमच्योरिच्चोपधायाः",
+    "padaccheda": "",
+    "anvaya": "वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213235,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पेचकः । मेचकः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210217,
+    "chapter_id": 7781,
+    "verse_number": "२१८",
+    "content_sanskrit": "तञ्च्",
+    "padaccheda": "तन्चुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 218,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210217,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आङुपसृष्टस्य अस्या अर्थो भिद्यते । यथा - आतञ्चनम् = पयसि रसविशेषोत्पादनाय घनीभावाय च तक्रस्य किञ्चिन्मिश्रणम् ।"
+    }
+  ]
+}

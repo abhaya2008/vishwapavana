@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210488,
+    "chapter_id": 7781,
+    "verse_number": "४८९",
+    "content_sanskrit": "शर्ब्",
+    "padaccheda": "शर्बँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 489,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210488,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " एकः शर्बस्तालव्यादिः, अपरः षोपदेशः, अन्यो दन्त्यादिः ' इति क्षीरतरङ्गिण्याम् । ' गतौ हिंसायां च ' इति कातन्त्रः । ' नोपधः इति कौशिकः ' इति माधवः । 'शवः'  इति काशकृत्स्नः ।"
+    }
+  ]
+}

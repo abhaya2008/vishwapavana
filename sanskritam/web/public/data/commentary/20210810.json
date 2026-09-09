@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210810,
+    "chapter_id": 7781,
+    "verse_number": "८११",
+    "content_sanskrit": "लस्",
+    "padaccheda": "लसँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "श्लेषणक्रीडनयोः",
+    "meaning_english": "to embrace,to hug, to linger, to enjoy, to come to light, to play",
+    "audio_url": null,
+    "display_order": 811,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210810,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — चमकना, आनन्दित होना\nवि — विलास करना, रमण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210810,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अयं शोभायां प्रसिद्धः ' इति धातुकाव्यव्याख्यायाम् । (1.89) ' लासयेत् शिल्पयोगेर्थे , श्लेषणे क्रीडने लसेत् ' (श्लो. 190) इति देवः ।"
+    }
+  ]
+}

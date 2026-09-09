@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210391,
+    "chapter_id": 7781,
+    "verse_number": "३९२",
+    "content_sanskrit": "उठ्",
+    "padaccheda": "उठँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उपघाते",
+    "meaning_english": "to hit, to push down, to throw down, to knock down",
+    "audio_url": null,
+    "display_order": 392,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210391,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ऊठ इत्येके, ऊठति ' इति कौमुदी ।"
+    }
+  ]
+}

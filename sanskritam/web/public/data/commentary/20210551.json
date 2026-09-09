@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210551,
+    "chapter_id": 7781,
+    "verse_number": "५५२",
+    "content_sanskrit": "नय्",
+    "padaccheda": "णयँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ रक्षणे च",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 552,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210551,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रक्षणे च ' इति मैत्रेयः । क्षीरस्वामी तु ' नय ' इति पपाठ । सः पाठः चिन्त्यः । सर्वत्र णोपदेशेनैव उपलम्भात् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212635,
+    "chapter_id": 7792,
+    "verse_number": "११५",
+    "content_sanskrit": "तमिविशिबिडिमृणिकुलिकपिपलिपञ्चिभ्यः कालन्",
+    "padaccheda": "",
+    "anvaya": "कालन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212635,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तमालः । विशालः । बिडालः । मृणालम् । कुलालः । कपालम् । पलालम् । पञ्चालाः ।"
+    }
+  ]
+}

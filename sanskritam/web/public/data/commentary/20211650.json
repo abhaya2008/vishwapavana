@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211650,
+    "chapter_id": 7787,
+    "verse_number": "७",
+    "content_sanskrit": "युज्",
+    "padaccheda": "युजिँर्",
+    "anvaya": "U-पदी, गणः 7",
+    "meaning_sanskrit": "योगे",
+    "meaning_english": "to bind,to restrain,to join,to unite,to apply, to combine",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211650,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — पूछना, प्रश्न करना\nअभि — बोलना, दोष लगाना\nउप — उपकार करना, उपयोग करना\nनि — आज्ञा करना, हुक्म देना\nप्र — योग्य होना, दिखाना\nवि — अलग करना, पृथक करना\nवि + नि — व्यय करना, नियमित करना, गूंथना, एकत्र करना\nवि + प्र — अलग अलग करना\nसम् — युक्त करना, मिलाप करना\nसम् + आ — बहुत विचार करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211650,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' युनक्ति युङ्क्ते योगार्थे समाधौ युज्यते श्यनि ' (श्लो. 64) इति देवः ।"
+    }
+  ]
+}

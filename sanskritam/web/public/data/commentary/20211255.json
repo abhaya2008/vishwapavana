@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211255,
+    "chapter_id": 7783,
+    "verse_number": "१३",
+    "content_sanskrit": "विज्",
+    "padaccheda": "विजिँर्",
+    "anvaya": "U-पदी, गणः 3",
+    "meaning_sanskrit": "पृथग्भावे",
+    "meaning_english": "to split, to separate,to divide,to distinguish,to discern",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211255,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वेवेक्तीति पृथग्भावे विविक्ते च भये पुनः ' (श्लो. 61) इति देवः ।  ' विचिर् इति सभ्याः ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

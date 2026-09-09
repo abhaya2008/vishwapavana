@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211555,
+    "chapter_id": 7786,
+    "verse_number": "८६",
+    "content_sanskrit": "बिल्",
+    "padaccheda": "बिलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "भेदने",
+    "meaning_english": "to break,to split,to divide",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211555,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ओष्ठयादिः ।"
+    }
+  ]
+}

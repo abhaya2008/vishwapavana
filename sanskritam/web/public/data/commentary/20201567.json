@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201567,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१४०",
+    "content_sanskrit": "राज्ञः क च",
+    "padaccheda": "राज्ञः । क । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 140,
+    "avatarnika": "अनुवृत्तिः — छः (४.२.१३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201567,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "असंभवाद् देशाधिकारो न विशेषणम्। राज्ञःककारश्चान्तादेशो भवति छश्च प्रत्ययः। राजकीयम्। आदेशमात्रमिह विधेयम्, प्रत्ययस्तु <<वृद्धाच्छः>>[[४.२.११४]] इत्येव सिद्धः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201567,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वृद्धत्वाच्छे सिद्धे तत्सन्नियोगेन कादेशमात्रं विधीयते । राजकीयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201567,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<राज्ञः क च>> - राज्ञः क च । राजन्शब्दाच्छः स्यात्, ककारश्चान्तादेशः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201567,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "राज्ञश्छो नस्य कत्वं च । राजकीयम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201567,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The letter क is the substitute of the final of the word राजन् , when छ is added.\nThis <i>sutra</i> only teaches substitution: for राजन् would have taken छ by [[4.2.114]]. Thus राजकीयम् ॥ The word देशे does not govern this <i>sutra</i>, not being appropriate."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201567,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The letter क is the substitute of the final of the word राजन् , when छ is added."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202680,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१८",
+    "content_sanskrit": "पत्यावैश्वर्ये",
+    "padaccheda": "पत्यौ । ऐश्वर्ये",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), तत्पुरुषे (६.२.२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202680,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पतिशब्द उत्तरपद ऐश्वर्यवाचिनि तत्पुरुषे पूर्वपदं प्रकृतिस्वरं भवति। गृ॒हप॑तिः। सेना॑पतिः। नर॑पतिः। धा॒न्य॑पतिः। <<गेहे कः>> [[३.१.१४४]] इति प्रत्ययस्वरेणान्तोदात्तो गृहशब्दः। सह इनेन वर्तत इति <<बहुव्रीहौ प्रकृत्या पूर्वपदम्>> [[६.२.१]] इति सेनाशब्द आद्युदात्तः। <<नृ नये>>  एतस्माद् <<ॠ दोरप्>>  [[३.३.५७]] इत्यप्प्रत्ययान्त आद्युदात्तो नरशब्दः। धान्यमन्तस्वरितम् (फिट् सू० ७६)। ऐश्वर्य इति किम्? ब्राह्मणो वृ॒ष॒ली॒प॒तिः। वृषल्या भर्तेत्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202680,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "दमूना गृहपतिर्दमे (दमू॑ना गृ॒हप॑ति॒र्दमे॑) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202680,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`धान्यमन्तःस्वरितम्` इति। ण्यदन्तत्वात्? तित्सवरेण। `वृषल्या भर्तेत्यर्थः` इति। वृषल्याः कामयितेति यावत्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202680,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "धान्यमन्तः स्वरितमिति । आनन्तरपठितेन फिट्सूत्रेण॥ गवादीनां तु पूर्वमेव स्वरकथनम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202680,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ऐश्वर्यार्थे पत्यौ परे प्राक्पदं* प्रकृत्या स्यात् । गोपतिः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202680,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The first member of a तत्-पुरुष समास preserves its original accent when it ends in पति and means 'master' or 'lord'.\nThus गृह꣡पतिः, से꣡नापतिः, न꣡रपतिः, धान्य॑पतिः ॥ The word गृह is formed by क [[3.1.144]] and has acute on the final [[3.1.3]]. The word सेना is a <i>Bahuvrihi</i> (सह इनेन वर्तते = से꣡ना), and by (VI.2. I) the first member retains its accent. The word नर is derived from नॄ 'to lead' by the affix अप् [[3.3.57]] and has acute on the first [[3.1.4]], the word धान्य॑ has <i>svarita</i> on the final (See <i>Phit</i> II.23?) Why do we say when meaning 'lord'? Observe ब्राह्मणो वृषलीपतिः꣡ \"a <i>Brahmana</i>, husband of a <i>Sudra</i>\"."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202680,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The first member of a तत्-पुरुष समास preserves its original accent when it ends in पति and means 'master' or 'lord'."
+    }
+  ]
+}

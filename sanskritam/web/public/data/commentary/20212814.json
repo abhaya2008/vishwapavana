@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212814,
+    "chapter_id": 7794,
+    "verse_number": "१४",
+    "content_sanskrit": "रमेस्त च",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212814,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रमयतीति रत्नम् ।"
+    }
+  ]
+}

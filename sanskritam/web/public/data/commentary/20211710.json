@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211710,
+    "chapter_id": 7789,
+    "verse_number": "३२",
+    "content_sanskrit": "ॠ",
+    "padaccheda": "ॠ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211710,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तत्रेयर्त्यृच्छीत्यर्तेः श्नि गतौ स्यादृणाति तु ' (श्लो. 30) इति देवः ।"
+    }
+  ]
+}

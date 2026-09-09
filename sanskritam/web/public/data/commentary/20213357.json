@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213357,
+    "chapter_id": 7799,
+    "verse_number": "२३",
+    "content_sanskrit": "प्रावृट्विप्रट्रुट्विट्त्विषः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213357,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते स्त्रियां स्युः ।"
+    }
+  ]
+}

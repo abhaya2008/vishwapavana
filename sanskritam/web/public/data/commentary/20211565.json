@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211565,
+    "chapter_id": 7786,
+    "verse_number": "९६",
+    "content_sanskrit": "गुज्",
+    "padaccheda": "गुजँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to hum, to buzz,to sound inarticulately,to sound",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211565,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गुञ्जेदव्यक्तशब्दे स्यात् शब्दमात्रे गुजेदिति ' (श्लो. 67) इति देवः ।"
+    }
+  ]
+}

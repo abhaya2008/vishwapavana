@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210642,
+    "chapter_id": 7781,
+    "verse_number": "६४३",
+    "content_sanskrit": "जीव्",
+    "padaccheda": "जीवँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्राणधारणे",
+    "meaning_english": "to live,to revive,to live upon, to survive",
+    "audio_url": null,
+    "display_order": 643,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210642,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "धात्वर्थसङ्गृहीतकर्मत्वेन अस्य धातोः अकर्मकत्वम् ।"
+    }
+  ]
+}

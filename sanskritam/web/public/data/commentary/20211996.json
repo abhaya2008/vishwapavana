@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211996,
+    "chapter_id": 7790,
+    "verse_number": "२४७",
+    "content_sanskrit": "स्फुट्",
+    "padaccheda": "स्फुटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भेदने",
+    "meaning_english": "to cut, to split, to crack, to open, to trouble",
+    "audio_url": null,
+    "display_order": 247,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211996,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्फोतयेत्स्फोटतीति द्वे भेदे विशरणे क्रमात् ' (श्लो. 71) - देवः ।"
+    }
+  ]
+}

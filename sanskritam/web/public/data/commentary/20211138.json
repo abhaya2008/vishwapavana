@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211138,
+    "chapter_id": 7781,
+    "verse_number": "११३९",
+    "content_sanskrit": "यम्",
+    "padaccheda": "यमँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उपरमे",
+    "meaning_english": "to stop, to resist, to hinder",
+    "audio_url": null,
+    "display_order": 1139,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211138,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — नियम में बांधना\nवि + आ — कष्ट करना, व्यवहार करना, मेहनत करना\nसम् — एकत्र करना, मेल करना\nउप — विवाह करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211138,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " यमेरुपरमे यच्छेद् यमयेत् परिवेषणे ' (श्लो. 148) इति देवः ।"
+    }
+  ]
+}

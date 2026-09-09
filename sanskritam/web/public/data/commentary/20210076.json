@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210076,
+    "chapter_id": 7781,
+    "verse_number": "७७",
+    "content_sanskrit": "शुन्ध्",
+    "padaccheda": "शुन्धँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शुद्धौ",
+    "meaning_english": "to purify, to cleanse",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210076,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "शुन्धयेत् शुन्धते शुन्धेद्यौ वा णौ शौचकर्मणि । शुद्धौ शुन्धति भूवादेः .... ।' (श्लो.117) इति देवः । 'शुन्धन्ते..' (काण्वब्रा. 1.2.3.7) इति आत्मनेपदे अपि दृश्यते ।"
+    }
+  ]
+}

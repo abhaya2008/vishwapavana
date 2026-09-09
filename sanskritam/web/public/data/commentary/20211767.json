@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211767,
+    "chapter_id": 7790,
+    "verse_number": "१८",
+    "content_sanskrit": "नट्",
+    "padaccheda": "नटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अवस्पन्दने",
+    "meaning_english": "to enact, to dance, to act, to show",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211767,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं धातुः न णोपदेशः । ' णोपदेशास्तु अनर्दनाट् ....' इति पर्युदासात् । अतः ' उपसर्गात् समासेपि ...' (8.4.14) इति सोपसर्गे णत्वं न । अवस्पन्दनं नाट्यम् । ' अवस्यन्दने ' इत्येके ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213361,
+    "chapter_id": 7799,
+    "verse_number": "२७",
+    "content_sanskrit": "प्रतिपदापद्विपत्सम्पच्छरत्संसत्परिषदुषः संवित्क्षुत्पुन्मुत्समिधः । ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213361,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं प्रतिपदित्यादि । उषा उच्छन्ती । उषाः प्रातरधिष्ठात्री देवता ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210199,
+    "chapter_id": 7781,
+    "verse_number": "२००",
+    "content_sanskrit": "ऋज्",
+    "padaccheda": "ऋजँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतिस्थानार्जनोपार्जनेषु",
+    "meaning_english": "to go, to stand, to stand still, to gain, to live, to be healthy, to earn, to obtain, to acquire",
+    "audio_url": null,
+    "display_order": 200,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210199,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं पाठः मैत्रेयस्य । ' ऊर्जनेषु ' इति क्षीरस्वाम्यादिनां पाठः । ऊर्जनम् = शक्तिप्राप्तिः प्राणनं वेति धातुकाव्ये । ' ऋञ्जते भर्जने, गत्याद्यर्थे स्यादर्जने त्वृजेः ' (श्लो.62) इति देवः ।"
+    }
+  ]
+}

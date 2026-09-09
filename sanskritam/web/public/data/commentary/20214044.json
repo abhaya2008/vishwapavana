@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214044,
+    "chapter_id": 7805,
+    "verse_number": "२५१",
+    "content_sanskrit": "यौगपद्यं अतिक्रम्य पर्याये व्यवतिष्ठते । अर्थप्रकरणाभ्यां वा योगाच्छब्दान्तरेण वा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 251,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214044,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "ततश्च किमित्य आह--\nनिमित्तवशाद् युगपत् सर्वार्थप्रकाशनं न करोतीत्यर्थः । निमित्तभेदमाह--अर्थप्रकरणाभ्यामिति ॥"
+    }
+  ]
+}

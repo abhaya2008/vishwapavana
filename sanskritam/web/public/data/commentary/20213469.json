@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213469,
+    "chapter_id": 7799,
+    "verse_number": "१३५",
+    "content_sanskrit": "अर्चिः स्त्रियां च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 135,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213469,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इसन्तत्वेऽपि अर्चिः । स्त्रियां नपुंसके च स्यात् । इयमिदं वा अर्चिः । "
+    }
+  ]
+}

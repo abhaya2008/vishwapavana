@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211898,
+    "chapter_id": 7790,
+    "verse_number": "१४९",
+    "content_sanskrit": "गज्",
+    "padaccheda": "गजँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शब्दार्थे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211898,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गर्जेत् गृञ्जेत् गजेत् गञ्जेच्छब्दने गाजयेण्णिचि ' (श्लो. 59) - देवः ।"
+    }
+  ]
+}

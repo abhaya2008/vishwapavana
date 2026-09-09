@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211759,
+    "chapter_id": 7790,
+    "verse_number": "१०",
+    "content_sanskrit": "लड्",
+    "padaccheda": "लडँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "उपसेवायाम्",
+    "meaning_english": "to serve, to obey, to desire, to wish",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211759,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "लाडनं स्नेहपूर्विका सोवोपसेवा । लडयोरभेदात् ' लालयति ' । ' लाडयत्युपसेवायां विलासे तु लडेच्छपि ' (श्लो. 87) इति देवः ।"
+    }
+  ]
+}

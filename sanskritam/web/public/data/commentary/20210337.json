@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210337,
+    "chapter_id": 7781,
+    "verse_number": "३३८",
+    "content_sanskrit": "किट्",
+    "padaccheda": "किटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "त्रासे",
+    "meaning_english": "to frighten,to irritate, to cause pain",
+    "audio_url": null,
+    "display_order": 338,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210337,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "त्रासः = भयोत्पादनम् ।"
+    }
+  ]
+}

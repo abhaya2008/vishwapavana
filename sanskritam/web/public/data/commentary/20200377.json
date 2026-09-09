@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200377,
+    "chapter_id": 7753,
+    "verse_number": "२.१.२७",
+    "content_sanskrit": "सामि",
+    "padaccheda": "सामि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": "अनुवृत्तिः — द्वितीया (२.१.२४), क्तेन (२.१.२५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200377,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सामीत्येतदव्ययमर्द्धशब्दपर्यायः, तस्यासत्त्ववाचित्वाद् द्वितीयया नास्ति संबन्धः। तत् सुबन्तं क्तान्तेन सह समस्यते, तत्पुरुषश्च समासो भवति। सा॒मिकृत॑म्। सा॒मिपी॑तम्। सा॒मिभु॑क्तम्। ऐकपद्यमैकस्वर्यं च समासत्वाद् भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200377,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सामिकृतम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200377,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<सामि>> - सामि ।सामी॑त्यव्ययमर्धे वर्तते । तत्-क्तान्तप्रकृतिकसुबन्तेन समस्यत इत्यर्थः । सामिकृतमिति । समासाऽभावे तु तद्धितवृत्तौसामिकार्ति॑रिति स्यादिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200377,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<सामि>> - सामि । सामीत्येतदव्ययमर्धशब्दपर्यायः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200377,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`असत्त्ववाचित्वात्` इति। द्रव्याधारा हि कर्मशक्तिः। अतो द्रव्यवाचिन एव द्वितीयया सम्बन्धो भवति, नासत्त्ववाचिनः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200377,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "तस्यासत्ववाचित्वादिति। द्रव्याधारा हि कर्मशक्तिः; अतो द्रव्यवाचिन एव द्विताया भवति, नाद्रव्यवाचिन इत्यर्थः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200377,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अधार्थः सामिशब्दः क्तेन समस्यते । सामिभुक्तम् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200377,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The indeclinable word सामि 'half' is compounded with a word ending in the affix क्त and the resulting compound is तत्-पुरुष ।\nThe word सामि being an <i>avyaya</i>, and not denoting any substance, cannot take the affixes of the second or any case. Therefore the <i>anuvritti</i> of the word द्वितीया would be inapposite in this aphorism.\n\nAs सामिकृतम् 'half-done.' सामिपीतम् 'half-drunk' सामिभुक्तम् 'half-eaten.'\n\nThe object attained by this <i>samása</i> is the same as in [[2.1.25]], namely, making them one word and taking one accent."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200377,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The indeclinable word सामि 'half' is compounded with a word ending in the affix क्त and the resulting compound is तत्-पुरुष ।"
+    }
+  ]
+}

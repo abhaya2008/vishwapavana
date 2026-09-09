@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216285,
+    "chapter_id": 7825,
+    "verse_number": "९५",
+    "content_sanskrit": "आगमशास्त्रमनित्यम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": "तथा 'निलोड्' इत्येव सिद्धे आनिग्रहणात्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216285,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तेन 'सागरं तर्त्तुकामस्य' इत्यादि सिद्धम् ॥"
+    }
+  ]
+}

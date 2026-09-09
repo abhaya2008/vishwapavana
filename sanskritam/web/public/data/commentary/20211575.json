@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211575,
+    "chapter_id": 7786,
+    "verse_number": "१०६",
+    "content_sanskrit": "जुड्",
+    "padaccheda": "जुडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "बन्धने",
+    "meaning_english": "to join, to tie",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211575,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " जुट ' इति केचित् पठन्ति । ' प्रेरणे जोडयेच्छे तु बन्धने जुडतीति च ' (श्लो. 89) इति देवः ।"
+    }
+  ]
+}

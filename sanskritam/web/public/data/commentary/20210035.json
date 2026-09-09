@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210035,
+    "chapter_id": 7781,
+    "verse_number": "३६",
+    "content_sanskrit": "ग्रन्थ्",
+    "padaccheda": "ग्रथिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कौटिल्ये",
+    "meaning_english": "to be crooked, to be wicked",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210035,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कौटिल्यं शाठ्यं वक्रता वा इति मा.धा.वृत्तिः । कौटिल्यं कुसृतिर्बन्धः च इति क्षीरस्वामी । 'ग्रथ्नातीति तु सन्दर्भे ग्रन्थयेत् ग्रन्थतीति यौ । कौटिल्ये ग्रन्थते ग्रन्थेः ग्राथयेत् ग्रथति ग्रथेः' इति (श्लो. 179) देवः ।"
+    }
+  ]
+}

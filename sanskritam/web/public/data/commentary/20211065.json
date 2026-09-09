@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211065,
+    "chapter_id": 7781,
+    "verse_number": "१०६६",
+    "content_sanskrit": "शै",
+    "padaccheda": "शै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पाके",
+    "meaning_english": "to cook",
+    "audio_url": null,
+    "display_order": 1066,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211065,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पाकः - विक्लित्तिः । धातुममुं क्षीरस्वामि- मैत्रेय - लीलाशुक - शाकटायन - काशकृत्स्न - कातन्त्र - हेमचन्द्रादयः न पठन्ति । अत्र ' स्रै ' इति क्षीरतरङ्गिण्यां दृश्यते  ।"
+    }
+  ]
+}

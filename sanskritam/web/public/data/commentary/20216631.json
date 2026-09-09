@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216631,
+    "chapter_id": 7843,
+    "verse_number": "६",
+    "content_sanskrit": "परमपरञ्चेति द्विविधं सामान्यम् ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": "सामान्यम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216631,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "परमपरं चेति । परसामान्यमपरसामान्यमित्यर्थः । परत्त्वं च अधिकदेशवृत्तित्वम् । अपरत्वं न्यूनदेशवृत्तित्वम् ।"
+    }
+  ]
+}

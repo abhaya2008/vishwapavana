@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211266,
+    "chapter_id": 7783,
+    "verse_number": "२४",
+    "content_sanskrit": "धन्",
+    "padaccheda": "धनँ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "धान्ये",
+    "meaning_english": "to bear fruit,to produce crops",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211266,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " छान्दसः । ' धान्ये = धान्यार्जने इत्यर्थः ' इति सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

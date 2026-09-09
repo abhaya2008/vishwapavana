@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216198,
+    "chapter_id": 7825,
+    "verse_number": "८",
+    "content_sanskrit": "नानुबन्धकृतमसारूप्यम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": "नन्वेवमपि <<वाऽसरूपः>> [[3.1.94]] इति सूत्रेण क-विषयेऽणोप्यापत्तिरित्यत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216198,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ददातिदधात्योर्विभाषा' [[3.1.139]] इति ण-बाधकशस्य विकल्पविधायकमस्यां ज्ञापकम् । तेन गोद इत्यादौ नाणिति वाऽसरूपसूत्रे भाष्ये स्पष्टम् ॥"
+    }
+  ]
+}

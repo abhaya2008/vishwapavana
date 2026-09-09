@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212216,
+    "chapter_id": 7790,
+    "verse_number": "४६७",
+    "content_sanskrit": "सङ्ग्राम",
+    "padaccheda": "सन्ग्राम",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "युद्धे",
+    "meaning_english": "to have war, to fight",
+    "audio_url": null,
+    "display_order": 467,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212216,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

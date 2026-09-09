@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212218,
+    "chapter_id": 7790,
+    "verse_number": "४६९",
+    "content_sanskrit": "छिद्र",
+    "padaccheda": "छिद्र",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "कर्णभेदने",
+    "meaning_english": "to pierce ears",
+    "audio_url": null,
+    "display_order": 469,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212218,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' करणभेदने ' इत्यन्ये । ' कर्ण ' इति धात्वन्तरम् इति अन्ये ।"
+    }
+  ]
+}

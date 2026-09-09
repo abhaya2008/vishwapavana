@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212507,
+    "chapter_id": 7791,
+    "verse_number": "२४९",
+    "content_sanskrit": "कण । रण । भण । श्रण । लुप । हेठ । व्हायि । वाणि । चाणि । लोटि । लोठि । लोपि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 249,
+    "avatarnika": "कणादिः (7.4.3)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212507,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "काणादीनां चेति वक्तव्यम्"
+    }
+  ]
+}

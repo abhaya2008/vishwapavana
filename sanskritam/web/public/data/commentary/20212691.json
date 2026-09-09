@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212691,
+    "chapter_id": 7793,
+    "verse_number": "१४",
+    "content_sanskrit": "चकिरम्योरुच्चोपधायाः",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212691,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चुक्रमम्लद्रव्यम् । रुम्रोऽरुणः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213573,
+    "chapter_id": 7802,
+    "verse_number": "१",
+    "content_sanskrit": "अथ द्वितीयं प्रागीषात्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213573,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "<<ईषान्तस्य हयादे—>> इत्यतः प्राग्द्वितीयाधिकार ॥"
+    }
+  ]
+}

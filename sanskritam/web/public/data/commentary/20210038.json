@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210038,
+    "chapter_id": 7781,
+    "verse_number": "३९",
+    "content_sanskrit": "चित्",
+    "padaccheda": "चितीँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "संज्ञाने",
+    "meaning_english": "to perceive,to think,to recover consciousness,to observe, to see,to regain consciousness",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210038,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "( संज्ञानम्= चैतन्यम्)'... चिन्तयेत् । स्मृत्यां, चेतति संज्ञाने तत्र चेतयते णिचि' (श्लॊ. 94) इति देवः ।"
+    }
+  ]
+}

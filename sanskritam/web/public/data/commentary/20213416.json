@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213416,
+    "chapter_id": 7799,
+    "verse_number": "८२",
+    "content_sanskrit": "जृम्भं नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213416,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जृम्भम् । जृम्भः ।"
+    }
+  ]
+}

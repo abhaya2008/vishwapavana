@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210068,
+    "chapter_id": 7781,
+    "verse_number": "६९",
+    "content_sanskrit": "निन्द्",
+    "padaccheda": "णिदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कुत्सायाम्",
+    "meaning_english": "to blame,to censure,to condemn, to insult, to ridicule, to revile, to criticise",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210068,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — सम्पूर्ण रूप से दोष दिखाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210068,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कुत्सायां सन्निकर्षे वा कुत्सामात्रे तु निन्दति' (श्लो. 114) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211143,
+    "chapter_id": 7781,
+    "verse_number": "११४४",
+    "content_sanskrit": "दंश्",
+    "padaccheda": "दन्शँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दशने",
+    "meaning_english": "to bite,to sting",
+    "audio_url": null,
+    "display_order": 1144,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211143,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दशनम् = द्रंष्टाव्यापारः । हनुमूलगता: स्थूलदन्ताः दंष्ट्राः । तद्व्यापारः तत्क्रियादिरूप इत्यर्थः ' इति बालमनोरमा । ' दंशने दशतीति स्यात् तत्र दंशयते णिचि । भाषणे दंशयेत् ' ( श्लो. 164 - 165 ) इति देवः ।"
+    }
+  ]
+}

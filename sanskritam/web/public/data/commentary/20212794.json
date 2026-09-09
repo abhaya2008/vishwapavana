@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212794,
+    "chapter_id": 7793,
+    "verse_number": "११७",
+    "content_sanskrit": "अर्तिपॄवपियजितनिधनितपिभ्यो नित्",
+    "padaccheda": "",
+    "anvaya": "उसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212794,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अरुः । परुर्ग्रन्थिः । वपुः । यजुः । तनुः । तनुषी । तनूंषि । धनुरस्त्रियाम् । धनुर्वंशविशुद्धोऽपि निर्गुणः किं करिष्यति । सान्तस्य उदन्तस्य वा रूपम् । तपुः सूर्याग्निशत्रुषु ।"
+    }
+  ]
+}

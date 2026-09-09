@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213147,
+    "chapter_id": 7795,
+    "verse_number": "१८७",
+    "content_sanskrit": "कुषेर्लश्च",
+    "padaccheda": "",
+    "anvaya": "क्मलन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 187,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213147,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुल्मलं पापम् ।"
+    }
+  ]
+}

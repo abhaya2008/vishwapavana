@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213036,
+    "chapter_id": 7795,
+    "verse_number": "७६",
+    "content_sanskrit": "पीयेरूषन्",
+    "padaccheda": "",
+    "anvaya": "ऊषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213036,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पीय इति सौत्रो धातुः । पीयूषम् । बाहुलकाद्गुणे पेयूषोऽभिनवं पयः ।"
+    }
+  ]
+}

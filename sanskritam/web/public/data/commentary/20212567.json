@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212567,
+    "chapter_id": 7792,
+    "verse_number": "४७",
+    "content_sanskrit": "रुहेर्वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "टिषच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212567,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रङ्कुशम्बररौहिषाः । रौहिषो मृगभेदे स्याद्रौहिषं च तृणं मतमिति संसारावर्तः ।"
+    }
+  ]
+}

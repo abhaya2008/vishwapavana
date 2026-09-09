@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211334,
+    "chapter_id": 7784,
+    "verse_number": "६६",
+    "content_sanskrit": "खिद्",
+    "padaccheda": "खिदँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "दैन्ये",
+    "meaning_english": "to be sad, to be displeased, to be distressed",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211334,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दैन्येर्थे खिद्यते खिन्ते, परिघाते (तपे) तु खिन्दति ' (श्लो. 112) इति देवः ।"
+    }
+  ]
+}

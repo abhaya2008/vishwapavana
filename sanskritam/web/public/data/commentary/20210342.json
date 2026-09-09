@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210342,
+    "chapter_id": 7781,
+    "verse_number": "३४३",
+    "content_sanskrit": "झट्",
+    "padaccheda": "झटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सङ्घाते",
+    "meaning_english": "to become matted, to become entangled",
+    "audio_url": null,
+    "display_order": 343,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210342,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सङ्घातः = संहननं, मिश्रीकरणं च ।"
+    }
+  ]
+}

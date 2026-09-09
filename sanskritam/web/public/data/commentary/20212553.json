@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212553,
+    "chapter_id": 7792,
+    "verse_number": "३३",
+    "content_sanskrit": "आङ्परयोः खनिशॄभ्यां डिच्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212553,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आखनतीत्याखुः । परं शृणातीति परशुः । पृषोदरादित्वादकारलोपात्पर्शुरपि ।"
+    }
+  ]
+}

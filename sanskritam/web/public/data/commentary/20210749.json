@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210749,
+    "chapter_id": 7781,
+    "verse_number": "७५०",
+    "content_sanskrit": "तृक्ष्",
+    "padaccheda": "तृक्षँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 750,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210749,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " बालमनोरमायां ' त्रक्ष ष्ठ्रक्ष णक्ष गतौ ' इति पठित्वा ' त्रयः अपि अकारमध्याः ' इति पठितम् । तत्वबोधिन्यां माधवीयधातुवृत्त्यादिषु च ' तृक्ष ' इत्येव पाठः ।"
+    }
+  ]
+}

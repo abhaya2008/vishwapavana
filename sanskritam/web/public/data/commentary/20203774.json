@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20203774,
+    "chapter_id": 7778,
+    "verse_number": "८.२.८७",
+    "content_sanskrit": "ओमभ्यादाने",
+    "padaccheda": "ओम् । अभ्यादाने",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203774,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अभ्यादानं प्रारम्भः, तत्र य ओम्शब्दः तस्य प्लुतो भवति। ओ३म् अ॒ग्निमी॑ळे पु॒रोहि॑तम् (ऋ० १.१.१)। अभ्यादान इति किम् ? ओमित्येतदक्षरमुद्गीथमुपासीत (छा०उप० १.१.१)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203774,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ओंशब्दस्य प्लुतः स्यादारम्भे । ओ3मग्निमीळे पुरोहितम् (ओ3म॒ग्निमी॑ळे पु॒रोहि॑तम्) । अभ्यादाने किम् । ओमित्येकाक्षरम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203774,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`प्रारम्भः` इति। कस्य प्रारम्भे? स्वाध्यायादेः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203774,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "प्लुतश्रुत्याऽच्परिभाषोपस्थानादच एव प्लुतः, मकारस्त्वर्द्धमात्र इति समुदायोऽर्धचतुर्थमात्रः सम्पद्यते ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203774,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आरम्भे प्रणवस्य प्लुतः स्यात् । ओ ३ अग्निमीळे ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203774,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The vowel in ओम् is प्लुत in the beginning of a sacred text.\nThe word अभ्यादानं and means the commencement of a sacred <i>mantra</i> or Vedic text. Thus ओ३म् अ॒ग्निमीले॑ पु॒रोहि॑तं य॒ज्ञस्य॑ दे॒वमृ॒त्विजं॑ ॥ (<i>Rig</i> I.I.I).\n\nWhy do we say \"in the beginning\"? Observe ओमित्येतदक्षरमुद्गीथमुपासीत (<i>Chhandogya</i> <i>Upanishad</i>. I.1.1). Here ओम् is not used to indicate the commencement of a Text or <i>Mantra</i>, but is itself the subject of comment."
+    },
+    {
+      "id": 7,
+      "verse_id": 20203774,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The vowel in ओम् is प्लुत in the beginning of a sacred text."
+    }
+  ]
+}

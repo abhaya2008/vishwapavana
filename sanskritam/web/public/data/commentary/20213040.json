@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213040,
+    "chapter_id": 7795,
+    "verse_number": "८०",
+    "content_sanskrit": "कुटः किच्च",
+    "padaccheda": "",
+    "anvaya": "अरु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213040,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुटरुर्वस्त्रगृहम् । कित्वप्रयोजनं चिन्त्यम् ।"
+    }
+  ]
+}

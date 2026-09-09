@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213134,
+    "chapter_id": 7795,
+    "verse_number": "१७४",
+    "content_sanskrit": "आः समिण्निकशिभ्याम्",
+    "padaccheda": "",
+    "anvaya": "आ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 174,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213134,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "संपूर्वादिणो निपूर्वात्कषेश्च आ स्यात् । स्वरादित्वादव्ययत्वम् । समया । निकषा ।"
+    }
+  ]
+}

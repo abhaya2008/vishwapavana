@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213508,
+    "chapter_id": 7799,
+    "verse_number": "१७४",
+    "content_sanskrit": "गुणवचनमुकारान्तं नपुंसकं च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 174,
+    "avatarnika": "स्त्रीपुंसाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213508,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "त्रिलिङ्गमित्यर्थः । पटु । पटुः । पट्वी ।"
+    }
+  ]
+}

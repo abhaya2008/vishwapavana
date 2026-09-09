@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202845,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१८३",
+    "content_sanskrit": "प्रादस्वाङ्गं संज्ञायाम्",
+    "padaccheda": "प्रात् । अस्वाङ्गम् । संज्ञायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 183,
+    "avatarnika": "अनुवृत्तिः — उपसर्गात् (६.२.१७७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202845,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रादुत्तरपदमस्वाङ्गवाचि संज्ञायां विषयेऽन्तोदात्तं भवति। प्॒रको॒ष्ठम्। प्॒रगृ॒हम्। प्॒रद्वा॒रम्। अस्वाङ्गमिति किम्? प्रह॑स्तम्। प्रप॑दम्। संज्ञायामिति किम् ? प्रपी॑ठम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202845,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्रगृहम् । अस्वाङ्गं किम् । प्रपदम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202845,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`प्रकोष्ठम्` इति। `उषिकुषिगार्तिभ्यस्थन्` (द।उ।6।29) इति कुषेस्थन्। तेन क्रोष्ठशब्द आद्युदात्तः। `प्रगृहम्` इति। `गेहि कः`  [[3.1.144]]  इति कप्रत्ययः। तेन गृहमन्तोदात्तम्। `प्रद्वारम्? इति। `नब्विषयस्यानिसन्तस्य` (फि।सू।2।26) इति द्वारमाद्युदात्तम्। `प्रपदम्` इति। पदं द्वारवदेवाद्यटुदात्तम्। `प्रहस्तम्` इति। `हसिमृग्रिण्वमिदमि` (द।उ।6।7) इत्यादिना हसेस्तन्। तेन हस्तशब्द आद्युदात्तः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202845,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "प्रकोष्ठादिषु प्रादिसमासः बहुव्रीहिर्वा ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202845,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्रात् परमस्वाङ्गार्थं नाम्न्त्यन्तोदात्तं स्यात् । प्रकोष्टम् । प्रगृहम् । प्रादिर्बहुव्रीहिर्वा प्रगृहम् । स्वाङ्गे तु प्रपदम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202845,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After प्र a, a word which does not denote a part of the body has acute accent (उदात्त) on the final when the compound is a name.\nThus प्रकोष्ठ꣡म्, प्रगृह्य꣡म्, प्रद्वार꣡म् ॥ Why do we say 'not denoting a body part'? Observe प्र꣡हस्तम्, प्र꣡पदम् ॥ Why do we say 'when a Name'? Observe प्रपीठम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202845,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After प्र a, a word which does not denote a part of the body has acute accent (उदात्त) on the final when the compound is a name."
+    }
+  ]
+}

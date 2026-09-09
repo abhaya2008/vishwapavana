@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210242,
+    "chapter_id": 7781,
+    "verse_number": "२४३",
+    "content_sanskrit": "उञ्छ्",
+    "padaccheda": "उछिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उञ्छे",
+    "meaning_english": "to collect piece by piece, to gather, to accumulate, to pile up",
+    "audio_url": null,
+    "display_order": 243,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210242,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' उञ्छः कणश आदानं कणिशाद्यर्जनं शिलम् ' इति यादवः । ' शशपोरुञ्छतीत्युञ्छे स्वरभेदाद् द्विरुच्यते ' (श्लो.55) इति देवः ।"
+    }
+  ]
+}

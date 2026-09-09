@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213214,
+    "chapter_id": 7796,
+    "verse_number": "१६",
+    "content_sanskrit": "स्रंसेः शिः कुट् किश्च",
+    "padaccheda": "",
+    "anvaya": "यत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213214,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्रंसतेः शिरादेशः यत्प्रत्ययः कित्तस्य कुडागमश्च । शिक्यम् ।"
+    }
+  ]
+}

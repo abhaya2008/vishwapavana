@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211028,
+    "chapter_id": 7781,
+    "verse_number": "१०२९",
+    "content_sanskrit": "अस्",
+    "padaccheda": "असँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "गतिदीप्त्यादानेषु",
+    "meaning_english": "to go, to shine, to glow, to take",
+    "audio_url": null,
+    "display_order": 1029,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211028,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " असतेसति गत्यादौ भुव्यस्ति क्षेपणेस्यति ' ( श्लो. 184 ) इति देवः । दीप्तौ अकर्मकः । ' अष ' इत्यपि पाठः दृश्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20202458,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१९",
+    "content_sanskrit": "स्वपिस्यमिव्येञां यङि",
+    "padaccheda": "स्वपि-स्यमि-व्येञाम् । यङि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": "अनुवृत्तिः — सम्प्रसारणम् (६.१.१३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202458,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<ञिष्वप शये>> , <<स्यमु स्वन ध्वन शब्दे>>, <<व्येञ् संवरणे>> इत्येतेषां धातूनां यङि परतः संप्रसारणं भवति। सोषुप्यते। सेसिम्यते। वेवीयते। यङीति किम् ? स्वप्नक्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202458,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "संप्रसारणं स्याद्यङि । सोषुप्यते । सेसिम्यते । वेवीयते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202458,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<स्वपिस्यमिव्येञां यङि>> - स्वपिस्यमि । यङि किम्  । स्वप्नक् ।सेसिम्यते इति ।स्यमु शब्दे॑ दन्त्याऽजन्तसदित्वाऽभावेनाऽषोपदेशत्वान्न यङलुगर्थम् । अत एवन लुमते॑ति निषेधोऽपि न प्रवर्तत इति यङ्लुक्यपि चायः की स्यादेव । चेकीतः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202458,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`स्वप्नक्` इति। <<स्वपितृषोर्नजिङ्>> [[3.2.172]] ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202458,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "स्वप्नगिति।'स्वपितृषोर्नजिङ्'  ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202458,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एषां यङि प्रसारणं स्यात् । पुनर्द्वित्वम् । गुणः । सोपुप्यते । स्यम शब्दे । सेसिम्यते । वेवीयते ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202458,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "There is vocalisation of the semi-vowel, of the verbs स्वप् 'to sleep', स्यम् 'to shout' and व्ये 'to cover', when followed by the affix यङ् of the Intensive.\nThus सोषुप्यते, सेसिम्यते, वेवीयते [[7.4.25]] the short इ is lengthened). Why do we say 'when यङ् follows'? Observe स्वप्नक् formed by नजिङ् [[3.2.172]]."
+    },
+    {
+      "id": 8,
+      "verse_id": 20202458,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "There is vocalisation of the semi-vowel, of the verbs स्वप् 'to sleep', स्यम् 'to shout' and व्ये 'to cover', when followed by the affix यङ् of the Intensive."
+    }
+  ]
+}

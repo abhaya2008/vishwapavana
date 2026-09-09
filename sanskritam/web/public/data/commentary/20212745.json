@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212745,
+    "chapter_id": 7793,
+    "verse_number": "६८",
+    "content_sanskrit": "गमेर्डोः",
+    "padaccheda": "",
+    "anvaya": "डो",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212745,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गौर्नादित्ये बलीवर्दे किरणक्रतुभेदयोः । स्त्री तु स्याद्दिशि भारत्यां भूमौ च सुरभावपि । नृस्त्रियोः स्वर्गवज्राम्बुरश्मिदृग्बाणलोमसु । बाहुलकाद् द्युतेरपि डोः । द्यौः स्त्री स्वर्गान्तरिक्षयोः ।"
+    }
+  ]
+}

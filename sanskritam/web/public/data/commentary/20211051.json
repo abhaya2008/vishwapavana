@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211051,
+    "chapter_id": 7781,
+    "verse_number": "१०५२",
+    "content_sanskrit": "म्लै",
+    "padaccheda": "म्लै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हर्षक्षये",
+    "meaning_english": "to be tired, to wane, to be fatigued, to be exhausted",
+    "audio_url": null,
+    "display_order": 1052,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211051,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गात्रविनामे । विनामः कान्तिक्षयः ' इति क्षीरस्वामी । ' हर्षक्षयः = धातुक्षयः ' इति माधवः ।"
+    }
+  ]
+}

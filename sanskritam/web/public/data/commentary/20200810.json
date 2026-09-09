@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200810,
+    "chapter_id": 7758,
+    "verse_number": "३.२.४२",
+    "content_sanskrit": "सर्वकूलाभ्रकरीषेषु कषः",
+    "padaccheda": "सर्वकूल-अभ्र-करीषेषु । कषः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कर्मणि (३.२.१), अनुपसर्गे (३.२.३), सुपि (३.२.४), खच् (३.२.३८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200810,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सर्व कूल अभ्र करीष इत्येतेषु कर्मसूपपदेषु कषेर्धातोः खच् प्रत्ययो भवति। सर्वं कषति सर्वंकषः खलः। कूलंकषा नदी। अभ्रंकषो गिरिः। करीषंकषा वात्या॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200810,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सर्वङ्कषः खलः । कूलङ्कषा नदी । अभ्रङ्कषो वायुः । करीङ्कषा वात्या ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200810,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`सर्वङ्कषः` इति। `कष खष शिष जष जष {शक इति मु।पाठः} शष वष मष रुष रिष हिंसार्थाः` (धातुपाठः-685-694)॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200810,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "सर्वङ्कष इत्यादि ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200810,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix खच् comes after the verb कष् 'to rub' when the words सर्व 'all', कूल 'bank', अभ्र 'cloud' and करीष 'a dry cow-dung' are in composition with it as objects.\nAs सर्वङ्कषः खलः 'a villain, a rogue'; कूलङ्कषा नदी 'a river'; अभ्रङ्कषो गिरिः 'a mountain'; करीषङ्कषा वात्या 'a strong wind'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20200810,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix खच् comes after the verb कष् 'to rub' when the words सर्व 'all', कूल 'bank', अभ्र 'cloud' and करीष 'a dry cow-dung' are in composition with it as objects."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200810,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "मुसलोलूखलैरिव (शिशुपालवधम् 19.81) — `सर्वकूलाभ्रकरीषेषु कषः` इति सूत्रात् ज्ञापकात् परनिपातव्यत्ययः।"
+    }
+  ]
+}

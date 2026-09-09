@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213000,
+    "chapter_id": 7795,
+    "verse_number": "४०",
+    "content_sanskrit": "वलेरूकः",
+    "padaccheda": "",
+    "anvaya": "ऊक",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213000,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वलूकः पक्षी उत्पलमूलं च ।"
+    }
+  ]
+}

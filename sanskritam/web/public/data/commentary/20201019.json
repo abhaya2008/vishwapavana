@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201019,
+    "chapter_id": 7759,
+    "verse_number": "३.३.६३",
+    "content_sanskrit": "यमः समुपनिविषु च",
+    "padaccheda": "यमः । सम्-उप-नि-विषु । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), अनुपसर्गे (३.३.६१), वा (३.३.६२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201019,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अनुपसर्गे वेति वर्तते। सम् उप नि वि इत्येतेषूपपदेष्वनुपसर्गेऽपि यमेर्वा अप् प्रत्ययो भवति। घञोऽपवादः। संयमः, संयामः। उपयमः, उपयामः। नियमः, नियामः। वियमः, वियामः। अनुपसर्गात् खल्वपि — यमः, यामः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201019,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एषु अनुपसर्गे च यमेरप् वा । संयमः । संयामः । उपयमः । उपयामः । नियमः । नियामः । वियमः । वियामः । यमः । यामः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201019,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनुपसर्गात् समादिपूर्वाच्च यमेरप् वा स्यात् । यमः यामः । संयमः संयामः इत्यादि ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201019,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And The affix अप् comes optionally after the verb यम् 'to surround' when the उपसर्ग -s सम् , उप , नि and वि are in composition ; or even when it is without उपसर्ग -less.\nThis debars घञ्. As संयामः or संयमः 'restraint'; उपयामः or उपयमः 'marriage'; नियामः or नियमः 'restrictive rule'; वियामः or वियमः 'check, distress'; यामः or यमः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201019,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And The affix अप् comes optionally after the verb यम् 'to surround' when the उपसर्ग -s सम् , उप , नि and वि are in composition ; or even when it is without उपसर्ग -less."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201019,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "संयाम-वन्तो यति-वन्निगदानपरेऽमुचन् (भट्टिकाव्यम् 7.57) — `यमः समुप-नि- विषु च` इति घञ्।"
+    }
+  ]
+}

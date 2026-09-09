@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213368,
+    "chapter_id": 7799,
+    "verse_number": "३४",
+    "content_sanskrit": "शलाका स्त्रियां नित्यम् ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213368,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नित्यग्रहणमन्येषां क्वचिद्व्यभिचारं ज्ञापयति । इति स्त्र्यधिकारः ॥"
+    }
+  ]
+}

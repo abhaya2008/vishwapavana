@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211991,
+    "chapter_id": 7790,
+    "verse_number": "२४२",
+    "content_sanskrit": "सूद्",
+    "padaccheda": "षूदँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षरणे आस्रवणे आप्रवणे घाते च",
+    "meaning_english": "to drip, to ooze, to kill, to try to kill, to wound",
+    "audio_url": null,
+    "display_order": 242,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211991,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आस्रवणे ' इति क्षीरतरङ्गिणी । ' आप्रवणे ' इति केचित् । ' घाते ' इति केचित् ।"
+    }
+  ]
+}

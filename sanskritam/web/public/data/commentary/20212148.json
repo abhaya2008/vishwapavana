@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212148,
+    "chapter_id": 7790,
+    "verse_number": "३९९",
+    "content_sanskrit": "गद",
+    "padaccheda": "गद",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "देवशब्दे",
+    "meaning_english": "to have thunderstorm, to have cloud collision",
+    "audio_url": null,
+    "display_order": 399,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212148,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । देवशब्दः = पर्जन्यध्वनिः । ' णौ देवशब्दे गदयेत्, व्यक्तवाचि गदेच्छपि ' (श्लो. 110) इति देवः । ' केचित् तु ' गदी ' इति ईदितं धातुं पठन्ति । शाकटयनोपि एवमेव इत्यादिकं सर्वं पुरुषकारादिषु द्रष्टव्यम् ' इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200850,
+    "chapter_id": 7758,
+    "verse_number": "३.२.८२",
+    "content_sanskrit": "मनः",
+    "padaccheda": "मनः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), सुपि (३.२.४), सुपि (३.२.७८), णिनिः (३.२.७८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200850,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सुपीति वर्तते। मन्यतेः सुबन्त उपपदे णिनिः प्रत्ययो भवति। दर्शनीयमानी। शोभनमानी। बहुलग्रहणानुवृत्तेर्मन्यतेर्ग्रहणम्, न मनुतेः। उत्तरसूत्रे हि खश्प्रत्यये विकरणकृतो विशेषःस्यात्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200850,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सुपि मन्यतेर्णिनिः स्यात् । दर्शनीयमानी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200850,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "सुपि मन्यतेर्णिनिः स्यात्। दर्शनीयमानी॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200850,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<मनः>> - मनः । दैवादिकस्यैव मनेग्र्रहणं न तु तानादिकस्य, बहुलग्रहणाऽनुवृत्तेः । तदाह — मन्यतेरिति । मनुतेग्र्रहणे तु बाधकमुत्तरसूत्रे वक्ष्यते ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200850,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<मनः>> - मनः । बहुलग्रहणानुवृत्तेरिह मन ज्ञान दैवादिकस्यैव ग्रहणं न तु मनु अवबोधन इति तानादिकस्य । तेन उत्तरसूत्रे खशि श्यनेव भवति न तूप्रत्ययः । तदाह —  मन्यतेरिति ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200850,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`मन्यतेग्र्रहणम्` इति। `मन ज्ञाने` (धातुपाठः-1176) इत्येतस्य दैवादिकस्य। `न मनुतेः` इति। `मनु अवबोधने` (धातुपाठः-1471) इत्येतस्य तानादिकस्य ग्रहणं न भवति। नन #उ च यदेव मन्यतेर्णिनिप्रत्यये कृते दर्शनीयमानीति रूपं भवति, तदेव मनुतेरपि,तत् कोऽत्र विशेषो यतो मन्यतेग्र्रहणमिष्यते,न मनुतेरित्यत आह -  `उत्तरसूत्रे हि` इत्यादि। यद्यपीह विशेषो नास्ति, उत्तरसूत्रे तु विकरणकृतो विशेषोऽस्ति, तत्र हि मन्यतेः खशि कृते दिवादित्वाच्छ्यन् भवति, मनुतेस्तु तनादित्वादुप्रत्ययः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200850,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मनः॥ मन्यतेर्ग्रहणमिति।'मन ज्ञाने'  इत्यस्य दैवादिकस्य। न मनुतेरिति।'मनु अवबोधने'  इत्यस्य तानादिकस्य। तिपि गुणेन भवितव्यम्। यदि नेष्यते, संज्ञापूर्वको विधिरनित्यः। किं पुनः कारणं प्रयत्नेन मनोतेर्ग्रहणं निवार्यते, यावता इह द्वयोरपि णिनिः तदेव रूपम्, न चार्थभेद इत्याह - उतरसूत्र इति॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200850,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "सुबन्तपूर्वान्मन्यतेर्णिनिः स्यात् । कृष्णं शत्रुं मन्यत इति शत्रुमानी कृष्णस्य कंसः ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200850,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णिनि comes after the verb मन् 'to think' when there is a word with a case-affix in composition with it.\nThe word '<i>supi</i>' is understood in this <i>sutra</i>. As दर्शनीयमानी 'who thinks himself handsome'; शोभनम्मानी 'who thinks himself beautiful'.\n\nThe verb मन् belonging to the 4th conjugation is taken here and not that belonging to the 8th conjugation; because the <i>anuvritti</i> of the word 'diversely' is understood here. In the present aphorism, whether we take the <i>Divadi</i> or <i>Tanadi</i> मन् the resulting form would be the same, namely मानिन्. But not so in the next aphorism, where before the affix खश् there would be difference of form owing to the <i>vikarana</i> i. e., in the 4th conjugation श्यन् would be added, but not so if the verb belonged to the 8th class."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200850,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णिनि comes after the verb मन् 'to think' when there is a word with a case-affix in composition with it."
+    }
+  ]
+}

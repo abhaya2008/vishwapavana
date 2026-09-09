@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213233,
+    "chapter_id": 7796,
+    "verse_number": "३५",
+    "content_sanskrit": "कृञादिभ्यः संज्ञायाम् वुन्",
+    "padaccheda": "",
+    "anvaya": "वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213233,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "करकः । करका । कटकः । नरकम् । नरकः । नरको नारकोऽपि चेति द्विरूपकोशः । सरकं गगनम् । कोरकः कोरकं च ।"
+    }
+  ]
+}

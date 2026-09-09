@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210085,
+    "chapter_id": 7781,
+    "verse_number": "८६",
+    "content_sanskrit": "सेक्",
+    "padaccheda": "सेकृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go,to move",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210085,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्त्यादिरयम् इति प्रायेण सर्वे पठन्ति । ' अन्ये ' षेकृ ' इति विकल्पेन षोपदेशकार्यार्थं पेठुः ' इति तरङ्गिण्याम् ।"
+    }
+  ]
+}

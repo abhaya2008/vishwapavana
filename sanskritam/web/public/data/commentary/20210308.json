@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210308,
+    "chapter_id": 7781,
+    "verse_number": "३०९",
+    "content_sanskrit": "तुण्ड्",
+    "padaccheda": "तुडिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "तोडने",
+    "meaning_english": "to disregard,to condemn, to kill, to injure, to cause pain",
+    "audio_url": null,
+    "display_order": 309,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210308,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' तोडनार्थे तुडेस्तुण्डेः तुडेत् तोडति तुण्डते ' (श्लो.88) इति देवः । ' तोडनं- दारणं हिंसनं च ' इति मा.धा.वृत्तौ ।"
+    }
+  ]
+}

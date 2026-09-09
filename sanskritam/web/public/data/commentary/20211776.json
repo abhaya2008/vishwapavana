@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211776,
+    "chapter_id": 7790,
+    "verse_number": "२७",
+    "content_sanskrit": "प्रथ्",
+    "padaccheda": "प्रथँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रख्याने",
+    "meaning_english": "to expand scope, to spread",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211776,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्षेपे च ' इति द्रुमे । ' प्रथते प्राथयत्येतत् प्रख्याने द्वितयं प्रथे: ' (श्लो. 99) इति देवः ।"
+    }
+  ]
+}

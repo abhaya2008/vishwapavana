@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210981,
+    "chapter_id": 7781,
+    "verse_number": "९८२",
+    "content_sanskrit": "पथ्",
+    "padaccheda": "पथेँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 982,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210981,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अथ पथेर्गतौ पथति णौ पन्थेर्गतौ पन्थयेत् ' (श्लो. 101) इति देवः ।"
+    }
+  ]
+}

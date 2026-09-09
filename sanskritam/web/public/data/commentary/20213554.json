@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213554,
+    "chapter_id": 7801,
+    "verse_number": "८",
+    "content_sanskrit": "खय्युवर्ण कृत्रिमाख्या चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213554,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "खयि परे उवर्णमुदात्तं स्यात् । कन्दुकः ॥"
+    }
+  ]
+}

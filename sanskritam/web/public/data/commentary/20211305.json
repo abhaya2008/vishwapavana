@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211305,
+    "chapter_id": 7784,
+    "verse_number": "३७",
+    "content_sanskrit": "मा",
+    "padaccheda": "माङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "माने",
+    "meaning_english": "to measure,to weigh,to limit,to compare in size",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211305,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — तर्क से सिद्ध करना\nउप — उपमा देना, तुलना करना\nपरि — नापना, परिमाण करना\nप्र — प्रमाण होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211305,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मिमीते मायते माने माति तत्रैव शब्लुकि ' (श्लो. 9) इति देवः । दुर्गादयः केचिदेवामुं धातुं पठन्ति । क्षीरस्वामिप्रभृतयस्तु न पठन्ति ।"
+    }
+  ]
+}

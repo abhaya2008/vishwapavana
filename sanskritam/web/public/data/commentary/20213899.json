@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213899,
+    "chapter_id": 7805,
+    "verse_number": "१०६",
+    "content_sanskrit": "अभिधानक्रियाभेदाच्छब्देष्वविकृतेष्वपि । रूपं अत्यन्तभेदेन तदेवैकं प्रकाशते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213899,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "एतदेवोपसंहर्तुमाह---\nअभिधानक्रिया संहितयोच्चारणमेव तया योगात्तत्सम्बन्धादविकृतेष्वपि शब्देष्वेकमेव शक्त्यन्तरपरिग्रहादत्यन्तभेदेन प्रकाशते ॥"
+    }
+  ]
+}

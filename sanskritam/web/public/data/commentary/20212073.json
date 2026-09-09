@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212073,
+    "chapter_id": 7790,
+    "verse_number": "३२४",
+    "content_sanskrit": "जि",
+    "padaccheda": "जि",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 324,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212073,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " माधवः तु ' जुचि ' इति एकमेव धातुं पठति । तदा तु जुञ्चयति - जुञ्चति ।"
+    }
+  ]
+}

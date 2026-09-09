@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211741,
+    "chapter_id": 7789,
+    "verse_number": "६३",
+    "content_sanskrit": "प्रुष्",
+    "padaccheda": "प्रुषँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "स्नेहनसेवनपूरणेषु",
+    "meaning_english": "to soften, to be greasy, to irrigate, to complete, to fill",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211741,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आद्यः (प्रूष प्लुष इत्यत्र) दीर्घोपधः इति बालमनोरमा । तत्त्वबोधिन्यां तु ह्रस्वोपधः एव दृश्यते । ' स्नेहनादिषु, प्रुष्णाति च प्रोषति च दाहे ' (श्लो. 172) इति देवः ।"
+    }
+  ]
+}

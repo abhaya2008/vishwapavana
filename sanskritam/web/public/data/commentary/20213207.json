@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213207,
+    "chapter_id": 7796,
+    "verse_number": "९",
+    "content_sanskrit": "वुञ्लुठितनिताडिभ्य उलच् तण्डश्च",
+    "padaccheda": "",
+    "anvaya": "उलच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213207,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "व्रियन्ते लुट्यन्ते तन्यन्ते ताड्यन्त इति वा तण्डुलाः ।"
+    }
+  ]
+}

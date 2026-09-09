@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213192,
+    "chapter_id": 7795,
+    "verse_number": "२३२",
+    "content_sanskrit": "चक्षेर्बहुलं शिच्च",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 232,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213192,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नृचक्षाः ।"
+    }
+  ]
+}

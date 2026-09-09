@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20202306,
+    "chapter_id": 7768,
+    "verse_number": "५.४.२७",
+    "content_sanskrit": "देवात्तल्",
+    "padaccheda": "देवात् । तल्",
+    "anvaya": "देवात् तल् ",
+    "meaning_sanskrit": "'देव' शब्दात् स्वार्थे 'तल्' प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202306,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तादर्थ्य इति निवृत्तम्। देवशब्दात् स्वार्थे तल् प्रत्ययो भवति। देव एव देवता॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202306,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "देव एव देवता ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202306,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<देवात्तल्>> - देवतेति ।तलन्तं स्त्रियाम॑ ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202306,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मात्स्वार्थे तल् । तलः स्त्रीत्वाद् देवता ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202306,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "देवात्तल् (2304) (तलोऽधिकरणम्) (5906 एकदेशिन उपसंख्यानवार्तिकम् ॥ 1 ॥) - तलि स्त्रीलिङ्गवचनम् - (भाष्यम्) तलि स्त्रीलिङ्गं वक्तव्यम्। देवता। किं पुनः कारणं न सिद्ध्यति? देवशब्दोऽयं पुंल्लिङ्गः स्वार्थिकश्चायम्, स्वार्थिकाश्च प्रकृतितो लिङ्गवचनान्यनुवर्तन्ते॥ (5907 सिद्धान्तवार्तिकम्॥ 2 ॥) - उक्तं वा - (भाष्यम्) किमुक्तम्? स्वार्थिका अतिवर्तन्तेऽपि लिङ्गावचनानीति॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202306,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix तल् comes after देव without change of sense.\nThe <i>anuvritti</i> of तादर्थ्य does not apply here and ceases. Thus देवता = देवः ॥ This word is always in the feminine, another example of the rule that a word derived by a <i>svarthika</i> affix does not always follow the gender of its primitive."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202306,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix तल् comes after देव without change of sense."
+    },
+    {
+      "id": 8,
+      "verse_id": 20202306,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'देव' शब्दात् स्वार्थे 'तल्' प्रत्ययः भवति । <<तलन्तः>> इति लिङ्गानुशासनस्य सूत्रेण तलन्तशब्दाः नित्यस्त्रीलिङ्गाः भवन्ति, अतः तल्-प्रत्ययात् परः  टाप्-प्रत्ययः अपि भवति ।\nदेवः इत्येव\n= देव + तल् + टाप्\n→ देवता [<<अकः सवर्णे दीर्घः>> [[6.1.101]] इति सवर्णदीर्घः ।\n<<समर्थानां प्रथमाद्वा>> [[4.1.82]] अनया महाविभाषया प्रत्ययविधानम् विकल्पेन भवति, अतः 'देव' तथा 'देवता' द्वयोः अपि शब्दयोः प्रयोगः साधु एव ।\n"
+    }
+  ]
+}

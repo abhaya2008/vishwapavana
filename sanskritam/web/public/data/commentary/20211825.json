@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211825,
+    "chapter_id": 7790,
+    "verse_number": "७६",
+    "content_sanskrit": "मण्ड्",
+    "padaccheda": "मडिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भूषायां हर्षे च",
+    "meaning_english": "to adorn,to decorate, to be happy",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211825,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्वचित् कोशे अत्र हर्षे च इति न पठ्यते । पाठशुद्धिरत्र कीदृशी इति न विद्मः ' इति कृदन्तरूपमाला । ' भूषार्थे मण्डतीति स्यात्तत्र मण्डयतीति णौ ' (श्लो. 84) इति देवः ।"
+    }
+  ]
+}

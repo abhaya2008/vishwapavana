@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211622,
+    "chapter_id": 7786,
+    "verse_number": "१५३",
+    "content_sanskrit": "भुज्",
+    "padaccheda": "भुजोँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "कौटिल्ये",
+    "meaning_english": "to bend,to curve,to be crooked",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211622,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भुजेद्भुनक्ति भुङ्क्ते स्युः कौटिल्ये पालनेदने ' (श्लो.65) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201393,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१४४",
+    "content_sanskrit": "भ्रातुर्व्यच्च",
+    "padaccheda": "भ्रातुः । व्यत् । च",
+    "anvaya": "'तस्य अपत्यम्' (इति)  भ्रातुः छः व्यत् च",
+    "meaning_sanskrit": "'तस्य अपत्यम्' अस्मिन् अर्थे 'भ्रातृ'शब्दात् 'छ' तथा 'व्यत्' प्रत्ययौ भवतः । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.१.९२), अपत्यम् (४.१.९२), छः (४.१.१४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201393,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भ्रातृशब्दादपत्ये व्यत् प्रत्ययो भवति। चकाराच्छश्च। अणोऽपवादः। भ्रा॒तृ॒व्यः॑। भ्रात्रीयः। तकारः स्वरार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201393,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चाच्छः । अणोऽपवादः । भ्रातृव्यः - भ्रात्रीयः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201393,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भ्रातुर्व्यच्च>> - भ्रातुव्र्यच्च । तकारःतित्स्वरित॑मिति स्वरार्थ इति बोध्यम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201393,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`तकारः स्वरार्थः` इति। <<तित्स्वरितम्>> [[6.1.185]]  इति स्वरितत्वं यथा स्यात्।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201393,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "छञ्च स्यात् । भ्रातुपुत्रो भ्रातृव्यः । भ्रात्रीयः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201393,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix व्यत् also comes in the sense of descendant after the word भ्रातृ।\nBy the force of the word च in the <i>sutra</i>, we get the affix छ as well.\n\nThis debars अण् ॥ Thus भ्रातृव्यः or भ्रात्रीयः 'the brother's son'. The त् of व्यत् the regulates the accent, making it <i>svarita</i>."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201393,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix व्यत् also comes in the sense of descendant after the word भ्रातृ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201393,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "भ्रातृव्यं षत्रु-संकटात् (भट्टिकाव्यम् 15.120) — `भ्रातुर्व्यच्च` इति व्यत्-प्रत्ययः।"
+    }
+  ]
+}

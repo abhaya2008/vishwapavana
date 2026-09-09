@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212904,
+    "chapter_id": 7794,
+    "verse_number": "१०४",
+    "content_sanskrit": "वदेरान्यः",
+    "padaccheda": "",
+    "anvaya": "आन्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212904,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वदान्यस्त्यागिवाग्मिनोः ।"
+    }
+  ]
+}

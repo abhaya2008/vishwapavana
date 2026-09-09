@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211988,
+    "chapter_id": 7790,
+    "verse_number": "२३९",
+    "content_sanskrit": "शब्द्",
+    "padaccheda": "शब्दँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आविष्कारे, भषणे",
+    "meaning_english": "to utter, to sound, to explain",
+    "audio_url": null,
+    "display_order": 239,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211988,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्रति — स्पष्ट बोलना, वचन देना\nवि — स्पष्ट बोलना, वचन देना\nप्र — स्पष्ट बोलना, वचन देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211988,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उपसर्गात् परः शब्दधातुः आविष्कारे वर्तते इत्यर्थः । प्रतिशब्दति । प्रतिश्रुतिमाविष्करोति इत्यर्थः । अनुपसर्गाच्च आविष्कारे इत्येव । चाद्भाषणे ।"
+    }
+  ]
+}

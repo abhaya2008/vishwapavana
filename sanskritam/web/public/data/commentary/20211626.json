@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211626,
+    "chapter_id": 7786,
+    "verse_number": "१५७",
+    "content_sanskrit": "लिश्",
+    "padaccheda": "लिशँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 157,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211626,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " लिश्यते लिशतीत्येवमल्पीभावे गतौ क्रमात् ' (श्लो. 165) इति देवः ।"
+    }
+  ]
+}

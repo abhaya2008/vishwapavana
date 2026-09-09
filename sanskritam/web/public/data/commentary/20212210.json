@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212210,
+    "chapter_id": 7790,
+    "verse_number": "४६१",
+    "content_sanskrit": "वट",
+    "padaccheda": "वट",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "विभाजने",
+    "meaning_english": "to divide, to separate, to split, to isolate, to partition",
+    "audio_url": null,
+    "display_order": 461,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212210,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ' वटि ' इत्येके । वण्टयति । ' णावदन्ताद्वटेर्ग्रन्थे वटयेद् वेष्टने वटेत् ' (श्लो. 77) इति देवः ।"
+    }
+  ]
+}

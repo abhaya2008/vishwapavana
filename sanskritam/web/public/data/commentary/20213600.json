@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213600,
+    "chapter_id": 7803,
+    "verse_number": "९",
+    "content_sanskrit": "बिल्वभक्ष्यवीर्याणि च्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213600,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्तस्वरितानि । ततो बिल्वस्य उदतिष्ठत् । बलं विरुजवीर्यम् ॥"
+    }
+  ]
+}

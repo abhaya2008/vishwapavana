@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212055,
+    "chapter_id": 7790,
+    "verse_number": "३०६",
+    "content_sanskrit": "पुथ्",
+    "padaccheda": "पुथँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 306,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212055,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पुथ्येत् पुन्थति हिंसार्थे, भाषार्थे पोथयेदिति ' (श्लो.100) - देवः ।"
+    }
+  ]
+}

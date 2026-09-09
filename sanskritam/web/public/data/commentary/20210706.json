@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210706,
+    "chapter_id": 7781,
+    "verse_number": "७०७",
+    "content_sanskrit": "रेष्",
+    "padaccheda": "रेषृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे",
+    "meaning_english": "to snicker, to sound inarticulately",
+    "audio_url": null,
+    "display_order": 707,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210706,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "धातुममुं क्षीरस्वामी चन्द्रसम्मतत्वेन पठति । अयं स्वभावाद् वृकध्वनौ वर्तते ।"
+    }
+  ]
+}

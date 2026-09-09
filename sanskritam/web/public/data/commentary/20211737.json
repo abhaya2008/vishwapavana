@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211737,
+    "chapter_id": 7789,
+    "verse_number": "५९",
+    "content_sanskrit": "अश्",
+    "padaccheda": "अशँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "भोजने",
+    "meaning_english": "to eat, to consume",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211737,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अति — अधिक खाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211737,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' व्याप्तावश्नुत इत्याहुः अश्नातीति तु भोजने ' (श्लो. 166) इति देवः ।"
+    }
+  ]
+}

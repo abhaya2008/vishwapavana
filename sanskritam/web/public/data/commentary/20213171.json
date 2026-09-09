@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213171,
+    "chapter_id": 7795,
+    "verse_number": "२११",
+    "content_sanskrit": "इण आग अपराधे च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 211,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213171,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आगः पापापराधयोः ।"
+    }
+  ]
+}

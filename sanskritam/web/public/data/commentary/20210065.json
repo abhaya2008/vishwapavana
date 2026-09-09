@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210065,
+    "chapter_id": 7781,
+    "verse_number": "६६",
+    "content_sanskrit": "बिन्द्",
+    "padaccheda": "बिदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अवयवे",
+    "meaning_english": "to split,to cleave,to divide",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210065,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अवयवे- एकदेश- गतिक्रियायाम्' इति क्षीरस्वामी । ' भिदि' इति सम्मताकारः ।"
+    }
+  ]
+}

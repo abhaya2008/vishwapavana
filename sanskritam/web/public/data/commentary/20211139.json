@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211139,
+    "chapter_id": 7781,
+    "verse_number": "११४०",
+    "content_sanskrit": "तप्",
+    "padaccheda": "तपँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सन्तापे",
+    "meaning_english": "to be angry, to burn, to become hot, to envy, to glow, to shine, to perform penance,to heat, to suffer pain,to hurt",
+    "audio_url": null,
+    "display_order": 1140,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211139,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — पश्चाताप करना\nपरि — पश्चाताप करना\nसम् — संतप्त होना, जलना, जलाना, तप्त करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211139,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सन्तापेर्थे तपेद् दाहे तापयेत् तपते तपेत् । ऐश्वर्ये वा दिवादित्त्वात् तप्यते तपतीति च ' (श्लो. 131) इति देवः ।"
+    }
+  ]
+}

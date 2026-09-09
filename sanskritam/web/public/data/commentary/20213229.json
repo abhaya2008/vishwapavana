@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213229,
+    "chapter_id": 7796,
+    "verse_number": "३१",
+    "content_sanskrit": "अच् तस्य जङ्घ च",
+    "padaccheda": "",
+    "anvaya": "अच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213229,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तस्य जनेः जङ्घादेशः स्यादच्च । जङ्घा ।"
+    }
+  ]
+}

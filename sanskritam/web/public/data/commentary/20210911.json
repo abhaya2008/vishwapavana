@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210911,
+    "chapter_id": 7781,
+    "verse_number": "९१२",
+    "content_sanskrit": "क्रथ्",
+    "padaccheda": "क्रथँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 912,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210911,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्रथत्ययौ यौ हिंसायां क्राथयेत्क्रथते क्रथेत् ' (श्लो. 100) इति देवः ।"
+    }
+  ]
+}

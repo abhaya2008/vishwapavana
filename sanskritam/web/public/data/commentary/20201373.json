@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201373,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१२४",
+    "content_sanskrit": "विकर्णकुषीतकात् काश्यपे",
+    "padaccheda": "विकर्ण-कुषीतकात् । काश्यपे",
+    "anvaya": "'तस्य अपत्यम्' (इति) काश्यपे विकर्ण-कुषीतकात् ढक्",
+    "meaning_sanskrit": "काश्यपकुलस्य निर्देशे 'तस्य अपत्यम्' अस्मिन् अर्थे विकर्णशब्दात् कुषीतकशब्दात् च ढक् प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.१.९२), अपत्यम् (४.१.९२), ढक् (४.१.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201373,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "विकर्णशब्दात् कुषीतकशब्दात् च काश्यपेऽपत्यविशेषे ढक्  प्रत्ययो भवति। वैकर्णेयः। कौषीतकेयः। काश्यप इति किम् ? वैकर्णिः। कौषीतकिः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201373,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अपत्ये ढक् । वैकर्णेयः । कौषीतकेयः । अन्ये वैकर्णिः । कौषीतकिः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201373,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विकर्णकुषीतकात् काश्यपे>> - विकर्णकुषीत । अपत्ये ढगिति । शेषपूरणम् ।काश्यप एवे॑ति नियमार्थं शुभ्रादिभ्यः पृथक् पाठः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201373,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "काश्यपे दत्तपुत्रे वैकर्णेयः । कौषीतकेयः । स्वपुत्रे वैकर्णिः । कौषीतकिः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201373,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढक् comes after the words 1. विकर्ण and 2. कुषीत when they mean the descendants of काश्यप।\nThus वैकर्णेयः and कौषीतकेयः = काश्यपः; otherwise we have वैकर्णिः and कौषीतकिः formed by [[4.1.95]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201373,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढक् comes after the words 1. विकर्ण and 2. कुषीत when they mean the descendants of काश्यप।"
+    }
+  ]
+}

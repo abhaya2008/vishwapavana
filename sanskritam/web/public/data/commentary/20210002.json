@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210002,
+    "chapter_id": 7781,
+    "verse_number": "३",
+    "content_sanskrit": "स्पर्ध्",
+    "padaccheda": "स्पर्धँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सङ्घर्षे",
+    "meaning_english": "to challenge, to compete, to conflict, to rival, to struggle",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210002,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सङ्घर्षः पराभिभवेच्छा । पराभिभवस्य धात्वर्थेन उपसङ्ग्रहात् अत्र अकर्मकत्वम् । उक्तं च - ' धातोरर्थान्तरे वृत्तेः धात्वर्थेनोपसङ्ग्रहात् । प्रसिद्धेरविवक्षातः कर्मणोकर्मिका क्रिया ।' - वाक्यपदीयम् 3.88"
+    }
+  ]
+}

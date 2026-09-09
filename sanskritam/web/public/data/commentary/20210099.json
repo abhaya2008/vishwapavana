@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210099,
+    "chapter_id": 7781,
+    "verse_number": "१००",
+    "content_sanskrit": "वङ्क्",
+    "padaccheda": "वकिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210099,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्षीरस्वामी अमुं धातुं न पठति । अर्थभेदः पुनःपाठे प्रयोजनम् इति ज्ञायते । ' वकिः ' (88) इत्यत्रापि अस्ति ।"
+    }
+  ]
+}

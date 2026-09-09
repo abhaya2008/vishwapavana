@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200734,
+    "chapter_id": 7757,
+    "verse_number": "३.१.११६",
+    "content_sanskrit": "पुष्यसिद्ध्यौ नक्षत्रे",
+    "padaccheda": "पुष्य-सिद्ध्यौ । नक्षत्रे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कृत्याः (३.१.९५), क्यप् (३.१.१०६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200734,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पुषेः सिधेश्चाधिकरणे क्यब् निपात्यते नक्षत्रेऽभिधेये। पुष्यन्त्यस्मिन्नर्था इति पुष्यः। सिध्यन्त्यस्मिन्निति सिद्ध्यः। नक्षत्र इति किम्? पोषणम्, सेधनम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200734,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अधिकरणे क्यब्निपात्यते । पुष्यन्त्यस्मिन्नर्थाः पुष्यः । सिद्ध्यन्त्यस्मिन्सिद्ध्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200734,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पुष्यसिद्ध्यौ नक्षत्रे>> - पुष्यसिध्यौ । 'निपात्येते' इति शएषः । नक्षत्रविशेषे गम्ये इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200734,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<पुष्यसिद्ध्यौ नक्षत्रे>> - पुष्यसिद्ध्यौ । नक्षत्रे किम्  । पोषणं, सेधनम् । अधिकरणे ल्युट् । पुष्यसिध्ययोः पर्यायत्वेऽपि स्वरूपपरत्वात्सूत्रे द्वन्द्वः ।पुष्ये तु सिध्यतीष्यौ॑ इत्यमरः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200734,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पुषेः सिद्धेश्च` इति। `पुष पुष्टौ` (धातुपाठः-1182) `{षिधु धातुपाठः-}सिधु संराद्धौ (धातुपाठः-1192)। `अधिकरणे क्यब् निपात्यते` इति। ल्युटोऽपवादः।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200734,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पुष्यसिद्ध्यौ नक्षत्रे ॥ पुष्यन्त्यस्मिन्नर्था इति। आरब्धा इति शेषः। सिद्धन्त्यस्मिन्निति। अत्रार्था इत्यपेक्ष्यते। पुष्पसिद्धशब्दौ पर्यायौ। स्वरूपपरत्वातु सूत्रे द्वन्द्वः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200734,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>अर्थाः पुष्यन्ति सिध्यन्ति चास्मिन्नित्येवमुच्यते । शोभते कार्यमत्रेति त्विषः स्यात् तिष्य इत्यपि ॥ ६२ ॥</karika>"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200734,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words पुष्य and सिद्ध्य् are irregularly formed by the affix क्यप् , when used as names of asterisms.\nThus पुष् + क्यप् = पुष्यः 'the <i>Pushya</i> asterism'. It is so called because objects are nourished under the influences of this asterism. सिध् + क्यप् = सिद्ध्यः 'the asterism <i>Siddhya</i>' another name of <i>Pushya</i>, so-called because things are accomplished under the influence of this star.\n\nWhen not the names of asterisms, the forms are पोषणं 'nourishing', सेधनम् 'accomplishing'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200734,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words पुष्य and सिद्ध्य् are irregularly formed by the affix क्यप् , when used as names of asterisms."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200734,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "सिध्य-तारामिव ख्यातां (भट्टिकाव्यम् 6.59) — `पुण्य - सिध्यौ नक्षत्रे` इति निपातनात्।"
+    }
+  ]
+}

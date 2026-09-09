@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212769,
+    "chapter_id": 7793,
+    "verse_number": "९२",
+    "content_sanskrit": "श्वितेर्दश्च",
+    "padaccheda": "",
+    "anvaya": "आनच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212769,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शिश्विदानः पुण्यकर्मा ।"
+    }
+  ]
+}

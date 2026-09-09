@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216298,
+    "chapter_id": 7825,
+    "verse_number": "१०८",
+    "content_sanskrit": "व्यवस्थितविभषयाऽपि कार्याणि क्रियन्ते",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": "ननु वातायनार्थे गवाक्षेऽवङो वैकल्पिकत्वाद् 'गोक्ष' इत्याद्यपि स्यादत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216298,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लक्ष्यानुसाराद् व्यवस्था बोध्या । <<शाच्छोः>> [[7.4.41]] इति सूत्रे लटः शतृ' [[3.2.124]] इत्यादिसूत्रेषु च भाष्ये स्पष्टा ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213340,
+    "chapter_id": 7799,
+    "verse_number": "६",
+    "content_sanskrit": "मिन्यतः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213340,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मिप्रत्ययान्तो निप्रत्ययान्तश्च धातुः स्त्रियां स्यात् । भूमिः । ग्लानिः । "
+    }
+  ]
+}

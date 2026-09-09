@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210381,
+    "chapter_id": 7781,
+    "verse_number": "३८२",
+    "content_sanskrit": "वठ्",
+    "padaccheda": "वठँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "स्थौल्ये",
+    "meaning_english": "to become fat, to gain weight",
+    "audio_url": null,
+    "display_order": 382,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210381,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वण्ठते त्वेकचर्यायां स्थौल्ये शपि वठेदिति ' (श्लो.83) इति देवः ।"
+    }
+  ]
+}

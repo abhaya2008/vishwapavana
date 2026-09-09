@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201190,
+    "chapter_id": 7760,
+    "verse_number": "३.४.५८",
+    "content_sanskrit": "नाम्न्यादिशिग्रहोः",
+    "padaccheda": "नाम्नि । आदिशि-ग्रहोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६), द्वितीयायाम् (३.४.५३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201190,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "द्वितीयायामित्येव। नामशब्दे द्वितीयान्त उपपद आदिशेर्ग्रहेश्च धातोर्णमुल् प्रत्ययो भवति। नामादेशमाचष्टे। नामग्राहमाचष्टे॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201190,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "द्वितीयायामित्येव । नामादेशमाचष्टे । नामग्राहमाह्वयति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201190,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`आदिशेः` इति। `दिश अतिसर्जने` (धातुपाठः-1283)), आङ्पूर्वः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201190,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "आदिशेर्ग्रहेश्चेति । एतेनाङे दिशिनैव सम्बन्धः, न ग्रहिणेति दर्शयति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201190,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नामादेशमाचष्टे । नामग्राहमाह्वयति । नामान्यादेशम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201190,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verbs 1. आदिश् 2. ग्रह् 'to seize' when the word नामन् 'name' in the Accusative -2nd case is in composition.\nThus नामादेशमाचष्ठे 'he mentions it, telling his name'. नामग्राहं मामाहूयति 'he calls me by taking my name (i.e. by my name)'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201190,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verbs 1. आदिश् 2. ग्रह् 'to seize' when the word नामन् 'name' in the Accusative -2nd case is in composition."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201190,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अर्पितं रसितवत्यपि नामग्राहमन्ययुवतेर्दयितेन (शिशुपालवधम् 10.27) — `नान्या दिशिग्रहोः` इति णमुल् प्रत्ययः।\nनाम-ग्राममरोदीत्सा (भट्टिकाव्यम् 5.5) — `नाम्न्यादिशिग्रहो:` इति णमुल्।\nनाम-ग्राहं कपिभिरशनैः स्तूयमानः समन्ता- (भट्टिकाव्यम् 6.143) — `नान्या दिशि - ग्रहो:` इति णमुल्।"
+    }
+  ]
+}

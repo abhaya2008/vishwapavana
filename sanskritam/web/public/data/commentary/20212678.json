@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212678,
+    "chapter_id": 7793,
+    "verse_number": "१",
+    "content_sanskrit": "कृहृभ्यामेणुः",
+    "padaccheda": "",
+    "anvaya": "एणु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212678,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "करेणुः । हरेणुर्गन्धद्रव्यम् ।"
+    }
+  ]
+}

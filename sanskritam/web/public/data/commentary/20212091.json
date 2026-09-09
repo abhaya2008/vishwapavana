@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212091,
+    "chapter_id": 7790,
+    "verse_number": "३४२",
+    "content_sanskrit": "ईर्",
+    "padaccheda": "ईरँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षेपे",
+    "meaning_english": "to throw",
+    "audio_url": null,
+    "display_order": 342,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212091,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — प्रेरणा करना\nउद् — कहना, बोलना\nसम् — वायु के समान जाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212091,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ईरयतीरति, ईरेः क्षेपे विभाषा णौ लुकीर्ते गतिकम्पयोः ' (श्लो. 153) - देवः ।"
+    }
+  ]
+}

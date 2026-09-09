@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213514,
+    "chapter_id": 7799,
+    "verse_number": "१८०",
+    "content_sanskrit": "कबन्धौषधायुधान्ताः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 180,
+    "avatarnika": "पुंनपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213514,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् ।"
+    }
+  ]
+}

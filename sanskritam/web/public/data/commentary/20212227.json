@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212227,
+    "chapter_id": 7790,
+    "verse_number": "४७८",
+    "content_sanskrit": "व्यय",
+    "padaccheda": "व्यय",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वित्तसमुत्सर्गे",
+    "meaning_english": "to spend, to expense",
+    "audio_url": null,
+    "display_order": 478,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212227,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  अदन्तः । ' वित्तत्यागे व्यययति व्ययति व्ययते गतौ ' (श्लो. 150) इति देवः ।"
+    }
+  ]
+}

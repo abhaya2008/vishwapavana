@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20201096,
+    "chapter_id": 7759,
+    "verse_number": "३.३.१४०",
+    "content_sanskrit": "भूते च",
+    "padaccheda": "भूते । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 140,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), लिङ्निमित्ते (३.३.१३९), लृङ् (३.३.१३९), क्रियातिपत्तौ (३.३.१३९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201096,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "लिङ्निमित्ते लृङ्क्रियातिपत्ताविति सर्वमनुवर्तते। पूर्वेण भविष्यति विहितः, संप्रति भूते विधीयते। भूते च काले लिङ्निमित्ते क्रियातिपत्तौ सत्यां लृङ् प्रत्ययो भवति। <<उताप्योः०>> [[३.३.१५२]] इत्यारभ्य लिङ्निमित्तेषु विधानमेतत्। प्राक् ततो विकल्पं वक्ष्यति। दृष्टो मया भवत्पुत्रोऽन्नार्थी चङ्क्रम्यमाणः, अपरश्च द्विजो ब्राह्मणार्थी, यदि स तेन दृष्टोऽभविष्यत्, तदाभोक्ष्यत। न तु भुक्तवान्, अन्येन पथा स गतः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201096,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पूर्वसूत्रं संपूर्णमनुवर्तते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201096,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भूते च>> - भूते च । अधिकारोऽयम् । अनुवर्तते इति । तथा च लिङ्निमित्ते लृङ् क्रियातिपत्तौ भूत इति अधिक्रियते इति फलितमिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201096,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<भूते च>> - भूते च । लिङ्निमित्ते लृङ् स्याद्भूते भविष्यति च क्रियापत्तौ । अद्यतनाऽनद्यतनसाधारमं भूतसामान्यमिह ज्ञेयम् । अस्योदाहरणानि -॒उताप्योः समर्थयोर्लिङ् इत्यारभ्यसमानकर्तृकेषु तुमु॑न्निति विहाय सप्तसूत्र्यां बोध्यानि, ततः प्राचीनेषुवोताप्यो॑रित्यनेन विकल्पोक्तेः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201096,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`उताप्यरित्यारभ्य`इत्यादि। `उताप्योः समर्थययोः`  [[3.3.152]]  इत्येतत्प्रभृतिषु लिङ्निमित्तेषु ह्रेतल्लृङविधानम्। कुत एतदित्याह - `प्राक्` इत्यादि। यस्मात् प्राक् <<वोताप्योः>> [[3.3.141]]  इति वक्ष्यते, ततश्च पारिशेष्याद्भूते लिङो विधानं <<वोताप्योः>> [[3.3.141]]  इत्यादिष्वेवावतिष्ठते। `न तु भुक्तवान्` इत्यादि। क्रियातिपर्तिंत दर्शयति॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201096,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अन्नार्थी चङ्क्रम्यमाण इति । भोक्तुकामः क्षुधा कुटिलं गच्छन्नित्यर्थः । अपरश्च द्विजो ब्राह्मणार्थीति । चङ्क्रम्यमाणो दृष्ट इत्यनुषड्गः । ब्राह्मणार्थो भोक्तारं मार्गयमाण इत्यर्थः । सोऽपि संभ्रमात्कुटिलं गच्छति । ततः किमित्यत आह - यदीत्यादि । यदि दृष्टोऽभविष्यदिति क्वचित्पठ।ल्ते ततु'यदायद्योरुपसंख्यानम्'  इति यदिलिङ्निमितत्वात् लृङ्, किं तूतरसूत्रेण विकल्पितः । दृष्ट इत्येव तु पाठो युक्तः । न तु भुक्तवानिति । क्रियातिपतिं दर्शयति । तत्र हेतुः - अन्येन पथा स गत इति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201096,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "भूतेऽर्थे चैवं लृङ् स्यात् । लस्तिवादि स्यश्च प्राग्वत् । ङिल्लकारत्वाद् इलोपस्तामादिश्च । अट् । अभविष्यत् अभविष्यताम् अभविष्यन् । अभविष्यः अभविष्यतम् अभविष्यत । अभविष्यम् अभविष्याव अभविष्याम । तड्यपि लङ्वत् । अभविष्यत अभविष्येताम् अभविष्यन्त । अभविष्यथाः अभविष्येथाम् अभविष्यध्वम् । अभविष्ये अभविष्यावहि अभविष्यामहि । भावकर्मणोर्वा चिण्वदिट् । अभाविष्यत अभविष्यतेत्यादि तद्ववत् । युद्ध- चिन्तायां पाण्डवोक्तिः- <karika> कृष्णः परपक्षेऽसावभविष्यच्चेत् त एव चाजेष्यन् । पूर्वं द्यूते चासावभविष्यच्चेन्न भङ्गमैयाम ॥ ६७४ ॥ </karika> अत्र कृष्णस्य परपक्षे भवनं तेषां जये हेतुरेवेति हेतुहेतुमद्भावोऽस्ति । तस्य चास्मासु दयालुतया तथा न भविष्यतीत्येवं भविष्यदर्थे क्रियातिपत्तिः । भूतेऽर्थेऽपि । कृष्णस्य द्यूते भवनमस्मदभङ्गे हेतुः । स च तत्र नाभूत् । तस्माद् भङ्गो जातः । इति योज्यम् ॥ लृङ् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201096,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "भूते च (1125) (579 लृङ्विधिसूत्रम्॥ 3 । 3 । 2 आदृ 9) (5005 वार्तिकम्॥ 1 ॥) - भूते लृङुताप्यादिषु- (भाष्यम्) भूते लृङ् उताप्यादिषु द्रष्टव्यः। उताध्यैष्यत। अप्यध्यैष्यत॥ भूते॥ 140 ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201096,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And (where there is a reason for affixing लिङ् (Benedictive) , the affix ऌङ् (Conditional Future) is to be used, when the non-completion of the action is to be understood) if the sense is that of past time.\nThe whole of the last aphorism is understood in this. The last <i>sutra</i> enjoined लृङ् in the Future tense; this <i>sutra</i> ordains it in the Past, the Conditional tense having both these significations. The reasons for affixing लिङ् are given in <i>sutras</i> [[3.3.152]] and those that follow it. In <i>sutra</i> [[3.3.141]] and those that follow, as far as [[3.3.152]], optional rules for the employment of the Conditional tense will be given. Thus:- दृष्टो मया भवत्पुत्रोऽन्नार्थी चङ्क्रम्यमाणः अपरश्च द्विजो ब्राह्मणार्थी, यदि स तेन दृष्टोऽभविष्यत्, तदाऽभोक्ष्यत, न तु भुक्तवान्, अन्येन पथा स गतः । 'I saw your son, wandering about in search of food, I saw also a twice-born in search of a <i>Brahmana</i>(whom he would feast); if he (your son) had been seen by him (the twice-born), then he would have been fed; but as a matter of fact, he has not been fed, he went by a different road'.\n\nThe conditional sentence यदि स तेन दृष्टोऽभविष्यत् तदाऽभोक्ष्यत is employed under circumstances set out above. It refers to a past time, there is the relation of cause and effect existing, one being in search of food, and another in search of a guest to feed; and the action is not completed; both taking different roads, did not come across each other."
+    },
+    {
+      "id": 10,
+      "verse_id": 20201096,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And (where there is a reason for affixing लिङ् (Benedictive) , the affix ऌङ् (Conditional Future) is to be used, when the non-completion of the action is to be understood) if the sense is that of past time."
+    }
+  ]
+}

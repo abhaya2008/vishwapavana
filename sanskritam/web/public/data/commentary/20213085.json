@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213085,
+    "chapter_id": 7795,
+    "verse_number": "१२५",
+    "content_sanskrit": "नहो भश्च",
+    "padaccheda": "",
+    "anvaya": "इञ्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213085,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नाभिः स्यात्क्षत्रिये पुंसि । प्राण्यङ्गे तु स्त्रियाम् । पुंस्यपीति केचित् ।"
+    }
+  ]
+}

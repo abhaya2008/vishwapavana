@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213370,
+    "chapter_id": 7799,
+    "verse_number": "३६",
+    "content_sanskrit": "घञबन्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213370,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पाकः । त्यागः । करः । गरः । भावार्थे एवेदम् । नपुंसकत्वविशिष्टे भावे क्तल्युड्भ्यां स्त्रीत्वविशिष्टे तु क्तिन्नाडिभिर्बाधेन परिशेषात् । कर्मादौ तु घञाद्यन्तमपि विशेष्यलिङ्गम् । तथा च भाष्यम् । सम्बन्धमनुवर्तिष्यत इति ।"
+    }
+  ]
+}

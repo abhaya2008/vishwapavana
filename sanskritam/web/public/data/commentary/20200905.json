@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200905,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१३७",
+    "content_sanskrit": "णेश्छन्दसि",
+    "padaccheda": "णेः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 137,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), इष्णुच् (३.२.१३६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200905,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ण्यन्ताद् धातोश्छन्दसि विषये तच्छीलादिषु कर्तृषु इष्णुच् प्रत्ययो भवति। दृषदं धारयिष्णवः(शा०आ० १२.२)। वी॒रुधः॑ पारयि॒ष्णवः॑ (ऋ० १०.९७.३)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200905,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वीरुधः पारयिष्णवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200905,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<णेश्छन्दसि>> - णेश्छन्दसि । ण्यन्ताद्धातोरिष्णुच् स्याच्छन्दसीत्यर्थ- । पारयिष्णव इति । पृधातोण्र्यनतादिष्णुचि णेर्लोपं बाधित्वाअयमन्ताल्वाय्ये॑त्यय् । इदं सूत्रं वैदिकप्रक्रियायामेव व्याख्यातुमुचितम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200905,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<णेश्छन्दसि>> - पारयिष्णव इति ।अयामन्ते॑ति णेरय् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200905,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`धारयिष्णवः, पारयिष्णवः`इति। `धृङ अवस्थाने` (धातुपाठः-1412), `पृ पालनपूरणयोः (धातुपाठः-1086); हेतुमण्णिच्, `अयामन्त` [[6.4.55]]  इत्यादिनायादेशः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200905,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "णेश्च्छन्दसि॥ पारयिष्णव इति। ठयामन्ताल्वाय्येत्न्विष्णुषुऽ इत्ययादेशः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200905,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ण्यन्तात् तच्छीलाद्यर्थे इष्णुच् स्यात् । 'अयामन्त' (३-४-५५) इति अयादेशः । धरुणं¹ धारयिष्णु ।<!दंशेश्च्छन्दसि कस्नु*र्वाच्यः!> (वा ३-२-१३८) । छान्दसत्वान्नलोपाभावः । छशां षः । षढोः कः । दंष्णुः ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200905,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इष्णुच् in the sense of 'the agent having such a habit etc.' comes in the छन्दस् (Vedas) after the verb that ends in the causative णि।\nThe Causatives take this affix in the Vedic literature. As दृषदं धारयिष्णवः 'who hold the stones'; वीरुधः पारयिष्णवः ।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200905,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इष्णुच् in the sense of 'the agent having such a habit etc.' comes in the छन्दस् (Vedas) after the verb that ends in the causative णि।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210984,
+    "chapter_id": 7781,
+    "verse_number": "९८५",
+    "content_sanskrit": "भ्रम्",
+    "padaccheda": "भ्रमुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "चलने",
+    "meaning_english": "to walk, to wander, to roam",
+    "audio_url": null,
+    "display_order": 985,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210984,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चलने भ्रमति भ्रम्येच्छमादेर्भ्राम्यति भ्रमेत् ' (श्लो. 147) - देवः । ' मण्डलाकारेण चलनमेव धात्वर्थः , न तु चलनमात्रम् ' इति तत्त्वबोधिनी ।"
+    }
+  ]
+}

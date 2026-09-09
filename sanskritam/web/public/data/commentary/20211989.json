@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211989,
+    "chapter_id": 7790,
+    "verse_number": "२४०",
+    "content_sanskrit": "कण्",
+    "padaccheda": "कणँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "निमीलने",
+    "meaning_english": "to wink",
+    "audio_url": null,
+    "display_order": 240,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211989,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' एकनेत्रनिमीलने एव अयं प्रसिद्धः स्वभावात् ' इति तत्त्वबोधिनी । ' कणेः कणति शब्दार्थे काणयेर्णौ निमीलने ' (श्लो. 90) - देवः ।"
+    }
+  ]
+}

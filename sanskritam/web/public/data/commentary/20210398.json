@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210398,
+    "chapter_id": 7781,
+    "verse_number": "३९९",
+    "content_sanskrit": "शुण्ठ्",
+    "padaccheda": "शुठिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शोषणे",
+    "meaning_english": "to dry,to become dry",
+    "audio_url": null,
+    "display_order": 399,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210398,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शुण्ठयेत् शुण्ठतीत्येवं शोषणे णौ शपि क्रमात् ' (श्लो. 80 ) इति देवः ।"
+    }
+  ]
+}

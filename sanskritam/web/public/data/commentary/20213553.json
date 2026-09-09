@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213553,
+    "chapter_id": 7801,
+    "verse_number": "७",
+    "content_sanskrit": "प्राणिनां कुपूर्वम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213553,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कवर्गात्पूर्वः आदिरुदात्तः । काकः । वृकः । शुके॑षु मे । प्राणिनाम् किम् ? क्षी॒रं स॒र्पिर्मधू॑द॒कम् । कुपूर्वाद् किम् ? धनुः ॥"
+    }
+  ]
+}

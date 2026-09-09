@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212979,
+    "chapter_id": 7795,
+    "verse_number": "१९",
+    "content_sanskrit": "शॄपॄवृञां द्वेरुक् चाभ्यासश्च",
+    "padaccheda": "",
+    "anvaya": "ईकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212979,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शर्करीको हिंस्रः । पर्परीको दिवाकरः । वर्वरीकः कुटिलकेशः ।"
+    }
+  ]
+}

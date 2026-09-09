@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200995,
+    "chapter_id": 7759,
+    "verse_number": "३.३.३९",
+    "content_sanskrit": "व्युपयोः शेतेः पर्याये",
+    "padaccheda": "वि-उपयोः । शेतेः । पर्याये",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200995,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वि उप इत्येतयोरुपपदयोः शेतेर्धातोर्घञ् भवति पर्याये गम्यमाने। तव विशायः। मम विशायः। तव राजोपशायः। तव राजानमुपशयितुं पर्याय इत्यर्थः। पर्याय इति किम्? विशयः। उपशयः।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200995,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "तव विशायः । तव राजोपशायः । पर्याये किम् । विशयः संशयः । उपशयः समीपशयनम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200995,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "पर्यायोऽनुपात्यय एव,तत्रानुपात्ययग्रहणानुवृत्त्यैव सिद्धे पर्यायग्रहणं बाधकबाधनार्थम्। अभिविधिविवक्षायां परिमाणमपि बाधित्वा घञेव यथा स्यात्। एवञ्चार्थे शब्दाधिक्यादर्थाधिक्यं भवतीति लभ्यते, न तु पर्यायशब्दोऽस्यार्थस्य वाचकः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200995,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पूर्वसूत्रेणानुपात्यये पर्यायशब्दो व्युत्पादितः, ततश्चानुपात्यय इत्यधिकारेणैव सिद्धे पर्यायग्रहणं पुनर्विधानार्थम् । तेनाभिविधिविवक्षायां परमपीनुणं बाधित्वाऽयमेव घञ् भवति । राजानमुपशयितुं पर्याय इत्यर्थ इति ।'कालसमयवेलासु तुमुन्'  इत्यत्र कालेऽत्यर्थग्रहणम् । पर्यायोपादानं तु प्रपञ्चार्थम्, यथा -'निमितकारणहेतुषु सर्वासां प्रायदर्शनम्'  इति । तेन पर्यायशब्दयोगेऽपि तुमुन् भवति । तथा चावसरो भोक्तुम्, अवकाशो भोक्तुमित्याद्यपि दृश्यते । विशयःउ संशयः, उपशयःउसमीपशयनम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200995,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "व्युपपूर्वाच्छेतेः पर्याये द्योत्ये घञ् । पर्यायेण शयनं विशायः । उपशायः ।।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200995,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the root सी 'to lie down' when the prepositions वि and उप are in composition with it and when the sense of the word so formed is that of 'regular succession'.\nAs, तव विशायः 'thy turn of sleeping' (i.e. the rest enjoyed in rotation by the sentinels on watch); मम विशायः 'my turn of rest'; तव राजोपशायः राजानमुपशयितुम्पर्यायः 'thy turn of sleeping the king'.\n\nWhy do we say 'regular succession'? Observe उपशयः 'lying by the side of or ambush'; विशयः 'doubt'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200995,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the root सी 'to lie down' when the prepositions वि and उप are in composition with it and when the sense of the word so formed is that of 'regular succession'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200995,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "निशोपशायः कर्तव्यः फलोच्चायश्च संहतैः (भट्टिकाव्यम् 7.41) — `व्युपयोः शेतेः पर्याये` इति घन् ।"
+    }
+  ]
+}

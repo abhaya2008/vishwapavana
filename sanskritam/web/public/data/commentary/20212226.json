@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212226,
+    "chapter_id": 7790,
+    "verse_number": "४७७",
+    "content_sanskrit": "रस",
+    "padaccheda": "रस",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आस्वादनस्नेहनयोः",
+    "meaning_english": "to tastem to love, to have affection",
+    "audio_url": null,
+    "display_order": 477,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212226,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  अदन्तः । ' शब्दे शपि रसेत् स्नेहास्वादयो रसायेद्रसेः ' (श्लो. 193) इति देवः ।"
+    }
+  ]
+}

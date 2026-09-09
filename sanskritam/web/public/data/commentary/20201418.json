@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201418,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१६९",
+    "content_sanskrit": "साल्वेयगान्धारिभ्यां च",
+    "padaccheda": "साल्वेय-गान्धारिभ्याम् । च",
+    "anvaya": "तस्य अपत्यम् (इति) क्षत्रियात् जनपदशब्दात् साल्वेय-गान्धारिभ्यामञ् च",
+    "meaning_sanskrit": "'साल्वेय' तथा 'गान्धार' एतौ क्षत्रियवाचिनौ शब्दौ यदि जनपदस्य नामरूपेण अपि प्रयुज्येते, तर्हि  ताभ्याम्  'तस्य अपत्यम्' अस्मिन् अर्थे अञ्-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 169,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.१.९२), अपत्यम् (४.१.९२), जनपद-शब्दात् (४.१.१६८), क्षत्रियात् (४.१.१६८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201418,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "साल्वेयगान्धारिशब्दाभ्यामपत्येऽञ् प्रत्ययो भवति। जनपदशब्दावेतौ क्षत्रियाभि — धायिनौ ताभ्यामञपवादे वृद्धादिति ञ्यङि प्राप्ते पुनरञ् विधीयते। साल्वेयः। गान्धारः। तस्य राजनीत्येव — साल्वेयो राजा। गान्धारो राजा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201418,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आभ्यामपत्येऽञ् । वृद्धेत्-<{SK1189}> इति ञ्यङोऽपवादः । साल्वेयः । गान्धारः । तस्य राजन्यप्येवम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201418,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<साल्वेयगान्धारिभ्यां च>> - साल्वेय । ननु साल्वेयगान्धारिशब्दावव्युत्पन्नौ देशक्षत्रियोभयवाचिनौ, ताभ्यां जनपदशब्दादिञि सिद्धे किमर्थमिदमित्यत आह — ञ्यङोऽपवाद इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201418,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<साल्वेयगान्धारिभ्यां च>> - बृद्धेत् । तपरकरणं किम् । कौमारः । कुमारीशब्दो हि जनपदक्षत्रियवचनः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201418,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अञ् स्यात् । साल्वेयः । गान्धारः । अपत्यं च राजा चैवम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201418,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अञ् comes in the sense of descendant after the words 1. साल्वेय and 2. गान्धारि ।\nBoth these are names of countries and denote also <i>Kshatriyas</i> as well. Therefore, by <i>sutra</i> [[4.1.171]] they having a <i>Vriddhi</i> in the first syllable, would have taken the affix 'nyan', the present <i>sutra</i> enjoins 'an' instead. Thus साल्वेयः 'the son of <i>Salveya</i>, or the king of <i>Salveya</i>', गान्धारः 'the son of <i>Gandhari</i> or the king of <i>Gandhari</i>?'  The <i>vartika</i> under <i>Sutra</i> [[4.1.168]] given above applies here also, i.e. the affix denotes also 'the king there of'"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201418,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अञ् comes in the sense of descendant after the words 1. साल्वेय and 2. गान्धारि ।"
+    }
+  ]
+}

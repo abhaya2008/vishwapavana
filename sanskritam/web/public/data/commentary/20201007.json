@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201007,
+    "chapter_id": 7759,
+    "verse_number": "३.३.५१",
+    "content_sanskrit": "अवे ग्रहो वर्षप्रतिबन्धे",
+    "padaccheda": "अवे । ग्रहः । वर्षप्रतिबन्धे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६), विभाषा (३.३.५०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201007,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "विभाषेति वर्तते। अव उपपदे ग्रहेर्धातोर्घञ् प्रत्ययो भवति विभाषा वर्षप्रतिबन्धेऽभिधेये। प्राप्तकालस्य वर्षस्य कुतश्चिन्निमित्तादभावो वर्षप्रतिबन्धः। अवग्राहो देवस्य, अवग्रहो देवस्य। वर्षप्रतिबन्ध इति किम्? अवग्रहः पदस्य॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201007,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "विभाषेति वर्तते । अवग्रहः । अवग्राहः । वर्षप्रतिबन्धे किम् । अवग्रहः पदस्य ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201007,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`ग्रहवृदृ`  [[3.3.58]]  इत्यादिनापि प्राप्ते तदपवादः, पक्षे घञभिधीयते। `कुतश्चिन्निमित्तात्` इति। सत्त्वकर्मापराधाधिकारात्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201007,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कुतश्चिन्निमितादिति ।'सत्वकर्मापराधादेरनावृष्टिर्भवेन्नृणाम्' । सत्वशब्दः प्राणिवचनः, कर्मापराधःउकर्मविषयो दोषः, विहितानाचरणप्रतिषिद्धाचरणनिमितं पापं सत्वकर्मापराधः । आदिशब्देन'तयोर्मध्यगतो भानुः समुद्रमपि शोषयेत्'  इत्यादेर्ग्रहणम् । अवग्राहो देवस्येति । देवकर्तृको वर्षाभाव इत्यर्थः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201007,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अवग्रहेर्वर्षाभावेऽर्थे वा घञ् । अवग्राहः । अवग्रहः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201007,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् is optionally used after the root ग्रह् 'to seize' when the word अव is in composition, the sense being 'withholding the rain'.\nThe word 'optionally' is understood here. The word वर्षप्रतिबन्ध means the absence of rain, from some cause or another, when the season has arrived; as अवग्राहः or अवग्रहो देवस्य 'the draught of rain'.\n\nWhy do we say 'when meaning obstruction of rain'? Observe अवग्रहः पदस्य ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201007,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् is optionally used after the root ग्रह् 'to seize' when the word अव is in composition, the sense being 'withholding the rain'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201007,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अवग्राहे यथा वृष्टिं (भट्टिकाव्यम् 7.48) — `अवे ग्रहः` इति पक्षे अप्।"
+    }
+  ]
+}

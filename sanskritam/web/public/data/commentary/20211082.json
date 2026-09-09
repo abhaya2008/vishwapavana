@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211082,
+    "chapter_id": 7781,
+    "verse_number": "१०८३",
+    "content_sanskrit": "वृ",
+    "padaccheda": "वृ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "संवरणे",
+    "meaning_english": "to cover,to surround, to conceal",
+    "audio_url": null,
+    "display_order": 1083,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211082,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "क्वचित्तु ' ह् वृ ' इति पाठः । तत्त्वबोधि बोधिनीयुक्तयां कौमुद्याम् अयं पाठः । बालमनोरमायुक्तायां तु ' ह् वृ ' इत्येव दृश्यते । क्षीरतरङ्गिणीटिप्पण्यां ' वृ ' इत्यस्य पाठस्य युक्तता दर्श्यते । ' द् वृ ' इति क्वचित् पाठः । ' द् वृ वर ' इति क्वचित् पठ्यते ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

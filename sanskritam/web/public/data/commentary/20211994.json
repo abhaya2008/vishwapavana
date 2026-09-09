@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211994,
+    "chapter_id": 7790,
+    "verse_number": "२४५",
+    "content_sanskrit": "अम्",
+    "padaccheda": "अमँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "रोगे",
+    "meaning_english": "to be ill,to be sick, to have stomach ache",
+    "audio_url": null,
+    "display_order": 245,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211994,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "गत्यादावमतीति स्याद्रोगे स्यादामयत्यमे: ' (श्लो. 147) इति देवः ।"
+    }
+  ]
+}

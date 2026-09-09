@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213119,
+    "chapter_id": 7795,
+    "verse_number": "१५९",
+    "content_sanskrit": "भ्रस्जिगमिनमिहनिविश्यशां वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "ष्ट्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 159,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213119,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भ्राष्ट्रः । गात्रं शकटम् । नान्त्रं स्तोत्रम् । हान्त्रं मरणम् । वैष्ट्रं विष्टपम् । आष्ट्रमाकाशम् ।"
+    }
+  ]
+}

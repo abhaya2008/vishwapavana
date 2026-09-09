@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201542,
+    "chapter_id": 7762,
+    "verse_number": "४.२.११५",
+    "content_sanskrit": "भवतष्ठक्छसौ",
+    "padaccheda": "भवतः । ठक्-छसौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": "अनुवृत्तिः — वृद्धात् (४.२.११४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201542,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वृद्धादित्येव। भवच्छब्दाद् वृद्धात् ठक्छसित्येतौ प्रत्ययौ भवतः शैषिकौ। छस्यापवादौ। सकारः पदसंज्ञार्थः। भवतस्त्यदादित्वाद् वृद्धसंज्ञा। भावत्कः। भवदीयः। अवृद्धात् तु भवतः शतुरणेव भवति। भावतः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201542,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वृद्धाद्भवत एतौ स्तः । भावत्कः । जश्त्वम् । भवदीयः । वृद्धादित्यनुवृत्तेः शत्रन्तादणेव । भावतः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201542,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`सकारः पदसंज्ञार्थः` इति। `सिति च`  [[1.4.16]]  इति पदसंज्ञा यथा स्यात्। तस्याञ्च सत्यां भवदीयमदित्यत्र <<झलां जशोऽन्ते>> [[8.2.39]]  इति जश्त्वं भवति। `भावत्कः` इति। `इशुसुक्तान्तात् कः` [[7.3.51]] । `अवृद्धात्तु भवतः` इति। शत्रन्तादिति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201542,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ठक्च्छस् इत्येताविति । सित्करणादवसीयते - च्छसोऽयं निर्देशः, न शस इति, शसि हि स्वादिपदत्वेनैव सिद्धम् । सकारः पदसंज्ञार्थ इति । तेन भवदीय इत्यत्र जश्त्वं भवति । भावत्क इति । ठिसुसुक्तान्तात्कःऽ प्रक्रियालाघवार्थं ककि विधातव्ये ठग्विधानं स्त्रियां ङीबर्थम् - भावत्की । अवृद्धातु भवतीति । शत्रन्तात् । क्वचितु भवतः शतुरित्येव पाठः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201542,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "त्यदादिगतस्य भवच्छब्दस्यैतौ स्तः । तान्तत्वाट्टस्य कः । भावत्कः । 'सिति च' (१-४-१६) इति पदत्वाज्जश् । भवदीयम् । 'अत्र स्त्रियां पुंवत्त्वं वाच्यम् ।' भवत्या इदं भावत्कम् । भवदीयम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201542,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes ठक् and छस् come after वृद्ध word भवत् , in the remaining senses.\nThe word भवत् is a <i>Vriddha</i> word because it belongs to <i>tyadadi</i> class [[1.1.74]]. This rule debars छ of the last aphorism. In the affix, छस्, the final स् is indicatory, showing that the word भवत् before this affix gets the designation of <i>Pada</i> पद [[1.4.16]]. Thus भवत् + ठक् = भावत्कः;  भवत् + छस् = भवतीयः ॥\n\nBut when the word भवत् is not treated as <i>Vriddha</i>, then it takes the general affix अण्; as भावतः ॥ This is the case when भवत् is derived by affixing शतृ to भू ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201542,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes ठक् and छस् come after वृद्ध word भवत् , in the remaining senses."
+    }
+  ]
+}

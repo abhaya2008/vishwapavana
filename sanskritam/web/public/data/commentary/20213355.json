@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213355,
+    "chapter_id": 7799,
+    "verse_number": "२१",
+    "content_sanskrit": "स्थूणोर्णे नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213355,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते स्त्रियां क्लीबे च स्तः । स्थूणा । स्थूणम् । ऊर्णा । ऊर्णम् । तत्र स्थूणा काष्ठमयी द्विकर्णिका । ऊर्णा तु मेषादिलोम । "
+    }
+  ]
+}

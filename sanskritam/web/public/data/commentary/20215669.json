@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215669,
+    "chapter_id": 7807,
+    "verse_number": "६२",
+    "content_sanskrit": "किं पुनरनेन वर्ण्येन । किं न महता कण्ठेन नित्यशब्द एवोपात्तः, यस्मिन्नुपादीयमानेऽसंदेहः स्यात् ?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": "शास्त्रस्य धर्मजनकताधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215669,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "<x> वर्ण्येनेति </x>। प्रयत्नव्याख्यातव्येनेत्यर्थः ॥"
+    }
+  ]
+}

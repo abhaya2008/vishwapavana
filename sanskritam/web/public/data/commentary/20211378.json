@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211378,
+    "chapter_id": 7784,
+    "verse_number": "११०",
+    "content_sanskrit": "दस्",
+    "padaccheda": "दसुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "उपक्षये",
+    "meaning_english": "to throw, to bounce, to fly away",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211378,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " उपतापे ' इति दशपाद्युणादिवृत्तौ पाठः । ' दंसयेन्मोक्षणे , दस्येत् क्षये , दंसयते णिचि । दंशदर्शनयोः , दासेर्दाने दासति दासते ' (श्लो. 186 - 188) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201147,
+    "chapter_id": 7760,
+    "verse_number": "३.४.१५",
+    "content_sanskrit": "अवचक्षे च",
+    "padaccheda": "अवचक्षे । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), छन्दसि (३.४.६), कृत्यार्थे (३.४.१४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201147,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कृत्यार्थे छन्दसीत्येव। अवपूर्वाच् चक्षिङ एश् प्रत्ययो निपात्यते। रि॒पुणा॒ नाव॒चक्षे॑ (मा०सं० १७.९३)। नावख्यातव्यमित्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201147,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "रिपुणा नावचक्षे (रि॒पुणा॒ नाव॒चक्षे॑) । अवख्यातव्यमित्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201147,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`एश्प्रत्ययो निपात्यते` इति। शित्करणं सार्वधातुकसंज्ञार्थम्। तेनार्धधातुके विधीयमानः सार्वधातुके `चक्षिङ ख्याञ्`  [[2.4.54]]  इति ख्याञादेशो न भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201147,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "एश्प्रत्यय इति । शित्करणं सार्वधातुकत्वार्थम्, तेन चक्षिङ्ः ख्याञ् न भवति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201147,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एतत्कृत्यार्थे स्यात् । रिपुणा नावचक्षे ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201147,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word of अवचक्षे is an anomalous passive participle in the छन्दस् (Vedas).\nThus रिपुणा नावचक्षे (<i>Rig</i>. IV. 58.5)=नावख्यातव्यम् । अव + चक्ष् + एश् = अवचक्षे । The <i>sutra</i> [[2.4.54]] is not applied here."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201147,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word of अवचक्षे is an anomalous passive participle in the छन्दस् (Vedas)."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201147,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "विद्युत्-प्रणाशं स वरं प्रनष्टो (भट्टिकाव्यम् 3.14) — `उपमाने कर्मणि च` इति चकारात् कर्तृवाचिनि विद्युच्छब्द उपपदे णमुल्।"
+    }
+  ]
+}

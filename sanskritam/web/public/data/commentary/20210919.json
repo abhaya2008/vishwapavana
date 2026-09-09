@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210919,
+    "chapter_id": 7781,
+    "verse_number": "९२०",
+    "content_sanskrit": "दॄ",
+    "padaccheda": "दॄ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भये",
+    "meaning_english": "to be afraid",
+    "audio_url": null,
+    "display_order": 920,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210919,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दृ विदारणे इति क्र्यादेरयं मित्त्वार्थेनुवादः । धात्वन्तरमेवेदमिति मते तु ' दरति ' इत्यादि । केचित् घटादौ ' अत्स्मृदृत्वर... ' इति सूत्रे च ' दृ ' इति दीर्घस्थाने ह्रस्वं पठन्ति । तन्नेति माधवः ' इति सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

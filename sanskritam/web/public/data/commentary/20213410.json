@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213410,
+    "chapter_id": 7799,
+    "verse_number": "७६",
+    "content_sanskrit": "मानयानाभिधाननलिनपुलिनोद्यानशयनासनस्थानचन्दनासमानभवनवसनसंभावनविभावनविमानानि नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213410,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्पुंसि । अयं मानः । इदं मानम् ।"
+    }
+  ]
+}

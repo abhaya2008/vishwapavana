@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212053,
+    "chapter_id": 7790,
+    "verse_number": "३०४",
+    "content_sanskrit": "विच्छ्",
+    "padaccheda": "विछँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 304,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212053,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णौ विच्छयति भाषार्थे गतौ विच्छायतीति शे ' (श्लो.56) - देवः ।"
+    }
+  ]
+}

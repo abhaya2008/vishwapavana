@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212063,
+    "chapter_id": 7790,
+    "verse_number": "३१४",
+    "content_sanskrit": "रुट्",
+    "padaccheda": "रुटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 314,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212063,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ... रोटयतीति णौ ' (श्लो. 74) - देवः ।"
+    }
+  ]
+}

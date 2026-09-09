@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213032,
+    "chapter_id": 7795,
+    "verse_number": "७२",
+    "content_sanskrit": "वेञो डिच्च",
+    "padaccheda": "",
+    "anvaya": "ईचि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213032,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वीचिस्तरङ्गः । नञ्समासे अवीचिर्नरकभेदः ।"
+    }
+  ]
+}

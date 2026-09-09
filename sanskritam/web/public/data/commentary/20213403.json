@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213403,
+    "chapter_id": 7799,
+    "verse_number": "६९",
+    "content_sanskrit": "कार्षापणस्वर्णसुवर्णव्रणचरणवृषणविषाणचूर्णतृणानि नपुंसकेच",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213403,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्पुंसि ।"
+    }
+  ]
+}

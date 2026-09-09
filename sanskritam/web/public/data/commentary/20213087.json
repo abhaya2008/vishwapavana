@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213087,
+    "chapter_id": 7795,
+    "verse_number": "१२७",
+    "content_sanskrit": "श्रः शकुनौ",
+    "padaccheda": "",
+    "anvaya": "इञ्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213087,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शारिः । शारिका ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212231,
+    "chapter_id": 7790,
+    "verse_number": "४८२",
+    "content_sanskrit": "लाभ",
+    "padaccheda": "लाभ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to inspire",
+    "audio_url": null,
+    "display_order": 482,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212231,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।  ' प्रेरणे लाभयेल्लाभे प्राप्यर्थे लभते शपि ' (श्लो. 146) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202719,
+    "chapter_id": 7770,
+    "verse_number": "६.२.५७",
+    "content_sanskrit": "कतरकतमौ कर्मधारये",
+    "padaccheda": "कतर-कतमौ । कर्मधारये",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), अन्यतरस्याम् (६.२.५४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202719,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कतरशब्दः कतमशब्दश्च पूर्वपदं कर्मधारये समासेऽन्यतरस्यां प्रकृतिस्वरं भवति। क॒त॒रक॑ठः क॒त॒र॒क॒ठः। क॒त॒मक॑ठः, क॒त॒म॒क॒ठः। कर्मधारयग्रहणमुत्तरार्थम्, इह तु प्रतिपदोक्तत्वादेव सिद्धम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202719,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वा प्रकृत्या । कतरकठः । कर्मधारयग्रहणमुत्तरार्थम् । इह तु प्रतिपदोक्तत्वादेव सिद्धम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202719,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`किंयत्तदो निर्धारणे द्वयोरेकस्य डतरच्`  [[5.3.92]]  `वा बूनां जातिपरिप्रश्ने डतमच्`  [[5.3.93]]  इति कतरकतमशब्दौ व्युत्पाद्येते, तेन तौ चित्स्वरेणान्तोदात्तौ। `कतरकठः` इति। <<कतरकतमौ जातिपरिप्रश्ने>> [[2.1.63]]  इति समानाधिकरणसमासः। एतदर्थमपि कर्मधारयग्रहणं कस्मान्न भवति? इत्याह -`इह तु` इत्यादि। कतरकतमशब्दयोर्हि यः प्रतिपदसमासः स एव लक्षणप्रतिपदोक्तपरिभाषया (व्या।प।3) विज्ञायते। स च कर्मधारय एव। तस्मात्? प्रतिपदोक्तत्वादेवैतत्समासस्य कर्मधारयत्वम्। तस्मन्नैतदर्थं कर्मधारयग्रहणमुपपद्यते॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202719,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एते प्राक्पदे कर्मधारये वा प्रकृत्या स्तः । कतराश्वः । कतमाश्वः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202719,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words कतर and कतम when as first member of a compound optionally retain their original accent in a कर्मधारय समास।\nThus कतर꣡कठः or कतरकठः꣡, कतम꣡कठः or कतमकठः꣡ ॥ The word <i>Karmadharaya</i> is used for the sake of the next <i>sutra</i>, this <i>sutra</i> could have done without it, as '<i>katara</i>' and '<i>katama</i>' by the maxim of <i>pratipadokta</i>, form only <i>Karmadharaya</i> compound by [[2.1.63]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202719,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words कतर and कतम when as first member of a compound optionally retain their original accent in a कर्मधारय समास।"
+    }
+  ]
+}

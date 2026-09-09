@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211120,
+    "chapter_id": 7781,
+    "verse_number": "११२१",
+    "content_sanskrit": "पू",
+    "padaccheda": "पूङ्",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "पवने",
+    "meaning_english": "to purify, to cleanse",
+    "audio_url": null,
+    "display_order": 1121,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211120,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पवनम् = शोधनम् । ' श्नि पुनाति पुनीते स्ताम् पवने पवते ङितः ' (श्लो. 27) इति देवः ।"
+    }
+  ]
+}

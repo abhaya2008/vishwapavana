@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211516,
+    "chapter_id": 7786,
+    "verse_number": "४७",
+    "content_sanskrit": "शुम्भ्",
+    "padaccheda": "शुन्भँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "शोभायाम्",
+    "meaning_english": "to shine, to look beautiful",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211516,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसायां च द्रुमे ' इति धा.का. व्याख्या (2-75) । ' दीप्तौ हिंसने च ' इति वोपदेवः ।"
+    }
+  ]
+}

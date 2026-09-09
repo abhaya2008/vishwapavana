@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211410,
+    "chapter_id": 7784,
+    "verse_number": "१४२",
+    "content_sanskrit": "हृष्",
+    "padaccheda": "हृषँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "तुष्टौ",
+    "meaning_english": "to be delighted , to rejoice , to be happy, to fill with pleasure",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211410,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ... कमतोलीके तुष्टौ हर्षति हृष्यति ' (श्लो. 176) इति देवः ।"
+    }
+  ]
+}

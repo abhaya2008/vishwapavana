@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212459,
+    "chapter_id": 7791,
+    "verse_number": "२०१",
+    "content_sanskrit": "आदि । मध्य । अन्त । पृष्ठ । पार्श्व ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 201,
+    "avatarnika": "आद्यादिः (5.4.44)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212459,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "आद्यादिभ्य उपसंख्यानम्"
+    }
+  ]
+}

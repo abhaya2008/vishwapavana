@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211673,
+    "chapter_id": 7788,
+    "verse_number": "५",
+    "content_sanskrit": "ऋण्",
+    "padaccheda": "ऋणुँ",
+    "anvaya": "U-पदी, गणः 8",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211673,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयमपि तवर्गीयान्तोपदेशः । लाक्षणिकं णत्वम् ।"
+    }
+  ]
+}

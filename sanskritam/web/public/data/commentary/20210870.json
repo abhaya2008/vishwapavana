@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210870,
+    "chapter_id": 7781,
+    "verse_number": "८७१",
+    "content_sanskrit": "म्रद्",
+    "padaccheda": "म्रदँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "मर्दने",
+    "meaning_english": "to crush,to grind",
+    "audio_url": null,
+    "display_order": 871,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210870,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मृद ' इति बालमनोरमा । स च ' अत्स्मृदुत्वरप्रथम्रद..' (7.4.95) इति सूत्रे म्रद इत्यनेन अस्यैव ग्रहणस्य सर्वैरप्युक्तत्वात् चिन्त्यः ।"
+    }
+  ]
+}

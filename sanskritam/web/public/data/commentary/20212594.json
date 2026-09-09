@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212594,
+    "chapter_id": 7792,
+    "verse_number": "७४",
+    "content_sanskrit": "आप्नोतेर्ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "तु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212594,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अप्तुः शरीरम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213133,
+    "chapter_id": 7795,
+    "verse_number": "१७३",
+    "content_sanskrit": "अमेर्द्विषति चित्",
+    "padaccheda": "",
+    "anvaya": "इत्र",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 173,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213133,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अमित्रः शत्रुः ।"
+    }
+  ]
+}

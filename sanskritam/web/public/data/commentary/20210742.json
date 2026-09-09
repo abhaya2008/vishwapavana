@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210742,
+    "chapter_id": 7781,
+    "verse_number": "७४३",
+    "content_sanskrit": "तक्ष्",
+    "padaccheda": "तक्षूँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "तनूकरणे",
+    "meaning_english": "to sharpen, to peel off",
+    "audio_url": null,
+    "display_order": 743,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210742,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — धार लगाना\nसम् — टुकड़े करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210742,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' तनूकरणम् - स्थूलस्य काष्ठादेः कतिपयावयवापनयनेन सूक्ष्मकरणम् ' इति बालमनोरमा । ' स्यात् तक्षतीति त्वचनेथ वा श्नौ तक्ष्णोति तक्षेच्च तनूक्रियायाम् ' ( श्लो. 183) इति देवः ।"
+    }
+  ]
+}

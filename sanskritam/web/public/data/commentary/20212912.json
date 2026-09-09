@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212912,
+    "chapter_id": 7794,
+    "verse_number": "११२",
+    "content_sanskrit": "खलतिः",
+    "padaccheda": "",
+    "anvaya": "अतच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212912,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "खलतेः सलोपः अतच्प्रत्ययान्तस्य इत्वं च । खलतिर्निष्केशशिराः ।"
+    }
+  ]
+}

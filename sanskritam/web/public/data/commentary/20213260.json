@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213260,
+    "chapter_id": 7796,
+    "verse_number": "६२",
+    "content_sanskrit": "सिचेः संज्ञायां हनुमौ कश्च",
+    "padaccheda": "",
+    "anvaya": "क",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213260,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सिञ्चतेः कप्रत्ययो हकारादेशो नुम् च स्यात् । सिंहः ।"
+    }
+  ]
+}

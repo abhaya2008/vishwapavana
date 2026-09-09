@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213096,
+    "chapter_id": 7795,
+    "verse_number": "१३६",
+    "content_sanskrit": "समाने ख्यः स चोदात्तः",
+    "padaccheda": "",
+    "anvaya": "इण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 136,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213096,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "समानशब्दे उपपदे ख्या इत्यस्मादिण् स्यात्स च डिच्च यलोपश्च समानस्य तूदात्तः स इत्यादेशश्च । समानं ख्यायते जनैरिति सखा ।"
+    }
+  ]
+}

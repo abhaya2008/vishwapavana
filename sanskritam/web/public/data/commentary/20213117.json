@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213117,
+    "chapter_id": 7795,
+    "verse_number": "१५७",
+    "content_sanskrit": "कायतेर्डिमिः",
+    "padaccheda": "",
+    "anvaya": "डिमि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 157,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213117,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "किम् ।"
+    }
+  ]
+}

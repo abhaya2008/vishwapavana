@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210699,
+    "chapter_id": 7781,
+    "verse_number": "७००",
+    "content_sanskrit": "पेष्",
+    "padaccheda": "पेषृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रयत्ने",
+    "meaning_english": "to try, to attempt",
+    "audio_url": null,
+    "display_order": 700,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210699,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " एषृ ' इति धातोः पाठान्तरम् इदम् ।"
+    }
+  ]
+}

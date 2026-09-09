@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212908,
+    "chapter_id": 7794,
+    "verse_number": "१०८",
+    "content_sanskrit": "सुविदेः कत्रः",
+    "padaccheda": "",
+    "anvaya": "कत्र",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212908,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सुविदत्रं कुटुम्बकम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213376,
+    "chapter_id": 7799,
+    "verse_number": "४२",
+    "content_sanskrit": "इषुधि स्त्री च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213376,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इषुधिशब्दः स्त्रियां पुंसि च । पूर्वस्यापवादः ।"
+    }
+  ]
+}

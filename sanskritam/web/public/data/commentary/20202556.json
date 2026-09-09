@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202556,
+    "chapter_id": 7769,
+    "verse_number": "६.१.११७",
+    "content_sanskrit": "यजुष्युरः",
+    "padaccheda": "यजुषि । उरः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": "अनुवृत्तिः — अति (६.१.१०९), प्रकृत्या (६.१.११५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202556,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उरःशब्द एङन्तो यजुषि विषयेऽति प्रकृत्या भवति। उरो अन्तरिक्षम् । अपरे  <<यजुष्युरो>>  इति सूत्रं पठन्ति, उकारान्तमुरुशब्दं संबुद्ध्यन्तमधीयते। त इदमुदाहरन्ति — उरो॑े॑ अन्तरिक्षे स॒जूः (तै० सं० १.३.८.१) इति। यजुषि पादानामभावादनन्तःपादार्थं वचनम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202556,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उरःशब्द एङन्तोऽति प्रकृत्या यजुषि । उरो अन्तरिक्षम् (उ॒रो अ॒न्तरि॑क्षम्) । यजुषि पादाभावादनन्तः पादार्थ वचनम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202556,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`उरो अन्तरिक्षम्` इति। उरःशब्दस्योत्त्वम्, `आद्? गुणः` इति गुणः। `ओकारान्तमुरोशब्दं [`उकारान्तमुरुशब्द` -काशिका] सम्बुद्ध्यन्तमधीयते` इति। उरुशब्दस्य <<सम्बुद्धौ च>> [[7.3.106]]  इति गुणे कृते `उरो` इति भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202556,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "यजुष्येङन्त उरश्शब्दोऽति प्रकृत्या स्यात् । यजुषि पादाभावादनन्तः पादार्थः विधिः । उरो अन्तरिक्षम् । केचिद् यजुष्युरो इति पठन्ति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202556,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the यजुर्वेद , the word उरस् when changed to उरो , retains it original form when followed by a short अ which is also retained.\nThus उरो अन्तरिक्षम् (<i>Yaj</i>. <i>Veda</i> <i>Vajasan</i>. IV. 7). Some read the <i>sutra</i> as यजुष्युरोः ॥ They take the word as उरू ending in उ, which in the Vocative case assumes the form उरो ॥ They give the following example उरो अन्तरिक्षं सजूर् ॥ But in the <i>Yajur</i> <i>Veda</i> VI.II, the text reads उरोरन्तरिक्षम् सजूः ॥ In the <i>Yajur</i> <i>Veda</i>, there being no stanzas, the condition of अन्तः पादं does not apply here."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202556,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the यजुर्वेद , the word उरस् when changed to उरो , retains it original form when followed by a short अ which is also retained."
+    }
+  ]
+}

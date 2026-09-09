@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213405,
+    "chapter_id": 7799,
+    "verse_number": "७१",
+    "content_sanskrit": "काष्ठपृष्ठसिक्थोक्थानि नपुंसके",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213405,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदं काष्ठमित्यादि ।"
+    }
+  ]
+}

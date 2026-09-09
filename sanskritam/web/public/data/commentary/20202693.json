@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202693,
+    "chapter_id": 7770,
+    "verse_number": "६.२.३१",
+    "content_sanskrit": "दिष्टिवितस्त्योश्च",
+    "padaccheda": "दिष्टि-वितस्त्योः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), प्रकृत्या (६.२.१), द्विगौ (६.२.२९), अन्यतरस्याम् (६.२.३०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202693,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "दिष्टि वितस्ति इत्येतयोरुत्तरपदयोर्द्विगौ समासे पूर्वपदमन्यतरस्यां प्रकृतिस्वरं भवति। पञ्च॑दिष्टिः, प॒ञ्च॒दि॒ष्टिः। पञ्च॑वितस्तिः, प॒ञ्च॒वि॒त॒स्तिः। दिष्टिवितस्ती प्रमाणे, तेनात्र मात्रचो लुक्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202693,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एतयोः परतः पूर्वपदं प्रकृत्या वा द्विगौ । पञ्चदिष्टिः । पञ्चवितस्तिः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202693,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अबह्वर्थोऽयमारम्भः। `पञ्चदिष्टिः` इति। पञ्चारत्निरित्यनेन तुल्यम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202693,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनयोः परयोर्द्विगो प्राक्पदं वा प्रकृत्या स्यात् । पञ्चदिष्टिः । पञ्चवितस्तिः । द्वे प्रमाणे ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202693,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a द्विगु समास (Numeral Determinative Compound) the first member may optionally preserve its accent when followed by the words दिष्टि and वितस्ति।as its second members.\nThus प꣡ञ्चदिष्टिः or पञ्चदिष्टिः꣡, प꣡ञ्चवितस्तिः or पञ्चवितस्तिः꣡ ॥ The affix मात्रच् is elided after the प्रमाण denoting words <i>dishti</i> and <i>vitasti</i> [[5.2.37]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202693,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a द्विगु समास (Numeral Determinative Compound) the first member may optionally preserve its accent when followed by the words दिष्टि and वितस्ति।as its second members."
+    }
+  ]
+}

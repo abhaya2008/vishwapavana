@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212125,
+    "chapter_id": 7790,
+    "verse_number": "३७६",
+    "content_sanskrit": "आप्",
+    "padaccheda": "आपॢँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "लम्भने",
+    "meaning_english": "to obtain, to get, to receive",
+    "audio_url": null,
+    "display_order": 376,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212125,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि — चारों और से व्यापना\nअव — पाना\nपरि — चारों और से व्यापना\nपरि + सम् — समाप्त करना, पूरा करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212125,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' आपयत्यापतीत्यापेः यौ वा णौ लम्भने पदे । व्याप्त्यर्थस्यास्य तु स्वादेराप्नोतीति पदं भवेत् ' (श्लो. 137) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216744,
+    "chapter_id": 7843,
+    "verse_number": "११९",
+    "content_sanskrit": "परं सत्ता ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 119,
+    "avatarnika": "परम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216744,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "अपरं द्रव्यत्वादि ।"
+    }
+  ]
+}

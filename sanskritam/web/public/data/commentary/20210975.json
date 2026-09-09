@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210975,
+    "chapter_id": 7781,
+    "verse_number": "९७६",
+    "content_sanskrit": "कुल्",
+    "padaccheda": "कुलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "संस्त्याने बन्धुषु च",
+    "meaning_english": "to collect, to gather, to treat equally, to treat like family",
+    "audio_url": null,
+    "display_order": 976,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210975,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सन्ताने ' इत्येके सन्तानो विजातीयैरविच्छिन्नः प्रवाहः । संस्त्यानम् = सङ्घातः । बन्धुशब्देन तद्व्यापारो विवाहादिः लक्ष्यते ।"
+    }
+  ]
+}

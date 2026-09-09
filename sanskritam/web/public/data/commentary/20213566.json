@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213566,
+    "chapter_id": 7801,
+    "verse_number": "२०",
+    "content_sanskrit": "स्त्रीविषयवर्णक्षुपूर्वाणाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213566,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एषा त्रयाणामाद्युदात्तः । स्त्रीविषयम् । मल्लिका । वर्णः श्येनी । हरिणी । अक्षुशब्दात्पूर्वोऽस्त्येषां ते अक्षुपूर्वाः । तरक्षुः ॥"
+    }
+  ]
+}

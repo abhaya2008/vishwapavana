@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212648,
+    "chapter_id": 7792,
+    "verse_number": "१२८",
+    "content_sanskrit": "दृणातेर्दृग् ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "अदि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 128,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212648,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दृषत् ।"
+    }
+  ]
+}

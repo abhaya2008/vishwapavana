@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212002,
+    "chapter_id": 7790,
+    "verse_number": "२५३",
+    "content_sanskrit": "लस्",
+    "padaccheda": "लसँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शिल्पयोगे",
+    "meaning_english": "to be skilled, to be expert, to know art",
+    "audio_url": null,
+    "display_order": 253,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212002,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्रियाकौशलं शिल्पम् । ' शिल्पयोगे = कौशले इत्यर्थः ' इति बालमनोरमा । ' शिल्पयोगे = भ्रमादिना तक्ष्णोतीत्यर्थः ' इति क्षीरस्वामी । ' लश ' ' लष ' इति पाठान्तरम् अपि दृश्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210056,
+    "chapter_id": 7781,
+    "verse_number": "५७",
+    "content_sanskrit": "अर्द्",
+    "padaccheda": "अर्दँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ याचने च",
+    "meaning_english": "to go,to beg, to request",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210056,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अर्दयेदर्दतेर्देर्द्यौ हिंसनेर्दति याचने' (103) इति देवः । शाकटायनस्तु अनुदात्तेतमिमं धातुं मन्यते । 'यातने च इत्येके' इति क्षीरस्वामी । याचने द्विकर्मकः ।"
+    }
+  ]
+}

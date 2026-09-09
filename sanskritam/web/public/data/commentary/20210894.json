@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210894,
+    "chapter_id": 7781,
+    "verse_number": "८९५",
+    "content_sanskrit": "लग्",
+    "padaccheda": "लगेँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सङ्गे",
+    "meaning_english": "to adhere to, to become united, to come in contact, to approach,to touch",
+    "audio_url": null,
+    "display_order": 895,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210894,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " संवरणे ' इति पदमञ्जरी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211452,
+    "chapter_id": 7785,
+    "verse_number": "२१",
+    "content_sanskrit": "स्तिघ्",
+    "padaccheda": "ष्टिघँ",
+    "anvaya": "A-पदी, गणः 5",
+    "meaning_sanskrit": "आस्कन्दने",
+    "meaning_english": "to attack, to hate, to kill, to destroy",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211452,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "षोपदेशः ।"
+    }
+  ]
+}

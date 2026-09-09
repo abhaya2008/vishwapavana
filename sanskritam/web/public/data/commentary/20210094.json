@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210094,
+    "chapter_id": 7781,
+    "verse_number": "९५",
+    "content_sanskrit": "कक्",
+    "padaccheda": "ककँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "लौल्ये",
+    "meaning_english": "to be proud,to be unsteady,to be thirsty",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210094,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "लौल्यम् = गर्वः चापल्यं वा ।"
+    }
+  ]
+}

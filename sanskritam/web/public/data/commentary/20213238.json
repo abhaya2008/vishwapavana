@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213238,
+    "chapter_id": 7796,
+    "verse_number": "४०",
+    "content_sanskrit": "ऊर्जि दृणातेरलचौ पूर्वपदान्तलोपश्च",
+    "padaccheda": "",
+    "anvaya": "अल्, अच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213238,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऊर्दरः शूररक्षसोः ।"
+    }
+  ]
+}

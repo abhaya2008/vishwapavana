@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211705,
+    "chapter_id": 7789,
+    "verse_number": "२७",
+    "content_sanskrit": "जॄ",
+    "padaccheda": "जॄ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "वयोहानौ",
+    "meaning_english": "to grow old",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211705,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " झृ इत्येके । धृ इत्यन्ये ' इति कौमुदी । ' जॄ इति क्र्यादौ चूरादौ च । ' जॄष् ' इति दिवादौ चेति समानार्थकाः त्रयः धातवः सन्ति । विषयेस्मिन् ' कृदन्तरूपमालायां विस्तरेण विवृतम् अस्ति । ' जृणाति जीर्यति जरत्येकार्थे जारयत्यपि ' (श्लो.39) इति देवः ।"
+    }
+  ]
+}

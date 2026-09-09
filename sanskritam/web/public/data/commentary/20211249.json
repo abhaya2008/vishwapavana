@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211249,
+    "chapter_id": 7783,
+    "verse_number": "७",
+    "content_sanskrit": "मा",
+    "padaccheda": "माङ्",
+    "anvaya": "A-पदी, गणः 3",
+    "meaning_sanskrit": "माने शब्दे च",
+    "meaning_english": "to measure,to weigh,to limit,to compare in size,to shine,to appear,to sound",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211249,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — उपमा देना\nअनु — तर्क से सिद्ध करना\nपरि — नापना, परिमाण करना\nप्र — प्रमाण होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211249,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मिमीते मायते माने माति तत्रैव शब्लुकि । मयते प्रणिदानेर्थे ' (श्लो. 9) इति देवः ।"
+    }
+  ]
+}

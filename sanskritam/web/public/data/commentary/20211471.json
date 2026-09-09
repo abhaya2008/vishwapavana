@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211471,
+    "chapter_id": 7786,
+    "verse_number": "२",
+    "content_sanskrit": "नुद्",
+    "padaccheda": "णुदँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to inspire",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211471,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — दूर करना\nनिर् — बाहर फेकना, त्यागना\nवि — प्रसन्न करना\nसम् — हांकना, चलाना"
+    }
+  ]
+}

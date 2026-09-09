@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210718,
+    "chapter_id": 7781,
+    "verse_number": "७१९",
+    "content_sanskrit": "ईह्",
+    "padaccheda": "ईहँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "चेष्टायाम्",
+    "meaning_english": "to try",
+    "audio_url": null,
+    "display_order": 719,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210718,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — ईच्छा करना, चाहना"
+    }
+  ]
+}

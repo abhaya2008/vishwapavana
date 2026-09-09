@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211604,
+    "chapter_id": 7786,
+    "verse_number": "१३५",
+    "content_sanskrit": "ध्रु",
+    "padaccheda": "ध्रु",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "गतिस्थैर्ययोः",
+    "meaning_english": "to be firm,to be fixed, to go",
+    "audio_url": null,
+    "display_order": 135,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211604,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ध्रुव ' इति केचित् पठन्ति । तेषां मते सेडयं धातुः । ' स्थैर्ये ध्रवति, गत्यां तु स्थैर्ये च ध्रुवतीति शे ' (श्लो. 22) इति देवः ।"
+    }
+  ]
+}

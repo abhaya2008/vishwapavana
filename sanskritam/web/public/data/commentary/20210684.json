@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210684,
+    "chapter_id": 7781,
+    "verse_number": "६८५",
+    "content_sanskrit": "धाव्",
+    "padaccheda": "धावुँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "गतिशुद्ध्योः",
+    "meaning_english": "to run,to flow,to cleanse,to wash",
+    "audio_url": null,
+    "display_order": 685,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210684,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — पीछे पीछे भागना\nअभि — समीप आना\nआ — नीचे उतरना\nपरि — जल्द भागना\nप्र — जल्दी दौडना, जोेर से दौडना, घिसना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210684,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शुद्धौ ' इति क्षीरस्वामी । ' जवे च ' इति द्रुमे । उपपूर्वकात् स्तुत्यर्थता ।"
+    }
+  ]
+}

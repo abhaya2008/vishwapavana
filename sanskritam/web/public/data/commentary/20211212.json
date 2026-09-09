@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211212,
+    "chapter_id": 7782,
+    "verse_number": "४७",
+    "content_sanskrit": "स्ना",
+    "padaccheda": "ष्णा",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "शौचे",
+    "meaning_english": "to bathe, to cleanse, to purify",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211212,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्नातीति शौचे स्नस्स्नायेदिति चेच्छन्ती केचन ' (श्लो.11) - देवः ।"
+    }
+  ]
+}

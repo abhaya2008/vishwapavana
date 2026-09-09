@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211891,
+    "chapter_id": 7790,
+    "verse_number": "१४२",
+    "content_sanskrit": "कीट्",
+    "padaccheda": "कीटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वर्णे",
+    "meaning_english": "to tinge,to color",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211891,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वरणे ' इति क्षीरस्वामिना पठितम् ।"
+    }
+  ]
+}

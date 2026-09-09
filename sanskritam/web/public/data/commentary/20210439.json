@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210439,
+    "chapter_id": 7781,
+    "verse_number": "४४०",
+    "content_sanskrit": "कब्",
+    "padaccheda": "कबृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वर्णे",
+    "meaning_english": "to praise, to color, to paint",
+    "audio_url": null,
+    "display_order": 440,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210439,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वर्णनं वर्णः शुक्लादिः ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

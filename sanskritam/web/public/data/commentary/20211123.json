@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211123,
+    "chapter_id": 7781,
+    "verse_number": "११२४",
+    "content_sanskrit": "तॄ",
+    "padaccheda": "तॄ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्लवनतरणयोः",
+    "meaning_english": "to cross, to float, to swim",
+    "audio_url": null,
+    "display_order": 1124,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211123,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — उतरना\nआ — भारा देकर नाव पर चढ़ जाना\nउद् — ऊपर से जाना, उत्तर देना, जवाब देना\nदुस् — संकट से छुटकारा पाना\nनिस् — दुःख से तैर जाना, मुक्ति पाना\nप्र — जीतना\nवि — बांटना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211123,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तरणम् = मज्जनम् । तरणम् = लङ्घनम् । ' अभिभवे च ' इति कविकल्पद्रुमे ।"
+    }
+  ]
+}

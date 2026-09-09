@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212121,
+    "chapter_id": 7790,
+    "verse_number": "३७२",
+    "content_sanskrit": "धू",
+    "padaccheda": "धूञ्",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "कम्पने",
+    "meaning_english": "to shake, to move, to decorate",
+    "audio_url": null,
+    "display_order": 372,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212121,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — नष्ट करना\nवि — प्रकल्पित करना, क्षोभित करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212121,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धूनयति धवति धवते, धुनोति धुनुते, धुनाति च धुनीते । धूनोति धूनुति स्युः पदानि कम्पे, विधूनने धुवति ' (श्लो. 26) इति देवः ।"
+    }
+  ]
+}

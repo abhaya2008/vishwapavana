@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213157,
+    "chapter_id": 7795,
+    "verse_number": "१९७",
+    "content_sanskrit": "इण आगसि",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 197,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213157,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एनः ।"
+    }
+  ]
+}

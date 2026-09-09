@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210753,
+    "chapter_id": 7781,
+    "verse_number": "७५४",
+    "content_sanskrit": "मृक्ष्",
+    "padaccheda": "मृक्षँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सङ्घाते",
+    "meaning_english": "to collect, to heap, to pile up",
+    "audio_url": null,
+    "display_order": 754,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210753,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मक्ष ' इत्यप्येके इति मैत्रेयः ' इति धातुवृत्तिः । ' म्रक्ष इत्येके ' इति धा. का. । ( 1.8.4 ) ' ... म्रक्षेत् सङ्घाते.. ' (श्लो. ...171) इति देवः ।"
+    }
+  ]
+}

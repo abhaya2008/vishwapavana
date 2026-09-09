@@ -1,0 +1,94 @@
+{
+  "verse": {
+    "id": 20200144,
+    "chapter_id": 7750,
+    "verse_number": "१.२.७०",
+    "content_sanskrit": "पिता मात्रा",
+    "padaccheda": "पिता । मात्रा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": "अनुवृत्तिः — एक-शेषः (१.२.६४), अन्यतरस्याम् (१.२.६९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200144,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अन्यतरस्यामिति वर्तते नैकवदिति। मात्रा सहवचने पितृशब्दः शिष्यतेऽन्यतरस्याम्। माता च पिता च पितरौ, मातापितराविति वा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200144,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "मात्रा सहोक्तौ पिता वा शिष्यते । माता च पिता च पितरौ । मातापितरौ ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200144,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "मात्रा सहोक्तौ पिता वा शिष्यते। माता च पिता च पितरौ, मातापितरौ वा॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200144,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<पिता मात्रा>> - पितामात्रा ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200144,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पितरौ` इति। `ऋतो ङि`  [[7.3.110]]  इति गुणः। `मातापितरौ` इति। `आनङृतो द्वन्द्वे`  [[6.3.24]]  इत्यानङ, अभ्यर्हितत्वन्मातुः पूर्वनिपातः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200144,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अभ्यर्हितत्वान्मातुः पूर्वनिपातः, ऽपितुर्दशगुणं माता गौरवेणातिरिच्यतेऽ । पितरावित्यभिधानं जनयितृत्वमात्रविवक्षायां लिङ्गाविवक्षायां समर्थनीयम् । एकशेषारम्भेऽपि द्वन्द्वस्त्विष्यत एवेति नार्थ एतेन ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200144,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "मात्रा सहोक्तौ पिता वा शिष्यते । पितरौ । मातापितरौ । आनङत्र वक्ष्यते ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200144,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "पिता मात्रा"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200144,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word पितृ 'father' is optionally only retained when spoken of along with मातृ 'mother'.\nThus पिता + माता = पितरौ 'father and mother, or parents' or मातापितरौ. The verse quoted under <i>sutra</i> [[1.2.68]] illustrates this <i>sutra</i> also. There the word <i>pitarau</i>' has been explained by all commentators as \"father and mother.\" The word \"<i>ekavad</i>\" of the last <i>sutra</i> does not govern this <i>sutra</i>; though the <i>anuvritti</i> of 'optionally' is to be read into this."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200144,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word पितृ 'father' is optionally only retained when spoken of along with मातृ 'mother'."
+    },
+    {
+      "id": 11,
+      "verse_id": 20200144,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "जगतः पितरौ वन्दे (रघुवंशम् 1.1) — `पिता मात्रा` इति द्वन्द्वैकशेषः।\nपित्रोः सकाशमवसन्नदृशोर्निनाय (रघुवंशम् 9.77) — `पिता मात्रा` इत्येकशेषः।\nप्रसूतिभाजः सर्गस्य तावेव पितरौ स्मृतौ (कुमारसम्भवम् 2.7) — `पिता मात्रा` इत्येकशेषः।\nएकैव सत्यामपि पुत्रपङ्क्तौ चिरस्य दृष्टेव मृतोत्थितेव । आसन्नपाणिग्रहणेति पित्रोरुमा विशेषोच्छ्वसितं बभूव ॥ (कुमारसम्भवम् 7.4) — `पिता मात्रा` इत्यैकशेषः।"
+    }
+  ]
+}

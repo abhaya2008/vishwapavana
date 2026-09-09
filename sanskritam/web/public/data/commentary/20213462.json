@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213462,
+    "chapter_id": 7799,
+    "verse_number": "१२८",
+    "content_sanskrit": "राजाऽमनुष्यपूर्वा सभा",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 128,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213462,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इनसभमित्यादि ।"
+    }
+  ]
+}

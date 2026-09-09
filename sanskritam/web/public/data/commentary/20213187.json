@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213187,
+    "chapter_id": 7795,
+    "verse_number": "२२७",
+    "content_sanskrit": "चन्द्रे मो डित्",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 227,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213187,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चन्द्रोपपदान्माङोऽसिः स्यात्स च डित् । चन्द्रमाः ।"
+    }
+  ]
+}

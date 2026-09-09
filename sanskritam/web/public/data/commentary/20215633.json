@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215633,
+    "chapter_id": 7807,
+    "verse_number": "२६",
+    "content_sanskrit": "भ्राजा नाम श्लोकाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": "शास्त्रप्रयोजनाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215633,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "भ्राजाः' नाम कात्यायनप्रणीताः श्लोका इत्याहुः ॥"
+    }
+  ]
+}

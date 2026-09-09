@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213524,
+    "chapter_id": 7800,
+    "verse_number": "१",
+    "content_sanskrit": "फिषोऽन्त उदात्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213524,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्रातिपदिकं फिट् । तस्यान्त उदात्तः स्यात् । उच्चैः ॥"
+    }
+  ]
+}

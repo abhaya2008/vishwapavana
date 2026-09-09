@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212974,
+    "chapter_id": 7795,
+    "verse_number": "१४",
+    "content_sanskrit": "बलाकादयश्च",
+    "padaccheda": "",
+    "anvaya": "आक",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212974,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बलाका । शलाका । पताका ।"
+    }
+  ]
+}

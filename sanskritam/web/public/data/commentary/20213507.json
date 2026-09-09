@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213507,
+    "chapter_id": 7799,
+    "verse_number": "१७३",
+    "content_sanskrit": "मृत्युसीधुकर्कन्धुकिष्कुकण्डुरेणवः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 173,
+    "avatarnika": "स्त्रीपुंसाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213507,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयमयं वा मृत्युः ।"
+    }
+  ]
+}

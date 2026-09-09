@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211802,
+    "chapter_id": 7790,
+    "verse_number": "५३",
+    "content_sanskrit": "श्वल्क्",
+    "padaccheda": "श्वल्कँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिभाषणे",
+    "meaning_english": "to speak, to tell, to narrate",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211802,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भाषणे ' इति शाकटायन- चन्द्रकाशकृत्स्नकातन्त्रादयः ।"
+    }
+  ]
+}

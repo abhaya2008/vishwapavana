@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201808,
+    "chapter_id": 7764,
+    "verse_number": "४.४.६८",
+    "content_sanskrit": "भक्तादणन्यतरस्याम्",
+    "padaccheda": "भक्तात् । अण् । अन्यतरस्याम्",
+    "anvaya": "'तत् अस्मै नियुक्तम् दीयते' (इति) भक्तात् अन्यतरस्यामण्",
+    "meaning_sanskrit": "'नित्यरूपेण, अव्यभिचाररूपेण अस्मै दीयते' अस्मिन् अर्थे प्रथमासमर्थात् 'भक्त'शब्दात् विकल्पेन अण्-प्रत्ययः भवति, पक्षे औत्सर्गिकः ठक् अपि भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": "अनुवृत्तिः — तत् (४.४.६६), अस्मै (४.४.६६), दीयते (४.४.६६), नियुक्तम् (४.४.६६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201808,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भक्तशब्दादण् प्रत्ययो भवत्यन्यतरस्यां तदस्मै दीयते नियुक्तमित्येतस्मिन् विषये। ठकोऽपवादः। पक्षे सोऽपि भवति। भक्तमस्मै दीयते नियुक्तं भाक्तः, भाक्तिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201808,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पक्षे ठक् । भक्तमस्मै नियुक्तं दीयते भाक्तः । भाक्तिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201808,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भक्तादणन्यतरस्याम्>> - भक्तादणन्यतरस्याम् ।तदस्मै दीयते नियत॑मित्येव ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201808,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "भजेर्भक्तमु अन्नम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201808,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "भक्तमस्मै नियतं दीयत इति भाक्तः । ठकि भाक्तिकः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201808,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अण् optionally comes after the word भक्त in the sense of 'to whom this is to be given rightfully'.\nThis debars ठक् which comes in the alternative. Thus भक्तमस्मै दीयते नियुक्तं = भाक्तः ॥ In the alternative भाक्तिकः 'a regularly fed'. i. e. a retainer."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201808,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अण् optionally comes after the word भक्त in the sense of 'to whom this is to be given rightfully'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201808,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'भक्त' इत्युक्ते ओदनम् । <<तदस्मै दीयते नियुक्तम्>> [[4.4.66]] अस्मिन् अर्थे औत्सर्गिकरूपेण ठक्-प्रत्यये प्राप्ते तं विकल्पेन बाधित्वा वर्तमानसूत्रेण अण्-प्रत्ययः विधीयते । भक्तम् दीयते अस्मै नियुक्तम् सः भाक्तः । पक्षे 'ठक्' अपि भवति - भक्तम् दीयते अस्मै नियुक्तम् सः भाक्तिकः ।\n"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201808,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "भवन्ति वश्याः स्वयमेव देहिनः (किरातार्जुनीयम् 1.33) — `वशं गतः` इति यत्प्रत्ययः।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210899,
+    "chapter_id": 7781,
+    "verse_number": "९००",
+    "content_sanskrit": "कग्",
+    "padaccheda": "कगेँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अनेकार्थाः",
+    "meaning_english": "to do some action",
+    "audio_url": null,
+    "display_order": 900,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210899,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अस्यायमर्थ इति नोच्यते इत्यर्थः, क्रियासामान्यवाचित्वात् । अनेकार्थत्वादित्यन्ये । ' कलिः कामधेनुः इति न्यायेन कलधातुवत् अपरिमितार्थकत्वम् इति भावः ' इति बालमनोरमा ।"
+    }
+  ]
+}

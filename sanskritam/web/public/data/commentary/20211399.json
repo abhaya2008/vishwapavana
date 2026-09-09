@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211399,
+    "chapter_id": 7784,
+    "verse_number": "१३१",
+    "content_sanskrit": "मस्",
+    "padaccheda": "मसीँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "परिणामे",
+    "meaning_english": "to transform, to shape",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211399,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " परिणामः = विकारः ।  ' परिमाणे ' इति कविकल्पद्रुममाधवीयधातुवृत्योः पाठः । ' समी ' इति क्वचित् पाठः । सम्यति ।"
+    }
+  ]
+}

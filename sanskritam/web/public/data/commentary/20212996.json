@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212996,
+    "chapter_id": 7795,
+    "verse_number": "३६",
+    "content_sanskrit": "विषा विहा",
+    "padaccheda": "",
+    "anvaya": "आ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212996,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्यतेर्जहातेश्च विपूर्वाभ्यामाप्रत्ययः । विषा बुद्धिः । विहा स्वर्गः । अव्यये इमे ।"
+    }
+  ]
+}

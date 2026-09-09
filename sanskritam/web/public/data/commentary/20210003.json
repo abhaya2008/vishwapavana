@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210003,
+    "chapter_id": 7781,
+    "verse_number": "४",
+    "content_sanskrit": "गाध्",
+    "padaccheda": "गाधृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रतिष्ठालिप्सयोर्ग्रन्थे च",
+    "meaning_english": "to praise oneself, to desire, to tie together, to string together, to seek, to stay together, to stand firmly, to compile",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210003,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आत्मख्यापनं तत्साधनं च प्रतिष्ठा । लब्धुमिच्छा लिप्सा । एकत्र स्थापनं, सन्दर्भो वा ग्रन्थः । तत्र - ' आद्ये अकर्मकः, इतरयोः सकर्मकः' इति माधवीय-धातुवृत्तौ । ' ग्रन्थे च इति पृथक् पाठः विरलप्रयोगार्थः' इति क्षीरस्वामी ।"
+    }
+  ]
+}

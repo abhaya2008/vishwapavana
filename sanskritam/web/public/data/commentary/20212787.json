@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212787,
+    "chapter_id": 7793,
+    "verse_number": "११०",
+    "content_sanskrit": "द्युतेरिसिन्नादेश्च जः",
+    "padaccheda": "",
+    "anvaya": "इसिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212787,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ज्योतिः ।"
+    }
+  ]
+}

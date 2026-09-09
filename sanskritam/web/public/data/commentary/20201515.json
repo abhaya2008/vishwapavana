@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201515,
+    "chapter_id": 7762,
+    "verse_number": "४.२.८८",
+    "content_sanskrit": "नडशादाड्ड्वलच्",
+    "padaccheda": "नड-शादात् । ड्वलच्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201515,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नडशादशब्दाभ्यां ड्वलच् प्रत्ययो भवति चातुरर्थिकः। यथासंभवमर्थसंबन्धः। नड्वलम्। शाद्वलम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201515,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नड्वलः । शादो जम्बालघासयोः । शाद्वलः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201515,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "नङ्वलः । शाद्वलः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201515,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<नडशादाड्ड्वलच्>> - नडशादाड्ड्वलच् । नड्वल इति । डित्त्वाट्टिलोपः । शाद्वल इति । शादा अस्मिन्सन्तीति विग्रहः । शादो — दन्त्योपधः । डोपध इत्यन्ये ।नडप्राये नड्वान्नड्वल इत्यपी॑त्यमरः । 'शाद्वलः शादहरिते' इति च ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201515,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "शादशब्दो दोपधः,'पङ्को' स्त्री शादकर्दमौऽ इति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201515,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "टिलोपः । नड्वलः । शादः शष्पः । तद्वान् शाद्वलः । शाद्वला दूर्वेति नीलत्वोपचारात् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201515,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ड्वलच् comes after 1. नड and 2. शाद in the four senses given above, the final of the words being elided.\nThus नड्वलम् and शाद्वलम् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201515,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ड्वलच् comes after 1. नड and 2. शाद in the four senses given above, the final of the words being elided."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201515,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "ययौ मृगाध्यासितशाद्वलानि (रघुवंशम् 2.17) — `नडशादादूङ्वलच्` इति ड्वलच्प्रत्ययः।\nयो नड्वलानीव गजः परेषां (रघुवंशम् 18.5) — `नडशादाद् ड्वलच्` इति ड्वलच्प्रत्ययः।\nरम्या नवद्युतिरपैति न शाद्वलेभ्यः (किरातार्जुनीयम् 5.37) — `नडशादाद्वलच्` इति वलच्प्रत्ययः।"
+    }
+  ]
+}

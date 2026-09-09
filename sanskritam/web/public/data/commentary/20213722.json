@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213722,
+    "chapter_id": 7804,
+    "verse_number": "११२",
+    "content_sanskrit": "तस्य कारणसामर्थ्याद्वेगप्रचयधर्मणः । संनिपाताद्विभज्यन्ते सारवत्योऽपि मूर्तयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213722,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "तत्र वायोस्तावच्छब्दभावापत्तिमाचक्षते –\nइत्येवमादिसर्वमनुगन्तव्यम् ॥"
+    }
+  ]
+}

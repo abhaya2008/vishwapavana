@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202843,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१८१",
+    "content_sanskrit": "न निविभ्याम्",
+    "padaccheda": "न । निविभ्याम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 181,
+    "avatarnika": "अनुवृत्तिः — उपसर्गात् (६.२.१७७), अन्तः (६.२.१८०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202843,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नि वि इत्येताभ्यामुत्तरोऽन्तश्शब्दो नान्तोदात्तो भवति। न्य॑न्तः। व्य॑न्तः (तै०ब्रा० २.१.३.१)। पूर्वपदप्रकृतिस्वरत्वे कृते यणादेशः। तत्र <<उदात्तस्वरितयोर्यणः स्वरितोऽनुदात्तस्य>> [[८.२.४]] इति स्वरितो भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202843,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "न्यन्तः । व्यन्तः । पूर्वपदप्रकृतिस्वरे यणि च कृते उदात्तस्वरितयोर्यणः-<{SK3657}> इति स्वरितः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202843,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "पूर्वेण निविभ्यामप्युततरसयान्तोदात्तत्वे प्राप्ते प्रतिषेधोऽयमुच्यते। `पूर्वपदप्रकृतिस्वरतवे कृते` इति। यदा बहुव्रीहिस्तदा <<बहुव्रीहौ प्रकृत्या पूर्वपदम्>> [[6.2.1]]  इति प्रकृतिस्वरत्वम्। यदा तु तत्पुरुषस्तदा `तत्पुरुषे तुल्यार्थ`  [[6.2.2]]  इत्यादिना॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202843,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां परोऽन्तो नान्तोदात्तः स्यात् । न्यन्तः । व्यन्तः । प्राक्पदप्रकृतिस्वरें 'उदात्तस्वरितयोः—' (८-२-४) इति स्वरितः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202843,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अन्तर् does not have acute accent (उदात्त) on the final after the prepositions नि and वि।\nThus न्य॑न्तः, व्य॑न्तः, here the first member retains its acute, and semivowel is then substituted for the vowel इ, then the subsequent grave is changed to <i>svarita</i> by [[8.2.4]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202843,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अन्तर् does not have acute accent (उदात्त) on the final after the prepositions नि and वि।"
+    }
+  ]
+}

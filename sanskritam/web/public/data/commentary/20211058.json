@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211058,
+    "chapter_id": 7781,
+    "verse_number": "१०५९",
+    "content_sanskrit": "स्त्यै",
+    "padaccheda": "ष्ट्यै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दसङ्घातयोः",
+    "meaning_english": "to sound, to gather, to be crowded, to surround",
+    "audio_url": null,
+    "display_order": 1059,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211058,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "मूर्धन्यादिः ।  ' शब्दसङ्घातयोर्धात्वो: स्त्यायत्येकस्य सो न षः ' (श्लो. 7) - देवः ।"
+    }
+  ]
+}

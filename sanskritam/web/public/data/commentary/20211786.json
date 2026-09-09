@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211786,
+    "chapter_id": 7790,
+    "verse_number": "३७",
+    "content_sanskrit": "अट्ट्",
+    "padaccheda": "अट्टँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अनादरे",
+    "meaning_english": "to insult, to dishonor, to disrespect",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211786,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दोपधः अयम् । ' हिंसातिक्रमयोरट्टेरट्टतेनादरेट्टयेत् ' (श्लो.72) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210121,
+    "chapter_id": 7781,
+    "verse_number": "१२२",
+    "content_sanskrit": "श्लाघ्",
+    "padaccheda": "श्लाघृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कत्थने",
+    "meaning_english": "to praise,to flatter,to boast",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210121,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कत्थनम् = उत्कर्षाख्यानम् ' इति स्वामी ।"
+    }
+  ]
+}

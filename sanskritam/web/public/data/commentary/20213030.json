@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213030,
+    "chapter_id": 7795,
+    "verse_number": "७०",
+    "content_sanskrit": "मृकणिभ्यामीचिः",
+    "padaccheda": "",
+    "anvaya": "ईचि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213030,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मरीचिः कणीचिः पल्लवो निनादश्च ।"
+    }
+  ]
+}

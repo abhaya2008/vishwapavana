@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201634,
+    "chapter_id": 7763,
+    "verse_number": "४.३.६२",
+    "content_sanskrit": "जिह्वामूलाङ्गुलेश्छः",
+    "padaccheda": "जिह्वामूल-अङ्गुलेः । छः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.५३), भवः (४.३.५३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201634,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "जिह्वामूलशब्दादङ्गुलिशब्दात् च छः प्रत्ययो भवति तत्र भव इत्येतस्मिन् विषये। यतोऽपवादः। जिह्वामूलीयम्। अङ्गुलीयम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201634,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "जिह्वामूलीयम् । अङ्गुलीयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201634,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "जिह्वामूलीयम्। अङ्गुलीयम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201634,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<जिह्वामूलाङ्गुलेश्छः>> - जिग्वामूलाङ्गुलेश्छः ।शरीरावयवाच्चे॑ति यतोऽपवादः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201634,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`यतोऽपवादः` इति।` शरीरवयवाच्च`  [[4.3.55]]  इति प्राप्तस्य॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201634,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "जिह्वामूलीयम् । अङ्गुलीयम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201634,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the words 1. जिह्वामूल and 2. अङ्गुलि there is the affix छ in the sense of 'who stays there'.\nThis debars यत् [[4.3.55]]. Thus जिह्वामूलीयम्, अंगुलीयम् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201634,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the words 1. जिह्वामूल and 2. अङ्गुलि there is the affix छ in the sense of 'who stays there'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201634,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "कुशेशयाताम्रतलेन कश्चित्करेण रेखाध्वजलाञ्छनेन । रत्नाङ्गुलीयप्रभयानुविद्धानुदीरयामास सलीलमक्षान् ॥ (रघुवंशम् 6.18) — `जिह्वामूलाङ्गुलेश्छः` इति छप्रत्ययः।\nभूश्चषालतुलिताङ्गुलीयकम् (शिशुपालवधम् 14.52) — `जिह्वामूलाङ्गुलेश्छः` इति भावे छप्रत्ययः।"
+    }
+  ]
+}

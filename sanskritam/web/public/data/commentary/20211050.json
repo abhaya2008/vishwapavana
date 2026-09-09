@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211050,
+    "chapter_id": 7781,
+    "verse_number": "१०५१",
+    "content_sanskrit": "ग्लै",
+    "padaccheda": "ग्लै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हर्षक्षये",
+    "meaning_english": "to be tired, to wane, to be fatigued, to be exhausted",
+    "audio_url": null,
+    "display_order": 1051,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211050,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "हर्षक्षयः = धातुक्षयः ।"
+    }
+  ]
+}

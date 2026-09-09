@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212867,
+    "chapter_id": 7794,
+    "verse_number": "६७",
+    "content_sanskrit": "ऋषेर्जातौ",
+    "padaccheda": "",
+    "anvaya": "स",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212867,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऋक्षोऽद्रिभेदे भल्लूके इति च ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201698,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१२६",
+    "content_sanskrit": "गोत्रचरणाद्वुञ्",
+    "padaccheda": "गोत्र-चरणात् । वुञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१२०), इदम् (४.३.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201698,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "गोत्रवाचिभ्यश्चरणवाचिभ्यश्च प्रातिपदिकेभ्यो वुञ् प्रत्ययो भवति तस्येदमित्येतस्मिन् विषये। अणोऽपवादः। छं तु परत्वाद् बाधते। गोत्रात् तावत् — ग्लौचुकायनकम्। औपगवकम्॥ चरणाद् धर्माम्नाययोरिष्यते॥ काठकम्। कालापकम्। मौदकम्। पैप्पलादकम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201698,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "औपगवकम् ।<!चरणाद्धर्माम्नाययोरिति वक्तव्यम् !> (वार्तिकम्) ॥ काठकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201698,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "वुनि प्रकृते वुञ्विधानं वृद्ध्यर्थम्। तच्चावृद्धा एव गोत्रचरणशब्दाः प्रयोजयन्ति, न वृद्धाः। तेषु हि वुञि वुनि वा सति न कश्चिद्विशेषः। `ग्लौचुकायनकः` इति। `प्राचामवृद्धात् फिन् बहुलम्`  [[4.1.160]]  इति फिन्, तदन्ताद्वुञ्।`चरणात्` इत्यादि। चरणाद्धर्माम्नाययोरेवेष्यते, नान्यत्र; अनभिधानादिति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201698,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वुनि प्रकृते वुञो विधानमवृद्धेषु वृद्ध्यर्थम् । वृद्धेषु वुनि वुञि च विशेषो नास्ति - तदेव रूपं स एव स्वरः, पुंवद्भावप्रतिषेधोऽपि'न कोपधायाः'  इत्यभयोरस्ति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201698,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां तस्येदमर्थे वुञ् । औपगवस्येदमौपगवकं धनम् । चरणाद्धर्माम्नाय- योरेव’ (वा०) कठानां धर्मः शाखा वा काठकं, कालापकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201698,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes in the sense of 'this is his' after the words denoting गोत्र (Patronymic/Family-names) of Vedic schools.\nThis debas अण् as well छ ॥ Thus <i>gotra</i> :- ग्लौचुकायनकम्, औपगवकम् ॥ According to <i>Patanjali</i>, the word चरण which ordinarly means Vedic School, means here duties or doctrines (<i>dharma</i>), and traditions (<i>amnaya</i>). Thus कठानां धर्म आम्नायो वा = काठकम् 'the <i>dharma</i>-<i>Sutras</i> or the tradition belonging to the school of <i>Kathas</i>'.  So also कालापकम्, मौदकम्, पैप्पलादकम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201698,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes in the sense of 'this is his' after the words denoting गोत्र (Patronymic/Family-names) of Vedic schools."
+    }
+  ]
+}

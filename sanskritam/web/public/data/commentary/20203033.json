@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20203033,
+    "chapter_id": 7772,
+    "verse_number": "६.४.३३",
+    "content_sanskrit": "भञ्जेश्च चिणि",
+    "padaccheda": "भञ्जेः । च । चिणि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": "अनुवृत्तिः — नलोपः (६.४.२३), उपधायाः (६.४.२४), न (६.४.३०), जान्त-नशाम् (६.४.३२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203033,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भञ्जेश्च चिणि परतो विभाषा नकारलोपो भवति। अभाजि, अभञ्जि। अप्राप्तोऽयं नलोपः पक्षे विधीयते। ततो नेति नानुवर्तते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203033,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नलोपो वा स्यात् । अभाजि । अभञ्जि ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203033,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "नलोपो वा स्यात्। अभाजि, अभञ्जि॥ लभ्यते॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203033,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भञ्जेश्च चिणि>> - भञ्जेश्च चिणि । 'श्नान्नलोपः' इत्यतो नेति अभाजीति । नलोपपक्षे उपधावृद्धिः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203033,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "चकारः `विभाषा`  [[6.4.32]]  इत्यनुकर्षणार्थः। `अभाजि` इति। पूर्वमेव व्युत्पादितम्। `अप्राप्तोऽयं नकारलोपः` इति। क्ङिति नलोपविधानात्, चिणश्चाक्ङित्वात्। अतः प्रतिषेध्याभाबान्नति नानुवर्तते। तेन विधिरेवायमित्यभिप्रायः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203033,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "चिणि भञ्जेर्नलोपो वा स्यात् । अभाजि, अभञ्जि । अभङ्क्षाताम् । अभङ्क्थाः । अभङ्ग्ध्वम् । अभङ्क्षि । अभङ्क्ष्वहि । बभञ्ज । बभञ्जतुः । 'उपदेशेऽत्वतः' (७-२-६२) । बभञ्जिथ, बभङ्क्थ । बभञ्जिव । भज्यात् । भङ्क्ता । भङ्क्ष्यति । कर्मणि बभञ्जे । बभञ्जिषे । भङ्क्षीष्ट ।।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203033,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The nasal may be optionally elided in भञ्ज before the 3rd person passive of the Aorist in चिण् (ई).\nThus अभाजि or अभञ्जि ॥ This is an <i>aprapta</i> <i>vibhasha</i>, and teaches for the first time the elision of न in a certain contingency."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203033,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The nasal may be optionally elided in भञ्ज before the 3rd person passive of the Aorist in चिण् (ई)."
+    },
+    {
+      "id": 9,
+      "verse_id": 20203033,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अतिसुरभिभाजि पुष्पश्रियामतुनुतरतयेष सन्तानकः । तरुणपरभृतः स्वनं रागिणामतनुत रतये वसन्तानकः ॥ (शिशुपालवधम् 6.67) — `भञ्जेश्च चिणि` इति विभाषा नलोपे उपधावृद्धिः।"
+    }
+  ]
+}

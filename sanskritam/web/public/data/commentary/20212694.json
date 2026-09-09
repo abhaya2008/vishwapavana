@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212694,
+    "chapter_id": 7793,
+    "verse_number": "१७",
+    "content_sanskrit": "निन्देर्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212694,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "निद्रा ।"
+    }
+  ]
+}

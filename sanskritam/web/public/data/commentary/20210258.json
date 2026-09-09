@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210258,
+    "chapter_id": 7781,
+    "verse_number": "२५९",
+    "content_sanskrit": "तर्ज्",
+    "padaccheda": "तर्जँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भर्त्सने",
+    "meaning_english": "to menace,to censure,to threaten,to terrify,to scold,to mock",
+    "audio_url": null,
+    "display_order": 259,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210258,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सन्तर्जने तर्जयते भर्त्सनार्थे तु तर्जति ' (श्लो. 66) इति देवः ।"
+    }
+  ]
+}

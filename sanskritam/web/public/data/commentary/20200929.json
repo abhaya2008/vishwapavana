@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200929,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१६१",
+    "content_sanskrit": "भञ्जभासमिदो घुरच्",
+    "padaccheda": "भञ्ज-भास-मिदः । घुरच्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 161,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200929,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भञ्ज भास मिद इत्येतेभ्यो घुरच् प्रत्ययो भवति तच्छीलादिषु कर्तृषु। भङ्गुरं काष्ठम्। घित्त्वात् कुत्वम्। भासुरं ज्योतिः। मेदुरः पशुः। भञ्जेः कर्मकर्तरि प्रत्ययः, स्वभावात्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200929,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "भङ्गुरः । भासुरः । मेदुरः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200929,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भञ्जभासमिदो घुरच्>> - भञ्जभास । भञ्ज, भास, मिद्, एषां द्वन्द्वात्पञ्चमी । एभ्यो घुरच् स्ात्तच्छीलादिष्वित्यर्थः । घचावितौ । भङ्गुर इति ।चजो॑रिति कुत्वम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200929,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<भञ्जभासमिदो घुरच्>> - भङ्गुर इति ।चजो॑रिति कुत्वम् । अभिधानस्वभावाद्भञ्जेः कर्मकर्तर्येवेत्याहुः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200929,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`{भञ्ज आमर्दने`(धातुपाठः-1453), `भासृ दीप्तौ`(धातुपाठः-624), `ञिमिदा {स्नेहने-धातुपाठः-} स्नेहनमोचनयोः`(धातुपाठः-1243)। `भङगुरम्िति। <<चजोः कु घिण्ण्यतोः>> [[7.3.52]]  इति कुत्वम्। `कर्मकर्तरि प्रत्ययः` इति। भज्यते स्वयमेवेत्यर्थः। कुतः पुनः कर्मकर्तरि प्रत्यो लभ्यत इत्यत आह - `स्वभावात्` इति। प्रकृत्यैव प्रत्ययः कर्मकर्तरिमभिधत्ते, न कर्त्तृमात्रम्। अतः कर्मकर्तर्येव॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200929,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "भञ्चभासमिदो घुरच् 'भञ्चो आमर्द्दने' 'भासृ दीप्तौ,' ठ्ञिमिदा स्नेहनेऽ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200929,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घुरच् comes in the sense of 'agent having such a habit etc.' after the verbs 1. भञ्ज् 'to break' 2. भास् 'to shine' 3. भिद् 'to be fat'.\nAs भञ्ज् + घुरच् = भङ्ग् + उर [[7.3.52]] = भङ्गुरः 'brittle'; the palatal being changed into guttural, because of the indicatory घ. So also मेदुरः पशुः 'a fat beast'; भासुरं ज्योतिः 'splendid light'.\n\nAfter the verb भञ्ज् this affix gives a reflexive signification-- that which naturally breaks of itself."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200929,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घुरच् comes in the sense of 'agent having such a habit etc.' after the verbs 1. भञ्ज् 'to break' 2. भास् 'to shine' 3. भिद् 'to be fat'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200929,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तं भूपतिर्भासुरहेमराशिं (रघुवंशम् 5.30) — `भञ्जभासमिदो घुरच्` इति घुरच्।\nप्रतप्तचामीकरभासुरेण (किरातार्जुनीयम् 16.40) — `भञ्जभासमिदो घुरच्` इति घुरच्प्रत्ययः।"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202481,
+    "chapter_id": 7769,
+    "verse_number": "६.१.४२",
+    "content_sanskrit": "ज्यश्च",
+    "padaccheda": "ज्यः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": "अनुवृत्तिः — सम्प्रसारणम् (६.१.३२), न (६.१.३७), सम्प्रसारणम् (६.१.३७), ल्यपि (६.१.४१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202481,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ल्यपीत्येव। <<ज्या वयोहानौ>> इत्यस्य धातोर्ल्यपि परतः संप्रसारणं न भवति। प्रज्याय। उपज्याय॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202481,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्रज्याय ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202481,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<ज्यश्च>> - ज्यश्च । संप्रसारणं न स्यात् । एवं व्यश्चेत्यत्रापि व्याख्येयम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202481,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The semi-vowel of ज्या 'to grow old' is not vocalised when the affix ल्यप् follows.\nThus प्रज्याय, उपज्याय ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202481,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The semi-vowel of ज्या 'to grow old' is not vocalised when the affix ल्यप् follows."
+    }
+  ]
+}

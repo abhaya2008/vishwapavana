@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210493,
+    "chapter_id": 7781,
+    "verse_number": "४९४",
+    "content_sanskrit": "तुम्ब्",
+    "padaccheda": "तुबिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अर्दने",
+    "meaning_english": "to be invisible,to trouble,to distress,to hurt, to tear, to claw, to pluck",
+    "audio_url": null,
+    "display_order": 494,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210493,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " लुम्बयेद् तुम्बयेदर्दे शपि लुम्बति तुम्बति ' (श्लो. 139) इति देवः ।"
+    }
+  ]
+}

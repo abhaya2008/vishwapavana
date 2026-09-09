@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211601,
+    "chapter_id": 7786,
+    "verse_number": "१३२",
+    "content_sanskrit": "नू",
+    "padaccheda": "णू",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "स्तवने",
+    "meaning_english": "to praise",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211601,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "णोपदेशः दीर्घान्तः । ' स्तुत्यां नुवति , नौति वा ' (श्लो. 24) इति देवः । \" ह्रस्वान्तम् आत्रेयादयः पठन्ति । यथा तु भाष्यं तथा तु दीर्घान्तः । यदाह कुटादिसूत्रे - ' तस्मान्नूत्वा धृत्वेत्येव भवितव्यम् ' इति \" इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

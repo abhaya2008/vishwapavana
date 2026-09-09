@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211656,
+    "chapter_id": 7787,
+    "verse_number": "१३",
+    "content_sanskrit": "विद्",
+    "padaccheda": "विदँ",
+    "anvaya": "A-पदी, गणः 7",
+    "meaning_sanskrit": "विचारणे",
+    "meaning_english": "to think, to meditate, to analyze, to reason upon",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211656,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मीमांसे ' इति वोपदेवः । ' सत्तायां विद्यते, ज्ञाने वेत्ति, विन्ते विचारणे ' (श्लो. 111) इति देवः ।"
+    }
+  ]
+}

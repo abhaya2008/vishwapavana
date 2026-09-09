@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212584,
+    "chapter_id": 7792,
+    "verse_number": "६४",
+    "content_sanskrit": "कठिचकिभ्यामोरन्",
+    "padaccheda": "",
+    "anvaya": "ओरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212584,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कठोरः । चकोरः ।"
+    }
+  ]
+}

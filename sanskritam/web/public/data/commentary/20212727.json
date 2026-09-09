@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212727,
+    "chapter_id": 7793,
+    "verse_number": "५०",
+    "content_sanskrit": "बहुलमन्यत्रापि",
+    "padaccheda": "",
+    "anvaya": "इनच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212727,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कठिनम् । नलिनम् । मलिनम् । कुण्डिनम् । द्यतेः यत्परुषि दिनम् । दिवसोऽपि दिनम् ।"
+    }
+  ]
+}

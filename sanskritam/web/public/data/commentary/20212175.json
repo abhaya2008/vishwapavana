@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212175,
+    "chapter_id": 7790,
+    "verse_number": "४२६",
+    "content_sanskrit": "वास",
+    "padaccheda": "वास",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "उपसेवायाम्",
+    "meaning_english": "to make someone stay, to make something fragrant, to burn incense sticks",
+    "audio_url": null,
+    "display_order": 426,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212175,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । वस्यति स्तम्भने वस्ते छादने वासयेद्वसेत् । निवासे वासयेत् स्नेहे वासयत्युपसेवने । (श्लो. 187- 188) ( वसेन्निवासे वसयेच्च वस्ते त्वाच्छादने स्तम्भन एव वस्येत् । निवासयत्याच्छदने निवासेः आसेवने वासयतीति वासे ॥) इति देवः ।"
+    }
+  ]
+}

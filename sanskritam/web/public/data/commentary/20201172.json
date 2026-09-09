@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201172,
+    "chapter_id": 7760,
+    "verse_number": "३.४.४०",
+    "content_sanskrit": "स्वे पुषः",
+    "padaccheda": "स्वे । पुषः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६), करणे (३.४.३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201172,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "करण इत्येव। स्व इत्यर्थग्रहणम्। स्ववाचिनि करण उपपदे पुषेर्धातोर्णमुल् प्रत्ययो भवति। आत्मात्मीयज्ञातिधनवचनः स्वशब्दः। स्वपोषं पुष्णाति। आत्मपोषम्।  गोपोषम्। पितृपोषम्। मातृपोषम्। धनपोषम्। रैपोषम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201172,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "करण इत्येव । स्व इत्यर्थग्रहणम् । तेन स्वरूपे पर्याये विशेषे च णमुल् । स्वपोषं पुष्णाति । धनपोषम् । गोपोषम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201172,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`स्वपोषम्` इति। आत्मवाचिनी स्वशब्द उपपदे प्रत्ययः। `गोपोषम्` इति। आत्मीयवाचिनि। `धनपोषम्` इति धनवाचिनि। `पितृपोषम्` इति ज्ञातवाचिनि॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201172,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "स्वपोषमिति । पित्पर्यायवचनस्य चेति । स्वरूपेऽपि भवति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201172,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "स्वशब्दार्थेषु करणेषु पूर्वेषु पुषेर्णमुल् । स्वपोषं धनपोषं गोपोषं भृत्यपोषं पुष्णाति पुष्यति वा । धनादिभिः पुष्णातीत्यर्थः ।।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201172,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verb पुष् 'to feed' when a word in the Instrumental -3rd case having the sense of स्व is in composition.\nThe word स्व means 'self', 'kinsmen' and 'property'. Thus स्वपोषं पुष्णाति 'he feeds himself'; आत्मपोषं, गोपोषं, पितृपोषं, मातृपोषं, धनपोषं, रैपोषं &c. See [[1.1.68]]. Rule 46 applies here also."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201172,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verb पुष् 'to feed' when a word in the Instrumental -3rd case having the sense of स्व is in composition."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201172,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "यः सर्वदाऽस्मानपुषत्स्व-पोषम् (भट्टिकाव्यम् 3.13) — `स्वे पुषः` इति णमुल।\nस्व-पोषमपुषद्युष्मान्या (भट्टिकाव्यम् 6.26) — `स्वे पुषः` इति णमुल्।"
+    }
+  ]
+}

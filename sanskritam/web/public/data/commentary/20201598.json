@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201598,
+    "chapter_id": 7763,
+    "verse_number": "४.३.२६",
+    "content_sanskrit": "प्रावृषष्ठप्",
+    "padaccheda": "प्रावृषः । ठप्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": "अनुवृत्तिः — जातः (४.३.२५), तत्र (४.३.२५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201598,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रावृट्शब्दात् सप्तमीसमर्थाद् जात इत्येतस्मिन्नर्थे ठप् प्रत्ययो भवति। एण्यस्यापवादः। पकारः स्वरार्थः। प्रावृषि जातः प्रावृषिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201598,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एण्यस्यापवादः । प्रावृषि जातः प्रावृषिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201598,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "एण्यापवादः। प्रावृषिकः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201598,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<प्रावृषष्ठप्>> - प्रावृषष्ठप् । ठपः पित्त्वम्अनुदात्तौ सुप्पितौ॑ इति स्वारार्थम् । एण्यस्येति । 'प्रावृष एण्यः' इति विहितस्येत्यर्थः । एवंच 'प्रावृष एम्यः' इति सूत्रं जातादन्यार्थमिति पर्यवस्यति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201598,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`एण्यस्यापवादः` इति। <<प्रावृष एण्यः>> [[4.3.17]]  इति प्राप्तस्य॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201598,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्रावृषि जातः, प्रावृषिकः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201598,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word प्रावृट् being in the Locative -7th case-affix, there is the affix ठप् in the sense of 'produced therein'.\nThis debars एण्य of <i>sutra</i> [[4.3.17]]. The प् of ठप् is for the sake of accent. प्रावृषि जातः = प्रावृषिकः 'produced in the rainy season'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201598,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word प्रावृट् being in the Locative -7th case-affix, there is the affix ठप् in the sense of 'produced therein'."
+    }
+  ]
+}

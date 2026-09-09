@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210731,
+    "chapter_id": 7781,
+    "verse_number": "७३२",
+    "content_sanskrit": "बाह्",
+    "padaccheda": "बाहृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रयत्ने",
+    "meaning_english": "to endeavour, to try",
+    "audio_url": null,
+    "display_order": 732,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210731,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ( बेहृ बाहृ इत्यत्र ) आद्यः दन्त्योष्ठ्यादिः । अन्त्यः केवलोष्ठ्यादिः । उभावप्योष्ठ्यादी इत्येके । दन्त्योष्ठ्यादीत्यपरे ' इति सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

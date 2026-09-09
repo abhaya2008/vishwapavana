@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212932,
+    "chapter_id": 7794,
+    "verse_number": "१३२",
+    "content_sanskrit": "अर्तिकमिभ्रमिचमिदेविवासिभ्यश्चित्",
+    "padaccheda": "",
+    "anvaya": "अर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212932,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "षड्भ्योऽरश्चित् स्यात् । अररं कपाटम् । कमरः कामुकः । भ्रमरः । चमरः । देवरः । वासरः ।"
+    }
+  ]
+}

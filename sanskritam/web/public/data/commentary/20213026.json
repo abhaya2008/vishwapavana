@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213026,
+    "chapter_id": 7795,
+    "verse_number": "६६",
+    "content_sanskrit": "वङ्क्र्यादयश्च",
+    "padaccheda": "",
+    "anvaya": "क्रिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213026,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्रिन्नन्ता निपात्यन्ते । वङ्क्रिर्वाद्यभेदो गृहदारु पार्श्वास्थि च । वप्रिः क्षेत्रम् । अंह्रिरङ्घ्रिश्च चरणः । तदिः सौत्रो धातुः । तन्द्रिर्मोहः बाहुलकाद्गुणः । भेरिः ।"
+    }
+  ]
+}

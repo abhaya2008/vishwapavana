@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201378,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१२९",
+    "content_sanskrit": "गोधाया ढ्रक्",
+    "padaccheda": "गोधायाः । ढ्रक्",
+    "anvaya": "'तस्य अपत्यम्' (इति) गोधायाः ढ्रक्",
+    "meaning_sanskrit": "'तस्य अपत्यम्' अस्मिन् अर्थे 'गोधा'शब्दात् ढ्रक्-प्रत्ययः भवति ।",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.१.९२), अपत्यम् (४.१.९२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201378,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "गोधाया अपत्ये ढ्रक् प्रत्ययो भवति। गौधेरः। शुभ्रादिष्वयं पठ्यते। तेन गौधेयोऽपि भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201378,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "गौधेरः । शुभ्रादित्वात्पक्षे ढक् । गौधेयः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201378,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<गोधाया ढ्रक्>> - गोधाया ढ्रक् । गौधेर इति । गोधाया अपत्यमिति विग्रहः । ढ्रकि ढकारस्य एयादेशेलोपोव्यो॑रिति यलोपः । कित्त्वादादिवृद्धिरिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201378,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<गोधाया ढ्रक्>> - गौधेर इति । ढस्य एयादेशे कृतेलोपो व्यो॑रिति यलोपः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201378,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`गोधेरः` इति। पूर्ववद्यलोपः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201378,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ढमात्रस्य एय् । गोधा एय् र 'लोपो व्यो—' (६-१-६६) इति यलोपः । गोधा पर, वृद्धिः । यस्येति च । गौधेरः । शुभ्रादित्वाढ्ढकि गौधेयोऽपि ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201378,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढ्रक् comes in the sense of a descendant after the word गोधा।\nThus गोधा + ढ्रक् = गौधेरः ॥ Of the affix '<i>dhrak</i>', the letter ढ् is replaced by एय् [[7.1.2]], क् causes <i>Vriddhi</i> [[7.2.118]] and makes the <i>udatta</i> accent fall on the final [[4.1.165]]. Thus the real affix is एय्र, but the य् is elided by [[6.1.66]] and so the affix that is actually added is एर ॥\n\nThis word गोधा occurs in the <i>Subhradi</i> class [[4.1.123]], also, thus it takes the affix '<i>dhak</i>' as well. Thus गौधेयः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201378,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढ्रक् comes in the sense of a descendant after the word गोधा।"
+    }
+  ]
+}

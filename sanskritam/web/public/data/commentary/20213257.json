@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213257,
+    "chapter_id": 7796,
+    "verse_number": "५९",
+    "content_sanskrit": "प्राततेररन्",
+    "padaccheda": "",
+    "anvaya": "अरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213257,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्रातः ।"
+    }
+  ]
+}

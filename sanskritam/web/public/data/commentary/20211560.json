@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211560,
+    "chapter_id": 7786,
+    "verse_number": "९१",
+    "content_sanskrit": "मिल्",
+    "padaccheda": "मिलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "श्लेषणे",
+    "meaning_english": "to join, to unite, to meet",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211560,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्लेषे मिलेत् सङ्गमे तु मिलते मिलतीति च ' (श्लो. 160) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210083,
+    "chapter_id": 7781,
+    "verse_number": "८४",
+    "content_sanskrit": "ध्रेक्",
+    "padaccheda": "ध्रेकृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दोत्साहयोः",
+    "meaning_english": "to sound,to show joy, to be exhilarated",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210083,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उत्साहः = वृद्धिरौद्धत्यं वा । ' शब्दोत्साहे ' इति केचित् । शब्दोत्साहः = शब्देन स्वोत्साहस्य आविष्करणम् ।"
+    }
+  ]
+}

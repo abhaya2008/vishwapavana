@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213240,
+    "chapter_id": 7796,
+    "verse_number": "४२",
+    "content_sanskrit": "हन्तेर्युन्नाद्यन्तयोर्घत्वतत्वे",
+    "padaccheda": "",
+    "anvaya": "युन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213240,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "घातनो मारकः ।"
+    }
+  ]
+}

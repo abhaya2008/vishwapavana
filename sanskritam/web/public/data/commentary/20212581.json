@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212581,
+    "chapter_id": 7792,
+    "verse_number": "६१",
+    "content_sanskrit": "मूलेरादयः",
+    "padaccheda": "",
+    "anvaya": "एरक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212581,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एरगन्ता निपात्यन्ते । मूलेरो जटा । गुधेरो गोप्ता । गुहेरो लोहघातकः । मुहेरो मूर्खः ।"
+    }
+  ]
+}

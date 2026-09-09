@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212785,
+    "chapter_id": 7793,
+    "verse_number": "१०८",
+    "content_sanskrit": "अर्चिशुचिहुसृपिछादिछर्दिभ्य इसिः",
+    "padaccheda": "",
+    "anvaya": "इसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212785,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अर्चिर्ज्वाला । इदन्तोऽप्ययम् । अग्नेर्भ्राजन्ते अर्चयः । शोचिर्दीप्तिः । हविः सर्पिः । [[6.4.97]] <<इस्मन्...>> इति ह्रस्वः । छदिः पटलम् । छर्दिर्वमनव्याधिः । इदन्तोऽपि । छर्द्यतीसारशूलवान् ।"
+    }
+  ]
+}

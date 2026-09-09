@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211435,
+    "chapter_id": 7785,
+    "verse_number": "४",
+    "content_sanskrit": "मि",
+    "padaccheda": "डुमिञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "प्रक्षेपणे",
+    "meaning_english": "to throw,to scatter",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211435,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मिनोति मिनुते स्वादेः गतौ मयति माययेत् ' (श्लो. 17) इति देवः ।"
+    }
+  ]
+}

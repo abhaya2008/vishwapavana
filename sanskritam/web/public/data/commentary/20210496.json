@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210496,
+    "chapter_id": 7781,
+    "verse_number": "४९७",
+    "content_sanskrit": "सृम्भ्",
+    "padaccheda": "षृन्भुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 497,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210496,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भर्त्सनहिंसयोः ' इति काशकृत्स्नः । उपदेशे नोपधोयं धातुः । ' षिम्भु ' इति मैत्रेयः ।"
+    }
+  ]
+}

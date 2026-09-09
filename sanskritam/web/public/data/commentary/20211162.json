@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211162,
+    "chapter_id": 7781,
+    "verse_number": "११६३",
+    "content_sanskrit": "ह्वे",
+    "padaccheda": "ह्वेञ्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "स्पर्धायां शब्दे च",
+    "meaning_english": "to vie with,to challenge,to compete, to call, to invoke",
+    "audio_url": null,
+    "display_order": 1163,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211162,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — बुलाना\nउप — वि"
+    }
+  ]
+}

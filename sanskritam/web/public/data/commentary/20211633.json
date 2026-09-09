@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211633,
+    "chapter_id": 7786,
+    "verse_number": "१६४",
+    "content_sanskrit": "शद्",
+    "padaccheda": "शदॢँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "शातने",
+    "meaning_english": "to go, to lose energy, to move, to be sad",
+    "audio_url": null,
+    "display_order": 164,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211633,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्वरार्थः पुनः पाठः ' इति कौमुदी । अयमेव धातुः भ्वादौ (855) अपि अस्ति । भौवादिकधात्वपेक्षया अस्य रूपे अभेदात् प्रयोजनाभावाच्च इह पाठः प्रयोजनरहितः इति कृदन्तरूपमालायां विवृतम् ।"
+    }
+  ]
+}

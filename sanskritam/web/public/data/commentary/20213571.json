@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213571,
+    "chapter_id": 7801,
+    "verse_number": "२५",
+    "content_sanskrit": "हयादीनामसंयुक्तलान्तानामन्तः पूर्वं वा",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213571,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": " हयिति हल्सज्ञा । पललम् । शललम् । हयादीनाम् किम् ? एकलः । असंयुक्त इति किम् । मल्लः ॥"
+    }
+  ]
+}

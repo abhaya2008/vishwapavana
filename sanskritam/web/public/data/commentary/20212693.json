@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212693,
+    "chapter_id": 7793,
+    "verse_number": "१६",
+    "content_sanskrit": "अमितम्योर्दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212693,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आम्रम् । ताम्रम् ।"
+    }
+  ]
+}

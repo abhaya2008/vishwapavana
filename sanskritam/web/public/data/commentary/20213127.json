@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213127,
+    "chapter_id": 7795,
+    "verse_number": "१६७",
+    "content_sanskrit": "हुयामाश्रुभसिभ्यस्त्रन्",
+    "padaccheda": "",
+    "anvaya": "त्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 167,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213127,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "होत्रम् । यात्रा । मात्रा । श्रोत्रम् । भस्त्रा ।"
+    }
+  ]
+}

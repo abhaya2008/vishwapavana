@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200135,
+    "chapter_id": 7750,
+    "verse_number": "१.२.६१",
+    "content_sanskrit": "छन्दसि पुनर्वस्वोरेकवचनम्",
+    "padaccheda": "छन्दसि । पुनर्वस्वोः । एकवचनम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": "अनुवृत्तिः — अन्यतरस्याम् (१.२.५८), द्वयोः (१.२.५९), च (१.२.५९), नक्षत्रे (१.२.६०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200135,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अन्यतरस्यामित्यनुवर्तते। द्वयोर्द्विवचने प्राप्ते पुनर्वस्वोश्छन्दसि विषय एकवचनमन्यतरस्यां भवति। पु॑नर्वसुर्न॑क्षत्रम॑दितिर्देव॑ता (मै०सं० २.१३.२०)। पुन॑र्वसू॒ नक्ष॑त्र॒मदि॑तिर्दे॒वता॑ (तै०सं० ४.४.१०.१)। नक्षत्र इत्येव — पुनर्वसू माणवकौ। छन्दसीति किम्? पुनर्वसू इति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200135,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "द्वयोरेकवचनं वा स्यात् । पुनर्वसु नक्षत्रं पुनर्वसू वा । लोके तु द्विवचनमेव ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200135,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "द्वयोर्द्विवचने प्राप्त इति । पूर्वसूत्रे चानुकृष्टस्य द्वयोरित्यस्येहाननुवृतावपि पुनर्वसुशब्देनोद्भूतावयवभेदस्य ज्योतिर्द्वयस्य समुदायस्याभिधानाद् द्वयोरेवायं विधिरिति दर्शयति ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200135,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पुनर्वस्वोर्द्वयोर्नक्षत्रयोर्वा एकत्वं स्यात् । पुनर्वसुर्नक्षत्रम् । पुनर्वसूनक्षत्रम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200135,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "छन्दसि पुनर्वस्वोरेकवचनम्"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200135,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the Vedas, the two stars, पुनर्वासू , may optionally be singular, (and connote a dual).\nIn the Vedas, the star <i>punarvasu</i> which is always dual in form, may be in the singular form and connote a dual meaning. As पुनर्वसुर्नक्षत्रं or पुनर्वसू नक्षत्रमदितिर्देवता ॥ The option is only allowed in the Vedas and not in secular literature. In the latter it must be in the dual, that is, पुनर्वसू ॥ Similarly when it is not the appellation of an asterism but of a man, there is no option. As पुनर्वसू माणवकौ."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200135,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the Vedas, the two stars, पुनर्वासू , may optionally be singular, (and connote a dual)."
+    }
+  ]
+}

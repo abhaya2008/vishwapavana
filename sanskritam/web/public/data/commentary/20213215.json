@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213215,
+    "chapter_id": 7796,
+    "verse_number": "१७",
+    "content_sanskrit": "अर्तेः क्युरुच्च",
+    "padaccheda": "",
+    "anvaya": "क्यु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213215,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उरणो मेषः ।"
+    }
+  ]
+}

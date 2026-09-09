@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211943,
+    "chapter_id": 7790,
+    "verse_number": "१९४",
+    "content_sanskrit": "दंस्",
+    "padaccheda": "दसिँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "दर्शनदंशनयोः",
+    "meaning_english": "to see, to bite,to sting",
+    "audio_url": null,
+    "display_order": 194,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211943,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दंशयेन्मोक्षणे दस्येत् क्षये दंसयते णिचि । दंशदर्शनयोः, दासेर्दाने दासति दासते ' (श्लो. 186 - 187) - देवः । ' दस ' इत्येके ।"
+    }
+  ]
+}

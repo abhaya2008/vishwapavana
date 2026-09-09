@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211888,
+    "chapter_id": 7790,
+    "verse_number": "१३९",
+    "content_sanskrit": "धूस्",
+    "padaccheda": "धूसँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "कान्तिकरणे",
+    "meaning_english": "to be decorated",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211888,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्त्यान्यः । मूर्धन्यान्तः इत्येके । तालव्यान्तः इत्यन्ये ।"
+    }
+  ]
+}

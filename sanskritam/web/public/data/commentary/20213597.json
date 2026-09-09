@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213597,
+    "chapter_id": 7803,
+    "verse_number": "६",
+    "content_sanskrit": "न्यङ्स्वरौ स्वरितौ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213597,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् । न्य॑ङ्ङुत्ता॒नः । व्य॑चक्षय॒त्स्वः ॥"
+    }
+  ]
+}

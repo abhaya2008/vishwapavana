@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212238,
+    "chapter_id": 7790,
+    "verse_number": "४८९",
+    "content_sanskrit": "तुत्थ",
+    "padaccheda": "तुत्थ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आवरणे",
+    "meaning_english": "to cover",
+    "audio_url": null,
+    "display_order": 489,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212238,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  अदन्तः ।  धातुकाव्ये ' अतूत्थिताङ्गा... ' इति उदाहरणदर्शनात् ' तूत्थ ' इति तत्सम्मतः पाठः इति ज्ञायते ।"
+    }
+  ]
+}

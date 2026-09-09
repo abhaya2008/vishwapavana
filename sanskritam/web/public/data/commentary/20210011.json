@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210011,
+    "chapter_id": 7781,
+    "verse_number": "१२",
+    "content_sanskrit": "भन्द्",
+    "padaccheda": "भदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कल्याणे सुखे च",
+    "meaning_english": "to be prosperous, to be glad, to be happy",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210011,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कल्याणम्- मङ्गलम् भद्राकरोति = मुण्डयति, माङ्गल्यगुणेन संस्करोति इत्यर्थः । सुखम् = आत्मगुणः, आत्मगुणोदयो वा ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211090,
+    "chapter_id": 7781,
+    "verse_number": "१०९१",
+    "content_sanskrit": "सु",
+    "padaccheda": "षु",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्रसवैश्वर्ययोः",
+    "meaning_english": "to give birth, to become pregnant, to conceive, to possess power, to possess supremacy",
+    "audio_url": null,
+    "display_order": 1091,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211090,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — उत्पन्न करना, प्रसूत होना, जनना, गर्भ धारण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211090,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रसवोभ्यनुज्ञानम् । आद्ये सकर्मकः । द्वितीये तु अकर्मकः ।"
+    }
+  ]
+}

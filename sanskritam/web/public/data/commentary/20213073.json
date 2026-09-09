@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213073,
+    "chapter_id": 7795,
+    "verse_number": "११३",
+    "content_sanskrit": "शीङ्क्रुशिरुहिजिक्षिसृधृभ्यः क्वनिप्",
+    "padaccheda": "",
+    "anvaya": "क्वनिप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213073,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शीवा अजगरः । क्रुश्वा सृगालः । रुह्वा वृक्षः । जित्वा जेता । क्षित्वा वायुः । सृत्वा प्रजापतिः । धृत्वा विष्णुः ।"
+    }
+  ]
+}

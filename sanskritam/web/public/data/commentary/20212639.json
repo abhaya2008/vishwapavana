@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212639,
+    "chapter_id": 7792,
+    "verse_number": "११९",
+    "content_sanskrit": "सृवृञोर्वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "अङ्गच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 119,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212639,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सारङ्गः । वारङ्गः खड्गादिमुष्टिः ।"
+    }
+  ]
+}

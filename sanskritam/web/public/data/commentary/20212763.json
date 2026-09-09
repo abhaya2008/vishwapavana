@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212763,
+    "chapter_id": 7793,
+    "verse_number": "८६",
+    "content_sanskrit": "छन्दस्यसानच् शुजॄभ्याम्",
+    "padaccheda": "",
+    "anvaya": "असानच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212763,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शवसानः पन्थाः । जरसानः पुरुषः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211223,
+    "chapter_id": 7782,
+    "verse_number": "५८",
+    "content_sanskrit": "वच्",
+    "padaccheda": "वचँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "परिभाषणे",
+    "meaning_english": "to speak,to tell, to talk",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211223,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वक्तीति भाषणे वा णौ वाचयेत् वचतीति वा ' (श्लो. 51) इति देवः । ' भाषणे ' इति क्षीरस्वामि - मैत्रेय - चन्द्र - शाकटायन - हेमचन्द्रादयः । ' पारायणिकैर्नाधीतः अयम् ' इति तरङ्गिण्याम् उक्तम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212634,
+    "chapter_id": 7792,
+    "verse_number": "११४",
+    "content_sanskrit": "पतिचण्डिभ्यामालञ्",
+    "padaccheda": "",
+    "anvaya": "आलञ्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212634,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पातालम् । चण्डालः । प्रज्ञादित्वादणि चाण्डालोऽपीत्येके ।"
+    }
+  ]
+}

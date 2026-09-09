@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200985,
+    "chapter_id": 7759,
+    "verse_number": "३.३.२९",
+    "content_sanskrit": "उन्न्योर्ग्रः",
+    "padaccheda": "उन्न्योः । ग्रः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200985,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<गृ शब्दे>> <<गृ निगरणे>> द्वयोरपि ग्रहणम्। उन्न्योरुपपदयोर्गृृ इत्येतस्माद् धातोर्घञ् प्रत्ययो भवति। उद्गारः समुद्रस्य। निगारो देवदत्तस्य। उन्न्योरिति किम्? गरः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200985,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उद्गारः । निगारः । उन्योः किम् । गरः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200985,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`ॠदोरप्` [[3.3.57]]  इतिप्राप्तस्यायमपवादः। उत्तरत्रापि ॠकारान्ताद्धञ् विधीयमानोऽप एवापवादो वेदितव्यः। `द्वयोरपि ग्रहणम्` इति। विशेषानुपादानात्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200985,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "उद्गारःउअतिप्रवृद्धः शब्दः; निगारोःउभक्षणम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200985,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "उद्गारः । निगारः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200985,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the root गॄ when the उपसर्ग-s उत् and नि are in composition.\nThe verb गृ here refers to both the verbs गृ 'to make sound', and गृ 'to swallow'. As उद्गारः समुद्रस्य 'the roaring of the sea'; निगारो देवदत्तस्य 'the swallowing of <i>Devadatta</i>'. But when without these prepositions, we have गरः ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200985,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the root गॄ when the उपसर्ग-s उत् and नि are in composition."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200985,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "सदोद्गार-सुगन्धीनां फलानामलमाशिताः (भट्टिकाव्यम् 7.38) — `उन्नयोर्मः` इति घञ् ।"
+    }
+  ]
+}

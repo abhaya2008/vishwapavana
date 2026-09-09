@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212876,
+    "chapter_id": 7794,
+    "verse_number": "७६",
+    "content_sanskrit": "पीयुक्कणिभ्यां कालन् ह्रस्वः संप्रसारणं च",
+    "padaccheda": "",
+    "anvaya": "कालन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212876,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पीयुः सौत्रः । पियालो वृक्षभेदः । कुणालो देशभेदः ।"
+    }
+  ]
+}

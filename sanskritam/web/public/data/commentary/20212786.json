@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212786,
+    "chapter_id": 7793,
+    "verse_number": "१०९",
+    "content_sanskrit": "बृंहेर्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "इसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212786,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बर्हिर्ना कुशशुष्मणोः ।"
+    }
+  ]
+}

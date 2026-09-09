@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213540,
+    "chapter_id": 7800,
+    "verse_number": "१७",
+    "content_sanskrit": "अर्यस्य स्वाम्याख्या चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213540,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "<<यान्तस्यान्त्यात्पूर्वम्>> इति <<यतोऽनाव>> [[6.1.213]] इति वाद्युदात्ते प्राप्ते वचनम् ॥"
+    }
+  ]
+}

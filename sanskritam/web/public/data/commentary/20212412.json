@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212412,
+    "chapter_id": 7791,
+    "verse_number": "१५४",
+    "content_sanskrit": "अवान्तरदीक्षा । तिलव्रत । देवव्रत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 154,
+    "avatarnika": "अवान्तरदीक्षादिः (5.1.94)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212412,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "अवान्तरदीक्षादिभ्यो डेर्निर्वक्तव्यः"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200854,
+    "chapter_id": 7758,
+    "verse_number": "३.२.८६",
+    "content_sanskrit": "कर्मणि हनः",
+    "padaccheda": "कर्मणि । हनः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णिनिः (३.२.७८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200854,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कर्मण्युपपदे हन्तेर्धातोर्णिनिः प्रत्ययो भवति भूते काले। पितृव्यघाती। मातुलघाती ॥ कुत्सितग्रहणं कर्तव्यम्॥ इह मा भूत् — चौरं हतवान्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200854,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पितृव्यघाती । कर्मणीत्येतत् सहे च <{SK3006}> इति यावदधिक्रियते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200854,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कर्मणि हनः>> - कर्मणि हनः । कर्मण्युपपदे भूतार्थाद्धनेर्णिनिः स्यात् । पितृव्यघातीति । पितृव्यं हतवानित्यर्थः । 'हनस्तः' इति तः,हो हन्ते॑रिति हस्य घः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200854,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<कर्मणि हनः>> - कर्मणि हनः । पितृव्यघातीति । अत्र काशिकाकुत्सितग्रहणं कर्तव्यम् । इह माभूत्, चोरं हतवा॑निति । यद्यपीदं भाष्ये नास्ति तथापि शब्दशक्तिस्वाभाव्यदिदं लभ्यत इत्याहुः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200854,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पितृव्यघाती` इति। <<हनस्तोऽचिण्णलोः>> [[7.3.32]]  इति तत्वम्। <<हो हन्तेर्ञ्णिन्नेषु>> [[7.3.54]]  इति घत्वम्, `सौ च`  [[6.4.13]]  इति दीर्घत्वम्। `कुत्सितग्रहणं कर्तव्यम्िति प्रत्ययर्थस्य विशेषणम्। गृह्रतेऽनेनेति ग्रहणम्। तत् पुनव्र्याख्यानम्। एतदुक्तं भवति -  येन कुत्सितः कर्ता प्रत्ययार्थो गृह्रते तद्व्याख्यानं कर्तव्यमिति। तत्रेदं व्याख्यानम् -  वक्ष्यमाणबहुलग्रहणमपकृष्येह सम्बन्धः क्रियते, तेन पितृव्यवधादिकां प्रतिषिद्धां क्रियां कुर्वाणो यः कर्ता कुत्स्यते, तत्रव, नान्यत्र॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200854,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कर्मणि हनः॥ कुत्सितग्रहणमिति। पितृव्यवधादिना यः कर्ता कुत्स्यते तत्रायं प्रत्यय इति वक्तव्यमित्यर्थः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200854,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कर्मपूर्वाद्धनेर्भूते णिनिः स्यात् । कुत्सिते चेति वाच्यम् । गोघाती । मातृघाती ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200854,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णिनि comes after the verb हन् 'to kill' with the sense of past time, when the word in composition is in the Accusative -2nd case.\nAs पितृव्यघातिन् 'who has killed his paternal uncle'; मातुलघातिन् 'who has killed his maternal uncle'; हन् + णिनि = घन् + णिनि [[7.3.54]] = घत् + णिनि [[7.3.32]] = घातिन् [[7.2.116]].\n\nThis affix is employed only when censure is implied. Therefore it is not employed in चोरं हतवान् 'he has killed the thief'.\n\nThe <i>anuvritti</i> of the word कर्मणि of this aphorism extends up to <i>sutra</i> [[3.2.96]]."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200854,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णिनि comes after the verb हन् 'to kill' with the sense of past time, when the word in composition is in the Accusative -2nd case."
+    }
+  ]
+}

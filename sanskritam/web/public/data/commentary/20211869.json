@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211869,
+    "chapter_id": 7790,
+    "verse_number": "१२०",
+    "content_sanskrit": "चह्",
+    "padaccheda": "चहँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिकल्कने",
+    "meaning_english": "to cheat, to do misdeed",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211869,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चप ' इति दुर्गसम्मतः पाठः । चहयेच्चहतीत्येते चहेः स्तां परिकल्कने ' (श्लो. 196) इति देवः ।"
+    }
+  ]
+}

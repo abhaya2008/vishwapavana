@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210688,
+    "chapter_id": 7781,
+    "verse_number": "६८९",
+    "content_sanskrit": "शिक्ष्",
+    "padaccheda": "शिक्षँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "विद्योपादाने",
+    "meaning_english": "to learn,to practise, to study, to gain knowledge",
+    "audio_url": null,
+    "display_order": 689,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210688,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शिक्षतेर्जिज्ञासायाम् ' इति वार्तिकं नियमार्थम् इत्यभिप्रयत्नः , अयं धातुः शिक्षाभिन्नार्थे परस्मैपदी इति क्षीरस्वामिप्रभृतयः आहुः । किन्तु नैतत् वार्तिकं नियमार्थम् इति कैयटन्यासपदमञ्जरीधातुवृत्त्यादिषु स्पष्टम् । अतः सर्वत्र आत्मनेपदम् एव इति सिद्धान्तः ।"
+    }
+  ]
+}

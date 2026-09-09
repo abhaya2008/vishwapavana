@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202722,
+    "chapter_id": 7770,
+    "verse_number": "६.२.६०",
+    "content_sanskrit": "षष्ठी प्रत्येनसि",
+    "padaccheda": "षष्ठी । प्रत्येनसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), अन्यतरस्याम् (६.२.५४), राजा (६.२.५९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202722,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "राजेति वर्तते, अन्यतरस्यामिति च। षष्ठ्यन्तो राजशब्दः पूर्वपदं प्रत्येनस्युत्तरपदेऽन्यतरस्यां प्रकृतिस्वरं भवति। राज्ञः प्रत्येना राज॑प्रत्येनाः, रा॒ज॒प्॒रत्ये॒नाः। षष्ठीति किम् ? राजा चासौ प्रत्येनाश्च रा॒ज॒प्॒रत्ये॒नाः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202722,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "षष्ठ्यन्तो राजा प्रत्येनसि परे वा प्रकृत्या । राजप्रत्येनाः । षष्ठी किम् । अन्यत्र न ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202722,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`राज्ञ) प्रत्येनाः` इति। <<षष्ठ्या आक्रोशे>> [[6.3.21]]  इति विभक्तेरलुक्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202722,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "राज्ञः प्रत्येना इति । षष्ठ।ल आकोशे इत्युलुक् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202722,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मिन् परे षष्ठ्यन्तं राजपदं वा प्रकृत्या स्यात् । राजप्रत्येनाः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202722,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word राजन् ending in Genitive 6th-Case optionally retains its original accent before the word प्रत्येनस्।\nThe words राजन् and अन्यतरस्याम् are understood here also. Thus रा꣡ज्ञः प्रत्येनाः or राज्ञः प्रत्येना꣡ ॥ The sign of the Genitive is not elided by [[6.3.21]]. When आक्रोश is not meant we have, रा꣡जप्रत्येनाः or राजप्रत्येनाः꣡ ॥ Why do we say 'ending in the Genitive'? Observe राजा चासौ प्रत्येनाश्च = राजप्रत्येनाः no option."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202722,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word राजन् ending in Genitive 6th-Case optionally retains its original accent before the word प्रत्येनस्।"
+    }
+  ]
+}

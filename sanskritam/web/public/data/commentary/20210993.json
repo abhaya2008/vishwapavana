@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210993,
+    "chapter_id": 7781,
+    "verse_number": "९९४",
+    "content_sanskrit": "बुध्",
+    "padaccheda": "बुधँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अवगमने",
+    "meaning_english": "to know,to understand,to be awakened with knowledge, to be restored to senses,to think, to learn",
+    "audio_url": null,
+    "display_order": 994,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210993,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्रति — किसी को जगाना, जागना\nसम् — अच्छी प्रकार से जानना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210993,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अवगमनम् उद्बोधः ज्ञानं च । ' बुध्यते बोधतीत्येवं बुधेरवगमे द्वयम् । बुधिरो बोधनार्थस्य बोधते बोधतीत्यपि ' (श्लो. 119) इति देवः । ' अयमर्थभेदेन सकर्मकोकर्मकश्च ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

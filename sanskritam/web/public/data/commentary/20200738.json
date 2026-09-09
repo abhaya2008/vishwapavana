@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200738,
+    "chapter_id": 7757,
+    "verse_number": "३.१.१२०",
+    "content_sanskrit": "विभाषा कृवृषोः",
+    "padaccheda": "विभाषा । कृवृषोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कृत्याः (३.१.९५), क्यप् (३.१.१०६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200738,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कृञो वृषश्च विभाषा क्यप् प्रत्ययो भवति। करोतेर्ण्यति प्राप्ते, वर्षतेर्ऋदुपधत्वाद् नित्ये क्यपि प्राप्ते विभाषारभ्यते। कृत्यम्, कार्यम्। वृष्यम्, वर्ष्यम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200738,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्यप्स्यात् । कृत्यम् । वृष्यम् । पक्षे ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200738,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विभाषा कृवृषोः>> - विभाषा कृवृषोः । पञ्चम्यर्थे षष्ठी । कृञ ऋदन्तत्वान्नित्यं ण्यति प्राप्ते, वृषेरृदुपधत्वान्नित्यं क्यपि प्राप्ते च क्यब्विकल्पोऽयम् । पक्षे इति । क्यबभावपक्षे विशेषो वक्ष्यते इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200738,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`वृषेश्च` इति। वृषु {प्लुषु दाहे-धातु पाठः-703} प्लुषु मृषु मेचने` (धातुपाठः-706,707)॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200738,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "विभाषा कृवृषोः॥ वृष्यमिति।'वृषु सेचने' ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200738,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनयोः क्यब् वा स्यात् । कृत्यम् । ण्यति कार्यम् । वृष्यम् । वर्ष्यम् ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200738,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verbs कृञ् 'to do' and वृष् 'to rain', the affix क्यप् is optionally used.\nThe root कृ would have taken the affix ण्यत्, by 124, and the verb वृष् would necessarily have taken क्यप् by 110; the present <i>sutra</i> therefore declares an optional rule. Thus: कृ + क्यप् = कृत्यम् 'to be done'; or कृ + ण्यत् = कार्यम्. So also वृष्यम् or वर्ष्यम् 'stimulating'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200738,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verbs कृञ् 'to do' and वृष् 'to rain', the affix क्यप् is optionally used."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200738,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "कारयिष्यामि वा कृत्यं (भट्टिकाव्यम् 5.45) — `विभाषा कृ-वृपोः` इति क्यप्।"
+    }
+  ]
+}

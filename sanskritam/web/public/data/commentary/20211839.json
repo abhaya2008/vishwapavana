@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211839,
+    "chapter_id": 7790,
+    "verse_number": "९०",
+    "content_sanskrit": "पुल्",
+    "padaccheda": "पुलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "महत्त्वे",
+    "meaning_english": "to be great, to be large, to rise up, to be heaped up",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211839,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " महत्त्वे पोलति पुलेर्णौ तु तत्रैव पोलयेत् ' (श्लो. 156) इति देवः ।"
+    }
+  ]
+}

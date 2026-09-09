@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211262,
+    "chapter_id": 7783,
+    "verse_number": "२०",
+    "content_sanskrit": "कि",
+    "padaccheda": "कि",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "ज्ञाने",
+    "meaning_english": "to know, to understand",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211262,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " छान्दसः ।"
+    }
+  ]
+}

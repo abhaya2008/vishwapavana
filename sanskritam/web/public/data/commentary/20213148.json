@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213148,
+    "chapter_id": 7795,
+    "verse_number": "१८८",
+    "content_sanskrit": "सर्वधातुभ्योऽसुन्",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 188,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213148,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चेतः । सरः । पयः । सदः ।"
+    }
+  ]
+}

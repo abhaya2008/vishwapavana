@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210209,
+    "chapter_id": 7781,
+    "verse_number": "२१०",
+    "content_sanskrit": "शुच्",
+    "padaccheda": "शुचँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शोके",
+    "meaning_english": "to worry, to sorrow, to grieve",
+    "audio_url": null,
+    "display_order": 210,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210209,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' शुच्यते शुच्यतीत्येवं पूतीभावे शुचेः श्यनि । शोके शोचति ' (श्लो.53) इति देवः ।"
+    }
+  ]
+}

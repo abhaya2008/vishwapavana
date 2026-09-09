@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213011,
+    "chapter_id": 7795,
+    "verse_number": "५१",
+    "content_sanskrit": "वहिश्रिश्रुयुद्रुग्लाहात्वरिभ्यो नित्",
+    "padaccheda": "",
+    "anvaya": "नि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213011,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वह्निः । श्रेणिः । श्रोणिः । योनिः । द्रोणिः । ग्लानिः । हानिः । तूर्णिः । बाहुलकान्म्लानिः ।"
+    }
+  ]
+}

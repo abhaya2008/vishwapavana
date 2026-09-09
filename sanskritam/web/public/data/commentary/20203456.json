@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20203456,
+    "chapter_id": 7775,
+    "verse_number": "७.३.६०",
+    "content_sanskrit": "अजिव्रज्योश्च",
+    "padaccheda": "अजिव्रज्योः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": "अनुवृत्तिः — चजोः (७.३.५२), कु (७.३.५२), न (७.३.५९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203456,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अजि व्रजि इत्येतयोश्च कवर्गादेशो न भवति। समाजः। उदाजः। व्रजि — परिव्राजः। परिव्राज्यम्। अजेस्तु <<अजेर्व्यघञपोः>> [[२.४.५६]] इति वीभावस्य विधानाद् ण्यति नास्त्युदाहरणम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203456,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "न कुत्वम् । समाजः । परिव्राजः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203456,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अजिवृज्योश्च>> - अजिव्रजय्श्चेत्यादि स्पष्टम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203456,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<अजिवृज्योश्च>> - समाज इति ।अज गतिक्षेपणयो॑रित्यस्माद्धञिचजो॑रिति कुत्वे प्राप्तेऽयं निषेधः । एवं व्रजेरपि ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203456,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`समाजः उदाजः` इति। `अज गतिक्षेपणयोः` (धातुपाठः-230)। <<समुदोरजः पशुषु>> [[3.3.69]]  इति घञ्। `परिव्राजः, परिव्राज्यम्` इति। `वज व्रज गतौ` (धातुपाठः-252,253)। अथाजेण्र्यति कस्मादुदाहरणं नोपन्यस्तम्? इत्याह - `वीभावस्य` इत्यादि। तत्र `अजेव्र्यघञपोः`  [[2.4.56]]  इति वीभावस्य विधानमिति; तेन तस्योदाहरणं नोपपद्यते, ततो न दर्शितमित्यभिप्रायः। चकारोऽनुक्तसमुच्चयार्थः, तेन वजेरपि प्रतिषेधो भवति - वाजः, वाच्यमिति॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203456,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "समाजः, उदाज इति । पशुभ्योऽन्यत्र'हलश्च'  इति घञ्, पशुषु तु'समुदोरजः पशुषु'  इत्यब्भवति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203456,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कुत्वं न । व्राज्यम् । अजेस्तु ण्यन्न । आर्धधातुक इत्यधिकारे ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20203456,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A guttural is not substituted for the final ज् of अज् and व्रज् before an affix having an indicatory ध् and before ण्यत्।\nThis is an exception to [[7.3.52]]. Thus समाजः, उदाजः, परिव्राजः and परिव्राज्यम् ॥ There is no example of अज् with the affix ण्यत्, because by [[2.4.56]], वी replaces अज् before all <i>ardhadhatuka</i> affixes except घञ् and अप् ॥ The च of the <i>sutra</i> implies that the rule applies to other roots also not mentioned, as वाजः, वाज्यम् from वज् ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20203456,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A guttural is not substituted for the final ज् of अज् and व्रज् before an affix having an indicatory ध् and before ण्यत्।"
+    }
+  ]
+}

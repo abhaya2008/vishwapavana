@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211344,
+    "chapter_id": 7784,
+    "verse_number": "७६",
+    "content_sanskrit": "लिश्",
+    "padaccheda": "लिशँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "अल्पीभावे",
+    "meaning_english": "to decrease,to reduce",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211344,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' लिश्यते लिशतीत्येवमल्पीभावे गतौ क्रमात् ' (श्लो. 165) इति देवः । ' क्षीरस्वामिधनपालौ अस्य तुदादित्वं मन्येते ' इति वदति पुरुषकारः ।"
+    }
+  ]
+}

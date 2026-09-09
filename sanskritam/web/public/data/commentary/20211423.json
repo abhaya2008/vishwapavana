@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211423,
+    "chapter_id": 7784,
+    "verse_number": "१५५",
+    "content_sanskrit": "नभ्",
+    "padaccheda": "णभँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211423,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नभ्येन्नभ्नाति नभते हिंसायां तत्तुभेः समम् ' (श्लो. 145 ) इति देवः ।"
+    }
+  ]
+}

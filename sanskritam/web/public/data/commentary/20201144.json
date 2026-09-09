@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201144,
+    "chapter_id": 7760,
+    "verse_number": "३.४.१२",
+    "content_sanskrit": "शकि णमुल्कमुलौ",
+    "padaccheda": "शकि । णमुल्-कमुलौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), छन्दसि (३.४.६), तुमर्थे (३.४.९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201144,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसीत्येव। शक्नोतौ धातावुपपदे छन्दसि विषये तुमर्थे णमुल् कमुल् इत्येतौ प्रत्ययौ भवतः। णकारो वृद्ध्यर्थः। ककारो गुणवृद्धिप्रतिषेधार्थः। लकारः स्वरार्थः। अ॒ग्निं॑ वै॑ दे॒वा॑ वि॒भा॑जं॒ ना॑श॒क्नुव॒न् (मै०सं० १.६.४)। विभक्तुमित्यर्थः। अ॒प॑लुम्पं॒ ना॑शक्नोत् (मै०सं० १.६.५)। अपलोप्तुमित्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201144,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शक्नोतावुपपदे तुमर्थे एतौ स्तः । विभाजं नाशकत् । अपलुपं नाशकत् । विभक्तुमपलोप्तुमित्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201144,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`विभाजमम्` इति। विपूर्वाद्भजेर्णमुल्। `अपलुपम्` इति। `लुप्लृ च्छेदने` (धातुपाठः-1431), कमुल्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201144,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शकिधातावुपपदे तुमर्थे एतौ स्तः । अग्नि⁸ देवा विभ्राजं नाशक्नुवन् । अवलुपं नाशक्नुवन् । विभवतुं, अश्वलोक्तुमित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201144,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes णमुल् and कमुल् are added to roots in the छन्दस् (Vedas) to form Infinitives, when they are governed by the verb शक् 'to be able'.\nOf the affix णमुल् the real affix is अम्; the letter ण् causes <i>vriddhi</i> [[7.2.115]]; and ल regulates the accent [[6.1.193]]. So also of कमुल्, the letter क् prevents <i>guna</i> and <i>vriddhi</i> substitution [[1.1.5]].\n\nThus अग्निं वै देवा विभाजं नाशक्नुवन् 'the Gods were not able to divide <i>Agni</i>'. विभज् +णमुल् = विभाजं = विभक्तुम् । So also अपलुपं नाशक्नुवन्, instead of अपलोप्तुम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201144,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes णमुल् and कमुल् are added to roots in the छन्दस् (Vedas) to form Infinitives, when they are governed by the verb शक् 'to be able'."
+    }
+  ]
+}

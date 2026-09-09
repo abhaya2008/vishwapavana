@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211149,
+    "chapter_id": 7781,
+    "verse_number": "११५०",
+    "content_sanskrit": "शान्",
+    "padaccheda": "शानँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "तेजने निशाने च",
+    "meaning_english": "to sharpen, to make pointed",
+    "audio_url": null,
+    "display_order": 1150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211149,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तेजनम् = आयुधानां तीक्ष्णीकरणम् ।"
+    }
+  ]
+}

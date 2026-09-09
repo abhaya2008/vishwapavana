@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210460,
+    "chapter_id": 7781,
+    "verse_number": "४६१",
+    "content_sanskrit": "गुप्",
+    "padaccheda": "गुपूँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "रक्षणे",
+    "meaning_english": "to protect, to hide, to conceal",
+    "audio_url": null,
+    "display_order": 461,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210460,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णौ गोपयति भाषार्थे निन्दायां से जुगुप्सते । गोपायेद् रक्षणे त्वाये, व्याकुलत्वे तु गुप्यति ' (श्लो. 129) इति देवः ।"
+    }
+  ]
+}

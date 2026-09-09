@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213178,
+    "chapter_id": 7795,
+    "verse_number": "२१८",
+    "content_sanskrit": "चन्देरादेश्च छः",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 218,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213178,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "छन्दः ।"
+    }
+  ]
+}

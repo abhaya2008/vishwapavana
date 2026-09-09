@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213562,
+    "chapter_id": 7801,
+    "verse_number": "१६",
+    "content_sanskrit": "लुबन्तस्योपमयनामधेयस्य",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213562,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चञ्चेव चञ्चा । 'स्फिगन्तस्य' इति पाठान्तरम् । स्फिगिति लुपः प्राचां संज्ञा ॥"
+    }
+  ]
+}

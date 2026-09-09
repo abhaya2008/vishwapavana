@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212939,
+    "chapter_id": 7794,
+    "verse_number": "१३९",
+    "content_sanskrit": "तुषारादयश्च",
+    "padaccheda": "",
+    "anvaya": "आरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212939,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तुषारः । कासारः । सहार आम्रभेदः ।"
+    }
+  ]
+}

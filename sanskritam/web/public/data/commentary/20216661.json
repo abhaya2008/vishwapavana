@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216661,
+    "chapter_id": 7843,
+    "verse_number": "३६",
+    "content_sanskrit": "तद्भिन्नं ज्ञानमनुभवः । स द्विविधः यथार्थोऽयथार्थश्च ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": "अनुभवः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216661,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "तदिति । स्मृतित्वावच्छिन्नमित्यर्थः । तेन यत्किञ्चित्स्मृतिभिन्नत्वस्य स्मृतौ सत्त्वेऽपि न क्षतिः । घटादावतिव्याप्तिवारणाय ज्ञानमिति । स्मृतिवारणाय तद्भिन्नमिति ।"
+    }
+  ]
+}

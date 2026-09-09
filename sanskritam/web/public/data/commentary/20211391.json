@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211391,
+    "chapter_id": 7784,
+    "verse_number": "१२३",
+    "content_sanskrit": "विस्",
+    "padaccheda": "विसँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to inspire",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211391,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "मा.धा.वृत्तौ ' बिस ' इति पाठः । ' बिस इति कुत्रचित् दृष्टः पाठोप्रामाणिकः ' इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212586,
+    "chapter_id": 7792,
+    "verse_number": "६६",
+    "content_sanskrit": "कपिगडिगण्डिकटिपटिभ्य ओलच्",
+    "padaccheda": "",
+    "anvaya": "ओलच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212586,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कपीति निर्देशान्नलोपः । कपोलः । गडोलगण्डोलौ गुडकपर्यायौ । कटोलः कटुः । पटोलः ।"
+    }
+  ]
+}

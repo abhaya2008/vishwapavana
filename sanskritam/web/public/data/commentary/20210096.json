@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210096,
+    "chapter_id": 7781,
+    "verse_number": "९७",
+    "content_sanskrit": "वृक्",
+    "padaccheda": "वृकँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "आदाने",
+    "meaning_english": "to accept,to seize",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210096,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदने' इति पाठान्तरमिति क्षीरतरङ्गिणीटीका ।"
+    }
+  ]
+}

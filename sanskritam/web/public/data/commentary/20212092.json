@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212092,
+    "chapter_id": 7790,
+    "verse_number": "३४३",
+    "content_sanskrit": "ली",
+    "padaccheda": "ली",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "द्रवीकरणे",
+    "meaning_english": "to melt, to make thin",
+    "audio_url": null,
+    "display_order": 343,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212092,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — खर्च करना\nप्र + वि — प्राप्त करना, सम्पादित करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212092,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " यौ द्रवीकरणेनात्वे लीनयेल्लाययेल्लयेत् । लापयेत् लालयेदात्वे श्लेषणे लीयतेलिनात् ' (श्लो. 17-18) - देवः ।"
+    }
+  ]
+}

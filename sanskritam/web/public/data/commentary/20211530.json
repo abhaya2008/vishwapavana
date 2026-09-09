@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211530,
+    "chapter_id": 7786,
+    "verse_number": "६१",
+    "content_sanskrit": "कुण्",
+    "padaccheda": "कुणँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "शब्दोपकरणयोः",
+    "meaning_english": "to sound, to gift, to support financially, to take care",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211530,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आमन्त्रणे तु कुणयेत् शब्दे चोपकृतौ कुणेत् ' (श्लो. 93) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211729,
+    "chapter_id": 7789,
+    "verse_number": "५१",
+    "content_sanskrit": "मृद्",
+    "padaccheda": "मृदँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "क्षोदे",
+    "meaning_english": "to powder, to cut, to grind",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211729,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्षोदनम् = सञ्चूर्णनम् ' इति धा.का. (3 - 10) ।"
+    }
+  ]
+}

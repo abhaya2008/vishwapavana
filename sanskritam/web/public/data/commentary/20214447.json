@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214447,
+    "chapter_id": 7806,
+    "verse_number": "१६४",
+    "content_sanskrit": "नावश्यं अभिधेयेषु संस्कारः स तथाविधः । दृस्यते न च संबन्धस्तथाभूतो विवक्षितः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 164,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214447,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "एतन्निवारयति - \n घटादिशब्देभ्योऽर्थस्य घटादेर्दृष्टादृष्टप्रयोजनस्य संस्कारस्यादर्शनादत्र संबन्धो न स्यादिति नेदृशसंस्कारनिमित्तमसौ विवक्षितः ॥"
+    }
+  ]
+}

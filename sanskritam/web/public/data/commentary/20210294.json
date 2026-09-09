@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210294,
+    "chapter_id": 7781,
+    "verse_number": "२९५",
+    "content_sanskrit": "वण्ठ्",
+    "padaccheda": "वठिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "एकचर्यायाम्",
+    "meaning_english": "to go alone",
+    "audio_url": null,
+    "display_order": 295,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210294,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वण्ठते त्वेकचर्यायां स्थौल्ये शपि वठेदिति ' (श्लो.83) देवः । ' एकस्य चर्या = एकचर्या = सहायत्वेन आगमनम् ' इति क्षीरस्वामी । ' असहायगमनम् ' इति धातुकाव्यव्याख्यायाम् (1.35) । बालमनोरमायाम् अपि एवमेव ।"
+    }
+  ]
+}

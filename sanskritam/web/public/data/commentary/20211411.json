@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211411,
+    "chapter_id": 7784,
+    "verse_number": "१४३",
+    "content_sanskrit": "रुष्",
+    "padaccheda": "रुषँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to be angry",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211411,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रोषे ' इति क्वचित् पाठः । ' जिहासायाम् ' इति केचित् । ' शपि रोषति हिंसायां रोषे रुष्यति रोषयेत् ' (श्लो. 179) इति देवः ।"
+    }
+  ]
+}

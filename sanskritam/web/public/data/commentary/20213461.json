@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213461,
+    "chapter_id": 7799,
+    "verse_number": "१२७",
+    "content_sanskrit": "अनल्पे छाया",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213461,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शरच्छायम् ।"
+    }
+  ]
+}

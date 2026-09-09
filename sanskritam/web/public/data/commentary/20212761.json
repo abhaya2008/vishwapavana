@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212761,
+    "chapter_id": 7793,
+    "verse_number": "८४",
+    "content_sanskrit": "वर्तमाने पृषद्बृहन्महज्जगच्छतृवच्च",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212761,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अतिप्रत्ययान्ताः । पृषु सेचने गुणाभावः पृषन्ति । बृहत् महान् । गमेर्जगादेशः । जगत् ।"
+    }
+  ]
+}

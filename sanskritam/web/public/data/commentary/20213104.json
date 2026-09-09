@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213104,
+    "chapter_id": 7795,
+    "verse_number": "१४४",
+    "content_sanskrit": "सर्वधातुभ्यो मनिन्",
+    "padaccheda": "",
+    "anvaya": "मनिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213104,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्रियत इति कर्म । चर्म । भस्म । जन्म । शर्म । स्थाम बलम् । [[6.4.97]] <<इस्मन्...>> इति ह्रस्वः । छद्म । सुत्रामा ।"
+    }
+  ]
+}

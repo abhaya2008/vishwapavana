@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211211,
+    "chapter_id": 7782,
+    "verse_number": "४६",
+    "content_sanskrit": "भा",
+    "padaccheda": "भा",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to glow, to shine, to look attractive, to look beautiful",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211211,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — विशेष प्रकाश करना\nप्र — विशेष प्रकाश करना"
+    }
+  ]
+}

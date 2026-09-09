@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211972,
+    "chapter_id": 7790,
+    "verse_number": "२२३",
+    "content_sanskrit": "गल्",
+    "padaccheda": "गलँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "स्रवणे",
+    "meaning_english": "to drip, to flow, to ooze out",
+    "audio_url": null,
+    "display_order": 223,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211972,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — नीचे गिरना\nवि — नजदीक जाना, मदत लेना"
+    }
+  ]
+}

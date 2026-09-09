@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210840,
+    "chapter_id": 7781,
+    "verse_number": "८४१",
+    "content_sanskrit": "अर्ह्",
+    "padaccheda": "अर्हँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to be worthty, to be eligible, to have merit",
+    "audio_url": null,
+    "display_order": 841,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210840,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " हकारान्तप्रसङ्गात् अनिडपि इह पठितः ' इति वाक्यं मा.धा.वृत्तौ दृश्यते । अस्य आशयः न स्फुटः । यतः पूजार्थकः ' अर्ह ' धातुः तु सेट् । ' पूजनेर्हति चार्हयेत् ' (197) इति देवः ।"
+    }
+  ]
+}

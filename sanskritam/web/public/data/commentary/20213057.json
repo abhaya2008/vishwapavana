@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213057,
+    "chapter_id": 7795,
+    "verse_number": "९७",
+    "content_sanskrit": "शाशपिभ्यां ददनौ",
+    "padaccheda": "",
+    "anvaya": "द, दन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213057,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शादो जम्बालशष्पयोः ।"
+    }
+  ]
+}

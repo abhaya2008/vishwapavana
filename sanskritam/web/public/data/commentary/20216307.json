@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216307,
+    "chapter_id": 7825,
+    "verse_number": "११७",
+    "content_sanskrit": "क्वचित्समुदायेऽपि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": "नन्वेवं संयोगसंज्ञासमाससंज्ञाऽभ्यस्तसंज्ञा अपि प्रत्येकं स्युरत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216307,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "'गर्गाः शतं दण्ड्यन्ताम्, अर्थिनश्च राजानो हिरण्येन भवन्ती'त्यादौ दण्डनवत् । लक्ष्यानुरोधेन च व्यवस्था ॥"
+    }
+  ]
+}

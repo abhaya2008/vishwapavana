@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212721,
+    "chapter_id": 7793,
+    "verse_number": "४४",
+    "content_sanskrit": "स्यमेः संप्रसारणं च",
+    "padaccheda": "",
+    "anvaya": "किकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212721,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चाद्दीर्घः । सीमिको वृक्षभेदः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213063,
+    "chapter_id": 7795,
+    "verse_number": "१०३",
+    "content_sanskrit": "रुशातिभ्यां क्रुन्",
+    "padaccheda": "",
+    "anvaya": "क्रुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213063,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रुरुर्मृगभेदः । शातयतीति शत्रुः । प्रज्ञादौ पाठाद्ध्रस्वत्वम् ।"
+    }
+  ]
+}

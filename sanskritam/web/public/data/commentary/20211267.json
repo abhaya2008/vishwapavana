@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211267,
+    "chapter_id": 7783,
+    "verse_number": "२५",
+    "content_sanskrit": "जन्",
+    "padaccheda": "जनँ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "जनने",
+    "meaning_english": "to create, to procreate, to make",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211267,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " छान्दसः । उत्पत्तौ अकर्मकः , उत्पादने सकर्मकः ।"
+    }
+  ]
+}

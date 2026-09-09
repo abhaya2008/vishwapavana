@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201734,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१६२",
+    "content_sanskrit": "माने वयः",
+    "padaccheda": "माने । वयः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 162,
+    "avatarnika": "अनुवृत्तिः — विकारः (४.३.१३४), तस्य (४.३.१३४), अवयवे (४.३.१३५), द्रोः (४.३.१६१), च (४.३.१६१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201734,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "द्रुशब्दाद् माने विकारविशेषे वयः प्रत्ययो भवति। यतोऽपवादः। द्रुवयम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201734,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "द्रोरित्येव । द्रुवयम् । यौतवं द्रुवयं पाय्यमिति मानार्थकं त्रयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201734,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<माने वयः>> - माने वयः । द्रोरित्येवेति । माने विकारे गम्ये द्रुशब्दाद्वयप्रत्ययः स्यादित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201734,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<माने वयः>> - माने वयः । यतोऽपवादः । द्रुवयमिति । द्रोर्विकारभूतं प्रस्थादिपरिमाणमित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201734,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मीयते येन तन्मानं प्रस्थादि ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201734,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "द्रोर्मी वाच्ये वयः स्यात् । द्रुवयं वृक्षकृतं मानम् ।।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201734,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वय comes in the sense of 'product' after the word द्रु , the word meaning 'a measure'.\nThis debars यत् ॥ As द्रुवयम् 'a measure.'"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201734,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वय comes in the sense of 'product' after the word द्रु , the word meaning 'a measure'."
+    }
+  ]
+}

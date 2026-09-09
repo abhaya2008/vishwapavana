@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212807,
+    "chapter_id": 7794,
+    "verse_number": "७",
+    "content_sanskrit": "लक्षेरट् च",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212807,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लक्षेश्चुरादिण्यन्तान्नः स्यात्तस्याडागमश्च । चान्मुडित्येके । लक्षणं लक्ष्मणं नाम्नि चिन्हे च । लक्षणो लक्ष्मणश्च रामभ्राता । लक्षणा हंसयोषायां सारसस्य च लक्ष्मणा ।"
+    }
+  ]
+}

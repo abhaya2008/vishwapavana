@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212234,
+    "chapter_id": 7790,
+    "verse_number": "४८५",
+    "content_sanskrit": "पर्ण",
+    "padaccheda": "पर्ण",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "हरितभावे",
+    "meaning_english": "to become green, to color green",
+    "audio_url": null,
+    "display_order": 485,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212234,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।"
+    }
+  ]
+}

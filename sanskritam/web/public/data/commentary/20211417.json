@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211417,
+    "chapter_id": 7784,
+    "verse_number": "१४९",
+    "content_sanskrit": "रुप्",
+    "padaccheda": "रुपँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "विमोहने",
+    "meaning_english": "to be confused, to be afraid",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211417,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रुपु ' इति धा.का.व्या व्याख्यायाम् (2.67) । ' उदित्पाठः धातुवृत्त्यादिविरोधात् लेखकप्रमादात् आगतः ' इति बालमनोरमा ।"
+    }
+  ]
+}

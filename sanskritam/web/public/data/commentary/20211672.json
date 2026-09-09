@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211672,
+    "chapter_id": 7788,
+    "verse_number": "४",
+    "content_sanskrit": "क्षिण्",
+    "padaccheda": "क्षिणुँ",
+    "anvaya": "U-पदी, गणः 8",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to irritate, to cause pain, to hurt, to break",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211672,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " इदुपधः । अयमपि लाक्षणिकणकारः ।"
+    }
+  ]
+}

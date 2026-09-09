@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214057,
+    "chapter_id": 7805,
+    "verse_number": "२६४",
+    "content_sanskrit": "अर्थप्रकरणापेक्षो यो वा शब्दान्तरैः सह । युक्तः प्रत्याययत्यर्थं तं गौणं अपरे विदुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 264,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214057,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "अथोभयत्रापि गौणमुख्यविभागे निमित्तान्तरं दर्शयितुमाह--\nअर्थप्रकरणशब्दन्तरसंनिधानानि गौणमुख्यभावमुभयत्रापि प्रयोजयतीत्युच्यते ॥"
+    }
+  ]
+}

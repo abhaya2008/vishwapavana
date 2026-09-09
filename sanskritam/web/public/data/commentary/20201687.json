@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201687,
+    "chapter_id": 7763,
+    "verse_number": "४.३.११५",
+    "content_sanskrit": "उपज्ञाते",
+    "padaccheda": "उपज्ञाते",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": "अनुवृत्तिः — तेन (४.३.११२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201687,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तेनेत्येव। तृतीयासमर्थादुपज्ञात इत्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति। विनोपदेशेन ज्ञातमुपज्ञातम्, स्वयमभिसंबुद्धमित्यर्थः। पाणिनिनोपज्ञातं पाणिनीयमकालकं व्याकरणम्। काशकृत्स्नं गुरुलाघवम्। आपिशलं दुष्करणम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201687,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "तेनेत्येव । पाणिनिना उपज्ञातं पाणिनीयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201687,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<उपज्ञाते>> - उपज्ञाते । तेनोपज्ञातमित्यर्थे तृतीयान्ताद्यर्थाविहितं प्रत्ययाः स्युरित्यर्थः । उपज्ञातं-प्रथमज्ञातम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201687,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<उपज्ञाते>> - उपज्ञाते । विनोपदेशं ज्ञातम् — उपज्ञातम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201687,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अकालकम्` इति। कालपरिभाषारहितमित्यर्थः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201687,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "विनोपदेशेन ज्ञातमुपज्ञातमिति । उपपूर्वो जानातिस्तत्र प्रसिद्ध इति भावः । अकालकमिति । आन्याय्यादुत्थानादित्यादिकालपरिभाषारहितमित्यर्थः । गुरुलाघवं नामार्थशास्त्रम्, यत्रोपायानां गौरवं लाघवं चिन्त्यते ।'दूषू'  इत्ययं सङ्केतशब्दो यत्र क्रियते, यथा पाणिनीये'वृत्'  इति, तद् दुष्करणं व्याकरणम्; कामशास्त्रमित्यन्ये ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201687,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "तेन प्रथमं ज्ञात इत्यर्थेऽणादिः । प्राभाकरः पक्षः । तेनैव स्वयं कल्पित इत्यर्थः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201687,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a word in the Instrumental -3rd case in construction an affix is used in the sense 'discovered by him'.\nKnowledge acquired by oneself without being taught is called उपज्ञातं, i.e. an intuition or self taught knowledge. Thus पाणिनिनोपज्ञातं = पाणिनीयम् अकालकं व्याकरणं 'the law of Grammar discovered by <i>Panini</i>'. So also काशकृत्स्नम् गुरुलाघवम्, आपिशलम् दुष्करणम् ॥ Compare [[2.4.21]]. The <i>Panini</i>'s Grammar is called अकालकं as it does not define काल or tenses; गुरुलाघव is the name of the sciences of wealth (यत्रोपायाणां गौरवं लाघवं चिन्त्यते) ॥ The word <i>Duskarana</i> is the name of a Grammar, so-called because of the technical term दुषू occurring in it. Some say it means कामशास्त्रः ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201687,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a word in the Instrumental -3rd case in construction an affix is used in the sense 'discovered by him'."
+    }
+  ]
+}

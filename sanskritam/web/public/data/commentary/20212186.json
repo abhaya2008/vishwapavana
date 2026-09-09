@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212186,
+    "chapter_id": 7790,
+    "verse_number": "४३७",
+    "content_sanskrit": "केत",
+    "padaccheda": "केत",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "श्रावणे आमन्त्रणे च",
+    "meaning_english": "to call, to invite, to hear",
+    "audio_url": null,
+    "display_order": 437,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212186,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' कूट ' इत्यस्य पाठान्तरमिदम् । श्रावणम् समयोद्घोषणम् । निमन्त्रणम् आज्ञा ।"
+    }
+  ]
+}

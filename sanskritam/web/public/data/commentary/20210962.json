@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210962,
+    "chapter_id": 7781,
+    "verse_number": "९६३",
+    "content_sanskrit": "सम्",
+    "padaccheda": "षमँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अवैकल्ये",
+    "meaning_english": "to be calm, to be coolheaded",
+    "audio_url": null,
+    "display_order": 963,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210962,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "\" वैक्लव्ये \" इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213277,
+    "chapter_id": 7797,
+    "verse_number": "९",
+    "content_sanskrit": "घढधष्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213277,
+      "commentary_type": "काशिका",
+      "author": "",
+      "content": "घ ढ ध इत्येतान् वर्णानुपदिश्य पूर्वांश्चान्ते षकारमितं करोति प्रत्याहारार्थम् । तस्य ग्रहणं भवति द्वाभ्याम् - <<एकाचो बशो भष् झषन्तस्य स्ध्वोः>> [[8.2.37]] इति झकारभकाराभ्याम् । "
+    }
+  ]
+}

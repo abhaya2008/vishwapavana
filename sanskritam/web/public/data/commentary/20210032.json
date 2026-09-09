@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210032,
+    "chapter_id": 7781,
+    "verse_number": "३३",
+    "content_sanskrit": "विथ्",
+    "padaccheda": "विथृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "याचने",
+    "meaning_english": "to beg,to ask",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210032,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "विधृ इति कौशिकः । क्षीरस्वामिना त्वयं पक्षो दूषितः' इति धातुवृत्तौ उक्तम् । सायणोक्तः पाठस्तु अधुना तरङ्गिण्यां न उपलभ्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211352,
+    "chapter_id": 7784,
+    "verse_number": "८४",
+    "content_sanskrit": "शक्",
+    "padaccheda": "शकँ",
+    "anvaya": "U-पदी, गणः 4",
+    "meaning_sanskrit": "मर्षणे",
+    "meaning_english": "to be able,to be possible",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211352,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "मर्षणेर्थे शकधातुः विकल्पेन परस्मैपदी भवति । मर्षणमिह सामर्थ्यम् । शक्यति शक्यते वा हरिं द्रष्टुं भक्तः । ' विभाषितः इत्युभयपदीत्यर्थ: ' इति कौमुदी । ' क्षमायाम् ' इति कातन्त्रकाशकृत्स्नौ । ' शक्तौ ' इति वोपदेवः । ' शक्यते शक्यतीत्येवं शपि श्नौ श्यनि च क्रमात् ' (श्लो. 43) इति देवः ।"
+    }
+  ]
+}

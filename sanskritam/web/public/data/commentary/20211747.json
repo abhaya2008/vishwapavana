@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211747,
+    "chapter_id": 7789,
+    "verse_number": "६९",
+    "content_sanskrit": "हेठ्",
+    "padaccheda": "हेठँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "भूतप्रादुर्भावे",
+    "meaning_english": "to occur in abundance",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211747,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तत्त्वबोधिनीयुक्तायां कौमुद्यां ' हिठ च ' इति पाठः ।"
+    }
+  ]
+}

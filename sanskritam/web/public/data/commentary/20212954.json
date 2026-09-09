@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212954,
+    "chapter_id": 7794,
+    "verse_number": "१५४",
+    "content_sanskrit": "असिसञ्जिभ्यां क्थिन्",
+    "padaccheda": "",
+    "anvaya": "क्थिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 154,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212954,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अस्थि । सक्थि ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202428,
+    "chapter_id": 7768,
+    "verse_number": "५.४.१४९",
+    "content_sanskrit": "पूर्णाद्विभाषा",
+    "padaccheda": "पूर्णात् । विभाषा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": "अनुवृत्तिः — बहुव्रीहौ (५.४.११३), लोपः (५.४.१४६), काकुदस्य (५.४.१४८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202428,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पूर्णात् परस्य काकुदशब्दस्य विभाषा लोपो भवति बहुव्रीहौ समासे। पूर्णं काकुदमस्य पूर्णकाकुत्, पूर्णकाकुदः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202428,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पूर्णकाकुत् । पूर्णकाकुदः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202428,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "पूर्णकाकुत्। पूर्णकाकुदः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202428,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पूर्णाद्विभाषा>> - पूर्णाद्विभाषा । पूर्णात्परस्य काकुदस्य लोपा वा स्यादित्यर्थः । पूर्णं काकुदं यस्येति विग्रहः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202428,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पूर्णकाकुत्, पूर्णकाकुदः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202428,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After पूर्ण the final of काकुद is optionally elided in a बहुव्रीहि समास ।\nThus पूर्णम् काकुदमस्य = पूर्णकाकुत् or पूर्णकाकुदः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202428,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After पूर्ण the final of काकुद is optionally elided in a बहुव्रीहि समास ।"
+    }
+  ]
+}

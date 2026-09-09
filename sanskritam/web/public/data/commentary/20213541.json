@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213541,
+    "chapter_id": 7800,
+    "verse_number": "१८",
+    "content_sanskrit": "आशाया अदिगाख्या चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213541,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दिगाख्याव्यावृत्त्यर्थमिदम् । अत एव ज्ञापकाद्दिक्पर्यायस्याद्युदात्तता । इन्द्र॒ आशा॑भ्य॒ स्परि॑ ॥"
+    }
+  ]
+}

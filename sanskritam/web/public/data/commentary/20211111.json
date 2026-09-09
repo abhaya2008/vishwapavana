@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211111,
+    "chapter_id": 7781,
+    "verse_number": "१११२",
+    "content_sanskrit": "प्लु",
+    "padaccheda": "प्लुङ्",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 1112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211111,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "क्लुङ् इत्यपि पाठः ।"
+    }
+  ]
+}

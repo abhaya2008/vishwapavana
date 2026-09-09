@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200889,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१२१",
+    "content_sanskrit": "नन्वोर्विभाषा",
+    "padaccheda": "नन्वोः । विभाषा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अनद्यतने (३.२.१११), लट् (३.२.११८), पृष्टप्रतिवचने (३.२.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200889,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भूत इत्येव। नशब्दे नुशब्दे चोपपदे पृष्टप्रतिवचने विभाषा लट् प्रत्ययो भवति भूते। अकार्षीः कटं देवदत्त? न करोमि भोः। नाकार्षम्। अहं नु करोमि। अहं न्वकार्षम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200889,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अकार्षीः किम् । न करोमि नाकार्षम् । अहं तु करोमि । अहं न्वकार्षम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200889,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<नन्वोर्विभाषा>> - नन्वोर्विभाषा । न नु अनयोद्र्वन्द्वः । तदाह —  नशब्दे नुशब्दे चेति । लड्वा स्यादिति 'भूते' इति शेषः । अकार्षीः किमिति प्रश्नः । न कोरमि, नाकार्षमित्युत्तरम् । अहं नु करोमि, अहं न्वकार्षमिति च ।तर्के नु स्या॑दित्यमरः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200889,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<नन्वोर्विभाषा>> - नन्वोः । भृत इत्येव । पक्षे लुङ् । अनद्यतने तु लङ् । पक्षे यथाप्राप्तमिति । लुङ्लटोरभावपक्षे लङ्, पारोक्ष्ये तु लिडित्यर्थः । भविष्यतीति ।भविष्यति गम्यादयः॑ इति सूत्रात् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200889,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ननुभ्यां योगे उक्तविषये लङ् वा स्यात् । अकार्षीः किम् । न करोमि; नाकार्षम् । अहं नु करोमि, अहं न्वकार्षम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200889,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix लट् (Present Tense) comes optionally after a verb in denoting past time, in reply to an interrogation, when the words न 'not' and नु 'what of that' are in connection with it.\nAs, अकार्षीः कटं देवदत्त -- न करोमि भोः or नाकार्षम्; -- अहं नु करोमि or अहं न्वकार्षम् '<i>Devadatta</i>, did you make the mat ? -- No I did not; --  what of that, I did'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200889,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix लट् (Present Tense) comes optionally after a verb in denoting past time, in reply to an interrogation, when the words न 'not' and नु 'what of that' are in connection with it."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200889,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अ-पृष्टो नु ब्रवीति त्वां (भट्टिकाव्यम् 18.17) — `नन्वोर्विभापा` इति भूते धात्वर्थे विभाषा लट् ।\nन करोमि तवाऽप्रियम् (भट्टिकाव्यम् 18.36) — `नन्वोर्विभाषा` इति पृष्टप्रतिवचने लट् ।"
+    }
+  ]
+}

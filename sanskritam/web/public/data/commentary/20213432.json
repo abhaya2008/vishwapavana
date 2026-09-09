@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213432,
+    "chapter_id": 7799,
+    "verse_number": "९८",
+    "content_sanskrit": "चमसांसररनिर्यासोपवासकार्पासवासमासकासकांसमांसानि नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213432,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदं चमसम् । अयं चमसः । इत्यादि ।"
+    }
+  ]
+}

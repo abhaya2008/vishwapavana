@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212934,
+    "chapter_id": 7794,
+    "verse_number": "१३४",
+    "content_sanskrit": "अङ्गिमदिमन्दिभ्य आरन्",
+    "padaccheda": "",
+    "anvaya": "आरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 134,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212934,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अङ्गारः । मदारो वराहः । मन्दारः ।"
+    }
+  ]
+}

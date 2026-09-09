@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20201650,
+    "chapter_id": 7763,
+    "verse_number": "४.३.७८",
+    "content_sanskrit": "ऋतष्ठञ्",
+    "padaccheda": "ऋतः । ठञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": "अनुवृत्तिः — आगतः (४.३.७४), तत (४.३.७४), विद्या-योनि-संबन्धेभ्यः (४.३.७७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201650,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "विद्यायोनिसंबन्धेभ्य इत्येव। ऋकारान्तेभ्यः प्रातिपदिकेभ्यो विद्यायोनिसंबन्धवाचिभ्यष्ठञ् प्रत्ययो भवति तत आगत इत्येतस्मिन् विषये। वुञोऽपवादः। विद्यासंबन्धवाचिभ्यस्तावत् — होतुरागतं हौतृकम्। पौतृकम्। योनिसंबन्धवाचिभ्यः — भ्रातृकम्। स्वासृकम्। मातृकम्। तपरकरणं मुखसुखार्थम्। विद्यायोनिभ्यामन्यत्र सावित्रम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201650,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वुञोऽपवादः । पैतृकम् । भ्रातृकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201650,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ऋतष्ठञ्>> - ऋतष्ठञ् । ऋदन्ताद्विद्यायोनिसम्बन्धवाचिन इत्यर्थः । <<तत आगत>> इत्येव । हौतृकं भ्रातृकमिति। उकः परत्वाट्ठस्य कः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201650,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<ऋतष्ठञ्>> - ऋतष्ठञ् । 'विद्यायोनिसम्बन्धेभ्यः' इति वर्तते। तदाह- वुञोऽपवाद इति। 'उष्कञ्' इति वक्तव्ये तपरकरणं ठञ्ग्रहणं च चिन्त्यप्रयोजनमिति प्राञ्चः । पैतृकी विद्येत्यत्र ङीबर्थं ठञ्ग्रहणमिति तु तत्त्वम् । न च टिड्ढेति सूत्रे कञ्ग्रहणान्ङीप्सिध्यतीति वाच्यं, यादृशी, तादृशीत्याद्यसिद्धेः । तदनुबन्धकग्रहणेनाऽतदनुबन्धकस्याग्रहणात्, 'त्यदादिषु दृशः' इति कञो द्व्यनुबन्धकत्वात् । तपरकरणं विहाय 'उष्ठञ्' इत्येव सुवचमित्याहुः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201650,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "'तपरकरणं मुखसुखार्थम्' इति। अथ दीर्घनिवृत्त्यर्थं कस्मान्न भवति? असम्भवात्। न हि विद्यायोनिसम्बन्धिषु किञ्चिदृकारान्तं प्रातिपदिकमस्ति यन्निवृत्त्यर्थस्तकारः स्यात्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201650,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "एषूदाहरणेषु 'इसुसुक्तान्तात्कः'। एवं च प्रक्रियालाघवाय कञेवायं विधेयः, तथा तु न कृतमित्येव॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201650,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>विद्यायोनिजसम्बन्धवचनाट्ठञ् दन्ततः । हौतृकं होतुरायातं मातृकं स्वासृकं तथा ॥ २५२ ॥</karika>"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201650,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठञ् comes in the sense of 'come thence' after a word ending in short ऋ and denoting a person related through learning or blood.\nThis debars वुञ् ॥ Thus होतुरागतम् = हौतृकम् 'derived from <i>Hotri</i>.' पौतृकम् ॥ So also of 'blood,' as:- भ्रातृकम्, स्वासृकम्, मातृकम् ॥\n\nThe त् in ऋत् is for the sake of facility of pronunciation, there being no such word ending in long ॠ ॥\n\nWhen the words do not denote relationship through learning or blood, this affix is not employed. As, सावित्रम् ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201650,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठञ् comes in the sense of 'come thence' after a word ending in short ऋ and denoting a person related through learning or blood."
+    },
+    {
+      "id": 10,
+      "verse_id": 20201650,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "पदमृद्धमजेन पैतृकं (रघुवंशम् 8.6) — `ऋतष्ठञ्` इति ठञ्प्रत्ययः।\nमातृकं च धनुरूर्जितं दधत् (रघुवंशम् 11.64) — `ऋतष्ठञ्` इति ठञ्प्रत्ययः।\nभेजे पैतृकमासनम् (रघुवंशम् 17.28) — `ऋतष्ठञ्` इति ठञ्प्रत्ययः।"
+    }
+  ]
+}

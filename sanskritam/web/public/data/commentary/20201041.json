@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201041,
+    "chapter_id": 7759,
+    "verse_number": "३.३.८५",
+    "content_sanskrit": "उपघ्न आश्रये",
+    "padaccheda": "उपघ्नः । आश्रये",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), हनः (३.३.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201041,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उपपूर्वस्य हन्तेरप् प्रत्यय उपधालोपश्च निपात्यत आश्रयेऽभिधेये। आश्रयशब्दः सामीप्यं प्रत्यासत्तिं लक्षयति। पर्वतोपघ्नः। ग्रामोपघ्नः। आश्रय इति किम्? पर्वतोपघात एवान्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201041,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उपपूर्वाद्धन्तेरप् स्यादुपधालोपश्च । आश्रयशब्देन सामीप्यं लक्ष्यते । पर्वतेनोपहन्यते सामीप्येन गम्यते इति पर्वतोपघ्नः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201041,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`आश्रयशब्दः` इत्यादि। आश्रयणमाश्रयः = सेवा। सा च यत्र प्रत्यासत्तिस्तत्र भवतीत्याश्रयः प्रत्यासत्तिसहचरः।तस्मादाश्रयशब्दः सामीप्यं प्रत्यासत्तिमुपलक्षयति; तदर्थस्य प्रत्यासत्तिसाहचर्यात्। `पर्वतोपघ्नः` इति। पर्वतसमीपभूतोऽर्थ उच्यते॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201041,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "आश्रयशब्द इत्यादि । आश्रयणमाश्रयः, स प्रत्यासत्याऽविनाभावीत्येतल्लक्षणहेतुः । पर्वतोपघ्न इति । पर्वतेनोपहन्यतेउसामीप्येन गम्यत इति कर्मण्यम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201041,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "लताया उपघ्नस्तरुः । आश्रयः समीपमित्येवान्ये । शैलुपघ्नो देशः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201041,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word उपघ्न is irregularly formed meaning 'an inclined place for leaning or support'.\nIt is formed by adding अप् [[3.3.76]] to the verb हन् preceded by the <i>upasarga</i> उप, then eliding the penultimate अ of ह; this is the irregularity. Then by <i>sandhi</i> rules हन् is changed into घ्नः । This form would have been given by the affix क also, without any irregularity.\n\nThe word आश्रय refers to 'proximity, contiguity'. Thus पर्वतोघ्नः 'the declivity of the mountain'; so also ग्रामोपघ्नः 'bordering the village'.\n\nWhy do we say 'when meaning support'? Observe पर्वतोपघातः ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201041,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word उपघ्न is irregularly formed meaning 'an inclined place for leaning or support'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201041,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "स्नान्तीनां बृहदमलोदबिन्दुचित्रै रेजाते रुचिरदृशामुरोजकुम्भौ । हाराणां मणिभिरुपाश्रितौ समन्तादुत्सूत्रैर्गुणवदुपघ्नकाम्ययेव ॥ (शिशुपालवधम् 8.53) — `उपघ्न आश्रये` इति हन्तेः अप्-प्रत्ययान्तः निपात्यते।"
+    }
+  ]
+}

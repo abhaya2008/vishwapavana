@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210018,
+    "chapter_id": 7781,
+    "verse_number": "१९",
+    "content_sanskrit": "स्वर्द्",
+    "padaccheda": "स्वर्दँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "आस्वादने",
+    "meaning_english": " to taste,to eat,to please the tongue, to have delight",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210018,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अनुभवे सकर्मकः । रुचौ अकर्मकः । ' आस्वादनं जिह्वया लेहः ' इति स्वामी । 'ष्वर्द' इति पुरुषकारः ।"
+    }
+  ]
+}

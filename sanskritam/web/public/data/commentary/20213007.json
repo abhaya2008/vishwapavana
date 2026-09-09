@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213007,
+    "chapter_id": 7795,
+    "verse_number": "४७",
+    "content_sanskrit": "दल्मिः",
+    "padaccheda": "",
+    "anvaya": "मि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213007,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दल विशरणे । दल्मिरिन्द्रायुधम् ।"
+    }
+  ]
+}

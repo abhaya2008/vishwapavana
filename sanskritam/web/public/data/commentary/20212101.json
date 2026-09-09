@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212101,
+    "chapter_id": 7790,
+    "verse_number": "३५२",
+    "content_sanskrit": "छृद्",
+    "padaccheda": "छृदीँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सन्दीपने",
+    "meaning_english": "to ignite, to set on fire",
+    "audio_url": null,
+    "display_order": 352,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212101,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' छृद ' इति केचित् । ' चृप छृप दृप सन्दीपने । चर्पयति, छर्पयति ' इति कौमुदी । ' छृदी सन्दीपने वा णौ छर्दयेच्छर्दतीत्युभे । छृन्ते छणत्तीति पदे दीप्तिदेवनयोः श्नमि ' (श्लो. 115) इति देवः ।"
+    }
+  ]
+}

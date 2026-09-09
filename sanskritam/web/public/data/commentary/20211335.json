@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211335,
+    "chapter_id": 7784,
+    "verse_number": "६७",
+    "content_sanskrit": "विद्",
+    "padaccheda": "विदँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "सत्तायाम्",
+    "meaning_english": "to exist",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211335,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "निर् — विरक्त होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211335,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सत्तायां विद्यते ज्ञाने वेत्ति विन्ते विचारणे ' (श्लो. 111) - देवः ।"
+    }
+  ]
+}

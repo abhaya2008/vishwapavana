@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211314,
+    "chapter_id": 7784,
+    "verse_number": "४६",
+    "content_sanskrit": "पूर्",
+    "padaccheda": "पूरीँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "आप्यायने",
+    "meaning_english": "to fill,to complete, to fullfill",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211314,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आप्यायनं वृद्धिः ' इति क्षीरस्वामी । ' पूरेराप्यायनेर्थे स्यात् पूर्यते पूरयेदपि ' (श्लो. 150) इति देवः ।"
+    }
+  ]
+}

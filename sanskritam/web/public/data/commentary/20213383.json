@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213383,
+    "chapter_id": 7799,
+    "verse_number": "४९",
+    "content_sanskrit": "क्रतुपुरुषकपोलगुल्फमेघाभिधानानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213383,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्रतुरध्वरः । पुरुषो नरः । कपोलो गरुडः । गुल्फः प्रपदः । मेघो नीरदः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211401,
+    "chapter_id": 7784,
+    "verse_number": "१३३",
+    "content_sanskrit": "लुट्",
+    "padaccheda": "लुटँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "विलोडने",
+    "meaning_english": "to churn,to agitate,to shake, to move",
+    "audio_url": null,
+    "display_order": 133,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211401,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विलोटने ' इति क्षीरस्वामी । ' लुठ ' इति द्वितीयान्तः पठितः सिद्धान्तकौमुद्याम् । धातुकाव्येपि । (2.66)"
+    }
+  ]
+}

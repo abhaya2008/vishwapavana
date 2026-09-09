@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213055,
+    "chapter_id": 7795,
+    "verse_number": "९५",
+    "content_sanskrit": "उल्बादयश्च",
+    "padaccheda": "",
+    "anvaya": "बन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213055,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बन्नन्ता निपात्यन्ते । उच समवाये । चस्य लत्वं गुणाभावश्च । उल्बो गर्भाशयः । शुल्बं ताम्रम् । बिम्बम् ।"
+    }
+  ]
+}

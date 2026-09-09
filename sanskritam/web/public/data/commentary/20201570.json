@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201570,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१४३",
+    "content_sanskrit": "पर्वताच्च",
+    "padaccheda": "पर्वतात् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": "अनुवृत्तिः — छः (४.२.१३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201570,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पर्वतशब्दाच् छः प्रत्ययो भवति शैषिकः। अणोऽपवादः। पर्वतीयो राजा। पर्वतीयः पुरुषः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201570,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पर्वतीयः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201570,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पर्वताच्च>> - पर्वताच्च — इत्यादि स्पष्टम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201570,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<पर्वताच्च>> - पर्वतीय इति ।तत्र जन्यं रघोर्घोरं पार्वतीयैर्गणैरभू॑दित्यत्र तुपर्वतीयस्य राज्ञ इमे॑ इत्यर्थे छान्तादण् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201570,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पर्वतभवः । पर्वतीयो राजा ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201570,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छ comes after the word पर्वत in the remaining senses.\nThis debars अण् ॥ Thus पर्वतीयो राजा \"the hill-king\". पर्वतीयः पुरुषः 'the hill man'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201570,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छ comes after the word पर्वत in the remaining senses."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201570,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "पर्वतीयैर्गणैरभूत् (रघुवंशम् 4.77) — `पर्वताञ्च` इति छप्रत्ययः।\nपर्वतीय इति मावजीगणः (किरातार्जुनीयम् 13.67) — `पर्वताच्च` इति छप्रत्ययः।"
+    }
+  ]
+}

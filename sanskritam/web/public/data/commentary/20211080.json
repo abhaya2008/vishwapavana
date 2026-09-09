@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211080,
+    "chapter_id": 7781,
+    "verse_number": "१०८१",
+    "content_sanskrit": "स्वृ",
+    "padaccheda": "स्वृ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दोपतापयोः",
+    "meaning_english": "to sound, to be ill, to irritate, to trouble",
+    "audio_url": null,
+    "display_order": 1081,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211080,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — अच्छा शब्द करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211080,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उपतापः = रोगः ।"
+    }
+  ]
+}

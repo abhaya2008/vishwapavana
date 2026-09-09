@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212604,
+    "chapter_id": 7792,
+    "verse_number": "८४",
+    "content_sanskrit": "कषेश्छश्च",
+    "padaccheda": "",
+    "anvaya": "ऊ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212604,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कच्छूः पामा ।"
+    }
+  ]
+}

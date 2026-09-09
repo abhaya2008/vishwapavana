@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210873,
+    "chapter_id": 7781,
+    "verse_number": "८७४",
+    "content_sanskrit": "दक्ष्",
+    "padaccheda": "दक्षँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतिहिंसनशासनवृद्धिशीघ्रार्थेषु",
+    "meaning_english": "to go, to kill, to destroy",
+    "audio_url": null,
+    "display_order": 874,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210873,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "षिच्च । ' गतिशासनयोः ' इति मा.धा.वृत्त्यादिषु पाठो दृश्यते । भ्वादिष्वेव पूर्वे पठितस्य दक्षधातोः (810) अर्थभेदेन मित्त्वार्थं घटादिषु पुनः पाठः । मित्त्वसामर्थ्यात् अनदुपधत्वेपि ण्यन्ते , णमुलि च दीर्घविकल्पः ।"
+    }
+  ]
+}

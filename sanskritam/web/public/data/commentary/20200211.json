@@ -1,0 +1,94 @@
+{
+  "verse": {
+    "id": 20200211,
+    "chapter_id": 7751,
+    "verse_number": "१.३.६४",
+    "content_sanskrit": "प्रोपाभ्यां युजेरयज्ञपात्रेषु",
+    "padaccheda": "प्र-उपाभ्याम् । युजेः । अयज्ञपात्रेषु",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200211,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<युजिर् योगे>> (धा० पा० १४४५) स्वरितेत्। तस्य कर्त्रभिप्राये क्रियाफले सिद्धमेवात्मनेपदम्। अकर्त्रभिप्रायार्थोऽयमारम्भः। प्र उप इत्येवं पूर्वाद् युजेरयज्ञपात्रप्रयोगविषयादात्मनेपदं भवति। प्रयुङ्क्ते। उपयुङ्क्ते। अयज्ञपात्रेष्विति किम्? द्वन्द्वं न्यञ्चि पात्राणि प्रयुनक्ति (देवसंयुक्तानि) (आ० गृ० १.१.१६)॥ स्वराद्यन्तोपसृष्टादिति वक्तव्यम्॥ उद्युङ्क्ते। नियुङ्क्ते। स्वराद्यन्तोपसृष्टादिति किम्? संयुनक्ति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200211,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्रयुङ्क्ते । उपयुङ्क्ते ।<!स्वराद्यन्तोपसर्गादिति वक्तव्यम् !> (वार्तिकम्) ॥ उद्युङ्क्ते । नियुङ्क्ते । अयज्ञपात्रेषु किम् । द्वन्द्वंन्यञ्चि पात्राणि प्रयुनक्ति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200211,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<प्रोपाभ्यां युजेरयज्ञपात्रेषु>> - प्रोपाभ्यां ।आत्मनेपद॑मिति शेषः । स्वरेति । स्वरौ अचौ आद्यन्तौ यस्य सः स्वराद्यन्तः । तथाभूतोपसर्गात्परत्व एव युजेरात्मनेपदमित्यर्थः । द्वन्द्वमिति । द्वन्द्वं द्विशः, न्यञ्चि —  अधोबिलानीत्यर्थ- ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200211,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`युज समाधौ`(धातुपाठः-1177) इत्यस्यानुदात्तेत्त्वात् सिद्धमात्मनेपदमित्यतस्तस्येह ग्रहणमयुक्तमित्यभिप्रायेणाह -  `युजिर्योगे` इति। `प्रयुङ्कते` इति। रुधादित्वात् <<श्नसोरल्लोपः>> [[6.4.111]]  इत्यकारलोपः। <<चोः कुः>> [[8.2.30]]  इति कुत्वम् = जकारस्य गकारः, `खरि च`  [[8.4.54]]  इति चत्त्र्वम् = ककारः, `नश्च`  [[8.3.24]]  इत्यादिनाऽनुस्वारः, <<अनुस्वारस्य ययि परसवर्णः>> [[8.4.58]]  इति ङकारः।`स्वराद्यन्तोपसृष्टाविति वक्तव्यम्` इति। स्वरोऽज् आदिरन्तो वा यस्य स स्वराद्यन्तः, तदुपसृष्टात् = तत्सम्बन्धाद्युजेरात्मनेपदं भवति -  इत्येतदर्थरूपं व्याख्येयमित्यर्थः। तत्रेदं व्याख्यानम्- इह सूत्रे प्रशब्दोऽजन्तोपसर्गलक्षणार्थः, उपशब्दोजाद्युपलक्षणार्थः, उपशब्दोऽजाद्युपलक्षणार्थः, तेन सर्वेणाजन्तेनाजादिना चोपसर्गेण चयुक्ताज्युजेरात्मनेपदं भवतीति। स्वराद्यन्तोपसृष्टादिति किम्? निर्युनक्ति॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200211,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "प्रोपाभ्यां युजेरयज्ञपात्रेषु॥ युजिर्योगे इति ।'युज समाधौ'  इत्यस्य,न दैवादिकस्य, अनुदातेत्वादेव सिद्धम्, युजरिति च विवक्षित इकारः, न त्वागन्तुकः। यज्ञपात्रविषयता चास्यैव सम्भवतीति भावः। प्रयुङ्क्त इति। रुधादिभ्यः श्नम्ऽ'श्नसोरल्लोपः'  कुत्वचर्त्वे, अनुस्वारपरसवर्णौ। स्वराद्यन्तोपसृष्टदिति। स्वरःउअ इ, आदिरन्तो वा यस्य स स्वराद्यन्तः। तेनोपसर्गेण सम्बन्धः, स्वराद्यन्तोपसृष्टः- सम् निस् दुस् इत्येतान् वर्जयित्वा सर्व एवोपसर्गास्संगृहीताः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200211,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां परस्य युजेरयज्ञपात्रविषये तङ् । प्रयुङ्क्ते । उपयुङ्क्ते । <karika>अजादेरप्यजन्तादप्युपसर्गात् तडिष्यते । उद्युङ्क्ते च वियुङ्क्ते च पर्यन्वादिषु यो¹ज्यताम् ॥ ६५२ ॥</karika> <karika>आदावन्ते चाजभावात् संयुनक्त्यादिके न तङ् । यज्ञपात्र तु पात्राणि प्रयुनक्तीति नास्ति तङ् ॥ ६५३ ॥</karika>"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200211,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "प्रोपाभ्यां युजेरयज्ञापात्रेषु स्वराद्युपसृष्टात्। स्वराद्युपसृष्टादिति वक्तव्यम्। उद्युङ्क्ते अनुयुङ्क्ते । अपर आह  -  स्वराद्यन्तोपसृष्टात्। स्वराद्यन्तोपसृष्टादिति वक्तव्यम् । प्रयुङ्क्ते नियुङ्क्ते विनियुङ्क्ते ॥ 64 ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200211,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb युज् 'to join', the आत्मनेपद is used, when it is preceded by प्र and उप except with reference to sacrificial vessels even when the fruit of the action does not accrue to the agent.\nThe verb युजिर् 'to join' is <i>svaritet</i>, and consequently by <i>sutra</i> [[1.3.72]] it is always <i>atmanepadi</i>, when the fruit of the action accrues to the agent. The present <i>sutra</i> declares when this verb may take the terminations of <i>atmanepada</i>, even when the fruit of the action does not accrue to the agent. After the verb युज् preceded by the prepositions  प्र and उप the terminations are of the <i>atmanepada</i>, when not employed in reference to sacrificial vessels. As प्रयुङ्क्ते 'he joins or employs'; उपयुङ्क्ते 'he fits or uses.'\n\nWhy do we say \"when not employed in reference to sacrificial vessels?\" Because there the terminations will be of the <i>parasmaipada</i>. As द्वन्द्वं न्यञ्चि पात्राणि प्रयुनक्ति.\n\nVartika:- It shall be rather stated that the root takes the terminations of the <i>atmanepada</i> when preceded by any preposition beginning or ending with a vowel. This is an important modification of the above rule. Thus उद्युङ्क्ते and नियुङ्क्ते. In fact, all <i>upasargas</i>, with the exception of सम्, निर्, and दुर्, either begin or end with a vowel, and therefore the <i>Vartika</i> amounts to the inclusion of all prepositions with the above exception.\n\nWith सम्, निर् and दुर्, however, the root will take <i>parasmaipada</i> terminations; as संयुनक्ति."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200211,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb युज् 'to join', the आत्मनेपद is used, when it is preceded by प्र and उप except with reference to sacrificial vessels even when the fruit of the action does not accrue to the agent."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200211,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. स्वराद्यन्तोपसृष्टादिति वक्तव्यम् ।"
+    },
+    {
+      "id": 11,
+      "verse_id": 20200211,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "प्रायुङ्क्त राज्ये बत दुष्-करे त्वाम् (भट्टिकाव्यम् 3.51) — `कर्त्रभिप्राये प्रोपाभ्यां युजेः` इत्यात्मनेपदम्।\nशोकाऽपनुदम-व्यग्रं प्रायुङ्क्त कपि-कुञ्जरः (भट्टिकाव्यम् 6.88) — `प्रोपाभ्यां युजेः` इत्यात्मनेपदम् ।\nउपायुङ्क्त यथाऽमृतम् (भट्टिकाव्यम् 8.39) — `प्रोपाभ्याम्` इति तङ्।"
+    }
+  ]
+}

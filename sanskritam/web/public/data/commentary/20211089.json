@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211089,
+    "chapter_id": 7781,
+    "verse_number": "१०९०",
+    "content_sanskrit": "स्रु",
+    "padaccheda": "स्रु",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go,to drip, to ooze, to flow",
+    "audio_url": null,
+    "display_order": 1090,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211089,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्रुतौ च द्रुमे । शु स्रु गतावित्येके ' इति धा.का. व्या. (2 - 34)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211982,
+    "chapter_id": 7790,
+    "verse_number": "२३३",
+    "content_sanskrit": "मान्",
+    "padaccheda": "मानँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "स्तम्भे",
+    "meaning_english": "to boast, to be egoistic, to be proud, to stabilize",
+    "audio_url": null,
+    "display_order": 233,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211982,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्तम्भे मानयते ज्ञाने मन्यते मनुते पदम् ' (श्लो. 125) इति देवः ।"
+    }
+  ]
+}

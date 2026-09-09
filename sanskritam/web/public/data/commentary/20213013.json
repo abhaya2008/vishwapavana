@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213013,
+    "chapter_id": 7795,
+    "verse_number": "५३",
+    "content_sanskrit": "वृदृभ्यां विन्",
+    "padaccheda": "",
+    "anvaya": "विन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213013,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वर्विर्घस्मरः । दर्विः ।"
+    }
+  ]
+}

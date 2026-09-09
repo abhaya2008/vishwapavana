@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201508,
+    "chapter_id": 7762,
+    "verse_number": "४.२.८१",
+    "content_sanskrit": "जनपदे लुप्",
+    "padaccheda": "जनपदे । लुप्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201508,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "देशे तन्नाम्नीति यश्चातुरर्थिकः प्रत्ययो भवति, तस्य देशविशेषे जनपदेऽभिधेये लुब् भवति। ग्रामसमुदायो जनपदः। पञ्चालानां निवासो जनपदः पञ्चालाः। कुरवः। मत्स्याः। अङ्गाः। वङ्गा। मगधाः। सुह्माः। पुण्ड्राः। इह कस्माद् न भवति — उदुम्बरा अस्मिन् सन्ति, औदुम्बरो जनपदः, वैदिशो जनपद इति ? तन्नाम्नीति वर्तते। न चात्र लुबन्तं तन्नामधेयं भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201508,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "जनपदे वाच्ये चातुरर्थिकस्य लुप्स्यात् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201508,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "जनपदे वाच्ये चातुरर्थिकस्य लुप् ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201508,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<जनपदे लुप्>> - जनपदे लुप् । चातुरर्थिकस्येति । प्रकरणलभ्यमिदम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201508,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<जनपदे लुप्>> - जनपदे लुप् । तन्नाम्नीत्येव । नेह — उदुम्बराः सन्त्यास्मिन्नौदुम्बरो जनपदः । न ह्यत्र लुबन्तं नामधेयम् । जनपदस्यैकत्वादेकवचने प्राप्ते बहुवचनादिफलकमतिदेशमाह —  ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201508,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "जनपदे वाच्ये चातुरर्थिकस्य लुप् स्यात् । 'लुपि युक्तवदि'ति (१-२-५१) प्रकृतिवल्लिङ्गवचने । कुरूणां निवासो जनपदः, कुरवः प्रकृतेर्बहुत्वाद् बहुवचनम् ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201508,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The name of a kingdom is formed by the लुप् elision of these affixes (when the name of the people without the change of number and gender, is at the same time the name of the kingdom).\nThe words within bracket in the above <i>sutra</i> are added by the reading together of this <i>sutra</i> with <i>sutra</i> [[1.2.51]]. Dr. Otto Bohtlingk the learned translator of <i>Panini</i> in German, has done so, and I think this addition is necessary for the elucidation of the <i>sutra</i>. The aphorism literally means : (The quadruply significant affix) is elided, when the place (देश) to be named is a kingdom (जनपद). Thus पंचालानां निवासो जनपदः = पंचालाः । So also कुरवः, मत्स्याः, अङ्गाः, वङ्गाः, मगधाः, सुह्माः, पुण्ड्राः ॥\n\nWhy is there no <i>lup</i>-elision of the affix in the following examples : औदुम्बरो जनपदः 'the Kingdom in which there are fig-trees'. वैदिशो जनपदः &c? Because here the words औदुम्बरः and वैदिशः are not names of Kingdom, but are used merely as epithets. In fact the phrase तन्नाम्नि is understood here also."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201508,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The name of a kingdom is formed by the लुप् elision of these affixes (when the name of the people without the change of number and gender, is at the same time the name of the kingdom)."
+    }
+  ]
+}

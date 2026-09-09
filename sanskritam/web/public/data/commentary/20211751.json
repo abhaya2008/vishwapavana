@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211751,
+    "chapter_id": 7790,
+    "verse_number": "२",
+    "content_sanskrit": "चिन्त्",
+    "padaccheda": "चितिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "स्मृत्याम्",
+    "meaning_english": "to contemplate,to think,to discuss,to remember, to worry",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211751,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चिन्तयेत् । स्मृत्याम् , चेतति संज्ञाने , तत्र चेतयते णिचि ' (श्लो. 94) इति देवः ।"
+    }
+  ]
+}

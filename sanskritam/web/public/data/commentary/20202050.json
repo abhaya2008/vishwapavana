@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20202050,
+    "chapter_id": 7766,
+    "verse_number": "५.२.३०",
+    "content_sanskrit": "अवात् कुटारच्च",
+    "padaccheda": "अवात् । कुटारच् । च",
+    "anvaya": "अवात् कुटारच् कटच् च",
+    "meaning_sanskrit": "'अव' उपसर्गात् स्वार्थे कुटारच् तथा कटच् प्रत्ययौ भवतः । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": "अनुवृत्तिः — कटच् (५.२.२९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202050,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अवशब्दात् कुटारच् प्रत्ययो भवति, चकारात् कटच्। अवकुटारम्। अवकटम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202050,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चात्कटच् । अवाचीनोऽवकुटारः । अवकटः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202050,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अवात् कुटारच्च>> - अवात्कुटारच्च । क्रियाविशिष्टसाधानवाचकादवात्स्वार्थे कुटरच स्यादित्यर्थः । अवाचीन इति । अवाचीने विद्यमानादवात्कुटरचि अवकुटार इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202050,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अवकुटारम्, अवकटमिति। अवाचीनम्, अप्रसिद्धमित्यर्थः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202050,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "चकारात् कटच् । अवकुटारम् अवकटम् । एताववनते प्रसिद्धे वेति हरः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202050,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes कुटारच् and कटच् come after the word अव।\nAs अवकुटारम्, अवकटम् 'downwards', 'very deep'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202050,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes कुटारच् and कटच् come after the word अव।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20202050,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'अवाचीनः' (directed downwards) अस्मिन् अर्थे प्रयुक्तात् 'अव' अस्मात् उपसर्गात् स्वार्थे  कुटारच् तथा कटच् प्रत्ययौ भवतः -\n(अ) अव + कुटारच् = अवकुटार ।\n(आ) अव + कटच् = अवकट ।\nद्वयोः अपि शब्दयोः अर्थः 'अवाचीनः' (directed downwards) इत्येव अस्तीति व्याख्यानेषु स्पष्टीक्रियते ।\n"
+    }
+  ]
+}

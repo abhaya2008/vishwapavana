@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210879,
+    "chapter_id": 7781,
+    "verse_number": "८८०",
+    "content_sanskrit": "क्लन्द्",
+    "padaccheda": "क्लदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वैक्लव्ये",
+    "meaning_english": "to be afraid, to to grieve,to cry,to shed tears",
+    "audio_url": null,
+    "display_order": 880,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210879,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "(वैकल्ये इत्येके ) ' अनिदित् इति नन्दी ' इति स्वामी । ( कदि - वैकल्ये इत्यत्र (772) इत्यत्र विवरणं द्रष्टव्यम् ।)"
+    }
+  ]
+}

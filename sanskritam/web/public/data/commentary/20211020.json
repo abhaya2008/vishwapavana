@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211020,
+    "chapter_id": 7781,
+    "verse_number": "१०२१",
+    "content_sanskrit": "चीव्",
+    "padaccheda": "चीवृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "आदानसंवरणयोः",
+    "meaning_english": "to accept, to takem to wear, to hold",
+    "audio_url": null,
+    "display_order": 1021,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211020,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अनृदिदित्येके ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213089,
+    "chapter_id": 7795,
+    "verse_number": "१२९",
+    "content_sanskrit": "जनिघसिभ्यामिण्",
+    "padaccheda": "",
+    "anvaya": "इण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213089,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जनिर्जननम् । घासिर्भक्ष्यमग्निश्च ।"
+    }
+  ]
+}

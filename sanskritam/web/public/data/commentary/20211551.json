@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211551,
+    "chapter_id": 7786,
+    "verse_number": "८२",
+    "content_sanskrit": "चिल्",
+    "padaccheda": "चिलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "वसने",
+    "meaning_english": "to dress",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211551,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " निवासने ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

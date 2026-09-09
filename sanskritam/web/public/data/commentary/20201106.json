@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201106,
+    "chapter_id": 7759,
+    "verse_number": "३.३.१५०",
+    "content_sanskrit": "चित्रीकरणे च",
+    "padaccheda": "चित्रीकरणे । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), उताप्योः (३.३.१४१), लिङ् (३.३.१४७), यच्च-यत्रयोः (३.३.१४८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201106,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यच्चयत्रयोरित्येव। चित्रीकरणमाश्चर्यमद्भुतं विस्मयनीयम्। यच्चयत्रयोरुपपदयोश्चित्रीकरणे गम्यमाने धातोर्लिङ् प्रत्ययो भवति। सर्वलकाराणामपवादः। यच्च तत्र भवान् वृषलं याजयेत्। यत्र तत्र भवान् वृषलं याजयेत्, आश्चर्यमेतत्। क्रियातिपत्तौ यथायथं लृङ् भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201106,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यच्च यत्र वा त्वं शूद्रं याजयेः । आश्चर्यमेतत् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201106,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<चित्रीकरणे च>> - चित्रीकरणे च । यच्चयत्रयोः प्रयोगे आश्चर्ये गम्ये लिहेव स्यान् तु लकारान्तरमित्यर्थः । उदाहरणे यच्चेति यत्रेति चाश्चर्यद्योतकम् । त्वं शूद्रं याजयेरिति यत्तदाश्चर्यमित्यन्वयः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201106,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<चित्रीकरणे च>> - चित्रीकरणे च । अयमपि कालत्रये । लृङ् प्राग्वत् । यच्च यत्र वा त्वं शूद्रमयाजयिष्यः, आश्चर्यमेतत्!! ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201106,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आश्चर्येऽर्थे यच्चयत्रयोगे लिङेव । यच्च यत्रेतीहाश्चर्यद्योतकौ । चित्रमेतद् यच्च भवान् हस्तिनं जयेत्१ । एवं - यत्र भवान् हस्तिनं जयेत् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201106,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix लिङ् (Benedictive) comes in all tenses when used with the words यच्च and यत्र and the sense implied is that of 'wonder'.\nThe word चित्रीकरणं means 'wonder, astonishment, strangeness &c'. This debars all the other tense-affixes. Thus यच्च or यत्र तत्र भवान् वृषलं याजयेत् आश्चर्यमेतत् 'this is a wonder that you should sacrifice for a <i>Sudra</i>'.\n \nWhen the non-completion of the action is indicated, the Conditional is employed under the rules [[3.3.139]], [[3.3.140]] and [[3.3.141]]. Thus आश्चर्यमेतत् यच्च or यत्र त्वं शूद्रं याजयेः or अयाजयिष्यः 'it is a wonder that you should (have attempted to) perform a sacrifice for a <i>Sudra</i>'; आश्चर्यमेतत् यच्च or यत्र त्वं शूद्रं अयाजयिष्यः 'it is a wonder that you should (hereafter attempt to) make a <i>Sudra</i> perform a sacrifice'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201106,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix लिङ् (Benedictive) comes in all tenses when used with the words यच्च and यत्र and the sense implied is that of 'wonder'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201106,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "प्रब्रूयाम वयं हितम् (भट्टिकाव्यम् 19.19) — `चित्रीकरणे च` इति लिङ्।\nकृच्छ्रेऽवर्त्स्यन्मते तव (भट्टिकाव्यम् 21.8) — `चित्रीकरणे च` इति यच्चयत्रयोः उपपदयोः चित्रीकरणे लृङ्।"
+    }
+  ]
+}

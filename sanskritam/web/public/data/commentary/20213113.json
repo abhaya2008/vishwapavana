@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213113,
+    "chapter_id": 7795,
+    "verse_number": "१५३",
+    "content_sanskrit": "हनिमशिभ्यां सिकन्",
+    "padaccheda": "",
+    "anvaya": "सिकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213113,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हंसिका हंसयोषिति । मक्षिका ।"
+    }
+  ]
+}

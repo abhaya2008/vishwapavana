@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211647,
+    "chapter_id": 7787,
+    "verse_number": "४",
+    "content_sanskrit": "रिच्",
+    "padaccheda": "रिचिँर्",
+    "anvaya": "U-पदी, गणः 7",
+    "meaning_sanskrit": "विरेचने",
+    "meaning_english": "to separate, to abort, to purify the body, to sweep, to cleanse the body",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211647,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अति — अतिक्रमण करना\nवि — मलशुद्धि होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211647,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विरेचनम् = निःसारणम् ' इति क्षीरस्वामी । ' रिचिर् विरेचने रिङ्क्ते रिणक्ति श्ने, वियोजने । सम्पर्चने च यौ वा णौ रेचयत्यपि रेचति ' (श्लो.52) इति देवः ।"
+    }
+  ]
+}

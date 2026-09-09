@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213090,
+    "chapter_id": 7795,
+    "verse_number": "१३०",
+    "content_sanskrit": "अज्यतिभ्यां च",
+    "padaccheda": "",
+    "anvaya": "इण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213090,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आजिः संग्रामः । आतिः पक्षी ।"
+    }
+  ]
+}

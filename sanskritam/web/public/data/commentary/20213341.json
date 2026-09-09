@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213341,
+    "chapter_id": 7799,
+    "verse_number": "७",
+    "content_sanskrit": "वह्निवृष्णवग्नयः पुंसि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213341,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पूर्वस्यापवादः ।"
+    }
+  ]
+}

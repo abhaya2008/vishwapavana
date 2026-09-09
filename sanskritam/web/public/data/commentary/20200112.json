@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200112,
+    "chapter_id": 7750,
+    "verse_number": "१.२.३८",
+    "content_sanskrit": "देवब्रह्मणोरनुदात्तः",
+    "padaccheda": "देव-ब्रह्मणोः । अनुदात्तः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": "अनुवृत्तिः — एकश्रुति (१.२.३३), सुब्रह्मण्यायाम् (१.२.३७), स्वरितस्य (१.२.३७), तु (१.२.३७), उदात्तः (१.२.३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200112,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सुब्रह्मण्यायामेव देवा ब्रह्माण इति पठ्यते, तत्र पूर्वेण स्वरितस्योदात्ते प्राप्तेऽनेनानुदात्तो विधीयते। देवब्रह्मणोः स्वरितस्यानुदात्त आदेशो भवति। दे॒वा ब्र॒ह्माण आ॒गच्छत (श०ब्रा० ३.३.४.२०)। द्वयोरपि पदयोरामन्त्रिताद्युदात्तत्वे शेषनिघाते चोदात्तादनुदात्तस्य स्वरितः कृतस्तस्यानुदात्तो भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200112,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अनयोः स्वरितस्यानुदात्तः स्यात्सुब्रह्मण्यायाम् । देवाब्रह्माण आगच्छत ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200112,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`द्वयोरपि पदयोरामन्त्रिताद्युदात्तत्वे कृते` इति। `विभाषितं विशेषितं विशेषवचने बहुवचनम्`  [[8.1.74]]  इति पूर्वस्याविद्यामानत्वात् <<आमन्त्रितस्य च>> [[8.1.19]]  इति पदात् परस्यापि निघातो न भवति। तेन द्वयोरपि पृथगेव षाष्ठिकमाद्युदात्तत्वं भवति। `शेषनिघातः` इति। <<अनुदात्तं पदमेकवर्जम्>> [[6.1.158]]  इत्यनेन।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200112,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "स्वरितस्योदाते प्राप्ते इति । कथं प्राप्तः, यावताऽसिद्धः स्वरितः ? एवं तर्ह्येतज्ज्ञापयत्याचार्यः-ऽतस्यादितःऽ इत्यारभ्य नबसूत्री ऽउदातादनुदातस्य स्वरितःऽ त्यिस्मात्परा द्रष्टव्येति । उक्तानि प्रयोजनानि, उतरत्र च वक्ष्यामः । सामान्यापेक्षत्वाज्ज्ञापकस्य नवसूत्र्यप्युत्कृष्यते, न सुब्रह्मण्यास्वर एव । द्वयोरपि पदयोरिति । द्वितीयस्य पदत्परस्यापि निघातो न भवति; ऽ आमन्त्रितं पूर्वमविद्यमानवद्ऽ इति पूर्वस्याविद्यमान्त्वात् । प्रथमस्यापि न भवति; भिन्नवाक्यत्वात् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200112,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "मन्त्रे देवब्रह्मणोः स्वरस्यानुच्चः स्यात् । देवा ब्रह्माणः । द्वयोरामन्त्रिय- योराद्यु*"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200112,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "देवब्रह्मणोरनुदात्तः - देवब्रह्मणोरनुदात्तत्वमेके - देवब्रह्मणोरनुदात्तत्वमेक इच्छन्ति। देवा ब्रह्माणः, देवा ब्रह्माणः ॥ देवब्रह्मणोरनुदात्तः ॥ 38 ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200112,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words देवा and ब्राह्मण in those hymns have अनुदात्त accent.\nBy <i>sutra</i> [[1.2.37]], it was declared, that in <i>subrahmanya</i> hymns, <i>svarita</i> accent is replaced by <i>udatta</i> accent. This <i>sutra</i> makes an exception in favour of the words देव and ब्राह्मण occurring in those hymns. These words have <i>anudatta</i> accent. As देवा॒ ब्रह्मा॒ण आग॒च्छत 'come ye <i>Devas</i> and <i>Brahmanas</i>.' Here the word देवा gets <i>udatta</i> accent on the first syllable by rule [[6.1.198]] \\[1\\]. (in the vocative the accent is on the beginning): at वा <i>va</i> has originally an <i>anudatta</i> accent which by rule [[8.4.66]] \\[2\\] (an <i>anudatta</i> following an <i>udatta</i> is changed into <i>svarita</i>) would have been changed into <i>svarita</i>. This <i>svarita</i>, by the previous <i>sutra</i> required to be changed into <i>udatta</i>; but by this rule, it is replaced by <i>anudatta</i>. In other words, the original <i>anudatta</i> remains unchanged.\n\n## Footnotes\n- [1] - आमन्त्रितस्य च ॥\n- [2] - उदात्तादनुदात्तस्य स्वरितः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200112,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words देवा and ब्राह्मण in those hymns have अनुदात्त accent."
+    }
+  ]
+}

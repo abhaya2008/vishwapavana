@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211669,
+    "chapter_id": 7788,
+    "verse_number": "१",
+    "content_sanskrit": "तन्",
+    "padaccheda": "तनुँ",
+    "anvaya": "U-पदी, गणः 8",
+    "meaning_sanskrit": "विस्तारे",
+    "meaning_english": "to spread, to stretch, to expand, to increase",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211669,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्रद्धोपकरणार्थस्य तनेस्तनति तानयेत् । दैर्घ्यार्थस्योपसर्गात् तु , विस्तारे तनुतेतनोत् ' (श्लो. 127 - 128) इति देवः ।"
+    }
+  ]
+}

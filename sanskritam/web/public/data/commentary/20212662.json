@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212662,
+    "chapter_id": 7792,
+    "verse_number": "१४२",
+    "content_sanskrit": "इषियुधीन्धिदसिश्याधूसूभ्यो मक्",
+    "padaccheda": "",
+    "anvaya": "मक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212662,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इष्मः कामवसन्तयोः । ईषीति पाठे दीर्घादिः । युध्मः शरो योद्धा च । इध्मः समित् । दस्मो यजमानः । श्यामः धूमः । सूमोऽन्तरिक्षम् । बाहुलकादीर्मं व्रणः ।"
+    }
+  ]
+}

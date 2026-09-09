@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212833,
+    "chapter_id": 7794,
+    "verse_number": "३३",
+    "content_sanskrit": "वचेर्गश्च",
+    "padaccheda": "",
+    "anvaya": "नु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212833,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वग्नुः ।"
+    }
+  ]
+}

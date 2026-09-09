@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210402,
+    "chapter_id": 7781,
+    "verse_number": "४०३",
+    "content_sanskrit": "अड्ड्",
+    "padaccheda": "अड्डँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अभियोगे",
+    "meaning_english": "to join from all sides, to pray, to do a crime",
+    "audio_url": null,
+    "display_order": 403,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210402,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अभियोगः = समाधानम् । दोपधः अयं धातुः ।"
+    }
+  ]
+}

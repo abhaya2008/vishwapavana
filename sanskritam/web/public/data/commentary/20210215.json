@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210215,
+    "chapter_id": 7781,
+    "verse_number": "२१६",
+    "content_sanskrit": "वञ्च्",
+    "padaccheda": "वन्चुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 216,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210215,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वञ्चतीति गतावर्थे वञ्चयेत प्रलम्भने ' (श्लो.48) इति देवः ।"
+    }
+  ]
+}

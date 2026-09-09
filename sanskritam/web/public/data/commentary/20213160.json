@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213160,
+    "chapter_id": 7795,
+    "verse_number": "२००",
+    "content_sanskrit": "वृङ्शीङ्भ्यां रूपस्वाङ्गयोः पुट् च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 200,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213160,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वर्पो रूपम् । शेपो गुह्यम् ।"
+    }
+  ]
+}

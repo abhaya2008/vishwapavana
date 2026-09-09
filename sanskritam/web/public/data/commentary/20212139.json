@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212139,
+    "chapter_id": 7790,
+    "verse_number": "३९०",
+    "content_sanskrit": "वर",
+    "padaccheda": "वर",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "ईप्सायाम्",
+    "meaning_english": "to wish, to desire, to hope",
+    "audio_url": null,
+    "display_order": 390,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212139,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।"
+    }
+  ]
+}

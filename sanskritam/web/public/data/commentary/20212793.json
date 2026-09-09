@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212793,
+    "chapter_id": 7793,
+    "verse_number": "११६",
+    "content_sanskrit": "मनेर्धश्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "उसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212793,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मधुः ।"
+    }
+  ]
+}

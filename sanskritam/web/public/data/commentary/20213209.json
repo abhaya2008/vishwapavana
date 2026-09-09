@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213209,
+    "chapter_id": 7796,
+    "verse_number": "११",
+    "content_sanskrit": "दंशेश्च",
+    "padaccheda": "",
+    "anvaya": "ट, टन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213209,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दाशो धीवरः ।"
+    }
+  ]
+}

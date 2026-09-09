@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201080,
+    "chapter_id": 7759,
+    "verse_number": "३.३.१२४",
+    "content_sanskrit": "जालमानायः",
+    "padaccheda": "जालम् । आनायः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), करण-अधिकरणयोः (३.३.११७), च (३.३.११७), पुंसि (३.३.११८), घञ् (३.३.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201080,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आनाय इति निपात्यते, जालं चेत् तद् भवति। आङ्पूर्वाद् नयतेः करणे घञ् निपात्यते। आनायो मत्स्यानाम्। आनायो मृगाणाम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201080,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आनीयन्ते मत्स्यादयोऽनेनेत्यानायः । जालमिति किम् । आनयनः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201080,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<जालमानायः>> - जालमा । जल धातने [धान्ये] ज्वलितिकसन्तेभ्यो णः॑ इति णप्रत्यये जालमाशब्दः सिद्धः । तेन जालशब्दोऽत्र निपात्यतैति न भ्रमितव्यम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201080,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "'जल घात्ये'  इत्यतः'ज्वलितिकसन्तेभ्यो णः'  इति णे कृते जालमिति भवति । आनीयन्ते मत्स्यादयोऽनेनेत्यानायः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201080,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "करणे घञयम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201080,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word आनाय is irregularly formed when the meaning is 'a net'.\nThe word is thus formed in the sense of instrument. आ + नो + घञ् = आनायः 'a net' (by which they are caught); as आनायो मत्स्यानां 'a net for fish'; आनायो मृगाणाम् 'a net for wild deer &c'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201080,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word आनाय is irregularly formed when the meaning is 'a net'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201080,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "कृतान्ताऽऽनाय-सन्निभम् (भट्टिकाव्यम् 7.83) — `जालमानायः` इति नयतेराङ्पूर्वात्करणे घञ् निपात्यते।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212116,
+    "chapter_id": 7790,
+    "verse_number": "३६७",
+    "content_sanskrit": "अर्ह्",
+    "padaccheda": "अर्हँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to be worthty, to be eligible, to have merit",
+    "audio_url": null,
+    "display_order": 367,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212116,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पूजनेर्हति चार्हयेत् ' (श्लो. 197) इति देवः ।"
+    }
+  ]
+}

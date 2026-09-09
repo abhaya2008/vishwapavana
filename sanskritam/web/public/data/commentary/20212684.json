@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212684,
+    "chapter_id": 7793,
+    "verse_number": "७",
+    "content_sanskrit": "पातॄतुदिवचिरिचिसिचिभ्यस्थक्",
+    "padaccheda": "",
+    "anvaya": "थक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212684,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पीथो रविर्घृतं पीथम् । तीर्थं शास्त्राध्वरक्षेत्रोपायोपाध्यायमन्त्रिषु । अवतारर्षिजुष्टाम्भःस्त्रीरजःसु च विश्रुतमिति विश्वः । तुत्थोऽग्निः । उक्थं सामभेदः । रिक्थम् । बाहुलकादृचेरपि । रिक्थमृक्थं धनं वसु । सिक्थम् ।"
+    }
+  ]
+}

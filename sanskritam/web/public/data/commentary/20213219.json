@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213219,
+    "chapter_id": 7796,
+    "verse_number": "२१",
+    "content_sanskrit": "अमेः सन्",
+    "padaccheda": "",
+    "anvaya": "सन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213219,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अंसः ।"
+    }
+  ]
+}

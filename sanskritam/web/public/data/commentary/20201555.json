@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201555,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१२८",
+    "content_sanskrit": "नगरात् कुत्सनप्रावीण्ययोः",
+    "padaccheda": "नगरात् । कुत्सन-प्रावीण्ययोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 128,
+    "avatarnika": "अनुवृत्तिः — वुञ् (४.२.१२१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201555,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नगरशब्दाद् वुञ् प्रत्ययो भवति शैषिकः कुत्सने प्रावीण्ये च गम्यमाने। प्रत्ययार्थविशेषणं चैतत्, कुत्सने प्रावीण्ये च जातादौ प्रत्ययार्थ इति। कुत्सनं निन्दनम्। प्रावीण्यं नैपुण्यम्।\n\nकेनायं मुषितः पन्था गात्रे पक्ष्मालिधूसरः।\n\nइह नगरे मनुष्येण संभाव्यत एतन्नागरकेण। चोरा हि नागरका भवन्ति।\n\nकेनेदं लिखितं चित्रं मनोनेत्रविकाशि यत्।\n\nइह नगरे मनुष्येण संभाव्यत एतन्नागरकेण। प्रवीणा हि नागरका भवन्ति। कुत्सनप्रावीण्ययोरिति किम्? नागरा ब्राह्मणाः। कत्र्यादिषु तु संज्ञाशब्देन साहचर्यात् संज्ञानगरं पठ्यते, तस्मिन् नागरेयकमिति प्रत्युदाहार्यम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201555,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नगरशब्दाद्वुञ् स्यात्कुत्सने प्रावीण्ये च गम्ये । नागरकश्चौरः शिल्पी वा । कुत्सनेति किम् । नागरा ब्राह्मणाः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201555,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<नगरात् कुत्सनप्रावीण्ययोः>> - नगरात्कुत्सन । नागरा ब्राआहृणा इति । कत्र्यादिषु माहिष्मतीसाहचर्येण संज्ञाभूतस्यैव नगरशब्दस्य ग्रहणम् । अतो न ढकञ् ।प्राचां ग्रामनगराणामि॑ति सूत्रभाष्ये 'नागरा' इत्युदाहरणात् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201555,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`नागरा ब्राआहृणाः` इति। अण्। ननु च `नगर,माहिष्मती`  [[4.2.94]]  इति नगरशब्दः कत्त्र्यादिषु पठते, ततो ढकञा भवितव्यम्, तत्कथं नागरा इति प्रत्युदाह्यियत इत्याह - `कत्त्र्यादिषु` इति। द्विविधो नगरशब्दः - जातिवचनः, संज्ञावचनश्च। तयोः कत्त्र्यादिषु माहिष्मतीशब्देन साहचर्यात् संज्ञाशब्दः पठते। तत्र जातिशब्दान्नागरा इति प्रत्युदाहृतम्। संज्ञाशब्दे तु नागरेयक इति प्रत्युदाहर्तव्यम्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201555,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "केनेदं मुषितमिति प्रश्नः, इह नगरे मनुष्येणेत्युतरम् । सम्भाव्यत एतदित्यादि प्रष्टुअर्वचनम् । संज्ञानगरं पठ।ल्त इति । माहिष्मतीशब्दसाहचर्यात् संज्ञानगरं संज्ञाभूतो नगरशब्द इत्यर्थः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201555,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नगरजुषां छलाद्यैः कुत्सितत्वं बहुपरिचयात् प्रावीण्यं चास्ति । तयोर्द्योत्य- योर्नगराद् वुञ् । नागरकेण मुषितं स्यात् । नागरकेण सा वशीकृता स्यात् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201555,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes after the word नगर in the remaining senses, when censure or praise is implied.\nThe word कुत्सनं which is equivalent to निन्दनं or 'blame or censure'; and प्रावीण्यं which means नैपुण्य \"dexterity\", qualify the sense of the affix. Thus नागरकः, 'a knave, a cunning person, or a skillful person'. The word literally means 'a town-born, or town-bred', but by the usage of language, it always denotes a person having the vices or virtues of a town, such as a thief or an artist.\n \nWhy do we say \"when censure or dexterity is implied\"? Observe नागराः ब्राह्मणाः 'the <i>Nagara</i> <i>Brahmanas</i>\"."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201555,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes after the word नगर in the remaining senses, when censure or praise is implied."
+    }
+  ]
+}

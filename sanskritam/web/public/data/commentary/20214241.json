@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214241,
+    "chapter_id": 7805,
+    "verse_number": "४४८",
+    "content_sanskrit": "एकतिङ्यस्य वाक्यं तु शास्त्रे नियतलक्षणम् । तस्यातिङ्ग्रहणेनार्थो वाक्यभेदान्न विद्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 448,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214241,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "वार्त्तिककारमतेन वाक्यभेदस्तत्रेत्युपदर्शयितुमाह--\nनियतलक्षणमिति विवक्षितैकत्वमित्यर्थः ॥"
+    }
+  ]
+}

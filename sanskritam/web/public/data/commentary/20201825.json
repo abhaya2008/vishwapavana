@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201825,
+    "chapter_id": 7764,
+    "verse_number": "४.४.८५",
+    "content_sanskrit": "अन्नाण्णः",
+    "padaccheda": "अन्नात् । णः",
+    "anvaya": "'तत् लब्धा' इति अन्नात् णः",
+    "meaning_sanskrit": "'अन्नम् लब्धा' इत्यस्मिन् अर्थे कर्तारम् निर्देशयितुम् द्वितीयासमर्थात् अन्न-शब्दात् ण-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": "अनुवृत्तिः — तत् (४.४.७६), धन-गणम् (४.४.८४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201825,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अन्नशब्दात् तदिति द्वितीयासमर्थात् लब्धेत्येतस्मिन्नर्थे णः प्रत्ययो भवति। अन्नं लब्धा आन्नः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201825,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अन्नं लब्धा आन्नः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201825,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अन्नाण्णः>> - अन्नाण्णः ।लब्धेत्यर्थे द्वितीयान्ता॑दिति शेषः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201825,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अन्नं लब्धा आन्नः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201825,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ण comes in the sense of 'who obtains it' after the word अन्न , in the Accusative -2nd case in construction.\nThus अन्नं लब्धा = आन्नः 'fed' 'who has obtained food.'"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201825,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ण comes in the sense of 'who obtains it' after the word अन्न , in the Accusative -2nd case in construction."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201825,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "अन्नम् लभते सः = अन्नम् लब्धा = अन्न + ण → आन्नः भिक्षुः  । स्त्रीत्वे <<अजाद्यतष्टाप्>> [[4.1.4]] इति टाप् - अन्नम् लब्ध्री सा आन्ना सेविका ।\nज्ञातव्यम् - अत्र 'लब्धा' इति लभ्-धातोः तृन्-प्रत्ययान्तरूपमस्ति । लभते सः लब्धा । "
+    }
+  ]
+}

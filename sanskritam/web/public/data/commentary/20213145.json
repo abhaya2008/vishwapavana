@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213145,
+    "chapter_id": 7795,
+    "verse_number": "१८५",
+    "content_sanskrit": "रुचिवचिकुचिकुटिभ्यः कितच्",
+    "padaccheda": "",
+    "anvaya": "कितच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 185,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213145,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रुचितमिष्टम् । उचितम् । कुचितं परिमितम् ।  कुटितं कुटिलम् ।"
+    }
+  ]
+}

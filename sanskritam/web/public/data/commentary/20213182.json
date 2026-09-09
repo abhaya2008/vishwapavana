@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213182,
+    "chapter_id": 7795,
+    "verse_number": "२२२",
+    "content_sanskrit": "मिथुनेऽसिः पूर्ववच्च सर्वम्",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 222,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213182,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उपसर्गविशिष्टो धातुर्मिथुनं तन्नासुनोऽपवादोऽसिः । स्वरार्थः ।"
+    }
+  ]
+}

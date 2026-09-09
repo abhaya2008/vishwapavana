@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213356,
+    "chapter_id": 7799,
+    "verse_number": "२२",
+    "content_sanskrit": "गृहशशाभ्यां क्लीबे",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213356,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नियमार्थमिदम् । गृहशशपूर्वे स्थूणोर्णे यथासङ्ख्यं नपुंसके स्तः । गृहस्थूणम् । शशोर्णं शशलोमनीत्यमरः ।"
+    }
+  ]
+}

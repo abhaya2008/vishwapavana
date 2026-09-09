@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200765,
+    "chapter_id": 7757,
+    "verse_number": "३.१.१४७",
+    "content_sanskrit": "ण्युट् च",
+    "padaccheda": "ण्युट् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 147,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), शिल्पिनि (३.१.१४५), गः (३.१.१४६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200765,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "चकारेण ग इत्यनुकृष्यते। गायतेर्ण्युट् प्रत्ययो भवति शिल्पिनि कर्तरि। गायनः। गायनी। योगविभाग उत्तरार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200765,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "गायनः । टित्त्वाद्गायनी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200765,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ण्युट् च>> - ण्युट् च । चकार उक्तसमुच्चये । गायतेर्ण्युट्, थकन् च शिल्पिनि कर्तरि । गायन इति । आत्वे युक् । 'आदेचः' इत्यात्वस्य अनैमित्तिकत्वेन वृद्ध्यपेक्षया अन्तरङ्गत्वात् । यद्यपिगस्थकन्- ण्युट् चे॑त्येकमेव सूत्रमुचितम्, तथापि ण्युट एवोत्तरसूत्रे अनुवृत्त्यर्थो योगविभागः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200765,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<ण्युट् च>> - ण्युट् च । योगविभाग उत्तरत्र अस्यैवाऽनुवृत्त्यर्थः । गायन इति ।आतो युक् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200765,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`गायनः` इति। <<आतो युक् चिण्कृतोः>> [[7.3.33]]  इति युक्। `गायनी`। टित्त्वान्ङीप्। `योगविभाग उत्तरार्थः` इति। उत्तरत्र चकारेण ण्युट एवानुवृत्तिर्यथा स्यात्, थकनो मा भूदिति। `गो ण्युट्थकनौ` इत्येकयोगे थकन्नप्यनुकृष्येत॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200765,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ण्युट् च॥ णकारो युगर्थः, टकारो ङीबर्थः। योगविभाग उतरार्थ इति। उतरत्र ण्युट एवानुवृत्तिर्यथा स्यात्, थकनो मा भूदिति॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200765,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "गाधातोः शिल्पिनि ण्युट् च स्यात् । टो ङीबर्थः । गायनः । गायनी ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200765,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ण्युट् is also used after the verb गै 'to sing' when the agent so expressed denotes an artist.\nBy the word च 'also', the word गा of the last <i>sutra</i> is drawn into this. Thus गै + ण्युट् = गा + अन (VII.I.I) = गायनः fem. गायनी; the य is added by [[7.3.33]].\n\nThe separation of these rules (<i>yoga</i>-<i>vibhaga</i> ) relating to गै is for the purpose of the <i>sutras</i> that follow. Had गस्थकन् and ण्युट् च been made one aphorism, the <i>anuvritti</i> of both these affixes would have run into the subsequent <i>sutras</i>. But it is intended that the <i>anuvritti</i> of ण्युट् should only run, and hence this <i>yoga</i>-<i>vibhaga</i> or division of one <i>sutra</i> into two."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200765,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ण्युट् is also used after the verb गै 'to sing' when the agent so expressed denotes an artist."
+    }
+  ]
+}

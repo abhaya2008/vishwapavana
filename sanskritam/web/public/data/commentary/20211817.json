@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211817,
+    "chapter_id": 7790,
+    "verse_number": "६८",
+    "content_sanskrit": "कुण्ड्",
+    "padaccheda": "कुडिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "रक्षणे",
+    "meaning_english": "to protect",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211817,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वैकल्यदाहरक्षासु कुण्डेत्कुण्डेत कुण्डयेत् ' (श्लो. 88) इति देवः ।"
+    }
+  ]
+}

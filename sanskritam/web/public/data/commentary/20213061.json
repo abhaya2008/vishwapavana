@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213061,
+    "chapter_id": 7795,
+    "verse_number": "१०१",
+    "content_sanskrit": "मिपीभ्यां रुः",
+    "padaccheda": "",
+    "anvaya": "रु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213061,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मेरुः । पेरुः सूर्यः । बाहुलकात् पिबतेरपि । संवत्सरवपुः पारुः पेरुर्वासीर्दिनप्रणीः ।"
+    }
+  ]
+}

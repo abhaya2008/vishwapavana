@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211281,
+    "chapter_id": 7784,
+    "verse_number": "१३",
+    "content_sanskrit": "पुथ्",
+    "padaccheda": "पुथँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211281,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पुथ्येत्पुन्थति हिंसार्थे भाषार्थे पोथयेदिति ' (श्लो. 100) इति देवः ।"
+    }
+  ]
+}

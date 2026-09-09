@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201649,
+    "chapter_id": 7763,
+    "verse_number": "४.३.७७",
+    "content_sanskrit": "विद्यायोनिसंबन्धेभ्यो वुञ्",
+    "padaccheda": "विद्या-योनि-संबन्धेभ्यः । वुञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": "अनुवृत्तिः — आगतः (४.३.७४), तत (४.३.७४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201649,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "विद्यायोनिकृतः संबन्धो येषां ते विद्यायोनिसंबन्धाः। तद्वाचिभ्यः शब्देभ्यो वुञ् प्रत्ययो भवति तत आगत इत्येतस्मिन् विषये। अणोऽपवादः। छं तु परत्वाद् बाधते। विद्यासंबन्धेभ्यस्तावत् — उपाध्यायादागतम् औपाध्यायकम्। शैष्यकम्। आचार्यकम्। योनिसंबन्धेभ्यः — मातामहकः। पैतामहकः। मातुलकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201649,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "औपाध्यायकः । पैतामहकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201649,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "औपाध्यायकः। पैतामहकः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201649,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विद्यायोनिसंबन्धेभ्यो वुञ्>> - विद्यायोनि । 'तत आगत' इत्येव । औपाध्यायकः, पैतामहक इति । उपाध्यायात्पितामहाच्च आगत इत्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201649,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<विद्यायोनिसंबन्धेभ्यो वुञ्>> - विद्यायोनि । विद्यायोनिकृतः संबन्धो येषां तेभ्यो वुञ्स्यात् । अणोऽपवादः । छं तु परत्वाद्बाधते । आचार्यकः । मातामहकः । मातुलकः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201649,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "विद्यायोनिकृत इति । बहुव्रीहौ गतार्थत्वात्कृतशब्दस्याप्रयोगः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201649,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>विद्यासम्बन्धवचनाद् योनिसम्बन्धवाचकात् । आगते वुञ् शैष्यकोऽर्थः पैतामहक इत्यपि ॥ २५१ ॥</karika>"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201649,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes in the sense of 'thence come' after a word denoting a person connected through the relationship or family origin.\nPersons related (<i>sambandha</i>) through learning (such as teacher and pupil), or through blood (<i>yoni</i>, e. g. father and son) are called विद्यायोनिसम्बन्धाः ॥ Words denoting such persons take the affix वुञ्. This debars अण् and छ. Thus उपाध्यायादागतम् = औपाध्यायकम् 'knowledge derived from a spiritual teacher.' शैष्यकम्, आचार्यकम् ॥ So also योनिसंबन्धः as मातामहकः 'wealth derived from a maternal grand-father.' पितामहकः, मातुलकः ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201649,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes in the sense of 'thence come' after a word denoting a person connected through the relationship or family origin."
+    }
+  ]
+}

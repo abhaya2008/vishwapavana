@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211315,
+    "chapter_id": 7784,
+    "verse_number": "४७",
+    "content_sanskrit": "तूर्",
+    "padaccheda": "तूरीँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "गतित्वरणहिंसनयोः",
+    "meaning_english": "to hurry, to destroy, to irritate",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211315,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गतेः त्वरणे हिंसाने च ' इति क्षीरस्वामी । ' तूर ' इति दुर्गः । ' त्वरणहिंसनयोः ' इति मैत्रेयः । ' त्वरणमात्रे च द्रुमे ' इति धा.का. व्याख्यायाम् । (2.59)"
+    }
+  ]
+}

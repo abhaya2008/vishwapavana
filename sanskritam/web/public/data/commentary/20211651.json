@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211651,
+    "chapter_id": 7787,
+    "verse_number": "८",
+    "content_sanskrit": "छृद्",
+    "padaccheda": "उँछृदिँर्",
+    "anvaya": "U-पदी, गणः 7",
+    "meaning_sanskrit": "दीप्तिदेवनयोः",
+    "meaning_english": "to glow, to shine,to play",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211651,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दीप्तौ अकर्मकः, देवने सकर्मकः । ' छृदी सन्दीपने वा णौ छर्दयेच्छर्दतीत्युभे । छृन्ते छृणतीति पदे दीप्तिदेवनयोः श्नमि' (श्लो. 115) इति देवः । देवनम् - क्रीडाविजिगीषादिः । ' दीप्तिवमनयोः इत्येके ' इति धा.का.व्याख्या ।(3.2)"
+    }
+  ]
+}

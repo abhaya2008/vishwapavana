@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210312,
+    "chapter_id": 7781,
+    "verse_number": "३१३",
+    "content_sanskrit": "शण्ड्",
+    "padaccheda": "शडिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "रुजायां सङ्घाते च",
+    "meaning_english": "to have disease, to be ill, to heap, to pile up, to gather",
+    "audio_url": null,
+    "display_order": 313,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210312,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसागत्योः ' इति काशकृत्स्न: । किञ्च भ्वादौ इत उत्तरत्र ' रुजायाम् ' इति पृथक् धातुत्वेन पठितः ।"
+    }
+  ]
+}

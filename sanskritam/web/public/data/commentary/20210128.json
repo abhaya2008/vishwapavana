@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210128,
+    "chapter_id": 7781,
+    "verse_number": "१२९",
+    "content_sanskrit": "ओख्",
+    "padaccheda": "ओखृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शोषणालमर्थयोः",
+    "meaning_english": "to dry out, to decorate, to be sufficient, to refuse, to prevent, to stop",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210128,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अलमर्थो भूषणक्रिया पर्याप्तिः वारणं वा ' - बालमनोरमा ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210316,
+    "chapter_id": 7781,
+    "verse_number": "३१७",
+    "content_sanskrit": "खण्ड्",
+    "padaccheda": "खडिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "मन्थे",
+    "meaning_english": "to break, to fragment, to shatter, to cut, to tear",
+    "audio_url": null,
+    "display_order": 317,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210316,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भेदने इति पाठान्तरं, ' खुडि ' इत्येके । ' मन्थार्थे खण्डने खण्डेर्भेदार्थे खण्डयेण्णिचि ' (श्लो.85) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211436,
+    "chapter_id": 7785,
+    "verse_number": "५",
+    "content_sanskrit": "चि",
+    "padaccheda": "चिञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "चयने",
+    "meaning_english": "to collect, to select, to pick",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211436,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — नाश करना\nसम् — संचय करना\nउप — पाना, प्राप्त करना\nसम् — पाना, प्राप्त करना\nनिर् — निश्चय करना\nवि + निर् — ठीक निश्चय करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211436,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चयनम् = रचना ।"
+    }
+  ]
+}

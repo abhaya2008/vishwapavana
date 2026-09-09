@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210286,
+    "chapter_id": 7781,
+    "verse_number": "२८७",
+    "content_sanskrit": "अट्ट्",
+    "padaccheda": "अट्टँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अतिक्रमहिंसयोः",
+    "meaning_english": "to transgress,to kill, to hurt",
+    "audio_url": null,
+    "display_order": 287,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210286,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दोपधोयम् । तोपध इत्येके । '  हिंसातिक्रमयोरट्टेरट्टतेनादरेट्टयेत् ' (श्लो.72) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20201077,
+    "chapter_id": 7759,
+    "verse_number": "३.३.१२१",
+    "content_sanskrit": "हलश्च",
+    "padaccheda": "हलः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), करण-अधिकरणयोः (३.३.११७), च (३.३.११७), पुंसि (३.३.११८), घञ् (३.३.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201077,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पुंसि संज्ञायां करणाधिकरणयोश्चेति सर्वमनुवर्तते। हलन्ताद् धातोः करणाधिकरणयोर्घञ् प्रत्ययो भवति। घस्यापवादः। लेखः। वेदः। वेष्टः। बन्धः। मार्गः। अपामार्गः। वीमार्गः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201077,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हलन्ताद्घञ् स्यात् । घापवादः । रमन्ते योगिनोऽस्मिन्निति रामः । अपमृज्यतेऽनेन व्याध्यादिरित्यपामार्गः । विमार्गः समूहनी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201077,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "हलन्ताद् घञ्। घापवादः। रमन्ते योगिनोऽस्मिन्निति रामः। अपमृज्यतेऽनेन व्याध्यादिरित्यपामार्गः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201077,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`वेष्टः` इति। `वेष्ट वेष्टने` (धातुपाठः-255)। `मार्गोऽपामार्गः` इति। `{मृजू-धातुपाठः-} (धातुपाठः-1066)। `चजोः  [[7.3.52]]  इत्यादिना कुत्वम्, मृजेर्वृद्धिः,  [[7.2.114]]  `उपसर्गस्य घञि`  [[6.3.121]]  इति दीर्घः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201077,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "लेखःउलेखनी । वेष्टःउ वस्त्रादिः ।'विष्ट वेष्टने'  । विद्येते ज्ञायेते अनेन धर्माधर्माविति वेदः । अपमृज्यतेऽनेन व्याध्यादिरित्यपामार्गःउ वीरुद्विशेषः । वीमार्गःउ समूहनी, पूर्ववत्कुत्वदीर्घत्वे ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201077,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>हलन्तेभ्यस्तु संज्ञायां घञेवोक्तार्थयोर्न घः । वेदश्च लेख इत्यादि तेनाजन्तेभ्य एव घः ॥ १६३ ॥</karika>"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201077,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "हलश्च (1106) (565 घञ्ञ्प्रत्ययविधिसूत्रम्॥ 3 । 3 । 1 । आ.34) (4072 वार्तिकम्॥ 1 ॥) - घञ्ञ्विधाववहाराधारावायानामुपसंख्यानम्- (भाष्यम्) घञ्ञ्विधौ अवहाराधारावायानामुपसंख्यानं कर्तव्यम्। अवह्रियन्ते अस्मिन्नवहारः। आध्रियन्तेऽस्मिन्नाधारः। एत्यैतस्मिन्वयन्त्यावावायः॥ हलश्च॥ 121॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201077,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And after a verb ending in a consonant, comes the affix घञ् (when the word to be formed is masculine and related to the verb as an instrument or a location and thereby the palatal is changed into guttural).\nThe whole of the phrase within brackets is to be read into this <i>sutra</i> from <i>sutra</i> [[3.3.118]]. This excludes घ. Thus  लेखः 'a writing' (that in which something is inscribed); वेदः 'the <i>Veda</i>' (that by which all is known); वेषः 'dress' (that which is entered into); बन्धः 'obstruction'; मार्गः 'a way' (that on which they seek); अपामार्गः 'a plant' (that by which disease or the like is cleared away); रामः '<i>Rama</i>' (i. e. in which the devout delight)."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201077,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And after a verb ending in a consonant, comes the affix घञ् (when the word to be formed is masculine and related to the verb as an instrument or a location and thereby the palatal is changed into guttural)."
+    },
+    {
+      "id": 10,
+      "verse_id": 20201077,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. घञ्विधाववहाराधारावायानामुपसंख्यानम् ।"
+    }
+  ]
+}

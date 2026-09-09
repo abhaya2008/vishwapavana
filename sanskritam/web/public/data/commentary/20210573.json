@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210573,
+    "chapter_id": 7781,
+    "verse_number": "५७४",
+    "content_sanskrit": "सेव्",
+    "padaccheda": "षेवृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सेवने",
+    "meaning_english": "to serve, to devote oneself, practise",
+    "audio_url": null,
+    "display_order": 574,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210573,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शेवृ ' इत्यप्येके । ' सेचने ' इति केचित् । ' सेवृ ' इति परे । दन्त्यादित्वं भाष्यविरोधात् उपेक्ष्यम् । भाष्ये ' अजादन्त्यपराः सादयः षोपदेशाः ... ' इति दृश्यते ।"
+    }
+  ]
+}

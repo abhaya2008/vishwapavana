@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213021,
+    "chapter_id": 7795,
+    "verse_number": "६१",
+    "content_sanskrit": "अञ्चेः को वा",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213021,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अङ्कतिः । अञ्चतिर्वातः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212230,
+    "chapter_id": 7790,
+    "verse_number": "४८१",
+    "content_sanskrit": "छद",
+    "padaccheda": "छद",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अपवारणे",
+    "meaning_english": "to remove, to hide, to conceal",
+    "audio_url": null,
+    "display_order": 481,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212230,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ' यौ वा णौ अपवारणे छदत इत्येकम्, द्वितीयं छदेत्, ( छदन्) अन्यत् छादयति, छदेदिति पुनः स्यादूर्जनेर्थे मितः । यस्तु च्छन्दयतीति णौ नुमि पदं तत् संवृताविष्यते ' (श्लो. 113) इति देवः ।"
+    }
+  ]
+}

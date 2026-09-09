@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210784,
+    "chapter_id": 7781,
+    "verse_number": "७८५",
+    "content_sanskrit": "झष्",
+    "padaccheda": "झषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 785,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210784,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " झषेज्झषेत संवृत्यामादाने, हिंसने झषेत् ' ( श्लो. 168 ) इति देवः ।"
+    }
+  ]
+}

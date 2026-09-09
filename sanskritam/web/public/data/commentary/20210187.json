@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210187,
+    "chapter_id": 7781,
+    "verse_number": "१८८",
+    "content_sanskrit": "लोच्",
+    "padaccheda": "लोचृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दर्शने",
+    "meaning_english": "to see,to perceive",
+    "audio_url": null,
+    "display_order": 188,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210187,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' णौ लोचयति भाषार्थे दर्शने शपि लोचने ' (श्लो.46) इति देवः ।"
+    }
+  ]
+}

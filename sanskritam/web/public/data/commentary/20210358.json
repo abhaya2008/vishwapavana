@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210358,
+    "chapter_id": 7781,
+    "verse_number": "३५९",
+    "content_sanskrit": "कट्",
+    "padaccheda": "कटीँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 359,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210358,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयम् इदित् । इकारप्रश्लेषात्मकम् इत्यादीनि विभिन्नानि मतानि मा.धा.वृत्तौ विस्तरेण दर्शितानि ।"
+    }
+  ]
+}

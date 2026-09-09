@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212782,
+    "chapter_id": 7793,
+    "verse_number": "१०५",
+    "content_sanskrit": "अदेर्मुट् च",
+    "padaccheda": "",
+    "anvaya": "अनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212782,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अद्मनिरग्निः ।"
+    }
+  ]
+}

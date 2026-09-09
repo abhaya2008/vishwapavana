@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211447,
+    "chapter_id": 7785,
+    "verse_number": "१६",
+    "content_sanskrit": "आप्",
+    "padaccheda": "आपॢँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "व्याप्तौ",
+    "meaning_english": "to obtain,to pervade,to occupy,to reach, to get",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211447,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि + वि — चारों और से व्यापना\nअव — प्राप्त होना, पाना\nउप + सम् — समीप प्राप्त होना, पास आना, ग्रंथादि की समाप्ति करना\nपरि — तृप्ति करना, पूर्ति करना\nपरि + वि — चारों और से व्यापना\nप्र — प्राप्त होना, पाना\nवि — व्यापना\nसम् + वि — अच्छी तरह व्यापना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211447,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आपयत्यापतीत्यापेर्यौ वा णौ लम्भने पदे । व्याप्त्यर्थस्यास्य तु स्वादेराप्नोतीति पदं भवेत् ' (श्लो. 137) इति देवः ।"
+    }
+  ]
+}

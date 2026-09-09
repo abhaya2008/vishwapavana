@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211905,
+    "chapter_id": 7790,
+    "verse_number": "१५६",
+    "content_sanskrit": "वर्ध्",
+    "padaccheda": "वर्धँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "छेदनपूरणयोः",
+    "meaning_english": "to cut,to fill, to complete",
+    "audio_url": null,
+    "display_order": 156,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211905,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " छेदने पूरणे चार्थे वर्धेः वर्धयतीति णौ ' (श्लो. 123) इति देवः ।"
+    }
+  ]
+}

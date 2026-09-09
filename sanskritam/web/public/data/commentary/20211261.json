@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211261,
+    "chapter_id": 7783,
+    "verse_number": "१९",
+    "content_sanskrit": "भस्",
+    "padaccheda": "भसँ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "भर्त्सनदीप्त्योः",
+    "meaning_english": "to frighten, to censure,to blame,to shine, to insult",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211261,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "छान्दसः । ' भक्षणदीप्त्योः इति प्रामाणिकः इति, भर्त्सनभक्षणशब्दयोः तुल्यश्रुत्या पाठभेद: इति वा प्रतिभाति ' इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

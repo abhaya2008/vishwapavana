@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210009,
+    "chapter_id": 7781,
+    "verse_number": "१०",
+    "content_sanskrit": "श्विन्द्",
+    "padaccheda": "श्विदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "श्वैत्ये",
+    "meaning_english": "to be white",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210009,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' श्वेतस्य गुणस्यापि धातुना साध्यतया क्रमिकतया च अभिधानात् क्रियात्वम् । यदाह- ' श्वेततेः श्वेत इत्येकं श्वेतत्वेन प्रकाश्यते । आश्रितक्रमरूपत्वादभिधानं प्रवर्तते ' - ( वाक्यपदीयम् 3.3 ) इति ' इति माधवः ।"
+    }
+  ]
+}

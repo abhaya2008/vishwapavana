@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210450,
+    "chapter_id": 7781,
+    "verse_number": "४५१",
+    "content_sanskrit": "स्तम्भ्",
+    "padaccheda": "ष्टभिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रतिबन्धे",
+    "meaning_english": "to stop,to hinder,to become stiff,  to paralyze,to fix firmly",
+    "audio_url": null,
+    "display_order": 451,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210450,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " '... स्थास्तम्भ्वोः.. ' (8.4.61) इति निर्देशात् पवर्गोपधपाठः इति ज्ञायते । ' स्तम्भे: ' (8.3.67) इति तवर्गोपधपाठः चेति माधवः । \" केचिदस्य टकारः औपदेशिकः इत्याह । तन्मते विष्टम्भते, ष्टम्भते । टष्टम्भे \" इति सिद्धान्तकौमुदी । ' स्तम्भते प्रतिबन्धार्थे स्तम्भेर्थे स्तोभते शपि' (श्लो. 142) - देवः ।"
+    }
+  ]
+}

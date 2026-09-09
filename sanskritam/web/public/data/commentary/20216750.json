@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216750,
+    "chapter_id": 7843,
+    "verse_number": "१२५",
+    "content_sanskrit": "त्रैकालिकसंसार्गावच्छिन्नप्रतियोगिताकोऽत्यन्ताभावः । यथा-भूतले घटो नास्ति ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": "अत्यन्ताभावः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216750,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "अत्यन्ताभावं लक्षयति । त्रैकालिकत्वे सति संसर्गावच्छिन्नप्रतियोगिताकोऽभावः ध्वंसप्रागभाववारणाय त्रैकालिकेति । भेदवारणाय संसर्गेत्यादि ।"
+    }
+  ]
+}

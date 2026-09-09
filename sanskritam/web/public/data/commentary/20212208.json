@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212208,
+    "chapter_id": 7790,
+    "verse_number": "४५९",
+    "content_sanskrit": "चित्र",
+    "padaccheda": "चित्र",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "चित्रीकरणे",
+    "meaning_english": "to paint, to draw, to create a portrait",
+    "audio_url": null,
+    "display_order": 459,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212208,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' आलेख्यकरणे ' इत्यर्थः । कदाचिद्दर्शने । ' चित्र ' इत्ययमद्भूतदर्शने णिचं लभते । कदाचिद्दर्शने इत्यस्य विवरणम् अद्भूतदर्शने इति ' इति बालमनोरमा । चित्रयति - सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210491,
+    "chapter_id": 7781,
+    "verse_number": "४९२",
+    "content_sanskrit": "कुम्ब्",
+    "padaccheda": "कुबिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "छादने आच्छादने च",
+    "meaning_english": "to cover",
+    "audio_url": null,
+    "display_order": 492,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210491,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णिचि कुम्बयतीति स्याच्छादने शपि कुम्बति ' (श्लो. 140) इति देवः ।"
+    }
+  ]
+}

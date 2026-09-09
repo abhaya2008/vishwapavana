@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212973,
+    "chapter_id": 7795,
+    "verse_number": "१३",
+    "content_sanskrit": "खजेराकः",
+    "padaccheda": "",
+    "anvaya": "आक",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212973,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "खजाकः पक्षी ।"
+    }
+  ]
+}

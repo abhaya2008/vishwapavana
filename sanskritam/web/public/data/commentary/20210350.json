@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210350,
+    "chapter_id": 7781,
+    "verse_number": "३५१",
+    "content_sanskrit": "लुट्",
+    "padaccheda": "लुटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विलोडने",
+    "meaning_english": "to agitate, to churn, to stir, to roll",
+    "audio_url": null,
+    "display_order": 351,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210350,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' लुल इति लान्तोपि ' इति सुधाकरः । ' णौ लोटयति भाषार्थे लुट्येल्लोटति लोटने ' लोटते प्रतिघातेर्थे स्तेये लुण्टति लुण्टयेत् ' (श्लो.73- 74) इति देवः । \" एतादादयः पाठत्यन्ताः टवर्गतृतीयान्ताः इति कौशिककाश्यपनन्दिद्रमिडाः । ते चास्मादन्तरे पिटहटी च पेठुः \" इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

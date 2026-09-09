@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210114,
+    "chapter_id": 7781,
+    "verse_number": "११५",
+    "content_sanskrit": "अङ्घ्",
+    "padaccheda": "अघिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गत्याक्षेपे",
+    "meaning_english": "to set out, to go, to commence, to blame",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210114,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "गत्याक्षेपः = निन्दा । गतौ गत्यारम्भे च इति स्वामी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212545,
+    "chapter_id": 7792,
+    "verse_number": "२५",
+    "content_sanskrit": "अपदुःसुषु स्थः",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212545,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "[[8.3.98]] <<सुषामादिषु च>> इति षत्वम् । अपष्ठु प्रतिकूलम् । दुष्ठु । सुष्ठु ।"
+    }
+  ]
+}

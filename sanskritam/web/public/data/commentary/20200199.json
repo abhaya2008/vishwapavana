@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200199,
+    "chapter_id": 7751,
+    "verse_number": "१.३.५२",
+    "content_sanskrit": "समः प्रतिज्ञाने",
+    "padaccheda": "समः । प्रतिज्ञाने",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२), ग्रः (१.३.५१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200199,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ग्रः इति वर्तते। संपूर्वाद् गिरतेः प्रतिज्ञाने वर्तमानादात्मनेपदं भवति। प्रतिज्ञानमभ्युपगमः। शतं संगिरते। नित्यं शब्दं संगिरते। प्रतिज्ञाने इति किम्? संगिरति ग्रासम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200199,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शब्दं नित्यं संगिरते । प्रतिजानीत इत्यर्थः । प्रतिज्ञाने किम् । संगिरति ग्रासम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200199,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<समः प्रतिज्ञाने>> - समः प्रतिज्ञाने । गिरतेरात्मनेपदमित्यर्थः । प्रतिज्ञानम् - अभ्युपगमः । सङ्गिरति ग्रासमिति । भक्षयतीत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200199,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "प्रतिज्ञानमभ्युपगम इति । केचिदाहुः-'परोपदेशनिरपेक्षमात्मनैव विप्रतिपन्नस्य पक्षघ्य परिग्रहोऽभ्युपगमः, परेण प्रार्थितस्यार्थस्य नियमवचनम् ठेतावद्दास्यामिऽ इति, ठस्मिन्काले दास्यामिऽ इत्येवंरूपः प्रतिश्रवः। परेण युक्त्या साधितस्यार्थस्य सम्मान्नम् - समीचीनमुक्तमत्र भवतेत्येवं रूपमङ्गीकरणमिति, प्रतिज्ञासामान्यावान्तरभेदा एते, न तु पर्यायाः' इति। वृत्तिकारस्तु परस्परविषयोऽङ्गीकरणादिव्यहारदर्शनात् पर्यायत्वमेव मन्यते॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200199,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शब्दं नित्यं संगिरन्ते ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200199,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb गॄ 'to swallow', when preceded by सम् , the आत्मनेपद affix is used in the sense of 'promising'.\nAs शनं संगिरते, 'he promises to pay a hundred rupees.' If it does not mean to promise or acknowledge, it takes <i>parasmaipada</i> terminations. As संगिरति ग्रासम्, 'he swallows the mouthful.'"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200199,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb गॄ 'to swallow', when preceded by सम् , the आत्मनेपद affix is used in the sense of 'promising'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200199,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "नृपः संगिरमाण एव (भट्टिकाव्यम् 3.8) — `समः प्रतिज्ञाने` इति तङ् ।\nयथा-स्वं संगिरन्ते स्म गोष्ठीषु स्वामिनो गुणान् (भट्टिकाव्यम् 8.31) — `समः प्रतिज्ञाने` इति तङ्।"
+    }
+  ]
+}

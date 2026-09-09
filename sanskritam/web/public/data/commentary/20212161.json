@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212161,
+    "chapter_id": 7790,
+    "verse_number": "४१२",
+    "content_sanskrit": "सूच",
+    "padaccheda": "सूच",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पैशुन्ये",
+    "meaning_english": "to indicate, to do favor, to explain, to point mistakes",
+    "audio_url": null,
+    "display_order": 412,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212161,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — बताना, निर्देश करना, संकेत करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212161,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । पिशुनः दुर्जनः । तस्य कर्म पैशुन्यम् ।"
+    }
+  ]
+}

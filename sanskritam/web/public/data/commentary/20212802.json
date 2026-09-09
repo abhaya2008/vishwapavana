@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212802,
+    "chapter_id": 7794,
+    "verse_number": "२",
+    "content_sanskrit": "इण्सिञ्जिदीङुष्यविभ्यो नक्",
+    "padaccheda": "",
+    "anvaya": "नक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212802,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इनः सूर्ये नृपे पत्यौ । सिनः काणः । जिनोऽर्हन् । दीनः । उष्णः । ऊनः ।"
+    }
+  ]
+}

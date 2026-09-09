@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202741,
+    "chapter_id": 7770,
+    "verse_number": "६.२.७९",
+    "content_sanskrit": "णिनि",
+    "padaccheda": "णिनि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), आदिः (६.२.६४), उदात्तः (६.२.६४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202741,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "णिनन्त उत्तरपदे पूर्वपदमाद्युदात्तं भवति। पुष्प॑हारी। फल॑हारी। पर्ण॑हारी॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202741,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पुष्पहारी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202741,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पूष्पहारी` इति हरतेः `व्रते`  [[3.2.80]]  <<बहुलमाभीक्ष्ण्ये>> [[3.2.81]]  इति वा णिनिः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202741,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "णिन्यन्ते परे प्राक्पदमाद्युदात्तं स्यात् । हरिसेवी ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202741,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A compound ending in कृत् -affix णिनि (इन्) has the acute accent (उदात्त) on the first syllable of the first member.\nThus पु꣡ष्पहारिन्, फ꣡लहारिन्, प꣡र्णहारिन् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202741,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A compound ending in कृत् -affix णिनि (इन्) has the acute accent (उदात्त) on the first syllable of the first member."
+    }
+  ]
+}

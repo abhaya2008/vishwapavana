@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213509,
+    "chapter_id": 7799,
+    "verse_number": "१७५",
+    "content_sanskrit": "अपत्यार्थतद्धिते",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 175,
+    "avatarnika": "स्त्रीपुंसाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213509,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "औपगवः । औपवगी । इति स्त्रीपुंसाधिकारः ॥"
+    }
+  ]
+}

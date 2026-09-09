@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212894,
+    "chapter_id": 7794,
+    "verse_number": "९४",
+    "content_sanskrit": "रुहे रश्च लो वा",
+    "padaccheda": "",
+    "anvaya": "इतन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212894,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रोहितो मृगमत्स्ययोः । लोहितं रक्तम् ।"
+    }
+  ]
+}

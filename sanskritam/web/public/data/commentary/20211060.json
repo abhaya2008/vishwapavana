@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211060,
+    "chapter_id": 7781,
+    "verse_number": "१०६१",
+    "content_sanskrit": "क्षै",
+    "padaccheda": "क्षै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "क्षये",
+    "meaning_english": "to wane,to decline,to decay,to reduce,to contract, to shrink",
+    "audio_url": null,
+    "display_order": 1061,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211060,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "भोजमते घटादिः अयम् ।"
+    }
+  ]
+}

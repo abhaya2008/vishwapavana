@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210194,
+    "chapter_id": 7781,
+    "verse_number": "१९५",
+    "content_sanskrit": "मच्",
+    "padaccheda": "मचँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कल्कने कथने च",
+    "meaning_english": "to boast, to be egoistic, to cheat, to tear off, to powder, to speak, to talk",
+    "audio_url": null,
+    "display_order": 195,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210194,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कल्कनम् = दम्भः शाठ्यं चेति मैत्रेयः ' इति मा.धा.वृत्तिः । ' दम्भः कत्थनं च ' इति स्वामी । ' क्वथनम् च ' इति पुरुषकारः (श्लो.47) ।  ' कथनम् इत्यन्ये ' इति सिद्धान्तकौमुदी । ' लोकरञ्जनार्थ साध्वाचारो दम्भः ' इति धातुकाव्यम् (1.23) ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213059,
+    "chapter_id": 7795,
+    "verse_number": "९९",
+    "content_sanskrit": "वलिमलितनिभ्यः कयन्",
+    "padaccheda": "",
+    "anvaya": "कयन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213059,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वलयम् । मलयः । तनयः ।"
+    }
+  ]
+}

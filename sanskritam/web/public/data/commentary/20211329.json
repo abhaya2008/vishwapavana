@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211329,
+    "chapter_id": 7784,
+    "verse_number": "६१",
+    "content_sanskrit": "शुच्",
+    "padaccheda": "ईँशुचिँर्",
+    "anvaya": "U-पदी, गणः 4",
+    "meaning_sanskrit": "पूतीभावे",
+    "meaning_english": "to be wet,to be clean,to be purified",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211329,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पूतीभावः = क्लेदः ।"
+    }
+  ]
+}

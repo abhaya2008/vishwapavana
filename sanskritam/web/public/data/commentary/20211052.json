@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211052,
+    "chapter_id": 7781,
+    "verse_number": "१०५३",
+    "content_sanskrit": "द्यै",
+    "padaccheda": "द्यै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "न्यक्करणे",
+    "meaning_english": "to hate, to despise,to disfigure, to condemn",
+    "audio_url": null,
+    "display_order": 1053,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211052,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "न्यक्करणं = तिरस्कारः । ' न्यङ्गविधाने ' इति क्षीरस्वामी । न्यङ्गम् = कुत्सिताङ्गम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212724,
+    "chapter_id": 7793,
+    "verse_number": "४७",
+    "content_sanskrit": "श्यास्त्याहृञविभ्य इनच्",
+    "padaccheda": "",
+    "anvaya": "इनच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212724,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्येनः । स्त्येनः । हरिणः । अविनोऽध्वर्युः ।"
+    }
+  ]
+}

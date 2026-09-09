@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211333,
+    "chapter_id": 7784,
+    "verse_number": "६५",
+    "content_sanskrit": "पद्",
+    "padaccheda": "पदँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go,to attain",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211333,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — अनुशरण करना\nआ — प्राप्त होना\nप्रति — स्वीकार करना\nवि — दुःख का अनुभव करना\nवि + आ — मार डालना\nसम् — वृद्धि को प्राप्त होना\nउद् — उत्पन्न होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211333,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पद्लृ ' इति पुरुषकारसम्मतः पाठः । ' श्यनि गत्यर्थे पद्यते पदयेत णौ ' (श्लो. 109) इति देवः ।"
+    }
+  ]
+}

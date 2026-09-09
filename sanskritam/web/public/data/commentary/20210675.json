@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210675,
+    "chapter_id": 7781,
+    "verse_number": "६७६",
+    "content_sanskrit": "दिन्व्",
+    "padaccheda": "दिविँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्रीणने",
+    "meaning_english": "to please,to satisfy, to calm down",
+    "audio_url": null,
+    "display_order": 676,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210675,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अर्दने देवयेद्, दीव्येत् क्रीडादौ , परिकूजने । देवयेत , इदितो दिव्येत्, देवर्देवेत देवने ' ( श्लो. 160 - 161) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211791,
+    "chapter_id": 7790,
+    "verse_number": "४२",
+    "content_sanskrit": "श्वठ्",
+    "padaccheda": "श्वठँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "असंस्कारगत्योः",
+    "meaning_english": "to cheat,to fraud, to leave unfinished, to leave unattended, to ill-behave",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211791,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' श्वठि इत्येके ' इति कौमुदी । ' गत्यसंस्कारधात्वर्थे शाठयेच्छ्वाठयेदिति ' (श्लो. 81) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210697,
+    "chapter_id": 7781,
+    "verse_number": "६९८",
+    "content_sanskrit": "गेष्",
+    "padaccheda": "गेषृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अन्विच्छायाम्",
+    "meaning_english": "to search,to investigate, to find out, to seek",
+    "audio_url": null,
+    "display_order": 698,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210697,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ग्लेषृ ' इत्येके । अन्विच्छा - अन्वेषणा ।"
+    }
+  ]
+}

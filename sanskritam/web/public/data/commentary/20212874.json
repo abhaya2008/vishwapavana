@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212874,
+    "chapter_id": 7794,
+    "verse_number": "७४",
+    "content_sanskrit": "पते रश्च लः",
+    "padaccheda": "",
+    "anvaya": "सर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212874,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पत्सलः पन्थाः ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211841,
+    "chapter_id": 7790,
+    "verse_number": "९२",
+    "content_sanskrit": "मूल्",
+    "padaccheda": "मूलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "रोहणे",
+    "meaning_english": "to crop, to root, to plant, to sow",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211841,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — जड़ से उखाड़ना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211841,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मूले: प्रतिष्ठितौ मूलेद् रोहणे मूलयेदिति ' (श्लो. 157) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202877,
+    "chapter_id": 7771,
+    "verse_number": "६.३.१६",
+    "content_sanskrit": "विभाषा वर्षक्षरशरवरात्",
+    "padaccheda": "विभाषा । वर्ष-क्षर-शर-वरात्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": "अनुवृत्तिः — हलदन्तात् (६.३.९), सप्तम्याः (६.३.९), जे (६.३.१५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202877,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वर्ष क्षर शर वर इत्येतेभ्य उत्तरस्याः सप्तम्या ज उत्तरपदे विभाषालुग् भवति। वर्षेजः, वर्षजः। क्षरेजः, क्षरजः। शरेजः, शरजः। वरेजः, वरजः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202877,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एभ्यः सप्तम्या अलुक् जे । वर्षेजः । वर्षजः । क्षरेजः । क्षरजः । शरेजः । शरजः । वरेजः । वरजः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202877,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विभाषा वर्षक्षरशरवरात्>> - विभाषा वर्ष । शेषपूरणेन सूत्रं व्याचष्टे — एभ्यस्सप्तम्या इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202877,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वर्षेजः, वर्षजः । क्षरेजः, क्षरजः । शरेजः, शरजः । वरेजः, वरजः । घकाल ० (६-३-१७) इति कालशब्दे वालुक् । प्राह्णेकाले, प्राह्णकाले ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202877,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The Locative -7th case-affix ending is optionally retained after 1. वर्ष 2. क्षर 3. शर and 4. वर when ज follows.\nThus वर्षेजः or वर्षजः, क्षरेजः or क्षरजः, शरेजः or शरजः, वरेजः or वरजः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202877,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The Locative -7th case-affix ending is optionally retained after 1. वर्ष 2. क्षर 3. शर and 4. वर when ज follows."
+    }
+  ]
+}

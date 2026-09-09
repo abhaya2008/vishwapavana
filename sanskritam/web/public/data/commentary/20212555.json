@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212555,
+    "chapter_id": 7792,
+    "verse_number": "३५",
+    "content_sanskrit": "शते च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212555,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शतधा द्रवति शतद्रुः । बाहुलकात्केवलादपि । द्रवत्यूर्ध्वमिति द्रुर्वृक्षः शाखा च तद्वान् द्रुमः ।"
+    }
+  ]
+}

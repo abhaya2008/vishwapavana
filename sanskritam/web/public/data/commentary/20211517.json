@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211517,
+    "chapter_id": 7786,
+    "verse_number": "४८",
+    "content_sanskrit": "दृभ्",
+    "padaccheda": "दृभीँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "ग्रन्थे",
+    "meaning_english": "to string together, to tie together",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211517,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अनीदितश्च सन्दर्भे दृभति ग्रन्थः ईदितः ' (श्लो. 142) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212138,
+    "chapter_id": 7790,
+    "verse_number": "३८९",
+    "content_sanskrit": "कथ",
+    "padaccheda": "कथ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वाक्यप्रबन्धे",
+    "meaning_english": "to speak, to tell, to state, to explain, to narrate",
+    "audio_url": null,
+    "display_order": 389,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212138,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

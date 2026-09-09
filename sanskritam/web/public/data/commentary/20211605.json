@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211605,
+    "chapter_id": 7786,
+    "verse_number": "१३६",
+    "content_sanskrit": "कु",
+    "padaccheda": "कुङ्",
+    "anvaya": "A-पदी, गणः 6",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to speak loudly, to shout, to chirp",
+    "audio_url": null,
+    "display_order": 136,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211605,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अव्यक्तशब्दे कवते, कुवते त्वार्तशब्दने । कौतीति शब्दमात्रे स्यात् ' (श्लो.23) इति देवः । केचित् दीर्घन्तमिमं पठन्ति ।"
+    }
+  ]
+}

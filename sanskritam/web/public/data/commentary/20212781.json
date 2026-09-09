@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212781,
+    "chapter_id": 7793,
+    "verse_number": "१०४",
+    "content_sanskrit": "कृषेरादेश्च चः",
+    "padaccheda": "",
+    "anvaya": "अनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212781,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चर्षणिर्जनः ।"
+    }
+  ]
+}

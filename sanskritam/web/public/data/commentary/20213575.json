@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213575,
+    "chapter_id": 7802,
+    "verse_number": "३",
+    "content_sanskrit": "स्वाङ्गानामकुर्वादीनाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213575,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कवर्गरेफवकारादीनि वर्जयित्वा त्र्यचां स्वाङ्गानां द्वितीयमुदात्तम् । ल॒लाट॒म् । कुर्वादीनां तु । क॒पोलः॑ । रसना । वदनम् ॥"
+    }
+  ]
+}

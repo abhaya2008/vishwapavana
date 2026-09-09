@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215615,
+    "chapter_id": 7807,
+    "verse_number": "८",
+    "content_sanskrit": "यत्तर्हि तच्छुक्लो नीलः कपिलः कपोत इति, स शब्दः? \nनेत्याह। गुणो नाम सः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": "शब्दस्वरूपनिर्णयाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215615,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "<x> शुक्लो नील इति ।</x> द्रव्यस्य प्रागुपन्यासाद्गुणमात्राभिधायिनोऽत्र शुक्लादयो द्रष्टव्याः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211659,
+    "chapter_id": 7787,
+    "verse_number": "१६",
+    "content_sanskrit": "भञ्ज्",
+    "padaccheda": "भन्जोँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "आमर्दने",
+    "meaning_english": "to destroy",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211659,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आमर्दे तु भनक्ति ...' (श्लो. 65) इति देवः ।"
+    }
+  ]
+}

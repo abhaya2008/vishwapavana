@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201679,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१०७",
+    "content_sanskrit": "कठचरकाल्लुक्",
+    "padaccheda": "कठ-चरकात् । लुक्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 107,
+    "avatarnika": "अनुवृत्तिः — तेन (४.३.१०१), प्रोक्तम् (४.३.१०१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201679,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कठचरकशब्दाभ्यां परस्य प्रोक्तप्रत्ययस्य लुग् भवति। कठशब्दाद् वैशंपायनान्तेवासिभ्यः [[४.३.१०४]] इति णिनेः, चरकशब्दादप्यणः। कठेन प्रोक्तमधीयते कठाः। चरकाः। छन्दसीत्येव — काठाः। चारकाः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201679,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कलापिना प्रोक्तप्रत्ययस्य लुक् स्यात् । कठेन प्रोक्तमधीयते कठाः । चरकाः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201679,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कठचरकाल्लुक्>> - कठचरकाल्लुक् । प्रोक्तप्रत्ययस्येति । प्रकरणलभ्यम् । कठा इति । वैशम्पायनान्तेवासित्वलक्षणणिनो लुक् । अध्येत्रणस्तुप्रोक्ताल्लु॑गिति लुक् । चराका इति । चरकेण प्रोक्तमधीयते । इत्यर्थः । प्रोक्ताणोऽनेन लुक् अध्येत्रणः प्रोक्ताल्लुक् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201679,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<कठचरकाल्लुक्>> - कठचरकाल्लुक् । कठशब्दस्य वेशंपायनान्तेवासित्वा ण्णिनिः चरकादण् । तयोर्लुक् । छन्दसीत्येव । काठाः । चारकाः । श्र्लोकाः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201679,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`कठाः, चरकाः` इति। प्रोक्तप्रत्ययस्य लुकि कृते यो ह्रध्येतर्यण् भवति तस्यापि प्रोक्ताल्लुक्  [[4.2.63]] । पूर्ववत् तद्विषयता॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201679,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां प्रोक्तप्रत्ययस्य लुक् । कठेन प्रोक्तमधीयानाः, कठाः । चरकाः । अच्छन्दस्त्वे तु तद्विषयत्वाभावाच्चरकेण प्रोक्तं चरकं शास्त्रमित्यपि माधवः । वृत्तौ तु छन्दसि वाच्य एव लुगुक्तः । काठञ्चारको वा श्लोकः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201679,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix denoting 'enounced by him' is elided by लुक्-substitution after the words कठ and चरक।\nThe word कठ would have taken णिनि as it is a वैशम्पायनान्तेवासी word: and चरक would have taken the affix अण् ॥ Both are elided. Thus कठाः 'who study the <i>Chhandas</i> enounced by <i>Katha</i>'. चरकाः &c.\n\nThe word '<i>Chhandas</i>' qualifies this <i>sutra</i>. Observe काठाः चारकाः श्लोकाः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201679,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix denoting 'enounced by him' is elided by लुक्-substitution after the words कठ and चरक।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201529,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१०२",
+    "content_sanskrit": "कन्थायाष्ठक्",
+    "padaccheda": "कन्थायाः । ठक्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201529,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कन्थाशब्दाट् ठक् प्रत्ययो भवति शैषिक ः। कान्थिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201529,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कान्थिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201529,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कन्थायाष्ठक्>> - कन्थायाष्ठक् । तिर्यक्स्यूतबहुवस्त्रखण्डसमूहः कन्था । देशविशेष इत्यन्ये ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201529,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अणपवादोऽयं योगः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201529,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word कन्था the affix is ठक् is added in the remaining senses.\nAs कान्थिकः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201529,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word कन्था the affix is ठक् is added in the remaining senses."
+    }
+  ]
+}

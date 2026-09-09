@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211666,
+    "chapter_id": 7787,
+    "verse_number": "२३",
+    "content_sanskrit": "विज्",
+    "padaccheda": "ओँविजीँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "भयचलनयोः",
+    "meaning_english": "to fear,to tremble, to shiver, to be distressed, to move",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211666,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वेवेक्तीति पृथग्भावे विवेक्ते च भये पुनः । विनक्ति विजते ...' (श्लो. 61 - 62) इति देवः ।"
+    }
+  ]
+}

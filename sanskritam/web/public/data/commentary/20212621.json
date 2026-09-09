@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212621,
+    "chapter_id": 7792,
+    "verse_number": "१०१",
+    "content_sanskrit": "रमेर्वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "अठ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212621,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रामठं हिङ्गु ।"
+    }
+  ]
+}

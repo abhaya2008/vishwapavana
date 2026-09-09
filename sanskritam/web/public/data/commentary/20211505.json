@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211505,
+    "chapter_id": 7786,
+    "verse_number": "३६",
+    "content_sanskrit": "दृप्",
+    "padaccheda": "दृपँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "उत्क्लेशे",
+    "meaning_english": "to give pain, to injure, to torment",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211505,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दृफ ' इति द्वितीयान्तोयमित्येके ।"
+    }
+  ]
+}

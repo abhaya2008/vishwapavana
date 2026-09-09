@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212923,
+    "chapter_id": 7794,
+    "verse_number": "१२३",
+    "content_sanskrit": "ऋषिवृषिभ्यां कित्",
+    "padaccheda": "",
+    "anvaya": "अभच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212923,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऋषभः । वृषभः ।"
+    }
+  ]
+}

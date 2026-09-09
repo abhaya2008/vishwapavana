@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20203129,
+    "chapter_id": 7772,
+    "verse_number": "६.४.१२९",
+    "content_sanskrit": "भस्य",
+    "padaccheda": "भस्य",
+    "anvaya": "भस्य",
+    "meaning_sanskrit": "अधिकारसूत्रमिदम् । इतः आरभ्य आ-षष्ठाध्याय-परिसमाप्तेः यत्किमपि उच्यते तत् 'भ'संज्ञकस्य भवति । ",
+    "meaning_english": "All the rules starting from this sutra, till the end of the sixth chapter are being told for a भसंज्ञक.",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203129,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भस्येत्ययमधिकारः, आ अध्यायपरिसमाप्तेः। यदित ऊर्ध्वमनुक्रमिष्यामो भस्येत्येवं तद् वेदितव्यम्। वक्ष्यति — <<पादःपत्>> [[६.४.१३०]] — द्विपदः पश्य। द्विपदा कृतम्। भस्येति किम्? द्विपादौ, द्विपादः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203129,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अधिकारोऽयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203129,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Whatever will be taught in the following up to the end of this अध्याय should be understood to apply to the nominal stems called भ -- यचि भम् [[1.4.18]], तसौ मत्वर्थे [[1.4.19]].\nThus <i>sutra</i> [[6.4.130]] says 'पद् is the substitute of पाद्' ॥ It means पद् is substituted for पाद् when the latter gets the designation of भ ॥ Thus द्विपदः पश्य, द्विपदा कृतम् but द्विपादौ, दिपादः where the affixes are those of <i>Sarvanamasthana</i>."
+    },
+    {
+      "id": 4,
+      "verse_id": 20203129,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Whatever will be taught in the following up to the end of this अध्याय should be understood to apply to the nominal stems called भ -- यचि भम् [[1.4.18]], तसौ मत्वर्थे [[1.4.19]]."
+    },
+    {
+      "id": 5,
+      "verse_id": 20203129,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'भ' इति व्याकरणविशिष्टा संज्ञा अस्ति । <<यचि भम्>> [[1.4.18]], <<तसौ मत्वर्थे>> [[1.4.19]] तथा <<अयस्मयादीनि च्छन्दसि>> [[1.4.20]] एतैः सूत्रैः  अङ्गस्य भसंज्ञा विधीयते । एतादृशस्य भसंज्ञकस्य अङ्गस्य कार्यमस्मिन् अधिकारे उक्तमस्ति । अस्य अधिकारस्य व्याप्तिः षष्ठाध्यायस्य समाप्तिपर्यन्तमस्ति । इत्युक्ते, षष्ठाध्यायस्य अन्तिमसूत्रं यावत् उक्तानि कार्याणि 'भ'संज्ञकस्य अङ्गस्य विषये एव विधीयन्ते । "
+    }
+  ]
+}

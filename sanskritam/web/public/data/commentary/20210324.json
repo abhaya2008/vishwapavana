@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210324,
+    "chapter_id": 7781,
+    "verse_number": "३२५",
+    "content_sanskrit": "शौट्",
+    "padaccheda": "शौटृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गर्वे",
+    "meaning_english": "to be proud",
+    "audio_url": null,
+    "display_order": 325,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210324,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "गर्वः = अभिमानः । काशकृत्स्नहेमचन्द्रादयः धातुममुं न पठन्ति । ' शौडृ ' इति काशकृत्स्नीये दृश्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210267,
+    "chapter_id": 7781,
+    "verse_number": "२६८",
+    "content_sanskrit": "स्फूर्ज्",
+    "padaccheda": "टुओँस्फूर्जाँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वज्रनिर्घोषे",
+    "meaning_english": "to thunder,to explode,to burst",
+    "audio_url": null,
+    "display_order": 268,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210267,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वज्रनिष्पेषे । वज्रनिष्पेषोशनिनिर्घोषः ' इति स्वामी ।"
+    }
+  ]
+}

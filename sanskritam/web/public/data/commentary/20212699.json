@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212699,
+    "chapter_id": 7793,
+    "verse_number": "२२",
+    "content_sanskrit": "रोदेर्णिलुक् च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212699,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रोदयतीति रुद्रः ।"
+    }
+  ]
+}

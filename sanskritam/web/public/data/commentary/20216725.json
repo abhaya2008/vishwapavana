@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216725,
+    "chapter_id": 7843,
+    "verse_number": "१००",
+    "content_sanskrit": "सर्वेषामनुकूलवेदनीयं सुखम् ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": "सुखम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216725,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "सुखं निरूपयति सर्वेषामिति । सर्वात्मनामनुकूलमिति वेद्यं यत् तत्सुखमित्यर्थः 'अहं सुखी' इत्यनुभवसिद्धसुखत्वजातिमत्, धर्ममात्रासाधारणकारणो गुणो वा सुखम् । शत्रुदुःखवारणाय सर्वेषामिति ।"
+    }
+  ]
+}

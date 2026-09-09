@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203580,
+    "chapter_id": 7776,
+    "verse_number": "७.४.६४",
+    "content_sanskrit": "कृषेश्छन्दसि",
+    "padaccheda": "कृषेः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": "अनुवृत्तिः — अभ्यासस्य (७.४.५८), चुः (७.४.६२), न (७.४.६३), यङि (७.४.६३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203580,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कृषेः छन्दसि विषये यङि परतः अभ्यासस्य चुः न भवति। करिकृष्यते यज्ञकुणपः। छन्दसि इति किम्? चरीकृष्यते कृषीवलः।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203580,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यङि अभ्यासस्य चुत्वं न । करीकृष्यते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203580,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`करीकृष्यते` इति। `कृष विलेखने` (धातुपाठः-990) `रीगृहुपधस्य`  [[7.4.90]]  इति रीगागमः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203580,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्य यङ्यभ्यासस्य चुत्वं च स्यात् । चरीकृष्यते ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203580,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The Palatal is not substituted for the Guttural of the reduplicate of कृष् 'to draw' in the छन्दस् (Vedas) when in the Intensive.\nAs करीकृष्यते यज्ञकुणपः; otherwise चरीकृष्यते कृषीवलः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203580,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The Palatal is not substituted for the Guttural of the reduplicate of कृष् 'to draw' in the छन्दस् (Vedas) when in the Intensive."
+    }
+  ]
+}

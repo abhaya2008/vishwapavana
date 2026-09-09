@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211457,
+    "chapter_id": 7785,
+    "verse_number": "२६",
+    "content_sanskrit": "दम्भ्",
+    "padaccheda": "दन्भुँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "दम्भने",
+    "meaning_english": "to deceive,to cheat",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211457,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दम्भनम् = लोकरञ्जनार्थं विहितकर्मानुष्ठानम् ।"
+    }
+  ]
+}

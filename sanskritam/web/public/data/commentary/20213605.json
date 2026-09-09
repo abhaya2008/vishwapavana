@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213605,
+    "chapter_id": 7803,
+    "verse_number": "१४",
+    "content_sanskrit": "एवादीनामन्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213605,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एवमादीनामिति पाठान्तरम् । एव । एवम् । नूनम् । सह । सह॑ ते पुत्र सू॒रिभिः॑ । षष्ठस्य तृतीये <<सहस्य सः संज्ञायाम्>> [[6.3.78]] इति प्रकरणे सहशब्द आद्युदात्त इति तु प्राञ्चः । तच्चिन्त्यम् ॥"
+    }
+  ]
+}

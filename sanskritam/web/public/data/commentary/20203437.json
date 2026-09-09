@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203437,
+    "chapter_id": 7775,
+    "verse_number": "७.३.४१",
+    "content_sanskrit": "स्फायो वः",
+    "padaccheda": "स्फायः । वः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": "अनुवृत्तिः — णौ (७.३.३६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203437,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "स्फाय् इत्येतस्याङ्गस्य वकारादेशो भवति णौ परतः। स्फावयति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203437,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "णौ । स्फावयति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203437,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<स्फायो वः>> - स्फायो वः । णाविति शेषपूरणम् ।अर्तिह्यी॑त्यतस्तदनुवृत्तेरिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203437,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`स्फावयति` इति। `स्फायो, ओ प्यायी वृद्धौ` (धातुपाठः-487,488)॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203437,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "स्फायो णावन्त्यस्य वः स्यात् । स्फावयति । अपिस्फवत् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203437,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For the final of the stem स्फाय् is substituted व् in the Causative.\nAs स्फावयति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203437,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For the final of the stem स्फाय् is substituted व् in the Causative."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203437,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अपिस्फवच्च बन्धूनां (भट्टिकाव्यम् 4.33) — `स्फायो वः` इति वकारः ।\nअपिस्फवत्स्व-सामर्थ्यमगूहीत्सायकैर्दिशः (भट्टिकाव्यम् 15.99) — `स्फायो वः` इति णौ वत्वम्।\nस्वं स्फावयन्शक्र-रिपुः प्रभावम् (भट्टिकाव्यम् 12.76) — `स्फायो वः` इति णौ वत्वम्।\nतावस्फावयतां शाक्तिं (भट्टिकाव्यम् 17.43) — `स्फायो वः` इति वकारादेशः।"
+    }
+  ]
+}

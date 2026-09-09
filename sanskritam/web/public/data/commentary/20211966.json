@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211966,
+    "chapter_id": 7790,
+    "verse_number": "२१७",
+    "content_sanskrit": "गूर्",
+    "padaccheda": "गूरँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "उद्यमने",
+    "meaning_english": "to make an effort, to try",
+    "audio_url": null,
+    "display_order": 217,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211966,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गुरते गू(गु)रयेतेति शे णावुद्यमने तङि । श्यनि गूर्यत इत्येवं गतिहिंसनयोस्तङि ' (श्लो. 152) इति देवः । केचित् ' गुरी ' इति पठन्ति । अन्ये ' गूरी ' इति पठन्ति ।"
+    }
+  ]
+}

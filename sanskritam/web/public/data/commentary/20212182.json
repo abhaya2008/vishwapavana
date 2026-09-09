@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212182,
+    "chapter_id": 7790,
+    "verse_number": "४३३",
+    "content_sanskrit": "सङ्केत",
+    "padaccheda": "सन्केत",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आमन्त्रणे",
+    "meaning_english": "to invite, to call, to sign",
+    "audio_url": null,
+    "display_order": 433,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212182,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

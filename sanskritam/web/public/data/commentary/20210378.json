@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210378,
+    "chapter_id": 7781,
+    "verse_number": "३७९",
+    "content_sanskrit": "स्फुट्",
+    "padaccheda": "स्फुटिँर्",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विशरणे",
+    "meaning_english": "to burst,to break open,to split open, to destroy, to shatter, explode",
+    "audio_url": null,
+    "display_order": 379,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210378,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्फोटयेत् स्फोटतीति द्वे भेदे विशरणे क्रमात् ' (श्लो.71) इति देवः । ' अयं पाठो मैत्रेयादीनाम् ' इति माधवः ।  ' स्फुट ' इति चन्द्रः । ' विशरणे विकास च ' इति काशकृत्स्नः । ' स्फुटि इत्यपि केचित् - स्फुण्टति ' इति कौमुदी ।"
+    }
+  ]
+}

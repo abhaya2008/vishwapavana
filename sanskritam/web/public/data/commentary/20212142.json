@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212142,
+    "chapter_id": 7790,
+    "verse_number": "३९३",
+    "content_sanskrit": "श्वठ",
+    "padaccheda": "श्वठ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सम्यगवभाषणे",
+    "meaning_english": "to ill-speak, to abuse, to tell lies, to keep quiet",
+    "audio_url": null,
+    "display_order": 393,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212142,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।  ' शठयेत् श्वठयेदेते द्वे सम्यगवभाषणे ' (श्लो. 81) इति देवः । ' सम्यगाभाषणे सम्यग्वचनक्रियायामिति क्षीरस्वामी ' इति पुरुषकारः । क्षीरतरङ्गिण्यां तु ' असम्यगाभाषणे ' इत्येव दृश्यते । ' सम्यगाभाषणे ' इति दुर्गः । ' सम्यग्भाषणे ' इति शाकटायनः ।"
+    }
+  ]
+}

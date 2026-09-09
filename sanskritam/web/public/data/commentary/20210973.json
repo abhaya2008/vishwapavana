@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210973,
+    "chapter_id": 7781,
+    "verse_number": "९७४",
+    "content_sanskrit": "बल्",
+    "padaccheda": "बलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्राणने धान्यावरोधने च",
+    "meaning_english": "to breathe, to be powerful, to collect grains",
+    "audio_url": null,
+    "display_order": 974,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210973,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्राणनम् = जीवनम् । धान्यावरोधनम् = कुसूलादि - व्यापारः । प्राणनेकर्मकः, धान्यावरोधने सकर्मकः ।"
+    }
+  ]
+}

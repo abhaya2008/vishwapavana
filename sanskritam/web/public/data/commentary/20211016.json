@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211016,
+    "chapter_id": 7781,
+    "verse_number": "१०१७",
+    "content_sanskrit": "बुन्द्",
+    "padaccheda": "उँबुन्दिँर्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "निशामने",
+    "meaning_english": "to perceive,to apprehend, to comprehend, to understand with keen senses",
+    "audio_url": null,
+    "display_order": 1017,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211016,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "निशामनं ज्ञानम् । ' उ बुन्धिर् ' इति नन्दी । ' उ बेदिर् ' इत्यन्ये इति क्षीरस्वामी । ' उ चुन्दिर् ' इति काशकृत्स्नचन्द्रौ पेठतुरिति क्षीरतरङ्गिणीटीका ।"
+    }
+  ]
+}

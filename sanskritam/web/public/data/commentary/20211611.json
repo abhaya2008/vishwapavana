@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211611,
+    "chapter_id": 7786,
+    "verse_number": "१४२",
+    "content_sanskrit": "धि",
+    "padaccheda": "धि",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "धारणे",
+    "meaning_english": "to hold,to possess, to become",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211611,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतौ ' इति द्रुमे ।"
+    }
+  ]
+}

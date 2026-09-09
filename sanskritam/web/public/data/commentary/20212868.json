@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212868,
+    "chapter_id": 7794,
+    "verse_number": "६८",
+    "content_sanskrit": "उन्दिगुथिकुषिभ्यश्च",
+    "padaccheda": "",
+    "anvaya": "स",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212868,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उत्सः प्रस्रवणम् । गुत्सः स्तबकः । उक्षो जठरम् ।"
+    }
+  ]
+}

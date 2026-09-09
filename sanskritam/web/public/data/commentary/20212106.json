@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212106,
+    "chapter_id": 7790,
+    "verse_number": "३५७",
+    "content_sanskrit": "दृभ्",
+    "padaccheda": "दृभीँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भये",
+    "meaning_english": "to relate, to give reference, to be afraid",
+    "audio_url": null,
+    "display_order": 357,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212106,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दृभी भये विभाषा णौ स्यातां दर्भति दर्भयेत् ' (श्लो. 141) - देवः ।"
+    }
+  ]
+}

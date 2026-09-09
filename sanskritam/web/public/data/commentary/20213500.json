@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213500,
+    "chapter_id": 7799,
+    "verse_number": "१६६",
+    "content_sanskrit": "श्राद्धकुलिशदैवपीठकुण्डाङ्काङ्गदधिसक्थक्ष्यास्यास्पदाकाशकण्वबीजानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 166,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213500,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतानि क्लीबे स्युः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213567,
+    "chapter_id": 7801,
+    "verse_number": "२१",
+    "content_sanskrit": "शकुनीनां च लघु पूर्वम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213567,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पूर्वं लघु उदात्त स्यात् । कुक्कुटः । तित्तिरिः ॥"
+    }
+  ]
+}

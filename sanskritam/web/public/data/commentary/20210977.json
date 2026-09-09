@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210977,
+    "chapter_id": 7781,
+    "verse_number": "९७८",
+    "content_sanskrit": "हुल्",
+    "padaccheda": "हुलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ हिंसायां संवरणे च",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 978,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210977,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " हिंसासंवरणयोश्च ' इति मैत्रेयः ।"
+    }
+  ]
+}

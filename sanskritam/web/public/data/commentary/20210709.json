@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210709,
+    "chapter_id": 7781,
+    "verse_number": "७१०",
+    "content_sanskrit": "कास्",
+    "padaccheda": "कासृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दकुत्सायाम्",
+    "meaning_english": "to cough",
+    "audio_url": null,
+    "display_order": 710,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210709,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दस्य कुत्सा रोगित्वात् ' इति क्षीरतरङ्गिणी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213425,
+    "chapter_id": 7799,
+    "verse_number": "९१",
+    "content_sanskrit": "शुक्रमदेवतायाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213425,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदं शुक्रं रेतः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211152,
+    "chapter_id": 7781,
+    "verse_number": "११५३",
+    "content_sanskrit": "भज्",
+    "padaccheda": "भजँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "सेवायाम्",
+    "meaning_english": "to worship,to honour,to pray, to serve",
+    "audio_url": null,
+    "display_order": 1153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211152,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विभागसेवयोः ' इति द्रुमे (श्लो. 123) । ' सेवायां भजते भजेदिति भजे:, विश्राणने भाजयेद् । आमर्दे तु भनक्ति, भाजयति णौ भाजेः पृथक्कर्मणि ' (श्लो. 66) इति देवः ।"
+    }
+  ]
+}

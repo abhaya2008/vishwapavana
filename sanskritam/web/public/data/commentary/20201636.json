@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201636,
+    "chapter_id": 7763,
+    "verse_number": "४.३.६४",
+    "content_sanskrit": "अशब्दे यत्खावन्यतरस्याम्",
+    "padaccheda": "अ-शब्दे । यत्-खौ । अन्यतरस्याम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": "अनुवृत्तिः — भवः (४.३.५३), तत्र (४.३.५३), वर्ग-अन्तात् (४.३.६३), च (४.३.६३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201636,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वर्गान्तादित्येव। शब्दादन्यस्मिन् प्रत्ययार्थे वर्गान्तात् प्रातिपदिकादन्यतरस्यां यत्खौ प्रत्ययौ भवतः तत्र भव इत्येतस्मिन् विषये। छे प्राप्ते वचनं पक्षे सोऽपि भवति। वासुदेववर्ग्यः, वासुदेववर्गीणः, वासुदेववर्गीयः। युधिष्ठिरवर्ग्यः, युधिष्ठिरवर्गीणः, युधिष्ठिरवर्गीयः। अशब्द इति किम्? कवर्गीयो वर्णः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201636,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पक्षे पूर्वेण छः । मद्वर्ग्यः । मद्वर्गीणः । मद्वर्गीयः । अशब्दे किम् । कवर्गीयो वर्णः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201636,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अशब्दे यत्खावन्यतरस्याम्>> - अशब्दे । 'वर्गान्ताच्छः' इति शेषः । मद्वर्ग्यः मद्वर्गीण इति । मत्पक्षे भव इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201636,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`छे प्राप्ते` इति। पूर्वसूत्रेण॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201636,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वासुदेववर्गीय इति ।'वृद्धाच्छः'  इत्यस्य परत्वाद्यत्खौ बाधकाविति वृद्धादप्यनेन च्छ एषितव्यः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201636,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>शब्दादन्यत्र वर्गान्ताद् यत्खौ छ च विकल्पतः । अखिवर्ग्योऽखिवर्गीणोऽप्यखिवर्गीय इत्यपि ॥ २४९ ॥</karika> शब्दे तु छ एवोक्तः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201636,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a word ending with वर्ग but not meaning a 'letter or word' the affixes यत् and ख are optionally used in the sense of 'who stays there'.\nAs वासुदेववर्ग्यः (by यत्), वासुदेववर्गीणः, (by ख), and वासुदेववर्गीयः (by छ) ॥ युधिष्ठिरवर्ग्यः वर्गीणः or वर्गीयः ॥\n\nOf course, when the word means 'शब्द' it takes one affix only; i. e. छ; as कवर्गीय वर्णः 'a letter belonging to क class'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201636,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a word ending with वर्ग but not meaning a 'letter or word' the affixes यत् and ख are optionally used in the sense of 'who stays there'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201636,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "संबंहयन्तीम्रघु-वर्ग्य-लक्ष्मीम् ॥ (भट्टिकाव्यम् 2.48) — `अशब्दे यत्खावन्यतरस्याम्` इति यत्।\nविवन्दिषून्दाशरथिः स्व-वर्ग्यान् (भट्टिकाव्यम् 3.48) — `तत्र भवे यत्खौ` इति यत्।"
+    }
+  ]
+}

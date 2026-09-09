@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212097,
+    "chapter_id": 7790,
+    "verse_number": "३४८",
+    "content_sanskrit": "रिच्",
+    "padaccheda": "रिचँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वियोजनसम्पर्चनयोः",
+    "meaning_english": "to mix, to join, to tie, to separate, to spread, to take laxative",
+    "audio_url": null,
+    "display_order": 348,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212097,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वियोजनसंयमनयोः इति मुकुटः ' इति अमरसुधा । सम्पर्चनं - मिश्रीकरणम् । अभिधानवैचित्र्यात् धातोरस्य परस्परविरुद्धार्थकत्वम् । ' रिचिर् विरेचने रिङ्क्ते रिणक्ति श्ने, वियोजने । सम्पर्चने च यौ वा णौ रेचयत्यपि रेचति ' (श्लो. 52) इति देवः ।"
+    }
+  ]
+}

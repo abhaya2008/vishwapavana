@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210097,
+    "chapter_id": 7781,
+    "verse_number": "९८",
+    "content_sanskrit": "चक्",
+    "padaccheda": "चकँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "तृप्तौ प्रतीघाते च",
+    "meaning_english": "to be satisfied, to be contended, to repel, to cheat, to betray",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210097,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तृप्त्यावित्येव स्वामिकाश्यपौ । \" प्रतीघाते च तृप्तौ च चकते, चकतीति तु । तृप्तिमात्रे चकेरस्य मित्त्वात् चकयतीति णौ \" (श्लो. 40) इति देवः । ' तृप्तौ अकर्मकः, प्रतिघाते सकर्मक:' इति बालमनोरमा ।"
+    }
+  ]
+}

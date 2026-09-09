@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20203766,
+    "chapter_id": 7778,
+    "verse_number": "८.२.७९",
+    "content_sanskrit": "न भकुर्छुराम्",
+    "padaccheda": "न । भकुर्छुराम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": "अनुवृत्तिः — धातोः (८.२.७४), र्वोः (८.२.७६), दीर्घ (८.२.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203766,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "रेफवकारान्तस्य भस्य कुर् छुर् इत्येतयोश्च दीर्घो न भवति। धुरं वहति धुर्यः। धुरि साधुर्धुर्यः। दिव्यम्। कुर् — कुर्यात्। छुर् — छुर्यात्। रेफवकाराभ्यां भविशेषणं किम्? प्रतिदीव्ना। प्रतिदीव्ने॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203766,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "भस्य कुर्च्छुरोश्चोपधाया दीर्घो न स्यात् । धुर्यः । धौरेयः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203766,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "भस्य कुर्छुरोरुपधाया न दीर्घः। कुर्वन्ति ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203766,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<न भकुर्छुराम्>> - न भकुर्छुराम् । 'र्वोरुपधायाः' इत्यत 'उपधाया' इति दीर्घ इति चानुवर्तते । तदाह — भस्येत्यादिना ।धूर्वहे धुर्यधौरेयधुरीणाः॑ इत्यमरः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203766,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`हालि च`  [[8.2.70]]  इति दीर्घत्वे प्राप्ते प्रतिषेधोऽयमारभ्यते। `धुर्यः` इति। `धुरं वहतीति `धुरी यङ्ढकौ`  [[4.4.77]]  इति यत्। `कुर्यात्` इति। करोतेलिङ्, `तनादिकृञ्भ्य उ`  [[3.1.79]] , धातोर्गुणः, रपरत्वम्, `अत उत्? सार्वधातुके`  [[6.4.110]]  इत्युत्त्वम्, `ये च`  [[6.4.109]]  इत्युकारलोपः। `कुर्यात्` इति। आशिषि लिङ्। करोतेर्विकरणेन निर्देशश्चिकीर्षतीत्यत्र प्रतिषेधो मा भूवित्येवमर्थः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203766,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "छुर्यादिति ।'छुर छेदने' , आशिषि लिङ् । प्रतिदीव्नेति । योऽत्र वकारान्तो नासौ भसज्ञकः, यश्च भसंज्ञो नासौ वकारान्तः, किं तर्हि ? नकारान्तः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203766,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अत्र छकारमेव हराद्याः पेठुः । रान्तस्य वान्तस्य च भस्य कुर् छुर इत्यनयोश्चोपधादीर्घो न स्यात् । धुरं वहन् धुर्यः । धौरेयकः । 'यढञौ' इति पाठे धौरेयः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20203766,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The lengthening of a vowel does not take place under हलि च [[8.2.77]] when the nominal अङ्ग (stem) ending in र् or व् is called भ (i.e. when a य् follows) and also not in कुर् and छुर्।\nThus धुर्यः (धुरं वहति [[4.4.77]] or धुरि साधुः) ॥ Similarly कुर्यात्, छुर्यात् ॥ The latter is Benedictive of छुर् छेदने ॥  \n\nWhy have we qualified the word भ by saying that it must end in र् or व्? Observe प्रतिदीव्ना, प्रतिदीव्ने ॥ For here the stem which ends in व् is not-<i>Bha</i>, and the stem which is <i>Bha</i> does not end in व् but in न् ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20203766,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The lengthening of a vowel does not take place under हलि च [[8.2.77]] when the nominal अङ्ग (stem) ending in र् or व् is called भ (i.e. when a य् follows) and also not in कुर् and छुर्।"
+    }
+  ]
+}

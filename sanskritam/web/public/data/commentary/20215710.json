@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215710,
+    "chapter_id": 7807,
+    "verse_number": "१०३",
+    "content_sanskrit": "एवं तर्हि शब्दः।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": "व्याकरणाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215710,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "<y>शब्द इति</y> । लक्ष्यमित्यर्थः । अत्र पक्षे षष्ठयर्थ उपपद्यते । शब्दाप्रतिपत्तिहेतुता तु तदवस्था ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212940,
+    "chapter_id": 7794,
+    "verse_number": "१४०",
+    "content_sanskrit": "दीङो नुट् च",
+    "padaccheda": "",
+    "anvaya": "आरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 140,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212940,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दीनारः सुवर्णाभरणम् ।"
+    }
+  ]
+}

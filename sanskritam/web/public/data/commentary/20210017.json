@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210017,
+    "chapter_id": 7781,
+    "verse_number": "१८",
+    "content_sanskrit": "स्वद्",
+    "padaccheda": "ष्वदँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "आस्वादने",
+    "meaning_english": "to taste, to eat,to please the tongue, to have delight",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210017,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अस्य छान्दसं परस्मैपदित्वम् अस्ति । 'स्वदन्ति देवा उभयानि हव्या ( ऋ. 7.2.2) इति दर्शनात्' इति मा.धा.वृत्तिः । ' आस्वादनेर्थे स्वदते स्वादयेदिति शब्णिचो:' (श्लो. 193) इति देवः । अनुभवार्थे सकर्मकः । स्वदस्व हव्यानि । रुचौ अकर्मकः । वारिधारा न स्वदते । विशेषविषयाः मा.धा.वृत्तौ द्रष्टव्याः ।"
+    }
+  ]
+}

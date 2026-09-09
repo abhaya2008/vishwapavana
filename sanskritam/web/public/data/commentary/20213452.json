@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213452,
+    "chapter_id": 7799,
+    "verse_number": "११८",
+    "content_sanskrit": "नपुंसकम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 118,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213452,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अधिकारोऽयम् ।"
+    }
+  ]
+}

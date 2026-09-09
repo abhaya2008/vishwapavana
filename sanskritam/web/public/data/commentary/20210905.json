@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210905,
+    "chapter_id": 7781,
+    "verse_number": "९०६",
+    "content_sanskrit": "शण्",
+    "padaccheda": "शणँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दाने गतौ च",
+    "meaning_english": "to go, to give",
+    "audio_url": null,
+    "display_order": 906,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210905,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दाने च ' इति पठित्वा चकारात् गतौ इति मा.धा.वृत्तिः । क्षीरतरङ्गिण्याम् अयं धातुः न दृश्यते । ' गतौ इत्येके इति मैत्रेयः ' इति धा.का. व्याख्यायाम् (2-97) । ' दाने इत्यपि दुर्गः ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

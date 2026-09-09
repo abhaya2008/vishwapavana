@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210713,
+    "chapter_id": 7781,
+    "verse_number": "७१४",
+    "content_sanskrit": "नस्",
+    "padaccheda": "णसँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कौटिल्ये",
+    "meaning_english": "to be crooked",
+    "audio_url": null,
+    "display_order": 714,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210713,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दार्थे नासते नासेः कौटिल्ये नसते नसेः ' (श्लो. 184) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212076,
+    "chapter_id": 7790,
+    "verse_number": "३२७",
+    "content_sanskrit": "लङ्घ्",
+    "padaccheda": "लघिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to shine, to glow",
+    "audio_url": null,
+    "display_order": 327,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212076,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भाषणे लङ्घयेत् शोषे लङ्घेत् गत्याम् तु लङ्घते ' (श्लो. 45) - देवः ।"
+    }
+  ]
+}

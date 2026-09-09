@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211170,
+    "chapter_id": 7782,
+    "verse_number": "५",
+    "content_sanskrit": "दिह्",
+    "padaccheda": "दिहँ",
+    "anvaya": "U-पदी, गणः 2",
+    "meaning_sanskrit": "उपचये",
+    "meaning_english": "to grow, to collect, to dishonor",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211170,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उपपचः = लेपः , वृद्धिश्च ।"
+    }
+  ]
+}

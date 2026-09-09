@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211299,
+    "chapter_id": 7784,
+    "verse_number": "३१",
+    "content_sanskrit": "धी",
+    "padaccheda": "धीङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "आधारे आदाने अनादरे च",
+    "meaning_english": "to support,to hold,to take, to despise, to become hidden, to disappear",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211299,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आधारे '  इति क्षीरस्वामी । ' अनादरे ' इति मैत्रेयः । ' आदाने ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212033,
+    "chapter_id": 7790,
+    "verse_number": "२८४",
+    "content_sanskrit": "लुट्",
+    "padaccheda": "लुटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to shine, to glow",
+    "audio_url": null,
+    "display_order": 284,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212033,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णौ लोटयति भाषार्थे लुट्येल्लोटति लोटने ' (श्लो. 73) - देवः ।"
+    }
+  ]
+}

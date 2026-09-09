@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211730,
+    "chapter_id": 7789,
+    "verse_number": "५२",
+    "content_sanskrit": "मृड्",
+    "padaccheda": "मृडँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "क्षोदे सुखे च",
+    "meaning_english": "to powder, to cut, to grind, to make happy",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211730,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मुड सुखे इति केचित् ' इति मा.धा.वृत्तिः । ' सुखने ' इति क्षीरस्वामी पुरुषकारश्च । तत्र (पुरुषकारे श्लो. 87) - ' अन्ये ... क्षोदे मृड सुखने च इति पठन्ति ' इति । ' मृडेर्मृड्णाति सुखने तत्रैव मृडतीति शे ' (श्लो. 87) इति देवः ।"
+    }
+  ]
+}

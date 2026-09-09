@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213227,
+    "chapter_id": 7796,
+    "verse_number": "२९",
+    "content_sanskrit": "अश्र्वादयश्च",
+    "padaccheda": "",
+    "anvaya": "डुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213227,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अश्रु नयनजलम् ।"
+    }
+  ]
+}

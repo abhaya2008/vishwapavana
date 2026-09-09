@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201038,
+    "chapter_id": 7759,
+    "verse_number": "३.३.८२",
+    "content_sanskrit": "करणेऽयोविद्रुषु",
+    "padaccheda": "करणे । अयस्-वि-द्रुषु",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), हनः (३.३.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201038,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "हन इति वर्तते। अयस् वि द्रु इत्येतेषूपपदेषु हन्तेर्धातोः करणे कारकेऽप् प्रत्ययो भवति, घनादेशश्च। अयो हन्यतेऽनेनेत्ययोघनः। विघनः। द्रुघनः। द्रुघण इति केचिदुदाहरन्ति। कथं णत्वम्? अरीहणादिषु पाठात्। <<पूर्वपदात् संज्ञायामगः>> [[८.४.३]] इति वा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201038,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एषु हन्तेः करणेऽप् स्याद्घनादेशश्च । अयो हन्यतेऽनेनेत्ययोघनः । विघनः । द्रुघनः । द्रुघण इत्येके । पूर्वपदात्सञ्ज्ञायां <{SK857}> इति णत्वम् । सञ्ज्ञैषा कुठारस्य । द्रुर्वृक्षः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201038,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "द्रुघन इति । द्रुरिति वनस्पतिनाम्,'वनस्पतयो वै द्रवः'  इति निगमो भवति । पूर्वपदात्संज्ञायामग इति वेति । संज्ञा चैषा कुठारविशेषस्य ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201038,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एषु पूर्वेषु हनेः करणेऽप् घनादेशश्च । अयोहननसाधनमयोघनः । विघनः समीकरणसाधनम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201038,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes after the verb हन् 'to kill' when the words अयस् , वि or द्रु are in composition with it, when the word so formed is related to the verb as an instrument and घन् is the substitute.\nAs अयोघनः 'a forge-hammer' (whereby the iron is destroyed); विघनः 'a mallet'; द्रुघनः 'an axe'. Some write द्रुघणः, the न being changed into ण either by rule [[8.4.3]] or by including this word in the class of आरोहणादि [[4.2.80]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201038,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes after the verb हन् 'to kill' when the words अयस् , वि or द्रु are in composition with it, when the word so formed is related to the verb as an instrument and घन् is the substitute."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201038,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "विघनेन्दु-सम-द्युतिः (भट्टिकाव्यम् 7.63) — `करणे- ऽयोविद्धुषु` इत्यप् घनादेशश्च।"
+    }
+  ]
+}

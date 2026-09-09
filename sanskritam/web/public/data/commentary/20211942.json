@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211942,
+    "chapter_id": 7790,
+    "verse_number": "१९३",
+    "content_sanskrit": "दंश्",
+    "padaccheda": "दशिँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "दंशने",
+    "meaning_english": "to bite,to sting",
+    "audio_url": null,
+    "display_order": 193,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211942,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भासार्थः ' इति क्षीरस्वामी । ' दंशने दशतीति स्यात् तत्र दंशयते णिचि । भाषणे दंशयेत् ... ' (श्लो. 164- 165) इति देवः ।"
+    }
+  ]
+}

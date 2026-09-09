@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213589,
+    "chapter_id": 7802,
+    "verse_number": "१७",
+    "content_sanskrit": "ईषान्तख्य हयादेरादिर्वा",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213589,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हलीषा । लाङ्गलीषा ॥"
+    }
+  ]
+}

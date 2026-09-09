@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210683,
+    "chapter_id": 7781,
+    "verse_number": "६८४",
+    "content_sanskrit": "अव्",
+    "padaccheda": "अवँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "रक्षणगतिकान्तिप्रीतितृप्त्यवगमप्रवेशश्रवणस्वाम्यर्थयाचनक्रियेच्छादीप्त्यवाप्त्यालिङ्गनहिंसादानभागवृद्धिषु",
+    "meaning_english": "to protect,to go, to desire, to wish, to love, to please, to satisfy, to enter, to hear, to own, to order, to command, to request, to beg, to act, to glow, to shine, to obtain, to hug, to embrace, to kill, to hurt, to grow, to gain power",
+    "audio_url": null,
+    "display_order": 684,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210683,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अव - रक्षणे गतौ कान्तौ प्रीतौ तृप्तौ द्युतौ श्रुतौ । प्राप्तौ श्लेषेर्थने वेशे भागे वृद्धौ ग्रहे वधे । स्वाम्यर्थेवगमे कामे कृतौ ' इति वोपदेवः ।"
+    }
+  ]
+}

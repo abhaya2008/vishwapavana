@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213496,
+    "chapter_id": 7799,
+    "verse_number": "१६२",
+    "content_sanskrit": "फलजातिः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 162,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213496,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "फलजातिवाची शब्दो नपुंसकः स्यात् । आमलकम् । आम्रम् । "
+    }
+  ]
+}

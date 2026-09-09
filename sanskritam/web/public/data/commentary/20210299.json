@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210299,
+    "chapter_id": 7781,
+    "verse_number": "३००",
+    "content_sanskrit": "एठ्",
+    "padaccheda": "एठँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "विबाधायाम्",
+    "meaning_english": "to hinder, to be wicked, to be cruel",
+    "audio_url": null,
+    "display_order": 300,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210299,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विपूर्वोयमिति स्वामिकाश्यपौ । मैत्रेयादयस्तु केवलमेव उदाजाह्नुः ' इति मा.धा.वृत्तिः । ' अत्र स्वामिपदेन क्षीरस्वामी न ग्राह्यः, अपि तु अन्यः केशवस्वामी शिवस्वामी वा इति प्रतिभाति ' इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

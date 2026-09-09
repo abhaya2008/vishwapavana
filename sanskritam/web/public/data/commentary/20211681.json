@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211681,
+    "chapter_id": 7789,
+    "verse_number": "३",
+    "content_sanskrit": "श्री",
+    "padaccheda": "श्रीञ्",
+    "anvaya": "U-पदी, गणः 9",
+    "meaning_sanskrit": "पाके",
+    "meaning_english": "to cook",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211681,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्रीणाति पाके श्रीणीते सेवायां श्रयते श्रयेत् ' (श्लो. 16) इति देवः ।"
+    }
+  ]
+}

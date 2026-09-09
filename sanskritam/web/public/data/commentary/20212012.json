@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212012,
+    "chapter_id": 7790,
+    "verse_number": "२६३",
+    "content_sanskrit": "लग्",
+    "padaccheda": "लगँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आस्वादने",
+    "meaning_english": "to taste",
+    "audio_url": null,
+    "display_order": 263,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212012,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रघ ' इत्येके । ' रग ' इत्यन्ये ।"
+    }
+  ]
+}

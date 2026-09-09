@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212933,
+    "chapter_id": 7794,
+    "verse_number": "१३३",
+    "content_sanskrit": "कुवः क्ररन्",
+    "padaccheda": "",
+    "anvaya": "क्ररन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 133,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212933,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुररः पक्षिभेदः ।"
+    }
+  ]
+}

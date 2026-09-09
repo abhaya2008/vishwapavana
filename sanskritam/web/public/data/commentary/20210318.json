@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210318,
+    "chapter_id": 7781,
+    "verse_number": "३१९",
+    "content_sanskrit": "होड्",
+    "padaccheda": "होडृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अनादरे",
+    "meaning_english": "to disregard,to insult",
+    "audio_url": null,
+    "display_order": 319,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210318,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' होडतीति गतौ होडेर्होडतेनादरे पुनः (श्लो.86) इति देवः ।"
+    }
+  ]
+}

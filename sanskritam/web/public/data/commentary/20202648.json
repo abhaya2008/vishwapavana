@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202648,
+    "chapter_id": 7769,
+    "verse_number": "६.१.२०९",
+    "content_sanskrit": "जुष्टार्पिते च छन्दसि",
+    "padaccheda": "जुष्ट-अर्पिते । च । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 209,
+    "avatarnika": "अनुवृत्तिः — उदात्तः (६.१.१५९), आदिः (६.१.१९७), विभाषा (६.१.२०८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202648,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "जुष्ट अर्पित इत्येते शब्दरूपे छन्दसि विषये विभाषा आद्युदात्ते भवतः। जुष्टः॑, जु॒ष्टः। अर्पि॑तः, अ॒र्पि॒तः। छन्दसीति किम् ? भाषायां प्रत्ययस्वरेणान्तोदात्तावेतौ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202648,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आद्युदात्ते वा स्तः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202648,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`जुष्टः` इति। `जुषी प्रीतिसेवनयोः` (धातुपाठः-1288)। `अर्पितः` इति। अर्तेर्णिच, `अर्त्तिह्रो`  [[7.3.36]]  इत्यादिना पुक्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202648,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "जुष्ट इति।'जुषी प्रीतिसेवनयोः' ,'श्वीदिते निष्ठायाम्'  इतीट्प्रतिषेधः। अपित इति। ठतिर्ह्रीऽ अर्तेर्णिच्, अर्त्यादिना पुक् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202648,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आद्युच्चे वा स्तः । जुष्टः जुष्टः । अर्पितः अर्पितः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202648,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस , the words जुष्ट and अर्पित have optionally the acute on the first syllable.\nThus जु꣡ष्टः or जुष्टः꣡; अ꣡र्पितः or अर्पितः꣡ ॥ In the secular literature the accent is always on the last syllable [[3.1.3]]."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202648,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस , the words जुष्ट and अर्पित have optionally the acute on the first syllable."
+    }
+  ]
+}

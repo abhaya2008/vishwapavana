@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213520,
+    "chapter_id": 7799,
+    "verse_number": "१८६",
+    "content_sanskrit": "गुणवचनं च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 186,
+    "avatarnika": "अविशिष्टलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213520,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शुक्लः पटः । शुक्ला पटी । शुक्लं वस्त्रम् ।"
+    }
+  ]
+}

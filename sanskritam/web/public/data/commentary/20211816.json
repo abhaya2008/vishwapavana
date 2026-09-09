@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211816,
+    "chapter_id": 7790,
+    "verse_number": "६७",
+    "content_sanskrit": "कण्ड्",
+    "padaccheda": "कडिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भेदने",
+    "meaning_english": "to break in pieces,to break,to cut,to tear to pieces",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211816,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कण्डयेदिति भेदे णौ मदे तु शपि कण्डते ' (श्लो. 86) इति देवः ।"
+    }
+  ]
+}

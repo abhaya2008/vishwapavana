@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210029,
+    "chapter_id": 7781,
+    "verse_number": "३०",
+    "content_sanskrit": "यत्",
+    "padaccheda": "यतीँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रयत्ने",
+    "meaning_english": "to try, to strive, to make effort, to attempt",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210029,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " 'यतते तु प्रयत्नार्थे, निराकारे तु यातयेत्' (श्लो. 96) इति देवः ।"
+    }
+  ]
+}

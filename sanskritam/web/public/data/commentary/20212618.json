@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212618,
+    "chapter_id": 7792,
+    "verse_number": "९८",
+    "content_sanskrit": "ताडेर्णिलुक् च",
+    "padaccheda": "",
+    "anvaya": "इति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212618,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ताडयतीति तडित् ।"
+    }
+  ]
+}

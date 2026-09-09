@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210273,
+    "chapter_id": 7781,
+    "verse_number": "२७४",
+    "content_sanskrit": "लाञ्ज्",
+    "padaccheda": "लाजिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भर्जने भर्त्सने च",
+    "meaning_english": "to fry, to roast, to blame,to traduce,to insult",
+    "audio_url": null,
+    "display_order": 274,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210273,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चात् भर्त्सनेपि । ' लञ्जेत् लाञ्जेत् लजेत् लाजेत् इत्येते भर्त्सने शपि ' (श्लो.69) इति देवः ।"
+    }
+  ]
+}

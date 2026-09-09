@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213594,
+    "chapter_id": 7803,
+    "verse_number": "३",
+    "content_sanskrit": "पारावतस्योपोत्तमवर्जम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213594,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शेष क्रमेणोदात्तम् । पारावतः ॥"
+    }
+  ]
+}

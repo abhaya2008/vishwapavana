@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211977,
+    "chapter_id": 7790,
+    "verse_number": "२२८",
+    "content_sanskrit": "वृष्",
+    "padaccheda": "वृषँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "शक्तिबन्धने",
+    "meaning_english": "to be impregnated, to show great courage, to be capable of bearing offsprings",
+    "audio_url": null,
+    "display_order": 228,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211977,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शक्तिबन्धनं प्रजाननसामर्थ्यं शक्तिबन्धः च । ' शक्तौ वर्षयते सेके वर्षेत् स्नहे तु वर्षते ' (श्लो. 176) इति देवः ।"
+    }
+  ]
+}

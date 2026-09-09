@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203741,
+    "chapter_id": 7778,
+    "verse_number": "८.२.५४",
+    "content_sanskrit": "प्रस्त्योऽन्यतरस्याम्",
+    "padaccheda": "प्रस्त्यः । अन्यतरस्याम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": "अनुवृत्तिः — निष्ठातः (८.२.४२), नः (८.२.४२), मः (८.२.५३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203741,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रपूर्वात् स्त्यायतेरुत्तरस्य निष्ठातकारस्यान्यतरस्यां मकारादेशो भवति। प्रस्तीमः। प्रस्तीमवान्। प्रस्तीतः। प्रस्तीतवान्। यदा मत्वं नास्ति तदा <<संयोगादेरातो धातोर्यण्वतः>>[[८.२.४३]] इत्यस्य पूर्वत्रासिद्धत्वात् संप्रसारणं प्रथमं क्रियते। तत्र कृते निमित्तव्याघाताद् नत्वं न भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203741,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "निष्ठातस्य मो वा स्यात् । प्रस्तीमः । प्रस्तीतः । प्रात्किम् । स्त्यानः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203741,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<प्रस्त्योऽन्यतरस्याम्>> - प्रस्त्योऽन्यतरस्याम् । 'प्रस्त्य' इति पञ्चमी । प्रपूर्वात्स्यैधातोरित्यर्थः । 'निष्ठातस्य म' इति शेषः । प्रस्तीम इति । सङ्गीभूत इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203741,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<प्रस्त्योऽन्यतरस्याम्>> - प्रस्तीमः प्रस्तीत इति । स्त्यै ष्ठै शब्दसङ्घातयोः । आत्वे कृतेसंयोगादे॑रित्यस्याऽसिद्धत्वात्पूर्वं संप्रसारणे पूर्वरूपे कृतेहलः॑ इति दीर्घः, पश्चाद्यण्वत्त्वादन्तत्वयोर्विरहान्न नत्वम् ।संस्त्यान॑ इत्यत्र तु भवत्येव ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203741,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "प्रस्तीम इति ।'स्त्यः प्रपूर्वस्य'  इति सम्प्रसारणम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203741,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मान्निष्ठातस्य मत्वं वा स्यात् । प्रस्तीमः प्रस्तीतः । घनीभूत इत्यर्थः । प्रपूर्वस्येत्युक्तेः प्रसारणं तु प्रसंस्तीत इत्यत्रापि स्यात् ।।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203741,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "म is optionally substituted for the निष्ठा त after the root स्तयै preceded by प्र।\nThus प्रस्तीमः or प्रस्तीतः, प्रस्तीमवान् or प्रस्तीतवान् ॥ In the second alternative when म does not come, we first vocalise the root स्त्या into स्ती, and then add त ॥ Had <i>samprasarana</i> not taken place first, then the <i>Nishtha</i> त would have been changed to म after स्त्या by [[8.2.43]]. But when <i>samprasarana</i> is once made, the root no longer has a semi-vowel and so there remains no occasion for the application of [[8.2.43]]. See [[6.1.23]] for vocalisation."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203741,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "म is optionally substituted for the निष्ठा त after the root स्तयै preceded by प्र।"
+    }
+  ]
+}

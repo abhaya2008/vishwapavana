@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211176,
+    "chapter_id": 7782,
+    "verse_number": "११",
+    "content_sanskrit": "आस्",
+    "padaccheda": "आसँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "उपवेशने",
+    "meaning_english": "to sit",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211176,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अधि — वास करना, रहना\nअभि — अध्ययन काटना, उप\nनिर् — बाहर निकलना या निकाल देना"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212775,
+    "chapter_id": 7793,
+    "verse_number": "९८",
+    "content_sanskrit": "नञि च नन्देः",
+    "padaccheda": "",
+    "anvaya": "ऋन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212775,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "न नन्दति ननान्दा । इह वृद्धिर्नानुवर्तत इत्येके । ननान्दा तु स्वसा पत्युर्ननन्दा नन्दिनी च सेति शब्दार्णवः ।"
+    }
+  ]
+}

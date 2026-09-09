@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201875,
+    "chapter_id": 7764,
+    "verse_number": "४.४.१३५",
+    "content_sanskrit": "सहस्रेण संमितौ घः",
+    "padaccheda": "सहस्रेण । संमितौ । घः",
+    "anvaya": "'सहस्रेण सम्मितौ' (इति) छन्दसि संज्ञायां घः ",
+    "meaning_sanskrit": "तृतीयासमर्थात् 'सहस्र'शब्दात् 'सम्मिति' (समानता, सादृश्यता) अस्मिन् अर्थे वेदेषु संज्ञायाः विषये घ-प्रत्ययः कृतः दृश्यते । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 135,
+    "avatarnika": "अनुवृत्तिः — छन्दसि (४.४.११०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201875,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "निर्देशादेव समर्थविभक्तिः। सहस्रशब्दात् तृतीयासमर्थात् सम्मितावित्येतस्मिन्नर्थे घः प्रत्ययो भवति। सम्मितस्तुल्यः सदृशः। अ॒यम॒ग्निः स॑ह॒स्रियः॑ (तै०सं०४.७.१३.४)। सहस्रतुल्य इत्यर्थः। केचित्तु समिताविति पठन्ति। तत्रापि समित्या सम्मित एव लक्षयितव्यः। तत्र छन्दसि प्रयोगदर्शनात्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201875,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सहस्त्रियासो अपां नोर्मयः (स॒ह॒स्त्रिया॑सो अ॒पां नोर्मयः॑) । सहस्रेण तुल्या इत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201875,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "निर्देशादेव समर्थविभक्तिरिति । सा पुनस्तुल्यार्थयोगे तृतीया । सम्मित एव लक्षयितव्य इति । किं कारण् ? इत्याह - तत्रेति । च्छन्दसि हि तत्र सम्मिते प्रयोगो दृश्यते ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201875,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "सहस्रेण सदृश इत्यर्थे घः स्यात् । सहस्रियं, दम्यं भागमेतम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201875,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घ comes in the sense of 'like' after the word सहस्र in the Instrumental -3rd case in construction, in the छन्दस् (Vedas).\nThe case of construction is indicated by the <i>sutra</i>. Thus सहस्रेण संमितः = सहस्रियः 'like unto thousand'. As in the following verse:- सहस्रिथासोऽपां नोर्मयः ॥ अयमग्निः सहस्रियः The word संमित means तुल्य 'equal to'. Some read the word समित instead of सम्मित, but the meaning will be the same."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201875,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घ comes in the sense of 'like' after the word सहस्र in the Instrumental -3rd case in construction, in the छन्दस् (Vedas)."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201875,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "तृतीयासमर्थात् 'सहस्र'शब्दात् 'अनेन सम्मितम् / तुल्यम् / समानम्' अस्मिन् अर्थे  घ-प्रत्ययः भवति ।\nसहस्रेण सम्मितः\n= सहस्र + घ\n→ सहस्र + इय [<<आयनेयीनीयियः फढखच्छघां प्रत्ययादीनाम्>> [[7.1.2]] इति इय्-आदेशः]\n→ सहस्र् + इय\n→ सहस्रिय ।\nयथा - सहस्रेण तुल्यः सहस्रियः अग्निः ।\nवेदेषु प्रयोगः - तैत्तिरीयसंहिता 2.4.5.1 - 'सविता यः सहस्रियः' ।\n"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201875,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "आघ्रायि वान्गन्ध-वहः सु-गन्धस्तेनाऽरविन्द-व्यतिषङ्ग-वांश्च (भट्टिकाव्यम् 2.10) — ` ` इतीकारः समासान्तो न भवति।"
+    }
+  ]
+}

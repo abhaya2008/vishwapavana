@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211897,
+    "chapter_id": 7790,
+    "verse_number": "१४८",
+    "content_sanskrit": "जुड्",
+    "padaccheda": "जुडँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to direct, to inspire",
+    "audio_url": null,
+    "display_order": 148,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211897,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रेरणे जोडयेच्छे तु बन्धने जुडतीति च ' (श्लो. 89) इति देवः ।"
+    }
+  ]
+}

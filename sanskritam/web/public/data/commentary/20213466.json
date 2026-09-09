@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213466,
+    "chapter_id": 7799,
+    "verse_number": "१३२",
+    "content_sanskrit": "संख्यापूर्वा रात्रिः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213466,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "त्रिरात्रम् । सङ्ख्यापूर्वेति किम् ? सर्वरात्रः ।"
+    }
+  ]
+}

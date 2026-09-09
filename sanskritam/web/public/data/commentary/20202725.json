@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202725,
+    "chapter_id": 7770,
+    "verse_number": "६.२.६३",
+    "content_sanskrit": "राजा च प्रशंसायाम्",
+    "padaccheda": "राजा । च । प्रशंसायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), अन्यतरस्याम् (६.२.५४), शिल्पिनि (६.२.६२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202725,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "राजशब्दः पूर्वपदं शिल्पिवाचिन्युत्तरपदे प्रशंसायां गम्यमानायामन्यतरस्यां प्रकृतिस्वरं भवति। राज॑नापितः, रा॒ज॒ना॒पि॒तः। राज॑कुलालः, रा॒ज॒कु॒ला॒लः। कर्मधारये राजगुणाध्यारोपेणोत्तरपदार्थस्य प्रशंसा। षष्ठीसमासे च राजयोग्यतया तस्य। राजेति किम्? प॒र॒म॒ना॒पि॒तः। प्रशंसायामिति किम्? रा॒ज॒ना॒पि॒तः। शिल्पिनीत्येव — रा॒ज॒ह॒स्ती॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202725,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शिल्पिवाचिनि परे प्रशंसार्थं राजपदं वा प्रकृत्या । राजनापितः । राजकुलालः । प्रशंसायां किम् । राजनापितः । शिल्पिनि किम् । राजहस्ती ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202725,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`कर्मधारये` इत्यादि। राजनापितः` इति। कर्मधारयोऽयं वा स्यात्, षष्ठीतत्पुरुषो वा? तत्र यदा कर्मधारयस्तदा राजशब्दस्य नापित उपचारेण वृत्तिः। उपचारस्तु राजगुणारोपनिबन्धनः, अतस्तेनैवोत्तरपदस्य प्रशंसा भवति। कथं पुनर्नापितः षष्ठीसमासेन राजनापितशब्देनोच्यते? इत्याह `राजयोग्यतया तस्य` इत्यादि। स हि स्वकर्मणि प्रवीणत्वाद्राजानं प्रति योग्यो भवति। अतोऽपि राजनापित इति षष्ठीसमासेनोच्यते। अत्र पक्षे तस्यैव योग्यतयोत्तरपदस्य प्रशंसा वेदितव्या॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202725,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "षष्ठीसमासे चेति । प्रशंसेत्यनुषङ्गः । राजयोग्यतया तस्येति । स हि कर्मणि प्रवीणत्वाद्राजानं प्रति योग्यो भवति । राजार्ह इति चोक्ते प्रशंसा गम्यते ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202725,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शिल्प्यर्थे परे राजा प्राक्पदं स्तुतौ वा प्रकृत्या स्यात् । राजरजकः । कर्मधारये राजगुणारोपात् स्तुतिः । षष्ठीसमासे राजार्हत्वात् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202725,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word राजन् optionally retains its original accent after a profession-denoting noun when praise is expressed.\nThus रा꣡जनापितः or राजनापितः꣡, रा꣡जकुलालः or राजकुलालः꣡ \"A royal barber i. e. a skillful barber or one fit to serve the king even\" &c. It may be either a <i>Karmadharaya</i> or a Genitive compound. Why do we say 'राजन्'? Observe परमनापितः ॥ Why do we say 'when denoting praise'? Observe राजनापितः꣡ 'king's barber'. Why do we say 'a professional man'? Observe राजहस्ती 'a royal elephant'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202725,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word राजन् optionally retains its original accent after a profession-denoting noun when praise is expressed."
+    }
+  ]
+}

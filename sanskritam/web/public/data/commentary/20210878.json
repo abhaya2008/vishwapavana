@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210878,
+    "chapter_id": 7781,
+    "verse_number": "८७९",
+    "content_sanskrit": "क्रन्द्",
+    "padaccheda": "क्रदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वैक्लव्ये",
+    "meaning_english": "to be afraid, to to grieve,to cry,to shed tears",
+    "audio_url": null,
+    "display_order": 879,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210878,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अनिदिदित् इति नन्दी ' इति स्वामी । ' वैकल्ये - वैक्लव्ये ' इत्येके । ' क्रद ' इति मैत्रेयः ।"
+    }
+  ]
+}

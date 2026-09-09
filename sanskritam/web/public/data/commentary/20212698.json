@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212698,
+    "chapter_id": 7793,
+    "verse_number": "२१",
+    "content_sanskrit": "कृतेश्छः क्रू च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212698,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कृच्छ्र्म् । क्रूरः ।"
+    }
+  ]
+}

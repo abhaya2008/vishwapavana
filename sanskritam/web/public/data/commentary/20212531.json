@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212531,
+    "chapter_id": 7792,
+    "verse_number": "११",
+    "content_sanskrit": "स्यन्देः संप्रसारणं धश्च",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212531,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "देशे नदविशेषेऽब्धौ सिन्धुर्ना सरिति स्त्रियामित्यमरः ।"
+    }
+  ]
+}

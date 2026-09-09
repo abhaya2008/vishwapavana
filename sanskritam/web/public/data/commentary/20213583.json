@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213583,
+    "chapter_id": 7802,
+    "verse_number": "११",
+    "content_sanskrit": "सुगन्धितेजनस्य ते वा",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213583,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदिर्द्वितीयं तेशब्दश्चेति त्रयः पर्यायेणोदात्ताः । सुगन्धितेजनाः ॥"
+    }
+  ]
+}

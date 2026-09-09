@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212998,
+    "chapter_id": 7795,
+    "verse_number": "३८",
+    "content_sanskrit": "शीङो धुक्लक्वलञ्वालनः",
+    "padaccheda": "",
+    "anvaya": "धुक्, लक्, वलञ्, वालन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212998,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चत्वारः प्रत्ययाः स्युः । शीधु मद्यम् । शीलं स्वभावः । शैवलः शेवालम् । बाहुलकाद्वस्य पोऽपि । शेवालं शैवलो न स्त्री शेपालो जलनीलिका ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212136,
+    "chapter_id": 7790,
+    "verse_number": "३८७",
+    "content_sanskrit": "मृष्",
+    "padaccheda": "मृषँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "तितिक्षायाम्",
+    "meaning_english": "to tolerate",
+    "audio_url": null,
+    "display_order": 387,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212136,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्वरितेत् ' इति कौमुदी । ' क्षमायां यौ मर्षेन्मर्षेत मर्षयेत् ' (श्लो. 173) इति देवः ।"
+    }
+  ]
+}

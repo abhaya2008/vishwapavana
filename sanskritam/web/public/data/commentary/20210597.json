@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210597,
+    "chapter_id": 7781,
+    "verse_number": "५९८",
+    "content_sanskrit": "क्ष्मील्",
+    "padaccheda": "क्ष्मीलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "निमेषणे",
+    "meaning_english": "to blink, to wink",
+    "audio_url": null,
+    "display_order": 598,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210597,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " निमेषणम् = सङ्कोचनम्  इति धातूकाव्ये । ' चान्द्रसम्मतः क्ष्मील इति पाठः ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

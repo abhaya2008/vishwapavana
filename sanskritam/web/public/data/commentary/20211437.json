@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211437,
+    "chapter_id": 7785,
+    "verse_number": "६",
+    "content_sanskrit": "स्तृ",
+    "padaccheda": "स्तृञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "आच्छादने",
+    "meaning_english": "to cover,to eclipse, to spread, to expand",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211437,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " लक्षणया वीक्षणे ' इति धा.का.व्याख्या । (2.68) ' तृञः श्नि च्छादने प्यादेः स्तृणीते च स्तृणाति च । श्रावृदन्तस्य तत्रैव स्तृणोति स्तृणुते स्तृञः ' (श्लो.35) इति देवः ।"
+    }
+  ]
+}

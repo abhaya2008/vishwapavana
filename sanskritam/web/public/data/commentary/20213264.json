@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213264,
+    "chapter_id": 7796,
+    "verse_number": "६६",
+    "content_sanskrit": "तरतेर्ड्रिः",
+    "padaccheda": "",
+    "anvaya": "ड्रि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213264,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "त्रयः । त्रीन् ।"
+    }
+  ]
+}

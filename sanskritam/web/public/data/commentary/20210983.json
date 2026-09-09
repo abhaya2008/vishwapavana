@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210983,
+    "chapter_id": 7781,
+    "verse_number": "९८४",
+    "content_sanskrit": "वम्",
+    "padaccheda": "टुवमँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उद्गिरणे",
+    "meaning_english": "to vomit,to drop,to emit,to give out,to be sick",
+    "audio_url": null,
+    "display_order": 984,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210983,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "मिच्च । ' उद्गिरणे = वमने ' इति काशकृत्स्नः । ' उद्गिरणम् = अन्तर्गतस्य मुखेन निःसारणम् ' इति माधवः । ' भुक्तस्य ऊर्ध्वगतिः ' इति क्षीरस्वामी । ' उदित् इति काशकृत्स्नपाठः ' इति तरङ्गिण्याम् । ' प्रकृत काशकृत्स्नधातुपाठे तु ' डु वम ' इत्येव दृश्यते । ' काश्यपादीनामप्युदित्पाठः ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

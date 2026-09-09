@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212560,
+    "chapter_id": 7792,
+    "verse_number": "४०",
+    "content_sanskrit": "मुकुरदर्दुरौ",
+    "padaccheda": "",
+    "anvaya": "उरच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212560,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मुकुरो दर्पणः । बाहुलकान्मकुरोऽपि । दॄ विदारणे । धातोर्द्विर्वचनमभ्यासस्य रुक् टिलोपश्च । दर्दुरस्तोयदे भेके वाद्यभाण्डाद्रिभेदयोः । दर्दुरा चण्डिकायां स्याद्ग्रामजाले च दर्दुरमिति विश्वः ।"
+    }
+  ]
+}

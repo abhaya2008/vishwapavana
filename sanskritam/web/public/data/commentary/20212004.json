@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212004,
+    "chapter_id": 7790,
+    "verse_number": "२५५",
+    "content_sanskrit": "भूष्",
+    "padaccheda": "भूषँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अलङ्करणे",
+    "meaning_english": "to adorn, to decorate",
+    "audio_url": null,
+    "display_order": 255,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212004,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' .. भूषति भूषयेत् । अलङ्कृतौ ... ' (श्लो. 172 - 3) इति देवः ।"
+    }
+  ]
+}

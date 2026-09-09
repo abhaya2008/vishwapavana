@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212840,
+    "chapter_id": 7794,
+    "verse_number": "४०",
+    "content_sanskrit": "कृदाधारार्चिकलिभ्यः कः",
+    "padaccheda": "",
+    "anvaya": "क",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212840,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बाहुलकान्न कस्येत्संज्ञा । कर्को धवलघोटकः । दाको दाता । धाकोऽनड्वानाधारश्च । राका पौर्णमासी अर्कः । कल्कः पापाशये पापे दम्भे विट्किट्टयोरपि ।"
+    }
+  ]
+}

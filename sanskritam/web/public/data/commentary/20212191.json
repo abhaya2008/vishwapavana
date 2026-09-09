@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212191,
+    "chapter_id": 7790,
+    "verse_number": "४४२",
+    "content_sanskrit": "मृग",
+    "padaccheda": "मृग",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "अन्वेषणे",
+    "meaning_english": "to investigate, to search, to prey, to kill an animal",
+    "audio_url": null,
+    "display_order": 442,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212191,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । आवर्गीयः । ' अन्वेषणेर्थे मृगयेत णौ यो मार्गेर्भवेन्मार्गति मार्गयेच्च ' (श्लो. 44) इति देवः ।"
+    }
+  ]
+}

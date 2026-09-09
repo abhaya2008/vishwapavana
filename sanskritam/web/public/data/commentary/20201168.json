@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201168,
+    "chapter_id": 7760,
+    "verse_number": "३.४.३६",
+    "content_sanskrit": "समूलाकृतजीवेषु हन्कृञ्ग्रहः",
+    "padaccheda": "समूल-अकृत-जीवेषु । हन्-कृञ्-ग्रहः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६), कर्मणि (३.४.२९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201168,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कर्मणीत्येव। समूल अकृत जीव इत्येतेषु शब्देषु कर्मसूपपदेषु यथासंख्यं हन् कृञ् ग्रह इत्येतेभ्यो धातुभ्यो णमुल् प्रत्ययो भवति। समूलघातं हन्ति। समूलं हन्तीत्यर्थः। अकृतकारं करोति। जीवग्राहं गृह्णाति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201168,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कर्मणीत्येव । समूलघातं हन्ति । अकृतकारं करोति । जीवग्राहं गृह्णाति । जीवतीति जीवः । इगुपलक्षणः कः । जीवन्तं गृण्हातीत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201168,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`समूलघातम्` इति। <<हो हन्तेर्ञ्णिन्नेषु>> [[7.3.54]]  इति कृत्वम्, <<हनस्तोऽचिण्णलोः>> [[7.3.32]]  इति तत्वम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201168,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "जीवग्राहमिति । जीवतीति जीवः, इगुपधलक्षणः कः । जीवन्तं गृह्णातीत्यर्थः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201168,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्रमेण योज्यम् । हन्तेर्णिति तत्वघत्वे । समूलघातं हन्ति । अकृतकारं करोति शूरः । कैश्चिदप्यकृतमद्भुतं करोतीत्यर्थः । जीवग्राहं गृह्णाति । जीवेतीगुपधात् कः । जीवन्तमेव गृह्णातीत्यर्थः । अनुप्रयोगस्य प्रादियोगेऽपि न दोषः । समूलघातं न्यवधीत् । मृणाललावं निर्लून ३इति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201168,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verbs 1. हन् 'to kill' 2. कृ 'to make' 3. ग्रह् 'to seize', when the words 1. समूल 2. आकृत 3. जीव in the Accusative -2nd case are respectively compounded with them.\nThus समूलघातं हन्ति [[8.3.32]] and [[8.3.54]] 'he destroys so as to tear up by the roots i.e. he totally extirpates'; अकृतकारं करोति 'he does a thing which was not done before'; तं जीवग्राहं गृह्णाति 'captures him so as to preserve his life, i. e. captures him alive'. Here also appropriate verbs from the same roots are used to govern the gerund."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201168,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verbs 1. हन् 'to kill' 2. कृ 'to make' 3. ग्रह् 'to seize', when the words 1. समूल 2. आकृत 3. जीव in the Accusative -2nd case are respectively compounded with them."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201168,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "जीवग्राहं ग्राहयामासुरन्ये (शिशुपालवधम् 18.66) — `समूलाकृतजीवेषु हन्कृअग्रहः` इति णमुल्प्रत्ययः।\nसमूलघातं न्यवधीदरींश्च ॥ (भट्टिकाव्यम् 1.2) — `समूलाकृत` इत्यादिना णमुल् ।"
+    }
+  ]
+}

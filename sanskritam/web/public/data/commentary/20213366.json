@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213366,
+    "chapter_id": 7799,
+    "verse_number": "३२",
+    "content_sanskrit": "चुल्लिवेणिखार्यश्च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213366,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् ।"
+    }
+  ]
+}

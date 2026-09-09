@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210043,
+    "chapter_id": 7781,
+    "verse_number": "४४",
+    "content_sanskrit": "मन्थ्",
+    "padaccheda": "मथिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसासङ्क्लेशनयोः",
+    "meaning_english": "to strike,to destroy, to kill, to crush, to tear off, to injure, to cause pain",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210043,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मन्थ' इति क्षीरस्वामी । 'हिंसासंक्लेशयोर्मन्थेत् मथेन्मथ्नाति लोडने' (श्लो. 98) इति देवः ।"
+    }
+  ]
+}

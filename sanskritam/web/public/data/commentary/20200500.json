@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200500,
+    "chapter_id": 7755,
+    "verse_number": "२.३.४०",
+    "content_sanskrit": "आयुक्तकुशलाभ्यां चासेवायाम्",
+    "padaccheda": "आयुक्त-कुशलाभ्याम् । च । आसेवायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": "अनुवृत्तिः — सप्तमी (२.३.३६), षष्ठी (२.३.३८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200500,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "षष्ठीसप्तम्यौ वर्तेते। आयुक्तो व्यापारितः, कुशलो निपुणः, ताभ्यां योग आसेवायां गम्यमानायां षष्ठीसप्तम्यौ विभक्ती भवतः। आसेवा तात्पर्यम्। आयुक्तः कटकरणस्य, आयुक्तः कटकरणे। कुशलः कटकरणस्य, कुशलः कटकरणे। आसेवायामिति किम्? आयुक्तो गौः शकटे। तत्र सप्तम्येवाधिकरणे भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200500,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आभ्यां योगे षष्ठीसप्तम्यौ स्तस्तात्पर्येऽर्थे । आयुक्तो व्यापारितः । आयुक्तः कुशलो वा हरिपूजने हरिपूजनस्य वा । आसेवायां किम् ? आयुक्तो गौः शकटे । ईषद्युक्त इत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200500,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<आयुक्तकुशलाभ्यां चासेवायाम्>> - आयुक्त । आसेवापदं व्याचष्टे — तात्पर्ये इति । औत्सुक्ये इत्यर्थः ।तत्परे प्रसितासक्ताविष्टार्थोद्युक्त उत्सुकः॑ इत्यमरः । आयुक्तपदं व्याचस्टे — व्यापारित इति । प्रवर्तित इत्यर्थः । आयुक्तः कुशलो वेति । हरिपूजनविषये आयुक्तः=प्रवर्तित इत्यर्थः । अत्र वैषयिकाधिकरणत्वविवक्षायां तु षष्ठआमेव प्राप्तायां वचनम् । आयुक्तो गौरिति । आङीषदर्थे ।युजिर्योगे॑ । तदाह — ईषद्युक्त इत्यर्थ इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200500,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "आयुक्तता निपुणता च कटादिकरणविषयैवेति सप्तम्यामेव प्राप्तायां पक्षे षष्ठीविधानार्थं वचनम्। `आसेवायामिति किम्? आयुक्तो गौः शकटे` (इति)। ईषद्युक्त इत्यर्थः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200500,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "आयुक्तकुशलाभ्यां चासेवायाम्॥ आयुक्तो गौः शकट इति। आङीषदर्थे ईषद्यौक्त इत्यर्थः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200500,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां तत्परत्वेऽर्थे षष्ठीसप्तम्यौ स्तः । आयुक्तः कुशलो वा धर्मे, धर्मस्य वा । तत्पर इत्यर्थः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200500,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In conjunction with the words आयुक्त 'engaged', and कुशल 'skilful', when meaning entire absorption in an engagement, the 6th and the 7th case-affixes are used after a word.\nEx. आयुक्तः कुशलो वा कटकरणे कटकरणस्य वा 'deeply absorbed in mat-making.'\n\nWhen not meaning 'deeply absorbed,' the construction is different; as आयुक्तो गौ शकटे 'the cow is slightly yoked to the cart.' Here the seventh case-affix only is employed."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200500,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In conjunction with the words आयुक्त 'engaged', and कुशल 'skilful', when meaning entire absorption in an engagement, the 6th and the 7th case-affixes are used after a word."
+    }
+  ]
+}

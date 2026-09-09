@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213555,
+    "chapter_id": 7801,
+    "verse_number": "९",
+    "content_sanskrit": "उनर्वन्नन्तानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213555,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उन । 'वरु॑ण वो रि॒शाद॑सम्' । ॠ । स्वसा॑रं त्वा कृणवै॒ । वन् । पीवा॑न मे॒षम् ॥"
+    }
+  ]
+}

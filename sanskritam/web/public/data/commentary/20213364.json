@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213364,
+    "chapter_id": 7799,
+    "verse_number": "३०",
+    "content_sanskrit": "स्रक्त्वक्ज्योग्वाग्यवागूनौस्फिजः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213364,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं स्रक् त्वक् ज्योक् वाक् यवागूः नौः स्फिक् ।"
+    }
+  ]
+}

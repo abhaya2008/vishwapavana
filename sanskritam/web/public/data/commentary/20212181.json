@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212181,
+    "chapter_id": 7790,
+    "verse_number": "४३२",
+    "content_sanskrit": "कूट",
+    "padaccheda": "कूट",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परितापे परिदाहे च",
+    "meaning_english": "to irritate, to cause pain, to set on fire, to make something burn",
+    "audio_url": null,
+    "display_order": 432,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212181,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' परिदाहे ' इत्यन्ये । ' कूटयेताप्रसादे णौ, कुटेर्दाहे तु कूटयेत् ' (श्लो. 75) इति देवः ।"
+    }
+  ]
+}

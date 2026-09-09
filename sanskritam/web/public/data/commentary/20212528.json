@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212528,
+    "chapter_id": 7792,
+    "verse_number": "८",
+    "content_sanskrit": "अणश्च",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212528,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लवलेशकणाणवः । चात्कटिवटिभ्याम् । कटति रसनां कटुः । वटतीति वटुः ।"
+    }
+  ]
+}

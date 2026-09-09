@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210991,
+    "chapter_id": 7781,
+    "verse_number": "९९२",
+    "content_sanskrit": "क्रुश्",
+    "padaccheda": "क्रुशँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आह्वाने रोदने च",
+    "meaning_english": "to call out, to shout, to cry",
+    "audio_url": null,
+    "display_order": 992,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210991,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — दया करना\nआ — निन्दा करना, गाली देना\nउप — दाग लगाना, दोष देना\nप्र — जोर से पुकारना"
+    }
+  ]
+}

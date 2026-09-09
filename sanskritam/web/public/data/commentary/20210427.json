@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210427,
+    "chapter_id": 7781,
+    "verse_number": "४२८",
+    "content_sanskrit": "ग्लेप्",
+    "padaccheda": "ग्लेपृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कम्पने गतौ च",
+    "meaning_english": "to shiver, to tremble, to shake",
+    "audio_url": null,
+    "display_order": 428,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210427,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ग्लेपरर्थभेदात् पुनः पाठः ' इति सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

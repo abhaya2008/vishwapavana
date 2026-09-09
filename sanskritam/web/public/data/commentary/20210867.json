@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210867,
+    "chapter_id": 7781,
+    "verse_number": "८६८",
+    "content_sanskrit": "व्यथ्",
+    "padaccheda": "व्यथँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "भयसञ्चलनयोः",
+    "meaning_english": "to be vexed,to fear,to be angry, to be irritated",
+    "audio_url": null,
+    "display_order": 868,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210867,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "षिच्च । षित्त्वप्रयोजनं तु स्त्रियामित्यधिकारे ' षिद्भिदादिभ्यः अङ् ' । घटाव्यथादीनि रूपाणि । ' दुःखभयचलनयोः ' इति काशकृत्स्नः । ' दुःखचलनयोः ' इति दुर्गः । ' दुःखे चाले भये ' इति वोपदेवः इति पा.धा. समीक्षा ।"
+    }
+  ]
+}

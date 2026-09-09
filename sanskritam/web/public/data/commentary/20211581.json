@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211581,
+    "chapter_id": 7786,
+    "verse_number": "११२",
+    "content_sanskrit": "कृड्",
+    "padaccheda": "कृडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "घनत्वे",
+    "meaning_english": "to thicken, to solidify",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211581,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' घसने ' इत्येके । धनत्वम् = सान्द्रता ।"
+    }
+  ]
+}

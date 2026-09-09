@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212714,
+    "chapter_id": 7793,
+    "verse_number": "३७",
+    "content_sanskrit": "हनो वध च",
+    "padaccheda": "",
+    "anvaya": "क्वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212714,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वधकः ।"
+    }
+  ]
+}

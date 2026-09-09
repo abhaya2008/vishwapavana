@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211938,
+    "chapter_id": 7790,
+    "verse_number": "१८९",
+    "content_sanskrit": "डिप्",
+    "padaccheda": "डिपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षेपे",
+    "meaning_english": "to throw, to hit, to collect",
+    "audio_url": null,
+    "display_order": 189,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211938,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " डेपयेदिति चत्वारि णिचि शे श्यनि णौ डिपेः ' (श्लो. 134) इति देवः ।"
+    }
+  ]
+}

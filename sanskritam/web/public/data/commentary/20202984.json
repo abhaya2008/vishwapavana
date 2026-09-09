@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20202984,
+    "chapter_id": 7771,
+    "verse_number": "६.३.१२३",
+    "content_sanskrit": "इकः काशे",
+    "padaccheda": "इकः । काशे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": "अनुवृत्तिः — दीर्घः (६.३.१११), उपसर्गस्य (६.३.१२२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202984,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "इगन्तस्योपसर्गस्य काशशब्द उत्तरपदे दीर्घो भवति। नीकाशः। वीकाशः। अनूकाशः। पचाद्यच्प्रत्ययान्तोऽयं काशशब्दो न तु घञन्तः। इक इति किम्? प्रकाशः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202984,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "इगन्तस्योपसर्गस्य दीर्घः स्यात्काशे । वीकाशः । नीकाशः । इकः किम् । प्रकाशः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202984,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<इकः काशे>> - इकः काशे । नीकाश इति । पचाद्यजन्तत्वात्पूर्वेण न प्राप्तिः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202984,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "साढ्वेत्यादौ ओत्त्वाभावो निपात्यते। दीर्घस्तु <<ढ्रलोपे पूर्वस्य दीर्घोऽणः>> [[6.3.111]]  इत्यादिनैव सिद्धः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202984,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पचाद्यच्प्रत्ययान्तोऽयं काशशब्द इति । नघञन्तः, तत्र पूर्वेणैव सिद्धम् । यथा निगमे - प्राकाशावध्वर्यवे ददातीति । इको वहेऽपीलोः इत्यत्र पूर्वपदमात्रस्येष्यते, इह तूपसर्गस्य तेन द्विरिक इत्युक्तम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202984,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "इगन्तोपसर्गस्य काशे परे दीर्घः । नीकाशः । प्रतीकाशः । पचायच् । बहुलानुवृत्तेर्निकाशः ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202984,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A preposition ending in इ or उ lengthens its final before काश।\nAs नीकाशः, वीकाशः, अनूकाशः ॥ काश is formed by अच् [[3.1.134]]. Why do we say 'ending in इ or उ'? Observe प्रकाशः where the Preposition does not end in इक् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20202984,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A preposition ending in इ or उ lengthens its final before काश।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20202984,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "आसक्तभरनीकाशैरङ्गैः परिकृशैरपि । अद्यूनः सद्गृहिण्येव प्रायो यष्ट्यावलम्बितः ॥ (किरातार्जुनीयम् 11.5) — `इकः काशे` इति दीर्घः।"
+    }
+  ]
+}

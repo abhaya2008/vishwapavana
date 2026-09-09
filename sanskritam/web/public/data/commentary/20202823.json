@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202823,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१६१",
+    "content_sanskrit": "विभाषा तृन्नन्नतीक्ष्णशुचिषु",
+    "padaccheda": "विभाषा । तृन्-अन्न-तीक्ष्ण-शुचिषु",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 161,
+    "avatarnika": "अनुवृत्तिः — नञः (६.२.१५५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202823,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तृन्नन्त अन्न तीक्ष्ण शुचि इत्येतेषु नञ उत्तरेषु विभाषान्त उदात्तो भवति। अ॒क॒र्ता, अक॑र्ता। अन्न — अ॒न॒न्नम्, अन॑न्नम्। तीक्ष्ण — अ॒ती॒क्ष्णम्, अती॑क्ष्णम्। शुचि — अ॒शु॒चिः, अशु॑चिः। पक्षेऽव्ययस्वर एव भवति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202823,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "तृन् । अकर्ता । अन्न । अनन्नम् । अतीक्ष्णम् । अशुचि पक्षे अव्ययस्वरः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202823,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "तृन्निति प्रत्ययग्रहणम्, तेन पूर्ववत्? तदन्तस्योपस्थानम्। अन्नादीनि प्रातिपदिकानि। `अकर्ता` इति। ताच्छीलिकस्तृन्। तेन नित्स्वरेणाद्युदात्तः कर्त्तृशब्दः। अन्नशब्दोऽपि `नब्विषयस्य` (फि।सू।2।26) इति। `कृत्यसूभ्यां क्स्नः` (द।उ।5।49) इति `तिजेर्दीर्घश्च` (द।उ।5।50) इति तीक्ष्णशब्दोऽन्तोदात्तः। `इन्` (द।उ।1।46) इति वर्तमाने `इगुपधातु कित्` (द।उ।1।48), तेन शुचिशब्द आद्युदात्तः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202823,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नञ एषु परेष्वन्तोदात्तत्वं वा स्यात् । तृन्नन्ते—अकर्ता । अनन्नः । अतीक्ष्णः । अशुचिः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202823,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the negative particle, the final of the following is optionally acute accent (उदात्त) - a word formed with the affix तृन् and the words 1. अन्न 2. तीक्ष्ण and 3. शुचि।\nThus तृन् - अकर्त्ता꣡ or अ꣡कर्त्ता; अन्न &c - अनन्न꣡म् or अ꣡नन्नम्, अतीक्ष्ण꣡म्, or अ꣡तीक्ष्णम्, अशुचिः꣡ or अ꣡शुचिः ॥ The alternative accent is that of the Indeclinable. [[6.2.2]]"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202823,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the negative particle, the final of the following is optionally acute accent (उदात्त) - a word formed with the affix तृन् and the words 1. अन्न 2. तीक्ष्ण and 3. शुचि।"
+    }
+  ]
+}

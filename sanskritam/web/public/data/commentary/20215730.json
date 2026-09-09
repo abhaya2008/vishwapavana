@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215730,
+    "chapter_id": 7807,
+    "verse_number": "१२३",
+    "content_sanskrit": "सा तर्हि वक्तव्या ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": "वर्णोपदेशाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215730,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "भाष्ये - <y>सा तर्हि वक्तव्येति</y> । तथा च प्रत्यापत्त्याश्रयणे गौरवमिति भावः ॥"
+    }
+  ]
+}

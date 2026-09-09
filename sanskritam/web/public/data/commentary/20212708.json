@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212708,
+    "chapter_id": 7793,
+    "verse_number": "३१",
+    "content_sanskrit": "पचिनशोर्णुकन्कनुमौ च",
+    "padaccheda": "",
+    "anvaya": "णुकन्, कनुम्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212708,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पचेः कः । पाकुकः सूपकारः । नशेर्नुम् । नंशुकः ।"
+    }
+  ]
+}

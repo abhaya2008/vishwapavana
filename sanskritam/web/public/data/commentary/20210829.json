@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210829,
+    "chapter_id": 7781,
+    "verse_number": "८३०",
+    "content_sanskrit": "चह्",
+    "padaccheda": "चहँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "परिकल्कने",
+    "meaning_english": "to be wicked,to be proud,to cheat, to boast",
+    "audio_url": null,
+    "display_order": 830,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210829,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "परिकल्कनम् शाठ्यं , दम्भो वा । ' चहयेच्चहतीत्येके चहेः स्ताम् परिकल्कने ' ( श्लो. 196) इति देवः ।"
+    }
+  ]
+}

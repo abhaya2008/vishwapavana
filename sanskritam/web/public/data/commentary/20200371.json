@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200371,
+    "chapter_id": 7753,
+    "verse_number": "२.१.२१",
+    "content_sanskrit": "अन्यपदार्थे च संज्ञायाम्",
+    "padaccheda": "अन्य-पदार्थे । च । संज्ञायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": "अनुवृत्तिः — नदीभिः (२.१.२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200371,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "संख्येति निवृत्तम्, नदीग्रहणमनुवर्तते। नदीभिः सह सुबन्तमन्यपदार्थे वर्तमानं संज्ञायां विषये समस्यते, अव्ययीभावश्च समासो भवति। विभाषाधिकारेऽपि नित्यसमास एवायम्। नहि वाक्येन संज्ञा गम्यते। उन्मत्तगङ्गं नाम देशः। लोहितगङ्गम्। कृष्णगङ्गम्। शनैर्गङ्गम्। अन्यपदार्थ इति किम्? कृष्णवेण्णा। संज्ञायामिति किम्? शीघ्रगङ्गो देशः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200371,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अन्यपदार्थे विद्यमानं सुबन्तं नदीभिः सह नित्यं समस्यते संज्ञायाम् । विभाषाधिकारेऽपि वाक्येन संज्ञानवगमादिह नित्यसमासः । उन्मत्तगङ्गं नाम देशः । लोहितगङ्गम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200371,
+      "commentary_type": "प्रौढमनोरमा",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "<w>नित्यसमास इति।</w> एतच्च वृत्तौ स्पष्टम्। शाकलसूत्रे कैयटस्वरसोऽप्येवम्। नन्वेवं न्यायसाम्यात् बहुव्रीहेरपि नित्यसमासत्वं स्यादिति चेन्मैवम्, यस्येत्यादिपदान्तरसमभिव्याहारेणान्यपदार्थप्रतीतेः। अत एव संज्ञानवगमात् इत्युक्तं न त्वन्यपदार्थाऽनवगमादिति। संज्ञायां किम्ॽ शीघ्रगङ्गो देशः।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200371,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`कृष्णवेण्णा` इति। कृष्णा चासौ वेण्णा चेति विशेषणसमासः। `शीघ्रगङ्गः` इति। बहुव्रीहिः।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200371,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "सुबन्तं नदीभिः सहान्यपदार्थे नाम्नि समस्यते । उन्मत्ता (उत्क्षुमिता) गङ्गास्मिन्नित्युन्मत्तगङ्गं नाम देशः । तूष्णींगङ्गम् । शनैर्गङ्गम् । 'तृतीयासप्तम्यो- र्बहुलम्' (२-४-८४) इति बहुलोक्तेः समृद्धिसंख्यानद्युक्ताव्ययीभावानां सप्तम्या नित्यमम्भावः । भृत्यसमृद्धावित्यर्थं सुभृत्यम् । एवं द्विशाब्दिकम् । उन्मत्तगङ्गम् । इति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200371,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A word ending in a case-affix is compounded with words denoting the names of rivers, when the compound word denotes a thing other than that expressed by the terms of the compound and is an appellative, the compound so formed being an अव्ययीभाव ।\nThe <i>anuvritti</i> of the word <i>samkhyå</i> does not extend to this <i>sutra</i>. Though this rule is given in the sub-division relating to optional compounds it is, however, a <i>Nitya-samasa</i> rule : for no Name (सञ्ज्ञा) can ever be expressed by a sentence, and that being so, these compounds can never be analysed. As उन्मत्तगङ्गम् ' the country called <i>Unmatta Ganges</i> .' So also लोहितगङ्गम्, कृष्णगङ्गम् ; शनैर्गङ्गम्.\n\nWhy do we say 'when it denotes a thing other than that expressed by the component parts of the compound' ? Observe कृष्णवेण the 'river <i>Krishnavena</i>.'\n\nWhy do we say 'when it expresses an Appellative' ? Observe शीर्घो गङ्गो देशः ' the country where the <i>Ganges</i> moves rapidly.'"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200371,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A word ending in a case-affix is compounded with words denoting the names of rivers, when the compound word denotes a thing other than that expressed by the terms of the compound and is an appellative, the compound so formed being an अव्ययीभाव ।"
+    }
+  ]
+}

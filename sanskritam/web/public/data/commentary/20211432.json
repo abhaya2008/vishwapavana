@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211432,
+    "chapter_id": 7785,
+    "verse_number": "१",
+    "content_sanskrit": "सु",
+    "padaccheda": "षुञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "अभिषवे",
+    "meaning_english": "to bathe, to extract, to distill, to juice, to agitate, to churn",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211432,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "स्नाने अकर्मकः , अन्यत्र सकर्मकः । अभिषवः स्नपनपीडनस्नानसुरासन्धानादिः । ' षुञः सुनेति सुनुते प्रसवैश्वर्ययोरसौत् । गतौ तयोश्च सवते द्विरुक्त्या तस्य सो न षः ' इति (श्लो. 21) देवः ।"
+    }
+  ]
+}

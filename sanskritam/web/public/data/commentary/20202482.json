@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202482,
+    "chapter_id": 7769,
+    "verse_number": "६.१.४३",
+    "content_sanskrit": "व्यश्च",
+    "padaccheda": "व्यः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": "अनुवृत्तिः — सम्प्रसारणम् (६.१.३२), न (६.१.३७), सम्प्रसारणम् (६.१.३७), ल्यपि (६.१.४१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202482,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ल्यपीत्येव। <<व्येञ् संवरणे>>  इत्येतस्य धातोर्ल्यपि परतः संप्रसारणं न भवति। प्रव्याय। उपव्याय। योगविभाग उत्तरार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202482,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उपव्याय ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202482,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`योगविभाग उत्तरार्थः` इति। उत्तरत्र व्येञ एव विभाषा सम्प्रसारणं यथा स्यात्, `ज्या` इत्यस्य मा भूदित्येवमर्थो योगविभागः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202482,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The semi-vowel of व्या (व्ये) 'to cover' is not vocalised when the affix ल्यप् follows.\nAs प्रव्याय, उपव्याय ॥ The separation of this <i>sutra</i> from the last, is for the sake of the subsequent <i>sutra</i>, in which the <i>anuvritti</i> व्ये runs."
+    },
+    {
+      "id": 5,
+      "verse_id": 20202482,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The semi-vowel of व्या (व्ये) 'to cover' is not vocalised when the affix ल्यप् follows."
+    }
+  ]
+}

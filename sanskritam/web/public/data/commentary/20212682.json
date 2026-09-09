@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212682,
+    "chapter_id": 7793,
+    "verse_number": "५",
+    "content_sanskrit": "सर्तेर्णित्",
+    "padaccheda": "",
+    "anvaya": "स्थन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212682,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सार्थः समूहः ।"
+    }
+  ]
+}

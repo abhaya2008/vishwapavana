@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213456,
+    "chapter_id": 7799,
+    "verse_number": "१२२",
+    "content_sanskrit": "कर्मणि च ब्राह्मणादिगुणवचनेभ्यः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213456,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ब्राह्मणस्य कर्म ब्राह्मण्यम् ।"
+    }
+  ]
+}

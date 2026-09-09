@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201605,
+    "chapter_id": 7763,
+    "verse_number": "४.३.३३",
+    "content_sanskrit": "अणञौ च",
+    "padaccheda": "अण्-अञौ । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": "अनुवृत्तिः — जातः (४.३.२५), तत्र (४.३.२५), सिन्धु-अपकराभ्याम् (४.३.३२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201605,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सिन्ध्वपकरशब्दाभ्यां यथासंख्यमणञौ प्रत्ययौ भवतस्तत्र जात इत्येतस्मिन् विषये। पूर्वेण कनि प्राप्ते वचनम्। सैन्धवः। आपकरः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201605,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्रमात् स्तः । सैन्धवः । आपकारः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201605,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अणञौ च>> - अणञो च । क्रमात्स्त इति ।सिन्ध्वपकराभ्या॑मिति शेषः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201605,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<अणञौ च>> - अणञौ च । यथासङ्ख्यार्थो योगविभागः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201605,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "योगविभागो यथासंख्यार्थः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201605,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ad_ref: ४. ३. ३३"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201605,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And the affixes अण् and अञ् come respectively after the words 1. सिन्धु and 2. अपकर।\nThus सैन्धवः꣡ and आ꣡पकरः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201605,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And the affixes अण् and अञ् come respectively after the words 1. सिन्धु and 2. अपकर।"
+    }
+  ]
+}

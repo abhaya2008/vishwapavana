@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212788,
+    "chapter_id": 7793,
+    "verse_number": "१११",
+    "content_sanskrit": "वसौ रुचेः संज्ञायाम्",
+    "padaccheda": "",
+    "anvaya": "इसिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212788,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वसुरोचिर्यज्ञः ।"
+    }
+  ]
+}

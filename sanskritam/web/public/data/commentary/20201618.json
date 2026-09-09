@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201618,
+    "chapter_id": 7763,
+    "verse_number": "४.३.४६",
+    "content_sanskrit": "ग्रीष्मवसन्तादन्यतरस्याम्",
+    "padaccheda": "ग्रीष्म-वसन्तात् । अन्यतरस्याम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.२५), कालात् (४.३.४३), उप्ते (४.३.४४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201618,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ग्रीष्मवसन्तशब्दाभ्यामन्यतरस्यां वुञ् प्रत्ययो भवत्युप्तेऽर्थे। ऋत्वणोऽपवादः। ग्रैष्मकम्, ग्रैष्मं सस्यम्। वासन्तकम्, वासन्तम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201618,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पक्षे ऋत्वण् । ग्रैष्मकम् । ग्रैष्मम् । वासन्तकम् । वासन्तम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201618,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ग्रीष्मवसन्तादन्यतरस्याम्>> - ग्राष्मवसन्तात् । ग्रीष्माद्वसन्ताच्च सप्तम्यन्तादुप्ते वुञ्वेत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201618,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यामुप्ते वा वुञ् । ग्रैष्मकाः ग्रैष्मा वा शालयः । वासन्तका वासन्ता वा ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201618,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes optionally after the words 1. ग्रीष्म and 2. वसन्त in the sense of 'sown'.\nThis debars अण् [[4.3.16]]. Thus ग्रैष्मम् or ग्रैष्मकम् सस्यम् 'the crop sown in summer'. वासन्तम् or वासन्तकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201618,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes optionally after the words 1. ग्रीष्म and 2. वसन्त in the sense of 'sown'."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212872,
+    "chapter_id": 7794,
+    "verse_number": "७२",
+    "content_sanskrit": "सपूर्वाच्चित्",
+    "padaccheda": "",
+    "anvaya": "सर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212872,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "संवत्सरः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212815,
+    "chapter_id": 7794,
+    "verse_number": "१५",
+    "content_sanskrit": "रास्नासास्नास्थूणावीणाः",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212815,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रास्ना गन्धद्रव्यम् । सास्ना गोगलकम्बलः । स्थूणा गृहस्तम्भः । वीणा वल्लकी ।"
+    }
+  ]
+}

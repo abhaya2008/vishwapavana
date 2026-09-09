@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212184,
+    "chapter_id": 7790,
+    "verse_number": "४३५",
+    "content_sanskrit": "कुण",
+    "padaccheda": "कुण",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आमन्त्रणे",
+    "meaning_english": "to invite, to call, to sign,  to speak intelligently",
+    "audio_url": null,
+    "display_order": 435,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212184,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' आमन्त्रणे तु कुणयेच्छब्दे चोपकृतौ कुणेत् ' (श्लो. 93) इति देवः ।"
+    }
+  ]
+}

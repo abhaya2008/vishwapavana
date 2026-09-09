@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213028,
+    "chapter_id": 7795,
+    "verse_number": "६८",
+    "content_sanskrit": "अदेस्त्रिनिश्च",
+    "padaccheda": "",
+    "anvaya": "त्रिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213028,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्त्रिप् । अन्त्री । अन्त्रिणौ । अन्त्रिणः । अन्त्रिः । अन्त्री । अन्त्रयः ।"
+    }
+  ]
+}

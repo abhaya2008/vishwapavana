@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211635,
+    "chapter_id": 7786,
+    "verse_number": "१६६",
+    "content_sanskrit": "मुच्",
+    "padaccheda": "मुचॢँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "मोक्षणे",
+    "meaning_english": "to free,to liberate,to leave, to release,to loosen,to abandon",
+    "audio_url": null,
+    "display_order": 166,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211635,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — विशेष रूप से मुक्त करना, पूर्ण रूप से छोड़ना, त्याग करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211635,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कल्कने मुञ्चते मुञ्चे: मोक्षे मुञ्चति मुञ्चते । प्रमोचने चुरादेर्णौ मोचयत्येष न त्वऌदित् ' (श्लो. 47) इति देवः ।"
+    }
+  ]
+}

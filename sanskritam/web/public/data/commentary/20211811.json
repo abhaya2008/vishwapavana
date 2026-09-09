@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211811,
+    "chapter_id": 7790,
+    "verse_number": "६२",
+    "content_sanskrit": "छन्द्",
+    "padaccheda": "छदिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "संवरणे",
+    "meaning_english": "to cover",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211811,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " यौ वा णौ अपचारणे छदत इत्येकम्, द्वितीयं छदेत् (छदन्), अन्यत् छादयति, छदेदिति पुनः स्यादूर्जनेर्थे पितः । ' यत्तु च्छन्दयतीति णौ नुमि पदं, तत् संवृताविष्यते ' (श्लो. 113) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213072,
+    "chapter_id": 7795,
+    "verse_number": "११२",
+    "content_sanskrit": "स्नामदिपद्यर्तिपॄशकिभ्यो वनिप्",
+    "padaccheda": "",
+    "anvaya": "वनिप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213072,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्नावा रसिकः । मद्वा शिवः । पद्वा पन्थाः । अर्वा तुरङ्गगर्ह्ययोः । पर्वा ग्रन्थिः प्रस्तावश्च । शक्का हस्ती । ङीब्रौ । शक्करी अङ्गुलिः ।"
+    }
+  ]
+}

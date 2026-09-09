@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212927,
+    "chapter_id": 7794,
+    "verse_number": "१२७",
+    "content_sanskrit": "रुहिनन्दिजीविप्राणिभ्यः षिदाशिषि",
+    "padaccheda": "",
+    "anvaya": "झच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212927,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रोहन्तो वृक्षभेदः । नन्दन्तः पुत्रः । जीवन्त औषधम् । प्राणन्तो वायुः । षित्वान्ङीष् । रोहन्ती ।"
+    }
+  ]
+}

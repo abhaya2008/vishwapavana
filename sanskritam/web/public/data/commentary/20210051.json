@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210051,
+    "chapter_id": 7781,
+    "verse_number": "५२",
+    "content_sanskrit": "खद्",
+    "padaccheda": "खदँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "स्थैर्ये हिंसायां भक्षणे च",
+    "meaning_english": "to be firm,to be steady, to hurt, to kill, to eat, to consume, to bite",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210051,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चकारात् भक्षणेपि । स्थैर्येकर्मकः ।"
+    }
+  ]
+}

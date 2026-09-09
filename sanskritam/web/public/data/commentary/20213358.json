@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213358,
+    "chapter_id": 7799,
+    "verse_number": "२४",
+    "content_sanskrit": "दर्विविदिवेदिखनिशान्यश्रिवेशिकृष्योषधिकट्यङ्गुलयः ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213358,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते स्त्रियां स्युः । पक्षे ङीप् । दर्वी, दर्विः इत्यादि । "
+    }
+  ]
+}

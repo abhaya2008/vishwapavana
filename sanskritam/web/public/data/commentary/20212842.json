@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212842,
+    "chapter_id": 7794,
+    "verse_number": "४२",
+    "content_sanskrit": "शुकवल्कोल्काः",
+    "padaccheda": "",
+    "anvaya": "कक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212842,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शुभेरन्त्यलीपः । शुकः । वल्कं वल्कलमस्त्रियाम् । उष दाहे । षस्य लः । उल्का ।"
+    }
+  ]
+}

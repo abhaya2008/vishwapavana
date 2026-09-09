@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212140,
+    "chapter_id": 7790,
+    "verse_number": "३९१",
+    "content_sanskrit": "गण",
+    "padaccheda": "गण",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सङ्ख्याने",
+    "meaning_english": "to count, to enumerate",
+    "audio_url": null,
+    "display_order": 391,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212140,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210468,
+    "chapter_id": 7781,
+    "verse_number": "४६९",
+    "content_sanskrit": "चुप्",
+    "padaccheda": "चुपँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "मन्दायां गतौ",
+    "meaning_english": "to move slowly",
+    "audio_url": null,
+    "display_order": 469,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210468,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्पर्शे चुपति मन्दायां गतौ तु शपि चोपति ' (श्लो. 138) - देवः ।"
+    }
+  ]
+}

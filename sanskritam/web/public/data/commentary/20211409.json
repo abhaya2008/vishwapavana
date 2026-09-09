@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211409,
+    "chapter_id": 7784,
+    "verse_number": "१४१",
+    "content_sanskrit": "तृष्",
+    "padaccheda": "ञितृषाँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "पिपासायाम्",
+    "meaning_english": "to be thirsty, to be desirous",
+    "audio_url": null,
+    "display_order": 141,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211409,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कौमुद्याम् ' ञि तृषा ' इति आकारान्तः पाठः दृश्यते । मैत्रेयसम्मतः पाठः अयम् । परं तु क्षीरतरङ्गिणी-मा.धा. वृत्ति- धातुकाव्यव्याख्यानादिषु ' तृष ' इत्येव पाठः दृश्यते । आदित्फलम् तु निष्ठायाम् इष्णिषेधः ।"
+    }
+  ]
+}

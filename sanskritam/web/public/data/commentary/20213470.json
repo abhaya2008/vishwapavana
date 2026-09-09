@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213470,
+    "chapter_id": 7799,
+    "verse_number": "१३६",
+    "content_sanskrit": "छदिः स्त्रियामेव",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 136,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213470,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं छदिः । छद्यते अनेन इति छादेश्चुरादिण्यन्तादर्चिशुचीत्यादिना इस् । इस्मन्नित्यादिना ह्रस्वः । पटलं छदिरित्यमरः । तत्र पटलसाहचर्याच्छदिषः क्लीबतां वदन्तोऽमरव्याख्यातारः उपेक्ष्याः ।"
+    }
+  ]
+}

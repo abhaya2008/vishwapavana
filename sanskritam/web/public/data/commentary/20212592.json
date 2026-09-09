@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212592,
+    "chapter_id": 7792,
+    "verse_number": "७२",
+    "content_sanskrit": "कमिमनिजनिगाभायाहिभ्यश्च",
+    "padaccheda": "",
+    "anvaya": "तु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212592,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एभ्यस्तुः स्यात् । कन्तुः कन्दर्पचित्तयोः । मन्तुरपराधः । जन्तुः प्राणी । गातुः पुंस्कोकिले भृङ्गे गन्धर्वे गायनेऽपि च । भानुरादित्यः । यातुरध्वगकालयोः । रक्षसि क्लीबे । हेतुः कारणम् ।"
+    }
+  ]
+}

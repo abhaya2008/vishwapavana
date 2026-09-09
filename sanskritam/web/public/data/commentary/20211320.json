@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211320,
+    "chapter_id": 7784,
+    "verse_number": "५२",
+    "content_sanskrit": "शूर्",
+    "padaccheda": "शूरीँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसास्तम्भनयोः",
+    "meaning_english": "to kill,to torture, to become old",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211320,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शूरयेतेति विक्रान्तौ शूर्यते स्तम्भहिंसयोः ' (श्लो. 151) इति देवः ।"
+    }
+  ]
+}

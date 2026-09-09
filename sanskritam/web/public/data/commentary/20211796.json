@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211796,
+    "chapter_id": 7790,
+    "verse_number": "४७",
+    "content_sanskrit": "पिञ्ज्",
+    "padaccheda": "पिजिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "हिंसाबलादाननिकेतनेषु",
+    "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211796,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पिज इति केचित् । लजि लुजि इत्येके ' इति कौमुदी ।"
+    }
+  ]
+}

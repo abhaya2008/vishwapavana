@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213248,
+    "chapter_id": 7796,
+    "verse_number": "५०",
+    "content_sanskrit": "मव्यतेर्यलोपो मश्चापतुट् चालः",
+    "padaccheda": "",
+    "anvaya": "आल",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213248,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मव्यतेरालप्रत्ययः स्यात्तस्यापतुडागमो धातोर्यलोपो मकारश्चान्त्यस्य । ममापतालो विषये ।"
+    }
+  ]
+}

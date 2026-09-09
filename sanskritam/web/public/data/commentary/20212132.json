@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212132,
+    "chapter_id": 7790,
+    "verse_number": "३८३",
+    "content_sanskrit": "गर्ह्",
+    "padaccheda": "गर्हँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "विनिन्दने",
+    "meaning_english": "to blame, to criticize",
+    "audio_url": null,
+    "display_order": 383,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212132,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ण्यन्तस्य ग्रहणे गृहेर्गृहयते तत्रानदन्ताद् गृहेः भूवादेः शपि गर्हते, श्नि तु पदे गृह्णात्यगृह्णीत च । गर्हेर्वा णिचि निन्दनार्थविषये गर्हेत् तथा गर्हयेत् भूवादेः शपि कृत्सनार्थविषये गर्हेर्भवेत् गर्हते ' (श्लो. 194) - देवः ।"
+    }
+  ]
+}

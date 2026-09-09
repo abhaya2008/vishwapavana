@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212809,
+    "chapter_id": 7794,
+    "verse_number": "९",
+    "content_sanskrit": "सिवेष्ठेर्यू च",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212809,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दीर्घोच्चारणसामर्थ्यान्न गुणः । स्यून आदित्यः । बाहुलकात् केवलो नः । ऊठ् । अन्तरङ्गत्वाद्यण् । गुणः । स्योनः ।"
+    }
+  ]
+}

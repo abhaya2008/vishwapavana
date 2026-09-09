@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212157,
+    "chapter_id": 7790,
+    "verse_number": "४०८",
+    "content_sanskrit": "कृप",
+    "padaccheda": "कृप",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दौर्बल्ये",
+    "meaning_english": "to be weak",
+    "audio_url": null,
+    "display_order": 408,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212157,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' कल्पते शपि सामर्थ्ये कल्पयत्यवकल्कने । अदन्तस्य कृपेर्णौ तु दौर्बल्ये कृपयेदिति ' (श्लो. 135) इति देवः ।"
+    }
+  ]
+}

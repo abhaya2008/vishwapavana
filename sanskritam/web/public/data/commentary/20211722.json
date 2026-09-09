@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211722,
+    "chapter_id": 7789,
+    "verse_number": "४४",
+    "content_sanskrit": "बन्ध्",
+    "padaccheda": "बन्धँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "बन्धने",
+    "meaning_english": "to tie, to bind",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211722,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — चारों और से बांधना\nअनु — जोड़ना, चिपकाना, एकत्र करना, अनुसरण करना\nनि — बन्धन मुक्त करना, इकठ्ठा करना\nसम् — मिलाप करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211722,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नोपधः । ' बध्नाति बन्धने बन्धेर्बाधयेदिति संयमे ' (श्लो. 120) इति देवः ।"
+    }
+  ]
+}

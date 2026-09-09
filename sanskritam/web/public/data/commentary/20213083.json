@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213083,
+    "chapter_id": 7795,
+    "verse_number": "१२३",
+    "content_sanskrit": "वर्णेर्बलिश्चाहिरण्ये",
+    "padaccheda": "",
+    "anvaya": "इन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213083,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वर्णिः सौत्रः । अस्य बलिरादेशः । करोपहारयोः पुंसि बलिः प्राण्यङ्गजे स्त्रियाम् । हिरण्ये तु वर्णिः सुवर्णम् ।"
+    }
+  ]
+}

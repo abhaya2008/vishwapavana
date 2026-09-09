@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212130,
+    "chapter_id": 7790,
+    "verse_number": "३८१",
+    "content_sanskrit": "मान्",
+    "padaccheda": "मानँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to respect, to believe",
+    "audio_url": null,
+    "display_order": 381,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212130,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — प्रमाण करना\nअप — अव"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212130,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्तम्भे तु मानयते ' इति कौमुदी । ' पूजायां मानायेन्मानेद्यौ मीमांसेत तङ्सनोः ' (श्लो. 126) इति देवः ।"
+    }
+  ]
+}

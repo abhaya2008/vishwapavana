@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212773,
+    "chapter_id": 7793,
+    "verse_number": "९६",
+    "content_sanskrit": "सुञ्यसेर्ऋन्",
+    "padaccheda": "",
+    "anvaya": "ऋन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212773,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्वसा ।"
+    }
+  ]
+}

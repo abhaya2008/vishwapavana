@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211275,
+    "chapter_id": 7784,
+    "verse_number": "७",
+    "content_sanskrit": "क्नस्",
+    "padaccheda": "क्नसुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "ह्वरणदीप्त्योः",
+    "meaning_english": "to be crooked,to shine, to glow",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211275,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "ह्वरणम् = कौटिल्यम् ।"
+    }
+  ]
+}

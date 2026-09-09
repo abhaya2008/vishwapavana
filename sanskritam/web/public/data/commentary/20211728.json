@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211728,
+    "chapter_id": 7789,
+    "verse_number": "५०",
+    "content_sanskrit": "कुन्थ्",
+    "padaccheda": "कुन्थँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "संश्लेषणे",
+    "meaning_english": "to stay together",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211728,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सङ्क्लेशने ' इत्येके । ' कुथ ' इति दुर्गः । ' कुथ्नाति कन्थेत् सङ्क्लेशे पूतीभावे तु कुथ्यति ' (श्लो. 98) इति देवः ।"
+    }
+  ]
+}

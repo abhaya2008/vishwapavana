@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213139,
+    "chapter_id": 7795,
+    "verse_number": "१७९",
+    "content_sanskrit": "वसेस्तिः",
+    "padaccheda": "",
+    "anvaya": "ति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 179,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213139,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वस्तिर्नाभेरधो द्वयोः । वस्तयः स्युर्दशासूत्रे । बाहुलकात् शासः शास्तिः राजदण्डः । विन्ध्याख्यमगमस्यतीत्यगस्तिः । शकन्ध्वादिः ।"
+    }
+  ]
+}

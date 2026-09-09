@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211491,
+    "chapter_id": 7786,
+    "verse_number": "२२",
+    "content_sanskrit": "ऋच्",
+    "padaccheda": "ऋचँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "स्तुतौ दीप्तौ च",
+    "meaning_english": "to praise, to pray, to glow, to shine",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211491,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दीप्तौ ' इत्यपि पाठः । ' वियोजनेर्चयेदर्चेद् यौ, स्तुतावृचतीत्यृचेः ' (श्लो.55) इति देवः ।"
+    }
+  ]
+}

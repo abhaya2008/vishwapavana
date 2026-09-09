@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213261,
+    "chapter_id": 7796,
+    "verse_number": "६३",
+    "content_sanskrit": "व्याङि घ्रातेश्च जातौ",
+    "padaccheda": "",
+    "anvaya": "क",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213261,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कप्रत्ययः स्यात् । व्याघ्रः ।"
+    }
+  ]
+}

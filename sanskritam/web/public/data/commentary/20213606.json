@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213606,
+    "chapter_id": 7803,
+    "verse_number": "१५",
+    "content_sanskrit": "वाचादीनामुभावुदात्तौ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213606,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उभौग्रहणमनुदात्तं पदमेकवर्जमित्यस्य बाधाय ॥"
+    }
+  ]
+}

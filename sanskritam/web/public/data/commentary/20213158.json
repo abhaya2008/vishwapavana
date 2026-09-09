@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213158,
+    "chapter_id": 7795,
+    "verse_number": "१९८",
+    "content_sanskrit": "रिचेर्धने घिच्च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 198,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213158,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्प्रत्ययस्य नुट् । घित्त्वात्कुत्वम् । रेक्णः सुवर्णम् ।"
+    }
+  ]
+}

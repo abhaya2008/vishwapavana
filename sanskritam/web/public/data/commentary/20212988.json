@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212988,
+    "chapter_id": 7795,
+    "verse_number": "२८",
+    "content_sanskrit": "अर्जेर्ऋज च",
+    "padaccheda": "",
+    "anvaya": "ईषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212988,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऋजीषं पिष्टपचनम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211810,
+    "chapter_id": 7790,
+    "verse_number": "६१",
+    "content_sanskrit": "पिच्छ्",
+    "padaccheda": "पिछँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "कुट्टने",
+    "meaning_english": "to cut, to split, to tamp, to slice, to torture",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211810,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पिच्च ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

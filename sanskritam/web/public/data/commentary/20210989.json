@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210989,
+    "chapter_id": 7781,
+    "verse_number": "९९०",
+    "content_sanskrit": "सद्",
+    "padaccheda": "षदॢँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विशरणगत्यवसादनेषु",
+    "meaning_english": "to go, to lose power, to be tired, to dry up, to destroy, to wither, to despond, to lose interest",
+    "audio_url": null,
+    "display_order": 990,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210989,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — थकना, बलहीन होना\nसम् + आ — प्राप्त होना\nउद् — ऊपर चढ़ना\nउप — पास जाना\nप्र — सुखी होना\nवि — अशान्त चित्त होना, दुःखी होना, श्रान्त होना\nसम् — इच्छितार्थ की प्राप्ति होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210989,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ज्वलादेश्च तुदादेश्च सीदेद् विशरणादिके । पद्यतेरर्थ आसीदेद्, आसादयति चाडि. यौ ' (श्लो. 108) देवः । ' विशमृशणुदप्रवेशामर्शक्षेपेषु षद्लृ विशरणार्थः ' इति च श्लोकधातुपाठः ' इति पुरुषकारः । विशरणम् अवयवानाम् विश्लेषः । अवसादनं नाशः ।"
+    }
+  ]
+}

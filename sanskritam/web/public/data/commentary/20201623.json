@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201623,
+    "chapter_id": 7763,
+    "verse_number": "४.३.५१",
+    "content_sanskrit": "व्याहरति मृगः",
+    "padaccheda": "व्याहरति । मृगः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.२५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201623,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तत्रेत्येव, कालादिति च। कालवाचिनः सप्तमीसमर्थात् प्रातिपदिकाद् व्याहरति मृग इत्येतस्मिन् विषये यथाविहितं प्रत्ययो भवति। निशायां व्याहरति मृगो नैशः, नैशिकः। प्रादोषः, प्रादोषिकः। मृग इति किम् ? निशायां व्याहरत्युलूकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201623,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कालवाचिनः सप्तम्यन्ताच्छब्दायत इत्यर्थे अणादयः स्युः यो व्याहरति स मृगश्चेत् । निशायां व्याहरति नैशो मृगः । नैशिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201623,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<व्याहरति मृगः>> - व्याहरति मृगः । तत्र कालादित्येव । 'देयमृणे' इति निवृत्तम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201623,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<व्याहरति मृगः>> - नैशिक ति ।निशाप्रदोषाभ्यां चे॑ति वा ठञ् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201623,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`नैशिकः,नैशः। प्रादोषिकः, प्रादोषः` इति। निशाप्रदोषाभ्यां  [[4.3.14]] ठञ्। तेन मुक्ते पक्ष ऋत्वणेव भवति॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201623,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "व्याहरति उ शब्दायते ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201623,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कालात् तत्र रौतीत्यर्थे मृगे वाच्येऽणादिः । प्रदोषे रौतीति प्रादोषिकः क्रोष्टा । एवं नैशिकः ।।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201623,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "An affix comes after a word in the Locative -7th case in construction denoting time, in the sense of 'who then wanders' and the word so formed refers to a wild beast.\nThus निशायां व्याहरति मृगः \"an animal that wanders at night.\" So also प्रादोषः or प्रादोषिकः [[4.3.14]] 'a brute that yells in the morning.'\n\nWhy do we say मृगः 'a beast' ? Observe निशायां व्याहरति उलूकः ॥ Here there is no affixing. The word व्याहरति also means 'to make noise.' The <i>Sutra</i> may, therefore, also be translated as : \"After a word denoting time, an affix [[4.1.83]] comes in expressing a wild beast who makes noise at that time\"."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201623,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "An affix comes after a word in the Locative -7th case in construction denoting time, in the sense of 'who then wanders' and the word so formed refers to a wild beast."
+    }
+  ]
+}

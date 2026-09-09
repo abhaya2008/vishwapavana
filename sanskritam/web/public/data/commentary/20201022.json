@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201022,
+    "chapter_id": 7759,
+    "verse_number": "३.३.६६",
+    "content_sanskrit": "नित्यं पणः परिमाणे",
+    "padaccheda": "नित्यम् । पणः । परिमाणे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201022,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<पण व्यवहारे स्तुतौ च>> अस्माद् धातोर्नित्यमप् प्रत्ययो भवति परिमाणे गम्यमाने। नित्यग्रहणं विकल्पनिवृत्त्यर्थम्। मूलकपणः। शाकपणः। संव्यवहाराय मूलकादीनां यः परिमितो मुष्टिर्बध्यते, तस्येदमभिधानम्। परिमाण इति किम्? पाणः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201022,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अप् स्यात् । मूलकपणः । शाकपणः । व्यवहारार्थं मूलकादीनां परिमितो मुष्टिर्बध्यते सोऽस्य विषयः । परिमाणे किम् । पाणः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201022,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<नित्यं पणः परिमाणे>> - पर्याप्तो भोक्तुमिति । भोक्तुं समर्थ इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201022,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`परिमितः`इति। परिमितो मितः परिच्छिन्नः। द्वयोस्त्रयाणां चतुर्णां वा मूलकादिद्रव्याणां यो मुष्टिः = परिमाणविशेषो बध्यते संव्यवहारार्थः स `मूलकपणः` इत्यादिना शब्देनाभिधीयते॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201022,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्रयाद्यर्थं परिमितत्वेन कृते द्रव्ये वाच्ये पणेर्नित्यमप् स्यात् । पणः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201022,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes Invariably after the verb पण् 'to barter' when the sense is that of 'measure'.\nThe word नित्यं 'invariably' is used in the aphorism in order to stop the <i>anuvritti</i> of the word optionally. Thus मूलकपणः 'a handful of radishes'; शाकपणः 'a handful of vegetable'. These words secondarily have come to mean 'a measure equal to a handful', irrespective of any thing.\n\nWhen not meaning measure, we have पणः 'trade'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201022,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes Invariably after the verb पण् 'to barter' when the sense is that of 'measure'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201022,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "न चोपलेभे वणिजां पणाऽयान् (भट्टिकाव्यम् 3.27) — `नित्यं पणः परिमाणे` इत्यप्।\nनराः क्षीण-पणा इव (भट्टिकाव्यम् 7.58) — `नित्यं पणः परिमाणे` इत्यप्।"
+    }
+  ]
+}

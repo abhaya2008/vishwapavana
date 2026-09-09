@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213535,
+    "chapter_id": 7800,
+    "verse_number": "१२",
+    "content_sanskrit": "वा नामधेयस्य",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213535,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कृष्णस्येत्येव । अ॒यं वा॑ कृ॒ष्णाे अ॑श्विना । कृष्णर्षिः ॥"
+    }
+  ]
+}

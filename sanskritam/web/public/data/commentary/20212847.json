@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212847,
+    "chapter_id": 7794,
+    "verse_number": "४७",
+    "content_sanskrit": "अजियुधुनीभ्यो दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "कन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212847,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वीकः स्याद्वातपक्षिणोः । यूका । धूको वायुः । नीको वृक्षविशेषः ।"
+    }
+  ]
+}

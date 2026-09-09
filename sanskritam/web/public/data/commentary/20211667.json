@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211667,
+    "chapter_id": 7787,
+    "verse_number": "२४",
+    "content_sanskrit": "वृज्",
+    "padaccheda": "वृजीँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "वर्जने",
+    "meaning_english": "to avoid,to abandon, to leave behind",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211667,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वरणे ' इति धनपालशाकटायनौ । ' त्यागे वृत्तौ च ' इति वोपदेवः । ' त्यागे ' इति काशकृत्स्नोपि । ' वृणक्ति वर्जने वृङ्क्ते यौ वर्जयति वर्जति ' (श्लो. 59) इति देवः ।"
+    }
+  ]
+}

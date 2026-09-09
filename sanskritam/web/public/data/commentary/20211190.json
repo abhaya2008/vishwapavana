@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211190,
+    "chapter_id": 7782,
+    "verse_number": "२५",
+    "content_sanskrit": "सू",
+    "padaccheda": "षूङ्",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "प्राणिगर्भविमोचने",
+    "meaning_english": "to procreate, to give birth",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211190,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्राणिग्रहणमतन्त्रम् । अप्राणिप्रसवेपि वर्तते । प्रसूनं धान्यम् ' इति मैत्रेयः ।"
+    }
+  ]
+}

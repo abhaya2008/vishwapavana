@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210827,
+    "chapter_id": 7781,
+    "verse_number": "८२८",
+    "content_sanskrit": "शस्",
+    "padaccheda": "शसुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 828,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210827,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्त्योष्मान्तः । ' हिंसायां शसति ' ( श्लो. 184) इति देवः । ' वधे ' इति वोपदेवः ।"
+    }
+  ]
+}

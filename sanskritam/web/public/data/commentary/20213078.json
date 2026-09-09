@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213078,
+    "chapter_id": 7795,
+    "verse_number": "११८",
+    "content_sanskrit": "हृपिषिरुहिवृतिविदिछिदिकीर्तिभ्यश्च",
+    "padaccheda": "",
+    "anvaya": "इन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 118,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213078,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हरिर्विष्णावहाविन्द्रे भेके सिंहे हये रवौ । चन्द्रे कीले प्लवङ्गे च यमे वाते च कीर्तितः । पेषिर्वज्रम् । रोहिर्व्रती । वर्तिः । वेदिः । छदिश्छेत्ता । कीर्तिः ।"
+    }
+  ]
+}

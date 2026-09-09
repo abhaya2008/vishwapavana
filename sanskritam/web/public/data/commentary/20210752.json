@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210752,
+    "chapter_id": 7781,
+    "verse_number": "७५३",
+    "content_sanskrit": "वक्ष्",
+    "padaccheda": "वक्षँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "रोषे सङ्घाते च",
+    "meaning_english": "to be angry,to collect, to gather",
+    "audio_url": null,
+    "display_order": 753,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210752,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सङ्घाते ' इति क्षीरस्वामी । ' रोषसंहत्योः ' इति वोपदेवः । ' पालने ' इति पठित्वा ' वक्षते ' इति आत्मनेपदिनः इति काशकृत्स्नः । इतः पूर्वं भ्वादौ ' रोषे ' ( परस्मैपदिनः ) इति च तत्र पठ्यते ।"
+    }
+  ]
+}

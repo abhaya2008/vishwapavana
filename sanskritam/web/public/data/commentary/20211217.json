@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211217,
+    "chapter_id": 7782,
+    "verse_number": "५२",
+    "content_sanskrit": "रा",
+    "padaccheda": "रा",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "दाने",
+    "meaning_english": "to give, to grant",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211217,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आदाने ' इति केचित् । ' रैशब्दे रायतीतीष्टं, रादाने राति शब्लुकि ' (श्लो. 11) इति देवः ।"
+    }
+  ]
+}

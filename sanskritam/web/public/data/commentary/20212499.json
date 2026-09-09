@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212499,
+    "chapter_id": 7791,
+    "verse_number": "२४१",
+    "content_sanskrit": "पीलु । दारु । रुचि । चारु । गम् । कम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 241,
+    "avatarnika": "पील्वादिः (6.3.121)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212499,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "अपील्वादीनामिति वक्तव्यम्"
+    }
+  ]
+}

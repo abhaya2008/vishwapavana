@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200928,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१६०",
+    "content_sanskrit": "सृघस्यदः क्मरच्",
+    "padaccheda": "सृ-घसि-अदः । क्मरच्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 160,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200928,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सृ घसि अद् इत्येतेभ्यो धातुभ्यः तच्छीलादिषु कर्तृषु क्मरच् प्रत्ययो भवति। सृमरः। घस्मरः। अद्मरः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200928,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सृमरः । घस्मरः । अद्मरः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200928,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<सृघस्यदः क्मरच्>> - सृघस्यदः । सृ, घसि, अद् एषां द्वन्द्वात्पञ्चमी । घसिः प्रकृत्यन्तरम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200928,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "सृघस्यदः क्मरच्॥ घसिः प्रकृत्यन्तरमस्ति॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200928,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कित्त्वादगुणः । सृमरः । घस्मरः । अद्मरः । भञ्जेः कर्मकर्तर्येव । घित्त्वाज्जस्य कुः । स्वयं भञ्जनशीलो भङ्गुरः । भासुरः । मेदुरः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200928,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्मरच् comes in the sense of 'agent having such a habit etc.' comes after the verbs 1. सृ 'to flow' 2. घसि 'to eat' 3. अद् 'to eat'.\nAs सृमरः 'going, a kind of deer'; घस्मरः 'gluttonous'; अद्मरः 'voracious'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200928,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्मरच् comes in the sense of 'agent having such a habit etc.' comes after the verbs 1. सृ 'to flow' 2. घसि 'to eat' 3. अद् 'to eat'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200928,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "सुराऽध्वरे घस्मर-जित्वरेण (भट्टिकाव्यम् 2.38) — `सृघ- स्यदः क्मरच्` इति क्मरच्-प्रत्ययः।"
+    }
+  ]
+}

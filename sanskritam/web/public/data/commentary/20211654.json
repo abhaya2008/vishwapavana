@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211654,
+    "chapter_id": 7787,
+    "verse_number": "११",
+    "content_sanskrit": "इन्ध्",
+    "padaccheda": "ञिइन्धीँ",
+    "anvaya": "A-पदी, गणः 7",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to shine, to glow",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211654,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दीपनायामपि प्रयुज्यते ।"
+    }
+  ]
+}

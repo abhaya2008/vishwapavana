@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213012,
+    "chapter_id": 7795,
+    "verse_number": "५२",
+    "content_sanskrit": "घृणिपृश्निपार्ष्णिचूर्णिभूर्णि",
+    "padaccheda": "",
+    "anvaya": "नि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213012,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते पञ्च निपात्यन्ते । घृणिः किरणः । स्पृशतेः सलोपः पृश्निरल्पशरीरः । पृषेर्वृद्धिश्च । पार्ष्णिः पादतलम् । चरेरुपधाया उत्वम् । चूर्णिः कपर्दकशतम् । बिभर्तेरुत्वम् । भूर्णिर्धरणी ।"
+    }
+  ]
+}

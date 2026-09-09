@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210856,
+    "chapter_id": 7781,
+    "verse_number": "८५७",
+    "content_sanskrit": "स्रंस्",
+    "padaccheda": "स्रन्सुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अवस्रंसने",
+    "meaning_english": "to fall down,to drop,to slip off,to hang down, to slide, to deteriorate",
+    "audio_url": null,
+    "display_order": 857,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210856,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अंस्रसिष्ट संस्रते चाद्युतादेः ते च द्वे स्ताम् अस्रसच्च द्युतादेः ' ( श्लो. 185 ) इति देवः । ' अधःपतने ' इति मैत्रेयः ।"
+    }
+  ]
+}

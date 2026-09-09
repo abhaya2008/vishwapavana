@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211013,
+    "chapter_id": 7781,
+    "verse_number": "१०१४",
+    "content_sanskrit": "शृध्",
+    "padaccheda": "शृधुँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "उन्दने",
+    "meaning_english": "to kill, to hurt, to wet, to moist",
+    "audio_url": null,
+    "display_order": 1014,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211013,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उन्दनं क्लेदनम् ।"
+    }
+  ]
+}

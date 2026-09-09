@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214030,
+    "chapter_id": 7805,
+    "verse_number": "२३७",
+    "content_sanskrit": "घटादिदर्शनाल्लोकः परिच्छिन्नोऽवसीयते । समारम्भाच्च भावानां आदिमद्ब्रह्म शाश्वतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 237,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214030,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "तथा परिमितपरिमाणं घटादिकं दृष्ट्‌वा लोच्यत इति लोकोऽयं विश्वप्रपञ्चरूपः परिच्छिन्नतयाऽवस्थितोऽध्यवसीयत इत्याह-- ॥"
+    }
+  ]
+}

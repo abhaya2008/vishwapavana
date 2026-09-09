@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210593,
+    "chapter_id": 7781,
+    "verse_number": "५९४",
+    "content_sanskrit": "फल्",
+    "padaccheda": "ञिफलाँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विशरणे",
+    "meaning_english": "to blossom, to bear fruits",
+    "audio_url": null,
+    "display_order": 594,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210593,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "विशरणम् अवयवानां विभागः ।"
+    }
+  ]
+}

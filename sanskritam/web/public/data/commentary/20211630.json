@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211630,
+    "chapter_id": 7786,
+    "verse_number": "१६१",
+    "content_sanskrit": "मृश्",
+    "padaccheda": "मृशँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "आमर्शने",
+    "meaning_english": "to touch",
+    "audio_url": null,
+    "display_order": 161,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211630,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "परा — सलाह देना\nवि — विचार करना, मनन करना\nसम् — स्पर्श करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211630,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आमर्शनम् = स्पर्शः ।"
+    }
+  ]
+}

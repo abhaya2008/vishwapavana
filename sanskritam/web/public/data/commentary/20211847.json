@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211847,
+    "chapter_id": 7790,
+    "verse_number": "९८",
+    "content_sanskrit": "पाल्",
+    "padaccheda": "पालँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "रक्षणे",
+    "meaning_english": "to protect,to govern",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211847,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पल ' इति मैत्रेयक्षीरस्वाम्यादायः पठन्ति ।"
+    }
+  ]
+}

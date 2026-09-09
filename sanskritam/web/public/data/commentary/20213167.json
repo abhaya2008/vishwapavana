@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213167,
+    "chapter_id": 7795,
+    "verse_number": "२०७",
+    "content_sanskrit": "आपः कर्माख्यायाम्",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 207,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213167,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कर्माख्यायां ह्रस्वो नुट् च वा । अप्नः । अपः । बाहुलकात् । आपः । आपसी ।"
+    }
+  ]
+}

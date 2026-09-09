@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212838,
+    "chapter_id": 7794,
+    "verse_number": "३८",
+    "content_sanskrit": "अजिवृरीभ्यो निच्च",
+    "padaccheda": "",
+    "anvaya": "णु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212838,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अजेर्वी । वेणुः । वर्णुर्नददेशभेदयोः । रेणुर्द्वयोः स्त्रियां धूलिः ।"
+    }
+  ]
+}

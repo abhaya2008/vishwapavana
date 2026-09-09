@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210248,
+    "chapter_id": 7781,
+    "verse_number": "२४९",
+    "content_sanskrit": "धृज्",
+    "padaccheda": "धृजँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 249,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210248,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धर्जेद्धृञ्जेद्ध्रजेद्ध्रञ्जेद् ध्वजेद्ध्वञ्जेद्गतौ शपि ' (श्लो.60) इति देवः ।"
+    }
+  ]
+}

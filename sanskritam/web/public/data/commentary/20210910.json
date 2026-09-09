@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210910,
+    "chapter_id": 7781,
+    "verse_number": "९११",
+    "content_sanskrit": "क्नथ्",
+    "padaccheda": "क्नथँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 911,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210910,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्नथ ' इत्ययं पाठः बालमनोरमानुसारेण । तत्र लिख्यते - \" (श्रथ क्नथ क्रथ क्लथ इत्यत्र) द्वितीयो नकारमध्यः ' इति । तत्त्वबोधिन्यां तु ' क्लथ ' इति पाठः । मैत्रेयसम्मतः पाठः अयम् ।"
+    }
+  ]
+}

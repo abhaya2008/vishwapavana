@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212058,
+    "chapter_id": 7790,
+    "verse_number": "३०९",
+    "content_sanskrit": "नद्",
+    "padaccheda": "णदँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 309,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212058,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नदत्यव्यक्तशब्दार्थे भाषार्थे नादयेदिति ' (श्लो. 110) - देवः ।"
+    }
+  ]
+}

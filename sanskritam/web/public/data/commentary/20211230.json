@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211230,
+    "chapter_id": 7782,
+    "verse_number": "६५",
+    "content_sanskrit": "अन्",
+    "padaccheda": "अनँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "प्राणने",
+    "meaning_english": "to breathe,to live, to inhale, to be able",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211230,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रपूर्वकोयं प्रायेण ।"
+    }
+  ]
+}

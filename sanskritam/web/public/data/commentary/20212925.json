@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212925,
+    "chapter_id": 7794,
+    "verse_number": "१२५",
+    "content_sanskrit": "रासिवल्लिभ्यां च",
+    "padaccheda": "",
+    "anvaya": "अभच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212925,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रासभः । वल्लभः ।"
+    }
+  ]
+}

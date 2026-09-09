@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210842,
+    "chapter_id": 7781,
+    "verse_number": "८४३",
+    "content_sanskrit": "श्वित्",
+    "padaccheda": "श्विताँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वर्णे",
+    "meaning_english": "to become white, to become clear",
+    "audio_url": null,
+    "display_order": 843,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210842,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "श्वेतवर्णकरणे श्वेतीभवने वा इत्यर्थः । ' शौक्ल्ये ' इत्येव वोपदेवः।"
+    }
+  ]
+}

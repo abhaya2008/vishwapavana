@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213519,
+    "chapter_id": 7799,
+    "verse_number": "१८५",
+    "content_sanskrit": "ष्णान्ता सङ्ख्या",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 185,
+    "avatarnika": "अविशिष्टलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213519,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शिष्टा परवत् । एकः पुरुषः । एका स्त्री । एकं कुलम् । "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212525,
+    "chapter_id": 7792,
+    "verse_number": "५",
+    "content_sanskrit": "त्रो रश्च लः",
+    "padaccheda": "",
+    "anvaya": "ञुण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212525,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तरन्त्यनेन वर्णा इति तालुः ।"
+    }
+  ]
+}

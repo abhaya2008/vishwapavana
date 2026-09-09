@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210561,
+    "chapter_id": 7781,
+    "verse_number": "५६२",
+    "content_sanskrit": "ताय्",
+    "padaccheda": "तायृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सन्तानपालनयोः",
+    "meaning_english": "to spread,to protect",
+    "audio_url": null,
+    "display_order": 562,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210561,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सन्तानः = प्रबन्धः । आद्ये अकर्मकः । द्वितीये सकर्मकः ।"
+    }
+  ]
+}

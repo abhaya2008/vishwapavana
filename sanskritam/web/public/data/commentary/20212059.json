@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212059,
+    "chapter_id": 7790,
+    "verse_number": "३१०",
+    "content_sanskrit": "कुप्",
+    "padaccheda": "कुपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to be angry",
+    "audio_url": null,
+    "display_order": 310,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212059,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दिवादेः कुप्यति क्रोधे भाषार्थे कोपयेत्कुपेः ' (श्लो. 136) - देवः ।"
+    }
+  ]
+}

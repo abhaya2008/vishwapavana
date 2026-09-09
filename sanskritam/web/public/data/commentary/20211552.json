@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211552,
+    "chapter_id": 7786,
+    "verse_number": "८३",
+    "content_sanskrit": "चल्",
+    "padaccheda": "चलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विलसने विकसने च",
+    "meaning_english": "to foster,to cherish,to play",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211552,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विकासने ' इति मैत्रेयः । ' भृत्यां चालयेत् , कम्पने चलेत् ' (श्लो. 158) इति देवः ।"
+    }
+  ]
+}

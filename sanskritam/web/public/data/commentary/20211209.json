@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211209,
+    "chapter_id": 7782,
+    "verse_number": "४४",
+    "content_sanskrit": "या",
+    "padaccheda": "या",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "प्रापणे",
+    "meaning_english": "to go, to pass",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211209,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — अनुसरण करना, पीछे पीछे जाना\nअभि — पहूंचना, पास जाना\nआ — आना\nउप — छोड़ना, त्यागना\nनिर् — बाहर जाना, निकल जाना\nप्र — जाना\nप्रति + उद् — सामने जाना\nसम् + अभि — समीप जाना\nसम् + आ — आना या पहुंचना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211209,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रापणम् = गतिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212765,
+    "chapter_id": 7793,
+    "verse_number": "८८",
+    "content_sanskrit": "अर्तेर्गुणः शुट् च",
+    "padaccheda": "",
+    "anvaya": "असानच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212765,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अर्शसानोऽग्निः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212783,
+    "chapter_id": 7793,
+    "verse_number": "१०६",
+    "content_sanskrit": "वृतेश्च",
+    "padaccheda": "",
+    "anvaya": "अनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212783,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वर्तनिः । गोवर्धनस्तु चकारान्मुट् वर्त्मनिरित्याह ।"
+    }
+  ]
+}

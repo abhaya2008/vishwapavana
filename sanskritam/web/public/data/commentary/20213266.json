@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213266,
+    "chapter_id": 7796,
+    "verse_number": "६८",
+    "content_sanskrit": "प्रथेरमच्",
+    "padaccheda": "",
+    "anvaya": "अमच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213266,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्रथमः ।"
+    }
+  ]
+}

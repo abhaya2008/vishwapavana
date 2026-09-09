@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212600,
+    "chapter_id": 7792,
+    "verse_number": "८०",
+    "content_sanskrit": "आतृकन् वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "आतृकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212600,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जीवेरित्येव । जैवातृकस्त्विन्दुभिषगायुष्मत्सु कृषीवले ।"
+    }
+  ]
+}

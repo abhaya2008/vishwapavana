@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211454,
+    "chapter_id": 7785,
+    "verse_number": "२३",
+    "content_sanskrit": "तिग्",
+    "padaccheda": "तिगँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "आस्कन्दने गतौ च",
+    "meaning_english": "to attack, to hate, to kill, to destroy, to go",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211454,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चकारात् ' आस्कान्दने ' इति सम्बध्यते ।"
+    }
+  ]
+}

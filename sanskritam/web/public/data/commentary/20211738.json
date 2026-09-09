@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211738,
+    "chapter_id": 7789,
+    "verse_number": "६०",
+    "content_sanskrit": "ध्रस्",
+    "padaccheda": "उँध्रसँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "उञ्छे",
+    "meaning_english": "to gather, to pick, to glean",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211738,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ध्रस्नाति ध्रासयत्युञ्छे पदे तु श्नि णिचि ध्रसेः ' (श्लो. 190) इति देवः । उकारः इत् । उकारः धात्ववयवः इत्येके । तदा लिटि उध्रसाञ्चकार इत्यादयः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216284,
+    "chapter_id": 7825,
+    "verse_number": "९४",
+    "content_sanskrit": "संज्ञापूर्वकविधेरनित्यत्वम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": "यत्तु 'ओरोदि'ति वाच्ये <<ओर्गुणः>> [[6.4.116]] इति गुणग्रहणात् —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216284,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं च विधेयकोटौ संज्ञापूर्वत्व एव । तेन स्वायम्भुवमित्यादि सिद्धम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211929,
+    "chapter_id": 7790,
+    "verse_number": "१८०",
+    "content_sanskrit": "गूद्",
+    "padaccheda": "गुर्दँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पूर्वनिकेतने",
+    "meaning_english": "to dwell, to reside, to stay, to invite",
+    "audio_url": null,
+    "display_order": 180,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211929,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " केचिदिह गर्ज गर्द शब्दे, गर्ध अभिकाङ्क्षायाम् इति पठन्ति ' इति सिद्धान्तकौमुदी । ' पूर्वनिकेतनम् - पूर्वव्यवहारः इत्येके ' इति धातुकाव्यव्याख्या । पूर्वनिकेतनम् - आद्यनिवासः ' इति क्षीरस्वामी । ' पूर्व ' इति धात्वन्तरम् इति केचित् ।"
+    }
+  ]
+}

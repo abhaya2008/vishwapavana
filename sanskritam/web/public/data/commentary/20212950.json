@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212950,
+    "chapter_id": 7794,
+    "verse_number": "१५०",
+    "content_sanskrit": "वीपतिभ्यां तनन्",
+    "padaccheda": "",
+    "anvaya": "तनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212950,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वी गत्यादौ । वेतनम् । पत्तनम् ।"
+    }
+  ]
+}

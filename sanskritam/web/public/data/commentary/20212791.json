@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212791,
+    "chapter_id": 7793,
+    "verse_number": "११४",
+    "content_sanskrit": "पिबतेस्थुक्",
+    "padaccheda": "",
+    "anvaya": "इसिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212791,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पाथिश्चक्षुःसमुद्रयोः ।"
+    }
+  ]
+}

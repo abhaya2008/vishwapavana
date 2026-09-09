@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212767,
+    "chapter_id": 7793,
+    "verse_number": "९०",
+    "content_sanskrit": "युधिबुधिदृशिभ्यः किच्च",
+    "padaccheda": "",
+    "anvaya": "आनच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212767,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "युधानः । बुधानः । दृशानो लोकपालकः ।"
+    }
+  ]
+}

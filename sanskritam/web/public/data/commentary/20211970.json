@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211970,
+    "chapter_id": 7790,
+    "verse_number": "२२१",
+    "content_sanskrit": "त्रुट्",
+    "padaccheda": "त्रुटँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "छेदने",
+    "meaning_english": "to cut,to break",
+    "audio_url": null,
+    "display_order": 221,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211970,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कुट ' इत्येके ।"
+    }
+  ]
+}

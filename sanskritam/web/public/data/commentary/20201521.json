@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20201521,
+    "chapter_id": 7762,
+    "verse_number": "४.२.९४",
+    "content_sanskrit": "ग्रामाद्यखञौ",
+    "padaccheda": "ग्रामात् । य-खञौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201521,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ग्रामशब्दाद् य खञ् इत्येतौ प्रत्ययौ भवतः। ग्राम्यः। ग्रामीणः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201521,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ग्राम्यः । ग्रामीणः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201521,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "ग्राम्यः। ग्रामीणः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201521,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ग्रामाद्यखञौ>> - ग्रामाद्यखञौ । ग्राम्य इति । यप्रत्ययेयस्येति चे॑ति लोपः । ग्रामीण इति । खञ ईनादेशः, णत्वम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201521,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "वृद्धलक्षणे छे प्राप्ते वचनम्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201521,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ग्रामशब्दः कत्र्यादिषु पठ।ल्ते, तेन ढकञपि भवति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201521,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ग्राम्यः । ग्रामीणः । कत्रचादित्वाद् ग्रामेयकोऽपि ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201521,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes व and खञ् (ईन) come after the word ग्राम।\nAs ग्राम्य and ग्रामीणः, 'a rustic'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201521,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes व and खञ् (ईन) come after the word ग्राम।"
+    },
+    {
+      "id": 10,
+      "verse_id": 20201521,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "ग्रामीणवध्वस्तमलक्षिता जनैश् (शिशुपालवधम् 12.37) — `ग्रामाद्यखञौ` इति खञ्प्रत्ययः।"
+    }
+  ]
+}

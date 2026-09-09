@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212298,
+    "chapter_id": 7791,
+    "verse_number": "४०",
+    "content_sanskrit": "पार्श्व । उदर । पृष्ठ । उत्तान । अवमूर्धन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": "पार्श्वादिः (3.2.15)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212298,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "पार्श्वादिषूपसङ्ख्यानम्"
+    }
+  ]
+}

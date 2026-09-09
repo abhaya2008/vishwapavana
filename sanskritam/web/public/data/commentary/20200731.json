@@ -1,0 +1,94 @@
+{
+  "verse": {
+    "id": 20200731,
+    "chapter_id": 7757,
+    "verse_number": "३.१.११३",
+    "content_sanskrit": "मृजेर्विभाषा",
+    "padaccheda": "मृजेः । विभाषा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कृत्याः (३.१.९५), क्यप् (३.१.१०६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200731,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "मृजेर्धातोर्विभाषा क्यप् प्रत्ययो भवति। ऋदुपधत्वात् प्राप्तविभाषेयम्। परिमृज्यः, परिमार्ग्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200731,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "मृजेः क्यब्वा स्यात्पक्षे ण्यत् । मृज्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200731,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "मृजेः क्यब्वा। मृज्यः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200731,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<मृजेर्विभाषा>> - मृजेर्विभाषा । क्यप्पक्षे उदाहरति —  मृज्य इति । कित्त्वान्न गुणः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200731,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<मृजेर्विभाषा>> - मृजेर्विभाषा । ऋदुपधत्वान्नित्यं क्यपि प्राप्तेऽयमारम्भः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200731,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "ऋदुपधत्वात् प्राप्तविभाषेयम्। `ऋदुधाच्चाकॢपिचृतेः`  [[3.1.110]]  इति क्यपो विधानात्। `परिमार्ग्यः` इति। पूर्ववत् कुत्वम्, `गृजेर्वृद्धिः`  [[7.2.114]] ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200731,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मृजेर्विभाषा॥ परिमार्ग्य इति।'मृजेर्वृद्धिः'  पूर्ववत्कुत्वभ्॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200731,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "मृजेः क्यब्वा स्यात् । मृज्यम् । ण्यति तु"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200731,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्यप् is optionally used after the verb सृज् 'to cleanse'.\nThis is an example of <i>Prapta-vibhasha</i>. By rule 110 ante, the root मृज् having a penultimate ऋ would have necessarily taken <i>kyap</i>; this <i>sutra</i> declares an option. As परिमृज्यः or परिमार्ग्यः 'to be cleansed'. The second form is thus evolved:-\n\nपरिमृज्य + ण्यत् [[3.1.124]] = परिमृग् + य [[7.3.52]] = परिमार्ग्य [[7.2.114]]"
+    },
+    {
+      "id": 10,
+      "verse_id": 20200731,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्यप् is optionally used after the verb सृज् 'to cleanse'."
+    },
+    {
+      "id": 11,
+      "verse_id": 20200731,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "मृज्यः शोकश्च तेन ते (भट्टिकाव्यम् 6.56) — `सृजेर्विभाषा` इति यद्विकल्पे ण्यत्।"
+    }
+  ]
+}

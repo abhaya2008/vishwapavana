@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210506,
+    "chapter_id": 7781,
+    "verse_number": "५०७",
+    "content_sanskrit": "पण्",
+    "padaccheda": "पणँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "व्यवहारे स्तुतौ च",
+    "meaning_english": "to deal, to transact, to do business, to barter, to praise",
+    "audio_url": null,
+    "display_order": 507,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210506,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "व्यावहारेर्थे आत्मनेपदम् । क्रेतव्यस्य द्रव्यस्य मूल्यनिर्धारणाय प्रश्नप्रतिवचनात्मकः व्यवहारः । स्तुतौ परस्मैपदम् ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211472,
+    "chapter_id": 7786,
+    "verse_number": "३",
+    "content_sanskrit": "दिश्",
+    "padaccheda": "दिशँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "अतिसर्जने",
+    "meaning_english": "to give, to donate, to grant, to leave",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211472,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — आज्ञा देना\nउद् — दिखाना, प्रकट करना\nउप — उपदेश करना\nप्र — नियत करना\nप्रति + सम् — पीछे लौटाना\nवि + अप — बहाना करना\nवि + निर् — साफ़ साफ़ कहना\nसम् + आ — मान्य करना\nसम् + उप — दूर की वास्तु अंगुली से दिखाना, उपदेश करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211472,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अतिसर्जनं त्यागः , दानं च ।"
+    }
+  ]
+}

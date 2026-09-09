@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211398,
+    "chapter_id": 7784,
+    "verse_number": "१३०",
+    "content_sanskrit": "मुस्",
+    "padaccheda": "मुसँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "खण्डने",
+    "meaning_english": "to piece, to cut, to petition",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211398,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आत्रेयस्तु कातन्त्रे मूर्धन्यान्तोयम् । तथा च ' राघवस्यामुषः कान्ताम् ' (भ.का. 15- 16) इति प्रयोगश्च, इति पाठान्तरमप्याह ' इति मा.धा.वृत्तौ ।"
+    }
+  ]
+}

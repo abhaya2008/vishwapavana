@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211202,
+    "chapter_id": 7782,
+    "verse_number": "३७",
+    "content_sanskrit": "कु",
+    "padaccheda": "कु",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to hum,to moan,to sound",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211202,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अव्यक्तशब्दे कवते कुवते त्वार्तशब्दने । कौतीति शब्दमात्रे स्यात् ' (श्लो. 23) इति देवः ।"
+    }
+  ]
+}

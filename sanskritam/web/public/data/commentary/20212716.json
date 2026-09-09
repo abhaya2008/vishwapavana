@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212716,
+    "chapter_id": 7793,
+    "verse_number": "३९",
+    "content_sanskrit": "कृषेर्वृद्धिश्चोदीचाम्",
+    "padaccheda": "",
+    "anvaya": "क्वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212716,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कार्षकः । कृषकः ।"
+    }
+  ]
+}

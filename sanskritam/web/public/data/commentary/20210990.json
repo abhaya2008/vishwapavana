@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210990,
+    "chapter_id": 7781,
+    "verse_number": "९९१",
+    "content_sanskrit": "शद्",
+    "padaccheda": "शदॢँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शातने",
+    "meaning_english": "to perish,to fall,to wither,to decay, to wear off, to fall, to wane,to throw down",
+    "audio_url": null,
+    "display_order": 991,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210990,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अवशातने ' इति जैनः । शातनम् = तनूकरणमिति क्षीरस्वामी । ' शातनम् - तीक्ष्णीभावः । विशीर्णतायामित्येके ।  ' गतावप्यस्ति ' इति धा.का.व्या व्याख्यायाम् (2.24) । ' विशाने विशीर्णतायां वर्तते, शातनं , विषयभावेन निर्दिश्यते प्रसिद्धत्वात् ' इति मैत्रेयः ' इति मा.धा.वृत्तिः । अयं तुदादौ अपि अस्ति ।"
+    }
+  ]
+}

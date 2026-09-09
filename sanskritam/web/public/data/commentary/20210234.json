@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210234,
+    "chapter_id": 7781,
+    "verse_number": "२३५",
+    "content_sanskrit": "लाञ्छ्",
+    "padaccheda": "लाछिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "लक्षणे",
+    "meaning_english": "to mark",
+    "audio_url": null,
+    "display_order": 235,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210234,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दीर्घात् ' इति तुक् अत्र ।"
+    }
+  ]
+}

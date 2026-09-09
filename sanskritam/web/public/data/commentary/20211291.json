@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211291,
+    "chapter_id": 7784,
+    "verse_number": "२३",
+    "content_sanskrit": "सह्",
+    "padaccheda": "षहँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "चक्यर्थे",
+    "meaning_english": "to be satisfied, to be patient, to tolerate, to resist",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211291,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चक्यर्थः = तृप्तिः ।"
+    }
+  ]
+}

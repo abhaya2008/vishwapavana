@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212861,
+    "chapter_id": 7794,
+    "verse_number": "६१",
+    "content_sanskrit": "अजियमिशीङ्भ्यश्च",
+    "padaccheda": "",
+    "anvaya": "उनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212861,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वयुनं देवमन्दिरम् । यमुना । शयुनोऽजगरः ।"
+    }
+  ]
+}

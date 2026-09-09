@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211027,
+    "chapter_id": 7781,
+    "verse_number": "१०२८",
+    "content_sanskrit": "भ्लेष्",
+    "padaccheda": "भ्लेषृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 1028,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211027,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं केवलं सिद्धान्तकौमुद्यामेव उपात्तः । अन्येषु सर्वेषु ग्रन्थेषु ' भ्रेषृ ' इत्यत्र ' भ्लेषृ इति अन्ये ' इत्युक्तम् ।"
+    }
+  ]
+}

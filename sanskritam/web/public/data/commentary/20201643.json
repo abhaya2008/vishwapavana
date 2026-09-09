@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201643,
+    "chapter_id": 7763,
+    "verse_number": "४.३.७१",
+    "content_sanskrit": "छन्दसो यदणौ",
+    "padaccheda": "छन्दसः । यद्-अणौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.५३), भवः (४.३.५३), तस्य (४.३.६६), व्याख्याने (४.३.६६), व्याख्यातव्य-नाम्नः (४.३.६६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201643,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दःशब्दाद् भवव्याख्यानयोरर्थयोर्यदणौ प्रत्ययौ भवतः। द्व्यच इति ठकि प्राप्ते वचनम्। छ॑न्द॒स्यः॑ (तै०सं० १.६.११.४)। छान्दसः (कौ०गृ० १४१.३४)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201643,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "छन्दस्यः । छान्दसः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201643,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<छन्दसो यदणौ>> - छान्दसो यदणौ ।तस्य व्याख्याने, तत्राभवे चे॑ति शेषः । छन्दस्य छान्दस इति । छन्दसां व्याख्यानः, तत्र भवो वेत्यर्थः । द्व्यज्लक्षणस्य वक्ष्यमाणस्य ठकोऽपवादः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201643,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<छन्दसो यदणौ>> - छन्दसो । छन्दः — शब्दाद्भवव्याख्यानयोरर्थयोर्यदणौ स्तः । व्द्यज्लक्षणस्य ठकोऽपवादः । छन्दस्य इत्यादि । इहार्थयोर्यदण्भ्यां यथासङ्ख्यं न भवत्यस्वरितत्वादिति बोध्यम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201643,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अत्र भवव्याख्यानौ द्वावर्थौ, यदणौ प्रत्ययावपि द्वावेव, तथापि यथासंख्यं न भवति;'तस्य व्याख्याने'  इति यदणौ भवतः,'तत्र भवः'  इति चेत्येवं समुच्चयात् । द्व्यचेति ठकि प्राप्त इति । उतरसूत्रे द्व्यज्ग्रहणेन ठकि प्राप्त इत्यर्थः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201643,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes यत् and अण् comes in the sense of 'occurring therein' or 'commentary thereon' after the word छन्दस्।\nThis debars ठक् of the following <i>sutra</i>. As छन्दस्यः or छान्दसः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201643,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes यत् and अण् comes in the sense of 'occurring therein' or 'commentary thereon' after the word छन्दस्।"
+    }
+  ]
+}

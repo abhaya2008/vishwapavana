@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212221,
+    "chapter_id": 7790,
+    "verse_number": "४७२",
+    "content_sanskrit": "दण्ड",
+    "padaccheda": "दन्ड",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दण्डनिपाते",
+    "meaning_english": "to punish, to fine",
+    "audio_url": null,
+    "display_order": 472,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212221,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।"
+    }
+  ]
+}

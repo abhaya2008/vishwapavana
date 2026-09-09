@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210034,
+    "chapter_id": 7781,
+    "verse_number": "३५",
+    "content_sanskrit": "श्रन्थ्",
+    "padaccheda": "श्रथिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शैथिल्ये",
+    "meaning_english": "to be tired, to be fatigued",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210034,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "(शैथिल्यं विष्लिष्टता अगाढता वा इति माधवः ।) 'दौर्बल्ये श्रथयेत् प्रयत्नविषये स्याच्छ्राथयेत् मोक्षणे । यौ तु श्राथयति श्रथत्यपि च वा णौ श्रन्थयेत् श्रन्थति । सन्दर्भे श्नि विमोचनार्थविषये श्रश्नात्यथ श्रन्थते, शैथिल्ये.. ' (श्लो. 101) इति देवः ।"
+    }
+  ]
+}

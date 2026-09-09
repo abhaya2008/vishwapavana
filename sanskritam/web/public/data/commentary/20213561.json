@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213561,
+    "chapter_id": 7801,
+    "verse_number": "१५",
+    "content_sanskrit": "ग्रामादीनां च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213561,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ग्रामः । सोमः । यामः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211434,
+    "chapter_id": 7785,
+    "verse_number": "३",
+    "content_sanskrit": "शि",
+    "padaccheda": "शिञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "निशाने",
+    "meaning_english": "to sharpen, to whet",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211434,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तालव्यादिः । निशानम् = तीक्ष्णीकरणम् ।"
+    }
+  ]
+}

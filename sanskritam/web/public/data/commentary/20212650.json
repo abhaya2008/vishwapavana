@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212650,
+    "chapter_id": 7792,
+    "verse_number": "१३०",
+    "content_sanskrit": "एतेस्तुट् च",
+    "padaccheda": "",
+    "anvaya": "अदि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212650,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतद् ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201547,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१२०",
+    "content_sanskrit": "वृद्धात् प्राचाम्",
+    "padaccheda": "वृद्धात् । प्राचाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201547,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ओर्दश इत्येव। उवर्णान्ताद् वृद्धात् प्राग्देशवाचिनः प्रातिपदिकाट् ठञ् प्रत्ययो भवति शैषिकः। आढकजम्बुकः। शाकजम्बुकः। नापितवास्तुकः। पूर्वेणैव ठञि सिद्धे नियमार्थं वचनम् — वृद्धादेव प्राचाम्, अवृद्धाद् न भवतीति। मल्लवास्तु — माल्लवास्तवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201547,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्राद्गेशवाचिनो वृद्धादेवेति नियमार्थं सूत्रम् । आढकजम्बुकः । शाकजम्बुकः । नेह मल्लवास्तु, माल्लवास्तवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201547,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वृद्धात् प्राचाम्>> - वृद्धात्प्राचाम् ।ओर्देशे ठ॑ञित्यनुवर्तते । प्राचामिति देशविशेषणं, नतु विकल्पार्थं, व्याख्यानात् । पूर्वेण सिद्धे नियमार्थमिदम् । तदाह — प्राग्देशेत्यादिना । आढकजम्बुक इति । आढकजम्बूर्नाम कश्चिद्ग्रामः । तत्र भव इत्यर्थः । उगन्तात्परत्वाट्ठस्य कः । 'केऽणः' इति ह्रस्वः । एवे शाकजम्बुकः । मल्लवास्त्विति ।कश्चित् प्राच्यो ग्राम॑ इति शेषः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201547,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`आढकजम्बुकः` इति। पूर्ववत् कादेशो ह्रस्वत्वञ्च॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201547,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वृद्धादेव प्राचामिति । विपरीतस्तु नियमो न भवति - प्राचामेव वृद्धादिति, अप्राग्देशवाचिनो वृद्धस्योवर्णान्तस्याभावाद् यत्र पूर्वसूत्रस्यातिप्रसङ्गः स्यात् । आढकजम्बुक इति । पूर्ववत्कादेशह्रस्वत्वे ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201547,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्राग्देशे तूवर्णान्ताद् वृद्धादेव ठञ् । नापितवास्तुकः । अवृद्धात् त्वणैव । मल्लवास्तोर्मालवास्तवः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201547,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes ठञ् comes in the remaining senses after a वृद्ध word ending in उ and denoting a locality of East-folks.\nThe phrase ओर्देशी is here understood. Thus आढकजम्बुकः, शाकजम्बुकः नापितवास्तुकः ॥\n\nThe affix ठञ् would have been valid by the last <i>sutra</i> also, the present <i>sutra</i> makes a नियम or restriction, showing that in the case of words denoting places of East, the rule applies to those words only, which are <i>Vriddha</i>. Therefore it does not apply to मल्लवास्तु, from which we have माल्लवास्तवः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201547,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes ठञ् comes in the remaining senses after a वृद्ध word ending in उ and denoting a locality of East-folks."
+    }
+  ]
+}

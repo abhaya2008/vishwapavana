@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212031,
+    "chapter_id": 7790,
+    "verse_number": "२८२",
+    "content_sanskrit": "पट्",
+    "padaccheda": "पटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to shine, to glow",
+    "audio_url": null,
+    "display_order": 282,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212031,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — समूल नष्ट कर देना, जड़ से उखाड़ देना\nवि — भाग जाना, विदारण करना, गिरा देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212031,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भाषार्थे पाटयेद् ग्रन्थे पटयेद् गमने पटेत् ' (श्लो. 76) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211634,
+    "chapter_id": 7786,
+    "verse_number": "१६५",
+    "content_sanskrit": "मिल्",
+    "padaccheda": "मिलँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "सङ्गमे",
+    "meaning_english": "to unite, to join, to get together",
+    "audio_url": null,
+    "display_order": 165,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211634,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मिल संश्लेषणे इति पठितस्येह पुनः पाठः कर्त्रभिप्राये तङर्थः इति आत्रेयः ' इति मा.धा.वृत्तिः । क्षीरस्वामी तु अमुं न पठति । ' श्लेषे मिलेत् सङ्गमे तु मिलते मिलतीति च ' (श्लो. 160) इति देवः ।"
+    }
+  ]
+}

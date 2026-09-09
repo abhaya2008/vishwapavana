@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212201,
+    "chapter_id": 7790,
+    "verse_number": "४५२",
+    "content_sanskrit": "रूक्ष",
+    "padaccheda": "रूक्ष",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पारुष्ये",
+    "meaning_english": "to become hard, to become dry, to speak harshly, to be dull",
+    "audio_url": null,
+    "display_order": 452,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212201,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।  मा.धा.वृत्तौ ' रूक्षति इति शपि ' इति दर्शनात् भ्वादौ ' रूक्ष ' इति धातुः पूर्वं स्यात्, अधुना भ्रष्टः इति ज्ञायते ।"
+    }
+  ]
+}

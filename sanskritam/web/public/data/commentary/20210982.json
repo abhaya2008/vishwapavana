@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210982,
+    "chapter_id": 7781,
+    "verse_number": "९८३",
+    "content_sanskrit": "मथ्",
+    "padaccheda": "मथेँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विलोडने",
+    "meaning_english": "to churn, to think, to meditate, to ponder",
+    "audio_url": null,
+    "display_order": 983,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210982,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " हिंसासङ्क्लेशयोर्मन्थेत् मथेन्मथ्नाति लोडने ' (श्लो. 98) - देवः ।"
+    }
+  ]
+}

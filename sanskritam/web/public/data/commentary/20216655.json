@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216655,
+    "chapter_id": 7843,
+    "verse_number": "३०",
+    "content_sanskrit": "आद्यपतनाऽसमवायिकारणं गुरुत्वम् । पृथिवीजलवृत्तिः ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": "गुरुत्वम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216655,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "आद्यपतनेति । दण्डादिवारणाय असमवायीति । रूपादिवारणाय पतनेति । वेगेऽतिव्याप्तिवारणाय आद्येति ।"
+    }
+  ]
+}

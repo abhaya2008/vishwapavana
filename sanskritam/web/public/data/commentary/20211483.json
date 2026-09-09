@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211483,
+    "chapter_id": 7786,
+    "verse_number": "१४",
+    "content_sanskrit": "उञ्छ्",
+    "padaccheda": "उछिँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "उञ्छे",
+    "meaning_english": "to collect, to gather, to glean",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211483,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' शशपोरुञ्छतीत्युञ्छे स्वरभेदाद् द्विरुच्यते ' (श्लो.55) इति देवः ।"
+    }
+  ]
+}

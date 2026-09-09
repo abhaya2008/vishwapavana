@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211768,
+    "chapter_id": 7790,
+    "verse_number": "१९",
+    "content_sanskrit": "श्रथ्",
+    "padaccheda": "श्रथँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रयत्ने",
+    "meaning_english": "to make effort, to try, to set out",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211768,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' प्रतियत्ने ' इति मैत्रेयः । ' प्रतिहर्षे ' इति बहवः ।"
+    }
+  ]
+}

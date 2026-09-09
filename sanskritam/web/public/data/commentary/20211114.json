@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211114,
+    "chapter_id": 7781,
+    "verse_number": "१११५",
+    "content_sanskrit": "धृ",
+    "padaccheda": "धृङ्",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अवबन्धने विध्वंसने च",
+    "meaning_english": "to fall down, to get destroyed",
+    "audio_url": null,
+    "display_order": 1115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211114,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अविध्वंसने ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

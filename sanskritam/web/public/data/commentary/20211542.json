@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211542,
+    "chapter_id": 7786,
+    "verse_number": "७३",
+    "content_sanskrit": "वृह्",
+    "padaccheda": "वृहूँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "उद्यमने",
+    "meaning_english": "to try, to put effort",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211542,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " उद्यमः = उद्धरणम् ' इति क्षीरस्वामी । दन्त्योष्ठ्यादि: इति सर्वे । केचित् ' बृहू पवर्गादिः ' इति । क्षीरतरङ्गिण्यामपि ' बृहू ' इत्येव दृश्यते ।"
+    }
+  ]
+}

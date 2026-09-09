@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211477,
+    "chapter_id": 7786,
+    "verse_number": "८",
+    "content_sanskrit": "जुष्",
+    "padaccheda": "जुषीँ",
+    "anvaya": "A-पदी, गणः 6",
+    "meaning_sanskrit": "प्रीतिसेवनयोः",
+    "meaning_english": "to serve, to please, to satisfy",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211477,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " जोषयेज्जोषतीत्येते युजादेः परितर्कणे । प्रीतिसेवनयोरिष्टं तुदादेर्जुषते पदम् ' (श्लो. 180 - 181) इति देवः ।"
+    }
+  ]
+}

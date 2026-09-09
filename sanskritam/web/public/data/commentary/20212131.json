@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212131,
+    "chapter_id": 7790,
+    "verse_number": "३८२",
+    "content_sanskrit": "भू",
+    "padaccheda": "भू",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "प्राप्तौ",
+    "meaning_english": "to obtain, to receive, to get, to think",
+    "audio_url": null,
+    "display_order": 382,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212131,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सत्तायां भवति, प्राप्तौ णिचि भावयते तङि । भवते शपि तत्रैव भावयत्यवकल्कने ' (श्लो. 3) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212392,
+    "chapter_id": 7791,
+    "verse_number": "१३४",
+    "content_sanskrit": "परदार । गुरुतल्प ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 134,
+    "avatarnika": "परदारादिः (4.4.1)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212392,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "गच्छतौ परदारादिभ्यः"
+    }
+  ]
+}

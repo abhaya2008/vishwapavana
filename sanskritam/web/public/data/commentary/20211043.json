@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211043,
+    "chapter_id": 7781,
+    "verse_number": "१०४४",
+    "content_sanskrit": "श्रि",
+    "padaccheda": "श्रिञ्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "सेवायाम्",
+    "meaning_english": "to serve",
+    "audio_url": null,
+    "display_order": 1044,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211043,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप + आ — छोड़ना\nआ — आश्रय करना, समीप जाना या रहना\nवि + अप + आ — विश्वास करना, भरोसा रखना, साष्टांग नमस्कार करना, जमीन पर गिरना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211043,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्रीणाति पाके श्रीणीते सेवायां श्रयते श्रयेत् ' (श्लो. 16) - देवः ।"
+    }
+  ]
+}

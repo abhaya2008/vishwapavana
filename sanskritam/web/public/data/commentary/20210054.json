@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210054,
+    "chapter_id": 7781,
+    "verse_number": "५५",
+    "content_sanskrit": "रद्",
+    "padaccheda": "रदँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विलेखने",
+    "meaning_english": "to cut, to split, to scratch, to divide",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210054,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विलेखनम्= उत्पाटनम्' इति क्षीरस्वामी । 'विलेखनं, तच्च विदारणं, क्षोभणं वा' इति धातुकाव्यम् । (1.8) भेदनम् इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

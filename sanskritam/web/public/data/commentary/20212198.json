@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212198,
+    "chapter_id": 7790,
+    "verse_number": "४४९",
+    "content_sanskrit": "गर्व",
+    "padaccheda": "गर्व",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "माने",
+    "meaning_english": "to boast, to be egoistic, to be proud",
+    "audio_url": null,
+    "display_order": 449,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212198,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । आवर्गीयः । ' माने गर्वयते दर्पे गर्वतीति भवेच्छपि ' (श्लो. 161) इति देवः ।"
+    }
+  ]
+}

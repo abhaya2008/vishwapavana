@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212543,
+    "chapter_id": 7792,
+    "verse_number": "२३",
+    "content_sanskrit": "पॄभिदिव्यधिगृधिधृषिभ्यः",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212543,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुः स्यात् । पुरुः । भिनत्ति भिदुर्वज्रम् । [[6.1.16]] <<ग्रहिज्या...>> इति संप्रसारणम् । विरहिणं विध्यति विधुः । विधुः शशाङ्के कर्पूरे हृषीकेशे च राक्षसे । गृधुः कामः । धृषुर्दक्षः ।"
+    }
+  ]
+}

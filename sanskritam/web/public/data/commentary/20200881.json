@@ -1,0 +1,94 @@
+{
+  "verse": {
+    "id": 20200881,
+    "chapter_id": 7758,
+    "verse_number": "३.२.११३",
+    "content_sanskrit": "न यदि",
+    "padaccheda": "न । यदि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अनद्यतने (३.२.१११), अभिज्ञावचने (३.२.११२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200881,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यच्छब्दसहितेऽभिज्ञावचन उपपदे लृट् प्रत्ययो न भवति। पूर्वेण प्राप्तः प्रतिषिध्यते। अभिजानासि देवदत्त यत् कश्मीरेष्ववसाम। वासमात्रं स्मर्यते। नत्वपरं किंचिल्लक्ष्यते। तेनोत्तरसूत्रस्य नायं विषयः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200881,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यद्योगे उक्तं न । अभिजानासि कृष्ण यद्वने अभुञ्जमहि ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200881,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "यद्योगे उक्तं न । अभिजानासि कृष्ण यद्वने अभुञ्जमहि ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200881,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<न यदि>> - न यदि ।यदी॑ति सप्तमीति मत्वाह - यद्योगे इति । उक्तं नेति । 'अभिज्ञावचने' इति लृण्न भवतीत्यर्थः । अभिजानासीति । वने अभुञ्जमहीति यत्तस्मरसीत्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200881,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<न यदि>> - न यदि । लृटः प्रतिषेधे उत्सर्गो लङ् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200881,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`यदि` इति। सती सप्तमीयम्। अभिज्ञावचनञ्चानुवर्तते। तेन यत्र यच्छब्दोऽस्ति तत्र नियोगतोऽभिज्ञावचनं तत्सहितं न भवतीत्याह -  `यच्छब्दसहिते`इत्यादि। `अवसाम` इति। वसेर्लङ्, <<नित्यं ङितः>> [[3.4.99]]  इति सलोपः, पूर्ववद्दीर्घः। `वासमात्रम्ित्यादिना उत्तरसूत्रस्य नायं विषय इति दर्शयति। यदि हि तत्रापरं लक्षणमपेक्ष्यते तदोत्तरसूत्रे पाक्षिको विधिः स्यात्, स नेष्यते, तस्मान्नापेक्षते॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200881,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "न यदि॥ यदीति सतिसप्तमीयम्। अभिज्ञावचनं चानुवर्तते, तेन यत्र यच्छब्दोऽस्ति, तत्र यदभिज्ञावचनं तन्नियोगतो यच्छब्देन सहितं भवतीत्यभिप्रेत्याह - -यच्छब्दसहित इत्यादि। अवसामेति। वेसर्लङ् मस्,'नित्यं ङ्तिः'  इति सलोपः, दीर्घः, वासमात्रमित्यादिनोतरसूत्रस्य नायं विषय इति दर्शयति। यदि तत्रापरं किञ्चिल्लक्ष्यमपेक्ष्येत तदोतरसूत्रेण पाक्षिको विधिस्स्यात्, तच्च नेष्यते, तस्मान्न तस्य विषयः॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200881,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "यच्छब्दयोग उक्तलृण्न स्यात् । अभिजानासि कृष्ण यद् व्रजे न्यवसाम । 'ह शश्वद्योगेऽपि न' इति भोजः । स्मरसि कृष्ण व्रजे हाऽवसाम-व्रजे शश्वदवसाम ।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200881,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix लृट् (2nd Future) is not applied in the sense of the past when the उपपद denoting recollection has in connection with it the particle यत्।\nThis prohibits लृट् which the verb वस् obtained from the last <i>sutra</i>. As अभिजानासि देवदत्त यत् कश्मीरेष्ववसाम 'thou rememberest <i>Devadatta</i> how we did dwell in <i>Kashmir</i>'. Here the mere fact of dwelling is recollected, there being no other idea implied; therefore the subsequent aphorism has no scope here. That aphorism has its scope, when with recollection, is added another dependent idea or action, without which the sentence is not complete."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200881,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix लृट् (2nd Future) is not applied in the sense of the past when the उपपद denoting recollection has in connection with it the particle यत्।"
+    },
+    {
+      "id": 11,
+      "verse_id": 20200881,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "यत्पास्यावो मधूनि च (भट्टिकाव्यम् 6.139) — `न यदि` इत्यनेन लुटि प्रतिषिद्धे लडेव भवति।"
+    }
+  ]
+}

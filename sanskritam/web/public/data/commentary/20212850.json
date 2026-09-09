@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212850,
+    "chapter_id": 7794,
+    "verse_number": "५०",
+    "content_sanskrit": "भुवो झिच्",
+    "padaccheda": "",
+    "anvaya": "झिच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212850,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भवन्तिर्वर्तमानकालः । बहुलकादवेश्च । अवन्तिः । वदेर्वदन्तिः । किंवदन्ती जनश्रुतिः ।"
+    }
+  ]
+}

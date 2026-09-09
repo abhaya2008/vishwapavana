@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213695,
+    "chapter_id": 7804,
+    "verse_number": "८५",
+    "content_sanskrit": "प्रत्ययैरनुपाख्येयैर्ग्रहणानुगुणैस्तथा । ध्वनिप्रकाशिते शब्दे स्वरूपं अवधार्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213695,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "व्यक्तरूपग्रहणानुगुणा अनुपाख्येयाकारा बहव उपायभूताः प्रत्यया ध्वनिभिः प्रकाश्यमाने शब्दे समुत्पद्यमानाः शब्दस्वरूपावग्रहहेतवो भवन्ति ॥"
+    }
+  ]
+}

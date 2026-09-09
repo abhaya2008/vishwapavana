@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213556,
+    "chapter_id": 7801,
+    "verse_number": "१०",
+    "content_sanskrit": "वर्णानां तणतिनितान्तानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213556,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदिरुदात्तः । एतः । हरिणः । शितिः । पृश्निः । हरित् ॥"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20203309,
+    "chapter_id": 7774,
+    "verse_number": "७.२.३१",
+    "content_sanskrit": "ह्रु ह्वरेश्छन्दसि",
+    "padaccheda": "ह्रु । ह्वरेः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": "अनुवृत्तिः — न (७.२.८), इट् (७.२.८), निष्ठायाम् (७.२.१४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203309,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ह्वरतेर्धातोर्निष्ठायां छन्दसि ह्रु इत्ययमादेशो भवति। ह्रुतस्य चाह्रुतस्य च। अह्रु॑तमसि हवि॒र्धान॑म् (मा०सं० १.९)। छन्दसीति किम्? ह्वृतम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203309,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ह्ररेर्निष्ठाया ह्रु आदेशः स्यात् । अह्रुतमसि हविर्धानम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203309,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`ह्वृ कौटिल्ये` (धातुपाठः-931) इत्येतस्यानुदात्तत्वादिट्प्रतिषेधोऽस्त्येवेत्यादेशार्थ वचनम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203309,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ह्वरेरिति । ह्वृ कौटिल्ये । आगन्तुकेकारे गुणेन निर्द्देशः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203309,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ह्वृ कौटिल्ये इत्य स्य निष्ठायां हु इति स्यात् । अहुतो महः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203309,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "ह्रु is substituted for ह्वर् in the छन्दस् (Vedas) before the Participial-affix.\nAs ह्रुतस्य चाह्रुतस्य च, आह्रुतमसि हविर्धानम् (Vaj San. I.9). But ह्रुतम् in secular literature."
+    },
+    {
+      "id": 7,
+      "verse_id": 20203309,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "ह्रु is substituted for ह्वर् in the छन्दस् (Vedas) before the Participial-affix."
+    }
+  ]
+}

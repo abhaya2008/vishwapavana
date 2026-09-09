@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210764,
+    "chapter_id": 7781,
+    "verse_number": "७६५",
+    "content_sanskrit": "ध्वाङ्क्ष्",
+    "padaccheda": "ध्वाक्षिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "काङ्क्षायाम् घोरवाशिते च",
+    "meaning_english": "to desire, to long for, to wish, to caw",
+    "audio_url": null,
+    "display_order": 765,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210764,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चकारात् काङ्क्षार्थः अत्रापि सम्बध्यते ।"
+    }
+  ]
+}

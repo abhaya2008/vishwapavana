@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211092,
+    "chapter_id": 7781,
+    "verse_number": "१०९३",
+    "content_sanskrit": "ध्रु",
+    "padaccheda": "ध्रु",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "स्थैर्ये",
+    "meaning_english": "to be firm, to be fixed",
+    "audio_url": null,
+    "display_order": 1093,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211092,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्थैर्ये ध्रवति गत्यां तु स्थैर्ये च ध्रुवतीति शे ' (श्लो. 22) - देवः ।"
+    }
+  ]
+}

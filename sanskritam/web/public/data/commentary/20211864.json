@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211864,
+    "chapter_id": 7790,
+    "verse_number": "११५",
+    "content_sanskrit": "श्वर्त्",
+    "padaccheda": "श्वर्तँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "गत्याम्",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211864,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्वर्त गत्यां च । चकारात् कृच्छ्रजीवने ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

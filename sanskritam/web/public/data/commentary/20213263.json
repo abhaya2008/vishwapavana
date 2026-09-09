@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213263,
+    "chapter_id": 7796,
+    "verse_number": "६५",
+    "content_sanskrit": "क्षमेरुपधालोपश्च",
+    "padaccheda": "",
+    "anvaya": "अच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213263,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चादच् । क्ष्मा ।"
+    }
+  ]
+}

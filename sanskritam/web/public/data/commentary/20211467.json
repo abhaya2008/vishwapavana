@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211467,
+    "chapter_id": 7785,
+    "verse_number": "३६",
+    "content_sanskrit": "दाश्",
+    "padaccheda": "दाशँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to damage, to hurt",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211467,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "छान्दसः ।"
+    }
+  ]
+}

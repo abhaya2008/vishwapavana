@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213070,
+    "chapter_id": 7795,
+    "verse_number": "११०",
+    "content_sanskrit": "जनेर्यक्",
+    "padaccheda": "",
+    "anvaya": "यक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213070,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "[[6.4.43]] <<ये विभाषा>> । जन्यं युद्धम् । जाया भार्या ।"
+    }
+  ]
+}

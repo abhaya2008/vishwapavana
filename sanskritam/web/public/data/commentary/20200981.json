@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20200981,
+    "chapter_id": 7759,
+    "verse_number": "३.३.२५",
+    "content_sanskrit": "वौ क्षुश्रुवः",
+    "padaccheda": "वौ । क्षु-श्रुवः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200981,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वावुपपदे क्षु श्रु इत्येताभ्यां धातुभ्यां घञ् प्रत्ययो भवति। अपोऽपवादः। विक्षावः। विश्रावः। वाविति किम्? क्षवः। श्रवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200981,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "विक्षावः । विश्रावः । वौ किम् । क्षवः । श्रवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200981,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`विक्षावः`इति। `टुक्षु शब्दे` (धातुपाठः-1036)॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200981,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "विक्षावः । विश्रावः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200981,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the roots 1. क्षु 'to sneeze' 2. श्रु 'to move and hear' when the preposition वि is in composition.\nThis debars the affix अप् [[3.3.57]]; as, विक्षावः 'cough'; विश्रावः 'flowing forth', 'celebrated'. But when without preposition, we have क्षवः and श्रवः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200981,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the roots 1. क्षु 'to sneeze' 2. श्रु 'to move and hear' when the preposition वि is in composition."
+    }
+  ]
+}

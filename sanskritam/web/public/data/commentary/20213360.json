@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213360,
+    "chapter_id": 7799,
+    "verse_number": "२६",
+    "content_sanskrit": "शष्कुलिराजिकुट्यशनिवर्तिभृकुटित्रुटिवलिङ्क्तयः ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213360,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतेऽपि स्त्रियां स्युः । इयं शष्कुलिः ।"
+    }
+  ]
+}

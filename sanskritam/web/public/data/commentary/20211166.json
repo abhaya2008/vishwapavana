@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211166,
+    "chapter_id": 7782,
+    "verse_number": "१",
+    "content_sanskrit": "अद्",
+    "padaccheda": "अदँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "भक्षणे",
+    "meaning_english": "to eat, to binge",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211166,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — तृप्त होना, मुँह बंद हो जाना, खाना छोड़ देना\nआ — खाना\nप्र — खाना\nसम् — खाना\nवि — काटना, कतर देना, चबाना"
+    }
+  ]
+}

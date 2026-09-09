@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203674,
+    "chapter_id": 7777,
+    "verse_number": "८.१.६१",
+    "content_sanskrit": "अहेति विनियोगे च",
+    "padaccheda": "अह । इति । विनियोगे । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": "अनुवृत्तिः — तिङ् (८.१.२८), न (८.१.२९), प्रथमा (८.१.५९), क्षियायाम् (८.१.६०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203674,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अह इत्यनेन युक्ता प्रथमा तिङ्विभक्तिर्नानुदात्ता भवति विनियोगे गम्यमाने, चशब्दात् क्षियायां च। नानाप्रयोजनो नियोगो विनियोगः। त्वमह ग्रामं गच्छ॑, त्वमहारण्यं ग॒च्छ॒। क्षियायाम् — स्वयमह रथेन याति॑३, उपाध्यायं पदातिं ग॒म॒य॒ति॒। स्वयमहौदनं भुङ्क्ते॑३, उपाध्यायं सक्तून् पा॒य॒य॒ति॒। पूर्ववद् निघातप्रतिषेधः, प्लुतश्च॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203674,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अहयुक्ता प्रथमा तिङ्विभक्तिर्नानुदात्ता नानाप्रयोगे नियोगेक्षियायां च । त्वमह ग्रामं गच्छ । क्षियायाम् । स्वयमहरथेन याति3 उपाध्ययं पदातिं नयति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203674,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "चकारेण क्षियायामित्येतदनुकृष्यते। `नानाप्रयोजनः` इति। अनेकप्रयोजन इत्यर्थः। `नियोगः` इति। प्रेषणम्, व्यापारणमित्यर्थः। इतिकरणमस्य पूर्ववदेव प्रयोजनम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203674,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "नानाप्रयोजन इति । अनेक प्रयोजनो नियोगः उ प्रेषणम् । प्लुतश्चेति । स पुनः क्षियायां क्षियाहेतुकः, विनियोगे प्रैषहेतुकः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203674,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In connection with अह , the first finite verb retains its accent when it refers to various commissions (as well as when a breach of good manners is condemned).\nThe word विनियोग means sending a person to perform several commissions. The word च in the <i>sutra</i> draws in the <i>anuvritti</i> of क्षिया also.\n\nThus त्वं अह ग्रामं गच्छ, त्वं अह अरण्यं गच्छ ॥ So also when क्षिया is meant, as स्वयमह रथेन याति ३, उपाध्यायं पदातिं गमयति ॥ स्वयमहौदनं भुङ्क्ते ३, उपाध्यायं सक्तून् पाययति ॥ The prohibition of _nighata and prolation are as in the last aphorism."
+    },
+    {
+      "id": 6,
+      "verse_id": 20203674,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In connection with अह , the first finite verb retains its accent when it refers to various commissions (as well as when a breach of good manners is condemned)."
+    }
+  ]
+}

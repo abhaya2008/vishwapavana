@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212271,
+    "chapter_id": 7791,
+    "verse_number": "१३",
+    "content_sanskrit": "शाकपार्थिवः । कुतपसौश्रुत । अजातौल्वलि । कृताकृत । भुक्तविभुक्त । पीतविपीत । गतप्रत्यागत । यातानुयात । क्रयाक्रयिका । पुटापुटिका । फलाफलिका । मानोन्मानिका ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": "शाकपार्थिवादिः (2.1.60)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212271,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "शाकपार्थिवादीनामुपसङ्ख्यानम्"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201295,
+    "chapter_id": 7761,
+    "verse_number": "४.१.४६",
+    "content_sanskrit": "नित्यं छन्दसि",
+    "padaccheda": "नित्यम् । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": "अनुवृत्तिः — अनुपसर्जनात् (४.१.१४), ङीष् (४.१.४०), बह्व-आदिभ्यः (४.१.४५), च (४.१.४५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201295,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "बह्वादिभ्यश्छन्दसि विषये नित्यं स्त्रियां ङीष् प्रत्ययो भवति। बह्वीषु हित्वा प्रपिबन्। बह्वी नाम ओषधी भवति। नित्यग्रहणमुत्तरार्थम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201295,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "बह्वादिभ्यश्छन्दसि विषये नित्यं ङीष् । बह्वीषु हि त्वा (ब॒ह्वीषु॒ हि त्वा) । नित्यग्रहणमुत्तरार्थम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201295,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अथ नित्यग्रहणं किमर्थम्, यावता पूर्वेणैव सिद्धे विकल्पे सत्यारम्भसामर्थ्यादेव नित्यं भविष्यति? इत्यत आह - `नित्यग्रहणमुत्तरार्थम्` इति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201295,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "नित्यग्रंहणमुतरार्थमिति । इह त्वारम्भसामर्थ्यादेव नित्यो विधिः सिद्धः, योगारम्भश्चिन्त्ययोजनः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201295,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "बह्वादिभ्यश्छन्दसि नित्यं ङीष् स्यात् । बह्वीः समा७ः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201295,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ङीष् is always used in the छन्दस् (Vedas) in forming the feminine of the words बहु etc.\nThus बह्वीषु हित्वा प्रपिवन् ॥ Here बह्वी is the name of a herb.\n\nThe word नित्य 'always' is used in the aphorism, more for the sake of the subsequent <i>sutra</i>, which it governs than for this <i>sutra</i>. For the word 'optionally' does not govern this, and the aphorism even without the word '<i>nitya</i>'? would have been a necessary rule and not optional: for आरम्भसामर्थ्यादेव नित्योविधिः सिद्धः, योगारम्भश्चिन्त्य योजनः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201295,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ङीष् is always used in the छन्दस् (Vedas) in forming the feminine of the words बहु etc."
+    }
+  ]
+}

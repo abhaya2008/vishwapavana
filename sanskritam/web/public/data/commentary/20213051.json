@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213051,
+    "chapter_id": 7795,
+    "verse_number": "९१",
+    "content_sanskrit": "कुवश्चट् दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "चट्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213051,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कूची चित्रलेखनिका ।"
+    }
+  ]
+}

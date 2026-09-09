@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211250,
+    "chapter_id": 7783,
+    "verse_number": "८",
+    "content_sanskrit": "हा",
+    "padaccheda": "ओँहाङ्",
+    "anvaya": "A-पदी, गणः 3",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211250,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गतौ त्यागे यथासङ्ख्यं जिहीते च जहाति च ' (श्लो. 11) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211949,
+    "chapter_id": 7790,
+    "verse_number": "२००",
+    "content_sanskrit": "स्पश्",
+    "padaccheda": "स्पशँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "ग्रहणसंश्लेषणयोः",
+    "meaning_english": "to take, to join, to unite",
+    "audio_url": null,
+    "display_order": 200,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211949,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्पृश ' इति जैन - शाकटायन - हेमचन्द्रादयः । ' ग्रहणे श्लेषणे चार्थे चुरादौ स्पाशयेत णौ ' (श्लो. 167) इति देवः ।"
+    }
+  ]
+}

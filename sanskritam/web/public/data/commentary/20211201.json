@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211201,
+    "chapter_id": 7782,
+    "verse_number": "३६",
+    "content_sanskrit": "सु",
+    "padaccheda": "षु",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "प्रसवैश्वर्ययोः",
+    "meaning_english": "to give birth, to procreate, to become pregnant, to possess power, to possess supremacy",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211201,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रसवोभ्यनुज्ञानम् । ' ओमिति ब्रह्मा प्रसौति ' (तै. उप. 2.16) अभ्यानुज्ञां ब्रह्मा ददातीत्यर्थः । ' षुञः सुनोति सुनुते, प्रसवैश्वर्ययोरसौत् । गतौ तयोश्च सवति द्विरुक्त्या तस्य सो न षः ' (श्लो. 21) इति देवः ।"
+    }
+  ]
+}

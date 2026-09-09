@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20201585,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१३",
+    "content_sanskrit": "विभाषा रोगातपयोः",
+    "padaccheda": "विभाषा । रोग-आतपयोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": "अनुवृत्तिः — ठञ् (४.३.११), कालात् (४.३.११), शरदः (४.३.१२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201585,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "शरद इत्येव। रोग आतपे चाभिधेये शरच्छब्दाट् ठञ् प्रत्ययो वा भवति शैषिकः। ऋत्वणोऽपवादः। शारदिको रोगः। शारदिक आतपः। शारदो रोगः। शारद आतपः। रोगातपयोरिति किम् ? शारदं दधि॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201585,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शारदिकः शारदो वा रोग आतपो वा । एतयोः किम् । शारदं दधि ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201585,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विभाषा रोगातपयोः>> - विभाषा रोगातपयोः ।ठ॑ञिति शरद इति चानुवर्तते । शारदं दधीति । ञत्वणिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201585,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठञ् comes optionally comes in the remaining senses after the word शरद् when expressing illness or heat.\nThus शारदिको रोगः 'the autumnal disease', शारदिक आतपः 'the autumnal heat or sunshine'.\n\nWhy do we say \"when denoting sickness or heat\"? Observe, शारदं दधि 'the autumnal curd'. This ठञ् debars the ऋतु अण् [[4.3.16]]."
+    },
+    {
+      "id": 5,
+      "verse_id": 20201585,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठञ् comes optionally comes in the remaining senses after the word शरद् when expressing illness or heat."
+    }
+  ]
+}

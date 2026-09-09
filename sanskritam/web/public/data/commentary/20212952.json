@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212952,
+    "chapter_id": 7794,
+    "verse_number": "१५२",
+    "content_sanskrit": "अर्तिगॄभ्यां भन्",
+    "padaccheda": "",
+    "anvaya": "भन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 152,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212952,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अर्भः । गर्भः ।"
+    }
+  ]
+}

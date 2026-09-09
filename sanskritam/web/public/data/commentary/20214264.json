@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214264,
+    "chapter_id": 7805,
+    "verse_number": "४७१",
+    "content_sanskrit": "भेदनिर्वचने त्वस्य प्रत्येदं वा समाप्यते । श्रुतिर्वचनभिन्ना वा वाक्यभेदेऽवतिष्ठते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 471,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214264,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "अथवा वचनभिन्न एकशब्द एवाक्षो भुज्यताम्, अक्षो दीव्यतामित्येवमवान्तरवाक्योपप्लाविनी साधनश्रुतिर्भेदेनैवावतिष्ठत इत्याह–"
+    }
+  ]
+}

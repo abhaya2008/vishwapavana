@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211660,
+    "chapter_id": 7787,
+    "verse_number": "१७",
+    "content_sanskrit": "भुज्",
+    "padaccheda": "भुजँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "पालनाभ्यवहारयोः",
+    "meaning_english": "to protect, to preserve, to eat, to consume",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211660,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पालने परस्मैपदी , ' भूजोनवने ' इति पालनभिन्नार्थे आत्मनेपदित्वम् । अभ्यवहारः = भोजनम् । ' भुजेद् भुनक्ति भुङ्क्ते स्युः कौटिल्ये पालनेदने ' (श्लो. 65) इति देवः ।"
+    }
+  ]
+}

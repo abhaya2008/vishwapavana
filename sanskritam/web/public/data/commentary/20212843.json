@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212843,
+    "chapter_id": 7794,
+    "verse_number": "४३",
+    "content_sanskrit": "इण्भीकापाशल्यतिमर्चिभ्यः कन्",
+    "padaccheda": "",
+    "anvaya": "कन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212843,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एके मुख्यान्यकेवलाः । भेको मण्डूकमेषयोरिति विश्वभेदिन्यौ । काकः । पाकः शिशुः । शल्कं शकलम् । अत्कः पथिकः शरीरावयवश्च । मर्कः शरीरवायुः ।"
+    }
+  ]
+}

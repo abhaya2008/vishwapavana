@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211600,
+    "chapter_id": 7786,
+    "verse_number": "१३१",
+    "content_sanskrit": "गुर्",
+    "padaccheda": "गुरीँ",
+    "anvaya": "A-पदी, गणः 6",
+    "meaning_sanskrit": "उद्यमने",
+    "meaning_english": "to try, to make effort",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211600,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " उद्यमनम् = उद्धरणम् इति धातुकाव्यव्याख्या । (2.82) ' गुरते (गू) गूरयेतेति शे णौ उद्यमने तङि । श्यनि गूर्यत इत्येवं गतिहिंसनयोः तङि ' (श्लो. 152) इति देवः ।"
+    }
+  ]
+}

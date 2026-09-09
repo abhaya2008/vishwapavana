@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216299,
+    "chapter_id": 7825,
+    "verse_number": "१०९",
+    "content_sanskrit": "विधिनियमसम्भवे विधिरेव ज्यायान्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216299,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नियमे ह्यश्रुताया अन्यनिवृत्तेः सामर्थ्यात्परिकल्पनमुक्तानुवाददोषश्चेति लाघवाद्विधिरेवैति बोध्यम् । <<यस्य हलः>> [[6.4.49]] इत्यत्र <<इजादेः सनुमः>> [[8.4.32]] इत्यादौ च भाष्ये स्पष्टेयम् ॥"
+    }
+  ]
+}

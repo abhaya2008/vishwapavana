@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214845,
+    "chapter_id": 7806,
+    "verse_number": "५६२",
+    "content_sanskrit": "उदयास्तमयावृत्त्या ज्योतिषां लोकसिद्धया । कालस्याव्यतिपातेऽपि ताद्धर्म्यमिव लक्ष्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 562,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214845,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "तथा हि - \nसूर्यादिसञ्चारोपनीतविभागः कालात्मेति तदपगमादेवानपयन्नपि व्ययगत इवावधार्यते गतमहो व्युष्टा रजनी निर्गतः शिशिर इति ॥"
+    }
+  ]
+}

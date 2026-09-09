@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210604,
+    "chapter_id": 7781,
+    "verse_number": "६०५",
+    "content_sanskrit": "तूल्",
+    "padaccheda": "तूलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "निष्कर्षे",
+    "meaning_english": "to extract",
+    "audio_url": null,
+    "display_order": 605,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210604,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " निष्कर्षः = निष्कोषणम् । तच्च अन्तर्गतस्य बहिर्निस्सारणम् ।"
+    }
+  ]
+}

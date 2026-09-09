@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210201,
+    "chapter_id": 7781,
+    "verse_number": "२०२",
+    "content_sanskrit": "भृज्",
+    "padaccheda": "भृजीँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "भर्जने",
+    "meaning_english": "to fry, to parch",
+    "audio_url": null,
+    "display_order": 202,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210201,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "भर्जनं पाकविशेषः । ' भर्जने भर्जते भृजेः ' (श्लो.68) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201586,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१४",
+    "content_sanskrit": "निशाप्रदोषाभ्यां च",
+    "padaccheda": "निशा-प्रदोषाभ्याम् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": "अनुवृत्तिः — ठञ् (४.३.११), कालात् (४.३.११), विभाषा (४.३.१३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201586,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "निशाप्रदोषशब्दाभ्यां च विभाषा ठञ् प्रत्ययो भवति शैषिकः। <<कालाट् ठञ्>> [[४.३.११]] इति नित्ये ठञि प्राप्ते विकल्प उच्यते। नैशिकम्, नैशम्। प्रादोषिकम्, प्रादोषम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201586,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वा ठञ् स्यात् । नैशिकम् । नैशम् । प्रादोषिकम् । प्रादोषम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201586,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<निशाप्रदोषाभ्यां च>> - निशाप्रदोषाभ्यां च । वा ठञ् स्यादिति । शेषपूरणम् ।कालाट्ठ॑ञिति नित्यं प्राप्ते विकल्पोऽयम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201586,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वा ठञ् । नैशिकम् । नैशम् । प्रादोषिकम् । प्रादोषम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201586,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठञ् comes optionally comes in the remaining senses after the words 1. निशा and 2. प्रदोष ।\nThis makes optional, where by <i>sutra</i> [[4.3.11]] <i>ante</i>, the ठञ् would have been obligatory. Thus नैशम् or नैशिकम् 'nocturnal'. प्रादोषम् or प्रादोषिकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201586,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठञ् comes optionally comes in the remaining senses after the words 1. निशा and 2. प्रदोष ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201586,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "जगति नैशमशीतकरः करैर्वियति वारिदवृन्दमयं तमः । जलजराजिषु नैन्द्रमदिद्रवन्न महतामहताः क्व च नारयः ॥ (शिशुपालवधम् 6.43) — `निशाप्रदोषाभ्यां च` इति विकल्पादण् प्रत्ययः।\nकरजदशनचिह्नं निशमङ्गेऽन्यनारी (शिशुपालवधम् 11.37) — `निशाप्रदोषाभ्यां च` इत्यण्प्रत्ययः।"
+    }
+  ]
+}

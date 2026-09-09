@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212755,
+    "chapter_id": 7793,
+    "verse_number": "७८",
+    "content_sanskrit": "गमेर्गश्च",
+    "padaccheda": "",
+    "anvaya": "युच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212755,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गमेर्युच् स्याद्गश्चादेशः । गगनम् ।"
+    }
+  ]
+}

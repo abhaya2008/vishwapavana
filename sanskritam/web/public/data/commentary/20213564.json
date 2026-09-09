@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213564,
+    "chapter_id": 7801,
+    "verse_number": "१८",
+    "content_sanskrit": "राजविशेषस्य यमन्वा चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213564,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यमन्वा वृद्धः। आङ्गमुदाहरणम् । अङ्गाः प्रत्युदाहरणम् ॥"
+    }
+  ]
+}

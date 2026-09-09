@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212129,
+    "chapter_id": 7790,
+    "verse_number": "३८०",
+    "content_sanskrit": "वच्",
+    "padaccheda": "वचँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिभाषणे",
+    "meaning_english": "to inform,to communicate,to speak,to tell,to describe,to utter, to read",
+    "audio_url": null,
+    "display_order": 380,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212129,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — बोलने का प्रारम्भ करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212129,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सन्देशने च ' इति कातन्त्रहेरम्भादयः । ' वक्तीति भाषणे वा णौ वाचयेद्वचतीति वा ' (श्लो. 51) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210033,
+    "chapter_id": 7781,
+    "verse_number": "३४",
+    "content_sanskrit": "वेथ्",
+    "padaccheda": "वेथृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "याचने",
+    "meaning_english": "to beg,to ask",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210033,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वेदृ इति कौशिकः ' इति मा.धा.वृत्तिः । धातुरयं द्विकर्मकः इति च तत्रोक्तम् ।"
+    }
+  ]
+}

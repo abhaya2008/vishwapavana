@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213339,
+    "chapter_id": 7799,
+    "verse_number": "५",
+    "content_sanskrit": "अशनिभरण्यरणयः पुंसि च ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213339,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयमयं वा अशनिः ।"
+    }
+  ]
+}

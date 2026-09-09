@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212895,
+    "chapter_id": 7794,
+    "verse_number": "९५",
+    "content_sanskrit": "पिशेः किच्च",
+    "padaccheda": "",
+    "anvaya": "इतन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212895,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पिशितं मांसम् ।"
+    }
+  ]
+}

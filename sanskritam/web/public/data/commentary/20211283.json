@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211283,
+    "chapter_id": 7784,
+    "verse_number": "१५",
+    "content_sanskrit": "क्षिप्",
+    "padaccheda": "क्षिपँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to throw",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211283,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रेरणम् = निरसनम् इति धातुकाव्यव्याख्या । ' क्षिप्यति प्रेरणे , शे तु क्षिपति क्षिपते पदे ' (श्लो. 130) इति देवः ।"
+    }
+  ]
+}

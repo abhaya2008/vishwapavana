@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213891,
+    "chapter_id": 7805,
+    "verse_number": "९८",
+    "content_sanskrit": "शास्त्रे प्रत्यायकस्यापि क्वचिदेकत्वं आश्रितम् । प्रत्याय्येन क्वचिद्भेदो ग्रहणग्राह्ययोः स्थितः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213891,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "अथात्रैव प्रसङ्गात् प्रत्याय्यप्रत्यायकयोर्विषयभेदेन भेदाभेदौ स्मृतावित्याह—"
+    }
+  ]
+}

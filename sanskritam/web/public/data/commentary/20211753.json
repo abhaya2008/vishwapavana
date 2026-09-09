@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211753,
+    "chapter_id": 7790,
+    "verse_number": "४",
+    "content_sanskrit": "स्फुण्ड्",
+    "padaccheda": "स्फुडिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिहासे",
+    "meaning_english": "to make fun of, to laugh at, to joke",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211753,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्फुटि ' इति पाठान्तरम् ।"
+    }
+  ]
+}

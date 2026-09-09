@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211974,
+    "chapter_id": 7790,
+    "verse_number": "२२५",
+    "content_sanskrit": "कूट्",
+    "padaccheda": "कूटँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "आप्रदाने अवसादने च",
+    "meaning_english": "to avoid giving, to cheat, to do indistinctly, to collect",
+    "audio_url": null,
+    "display_order": 225,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211974,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अवसादने ' इत्येके । ' कूटयेताप्रसादे णौ कूटेः दाहे तु कूटयेत् ' (श्लो. 75) - देवः ।"
+    }
+  ]
+}

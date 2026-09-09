@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202592,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१५३",
+    "content_sanskrit": "प्रस्कण्वहरिश्चन्द्रावृषी",
+    "padaccheda": "प्रस्कण्व-हरिश्चन्द्रौ । ऋषी",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202592,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रस्कण्वो हरिश्चन्द्र इति सुट् निपात्यत ऋषी चेदभिधेयौ भवतः। प्रस्कण्व ऋषिः। हरिश्चन्द्र ऋषिः। हरिश्चन्द्रग्रहणममन्त्रार्थम्। ऋषी इति किम् ? प्रकण्वो देशः। हरिचन्द्रो माणवकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202592,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हरिश्चन्द्रग्रहणममन्त्रार्थम् । ऋषीति किम् । प्रकण्वो देशः । हरिचन्द्रो माणवकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202592,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<प्रस्कण्वहरिश्चन्द्रावृषी>> - प्रस्कण्वहरिश्चन्द्रावृषी । अमन्त्रार्थमिति । मन्त्रे तुह्रस्वाच्चन्द्रोत्तरपदे मन्त्रे॑ इति पूर्वसूत्रेणैव सिद्धमिति भावः । तत्सूत्रं वैदिकप्रक्रियायां व्याख्यास्यते ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202592,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<प्रस्कण्वहरिश्चन्द्रावृषी>> - अमन्त्रार्तमिति । मन्त्रे तुह्रस्वाच्चन्द्रोत्तरपदे मन्त्रे॑इत्यनेनैव सिद्ध्यतीति भावः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202592,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words प्रस्कण्व and हरिश्चन्द्र are formed by सुट् meaning the two Rishis of that name.\nThus प्रस्कण्व ऋषिः, हरिश्चन्द्र ऋषिः ॥ The word हरिश्चन्द्र could be formed by [[6.1.151]] in the <i>Mantra</i>, here it refers to other than <i>Mantras</i>. When not referring to <i>Rishis</i>, we have प्रकण्वो देशः, (कण्वं पापं तत्प्रगतं यस्मात्) हरिश्चन्द्रो मानवकः (हरिः चन्द्रो यस्य मुग्धस्य)॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202592,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words प्रस्कण्व and हरिश्चन्द्र are formed by सुट् meaning the two Rishis of that name."
+    }
+  ]
+}

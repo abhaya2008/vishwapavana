@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212751,
+    "chapter_id": 7793,
+    "verse_number": "७४",
+    "content_sanskrit": "जसिसहोरुरिन्",
+    "padaccheda": "",
+    "anvaya": "उरिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212751,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जसुरिर्व्रज्रम् । सहुरिरादित्यः पृथिवी च ।"
+    }
+  ]
+}

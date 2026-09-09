@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213467,
+    "chapter_id": 7799,
+    "verse_number": "१३३",
+    "content_sanskrit": "द्विगुः स्त्रियां च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 133,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213467,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "व्यवस्थया । पञ्चमूली । त्रिभुवनम् । "
+    }
+  ]
+}

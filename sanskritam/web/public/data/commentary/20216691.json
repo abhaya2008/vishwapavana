@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216691,
+    "chapter_id": 7843,
+    "verse_number": "६६",
+    "content_sanskrit": "लिङ्गं त्रिविधम्-अन्वयवेतिरेकि, केवलान्वयि, केवलव्यतिरेकि चेति ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": "लिङ्गम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216691,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "लिङ्गमिति । लिङ्गभेदमाह-त्रिविधमिति । तत्सत्त्वे तत्सत्ता अन्वयः (हेतुसत्त्वे साध्यसत्ता अन्वयः) हेत्वभावे (तदभावे) साध्याभावः (तदभावः) व्यतिरेकः ।"
+    }
+  ]
+}

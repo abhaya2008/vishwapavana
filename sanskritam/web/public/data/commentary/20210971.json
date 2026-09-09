@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210971,
+    "chapter_id": 7781,
+    "verse_number": "९७२",
+    "content_sanskrit": "नल्",
+    "padaccheda": "णलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गन्धे बन्धने च",
+    "meaning_english": "to smell,to bind",
+    "audio_url": null,
+    "display_order": 972,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210971,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "बन्धने इति काश्यपः ।"
+    }
+  ]
+}

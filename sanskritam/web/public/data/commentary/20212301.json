@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212301,
+    "chapter_id": 7791,
+    "verse_number": "४३",
+    "content_sanskrit": "संपद् । विपद् । आपद् । प्रतिपद् । परिषद् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": "संपदादिः (3.3.108)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212301,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "संपदादिभ्यः क्विप्"
+    }
+  ]
+}

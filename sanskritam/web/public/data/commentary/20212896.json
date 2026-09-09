@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212896,
+    "chapter_id": 7794,
+    "verse_number": "९६",
+    "content_sanskrit": "श्रुदक्षिस्पृहिगृहिभ्य आय्यः",
+    "padaccheda": "",
+    "anvaya": "आय्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212896,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्रवाय्यो यज्ञपशुः । दक्षाय्यो गरुडो गृध्रश्च । स्पृहयाय्यः । गृहयाय्यो गृहस्वामी ।"
+    }
+  ]
+}

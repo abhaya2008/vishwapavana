@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216678,
+    "chapter_id": 7843,
+    "verse_number": "५३",
+    "content_sanskrit": "घटरूपप्रत्यक्षजनने संयुक्तसमवायः सन्निकर्षः, चक्षुःसंयुक्ते घटे रूपस्य समवायात् ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": "संयुक्तसमवायः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216678,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "घटरूपेति । चक्षुषा इत्यनुषज्यते । तथा च द्रव्यसमवेतचाक्षुष-त्वाच-मानस-रासन-घ्राणजेषु संयुक्तसमवाय एव सन्निकर्ष इति भावः ।"
+    }
+  ]
+}

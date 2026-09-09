@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213482,
+    "chapter_id": 7799,
+    "verse_number": "१४८",
+    "content_sanskrit": "सहस्रः क्वचित्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 148,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213482,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं सहस्रः । इदं सहस्रम् । "
+    }
+  ]
+}

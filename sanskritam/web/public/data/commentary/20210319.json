@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210319,
+    "chapter_id": 7781,
+    "verse_number": "३२०",
+    "content_sanskrit": "बाड्",
+    "padaccheda": "बाडृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "आप्लाव्ये",
+    "meaning_english": "to bathe",
+    "audio_url": null,
+    "display_order": 320,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210319,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' आप्लाव्यम् = आप्लवनम् । सिद्धान्तकौमुदीबालमनोरमादिषु ' बाडृ ' इत्येव पठ्यते, बशादिः इति च । धातुवृत्तितरङ्गिण्यादिषु  ' वडृ ' ' वाडृ ' इति दृश्यते । ' वलेरित्येके ' इत्यपि क्षीरस्वामी ।"
+    }
+  ]
+}

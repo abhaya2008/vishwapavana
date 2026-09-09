@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212158,
+    "chapter_id": 7790,
+    "verse_number": "४०९",
+    "content_sanskrit": "श्रथ",
+    "padaccheda": "श्रथ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दौर्बल्ये",
+    "meaning_english": "to be weak",
+    "audio_url": null,
+    "display_order": 409,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212158,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

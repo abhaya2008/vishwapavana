@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210956,
+    "chapter_id": 7781,
+    "verse_number": "९५७",
+    "content_sanskrit": "भ्राज्",
+    "padaccheda": "टुभ्राजृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to shine, to glitter, to glow, to reign, to be lustrous",
+    "audio_url": null,
+    "display_order": 957,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210956,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "ऋदित् दीप्त्यर्थकः भ्राजृधातुः पूर्वमपि (181) पठितः । टिप्पणी तत्रैव द्रष्टव्या । ततोपि विस्तरः कृदन्तरूपमालायां द्रष्टुं शक्यः ।"
+    }
+  ]
+}

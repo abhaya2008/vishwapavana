@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202738,
+    "chapter_id": 7770,
+    "verse_number": "६.२.७६",
+    "content_sanskrit": "शिल्पिनि चाकृञः",
+    "padaccheda": "शिल्पिनि । च । अकृञः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), आदिः (६.२.६४), उदात्तः (६.२.६४), अणि (६.२.७५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202738,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "शिल्पिवाचिनि समासेऽणन्त उत्तरपदे पूर्वपदमाद्युदात्तं भवति, स चेदण् कृञो न भवति। तन्तु॑वायः। तुन्न॑वायः। वाल॑वायः। शिल्पिनीति किम् ? का॒ण्ड॒ला॒वः। अकृञ इति किम् ? कु॒म्भ॒का॒रः। अ॒य॒स्का॒रः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202738,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शिल्पिवाचिनि समासे अण्णन्ते परे पूर्वमाद्युदात्तं स चेदण कृञः परो न भवति । तन्तुवायः । शिल्पिनि किम् । काण्डलावः । अकृञः किम् । कुम्भकारः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202738,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अनियुक्तार्थ वचनम्। `अकृञः` इति। शिल्पिवशेषे प्रतिषेधं वक्ष्यामीत्येवमर्थञ्च। `तन्तुवायः` इति। `वेञ्? तन्तुसन्ताने` (धातुपाठः-1006) इति। तन्तून्? वयतीति ह्वावामश्च`  [[3.2.2]]  इत्यण्, `आतो युक्? चिण्कृतोः`  [[7.3.33]]  इति युक्। `अयस्कारः` ति। `अतः कृकमि`  [[8.3.46]]  इत्यादिना विसर्जनीयस्य सकारः। प्रत्युदाहरणेषु कृत्स्वर एव भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202738,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "युक्ते च इत्येव सिद्धे कृञः प्रतिषेधार्थ वचनतम् । तन्तुवाय इति ह्वावामश्च इत्यण्, अतो युक् । अयस्कार इति अतः कृकगम इत्यादिना विसर्जनीयस्य सत्वम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202738,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शिल्प्यर्थे समासे कृञोऽन्यस्मिन्नणन्ते परे प्राक्पदमाद्युदात्तं स्यात् । तन्तुवायः । कृञस्तु – स्तुवन्तो ब्रह्मकाराः । कुम्भकारः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202738,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And when such a compound ending in अण् -affix denotes the name of a professional man, but not when the second term कार(derived from कृञ्), the acute accent (उदात्त) is on the first syllable of the first word.\nHere also the second term ends in अण् affix. Thus त꣡न्तुवायः, तु꣡न्नवायः, वा꣡लवायः ॥ Why do we say when denoting 'a work-man or professional person'? Observe काण्डलावः꣡, शरलावः꣡ ॥ Why do we say 'but not when the affix अण् comes after कृ'? Observe कुम्भकारः꣡, अयस्कारः꣡ ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202738,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And when such a compound ending in अण् -affix denotes the name of a professional man, but not when the second term कार(derived from कृञ्), the acute accent (उदात्त) is on the first syllable of the first word."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216226,
+    "chapter_id": 7825,
+    "verse_number": "३६",
+    "content_sanskrit": "प्रकृतिवदनुकरणं भवति",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": "ननु क्षिय इत्यादावियङ् कथम् ? अत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216226,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्षियः' इतीयङ्निर्देशोऽस्या ज्ञापकः। तत्रैव प्रातिपदिकत्वनिबन्धनविभक्तिकरणादनित्या चेयमिति क्षियो दीर्घात् [[8.2.46]] इति सूत्रे भाष्ये स्पष्टम् ॥"
+    }
+  ]
+}

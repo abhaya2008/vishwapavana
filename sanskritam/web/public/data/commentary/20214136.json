@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214136,
+    "chapter_id": 7805,
+    "verse_number": "३४३",
+    "content_sanskrit": "क्रियाप्रधानं आख्यातं नाम्नां सत्त्वप्रधानता । चत्वारि पदजातानि सर्वं एतद्विरुध्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 343,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214136,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "चोदयति--\nस्पष्टोऽर्थः  ॥"
+    }
+  ]
+}

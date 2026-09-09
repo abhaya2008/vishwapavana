@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212633,
+    "chapter_id": 7792,
+    "verse_number": "११३",
+    "content_sanskrit": "स्थाचतिमृजेरालज्वालजालीयचः",
+    "padaccheda": "",
+    "anvaya": "आलच्, वालच्, आलीयच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212633,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तिष्ठतेरालच् । स्थालम् स्थाली । चतेर्वालच् । चत्वालः । मृजेरालीयच् । मार्जालीयो बिडालः ।"
+    }
+  ]
+}

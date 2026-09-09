@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210371,
+    "chapter_id": 7781,
+    "verse_number": "३७२",
+    "content_sanskrit": "लुण्ट्",
+    "padaccheda": "लुटिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "स्तेये",
+    "meaning_english": "to steal, to rob",
+    "audio_url": null,
+    "display_order": 372,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210371,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' लोटते प्रतिघातेर्थे स्तेये लुण्टति लुण्टयेत् ' (श्लो.74) इति देवः । ' लुठि ' इत्येके इति तरङ्गिण्याम् । किन्तु पुरुषकारे, ' लुण्ठेति क्षीरस्वामी ' इति उद्धृतम् । ' शाकटयानस्तु तृतीयान्तं (लुडि) पपाठ ' इति मा.धा.वृत्तिः । धातुकाव्येपि (2.66) एवमेव ।"
+    }
+  ]
+}

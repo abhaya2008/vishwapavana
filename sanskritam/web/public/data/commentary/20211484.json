@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211484,
+    "chapter_id": 7786,
+    "verse_number": "१५",
+    "content_sanskrit": "उच्छ्",
+    "padaccheda": "उछीँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विवासे",
+    "meaning_english": "to dwell abroad,to retire, to exile",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211484,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अतिक्रमणबन्धनवर्जनेषु च द्रुमे ' इति धातुकाव्ये । ' शशपोरुञ्छतीत्युञ्छे स्वरभेदाद् द्विरुच्यते । उच्छतीति विवासे स्यात् इदितोनिदितस्तयोः ' (श्लो.55) इति देवः ।"
+    }
+  ]
+}

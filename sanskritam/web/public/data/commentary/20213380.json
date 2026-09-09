@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213380,
+    "chapter_id": 7799,
+    "verse_number": "४६",
+    "content_sanskrit": "इषुबाहू स्त्रियां च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213380,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्पुंसि । "
+    }
+  ]
+}

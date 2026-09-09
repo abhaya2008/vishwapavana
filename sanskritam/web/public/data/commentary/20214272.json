@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214272,
+    "chapter_id": 7805,
+    "verse_number": "४७९",
+    "content_sanskrit": "संप्रसारणसंज्ञायां लिङ्गाभ्यां वर्णवाक्ययोः । प्रविभागस्तथा सूत्र एकस्मिन्नेव जायते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 479,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214272,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "लिङ्गाभ्यामुपदर्शिताभ्यां भाविभूतविभक्तिनिर्देशलक्षणाभ्यां तत्र एकस्मिन्नेव सूत्रे वर्णवाक्यार्थयोः संज्ञिनोः प्रयोगो लभ्यत इति ॥"
+    }
+  ]
+}

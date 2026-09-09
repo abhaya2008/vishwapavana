@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211425,
+    "chapter_id": 7784,
+    "verse_number": "१५७",
+    "content_sanskrit": "क्लिद्",
+    "padaccheda": "क्लिदूँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "आर्द्रीभावे",
+    "meaning_english": "to be wet, to be moist",
+    "audio_url": null,
+    "display_order": 157,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211425,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्लिन्दते क्लिन्दतीत्येवमिदितः परिदेवने । क्लिद्यतीत्यार्द्रभावेर्थे क्लिदेः श्यन्यूदितो भवेत् ' (श्लो. 102) इति देवः ।"
+    }
+  ]
+}

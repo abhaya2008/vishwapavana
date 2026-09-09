@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212117,
+    "chapter_id": 7790,
+    "verse_number": "३६८",
+    "content_sanskrit": "सद्",
+    "padaccheda": "षदँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पद्यर्थे",
+    "meaning_english": "to attack, to climb, to go",
+    "audio_url": null,
+    "display_order": 368,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212117,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "णिजभावे अनिट् अयं धातुः।"
+    }
+  ]
+}

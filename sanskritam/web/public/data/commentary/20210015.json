@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210015,
+    "chapter_id": 7781,
+    "verse_number": "१६",
+    "content_sanskrit": "मुद्",
+    "padaccheda": "मुदँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "हर्षे",
+    "meaning_english": "to be glad,to be happy, to rejoice, to delight",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210015,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — अनुमोदन करना\nप्र — बहुत आनन्दित होना, बहुत प्रसन्न होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210015,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " संसर्गे णिचि मोदयेदिति भवेद्धर्षे पुनर्मोदते' ( श्लो. 113 ) - देवः ।"
+    }
+  ]
+}

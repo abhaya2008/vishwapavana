@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212892,
+    "chapter_id": 7794,
+    "verse_number": "९२",
+    "content_sanskrit": "लोष्टपलितौ",
+    "padaccheda": "",
+    "anvaya": "क्त",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212892,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लुनातेः क्तः तस्य सुट् धातोर्गुणः । लोष्टम् । पलितम् ।"
+    }
+  ]
+}

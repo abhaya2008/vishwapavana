@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212523,
+    "chapter_id": 7792,
+    "verse_number": "३",
+    "content_sanskrit": "दॄसनिजनिचरिचटिभ्यो ञुण्",
+    "padaccheda": "",
+    "anvaya": "ञुण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212523,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दीर्यत इति दारु । स्नुः प्रस्थः सानुरस्त्रियाम् । जानु । जानुनी । इह [[7.3.35]] <<जनिवध्योश्च>> इति न निषेधः । अनुबन्धद्वयसामर्थ्यात् । चारु रम्यम् । चाटु प्रियं वाक्यम् । मृगय्वादित्वात्कुप्रत्यये चटु इत्यपि ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212524,
+    "chapter_id": 7792,
+    "verse_number": "४",
+    "content_sanskrit": "किञ्जरयोः श्रिणः",
+    "padaccheda": "",
+    "anvaya": "ञुण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212524,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "किं शृणोतीति किंशारुः सस्यशूकं बाणश्च । जरामेति जरायुर्गर्भाशयः । गर्भाशयो जरायुः स्यात् ।"
+    }
+  ]
+}

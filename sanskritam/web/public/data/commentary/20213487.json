@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213487,
+    "chapter_id": 7799,
+    "verse_number": "१५३",
+    "content_sanskrit": "अप्सराः स्त्रियाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213487,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एता अप्सरसः । प्रायेणायं बहुवचनान्तः ।"
+    }
+  ]
+}

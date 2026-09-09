@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213130,
+    "chapter_id": 7795,
+    "verse_number": "१७०",
+    "content_sanskrit": "भूवादिगॄभ्यो णित्रन्",
+    "padaccheda": "",
+    "anvaya": "णित्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 170,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213130,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भावित्रम् । वादित्रम् । गादित्रमोदनम् ।"
+    }
+  ]
+}

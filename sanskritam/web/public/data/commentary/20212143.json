@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212143,
+    "chapter_id": 7790,
+    "verse_number": "३९४",
+    "content_sanskrit": "पठ",
+    "padaccheda": "पठ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "ग्रन्थे वेष्टने च",
+    "meaning_english": "to clothe, to knead, to cover, to make parts",
+    "audio_url": null,
+    "display_order": 394,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212143,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' वेष्टने ' इति क्षीरस्वामी । ' भाषार्थे पाटयेद् ग्रन्थे पटयेद् गमने पटेत् ' (श्लो. 76) - देवः ।"
+    }
+  ]
+}

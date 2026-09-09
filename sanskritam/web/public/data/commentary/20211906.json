@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211906,
+    "chapter_id": 7790,
+    "verse_number": "१५७",
+    "content_sanskrit": "कुम्ब्",
+    "padaccheda": "कुबिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आच्छादने",
+    "meaning_english": "to cover",
+    "audio_url": null,
+    "display_order": 157,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211906,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णिचि कुम्ब्रयतीति स्यात्, छादने शपि कुम्बति ' (श्लो. 140) इति देवः । ' कुभि ' इत्येके ।"
+    }
+  ]
+}

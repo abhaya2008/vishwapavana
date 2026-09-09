@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213262,
+    "chapter_id": 7796,
+    "verse_number": "६४",
+    "content_sanskrit": "हन्तेरच् घुर च",
+    "padaccheda": "",
+    "anvaya": "अच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213262,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "घोरम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213346,
+    "chapter_id": 7799,
+    "verse_number": "१२",
+    "content_sanskrit": "य्वन्तमेकाक्षरम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213346,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्रीः । भूः । एकाक्षरं किम् ? पृथुश्रीः ।"
+    }
+  ]
+}

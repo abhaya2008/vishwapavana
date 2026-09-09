@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212903,
+    "chapter_id": 7794,
+    "verse_number": "१०३",
+    "content_sanskrit": "पर्जन्यः",
+    "padaccheda": "",
+    "anvaya": "अन्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212903,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पृषु सेचने । षस्य जः । पर्जन्यः शक्रमेघयोः ।"
+    }
+  ]
+}

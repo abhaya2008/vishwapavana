@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210776,
+    "chapter_id": 7781,
+    "verse_number": "७७७",
+    "content_sanskrit": "भूष्",
+    "padaccheda": "भूषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अलङ्कारे",
+    "meaning_english": "to adorn,to decorate",
+    "audio_url": null,
+    "display_order": 777,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210776,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " .. भूषति भूषयेत् । अलङ्कृतौ ..' (श्लो. 172-3) इति देवः । माधावीयधा धातुवृत्तिपर्या पर्यालोचनया ज्ञायते यत् केचन अमुं धातुं न पठन्ति इति । कौमुद्यादिषु अयं दृश्यते एव ।"
+    }
+  ]
+}

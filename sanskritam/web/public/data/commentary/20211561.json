@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211561,
+    "chapter_id": 7786,
+    "verse_number": "९२",
+    "content_sanskrit": "लिख्",
+    "padaccheda": "लिखँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "अक्षरविन्यासे",
+    "meaning_english": "to write,to scratch,to draw, to scribble",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211561,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — चित्र चितारना, स्पष्ट रूप से लिखना, विशेष रूप से लिखना"
+    }
+  ]
+}

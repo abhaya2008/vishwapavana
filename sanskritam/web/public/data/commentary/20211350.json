@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211350,
+    "chapter_id": 7784,
+    "verse_number": "८२",
+    "content_sanskrit": "दुष्",
+    "padaccheda": "दुषँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "वैकृत्ये",
+    "meaning_english": "to sin, to soil, to make impure, to cause pain, to hurt",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211350,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वैकृत्यं रूपभङ्गः ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

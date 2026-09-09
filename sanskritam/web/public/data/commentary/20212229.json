@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212229,
+    "chapter_id": 7790,
+    "verse_number": "४८०",
+    "content_sanskrit": "छेद",
+    "padaccheda": "छेद",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "द्वैधीकरणे",
+    "meaning_english": "to cut",
+    "audio_url": null,
+    "display_order": 480,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212229,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — पृथक करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212229,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।"
+    }
+  ]
+}

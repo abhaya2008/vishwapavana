@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211990,
+    "chapter_id": 7790,
+    "verse_number": "२४१",
+    "content_sanskrit": "जम्भ्",
+    "padaccheda": "जभिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "नाशने",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 241,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211990,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' जृम्भणे जम्भते यामे जम्भेन्नाशे तु जम्भयेत् ' (श्लो. 145) - देवः ।"
+    }
+  ]
+}

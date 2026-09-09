@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210963,
+    "chapter_id": 7781,
+    "verse_number": "९६४",
+    "content_sanskrit": "स्तम्",
+    "padaccheda": "ष्टमँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अवैकल्ये",
+    "meaning_english": "to be calm, to be coolheaded",
+    "audio_url": null,
+    "display_order": 964,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210963,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सिद्धान्तकौमुद्यादिषु केषुचिदेवायं पठितः । ' वैक्लव्ये ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

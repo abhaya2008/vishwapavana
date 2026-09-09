@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211429,
+    "chapter_id": 7784,
+    "verse_number": "१६१",
+    "content_sanskrit": "गृध्",
+    "padaccheda": "गृधुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "अभिकाङ्क्षायाम्",
+    "meaning_english": "to desire, to long",
+    "audio_url": null,
+    "display_order": 161,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211429,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गृधेर्गृध्यति काङ्क्षायां गर्धेस्तत्रैव गर्धयेत् ' (श्लो. 123) इति देवः ।"
+    }
+  ]
+}

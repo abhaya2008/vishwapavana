@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212625,
+    "chapter_id": 7792,
+    "verse_number": "१०५",
+    "content_sanskrit": "शपेर्बश्च",
+    "padaccheda": "",
+    "anvaya": "कल",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212625,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शबलः ।"
+    }
+  ]
+}

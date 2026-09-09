@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212580,
+    "chapter_id": 7792,
+    "verse_number": "६०",
+    "content_sanskrit": "शदेस्त च",
+    "padaccheda": "",
+    "anvaya": "एरक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212580,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शतेरः शत्रुः ।"
+    }
+  ]
+}

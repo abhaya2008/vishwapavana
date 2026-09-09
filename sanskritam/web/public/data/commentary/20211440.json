@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211440,
+    "chapter_id": 7785,
+    "verse_number": "९",
+    "content_sanskrit": "धु",
+    "padaccheda": "धुञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "कम्पने",
+    "meaning_english": "to shake,to tremble",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211440,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धूनयति धवति धवते, धुनोति धुनुते, धुनाति च धुनीते । धूनोति धूनुते स्युः पदानि कम्पे, विधूनने धूवति ' (श्लो. 26) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211493,
+    "chapter_id": 7786,
+    "verse_number": "२४",
+    "content_sanskrit": "उज्झ्",
+    "padaccheda": "उज्झँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "उत्सर्गे",
+    "meaning_english": "to abandon,to leave",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211493,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयमपि दोपधः ।"
+    }
+  ]
+}

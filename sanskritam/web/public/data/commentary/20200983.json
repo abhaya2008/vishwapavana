@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20200983,
+    "chapter_id": 7759,
+    "verse_number": "३.३.२७",
+    "content_sanskrit": "प्रे द्रुस्तुस्रुवः",
+    "padaccheda": "प्रे । द्रु-स्तु-स्रुवः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200983,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रशब्द उपपदे द्रु स्तु स्रु इत्येतेभ्यो धातुभ्यो घञ् प्रत्ययो भवति। प्रद्रावः। प्रस्तावः। प्रस्रावः। प्र इति किम्? द्रवः। स्तवः। स्रवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200983,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्रद्रावः । प्रस्तावः । प्रस्रावः । प्रे इति किम् । द्रवः । स्तवः । स्रवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200983,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्रद्रावः । प्रस्तावः । प्रस्रावः । स्रावश्च भोजोक्तः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200983,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the roots 1. द्रु 'to run' 2. स्तु 'to praise' 3. श्रु 'to move and hear' when the word in composition is प्र।\nAs प्रद्रावः, प्रस्तावः, प्रस्रावः। But not so in द्रवः, स्तवः and स्रवः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200983,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the roots 1. द्रु 'to run' 2. स्तु 'to praise' 3. श्रु 'to move and hear' when the word in composition is प्र।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200983,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "उन्नायानधिगच्छन्तः प्रद्रावैर्वसुधा-भृताम् (भट्टिकाव्यम् 7.37) — `प्रे द्रु-स्तु-स्रुवः` इति घन् ।"
+    }
+  ]
+}

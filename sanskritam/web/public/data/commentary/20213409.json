@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213409,
+    "chapter_id": 7799,
+    "verse_number": "७५",
+    "content_sanskrit": "जघनाकिनतुहिनकाननवनवृजिनविपिनवेतनशासनसोपानमिथुनश्मशानरत्ननिम्नचिह्नानि नपुंसके",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213409,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पूर्वस्यापवादः ।"
+    }
+  ]
+}

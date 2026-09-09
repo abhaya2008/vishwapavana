@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213251,
+    "chapter_id": 7796,
+    "verse_number": "५३",
+    "content_sanskrit": "अर्भकपृथुकपाका वयसि",
+    "padaccheda": "",
+    "anvaya": "वुन्, कुकन्, कन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213251,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऋधु वृद्धो । अतो वुन् । भकारश्चान्तादेशः । प्रथेः कुकन्संप्रसारणं च । पिबतेः कन् ।"
+    }
+  ]
+}

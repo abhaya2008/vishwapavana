@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216667,
+    "chapter_id": 7843,
+    "verse_number": "४२",
+    "content_sanskrit": "कार्यं प्रागभावप्रतियोगी ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": "कार्यम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216667,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "कार्यमिति । कालादिवारणाय प्रागिति । असम्भववारणाय प्रतियोगीति ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212907,
+    "chapter_id": 7794,
+    "verse_number": "१०७",
+    "content_sanskrit": "वृञश्चित्",
+    "padaccheda": "",
+    "anvaya": "अत्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 107,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212907,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वरत्रा चर्ममयी रज्जुः ।"
+    }
+  ]
+}

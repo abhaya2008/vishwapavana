@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210578,
+    "chapter_id": 7781,
+    "verse_number": "५७९",
+    "content_sanskrit": "म्लेव्",
+    "padaccheda": "म्लेवृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सेवने",
+    "meaning_english": "to serve, to devote oneself, practise",
+    "audio_url": null,
+    "display_order": 579,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210578,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' शेवृ खेवृ केवृ ' इत्यप्येके ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210788,
+    "chapter_id": 7781,
+    "verse_number": "७८९",
+    "content_sanskrit": "रुष्",
+    "padaccheda": "रुषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 789,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210788,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शपि रोषति हिंसायां , रोषे रुष्यति रोषयेत् ' ( श्लो. 179 ) इति देवः ।"
+    }
+  ]
+}

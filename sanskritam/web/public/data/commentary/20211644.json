@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211644,
+    "chapter_id": 7787,
+    "verse_number": "१",
+    "content_sanskrit": "रुध्",
+    "padaccheda": "रुधिँर्",
+    "anvaya": "U-पदी, गणः 7",
+    "meaning_sanskrit": "आवरणे",
+    "meaning_english": "to obstruct, to surround, to besiege, to enclose, to obscure",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211644,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि + सम् — प्रतिरोध करना, मना करना\nअव — सावधान रहना, चतुरता से रहना\nउप — घेरना\nप्रति — रोकना\nसम् + नि — बंद करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211644,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' आवरणम् = व्याप्तिः ' इति क्षीरस्वामी । ' रुन्धे रुणध्यावरणे, कामेनावनुरुध्यते ' (श्लो. 121) इति देवः ।"
+    }
+  ]
+}

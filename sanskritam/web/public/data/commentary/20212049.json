@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212049,
+    "chapter_id": 7790,
+    "verse_number": "३००",
+    "content_sanskrit": "बर्ह्",
+    "padaccheda": "बर्हँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 300,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212049,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वृद्धौ, भाषार्थविषये बृंहयेद् बर्हयेदिति ' (श्लो. 198) - देवः ।"
+    }
+  ]
+}

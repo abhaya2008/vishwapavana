@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210750,
+    "chapter_id": 7781,
+    "verse_number": "७५१",
+    "content_sanskrit": "स्तृक्ष्",
+    "padaccheda": "ष्टृक्षँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to kiss",
+    "audio_url": null,
+    "display_order": 751,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210750,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अयं षोपधः । षस्य सत्वे ष्टुत्वनिवृत्तिरिति भावः ' इति बालमनोरमा । तत्वबोधिन्यां तु ' स्तृक्ष ' इत्येव पाठः । ' प्टृक्ष ' इति मैत्रेयः ।"
+    }
+  ]
+}

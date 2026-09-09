@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211868,
+    "chapter_id": 7790,
+    "verse_number": "११९",
+    "content_sanskrit": "यम्",
+    "padaccheda": "यमँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिवेषणे",
+    "meaning_english": "to keep under control, to nourish, to nurture, to serve food",
+    "audio_url": null,
+    "display_order": 119,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211868,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' यमेरुपरमे यच्छेत् यमयेत् परिवेषणे ' (श्लो. 148) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213024,
+    "chapter_id": 7795,
+    "verse_number": "६४",
+    "content_sanskrit": "सूङः क्रिः",
+    "padaccheda": "",
+    "anvaya": "क्रि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213024,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सूरिः ।"
+    }
+  ]
+}

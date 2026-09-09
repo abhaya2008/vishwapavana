@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211274,
+    "chapter_id": 7784,
+    "verse_number": "६",
+    "content_sanskrit": "स्नस्",
+    "padaccheda": "ष्णसुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "अदने निरसने च",
+    "meaning_english": "to spit, to rinse the mouth",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211274,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आदाने इत्येके । अदर्शने इति द्रमिडाः इति धातुवृत्तिः । स्वामिकाश्यपा काश्यपादिमतानुसारेण अयं धातुः माधवीयादिषु पठितः ।"
+    }
+  ]
+}

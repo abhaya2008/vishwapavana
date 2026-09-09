@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203059,
+    "chapter_id": 7772,
+    "verse_number": "६.४.५९",
+    "content_sanskrit": "क्षियः",
+    "padaccheda": "क्षियः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": "अनुवृत्तिः — ल्यपि (६.४.५६), दीर्घः (६.४.५८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203059,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "क्षियश्च दीर्घो भवति ल्यपि परतः। प्रक्षीय॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203059,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्षियो ल्यपि दीर्घः स्यात् । प्रक्षीय ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203059,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`छन्दसि` इति निवृत्तम्। `क्षियः` इति `निरनुबन्धकग्रहणे न सानुबन्धकस्य` (व्या।प।53) इति `क्षि क्षये` (धातुपाठः-236) `क्षि निवासगत्योः` (धातुपाठः-1407) इत्यनयोग्र्रहणम्, न `क्षिष्? हिंसायाम्` (धातुपाठः-1506) [`क्षीष्` -धातुपाठः-] इत्यस्य॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203059,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्य ल्यपि दीर्घः स्यात् । प्रक्षीय । 'वेत्येक' इति कौमुदी । प्रक्षित्य ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203059,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A long is substituted for the इ of क्षि before the Absolutive affix ल्यप्।\nAs प्रक्षीय, उपक्षीय ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203059,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A long is substituted for the इ of क्षि before the Absolutive affix ल्यप्।"
+    }
+  ]
+}

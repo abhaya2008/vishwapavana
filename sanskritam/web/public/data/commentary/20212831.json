@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212831,
+    "chapter_id": 7794,
+    "verse_number": "३१",
+    "content_sanskrit": "गमेः सन्वच्च",
+    "padaccheda": "",
+    "anvaya": "क्त्नु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212831,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जिगत्नुः ।"
+    }
+  ]
+}

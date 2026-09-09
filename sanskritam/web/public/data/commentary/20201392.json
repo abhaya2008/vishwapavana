@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201392,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१४३",
+    "content_sanskrit": "स्वसुश्छः",
+    "padaccheda": "स्वसुः । छः",
+    "anvaya": "'तस्य अपत्यम्' (इति) स्वसुः छः ",
+    "meaning_sanskrit": "'तस्य अपत्यम्' अस्मिन् अर्थे 'स्वसृ'शब्दात् छ-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.१.९२), अपत्यम् (४.१.९२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201392,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "स्वसृशब्दादपत्ये छः प्रत्ययो भवति। अणोऽपवादः। स्वसुरपत्यं स्वस्रीयः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201392,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "स्वस्त्रीयः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201392,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<स्वसुश्छः>> - स्वसुश्छः । 'अपत्ये' इति शेषः । स्वस्त्रीय इति । छस्य ईयादेशः, ऋकारस्य यण् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201392,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "स्वस्रीयः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201392,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छ comes in the sense of descendant after the word स्वसृ।\nThis debars अण् ॥ Thus स्वस्रीयः 'the sister's son.'"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201392,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छ comes in the sense of descendant after the word स्वसृ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210858,
+    "chapter_id": 7781,
+    "verse_number": "८५९",
+    "content_sanskrit": "भ्रंस्",
+    "padaccheda": "भ्रन्सुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अवस्रंसने",
+    "meaning_english": "to fall down,to drop,to slip off,to hang down, to slide, to deteriorate",
+    "audio_url": null,
+    "display_order": 859,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210858,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भ्रंशु इत्यपि केचित् पेठुः । अत्र ( स्रंसु ध्वंसु भ्रंसु इत्यत्र ) तृतीयः एव तालव्यान्तः इत्यन्ये ' इति कौमुदी ।"
+    }
+  ]
+}

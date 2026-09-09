@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212109,
+    "chapter_id": 7790,
+    "verse_number": "३६०",
+    "content_sanskrit": "श्रथ्",
+    "padaccheda": "श्रथँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "मोक्षणे हिंसायां च",
+    "meaning_english": "to set free, to  leave, to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 360,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212109,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसायाम् ' इति केचित् । ' दौर्बल्ये श्रथयेत् प्रयत्नविषये स्याच्छ्राथयेत् मोक्षणे । यौ तु श्राथयति श्रथत्यपि च वा णौ श्रन्थयेत् श्रन्थति । सन्दर्भे श्नि विमोचनार्थविषये श्रथ्नात्यथ श्रन्थते, शैथिल्ये.. ' (श्लो. 101) - देवः ।"
+    }
+  ]
+}

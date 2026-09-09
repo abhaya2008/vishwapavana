@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211366,
+    "chapter_id": 7784,
+    "verse_number": "९८",
+    "content_sanskrit": "शम्",
+    "padaccheda": "शमुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "उपशमे",
+    "meaning_english": "to be calm, to be pacified, to be quiet",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211366,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उप — शांत करना\nनि — सुनना, रोकना\nप्र — शांत होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211366,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उपशमः नाशः इन्द्रियनिग्रहश्च । ' आलोचने शमयते शाम्यत्युपशमे श्यनि ' (श्लो. 149) इति देवः ।"
+    }
+  ]
+}

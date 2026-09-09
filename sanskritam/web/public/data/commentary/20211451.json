@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211451,
+    "chapter_id": 7785,
+    "verse_number": "२०",
+    "content_sanskrit": "अश्",
+    "padaccheda": "अशूँ",
+    "anvaya": "A-पदी, गणः 5",
+    "meaning_sanskrit": "व्याप्तौ सङ्घाते च",
+    "meaning_english": "to pervade,to heap,to pile up",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211451,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " व्याप्तावश्नुत इत्याहुरश्नातीति तु भोजने ' इति देवः । (166)"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200923,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१५५",
+    "content_sanskrit": "जल्पभिक्षकुट्टलुण्टवृङः षाकन्",
+    "padaccheda": "जल्प-भिक्ष-कुट्ट-लुण्ट-वृङः । षाकन्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200923,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "जल्पादिभ्यो धातुभ्यस्तच्छीलादिषु कर्तृषु षाकन् प्रत्ययो भवति। षकारो ङीषर्थः। जल्पाकः। भिक्षाकः। कुट्टाकः। लुण्टाकः। वराकः। वराकः। वराकी॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200923,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "जल्पाकः । भिक्षाकः । कुट्टाकः । लुण्टाकः । वराकः । वराकी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200923,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<जल्पभिक्षकुट्टलुण्टवृङः षाकन्>> - पुवः संज्ञायाम् । 'इत्र' इति शेषः । करणे इत्येव । पवित्रमिति । पूयते अनेनाऽऽज्यामिति विग्रहः । तदाह —  येनाज्यमिति । पूयते आचमनोदकादिकमनेनेति विग्रहं मत्वाऽऽह —  यच्चानामिकेति । अनामिका  — उपकनिष्ठिकाह्गुलिः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200923,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<जल्पभिक्षकुट्टलुण्टवृङः षाकन्>> - पुवः । पूङ्पूञोरुभयोग्र्रहणमविशेषात् । करण इत्यनुवृत्तेराह —  येनाज्यमिति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200923,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "जल्पभिक्षकुट्टलुण्टवृङ्ः षाकन् 'जल्प जप व्यक्तायां वाचि' ,'भिक्ष याच्ञायाम्' 'कुट्ट छेदने' 'लुण्ठ स्येये - चौरादिकौ, ठ्वृङ् सम्भक्तौ' ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200923,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "जल्पाकः । भिक्षाकः । कुट्टाकः छेत्ता । लुण्टाकः स्तेयशीलः । वराको याचिता । षित्त्वात् ङीष् जल्पाकीत्यादि ।।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200923,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix षाकन् comes, in the sense of 'agent having such habit etc.' after the following verbs - 1. जल्प् 2. भिक्ष् 3. कुट्ट 4. लुण्ट 5.वृङ ।\nThe ष is indicatory showing that the feminine of the words so formed take the affix ङीष् i. e. long ई [[4.1.41]]. As जल्पाकः 'talkative'; भिक्षाकः 'a beggar'; कुट्टाकः 'who or what cuts'; लुण्टाकः 'a thief or robber'; वराकः 'low, miserable'. In the feminine जल्पाकी &c."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200923,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix षाकन् comes, in the sense of 'agent having such habit etc.' after the following verbs - 1. जल्प् 2. भिक्ष् 3. कुट्ट 4. लुण्ट 5.वृङ ।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200923,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "जल्पाकीभिः सहाऽऽसीनः (भट्टिकाव्यम् 7.19) — `जल्प- भिक्ष` इति षाकन्।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211463,
+    "chapter_id": 7785,
+    "verse_number": "३२",
+    "content_sanskrit": "रि",
+    "padaccheda": "रि",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to damage, to hurt",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211463,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "छान्दसः । अयं धातुः क्षीरतरङ्गिण्यां न दृश्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200955,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१८७",
+    "content_sanskrit": "ञीतः क्तः",
+    "padaccheda": "ञीतः । क्तः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 187,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200955,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ञि इद् यस्यासौ ञीत्। ञीतो धातोर्वर्तमानेऽर्थे क्तप्रत्ययो भवति। भूते निष्ठा विहिता वर्तमाने न प्राप्नोतीति विधीयते। <<ञिमिदा स्नेहने>> — मिन्नः। ञिक्ष्विदा — क्ष्विण्णः। ञिधृषा — धृष्टः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200955,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ञिक्ष्विदा । क्ष्विण्णः । ञि इन्धी । इद्धः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200955,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ञीतः क्तः>> - ञीतः क्तः । ञि इद्यस्य तस्माद्वर्तमानाक्रियावृत्तेः क्त इत्यर्थः ।तयोरेव कृत्युक्ते॑ति भावकर्मणोरेव भूते विहितः क्तो वर्तमाने न प्राप्नोतीत्यारम्भः । क्ष्विण्ण इति ।आदिश्चे॑ति नेट् । इद्ध इति । श्वीदितः॑ इति नेट् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200955,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<ञीतः क्तः>> - क्ष्विण्ण इति ।आदितश्चे॑ति नेट् । इद्ध इति ।श्वीदितः॑ इति नेट् । नलोपः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200955,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`मिन्न` इति। <<आदितश्च>> [[7.2.16]]  इतीट्प्रतिषेधः। `रदाभ्याम्`  [[8.2.42]]  इति नत्वम्। एवं `क्ष्विण्णः` इत्यात्रापि। `अट्कुप्वाङ` [[8.4.2]]  इत्यादिना णत्वम्। `धृष्टः` इति। `धुपिशसी वैयात्ये`  [[7.2.19]]  इतीट्प्रतिषेधः, <<ष्टुना ष्टुः>> [[8.4.41]]  इति ष्टुत्वम्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200955,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ञीतः क्तः॥ भूते निष्ठा विहितेत्यादि। तत्र येननाप्राप्तिन्यायेन क्तस्यैव वर्तमानविषयतया भूतविषयता बाध्यते, यथा -'वडवाया वृषे वाच्ये'  इत्यत्र वक्ष्यते - अपत्ये प्राप्तस्ततोऽपकृष्य वृषे विधीयत इति। एवमुतरविहितस्यापि। ज्ञातमित्येततु भूतेऽपि भवति, तेनेत्यधिकारे उपज्ञात इति तद्धितविधानात्। वर्तमाने हि'क्तस्य च वर्तमाने'  इति षष्ठ।ल भाव्यम्। एवं च'पूजितो यः सुरैरपि'  इत्यादीनां साधुत्वं चिन्त्यम्॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200955,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ञीद्वचो धातुभ्यो वर्तमान एव क्तः स्यात् । 'ञिभी भये' । भीतः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200955,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The verbal roots marked with an indicatory ञि , take the affix क्त , in denoting the present time.\nThe <i>Nishtha</i> affix क्त, as a general rule, is a past participial affix and denotes past time; and is so ordained by rule (III 2.102). The present <i>sutra</i> thus makes an exception in case of those verbs which are marked with an indicatory ञि in the <i>Dhatupatha</i>; as ञिमिदा 'to be affectionately inclined'; मिन्नः (मिद् + क्त = मिङ् + त = मिन् + न [[8.2.42]] 'being affectionately inclined'. So ञिक्षिवदा — क्ष्विणः 'sounding inarticulately'; ञिधृषा — धृष्टः 'bold'. The <i>anuvritti</i> of वर्तमाने 'in the sense of the present', is read into this <i>sutra</i> from [[3.2.123]]."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200955,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The verbal roots marked with an indicatory ञि , take the affix क्त , in denoting the present time."
+    }
+  ]
+}

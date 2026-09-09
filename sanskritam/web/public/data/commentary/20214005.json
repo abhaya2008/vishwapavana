@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214005,
+    "chapter_id": 7805,
+    "verse_number": "२१२",
+    "content_sanskrit": "अभिव्यक्ततरो योऽर्थः प्रत्ययान्तेषु लक्ष्यते । अर्थवत्ताप्रकरणादाश्रितः स तथाविधः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 212,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214005,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "यद्यप्युक्तम् 'अर्थवन्तो वर्णा धातुप्रतिपदिकप्रत्ययनिपातानामेकवर्णानामर्थदर्शनात्' इति, तत्राह-- ॥"
+    }
+  ]
+}

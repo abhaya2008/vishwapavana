@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211689,
+    "chapter_id": 7789,
+    "verse_number": "११",
+    "content_sanskrit": "यु",
+    "padaccheda": "युञ्",
+    "anvaya": "U-पदी, गणः 9",
+    "meaning_sanskrit": "बन्धने",
+    "meaning_english": "to tie, to bind",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211689,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' यावयेत जुगुप्सायाम् , मिश्रणे यौति , बन्धने । युनाति च युनीते च ... ' ( श्लो. 24) इति देवः ।"
+    }
+  ]
+}

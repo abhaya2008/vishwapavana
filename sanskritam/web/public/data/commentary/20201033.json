@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201033,
+    "chapter_id": 7759,
+    "verse_number": "३.३.७७",
+    "content_sanskrit": "मूर्तौ घनः",
+    "padaccheda": "मूर्तौ । घनः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), हनः (३.३.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201033,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "हन इत्येव। मूर्तिः काठिन्यम्। मूर्तावभिधेयायां हन्तेरप् प्रत्ययो भवति, घनश्चादेशः। अभ्रघनः। दधिघनः। कथं घनं दधीति? धर्मशब्देन धर्मी भण्यते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201033,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "मूर्तिः काठिण्यं तस्मिन्नभिधेये हन्तेरप् स्यात् घनश्चादेशः । अभ्रघनः । कथं सैन्धवघनमानयेति । धर्मशब्देन धर्मी लक्ष्यते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201033,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अभ्रवनः` इति। षष्ठासमासोऽयम्। अभ्रस्य काठिन्यमित्यर्थः। यदि मूर्तावभिधेयायां घनशब्दो व्युत्पाद्यते - घनं दधीति, मूर्तिमतो दघ्नो नाभिधानं प्राप्नोति, कथं हि नाम मूर्त्तौ व्युत्पादितस्ततोऽन्यत्र वर्ततते? इत्यत आह - `धर्मशब्देन धर्मी भण्यते` इति। मतुबालोपादभेदोपचारः, यथा - शुक्लः पटः। शुक्लशब्देन शुक्लगुणः पट इति भावः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201033,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अभ्रघन इति । अभ्रस्य काठिन्यमित्यर्थः । धर्मशब्देनेति । शुल्कादिवदिति भावः । यद्येवम्, गुणेनेति प्रतिषेधात्समासो न प्राप्नोति, तत्स्थैश्च गुणैरित्येतदपि नास्ति ? इदानीमेव ह्युक्तम् -'धर्मशब्देन धर्मी भण्यते'  इति वक्तव्योऽत्र समासः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201033,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "काठिन्ये वाच्ये हन्तेरप् घनादेशश्च । दघ्नो घनः काठिन्यम् । कठिनेऽप्यस्ति । घनं दधि ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201033,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes after the verb हन् 'to kill' when the word so formed means 'solidity' and घन् is the substitute.\nThe word मूर्त्ति means 'hardness', 'solidity'. Thus अभ्रघनः 'a mass of cloud'; दधिघनः 'solid curd'. How do we say घनं दधि ? Here the quality is taken for the thing qualified."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201033,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes after the verb हन् 'to kill' when the word so formed means 'solidity' and घन् is the substitute."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201033,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "द्वारं तमो-घन-प्रख्यं (भट्टिकाव्यम् 7.61) — `मूर्ती घनः` इति हन्तेरप्प्रत्ययो घनादेशश्च निपात्यते।"
+    }
+  ]
+}

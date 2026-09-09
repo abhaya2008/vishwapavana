@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213034,
+    "chapter_id": 7795,
+    "verse_number": "७४",
+    "content_sanskrit": "पुरः कुषन्",
+    "padaccheda": "",
+    "anvaya": "कुषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213034,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पुर अग्रगमने । पुरुषः । [[6.3.137]] <<अन्येषामपि –>> इति दीर्घः । पूरुषः ।"
+    }
+  ]
+}

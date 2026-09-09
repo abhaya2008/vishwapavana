@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210800,
+    "chapter_id": 7781,
+    "verse_number": "८०१",
+    "content_sanskrit": "प्लुष्",
+    "padaccheda": "प्लुषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दाहे",
+    "meaning_english": "to set on fire",
+    "audio_url": null,
+    "display_order": 801,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210800,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ... दाहकर्मणि । प्लोषति , प्लुष्यतीति स्तां , प्लुष्णाति स्नेहनादिषु ' (श्लो. 171 - 172 ) इति देवः ।"
+    }
+  ]
+}

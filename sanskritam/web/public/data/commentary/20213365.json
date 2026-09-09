@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213365,
+    "chapter_id": 7799,
+    "verse_number": "३१",
+    "content_sanskrit": "तृटिसीमासंबध्याः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213365,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं तृटिः । सीमा । संबध्या । "
+    }
+  ]
+}

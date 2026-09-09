@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213511,
+    "chapter_id": 7799,
+    "verse_number": "१७७",
+    "content_sanskrit": "घृतभूतमुस्तक्ष्वेलितैरावतपुस्तकबुस्तलोहिताः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 177,
+    "avatarnika": "पुंनपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213511,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं घृतः । इदं घृतम् ।"
+    }
+  ]
+}

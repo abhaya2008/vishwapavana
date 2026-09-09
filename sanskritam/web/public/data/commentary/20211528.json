@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211528,
+    "chapter_id": 7786,
+    "verse_number": "५९",
+    "content_sanskrit": "पुण्",
+    "padaccheda": "पुणँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "कर्मणि शुभे",
+    "meaning_english": "to be pure, to be virtuous,to do a holy work",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211528,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' पुण कर्मणि शब्दे च ' इति क्षीरस्वामिसम्मतः पाठः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212512,
+    "chapter_id": 7791,
+    "verse_number": "२५४",
+    "content_sanskrit": "अहर् । गीर् । धुर् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 254,
+    "avatarnika": "अहरादिः (8.2.70)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212512,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "अहरादीनां पत्यादिषु वा रेफः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211328,
+    "chapter_id": 7784,
+    "verse_number": "६०",
+    "content_sanskrit": "मृष्",
+    "padaccheda": "मृषँ",
+    "anvaya": "U-पदी, गणः 4",
+    "meaning_sanskrit": "तितिक्षायाम्",
+    "meaning_english": "to tolerate,to bear,to endure,to suffer,to forgive",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211328,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ... क्षमायां यौ , मर्षेन्मर्षेत मर्षयेत् । मृष्यते मृष्यतीति स्यात् स्नेहने शपि मर्षति ' (श्लो. 173) इति देवः ।"
+    }
+  ]
+}

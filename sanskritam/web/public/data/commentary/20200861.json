@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200861,
+    "chapter_id": 7758,
+    "verse_number": "३.२.९३",
+    "content_sanskrit": "कर्मणीनिविक्रियः",
+    "padaccheda": "कर्मणि । इनिः । विक्रियः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200861,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कर्मण्युपपदे विपूर्वात् क्रीणातेर्धातोरिनिः प्रत्ययो भवति। कर्मणीति वर्तमाने पुनः कर्मग्रहणं कर्तुः कुत्सानिमित्ते कर्मणि यथा स्यात्, कर्ममात्रे मा भूत्। सोमविक्रयी। रसविक्रयी। इह न भवति — धान्यविक्रायः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200861,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कर्मण्युपपदे विपूर्वात्क्रीणातेरिनिः स्यात् ।<!कुत्सितग्रहणं कर्तव्यम् !> (वार्तिकम्) ॥ सोमविक्रयी । घृतविक्रयी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200861,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कर्मणीनिविक्रियः>> - कर्मणीनि विक्रियः । 'इनि' इत्यविभक्तिकम् । विपूर्वस्य क्रीञ्धातोर्विक्रिय इति पञ्चम्यन्तम् । कुत्सितेति । कुत्सिते कर्मण्युपपदे उक्तविधिर्भवतीत्यर्थः । सोमविक्रयीति । सोमद्रव्यं च विक्रीयमाणं विक्रेतुः कुत्सामावहति, तद्विक्रयस्य निषिद्धत्वादिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200861,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`कर्मणीति वर्तमाने` इत्यादि। `कर्मणिहनः`  [[3.2.86]]  इत्यतः। `पुनः कर्मग्रहणम्` इत्यादि। यत् कर्म क्रियासम्बन्धमनुभवत् कर्त्तुः कुत्सामावहति,तत् कुत्सानिमित्तं कर्म यथा स्यादित्येवमर्थम्। कर्मग्रहणेऽनुवर्तमाने पुनः कर्मग्रहणमनन्तरसूत्रे यत् कर्मप्रत्ययार्थत्वेऽनिष्टं कर्मग्रहणं तन्निवृत्त्यर्थम्। कर्मग्रहणं कस्मान्न भवति? तस्य स्वरितत्वादेवानुवृत्तेः। `सोमविक्रयी` इति। सोमविक्रयणं शास्त्रे प्रतिषिध्यत इति सोमाख्यं कर्म विक्रयणक्रियया सम्बध्यमानं विक्रेतुः कुत्सामावहति। `धान्यविक्रायः` इति। <<कर्मण्यण्>> [[3.2.1]] ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200861,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कर्मणीनिविक्रियः॥ कर्मणीति वर्तमान इति।'कर्मणि हनः'  इत्यतः कर्तुः कुत्सानिमिते कर्मणीति यत्कर्म क्रियासम्बद्धं कर्तुः कुत्सामावहति तत्रेत्यर्थः। सोमादीनां विक्रयः शास्त्रे निषिद्धः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200861,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कर्मपूर्वाद् विक्रीञ इनिः स्यात् । मांसविक्रयी । कुत्सित एवायम् । धान्यविक्रायोऽन्यः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200861,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "कर्मणीनि विक्रियः (860) (405 इनिप्रत्ययविधिसूत्रम् ॥ 3 । 2 । 2 आ.3 ) (2079 वार्तिकम् ॥ 1 ॥) - कर्मणि कुत्सिते- (भाष्यम्) कर्मणि कुत्सिते इति वक्तव्यम्। इह मा भूत् - -धान्यविक्राय इति ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200861,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इनि comes after the compound verb विकृ 'to sell' in the sense of past time, when in composition with a word in the Accusative -2nd case.\nThe repetition of the word कर्मणि in the <i>sutra</i>, though its <i>anuvritti</i> might have been drawn from the last aphorism, indicates that when the object carries with it a sense of censure on the agent, then only this affix is employed and not with every and any object. As सोमविक्रयिन् 'the seller of <i>soma</i> plant'; रसविक्रयिन् 'the seller of liquors'; employing disapproval of the action of those persons who carry on these mean professions. But not so in धान्यविक्रायः 'the seller of paddy'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200861,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इनि comes after the compound verb विकृ 'to sell' in the sense of past time, when in composition with a word in the Accusative -2nd case."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200861,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. कुत्सितग्रहणं कर्तव्यम् ।"
+    }
+  ]
+}

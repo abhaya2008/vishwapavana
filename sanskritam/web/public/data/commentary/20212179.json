@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212179,
+    "chapter_id": 7790,
+    "verse_number": "४३०",
+    "content_sanskrit": "ऊन",
+    "padaccheda": "ऊन",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिहाणे",
+    "meaning_english": "to reduce, to shorten",
+    "audio_url": null,
+    "display_order": 430,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212179,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । परिहाणं - न्यूनीभावः ।"
+    }
+  ]
+}

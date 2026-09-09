@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210192,
+    "chapter_id": 7781,
+    "verse_number": "१९३",
+    "content_sanskrit": "कञ्च्",
+    "padaccheda": "कचिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तिबन्धनयोः",
+    "meaning_english": "to shine, to glow, to bind, to tie",
+    "audio_url": null,
+    "display_order": 193,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210192,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दीप्तौ अकर्मकः । बन्धने सकर्मकः । क्षीरस्वामी मैत्रेयश्च नेमं पठतः ।"
+    }
+  ]
+}

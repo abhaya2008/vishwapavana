@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20202988,
+    "chapter_id": 7771,
+    "verse_number": "६.३.१२७",
+    "content_sanskrit": "चितेः कपि",
+    "padaccheda": "चितेः । कपि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": "अनुवृत्तिः — दीर्घः (६.३.१११)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202988,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "चितिशब्दस्य कपि परतो दीर्घो भवति। एकचितीकः। द्विचितीकः। त्रिचितीकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202988,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एकचितीकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202988,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<चितेः कपि>> - चितेः कपि । 'दीर्घ' इति शेषः । एकचितीक इति ।अग्न्याख्यस्थण्डिलविशेष॑ इति शेषः । एका चितिर्यस्येति विग्रहः । शैषिकः कप् । द्विचितीक इति । द्वे चिती यस्येति विग्रहः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202988,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<चितेः कपि>> - एकचितीक इति ।शेषाद्बिभाषे॑ति कपे ।दंष्ट्रे॑ति वार्तिके दीर्घान्तः पबठते । केचित्तु ह्रस्वान्तं पठित्वाआआदंष्ट्रः॑इति बहुव्रीहौ दीर्घमाहुः, न तु तत्पुरुषे । इह षादिति ।काश्र्य॑इति तालव्यापाठस्त्वनार्ष इति भावः । वनस्पतिभ्यो वनस्य णत्वमुदाहरति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202988,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`कोटरावणम्` इति। षष्टीसमासः। `वनं पुरुगा`  [[8.4.4]]  इत्यादिना णत्वम्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202988,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एकचितीकः ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202988,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The final word of चिति is lengthened before the affix कप्।\nThus एकचितीकः, द्विचितीकः, त्रिचितीकः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20202988,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The final word of चिति is lengthened before the affix कप्।"
+    }
+  ]
+}

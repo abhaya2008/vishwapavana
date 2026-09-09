@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210278,
+    "chapter_id": 7781,
+    "verse_number": "२७९",
+    "content_sanskrit": "गज्",
+    "padaccheda": "गजँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे मदने च",
+    "meaning_english": "to sound, to be intoxicated, to be drunk, to be confused",
+    "audio_url": null,
+    "display_order": 279,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210278,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गज मदने च ' इति श्रीकृष्णलीलाशुकः । ' गर्जेत् गृञ्जेत् गजेत् गञ्जेत् शब्दने गाजयेण्णिचि ' (श्लो.59) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211192,
+    "chapter_id": 7782,
+    "verse_number": "२७",
+    "content_sanskrit": "यु",
+    "padaccheda": "यु",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "मिश्रणेऽमिश्रणे च",
+    "meaning_english": "to mix, to join, to group",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211192,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अमिश्रणे च ' इत्यपि क्वचित् पाठः । ' यावयेत जुगुप्सायाम्, मिश्रणे यौति, बन्धने । युनीति, च युनोते च .. ' (श्लो. 24) इति देवः ।"
+    }
+  ]
+}

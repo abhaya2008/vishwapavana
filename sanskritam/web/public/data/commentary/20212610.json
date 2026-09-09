@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212610,
+    "chapter_id": 7792,
+    "verse_number": "९०",
+    "content_sanskrit": "दरिद्रातेर्यालोपश्च",
+    "padaccheda": "",
+    "anvaya": "ऊ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212610,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इश्च आश्च यौ तयोर्लोपः । दर्द्रूः कुष्ठप्रभेदः ।"
+    }
+  ]
+}

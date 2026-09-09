@@ -242,6 +242,42 @@
       "icon": "📐",
       "display_order": 5,
       "parent_id": 9
+    },
+    {
+      "id": 30,
+      "name_sanskrit": "पाणिनीयपरिशिष्टानि",
+      "name_english": "Paniniya Parishishtani",
+      "description": "Ancillary sutra-texts studied alongside the Ashtadhyayi",
+      "icon": "📑",
+      "display_order": 3,
+      "parent_id": 2
+    },
+    {
+      "id": 31,
+      "name_sanskrit": "व्याकरणभाष्यादिग्रन्थाः",
+      "name_english": "Vyakarana Bhashya-adi Granthas",
+      "description": "Commentarial and philosophical works on grammar",
+      "icon": "📕",
+      "display_order": 4,
+      "parent_id": 2
+    },
+    {
+      "id": 32,
+      "name_sanskrit": "शिक्षा",
+      "name_english": "Shiksha",
+      "description": "The vedanga of Sanskrit phonetics and correct pronunciation",
+      "icon": "🗣",
+      "display_order": 2,
+      "parent_id": 10
+    },
+    {
+      "id": 33,
+      "name_sanskrit": "न्यायः",
+      "name_english": "Nyaya",
+      "description": "The Nyaya-Vaisheshika school of logic and epistemology",
+      "icon": "🧩",
+      "display_order": 4,
+      "parent_id": 3
     }
   ],
   "texts": [
@@ -954,17 +990,169 @@
       "author": "महर्षिः वाल्मीकिः",
       "display_order": 10,
       "has_audio": 0
+    },
+    {
+      "id": 100,
+      "category_id": 8,
+      "name_sanskrit": "धातुपाठः",
+      "name_english": "Dhatupatha",
+      "description": "The traditional list of Sanskrit verb roots (dhatus), organized by conjugation class (gana).",
+      "author": "पाणिनिः",
+      "display_order": 1,
+      "has_audio": 0
+    },
+    {
+      "id": 101,
+      "category_id": 30,
+      "name_sanskrit": "गणपाठः",
+      "name_english": "Ganapatha",
+      "description": "The word-groups (ganas) referenced by name in the Ashtadhyayi sutras.",
+      "author": "पाणिनिः",
+      "display_order": 1,
+      "has_audio": 0
+    },
+    {
+      "id": 102,
+      "category_id": 30,
+      "name_sanskrit": "उणादिसूत्राणि",
+      "name_english": "Unadi Sutras",
+      "description": "Sutras teaching unadi affixes that derive primary nominal stems from roots.",
+      "author": "शाकटायनः",
+      "display_order": 2,
+      "has_audio": 0
+    },
+    {
+      "id": 103,
+      "category_id": 30,
+      "name_sanskrit": "माहेश्वराणि सूत्राणि",
+      "name_english": "Shiva Sutras",
+      "description": "The fourteen phoneme sutras attributed to Shiva, the basis for Paninian pratyaharas.",
+      "author": "महेश्वरः",
+      "display_order": 3,
+      "has_audio": 0
+    },
+    {
+      "id": 104,
+      "category_id": 30,
+      "name_sanskrit": "प्रत्याहारसूत्राणि",
+      "name_english": "Pratyahara reference",
+      "description": "Every pratyahara (abbreviated sound-group) derivable from the Shiva Sutras, with its defining rule.",
+      "author": "",
+      "display_order": 4,
+      "has_audio": 0
+    },
+    {
+      "id": 105,
+      "category_id": 30,
+      "name_sanskrit": "लिङ्गानुशासनम्",
+      "name_english": "Linganushasanam",
+      "description": "Panini’s rules for determining the grammatical gender of nominal stems.",
+      "author": "पाणिनिः",
+      "display_order": 5,
+      "has_audio": 0
+    },
+    {
+      "id": 106,
+      "category_id": 30,
+      "name_sanskrit": "फिट्सूत्राणि",
+      "name_english": "Phit Sutras",
+      "description": "Shantanava’s sutras on accentuation of nominal stems (phit-sutras).",
+      "author": "शान्तनवः",
+      "display_order": 6,
+      "has_audio": 0
+    },
+    {
+      "id": 107,
+      "category_id": 31,
+      "name_sanskrit": "वाक्यपदीयम्",
+      "name_english": "Vakyapadeeyam",
+      "description": "Bhartrihari’s philosophical treatise on the nature of language (sphota theory), grammar and meaning.",
+      "author": "भर्तृहरिः",
+      "display_order": 1,
+      "has_audio": 0
+    },
+    {
+      "id": 108,
+      "category_id": 31,
+      "name_sanskrit": "व्याकरणमहाभाष्यम्",
+      "name_english": "Mahabhashyam",
+      "description": "Patanjali’s great commentary (Mahabhashya) on the Ashtadhyayi.",
+      "author": "पतञ्जलिः",
+      "display_order": 2,
+      "has_audio": 0
+    },
+    {
+      "id": 109,
+      "category_id": 31,
+      "name_sanskrit": "वैयाकरणभूषणसारः",
+      "name_english": "Vaiyakaranabhushanasarah",
+      "description": "Kaunda Bhatta’s karikas on the philosophy of grammar (a digest of his own Vaiyakarana Bhushana).",
+      "author": "कौण्डभट्टः",
+      "display_order": 3,
+      "has_audio": 0
+    },
+    {
+      "id": 110,
+      "category_id": 31,
+      "name_sanskrit": "परिभाषेन्दुशेखरः",
+      "name_english": "Paribhashendushekharah",
+      "description": "Nagesha Bhatta’s treatise on the interpretive maxims (paribhashas) of Paninian grammar.",
+      "author": "नागेशभट्टः",
+      "display_order": 4,
+      "has_audio": 0
+    },
+    {
+      "id": 111,
+      "category_id": 31,
+      "name_sanskrit": "परमलघुमञ्जूषा",
+      "name_english": "Paramalaghumanjusha",
+      "description": "Nagesha Bhatta’s concise exposition of sphota theory and the philosophy of grammar.",
+      "author": "नागेशभट्टः",
+      "display_order": 5,
+      "has_audio": 0
+    },
+    {
+      "id": 112,
+      "category_id": 32,
+      "name_sanskrit": "पाणिनीयशिक्षा",
+      "name_english": "Panini Shiksha",
+      "description": "The primary phonetics treatise attributed to Panini, on the science of correct Vedic recitation.",
+      "author": "पाणिनिः",
+      "display_order": 1,
+      "has_audio": 0
+    },
+    {
+      "id": 113,
+      "category_id": 32,
+      "name_sanskrit": "वृद्धशिक्षा",
+      "name_english": "Vriddha Shiksha",
+      "description": "A variant Shiksha (phonetics) text.",
+      "author": "",
+      "display_order": 2,
+      "has_audio": 0
+    },
+    {
+      "id": 114,
+      "category_id": 32,
+      "name_sanskrit": "आपिशलशिक्षा",
+      "name_english": "Aapishala Shiksha",
+      "description": "A variant Shiksha (phonetics) text.",
+      "author": "",
+      "display_order": 3,
+      "has_audio": 0
+    },
+    {
+      "id": 115,
+      "category_id": 33,
+      "name_sanskrit": "तर्कसङ्ग्रहः",
+      "name_english": "Tarkasangraha",
+      "description": "Annambhatta’s introductory manual of Nyaya-Vaisheshika logic and epistemology.",
+      "author": "अन्नंभट्टः",
+      "display_order": 1,
+      "has_audio": 0
     }
   ],
   "chapters": [
-    {
-      "id": 1,
-      "text_id": 1,
-      "name_sanskrit": "प्रथमोऽध्यायः",
-      "name_english": "Chapter 1",
-      "chapter_number": 1,
-      "display_order": 1
-    },
     {
       "id": 3,
       "text_id": 2,
@@ -980,14 +1168,6 @@
       "name_english": "Creation Narrative · Rama's birth",
       "chapter_number": 1,
       "display_order": 1
-    },
-    {
-      "id": 2,
-      "text_id": 1,
-      "name_sanskrit": "द्वितीयोऽध्यायः",
-      "name_english": "Chapter 2",
-      "chapter_number": 2,
-      "display_order": 2
     },
     {
       "id": 5,
@@ -73979,6 +74159,766 @@
       "name_english": "Characters find peace and resolve to perform their duties.",
       "chapter_number": 674,
       "display_order": 674
+    },
+    {
+      "id": 7749,
+      "text_id": 1,
+      "name_sanskrit": "प्रथमोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 1, Pada 1",
+      "chapter_number": 11,
+      "display_order": 1
+    },
+    {
+      "id": 7750,
+      "text_id": 1,
+      "name_sanskrit": "प्रथमोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 1, Pada 2",
+      "chapter_number": 12,
+      "display_order": 2
+    },
+    {
+      "id": 7751,
+      "text_id": 1,
+      "name_sanskrit": "प्रथमोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 1, Pada 3",
+      "chapter_number": 13,
+      "display_order": 3
+    },
+    {
+      "id": 7752,
+      "text_id": 1,
+      "name_sanskrit": "प्रथमोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 1, Pada 4",
+      "chapter_number": 14,
+      "display_order": 4
+    },
+    {
+      "id": 7753,
+      "text_id": 1,
+      "name_sanskrit": "द्वितीयोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 2, Pada 1",
+      "chapter_number": 21,
+      "display_order": 5
+    },
+    {
+      "id": 7754,
+      "text_id": 1,
+      "name_sanskrit": "द्वितीयोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 2, Pada 2",
+      "chapter_number": 22,
+      "display_order": 6
+    },
+    {
+      "id": 7755,
+      "text_id": 1,
+      "name_sanskrit": "द्वितीयोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 2, Pada 3",
+      "chapter_number": 23,
+      "display_order": 7
+    },
+    {
+      "id": 7756,
+      "text_id": 1,
+      "name_sanskrit": "द्वितीयोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 2, Pada 4",
+      "chapter_number": 24,
+      "display_order": 8
+    },
+    {
+      "id": 7757,
+      "text_id": 1,
+      "name_sanskrit": "तृतीयोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 3, Pada 1",
+      "chapter_number": 31,
+      "display_order": 9
+    },
+    {
+      "id": 7758,
+      "text_id": 1,
+      "name_sanskrit": "तृतीयोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 3, Pada 2",
+      "chapter_number": 32,
+      "display_order": 10
+    },
+    {
+      "id": 7759,
+      "text_id": 1,
+      "name_sanskrit": "तृतीयोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 3, Pada 3",
+      "chapter_number": 33,
+      "display_order": 11
+    },
+    {
+      "id": 7760,
+      "text_id": 1,
+      "name_sanskrit": "तृतीयोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 3, Pada 4",
+      "chapter_number": 34,
+      "display_order": 12
+    },
+    {
+      "id": 7761,
+      "text_id": 1,
+      "name_sanskrit": "चतुर्थोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 4, Pada 1",
+      "chapter_number": 41,
+      "display_order": 13
+    },
+    {
+      "id": 7762,
+      "text_id": 1,
+      "name_sanskrit": "चतुर्थोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 4, Pada 2",
+      "chapter_number": 42,
+      "display_order": 14
+    },
+    {
+      "id": 7763,
+      "text_id": 1,
+      "name_sanskrit": "चतुर्थोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 4, Pada 3",
+      "chapter_number": 43,
+      "display_order": 15
+    },
+    {
+      "id": 7764,
+      "text_id": 1,
+      "name_sanskrit": "चतुर्थोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 4, Pada 4",
+      "chapter_number": 44,
+      "display_order": 16
+    },
+    {
+      "id": 7765,
+      "text_id": 1,
+      "name_sanskrit": "पञ्चमोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 5, Pada 1",
+      "chapter_number": 51,
+      "display_order": 17
+    },
+    {
+      "id": 7766,
+      "text_id": 1,
+      "name_sanskrit": "पञ्चमोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 5, Pada 2",
+      "chapter_number": 52,
+      "display_order": 18
+    },
+    {
+      "id": 7767,
+      "text_id": 1,
+      "name_sanskrit": "पञ्चमोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 5, Pada 3",
+      "chapter_number": 53,
+      "display_order": 19
+    },
+    {
+      "id": 7768,
+      "text_id": 1,
+      "name_sanskrit": "पञ्चमोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 5, Pada 4",
+      "chapter_number": 54,
+      "display_order": 20
+    },
+    {
+      "id": 7769,
+      "text_id": 1,
+      "name_sanskrit": "षष्ठोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 6, Pada 1",
+      "chapter_number": 61,
+      "display_order": 21
+    },
+    {
+      "id": 7770,
+      "text_id": 1,
+      "name_sanskrit": "षष्ठोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 6, Pada 2",
+      "chapter_number": 62,
+      "display_order": 22
+    },
+    {
+      "id": 7771,
+      "text_id": 1,
+      "name_sanskrit": "षष्ठोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 6, Pada 3",
+      "chapter_number": 63,
+      "display_order": 23
+    },
+    {
+      "id": 7772,
+      "text_id": 1,
+      "name_sanskrit": "षष्ठोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 6, Pada 4",
+      "chapter_number": 64,
+      "display_order": 24
+    },
+    {
+      "id": 7773,
+      "text_id": 1,
+      "name_sanskrit": "सप्तमोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 7, Pada 1",
+      "chapter_number": 71,
+      "display_order": 25
+    },
+    {
+      "id": 7774,
+      "text_id": 1,
+      "name_sanskrit": "सप्तमोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 7, Pada 2",
+      "chapter_number": 72,
+      "display_order": 26
+    },
+    {
+      "id": 7775,
+      "text_id": 1,
+      "name_sanskrit": "सप्तमोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 7, Pada 3",
+      "chapter_number": 73,
+      "display_order": 27
+    },
+    {
+      "id": 7776,
+      "text_id": 1,
+      "name_sanskrit": "सप्तमोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 7, Pada 4",
+      "chapter_number": 74,
+      "display_order": 28
+    },
+    {
+      "id": 7777,
+      "text_id": 1,
+      "name_sanskrit": "अष्टमोऽध्यायः - प्रथमः पादः",
+      "name_english": "Adhyaya 8, Pada 1",
+      "chapter_number": 81,
+      "display_order": 29
+    },
+    {
+      "id": 7778,
+      "text_id": 1,
+      "name_sanskrit": "अष्टमोऽध्यायः - द्वितीयः पादः",
+      "name_english": "Adhyaya 8, Pada 2",
+      "chapter_number": 82,
+      "display_order": 30
+    },
+    {
+      "id": 7779,
+      "text_id": 1,
+      "name_sanskrit": "अष्टमोऽध्यायः - तृतीयः पादः",
+      "name_english": "Adhyaya 8, Pada 3",
+      "chapter_number": 83,
+      "display_order": 31
+    },
+    {
+      "id": 7780,
+      "text_id": 1,
+      "name_sanskrit": "अष्टमोऽध्यायः - चतुर्थः पादः",
+      "name_english": "Adhyaya 8, Pada 4",
+      "chapter_number": 84,
+      "display_order": 32
+    },
+    {
+      "id": 7781,
+      "text_id": 100,
+      "name_sanskrit": "भ्वादिः",
+      "name_english": "Gana 1",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7782,
+      "text_id": 100,
+      "name_sanskrit": "अदादिः",
+      "name_english": "Gana 2",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7783,
+      "text_id": 100,
+      "name_sanskrit": "जुहोत्यादिः",
+      "name_english": "Gana 3",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7784,
+      "text_id": 100,
+      "name_sanskrit": "दिवादिः",
+      "name_english": "Gana 4",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 7785,
+      "text_id": 100,
+      "name_sanskrit": "स्वादिः",
+      "name_english": "Gana 5",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 7786,
+      "text_id": 100,
+      "name_sanskrit": "तुदादिः",
+      "name_english": "Gana 6",
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 7787,
+      "text_id": 100,
+      "name_sanskrit": "रुधादिः",
+      "name_english": "Gana 7",
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 7788,
+      "text_id": 100,
+      "name_sanskrit": "तनादिः",
+      "name_english": "Gana 8",
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 7789,
+      "text_id": 100,
+      "name_sanskrit": "क्र्यादिः",
+      "name_english": "Gana 9",
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 7790,
+      "text_id": 100,
+      "name_sanskrit": "चुरादिः",
+      "name_english": "Gana 10",
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 7791,
+      "text_id": 101,
+      "name_sanskrit": "गणपाठः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7792,
+      "text_id": 102,
+      "name_sanskrit": "पादः 1",
+      "name_english": "Pada 1",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7793,
+      "text_id": 102,
+      "name_sanskrit": "पादः 2",
+      "name_english": "Pada 2",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7794,
+      "text_id": 102,
+      "name_sanskrit": "पादः 3",
+      "name_english": "Pada 3",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7795,
+      "text_id": 102,
+      "name_sanskrit": "पादः 4",
+      "name_english": "Pada 4",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 7796,
+      "text_id": 102,
+      "name_sanskrit": "पादः 5",
+      "name_english": "Pada 5",
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 7797,
+      "text_id": 103,
+      "name_sanskrit": "माहेश्वरसूत्राणि",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7798,
+      "text_id": 104,
+      "name_sanskrit": "प्रत्याहाराः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7799,
+      "text_id": 105,
+      "name_sanskrit": "लिङ्गानुशासनम्",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7800,
+      "text_id": 106,
+      "name_sanskrit": "पादः 1",
+      "name_english": "Pada 1",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7801,
+      "text_id": 106,
+      "name_sanskrit": "पादः 2",
+      "name_english": "Pada 2",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7802,
+      "text_id": 106,
+      "name_sanskrit": "पादः 3",
+      "name_english": "Pada 3",
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7803,
+      "text_id": 106,
+      "name_sanskrit": "पादः 4",
+      "name_english": "Pada 4",
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 7804,
+      "text_id": 107,
+      "name_sanskrit": "ब्रह्मकाण्डम्",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7805,
+      "text_id": 107,
+      "name_sanskrit": "वाक्यकाण्डम्",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7806,
+      "text_id": 107,
+      "name_sanskrit": "पदकाण्डम्",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7807,
+      "text_id": 108,
+      "name_sanskrit": "पस्पशाह्निकम्",
+      "name_english": "Ahnika 1",
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7808,
+      "text_id": 108,
+      "name_sanskrit": "प्रत्याहाराह्निकम्",
+      "name_english": "Ahnika 2",
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7809,
+      "text_id": 109,
+      "name_sanskrit": "मङ्गलाचरणम्",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7810,
+      "text_id": 109,
+      "name_sanskrit": "मङ्गलाचरणम्",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7811,
+      "text_id": 109,
+      "name_sanskrit": "धात्वाख्यातार्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7812,
+      "text_id": 109,
+      "name_sanskrit": "लकारार्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 7813,
+      "text_id": 109,
+      "name_sanskrit": "सुबन्तनिर्णयः",
+      "name_english": null,
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 7814,
+      "text_id": 109,
+      "name_sanskrit": "नामार्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 7815,
+      "text_id": 109,
+      "name_sanskrit": "समासशक्तिनिर्णयः",
+      "name_english": null,
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 7816,
+      "text_id": 109,
+      "name_sanskrit": "शक्तिनिर्णयः",
+      "name_english": null,
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 7817,
+      "text_id": 109,
+      "name_sanskrit": "नञर्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 7818,
+      "text_id": 109,
+      "name_sanskrit": "निपातार्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 7819,
+      "text_id": 109,
+      "name_sanskrit": "भावप्रत्ययार्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 7820,
+      "text_id": 109,
+      "name_sanskrit": "देवतादिप्रत्ययार्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 7821,
+      "text_id": 109,
+      "name_sanskrit": "अभेदकत्वसङ्ख्यानिर्णयः",
+      "name_english": null,
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 7822,
+      "text_id": 109,
+      "name_sanskrit": "सङ्ख्याविवक्षानिर्णयः",
+      "name_english": null,
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 7823,
+      "text_id": 109,
+      "name_sanskrit": "क्त्वाद्यर्थनिर्णयः",
+      "name_english": null,
+      "chapter_number": 15,
+      "display_order": 15
+    },
+    {
+      "id": 7824,
+      "text_id": 109,
+      "name_sanskrit": "स्फोटनिरूपणम्",
+      "name_english": null,
+      "chapter_number": 16,
+      "display_order": 16
+    },
+    {
+      "id": 7825,
+      "text_id": 110,
+      "name_sanskrit": "परिभाषाः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7826,
+      "text_id": 111,
+      "name_sanskrit": "शक्तिविचारः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7827,
+      "text_id": 111,
+      "name_sanskrit": "लक्षणाविचारः",
+      "name_english": null,
+      "chapter_number": 2,
+      "display_order": 2
+    },
+    {
+      "id": 7828,
+      "text_id": 111,
+      "name_sanskrit": "व्यञ्जनाविचारः",
+      "name_english": null,
+      "chapter_number": 3,
+      "display_order": 3
+    },
+    {
+      "id": 7829,
+      "text_id": 111,
+      "name_sanskrit": "स्फोटविचारः",
+      "name_english": null,
+      "chapter_number": 4,
+      "display_order": 4
+    },
+    {
+      "id": 7830,
+      "text_id": 111,
+      "name_sanskrit": "आकाङ्क्षाविचारः",
+      "name_english": null,
+      "chapter_number": 5,
+      "display_order": 5
+    },
+    {
+      "id": 7831,
+      "text_id": 111,
+      "name_sanskrit": "योग्यताविचारः",
+      "name_english": null,
+      "chapter_number": 6,
+      "display_order": 6
+    },
+    {
+      "id": 7832,
+      "text_id": 111,
+      "name_sanskrit": "आसत्तिविचारः",
+      "name_english": null,
+      "chapter_number": 7,
+      "display_order": 7
+    },
+    {
+      "id": 7833,
+      "text_id": 111,
+      "name_sanskrit": "तात्पर्यविचारः",
+      "name_english": null,
+      "chapter_number": 8,
+      "display_order": 8
+    },
+    {
+      "id": 7834,
+      "text_id": 111,
+      "name_sanskrit": "धात्वर्थविचारः",
+      "name_english": null,
+      "chapter_number": 9,
+      "display_order": 9
+    },
+    {
+      "id": 7835,
+      "text_id": 111,
+      "name_sanskrit": "निपातार्थविचारः",
+      "name_english": null,
+      "chapter_number": 10,
+      "display_order": 10
+    },
+    {
+      "id": 7836,
+      "text_id": 111,
+      "name_sanskrit": "लादेशार्थविचारः",
+      "name_english": null,
+      "chapter_number": 11,
+      "display_order": 11
+    },
+    {
+      "id": 7837,
+      "text_id": 111,
+      "name_sanskrit": "कारकविचारः",
+      "name_english": null,
+      "chapter_number": 12,
+      "display_order": 12
+    },
+    {
+      "id": 7838,
+      "text_id": 111,
+      "name_sanskrit": "नामार्थविचारः",
+      "name_english": null,
+      "chapter_number": 13,
+      "display_order": 13
+    },
+    {
+      "id": 7839,
+      "text_id": 111,
+      "name_sanskrit": "समासादिवृत्त्यर्थविचारः",
+      "name_english": null,
+      "chapter_number": 14,
+      "display_order": 14
+    },
+    {
+      "id": 7840,
+      "text_id": 112,
+      "name_sanskrit": "पाणिनीयशिक्षा",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7841,
+      "text_id": 113,
+      "name_sanskrit": "वृद्धशिक्षा",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7842,
+      "text_id": 114,
+      "name_sanskrit": "आपिशलशिक्षा",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
+    },
+    {
+      "id": 7843,
+      "text_id": 115,
+      "name_sanskrit": "तर्कसङ्ग्रहः",
+      "name_english": null,
+      "chapter_number": 1,
+      "display_order": 1
     }
   ]
 }

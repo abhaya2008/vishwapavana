@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200932,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१६४",
+    "content_sanskrit": "गत्वरश्च",
+    "padaccheda": "गत्वरः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 164,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), क्वरप् (३.२.१६३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200932,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "गत्वर इति निपात्यते। गमेरनुनासिकलोपः क्वरप् प्रत्ययश्च। गत्वरः। गत्वरी॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200932,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "गमेरनुनासिकलोपोऽपि निपात्यते । गत्वरी ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200932,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<गत्वरश्च>> - गत्वरश्च । गमेरिति.गमेः क्वरप्, अनुनासिकलोपश्च निपात्यते इत्र्थः । झलादिप्रत्ययपरकत्वाऽभावादनुनासिकलोपस्याऽप्राप्तिः । पित्त्वात्तुक् । गत्वरीति ।टिड्ढे॑ति ङीप् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200932,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "गमेः क्वरबयम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200932,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And the word गत्वर is irregularly formed.\nThe word गत्वर is formed by eliding the म् of गम् and adding the affix क्वरप्. As गत्वरः, fem. गत्वरी 'locomotive, transient'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20200932,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And the word गत्वर is irregularly formed."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200932,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अभिमानधनस्य गत्वरैरसुभिः (किरातार्जुनीयम् 2.19) — `गत्वरश्च` इति क्वरप्-प्रत्ययान्तो निपातः।\nज्ञात्वेङ्गितैर्गत्वरतां जनाना- (भट्टिकाव्यम् 3.16) — `गत्वरश्च` इति निपातितः ।"
+    }
+  ]
+}

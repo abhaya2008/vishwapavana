@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201043,
+    "chapter_id": 7759,
+    "verse_number": "३.३.८७",
+    "content_sanskrit": "निघो निमितम्",
+    "padaccheda": "निघः । निमितम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), हनः (३.३.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201043,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "निघ इति निपूर्वाद् हन्तेरप् प्रत्ययः टिलोपो घत्वं च निपात्यते, निमितं चेदभिधेयं भवति। समन्ताद् मितं निमितम्, समारोहपरिणाहम्। निघा वृक्षाः। निघाः शालयः। निमितमिति किम्? निघातः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201043,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "समन्तान्मितं निमितम् । निर्विशेषं हन्यते इति निघा वृक्षाः । समारोहपरिणाहा इत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201043,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "समन्तान्मितमिति ननिमितशब्दः। सर्वत आरोहतः परिणाहतश्च तुल्यमित्यर्थः। एकमेवार्थं प्रसिद्धतरेण दर्शयितुमाह - `समारोहपरिणाहौ यस्य तत् तथोक्तम्। आरोहः = उच्छ्रायः। परिणाहः = विस्तारः। `निघा वृक्षाः`इति। निविशेषमं हन्यन्ते ज्ञायन्त इति निघाः। कर्मण्यपि समन्तात् तुल्या इत्यर्थः। एवं ते निर्विशेषं ज्ञायन्ते यदि समन्तादारोहतः परिणाहतश्च तुल्या भवन्ति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201043,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "समारोहपरिणाहमिति । आरोहःऊच्छ्रायः, परिणाहःउविस्तारः, तौ समानौ यस्य ततथोक्तम् । निघा वृक्षा इति । निविशेषं हन्यन्ते ज्ञायन्ते इति कर्मण्कम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201043,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "समारोहपरिणाहं निमित्तम् । निघो वृक्षः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201043,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word निघ is irregularly formed in the sense of 'as high as broad'.\nThe word निमित means 'measured all round' i.e. 'as high as broad'. As निघा वृक्षाः 'trees as high as broad'. निघा शालयः 'square or cubic or circular halls'. Otherwise, when not meaning 'as high as broad', we have निघातः 'a blow'. The word निमित = समन्तान्मितं, समारोहपरिणाहम् । It may be derived from मा or from मि । In the first case it will mean 'measured' and in the other, 'erected, built'. Professor Bothlingk refers to <i>Apastamba</i> <i>Dharma</i>. I.20.30 for the meaning of this word."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201043,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word निघ is irregularly formed in the sense of 'as high as broad'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201043,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "निघाऽनिघ-तरु-च्छन्ने (भट्टिकाव्यम् 7.65) — `निघो निमितम्` इति निपूर्वाद्धन्तेरपि टिलोपे निपात्यते।"
+    }
+  ]
+}

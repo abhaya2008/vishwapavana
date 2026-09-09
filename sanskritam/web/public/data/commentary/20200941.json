@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200941,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१७३",
+    "content_sanskrit": "शॄवन्द्योरारुः",
+    "padaccheda": "शॄ-वन्द्योः । आरुः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 173,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200941,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<शृ हिंसायाम्>> <<वदि अभिवादनस्तुत्योः>> एताभ्यां धातुभ्यां तच्छीलादिषु कर्तृष्वारुः प्रत्ययो भवति। शरारुः। वन्दारुः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200941,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शरारुः । वन्दारुः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200941,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<शॄवन्द्योरारुः>> - शृवन्द्योरारुः । पञ्चमर्थे षष्ठी । 'शृ हिंसायां'वदि अभिवादनस्तुत्योः॑ । आभ्यामारुप्रत्ययः स्यात्तच्छीलादिष्वित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200941,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<शॄवन्द्योरारुः>> - * क्रुकन्नपीति । अत एवभीलुभीलुकभीरुकाः॑ इत्यमरः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200941,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "शृणोतेः `लषपत`  [[3.2.154]]  इत्यादिनोकञपि भवति। वन्दतेः `अनुदात्तेतश्च`  [[3.2.149]]  इत्यादिना युचि प्राप्ते वचनमिदम्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200941,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "गुणः । शरारुर्हिंस्रः । वन्दारुः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200941,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix आरु comes, in the sense of 'agent having such a habit etc.' after the verbs शॄ 'to to injure' and वन्द् 'to praise, to salute'.\nAs शरारुः 'noxious, a mischievous animal'; वन्दारुः 'praising, a bard'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200941,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix आरु comes, in the sense of 'agent having such a habit etc.' after the verbs शॄ 'to to injure' and वन्द् 'to praise, to salute'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200941,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "शरारुः श्रीशरीरेशः (शिशुपालवधम् 19.108) — `शृवन्द्योरारुः` इत्यारुप्रत्ययः।\nअहं स्वप्नक्प्रसादेन तव वन्दारुभिः सह (भट्टिकाव्यम् 7.25) — `शृ-वन्द्योरारुः` इति आरुः प्रत्ययः।"
+    }
+  ]
+}

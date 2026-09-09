@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211731,
+    "chapter_id": 7789,
+    "verse_number": "५३",
+    "content_sanskrit": "गुध्",
+    "padaccheda": "गुधँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "रोषे",
+    "meaning_english": "to be angry",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211731,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गुधेर्गुध्नाति रोषेर्थे, गुध्येत् तु परिवेष्टने ' (श्लो. 121) इति देवः ।"
+    }
+  ]
+}

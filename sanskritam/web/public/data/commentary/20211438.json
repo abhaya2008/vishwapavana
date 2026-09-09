@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211438,
+    "chapter_id": 7785,
+    "verse_number": "७",
+    "content_sanskrit": "कृ",
+    "padaccheda": "कृञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to irritate",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211438,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसाकरणयोः श्नावौ कृणोति कृणुते कृञः । करोति कुरुते द्वे द्वे सम्पद्येते पदे क्रमात्' (श्लो.31) इति देवः ।"
+    }
+  ]
+}

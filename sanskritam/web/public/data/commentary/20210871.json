@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210871,
+    "chapter_id": 7781,
+    "verse_number": "८७२",
+    "content_sanskrit": "स्खद्",
+    "padaccheda": "स्खदँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "स्खदने",
+    "meaning_english": "to win, to cut, to tear, to stabilize, to cause pain, to irritate",
+    "audio_url": null,
+    "display_order": 872,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210871,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्खदिर् ' इति धातुकाव्यव्या व्याख्यायाम् (2.19) पाठः । ' स्खदनम् = विद्रावणम् ' इति स्वामी । ' विदारणम् ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

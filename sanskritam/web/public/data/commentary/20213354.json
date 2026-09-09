@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213354,
+    "chapter_id": 7799,
+    "verse_number": "२०",
+    "content_sanskrit": "भाःस्रुक्स्रग्दिगुष्णिगुपानहः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213354,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते स्त्रियां स्युः । इयं भाः इत्यादिः ।"
+    }
+  ]
+}

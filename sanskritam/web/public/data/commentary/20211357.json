@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211357,
+    "chapter_id": 7784,
+    "verse_number": "८९",
+    "content_sanskrit": "सिध्",
+    "padaccheda": "षिधुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "संराद्धौ",
+    "meaning_english": "to be thoroughly prepared,to be accomplished,to be achieved, to be ready",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211357,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " संराद्धिः = विपत्तिः । ' सिधेः सिध्यति संराद्धौ ' (श्लो. 116) इति देवः । संराद्धिः निष्पत्तिः । ' केचिदूदितं पठन्ति । तदसत् । अनुदात्तोपदेशवैयर्थ्यात् ' इति माधवः ।"
+    }
+  ]
+}

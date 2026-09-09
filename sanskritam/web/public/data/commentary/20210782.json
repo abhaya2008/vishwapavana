@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210782,
+    "chapter_id": 7781,
+    "verse_number": "७८३",
+    "content_sanskrit": "शिष्",
+    "padaccheda": "शिषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 783,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210782,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तालव्योष्मादिः । ' शिषः असर्वोपयोगे यौ शेषयेत् शेषतीत्युभे । लुड्यभावादङ़ोशेषीत् शिनष्टीति विशेषणे ' ( श्लो. 178 - 9 ) इति देवः । ' शिषिं पिषिं श्लिष्यतिपुष्यती त्विषिम् ' इति व्याघ्रभूतिवचनात् (काशिका. 7.2.10 ) अनिट्त्वं धातोरस्य बोध्यम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213596,
+    "chapter_id": 7803,
+    "verse_number": "५",
+    "content_sanskrit": "कपिकेशहरिकेशयोश्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213596,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कपिकेशः । हरिकेशः ॥"
+    }
+  ]
+}

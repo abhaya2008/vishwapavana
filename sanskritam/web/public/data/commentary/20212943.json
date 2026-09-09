@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212943,
+    "chapter_id": 7794,
+    "verse_number": "१४३",
+    "content_sanskrit": "क्वणेः संप्रसारणं च",
+    "padaccheda": "",
+    "anvaya": "कपन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212943,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुणपम् ।"
+    }
+  ]
+}

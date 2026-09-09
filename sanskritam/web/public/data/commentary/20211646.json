@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211646,
+    "chapter_id": 7787,
+    "verse_number": "३",
+    "content_sanskrit": "छिद्",
+    "padaccheda": "छिदिँर्",
+    "anvaya": "U-पदी, गणः 7",
+    "meaning_sanskrit": "द्वैधीकरणे",
+    "meaning_english": "to cut,to grind, to truncate, to incise",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211646,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — हिंसा करना, कतरना\nआ — बलपूर्वक टुकड़े करना\nवि — अलग अलग करना या होना"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212154,
+    "chapter_id": 7790,
+    "verse_number": "४०५",
+    "content_sanskrit": "चह",
+    "padaccheda": "चह",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परिकल्कने",
+    "meaning_english": "to grind",
+    "audio_url": null,
+    "display_order": 405,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212154,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । परिकल्कनम् दम्भः शाठ्यं च ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210321,
+    "chapter_id": 7781,
+    "verse_number": "३२२",
+    "content_sanskrit": "द्राड्",
+    "padaccheda": "द्राडृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "विशरणे",
+    "meaning_english": "to cut,to split, to fragment, to tear, to shatter",
+    "audio_url": null,
+    "display_order": 322,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210321,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विशरणम् अवयवविभागः ' इति कौमुदी ।"
+    }
+  ]
+}

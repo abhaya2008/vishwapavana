@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210689,
+    "chapter_id": 7781,
+    "verse_number": "६९०",
+    "content_sanskrit": "भिक्ष्",
+    "padaccheda": "भिक्षँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "भिक्षायामलाभे लाभे च",
+    "meaning_english": "to ask,to beg, to request",
+    "audio_url": null,
+    "display_order": 690,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210689,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " याञ्चायाम् ' इति सर्वेषु दृष्टः पाठः । \" स्वामी तु ' अव्यक्तायां वाचि ' चेति पठित्वा इमावपि भिक्षधातोः अर्थौ इति मन्यते \" इति तत्त्वबोधिनी ।"
+    }
+  ]
+}

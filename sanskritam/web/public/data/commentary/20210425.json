@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210425,
+    "chapter_id": 7781,
+    "verse_number": "४२६",
+    "content_sanskrit": "केप्",
+    "padaccheda": "केपृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कम्पने गतौ च",
+    "meaning_english": "to tremble,to shake, to go",
+    "audio_url": null,
+    "display_order": 426,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210425,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "\" चकारात् कम्मने गतौ च सूत्रविभागात् इति स्वामी । मैत्रेयस्तु चकारमन्तरेण पठित्वा कम्पने इत्यपेक्ष्यते इत्याह \" - सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

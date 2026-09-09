@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211577,
+    "chapter_id": 7786,
+    "verse_number": "१०८",
+    "content_sanskrit": "कड्",
+    "padaccheda": "कडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "मदे",
+    "meaning_english": "to be involved in sorrow, to be invoked in happiness",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211577,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' डकाराकारान्तप्रकरणात् अस्य कुटादौ पाठः । कुटादिपाठस्य फलं किमपि न ' इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

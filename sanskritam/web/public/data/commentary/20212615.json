@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212615,
+    "chapter_id": 7792,
+    "verse_number": "९५",
+    "content_sanskrit": "ग्रो मुट् च",
+    "padaccheda": "",
+    "anvaya": "उति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212615,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गिरतेरुतिस्तस्य च मुट् । गर्मुत्सुवर्णं तृणविशेषश्च ।"
+    }
+  ]
+}

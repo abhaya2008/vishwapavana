@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212958,
+    "chapter_id": 7794,
+    "verse_number": "१५८",
+    "content_sanskrit": "अवितॄस्तॄतन्त्रिभ्यः ईः",
+    "padaccheda": "",
+    "anvaya": "ई",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 158,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212958,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अवीर्नारी रजस्वला । तरीर्नौः । स्तरीर्धूमः । तन्त्रीर्वीणादेर्गुणः ।"
+    }
+  ]
+}

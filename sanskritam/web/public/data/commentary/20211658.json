@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211658,
+    "chapter_id": 7787,
+    "verse_number": "१५",
+    "content_sanskrit": "पिष्",
+    "padaccheda": "पिषॢँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "सञ्चूर्णने हिंसायाम् च",
+    "meaning_english": "to grind,to powder,to crush, to kill, to destroy",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211658,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सञ्चूर्णनम् = धान्यादीनां चूर्णीकरणम्, हिंसा च ।"
+    }
+  ]
+}

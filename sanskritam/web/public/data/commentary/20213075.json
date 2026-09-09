@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213075,
+    "chapter_id": 7795,
+    "verse_number": "११५",
+    "content_sanskrit": "अदेर्ध च",
+    "padaccheda": "",
+    "anvaya": "क्वनिप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213075,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अध्वा ।"
+    }
+  ]
+}

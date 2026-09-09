@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210112,
+    "chapter_id": 7781,
+    "verse_number": "११३",
+    "content_sanskrit": "लङ्घ्",
+    "padaccheda": "लघिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ भोजननिवृत्तौ च",
+    "meaning_english": "to go, to fast, to abstain from food",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210112,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — लांघना, मर्यादा का अतिक्रमण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210112,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " लघि भोजननिवृत्तौ च ' इति क्षीरस्वामी । ' लघि शोषणे इत्यग्रे ' इति माधवीयधातुवृत्तिवचनात् अयं भ्वादावेव उत्तरत्र शोषणार्थकोपि इति ज्ञायते । ' भाषणे लङ्घयेत्, शोषे लङ्घेत्, गत्यां तु लङ्घते ' (श्लो.45) इति देवः ।"
+    }
+  ]
+}

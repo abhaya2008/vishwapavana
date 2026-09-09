@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213222,
+    "chapter_id": 7796,
+    "verse_number": "२४",
+    "content_sanskrit": "शीङो ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "ख",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213222,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शिखा ।"
+    }
+  ]
+}

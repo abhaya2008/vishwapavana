@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213724,
+    "chapter_id": 7804,
+    "verse_number": "११४",
+    "content_sanskrit": "स्वशक्तौ व्यज्यमानायां प्रयत्नेन समीरिताः । अभ्राणीव प्रचीयन्ते शब्दाख्याः परमाणवः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213724,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "अणूनां शब्दत्वापत्तिमपरे प्रतिपन्नास्त एवमाहुः ।\nइत्यादि सर्वमनुगन्तव्यम् ॥"
+    }
+  ]
+}

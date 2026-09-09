@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211053,
+    "chapter_id": 7781,
+    "verse_number": "१०५४",
+    "content_sanskrit": "द्रै",
+    "padaccheda": "द्रै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "स्वप्ने",
+    "meaning_english": "to sleep",
+    "audio_url": null,
+    "display_order": 1054,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211053,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " द्रै स्वप्ने द्रायति, द्राति कुत्सिते गमने लुकि ' (श्लो.6) इति देवः ।"
+    }
+  ]
+}

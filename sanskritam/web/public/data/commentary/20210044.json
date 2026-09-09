@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210044,
+    "chapter_id": 7781,
+    "verse_number": "४५",
+    "content_sanskrit": "कुन्थ्",
+    "padaccheda": "कुथिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसासङ्क्लेशनयोः",
+    "meaning_english": "to strike,to destroy, to kill, to crush, to tear off, to injure, to cause pain",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210044,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कुथ्नाति कुन्थेत् संक्लेशे पूतीभावे तु कुथ्यति' (श्लो. 98) इति देवः ।"
+    }
+  ]
+}

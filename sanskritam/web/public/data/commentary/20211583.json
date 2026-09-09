@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211583,
+    "chapter_id": 7786,
+    "verse_number": "११४",
+    "content_sanskrit": "पुड्",
+    "padaccheda": "पुडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "उत्सर्गे",
+    "meaning_english": "to leave, to quit",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211583,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मुड ' इति आत्रेयः ।"
+    }
+  ]
+}

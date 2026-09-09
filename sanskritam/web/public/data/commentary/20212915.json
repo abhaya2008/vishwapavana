@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212915,
+    "chapter_id": 7794,
+    "verse_number": "११५",
+    "content_sanskrit": "रुदिविदिभ्यां ङित्",
+    "padaccheda": "",
+    "anvaya": "अथ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212915,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रोदितीति रुदथः शिशुः । वेत्तीति विदथः ।"
+    }
+  ]
+}

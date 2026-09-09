@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212517,
+    "chapter_id": 7791,
+    "verse_number": "२५९",
+    "content_sanskrit": "इरिका । मिरिका । तिमिरा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 259,
+    "avatarnika": "इरिकादिः (8.4.6)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212517,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "इरिकादिभ्यः प्रतिषेघो वक्तव्यः"
+    }
+  ]
+}

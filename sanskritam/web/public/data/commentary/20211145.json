@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211145,
+    "chapter_id": 7781,
+    "verse_number": "११४६",
+    "content_sanskrit": "दह्",
+    "padaccheda": "दहँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भस्मीकरणे",
+    "meaning_english": "to reduce to ashes,to burn, to destroy, to cause pain",
+    "audio_url": null,
+    "display_order": 1146,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211145,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "परि — पूरी तरह जल देना"
+    }
+  ]
+}

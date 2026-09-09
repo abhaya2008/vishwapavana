@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210328,
+    "chapter_id": 7781,
+    "verse_number": "३२९",
+    "content_sanskrit": "म्लेट्",
+    "padaccheda": "म्लेटृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उन्मादे",
+    "meaning_english": "to be mad, to be mentally ill",
+    "audio_url": null,
+    "display_order": 329,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210328,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' म्लेडृ ' इति कुत्रचिद् दृष्टः पाठः । धातुवृतौ ' म्रेटृ म्लेडृ म्लेटृ उन्मादे ' इति उपादाय, ' म्लेडति ' इति उदाहृतम् । धातुवृतौ एव प्राचीनमुद्रणे ' म्रेटृ ' इति न उपात्तम् ।"
+    }
+  ]
+}

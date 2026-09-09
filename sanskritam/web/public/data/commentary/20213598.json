@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213598,
+    "chapter_id": 7803,
+    "verse_number": "७",
+    "content_sanskrit": "न्यर्बुदव्यल्कशयोरादि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213598,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्वरितः स्यात् । न्यर्बुदाय स्वाहा । पाकदूर्वा व्यल्कशा ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212039,
+    "chapter_id": 7790,
+    "verse_number": "२९०",
+    "content_sanskrit": "भञ्ज्",
+    "padaccheda": "भजिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 290,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212039,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भाषार्थे णिचि भञ्जयेद् .. ' (श्लो. 66) - देवः ।"
+    }
+  ]
+}

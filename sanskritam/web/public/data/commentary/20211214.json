@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211214,
+    "chapter_id": 7782,
+    "verse_number": "४९",
+    "content_sanskrit": "द्रा",
+    "padaccheda": "द्रा",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "कुत्सायां गतौ",
+    "meaning_english": "to be spoiled, to act crucked, to fly, to run away, to sleep",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211214,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — सोना\nवि — दुःख करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211214,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कुत्सितगतिः = पलायनम् । निन्दा च । स्वापे निपूर्वकोयम् । ' दै स्वप्ने द्रायति द्राति कुत्सिते गमने लुकि ' (श्लो. 6) इति देवः ।"
+    }
+  ]
+}

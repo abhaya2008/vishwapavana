@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213552,
+    "chapter_id": 7801,
+    "verse_number": "६",
+    "content_sanskrit": "स्वाङ्गशिटामदन्तानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213552,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शिट् सर्वनाम । कर्णा॑भ्यां॒ चु॒बु॑कादधि॑ । ओष्ठा॑विव॒ मधु॑ । विश्वो॒ विहा॑याः ॥"
+    }
+  ]
+}

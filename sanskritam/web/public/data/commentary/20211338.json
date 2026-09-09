@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211338,
+    "chapter_id": 7784,
+    "verse_number": "७०",
+    "content_sanskrit": "रुध्",
+    "padaccheda": "रुधँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "कामे",
+    "meaning_english": "to pitty, to be compassionate, to agree, to approve, to mourn, to grieve, to desire, to wish",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211338,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अनुपूर्वो रुधिः कामेर्थे तङ्श्यनौ भजते ' इति धा.का. व्याख्यायां (2.62) विवृतम् । ' रुन्धे रुणद्ध्यावरणे , कामेनावनुरुध्यते ' (श्लो. 121) इति देवः ।"
+    }
+  ]
+}

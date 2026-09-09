@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211537,
+    "chapter_id": 7786,
+    "verse_number": "६८",
+    "content_sanskrit": "खुर्",
+    "padaccheda": "खुरँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "छेदने खण्डने च",
+    "meaning_english": "to cut, to break",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211537,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "खण्डने इति मैत्रेयः ।"
+    }
+  ]
+}

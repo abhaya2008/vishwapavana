@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213545,
+    "chapter_id": 7800,
+    "verse_number": "२२",
+    "content_sanskrit": "ज्येष्ठकनिष्ठयोर्वयसि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213545,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्त उदात्तः स्यात् । ज्ये॒ष्ठ आ॑ह च॒मसा । कनि॒ष्ठ आ॑ह च॒तुरः॑ । वयसि किम् ? ज्येष्ठः श्रेष्ठः , कनिष्ठोऽल्पिकः । इह नित्त्वादाद्युदात्त एव ॥"
+    }
+  ]
+}

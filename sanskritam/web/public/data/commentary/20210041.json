@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210041,
+    "chapter_id": 7781,
+    "verse_number": "४२",
+    "content_sanskrit": "श्च्युत्",
+    "padaccheda": "श्च्युतिँर्",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "क्षरणे",
+    "meaning_english": "to flow,to trickle, to fall, to deviate",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210041,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सकारादिरयम्, श्चुत्वेन निर्देशः । क्षरणम् - स्रवणम् । 'द्रमिडाः चुतिरित्यपि आहुः । चोतति । कौशिकस्तु श्चुतिमयोपधं मन्यते । श्चोतति ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

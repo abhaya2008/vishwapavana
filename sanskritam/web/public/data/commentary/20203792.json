@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20203792,
+    "chapter_id": 7778,
+    "verse_number": "८.२.१०५",
+    "content_sanskrit": "अनन्त्यस्यापि प्रश्नाख्यानयोः",
+    "padaccheda": "अनन्त्यस्य । अपि । प्रश्नाख्यानयोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": "अनुवृत्तिः — स्वरितम् (८.२.१०३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203792,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पदस्येति वर्तते, स्वरितमिति च। अनन्त्यस्यापि अन्त्यस्यापि पदस्य टेः प्लुतो भवति प्रश्न आख्याने च। अगम॑३ः पूर्वा॑३न् ग्रामा॑३न् अग्निभूता॑३इ, पटा॑३उ। सर्वेषामेव पदानामेष स्वरितः प्लतुः। अन्त्यस्य <<अनुदात्तं प्रश्नान्ताभिपूजितयोः>> [[८.२.१००]] इति अनुदात्तोऽपि पक्षे भवति। आख्याने — अगम॑३म् पूर्वा॑३न् ग्रामा॑३न् भोः॑३॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203792,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अनन्त्यस्यान्त्यस्यापि पदस्य टेः स्वरितः प्लुतः एतयोः । अगमः 3पूर्वा 3 न् ग्रामा 3 न् । सर्वपदानामयम् । आख्याने । अगम3 म् पूर्वा 3 न् ग्रामा 3 न् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203792,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अन्त्यस्य तु` इत्यादि। तुशब्दः पदान्तरेभ्यो विशेषं दर्शयति। अन्त्यस्येत्यनेनापि स्वरितः, <<अनुदात्तं प्रश्नान्ताभिपूजितयोः>> [[8.2.100]]  इत्यनेनाप्यनुदात्तः; तयोश्चैकत्र यौगपद्यं न सम्भवति। तत्र वचनप्रामाण्यादनुदात्तोऽपि पक्षे न भवति, स्वरितोऽपि॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203792,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अनन्त्यस्यापि प्रश्नाख्यानयोः॥ सर्वेषामेव पदानामिति। नन्वन्त्यस्यानुदातम्,'प्रश्नान्ताभिपूजितयोः'  इत्यनुदातप्लुतेन भवितव्यम्, तत्कथमेष स्वरितः प्लुतो भवति? अत आह - अनन्त्यस्येति। यद्यप्यत्र विकल्पो न श्रुतः, तथाप्यतेनापिशब्देनान्त्यस्याप्ययं स्वरितः प्लुतो भवति, ततश्चानुदातप्लुतः पाक्षिकः सम्पद्यते इति भावः। ननु चापिशब्द आख्यानेऽन्त्यसमुच्चयेन चरितार्थः, ततः किम्? प्रश्नेऽन्त्यस्यानुदातस्य नित्यं प्लुतः प्राप्नोति, तत्र विकल्पाभावान्नैष दोषः। प्रश्नेऽप्यपिशब्दस्य तात्पर्यं गम्यते; सहनिर्दिष्टत्वात्, ततश्च प्रश्नान्ते स्वरितानुदातयोः प्लुतयोर्विकल्पो भविष्यति॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203792,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनयोः सर्वस्य टेः स्वरितः प्लुतः स्यात् । प्रश्ने—कदा ३ इह ३ आगमः ३ । आख्याने—अद्य ३ एव ३ आगमः ३ इति ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203792,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a question or narration, the end vowel of a word, though not final in a sentence, becomes प्लुत and स्वरित , as well as the word which is final in a sentence.\nThe word '<i>padasya</i>' is understood here: and so also the word '<i>svarita</i>'. The end-vowel of a word which is not the last word in a sentence, as well as of the last word, becomes <i>svarita</i> and <i>pluta</i>, when a question is asked, or a fact is narrated. In fact, all the words of a sentence become <i>svarita</i> and <i>pluta</i> hereby.\n\nThus in questioning we have:- आगमा॑३: पूर्वा॑३न् ग्रामा॑३न् अग्नि भूतां॑३इ or पटा३उ ॥ Thus all words have become <i>svarita</i> and <i>pluta</i>. The final word would, in one alternative, become <i>anudatta</i> also, by [[8.2.100]], as shown under that <i>sutra</i>. The force of the word अपि in the <i>sutra</i>, is to make the final word also <i>svarita</i>, and thus this <i>sutra</i> makes [[8.2.100]] an optional <i>sutra</i> with regard to question.\n\nIn <i>akhyana</i> or narration, there is no other rule, which is debarred by this. Therefore there, all words become <i>svarita</i> and <i>pluta</i> necessarily, by the force of this <i>sutra</i>. Thus अगमा॑३न् पुर्वा॑३न् ग्रामा॑३न् भोः॑३ ॥\n\nAnother view of this <i>sutra</i> is that the word अपि applies only to <i>akhyana</i>, so that in <i>akhyana</i> all words become <i>svarita</i>. But in <i>prasna</i>, the final word will not become <i>svarita</i>, but <i>anudatta</i> necessarily by [[8.2.100]]. According to this view, this <i>sutra</i> does not ordain option. This view is not adopted by <i>Kasika</i>, or <i>Padamanjari</i> or <i>Siddhanta</i> <i>Kaumudi</i>."
+    },
+    {
+      "id": 7,
+      "verse_id": 20203792,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a question or narration, the end vowel of a word, though not final in a sentence, becomes प्लुत and स्वरित , as well as the word which is final in a sentence."
+    }
+  ]
+}

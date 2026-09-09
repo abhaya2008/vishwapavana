@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211995,
+    "chapter_id": 7790,
+    "verse_number": "२४६",
+    "content_sanskrit": "चट्",
+    "padaccheda": "चटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भेदने",
+    "meaning_english": "to kill, to injure, to break",
+    "audio_url": null,
+    "display_order": 246,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211995,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — उच्चाटन करना"
+    }
+  ]
+}

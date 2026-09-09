@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212700,
+    "chapter_id": 7793,
+    "verse_number": "२३",
+    "content_sanskrit": "बहुलमन्यत्रापि संज्ञाछन्दसोः",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212700,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "णिलुगित्येव । वान्ति पर्णशुषो वातास्ततः पर्णमुचोऽपरे ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202587,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१४८",
+    "content_sanskrit": "वर्चस्केऽवस्करः",
+    "padaccheda": "वर्चस्के । अवस्करः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 148,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202587,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कुत्सितं वर्चो  वर्चस्कमन्नमलम्, तस्मिन्नभिधेयेऽवस्कर इति निपात्यते। अवपूर्वस्य किरतेः कर्मणि <<ॠदोरप्>> [[३.३.५७]] इत्यप्, निपातनात् सुट्। अवकीर्यत इत्यवस्करोऽन्नमलम्। तत्संबन्धाद् देशोऽपि तथोच्यते। वर्चस्क इति किम् ? अवकरः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202587,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कुत्सितं वर्चो वर्चस्कम्, अन्नमलं तस्मिन् सुट् । अवकीर्यत इत्यवस्करः । वर्चस्के किम् । अवकरः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202587,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वर्चस्केऽवस्करः>> - वर्चस्केऽवस्करः ।मूत्रं प्ररुआआव उच्चारावस्करौ शमलं शकृत् । गूथं पुरीषं वर्चस्कमस्त्री विष्ठाविशौ स्त्रिया॑मित्यमरः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202587,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कुत्सितं वर्चो वर्चस्कम्,'कुत्सिते'  इति कन्,'सो' पदादौऽ इति सत्वम्। कना निर्द्देशो दीप्तौ मा भूदिति, दीप्तावपि हि वर्चःशब्दो वर्तते। अन्नमलमिति। भाण्डेषु यल्लग्नं काष्ठादिनाऽपकृष्य काकादिभ्यो विकीर्यते तदन्नमलम्। अवकीर्यत इति। भूमाववक्षिप्यत इत्यर्थः। तत्सम्बन्धाद् देशोपीति। यत्र भाण्डानि परिमृज्यन्ते देशे स देशः। तथा च याज्ञवल्कयः - 'सम्मार्जितावस्करया व्यये चामुक्तहस्तया'  इति। अपर आह -पुरीषं वर्चस्कं तद्देशश्चेति। अवकर इति। ब्रह्मचारिणः स्त्रियां रेतः सेकौअवकरः, यतोऽवकीर्णो भवति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202587,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वर्चस्कं मलं१ तच्छोधनसाधनं च । तद्वान् देशश्चावस्करः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202587,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अवस्कर is formed by सुट् meaning 'excrement'.\nThat which has bad lustre is called वचस्क (कुत्सितं) ॥ It applies to the ejected food. To the root कृ is added the affix अप् [[3.3.57]], the preposition अव and irregularly the सुट् ॥ Thus अवस्करोऽन्नमलम् ॥ The place where the excreta lie (the rectum) is also so called. When not having this sense, we have अवकरः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202587,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अवस्कर is formed by सुट् meaning 'excrement'."
+    }
+  ]
+}

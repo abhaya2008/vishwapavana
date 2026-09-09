@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212839,
+    "chapter_id": 7794,
+    "verse_number": "३९",
+    "content_sanskrit": "विषेः किच्च",
+    "padaccheda": "",
+    "anvaya": "णु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212839,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "विष्णुः ।"
+    }
+  ]
+}

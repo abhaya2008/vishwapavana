@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213443,
+    "chapter_id": 7799,
+    "verse_number": "१०९",
+    "content_sanskrit": "ऋषिराशिदृतिग्रन्थिक्रिमिध्वनिबलिकौलिमौलिरविकविकपिमुनयः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213443,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते पुंसि स्युः । अयमृषिः ।"
+    }
+  ]
+}

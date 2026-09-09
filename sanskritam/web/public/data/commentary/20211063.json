@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211063,
+    "chapter_id": 7781,
+    "verse_number": "१०६४",
+    "content_sanskrit": "कै",
+    "padaccheda": "कै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 1064,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211063,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दे ' इति सामान्यतः उक्तावपि शब्दविशेषे प्रयुज्यते ।"
+    }
+  ]
+}

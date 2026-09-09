@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20201772,
+    "chapter_id": 7764,
+    "verse_number": "४.४.३२",
+    "content_sanskrit": "उञ्छति",
+    "padaccheda": "उञ्छति",
+    "anvaya": "'तत् उञ्छति' (इति) समर्थानाम् प्रथमात् परः ठक् प्रत्ययः ",
+    "meaning_sanskrit": "'उञ्छति' अस्मिन् अर्थे द्वितीयासमर्थात् ठक् प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": "अनुवृत्तिः — तत् (४.४.२८), प्रति-अनुपूर्वम् (४.४.२८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201772,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तदिति द्वितीयासमर्थादुञ्छतीत्येतस्मिन्नर्थे ठक्  प्रत्ययो भवति। बदराण्युञ्छति बादरिकः। श्यामाकिकः। भूमौ पतितस्यैकैकस्य कणस्योपादनमुञ्छः। कणानुञ्छति काणिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201772,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "बदराण्युञ्छति बादरिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201772,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "बदराण्युञ्छति बादरिकः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201772,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<रक्षति>> - रक्षति । अस्मिन्नर्थे द्वितीयान्ताट्ठगित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201772,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<रक्षति>> - सामाजिक इति । समजन्ति अस्मिन्निति समाजः=समूहः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201772,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`उञ्छति` इति। उद्धुनोतीत्यर्थः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201772,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "तदुच्चिनोतीत्यर्थे ठक् । व्रीहीनुञ्छन् व्रीहिकः । श्यामाकिकः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201772,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes after a word in the Accusative -2nd case in construction when the sense is 'who gleans that'.\nThus बदराण्युञ्छति = बादरिकः 'who picks up jujubes'. श्यामाकिकः, काणिकः ॥ To pick up every grain (कण) fallen on the ground is called उञ्छ ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201772,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes after a word in the Accusative -2nd case in construction when the sense is 'who gleans that'."
+    },
+    {
+      "id": 10,
+      "verse_id": 20201772,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'उञ्छति' इति 'उछिँ' धातोः लट्लकारस्य प्रथमपुरुषैकवचनम् । भूमौ पतितान् फलान् धान्यकणानामुपादानम् (चयनम् / स्वीकरणम्) उञ्छनम् नाम्ना ज्ञायते । यस्य पदार्थस्य उञ्छनम् क्रियते तस्मात् द्वितीयासमर्थात् वर्तमानसूत्रेण ठक्-प्रत्ययः भवति । यथा -\n1. बदराणि उञ्छति सः = बदर + ठक् → बादरिक ।\n2. श्यामाकानि उञ्छति सः  = श्यामक + ठक् → श्यामकिक ।\n3. कणान् उञ्छति सः = कण + ठक् → काणिक ।\n                                   "
+    }
+  ]
+}

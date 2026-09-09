@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214083,
+    "chapter_id": 7805,
+    "verse_number": "२९०",
+    "content_sanskrit": "यच्च निम्नोन्नतं चित्रे सरूपं पर्वतादिभिः । न तत्र प्रतिघातादि कार्यं तद्वत्प्रवर्तते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 290,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214083,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "पुनरपि दर्शनभेदमाह--\nपर्वतादिभिः सरूपं निम्नोन्नत चित्रभित्तौ दृश्यते, न च तावता तत्र प्रतिघातादिकार्यभेदो ज्ञानान्तरेण तत्र भेदावगतिरेवेत्यर्थः ॥"
+    }
+  ]
+}

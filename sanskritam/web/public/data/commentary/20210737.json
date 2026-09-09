@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210737,
+    "chapter_id": 7781,
+    "verse_number": "७३८",
+    "content_sanskrit": "ग्लह्",
+    "padaccheda": "ग्लहँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "ग्रहणे अपादाने च",
+    "meaning_english": "to take,to seize, to accept",
+    "audio_url": null,
+    "display_order": 738,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210737,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ग्लहू ' इति स्वामिकाश्यप-सम्मताकारादयः पठन्ति । तदार्षं ग्राह्यम् ' इति मा.धा.वृत्तिः । [ ऊदित्वे तु लुटि इड्विकल्पनात् ' ग्लाढा ' इत्यपि रूपम् इति विशेषः ।]"
+    }
+  ]
+}

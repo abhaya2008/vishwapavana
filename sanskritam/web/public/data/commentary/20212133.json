@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212133,
+    "chapter_id": 7790,
+    "verse_number": "३८४",
+    "content_sanskrit": "मार्ग्",
+    "padaccheda": "मार्गँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अन्वेषणे",
+    "meaning_english": "to investigate, to search, to cleanse, to purify",
+    "audio_url": null,
+    "display_order": 384,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212133,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अन्वेषणेर्थे मृगयेत णौ यौ मार्गेर्भवेन्मार्गति मार्गयेच्च ' (श्लो. 44) इति देवः ।"
+    }
+  ]
+}

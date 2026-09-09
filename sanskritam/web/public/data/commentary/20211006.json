@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211006,
+    "chapter_id": 7781,
+    "verse_number": "१००७",
+    "content_sanskrit": "मेद्",
+    "padaccheda": "मेदृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "मेधाहिंसनयोः सङ्गमे च",
+    "meaning_english": "to understand, to know, to hurt, to injure, to cause trouble, to collect, to merge together",
+    "audio_url": null,
+    "display_order": 1007,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211006,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' थान्तः इति स्वामी । धान्तः इति न्यासः ' इति कौमुदी । ' ऋदितो मेदते मेदेन्मेधाहिंसनयोर्द्वयो: ' (श्लो. 104) इति देवः । भोजराजस्तु मेधिं नानुमन्यते । ' कौमाराश्चातत्रैव अनुकूलाः ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

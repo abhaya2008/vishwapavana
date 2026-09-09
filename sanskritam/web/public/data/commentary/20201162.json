@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201162,
+    "chapter_id": 7760,
+    "verse_number": "३.४.३०",
+    "content_sanskrit": "यावति विन्दजीवोः",
+    "padaccheda": "यावति । विन्द-जीवोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६), कर्मणि (३.४.२९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201162,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यावच्छब्द उपपदे विन्दतेर्जीवतेश्च णमुल् प्रत्ययो भवति। यावद्वेदं भुङ्क्ते। यावल्लभते तावद् भुङ्क्त इत्यर्थः। यावज्जीवमधीते। यावज्जीवति तावदधीत इत्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201162,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यावद्वेदं भुङ्क्ते । यावल्लभ्यते तावदित्यर्थः । यावज्जीवमधीते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201162,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<यावति विन्दजीवोः>> - यावति विन्द । विदेर्लाभार्थस्यानुकरणम् । तस्य हिविन्दती॑त्यादौशे मुचादीना॑मिति नुमस्ति । यावल्लभत इति । असाकल्यमनेन दर्शयति । साकल्ये हिकर्मणि दृशिविदो॑रित्यनेनैव सिद्धम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201162,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`विन्दतेः` इति। `विद्लृ लाभे` (धातुपाठः-1432) इत्यस्य॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201162,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "विन्देति विदेर्लाभार्थस्यानुकरणम्, तस्य हि विन्दतीत्यादौ'शे मुचादीनाम्'  इति नुमस्ति । यावल्लभते ताक्द् भुङ्क्ते इत्यर्थ इति । एतेनासाकल्यं दर्शयति, साकल्ये हि पूर्वेणैव सिद्धम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201162,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "विन्देः शाभावान्न नुम्* । यावद्वेदं धनं ददाति । यावल्लभते तावदित्यर्थः । यावज्जीवं तपस्यति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201162,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verb विद् 'to know' and जीव् 'to live' when the word यावत् is combined with them.\nAs यावद्वेदं भुङ्क्ते 'he eats all that he gets'. यावज्जीवमधीते 'he studies as long as he lives, i.e. throughout his life'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201162,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verb विद् 'to know' and जीव् 'to live' when the word यावत् is combined with them."
+    }
+  ]
+}

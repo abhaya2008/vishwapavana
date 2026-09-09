@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200919,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१५१",
+    "content_sanskrit": "क्रुधमण्डार्थेभ्यश्च",
+    "padaccheda": "क्रुध-मण्डार्थेभ्यः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 151,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), युच् (३.२.१४८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200919,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<क्रुध कोपे>> <<मडि भूषायाम्>>  इत्येतदर्थेभ्यश्च धातुभ्यो युच् प्रत्ययो भवति। क्रोधनः। रोषणः। मण्डनः। भूषणः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200919,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्रोधनः । रोषणः । मण्डनः । भूषणः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200919,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<क्रुधमण्डार्थेभ्यश्च>> - क्रुधमण्डार्थेभ्यश्च । 'क्रुध कोपे' 'मडि भूषायाम्' एतदर्थेभ्यो धातुभ्यो युच् स्यात्तच्छीलादिष्वित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200919,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<क्रुधमण्डार्थेभ्यश्च>> - क्रुध । क्रुध क्रोधे, रुष रोषे, मडि भूषायाम्,भूष् अलङ्कारे ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200919,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`तृन्`  [[3.2.135]]  इति तृनि प्राप्ते युज्विधीयते। इहोत्तरेऽपि प्रत्ययो यत्र विशेषो न विवक्ष्यते, तत्र तृन एवापवादो वेदितव्यः। `रोषणः`इति। `रुष रोषे` (धातुपाठः-1670)॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200919,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्रोधार्थेभ्यो भूषणार्थेभ्यश्च युच् । क्रोधनः । कोपनः । मण्डनः । भूषणः ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200919,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And after the verbs having the sense of क्रुध् 'to be angry' and मण्ड 'to adorn', the affix युच् is used. \nAs क्रोधनः 'wrathful'; रोषणः 'irascible'; मण्डनः 'adorning'; भूषणः 'ornament'. But not so after the verb अलङ्कृ to which <i>sutra</i> [[3.2.136]] applies."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200919,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And after the verbs having the sense of क्रुध् 'to be angry' and मण्ड 'to adorn', the affix युच् is used. "
+    },
+    {
+      "id": 9,
+      "verse_id": 20200919,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "मण्डना गगनस्य माम् (भट्टिकाव्यम् 7.16) — `क्रुध मण्डार्थेभ्यश्च` इति युच्।"
+    }
+  ]
+}

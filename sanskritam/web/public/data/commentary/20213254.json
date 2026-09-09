@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213254,
+    "chapter_id": 7796,
+    "verse_number": "५६",
+    "content_sanskrit": "क्लिशेरीच्चोपधायाः कन् लोपश्च लो नाम् च",
+    "padaccheda": "",
+    "anvaya": "कन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213254,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्लिशेः कन् स्यात् उपाधाया ईत्वं लस्य लोपो नामागमश्च । कीनाशो यमः । कित्वफलं चिन्त्यम् ।"
+    }
+  ]
+}

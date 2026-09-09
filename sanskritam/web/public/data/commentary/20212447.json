@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212447,
+    "chapter_id": 7791,
+    "verse_number": "१८९",
+    "content_sanskrit": "भवान् । दीर्घायुः । देवानांप्रियः । आयुष्मान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 189,
+    "avatarnika": "भवदादिः (5.3.14)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212447,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "दृशिग्रहणाद्भवदादियोग एव"
+    }
+  ]
+}

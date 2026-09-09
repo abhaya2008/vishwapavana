@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200951,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१८३",
+    "content_sanskrit": "हलसूकरयोः पुवः",
+    "padaccheda": "हल-सूकरयोः । पुवः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 183,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), ष्ट्रन् (३.२.१८१), करणे (३.२.१८२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200951,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पू इति पूङ्पूञोस्सामान्येन ग्रहणम्। अस्माद् धातोः करणे कारके ष्ट्रन् प्रत्ययो भवति, तच्चेत् करणं हलसूकरयोरवयवो भवति। हलस्य पोत्रम्। सूकरस्य पोत्रम्। मुखमुच्यते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200951,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पूङ्पूञोः करणे ष्ट्रन् स्यात् तच्चेत्करणं हलसूकरयोरवयवः । हलस्य सूकरस्य वा पोत्रम् । मुखमित्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200951,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<हलसूकरयोः पुवः>> - हलसूकरयोः पुवः । पोत्रमिति ।तितुत्रतथसिसुसरे॑ति नेट् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200951,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<हलसूकरयोः पुवः>> - तच्चेत्करणमित्यादि । एतेन हलसूकरयोरभिधेयत्वमुपपदत्वं च निरस्तम् । मुखमित्यर्थ इति । तत्रैव रूढेरिति भावः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200951,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`तच्चेत् करणं हलशूकरयोरवयवो भवति` इति। एतेन हलशूकरयोरित्येषाऽवयवषष्ठी, नत्वभिधेयसप्तमीति दर्शयति। `{मुखमुच्यते -  काशिका, पदमञ्जरी च} मुखमेवोच्यते` इति। नान्यः कर्णाद्यवयवः। एतच्चाभिधानशक्तिस्वाभाव्यात्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200951,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "हलसूकरयोः पुवः॥ तच्चेत्करणं हलसूकरयोरवयवो भवतीति। एतेन हलसूकरयोरभिधेयत्वमुपपदत्वं च निरस्यति। मुखमुच्यते इति। नान्यः कर्णादिः। एतदपि स्वभावादेव लभ्यते॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200951,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एतयोरङ्गे वाच्ये पुवः करणे ष्ट्रन् । भूशोधनसाधनत्वाद्धलसूकरयोर्मुखं पोत्रम् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200951,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ष्ट्रन् is used after the verb पू 'to purify' with the sense of instrument when denoting a member of the body of a plough or of a hog.\nThe verb पू includes both पूङ् and पूञ् as पोत्रम् 'a plough-share'; पोत्रमे 'the snout of a hog'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200951,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ष्ट्रन् is used after the verb पू 'to purify' with the sense of instrument when denoting a member of the body of a plough or of a hog."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200951,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "पित्रनिकषणविभिन्नभुवं (किरातार्जुनीयम् 12.53) — `हलसूकरयोः पुवः` इति ष्ट्रन्प्रत्ययः।"
+    }
+  ]
+}

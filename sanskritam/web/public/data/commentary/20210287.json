@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210287,
+    "chapter_id": 7781,
+    "verse_number": "२८८",
+    "content_sanskrit": "वेष्ट्",
+    "padaccheda": "वेष्टँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वेष्टने",
+    "meaning_english": "to surround, to cover",
+    "audio_url": null,
+    "display_order": 288,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210287,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वेष्ट विलुण्ठने ' इति धातुकाव्यव्याख्या ' (1.34) अकर्मकः इति च । वेष्टनम् - ग्रन्थनम्, लोटनम् - परिहाणिश्च ( परिणाहश्च ( हाणम् ))' इति क्षीरस्वामी । काशकृत्स्नः धातुममुं न पपाठ ।"
+    }
+  ]
+}

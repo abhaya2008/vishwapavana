@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212713,
+    "chapter_id": 7793,
+    "verse_number": "३६",
+    "content_sanskrit": "ध्मो धम च",
+    "padaccheda": "",
+    "anvaya": "क्वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212713,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "धमकः कर्मकारः ।"
+    }
+  ]
+}

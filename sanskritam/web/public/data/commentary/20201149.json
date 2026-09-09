@@ -1,0 +1,45 @@
+{
+  "verse": {
+    "id": 20201149,
+    "chapter_id": 7760,
+    "verse_number": "३.४.१७",
+    "content_sanskrit": "सृपितृदोः कसुन्",
+    "padaccheda": "सृपि-तृदोः । कसुन्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), छन्दसि (३.४.६), भावलक्षणे (३.४.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201149,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भावलक्षणे छन्दसीति वर्तते। सृपितृदोर्धात्वोर्भावलक्षणेऽर्थे वर्तमानयोश्छन्दसि विषये तुमर्थे कसुन् प्रत्ययो भवति। पु॒रा क्रू॒रस्य॑ वि॒सृपो॑ विरप्शिन् (तै०सं० १.१.९.३)। पु॒रा ज॒त्रुभ्य॑ आ॒तृदः॑ (ऋ० ८.१.१२)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201149,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "भावलक्षणे इत्येव । पुरा क्रूरस्य विसृपो विरप्शिन् (पु॒रा क्रू॒रस्य॑ वि॒सृपो॑ विर॒प्शिन्) । पुरा जत्रुभ्य आतृदः (पु॒रा ज॒त्रुभ्य॑ आ॒तृदः॑) ॥ इति तृतीयोऽध्यायः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201149,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas), the affix कसुन् comes after the verbs 1. सृप् 'to creep' 2. तृद् 'to injure' , in the sense of Infinitives indicating name of action.\nThus विसृपः । पुरा क्रूरस्य विसृपः (<i>Yaj</i>. I.28.); आतृदः (<i>Rig</i>. VIII.I.12); पुरा अत्रुभ्य आतृदः (<i>Rig</i>. VIII.I.12). These words are Indeclinable by [[1.1.40]]."
+    },
+    {
+      "id": 4,
+      "verse_id": 20201149,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas), the affix कसुन् comes after the verbs 1. सृप् 'to creep' 2. तृद् 'to injure' , in the sense of Infinitives indicating name of action."
+    }
+  ]
+}

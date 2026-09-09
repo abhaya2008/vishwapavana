@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210830,
+    "chapter_id": 7781,
+    "verse_number": "८३१",
+    "content_sanskrit": "मह्",
+    "padaccheda": "महँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to worship,to revere",
+    "audio_url": null,
+    "display_order": 831,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210830,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " महयन्महतीत्येते पूजायां णौ शपि क्रमात् ' ( श्लो. 196 ) इति देवः । क्षीरस्वामी नामुं धातुं पठति ।"
+    }
+  ]
+}

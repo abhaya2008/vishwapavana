@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203762,
+    "chapter_id": 7778,
+    "verse_number": "८.२.७५",
+    "content_sanskrit": "दश्च",
+    "padaccheda": "दः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": "अनुवृत्तिः — दः (८.२.७२), सिपि (८.२.७४), रुः (८.२.७४), वा (८.२.७४), धातोः (८.२.७४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203762,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "दकारान्तस्य धातोः पदस्य सिपि परतो रुर्भवति, दकारो वा। अभिनस्त्वम् अभिनत् त्वम्। अच्छिनस्त्वम्, अच्छिनत् त्वम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203762,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "धातोर्दस्य पदान्तस्य सिपि परे रुः स्याद्वा । अवेः-अवेत् ।{$ {!1065 अस!} भुवि$} । अस्ति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203762,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "धातोर्दस्य पदान्तस्य सिपि रुर्वा। अवेः, अवेत्। विद्यात्। विद्याताम्। विद्युः। विद्यात्। विद्यास्ताम्। अवेदीत्। अवेदिष्यत्॥ {$ {! 17 अस !} भुवि $} (धातुपाठे <{02.0060}>) ॥ अस्ति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203762,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "चकारेण `दः`  [[8.2.72]]  इत्यनुकृष्यते, तेनोत्तरत्र तस्यानुवृत्तिर्न भवति। `अभिनस्त्वम्` इति। लङ्, रुधारित्वात्? श्नम्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203762,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अभिनदिति । तन्मध्यपतितस्य श्नमस्तद्भक्तस्य वाटस्तद्ग्रहणेन ग्रहणादत्र पदस्य धातुत्वम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203762,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "दान्त¹धातोः सिपि पदान्ते वा रुः स्यात् । अवेः, अवेत् । अवित्तम् । अवेदम् । अविद्व । लुङि सेट्त्वाद् 'नेटि' इत्यवृद्धिः । अवेदीत् । अवेदिष्टाम् । अवेदिषुः । कर्मणि अवेदि । अवेदिषाताम् । लिटि"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203762,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "द् or रु may optionally be substituted for the द् of a root, , before the personal ending सि (स्) when such द् stands at the end of a word.\nThus अभिनत् त्वम् or अभिनस् त्वम्, अच्छिनत् त्वम् or अच्छिनस् त्वम् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20203762,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "द् or रु may optionally be substituted for the द् of a root, , before the personal ending सि (स्) when such द् stands at the end of a word."
+    }
+  ]
+}

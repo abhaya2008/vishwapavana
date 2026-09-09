@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211182,
+    "chapter_id": 7782,
+    "verse_number": "१७",
+    "content_sanskrit": "निंस्",
+    "padaccheda": "णिसिँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "चुम्बने",
+    "meaning_english": "to kiss",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211182,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्त्यान्तोयम् । आभरणकारस्तु तालव्यान्तः इति बभ्राम ' इति कौमुदी ।"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200435,
+    "chapter_id": 7754,
+    "verse_number": "२.२.१३",
+    "content_sanskrit": "अधिकरणवाचिना च",
+    "padaccheda": "अधिकरण-वाचिना । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": "अनुवृत्तिः — षष्ठी (२.२.८), न (२.२.१०), क्तेन (२.२.१२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200435,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<क्तोऽधिकरणे च ध्रौव्यगतिप्रत्यवसानार्थेभ्यः>> [[३.४.७६]] इति वक्ष्यति, तस्येदं ग्रहणम्। अधिकरणवाचिना क्तेन षष्ठी न समस्यते। इदमेषामासितम्। इदमेषां यातम्। इदमेषां भुक्तम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200435,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्तेन षष्ठी न समस्यते । इदमेषामासितं गतं भुक्तं वा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200435,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अधिकरणवाचिना च>> - अधिकरण । शेषपूरणेन सूत्रं व्याचष्टे-क्तेनेति । इदमेषामासितं शयितं गतं भुक्तं वेति ।क्तोऽधिकरणे च ध्रौव्यगतिप्रत्यवसानार्थेभ्यः॑ इत्यधिकरणे क्तः ।अधिकरणवाचिनश्चे॑ति षष्ठी ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200435,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<अधिकरणवाचिना च>> - अधिकरणवाचिना च ।॒वाचि॑द्रहणं चन्त्यप्रयोजनमिति हरदत्तादयः । इदमेषामिति ।क्तोऽधिकरणे चे॑त् क्तः ।अधिकरणवाचिनश्चे॑ति कर्तरि षष्ठी ।अधिकरणे चे॑त्येव सिद्धे सूत्रद्वयेऽपिवाचि॑ग्रहणं स्पष्टार्थमित्याहुः । ननुकिवृत्तंयद्वृत्त॑मित्यत्र न कर्मणि क्तः, वृतेरकर्मकत्वात् । तथा चाधिकरणक्तान्तेन कथमिह समास इतिचेत् । मैवम् । नायमधिकरणे क्तः, किं तुगत्यर्थाकर्मके॑ति कर्तरि । किमा वृत्तं निष्पन्नमित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200435,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`इदमेषामासिम्` इति। अस्यतेऽस्मिन्नित्यधिकरणे क्तः। `अधिकरणवाचनिश्च`  [[2.3.68]]  षष्ठी। एवं पीतमित्यादावपि। अधिकरणवाचिनेति किम्? छात्रस्य हसितं छात्रहसितमिति॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200435,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अधिकरणवाचिना च॥ ठधिकरणऽ इत्येव सिद्धे वाचिग्रहणं चिन्त्यप्रयोजनम्, कथम्?'कवृते लिप्सायाम्' 'यद्वृतान्नित्यम्'  इति, नायमधिकरणे क्तः, क तर्हि? भावे। किमो वृतं यस्मिन् यदो वृतं यस्मिन्निति व्यधिकरणपदो बहुव्रीहिः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200435,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्तेन षष्ठी न समस्यते । मुनीनामासिता भूमिः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200435,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A word ending with a sixth case-affix is not compounded with a word ending with the affix क्त , when the force of the latter is to denote 'locality' in which something happened\nWhen the affix क्त is attached to roots denoting 'fixedness, motion or eating', it gives the sense of agent and of location in connection with the action denoted by the roots i.e., that the action is located by the agent in this or that site [[3.4.76]]; as इदमेषां यातम् ' here they have gone.'  इदमेषां भुक्तम् 'here they have eaten.'"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200435,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A word ending with a sixth case-affix is not compounded with a word ending with the affix क्त , when the force of the latter is to denote 'locality' in which something happened"
+    }
+  ]
+}

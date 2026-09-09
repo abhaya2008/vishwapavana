@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211193,
+    "chapter_id": 7782,
+    "verse_number": "२८",
+    "content_sanskrit": "रु",
+    "padaccheda": "रु",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound, to howl, to hum, to yelp, to roar, to cry out loud",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211193,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रवते रौति शब्दने ' (श्लो. 23) इति देवः ।"
+    }
+  ]
+}

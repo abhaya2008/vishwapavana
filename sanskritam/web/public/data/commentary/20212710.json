@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212710,
+    "chapter_id": 7793,
+    "verse_number": "३३",
+    "content_sanskrit": "क्वुन् शिल्पिसंज्ञयोरपूर्वस्यापि",
+    "padaccheda": "",
+    "anvaya": "क्वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212710,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रजकः । इक्षुकुट्टकः । चरकः । चष भक्षणे । चषकः । शुनकः । भषकः ।"
+    }
+  ]
+}

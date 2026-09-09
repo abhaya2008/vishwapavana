@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200866,
+    "chapter_id": 7758,
+    "verse_number": "३.२.९८",
+    "content_sanskrit": "पञ्चम्यामजातौ",
+    "padaccheda": "पञ्चम्याम् । अजातौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), जनेः (३.२.९७), डः (३.२.९७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200866,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पञ्चम्यन्त उपपदे जातिवर्जिते जनेर्डः प्रत्ययो भवति। बुद्धिजः। संस्कारजः। दुःखजः। अजाताविति किम्? हस्तिनो जातः। अश्वाज् जातः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200866,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "जातिशब्दवर्जिते पञ्चम्यन्ते उपपदे जनेर्डः स्यात् । संस्कारजः । अदृष्टजः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200866,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पञ्चम्यामजातौ>> - पञ्चम्यामजातौ । जनेरिति ।भूतार्था॑दिति शेषः । संस्कारज[म] इति । संस्काराज्जात्[म] इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200866,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`बुद्धिजः` इति। `जनिकृर्त्तुः प्रकृतिः`  [[1.4.30]]  इति बुद्धेरपादानत्वादपादाने पञ्चमी।, तदस्योपपदत्वम्। बुद्ध्यादिशब्दा जातिशब्दा न भवन्ति; बुद्ध्यादीनामात्मगुणत्वात्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200866,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पञ्चम्यामजातौ॥ बुद्ध्यादय आत्मगुणाः, खेदःउरागः, खेदात् स्त्रेषु प्रवृत्तिरिति दर्शनात्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200866,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अजातिवाचिनि पञ्चम्यन्ते पूर्वे जनेर्डः । ज्ञानजः । विष्णुजः । जातौ त्वश्वाज्जातः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200866,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ड comes after the verb जन् 'to be produced', with a past signification, when the word, in composition with it is in the Ablative -5th case, which does not denote a genus.\nAs बुद्धिजः 'born through understanding'; संस्कारजः 'born of habit'; दुखजः 'born through pain'.\n\nWhy do we say 'when not denoting a genus'? Observe हस्तिनो जातः 'born of elephant'; अश्वाज्जातः 'born of horse'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200866,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ड comes after the verb जन् 'to be produced', with a past signification, when the word, in composition with it is in the Ablative -5th case, which does not denote a genus."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200866,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "त्वाम-क्षत्त्रिय-जे रणे (भट्टिकाव्यम् 6.133) — `पञ्चम्यामजातौ` इति डः।"
+    }
+  ]
+}

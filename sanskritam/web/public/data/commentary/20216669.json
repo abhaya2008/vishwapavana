@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216669,
+    "chapter_id": 7843,
+    "verse_number": "४४",
+    "content_sanskrit": "यत्समवेतं कार्यमुत्पद्यते तत्समवायिकारणम् । यथा तन्तवः पटस्य, पटश्च स्वगतरूपादेः ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "समवायिकारणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216669,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "यदिति । यस्मिन् समवायसम्बन्धेन वर्तमानं तदित्यर्थः । चक्रादिवारणाय समवेतमिति ।"
+    }
+  ]
+}

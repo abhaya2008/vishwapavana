@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213379,
+    "chapter_id": 7799,
+    "verse_number": "४५",
+    "content_sanskrit": "द्यौः स्त्रियाम् ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213379,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "द्योदिवोस्तन्त्रेणोपादानमिदम् । "
+    }
+  ]
+}

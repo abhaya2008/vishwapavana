@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201074,
+    "chapter_id": 7759,
+    "verse_number": "३.३.११८",
+    "content_sanskrit": "पुंसि संज्ञायां घः प्रायेण",
+    "padaccheda": "पुंसि । संज्ञायाम् । घः । प्रायेण",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 118,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), करण-अधिकरणयोः (३.३.११७), च (३.३.११७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201074,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "करणाधिकरणयोरित्येव। पुँल्लिङ्गयोः करणाधिकरणयोरभिधेययोर्धातोर्घः प्रत्ययो भवति, समुदायेन चेत् संज्ञा गम्यते। प्रायग्रहणमकार्त्स्न्यार्थम्। दन्तच्छदः। उरश्छदः पटः। अधिकरणे खल्वपि — एत्य तस्मिन् कुर्वन्ति इत्याकरः। आलयः। पुंसीति किम्? प्रसाधनम्। संज्ञायामिति किम्? प्रहरणो दण्डः। घकारः <<छादेर्घे०>> [[६.४.९६]] इति विशेषणार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201074,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`समुदायेण चेत्` इत्यादि। प्रकृतिप्रत्ययसमुदायेन यदि संज्ञा गम्यत एवं प्रत्ययो भवति, नान्यथा। `अकार्त्स्न्यार्थम्` इति। अकार्त्स्न्यम् = असाकल्यम्, प्रयोजनमर्थो यस्य तत् तथोक्तम्। एतेनाकृत्स्नविषयतां प्रत्ययस्य दर्शयति। `दन्तच्छदः` इति। `छद अपवारणे` (धातुपाठः-1935), चुरादिणिच्। `छादेर्घेऽद्वयुपसर्गस्य`  [[6.4.96]]  इति ह्रस्वः, पूर्ववत् समासः। `प्रसाधनम्िति। `राध साध संसिद्धौ` (धातुपाठः-1262), 1263), अस्माद्धेतुमण्ण्यन्तात् पूर्वसूत्रेण करणे ल्युट्, `कुगतिप्रादयः  [[2.2.18]]  इति समासः॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201074,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "दन्तच्छद इति ।'च्छद आवरणे'  चुरादिः'छादेर्घे' द्व्युपसर्गस्यऽ इति ह्रस्वः । एत्यास्मिन्कुर्वन्ति व्यवहारमित्याकरःउ उत्पत्तिस्थानम् ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201074,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "केषाञ्चिद् धातूनां पुंसि नाम्नि करणाधिकरणयोरर्थयोर्घः स्यात् । स्मरत्यनेनेति स्मरः । क्रियते रत्नादिकमत्रेत्याकरः । आलयः । छादेर्ण्यन्तात् करणे घः । णिलोपः । छाद् अ ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201074,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घ generally comes in the sense of an instrument or location after a root, when the word to be formed is a name and is in the masculine gender.\nThe force of the word प्रायेण 'generally' is to show that this rule is not a universal rule. Thus दन्तच्छदः 'the lip'. छादि 'to cover' + घ [[6.4.96]] = छद lit. 'that by which the teeth are covered'; so also उरच्छद 'a breast plate'; घटः । These denote instruments.\n\nSo also in denoting 'location'. Thus आ + कृ + घ = आकरः 'a mine', so named because men work (<i>akurvanti</i>) in it, आलयः 'a house' that in which men settle down.\n\nWhy do we say 'in the masculine gender'? Observe प्रसाधनम् 'a comb'; (lit. that by which men decorate). Here the affix is <i>lyut</i>.\n\nWhy do we say 'when the complete word so formed is merely an appellative'? Observe प्रहरणो दण्डः 'the beating stick'.\n\nThe indicatory घ् is merely qualifying; for the application of <i>sutra</i> [[6.4.96]] by which after the causative छादि, when घ is added, the long आ is shortened."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201074,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घ generally comes in the sense of an instrument or location after a root, when the word to be formed is a name and is in the masculine gender."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201074,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "सेना परिच्छदस्तस्य (रघुवंशम् 1.19) — `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।\nमातलिस्तस्य माहेन्द्रमामुमोच तनुच्छदम् । यत्रोत्पलदलक्लैब्यमस्त्राण्यापुः सुरद्विषाम् ॥ (रघुवंशम् 12.86) — `पुंसि संज्ञायां घः प्रायेण` इति घः।\nनिर्विभुज्य दशनच्छदं ततो (कुमारसम्भवम् 8.49) — `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।\nसास्रावसक्तकमनियपरिच्छदानाम (किरातार्जुनीयम् 7.40) — `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।\nमृदुचरणतलाग्रदुःस्थितत्वादसहतरा कुचकुम्भयोर्भरस्य । उपरिनिरवलम्बनं प्रियस्य न्यपतदथोच्चतरोच्चिचीषयान्या ॥ (शिशुपालवधम् 7.48) — `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।\nगते मुखच्छदपटसादृशीं दृशः (शिशुपालवधम् 17.67) — `पुंसि संज्ञायां घः प्रायेण` इति घप्रत्ययः।\nजघनेन घनेन सा (भट्टिकाव्यम् 4.17) — `पुंसि संज्ञायां घः` इति करणे घः।\nतं विलोक्याऽशुभाऽऽकरम् (भट्टिकाव्यम् 7.80) — `पुंसि संज्ञायां घः` इति तंत्र हि करणाधिकरणयोरिति वर्तते।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213579,
+    "chapter_id": 7802,
+    "verse_number": "७",
+    "content_sanskrit": "युतान्यण्यन्तानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213579,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "युत । अयुतम् । अनि । धमनि । अणि । विपणिः ॥"
+    }
+  ]
+}

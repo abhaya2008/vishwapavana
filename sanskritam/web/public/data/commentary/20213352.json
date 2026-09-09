@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213352,
+    "chapter_id": 7799,
+    "verse_number": "१८",
+    "content_sanskrit": "भूमिविद्युत्सरिल्लतावनिताभिधानानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213352,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भूमिर्भूः । विद्युत्सौदामनी । सरिन्निम्नगा । लता वल्ली । वनिता योषित् ।"
+    }
+  ]
+}

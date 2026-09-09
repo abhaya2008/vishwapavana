@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212871,
+    "chapter_id": 7794,
+    "verse_number": "७१",
+    "content_sanskrit": "वसेश्च",
+    "padaccheda": "",
+    "anvaya": "सर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212871,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वत्सरः ।"
+    }
+  ]
+}

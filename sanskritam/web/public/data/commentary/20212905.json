@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212905,
+    "chapter_id": 7794,
+    "verse_number": "१०५",
+    "content_sanskrit": "अमिनक्षियजिवधिपतिभ्योऽत्रन्",
+    "padaccheda": "",
+    "anvaya": "अत्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212905,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अमत्रं भाजनम् । नक्षत्रम् । यजत्रः । वधत्रमायुधम् । पतत्रं च तनूरुहम् ।"
+    }
+  ]
+}

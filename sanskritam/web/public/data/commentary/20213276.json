@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213276,
+    "chapter_id": 7797,
+    "verse_number": "८",
+    "content_sanskrit": "झभञ्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213276,
+      "commentary_type": "काशिका",
+      "author": "",
+      "content": "झ भ इत्येतौ वर्णावुपदिश्य पूर्वांश्चान्ते ञकारमितं करोति प्रत्याहारार्थम् । तस्य ग्रहणं भवत्येकेन - <<अतो दीर्घो यञि>> [[7.3.101]] इति यकारेण ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212810,
+    "chapter_id": 7794,
+    "verse_number": "१०",
+    "content_sanskrit": "कॄवॄजॄसिद्रुपन्यनिस्वपिभ्यो नित्",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212810,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कर्णः । वर्णः । जर्णश्चन्द्रे च वृक्षे च । सेना । द्रोणः । पन्नो नीचैर्गतिः । अन्नमोदनः । स्वप्नो निद्रा ।"
+    }
+  ]
+}

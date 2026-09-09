@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213135,
+    "chapter_id": 7795,
+    "verse_number": "१७५",
+    "content_sanskrit": "चित्तेः कणः कश्च",
+    "padaccheda": "",
+    "anvaya": "कण",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 175,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213135,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बाहुलकादगुणः । चिक्कणं मसृणं स्निग्धम् ।"
+    }
+  ]
+}

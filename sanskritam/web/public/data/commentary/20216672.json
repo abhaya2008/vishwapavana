@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216672,
+    "chapter_id": 7843,
+    "verse_number": "४७",
+    "content_sanskrit": "तदेतत्त्रिविधकारणमध्ये यदसाधारणं कारणं तदेव करणम् ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": "करणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216672,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "तदेतदिति । यस्मात् कारणात् करणत्वघटकं कारणमुपदर्शितं तस्माद् एतत् त्रिविधसाधकमध्ये यत्साधकतमं तदेव करणमिति भावः ।"
+    }
+  ]
+}

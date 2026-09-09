@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211518,
+    "chapter_id": 7786,
+    "verse_number": "४९",
+    "content_sanskrit": "चृत्",
+    "padaccheda": "चृतीँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "हिंसाग्रन्थनयोः",
+    "meaning_english": "to kill, to destroy, to hurt, to string together, to tie together, to collect",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211518,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ग्रन्थनयोः ' इति कृदन्तरूपमाला । श्रन्थनम् = विस्रंसनम् ।"
+    }
+  ]
+}

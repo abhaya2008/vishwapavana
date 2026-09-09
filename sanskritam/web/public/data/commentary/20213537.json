@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213537,
+    "chapter_id": 7800,
+    "verse_number": "१४",
+    "content_sanskrit": "अङ्गुष्ठोदकबकवशानां छन्दस्यन्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213537,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अङ्गुष्ठस्य <<स्वाङ्गानामकुर्वादीनाम्>> इति द्वितीयस्योदात्तत्वे प्राप्तेऽन्तोदात्तार्थ आरम्भः । वशाग्रहणं नियमार्थं छन्दस्येवेति । तेन लोके आद्युदात्ततेत्याहुः ॥"
+    }
+  ]
+}

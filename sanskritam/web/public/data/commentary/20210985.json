@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210985,
+    "chapter_id": 7781,
+    "verse_number": "९८६",
+    "content_sanskrit": "क्षर्",
+    "padaccheda": "क्षरँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सञ्चलने",
+    "meaning_english": "to flow,to ooze,to drip",
+    "audio_url": null,
+    "display_order": 986,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210985,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — बहना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210985,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्षल ' धातुः अस्यैव पाठान्तरम् इति बहवः । क्षीरस्वामी तु ' क्षल सञ्चलने सञ्चये च ' इति पृथाग्धातुं पठति भ्वादौ ।"
+    }
+  ]
+}

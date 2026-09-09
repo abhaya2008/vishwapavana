@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210779,
+    "chapter_id": 7781,
+    "verse_number": "७८०",
+    "content_sanskrit": "ईष्",
+    "padaccheda": "ईषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उञ्छे",
+    "meaning_english": "to glean, to gather particle by particle",
+    "audio_url": null,
+    "display_order": 780,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210779,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ईषतीतीष उञ्च्छेर्थे, गत्यादावीषते भवेत् ' (169) इति देवः ।"
+    }
+  ]
+}

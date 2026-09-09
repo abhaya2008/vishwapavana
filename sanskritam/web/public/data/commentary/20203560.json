@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203560,
+    "chapter_id": 7776,
+    "verse_number": "७.४.४४",
+    "content_sanskrit": "विभाषा छन्दसि",
+    "padaccheda": "विभाषा । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "अनुवृत्तिः — किति (७.४.४०), ति (७.४.४०), हिः (७.४.४२), जहातेः (७.४.४३), च (७.४.४३), क्त्वि (७.४.४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203560,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "जहातेरङ्गस्य विभाषा हि इत्ययमादेशो भवति छन्दसि विषये क्त्वाप्रत्यये परतः। हित्वा शरीरं यातव्यम्। हात्वा।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203560,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हित्वा शरीरम् । हीत्वा वा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203560,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पूर्वसूत्रारम्भादयमारम्भः, अन्यथा हिनोतिजहात्यो रूपद्वयं सिद्धम् । हात्वेति । छान्दसत्वादीत्वाभावः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203560,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "जहातेः कित्वहित्वं वा स्यात् । 'घुमास्था' - (६-४-६६) इति ईत्वम् । हीत्वा । हित्वा छान्दसत्त्वात्क्वचिद्दीर्घाभावोऽपि हात्वा ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203560,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "हि is optionally substituted for हा (जहाति) before क्त्वा in the छन्दस् (Vedas).\nAs हित्वा शरीरं यातव्यं, or हात्वा also. The long ई of [[6.4.63]] does not take place also as a Vedic irregularity."
+    },
+    {
+      "id": 6,
+      "verse_id": 20203560,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "हि is optionally substituted for हा (जहाति) before क्त्वा in the छन्दस् (Vedas)."
+    }
+  ]
+}

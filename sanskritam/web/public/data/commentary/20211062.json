@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211062,
+    "chapter_id": 7781,
+    "verse_number": "१०६३",
+    "content_sanskrit": "सै",
+    "padaccheda": "षै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "क्षये",
+    "meaning_english": "to wane,to decline,to decay,to reduce,to contract, to shrink",
+    "audio_url": null,
+    "display_order": 1063,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211062,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' षै क्षये सावतीतीष्टं अन्तकर्मणि तु स्यति ' (श्लो. 7) इति देवः । ' सै ' इति केचित् । स तु पाठो भाष्यादि (6.1.64) विरोधादुपेक्ष्यः । अष्टाध्यायीसूत्रेषु ' षा ' धातुग्रहणानि सर्वाण्यपि दैवादिकस्येति निष्कर्षः ।"
+    }
+  ]
+}

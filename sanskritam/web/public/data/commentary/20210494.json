@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210494,
+    "chapter_id": 7781,
+    "verse_number": "४९५",
+    "content_sanskrit": "चुम्ब्",
+    "padaccheda": "चुबिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वक्त्रसंयोगे",
+    "meaning_english": "to kiss",
+    "audio_url": null,
+    "display_order": 495,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210494,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसायां, वक्त्रसंयोगे चुम्बयेच्चुम्बति क्रमात् ' ( श्लो. 140) इति देवः ।"
+    }
+  ]
+}

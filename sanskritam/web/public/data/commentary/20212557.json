@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212557,
+    "chapter_id": 7792,
+    "verse_number": "३७",
+    "content_sanskrit": "मृगय्वादयश्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212557,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते कुप्रत्ययान्ता निपात्यन्ते । मृगं यातीति मृगयुर्व्याधः । देवयुर्धार्मिकः । मित्रयुर्लोकयात्राभिज्ञः । आकृतिगणोऽयम् ।"
+    }
+  ]
+}

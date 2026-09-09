@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213453,
+    "chapter_id": 7799,
+    "verse_number": "११९",
+    "content_sanskrit": "भावे ल्युडन्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 119,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213453,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हसनम् । भावे किम् ? पचनोऽग्निः । इध्मप्रवचनः कुठारः ।"
+    }
+  ]
+}

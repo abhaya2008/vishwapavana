@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211173,
+    "chapter_id": 7782,
+    "verse_number": "८",
+    "content_sanskrit": "ईर्",
+    "padaccheda": "ईरँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "गतौ कम्पने च",
+    "meaning_english": "to go,to shake,to tremble",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211173,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ईरयतीरति । ईरेः क्षेपे विभाषा णौ लुकीर्ते गतिकम्पयोः ' (श्लो. 153) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211782,
+    "chapter_id": 7790,
+    "verse_number": "३३",
+    "content_sanskrit": "भक्ष्",
+    "padaccheda": "भक्षँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अदने",
+    "meaning_english": "to eat",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211782,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भक्षयत्यदने भक्षेः शपि भक्षति भक्षते ' (श्लो. 177) इति देवः ।"
+    }
+  ]
+}

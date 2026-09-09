@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211919,
+    "chapter_id": 7790,
+    "verse_number": "१७०",
+    "content_sanskrit": "म्लेच्छ्",
+    "padaccheda": "म्लेछँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अव्यक्तायां वाचि",
+    "meaning_english": "to speak inarticulately, to speak uncultured, to talk rude, to talk indescent",
+    "audio_url": null,
+    "display_order": 170,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211919,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " इह अव्यक्तवाग् अपशब्दनम् ' इति माधवः । चान्द्रास्तु धातुममुम् अत्र (चुरादौ) न पठन्ति इति क्षीरतरङ्गिण्यां स्पष्टम् ।"
+    }
+  ]
+}

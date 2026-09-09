@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210625,
+    "chapter_id": 7781,
+    "verse_number": "६२६",
+    "content_sanskrit": "खल्",
+    "padaccheda": "खलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सञ्चये चलने च",
+    "meaning_english": "to gather, to collect,to move, to shake",
+    "audio_url": null,
+    "display_order": 626,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210625,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चकारात् चलने च ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

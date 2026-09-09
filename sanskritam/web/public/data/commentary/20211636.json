@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211636,
+    "chapter_id": 7786,
+    "verse_number": "१६७",
+    "content_sanskrit": "लुप्",
+    "padaccheda": "लुपॢँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "छेदने",
+    "meaning_english": "to cut, to break, to slice",
+    "audio_url": null,
+    "display_order": 167,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211636,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — लुप्त करना"
+    }
+  ]
+}

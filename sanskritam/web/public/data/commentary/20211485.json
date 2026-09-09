@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211485,
+    "chapter_id": 7786,
+    "verse_number": "१६",
+    "content_sanskrit": "ऋच्छ्",
+    "padaccheda": "ऋछँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "गतीन्द्रियप्रलयमूर्तिभावेषु",
+    "meaning_english": "to go, to become weak, to lose power of senses, to harden",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211485,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "इन्द्रियप्रलयः = सम्मोहः, मूर्तिभावः = काठिन्यम् ।"
+    }
+  ]
+}

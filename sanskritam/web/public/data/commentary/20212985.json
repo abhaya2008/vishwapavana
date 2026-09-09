@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212985,
+    "chapter_id": 7795,
+    "verse_number": "२५",
+    "content_sanskrit": "अलीकादयश्च",
+    "padaccheda": "",
+    "anvaya": "कीकच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212985,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कीकजन्ता निपात्यन्ते । अल भूषणादौ । अलीकं मिथ्या । विपूर्वाद्व्यलीकं विप्रियं खेदश्च । वलीकं पटलप्रान्ते इत्यादि ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212681,
+    "chapter_id": 7793,
+    "verse_number": "४",
+    "content_sanskrit": "उषिकुषिगार्तिभ्यः स्थन्",
+    "padaccheda": "",
+    "anvaya": "स्थन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212681,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ओष्ठः कोष्ठम् । गाथा अर्थः । बाहुलकात् शोथः ।"
+    }
+  ]
+}

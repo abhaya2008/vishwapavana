@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211017,
+    "chapter_id": 7781,
+    "verse_number": "१०१८",
+    "content_sanskrit": "वेण्",
+    "padaccheda": "वेणृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "गतिज्ञानचिन्तानिशामनवादित्रग्रहणेषु",
+    "meaning_english": "to go,to know,to understand, to remember, to memorize, to think, to play a musical instrument, to pick a musical instrument",
+    "audio_url": null,
+    "display_order": 1018,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211017,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नान्तोप्ययम् ' इति कौमुदी । ' वादित्रं वाद्यभाण्डम्, तस्य वादनार्थग्रहणम् इति क्षीरस्वामी । ' वीणृ ज्ञानचिन्तानिशामनेषु ' इति काशकृत्स्नः । तत्र भ्वादौ इतः पूर्वं णकारदण्डके ' वेणृ गतिप्रेषणाश्लेषणेषु ' इति दृश्यते । ' उत माता महिषम् अन्ववेनत् ' ( तै. सं. 3.2.113) इत्यत्र भाष्यकाराः तवर्गपञ्चमान्तम् अमुं पेठुः । ' वेनृ इत्येके ' इति पक्षम् अवलम्ब्य धा.का. व्याख्यायां (2 - 77) शानचि प्रयोगः दर्श्यते - ' वेनमाना ' इति ।"
+    }
+  ]
+}

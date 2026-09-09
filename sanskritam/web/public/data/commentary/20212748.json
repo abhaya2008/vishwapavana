@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212748,
+    "chapter_id": 7793,
+    "verse_number": "७१",
+    "content_sanskrit": "पणेरिज्यादेश्च वः",
+    "padaccheda": "",
+    "anvaya": "इजि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212748,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वणिक् । स्वार्थेऽण् । नैगमो वाणिजो वणिक् ।"
+    }
+  ]
+}

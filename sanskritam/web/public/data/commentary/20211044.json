@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211044,
+    "chapter_id": 7781,
+    "verse_number": "१०४५",
+    "content_sanskrit": "भृ",
+    "padaccheda": "भृञ्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "भरणे",
+    "meaning_english": "to nourish, to protect, to fill, to maintain, to protect, to upbring",
+    "audio_url": null,
+    "display_order": 1045,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211044,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पूरणेपि इति भट्टिः ' इति धा.का.व्याख्याने । (2 - 29) ' भृञो बिभर्ति बिभृते भरते भरतीत्यपि । ऋदन्तस्य भृणातीति भर्त्सने श्नि तथा भरः ' (श्लो. 28) इति देवः ।"
+    }
+  ]
+}

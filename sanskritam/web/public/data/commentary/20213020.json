@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213020,
+    "chapter_id": 7795,
+    "verse_number": "६०",
+    "content_sanskrit": "वहिवस्यर्तिभ्यश्चित्",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213020,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वहतिः पवनः । वसतिर्गृहयामिन्योः । अरतिः क्रोधः ।"
+    }
+  ]
+}

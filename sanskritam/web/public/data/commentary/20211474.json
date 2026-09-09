@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211474,
+    "chapter_id": 7786,
+    "verse_number": "५",
+    "content_sanskrit": "क्षिप्",
+    "padaccheda": "क्षिपँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to throw, to send, to make fly",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211474,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अधि — दोष लगाना, आरोप लगाना\nअव — नीचे फेंकना\nआ — उपहास करना, थट्टा करना, आकर्षण करना, खींचना\nउद् — उठाना, उठा लेना\nनि — रखना\nपरि + आ — बांधना\nप्र — जोर से फेंकना\nवि — फैलाना\nवि + नि — देना, छोडना\nसम् + आ — भेजना\nसम् — संक्षेप करना, नष्ट करना, आकर्षण करना, खींचना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211474,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्षिप्यति प्रेरणे शे तु क्षिपति क्षिपते पदे ' (श्लो. 130) इति देवः ।"
+    }
+  ]
+}
