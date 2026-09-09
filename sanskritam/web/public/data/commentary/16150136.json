@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150136,
+    "chapter_id": 6150,
+    "verse_number": "2.136",
+    "content_sanskrit": "प्रसादे सति किं स्यात् इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 136,
+    "base_unit_id": "BG_C02_V65_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150136,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तथापि नानाविधदुःखाभिभूतत्वात् न स्वास्थ्यमास्थातुं शक्यम् , इत्याशयेन पृच्छति -\nप्रसाद इति ।\n\nश्लोकार्धेनोत्तरमाह -\nउच्यत इति ।"
+    }
+  ]
+}

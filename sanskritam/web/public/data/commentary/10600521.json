@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600521,
+    "chapter_id": 6105,
+    "verse_number": "1.21",
+    "content_sanskrit": "तेन तꣳ ह बृहस्पतिरुद्गीथमुपासाञ्चक्र एतमु एव बृहस्पतिं मन्यन्ते वाग्घि बृहती तस्या एष पतिः ॥ ११ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600521,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "तथा वाचो बृहत्याः पतिः तेनासौ बृहस्पतिः ॥"
+    }
+  ]
+}

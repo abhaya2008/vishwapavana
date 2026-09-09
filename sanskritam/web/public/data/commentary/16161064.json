@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161064,
+    "chapter_id": 6161,
+    "verse_number": "13.64",
+    "content_sanskrit": "यथोक्तार्थोपसंहारार्थः अयं श्लोकः आरभ्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "base_unit_id": "BG_C13_V18_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161064,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "त्वमर्थशुद्ध्यर्थं सविकारं क्षेत्रम् , पदवाक्यार्थविवेकसाधनं च अमानित्वादि, तत्पदार्थ च शुद्धम् , तद्भावोक्त्यर्थं उक्त्वा तेषां फलम् उपसंहरति-\nयथोक्तेति ।"
+    }
+  ]
+}

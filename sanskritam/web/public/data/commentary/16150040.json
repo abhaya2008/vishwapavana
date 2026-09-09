@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150040,
+    "chapter_id": 6150,
+    "verse_number": "2.40",
+    "content_sanskrit": "कथमविक्रय आत्मेति द्वितीयो मन्त्रः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "base_unit_id": "BG_C02_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150040,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तदेव साधयितुं ‘न जायते म्रियते वा विपश्चित्’(क. उ. १-२-१८) इत्यादिमन्त्रान्तरमवतारयति -\nकथमिति ।"
+    }
+  ]
+}

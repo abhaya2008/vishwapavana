@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150019,
+    "chapter_id": 6150,
+    "verse_number": "2.19",
+    "content_sanskrit": "शीतोष्णादीन् सहतः किं स्यादिति शृणु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "base_unit_id": "BG_C02_V15_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150019,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अधिकारिविशेषणं तितिक्षुत्वं नोपयुक्तम् , केवलस्य तस्य पुमर्थाहेतुत्वात् इति शङ्कते -\nशीतेति ।\n\nविवेकवैराग्यादिसहितं तन्मोक्षहेतुज्ञानद्वारा तदर्थमिति परिहरति -\nश्रृण्विति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178135,
+    "chapter_id": 6178,
+    "verse_number": "2.135",
+    "content_sanskrit": "अन्तरिक्षक्षित इत्यादि समानम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 135,
+    "base_unit_id": "Ch_C02_S24_V10_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178135,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अन्तरिक्षे क्षियतीत्यन्तरिक्षक्षिद्वायुस्तस्मै वायवे ॥९ – १० ॥"
+    }
+  ]
+}

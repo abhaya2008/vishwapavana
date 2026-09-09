@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161102,
+    "chapter_id": 6161,
+    "verse_number": "13.102",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "base_unit_id": "BG_C13_V33_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161102,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "‘न करोति न लिप्यते च’(भ. गी. १३-३१) इत्यत्र द्रष्टृत्वेन दृश्यधर्मशून्यत्वं हेतुमाह -\nकिं चेति ।"
+    }
+  ]
+}

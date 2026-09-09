@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150111,
+    "chapter_id": 6150,
+    "verse_number": "2.111",
+    "content_sanskrit": "योगानुष्ठानजनितसत्त्वशुद्धिजा बुद्धिः कदा प्राप्स्यते इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "base_unit_id": "BG_C02_V52_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150111,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यथोक्तबुद्धिप्राप्तिकालं प्रश्नपूर्वकं प्रकटयति-\nयोगेति ।"
+    }
+  ]
+}

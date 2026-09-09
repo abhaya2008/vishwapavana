@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152082,
+    "chapter_id": 6152,
+    "verse_number": "4.82",
+    "content_sanskrit": "ज्ञानं कथं नाशयति पापमिति दृष्टान्त उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "base_unit_id": "BG_C04_V37_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152082,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञाने सत्यपि धर्माधर्मयोरुपलम्भात् कुतस्ततो निवृत्तिः ? इत्याशङ्क्य, ज्ञानस्य धर्माधर्मनिवर्तकत्वं दृष्टान्तेन दर्शयितुम् अनन्तरश्लोकमवतारयति -\nज्ञानमिति ।"
+    }
+  ]
+}

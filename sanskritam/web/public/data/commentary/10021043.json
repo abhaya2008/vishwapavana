@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021043,
+    "chapter_id": 6107,
+    "verse_number": "1.43",
+    "content_sanskrit": "अन्यत्र धर्मादन्यत्राधर्मादन्यत्रास्मात्कृताकृतात् ।\nअन्यत्र भूताच्च भव्याच्च यत्तत्पश्यसि तद्वद ॥ १४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021043,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अकामत्वादिसाधनान्तरविधानार्थमुत्तरवाक्यमवतारयति -\nकथं पुनरिति ।"
+    }
+  ]
+}

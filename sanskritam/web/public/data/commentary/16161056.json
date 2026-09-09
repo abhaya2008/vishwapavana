@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161056,
+    "chapter_id": 6161,
+    "verse_number": "13.56",
+    "content_sanskrit": "उपाधिभूतपाणिपादादीन्द्रियाध्यारोपणात् ज्ञेयस्य तद्वत्ताशङ्का मा भूत् इत्येवमर्थः श्लोकारम्भः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "base_unit_id": "BG_C13_V14_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161056,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आरोपादृते साक्षादेव ज्ञेयस्य पाण्यादिमत्त्वमाशङ्क्य, आह -\nउपाधीति ।"
+    }
+  ]
+}

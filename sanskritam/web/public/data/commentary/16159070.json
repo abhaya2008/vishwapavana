@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159070,
+    "chapter_id": 6159,
+    "verse_number": "11.70",
+    "content_sanskrit": "यतः अहं त्वन्माहात्म्यापरिज्ञानात् अपराद्धः, अतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "base_unit_id": "BG_C11_V41_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159070,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अज्ञाननिमित्तम् अपराधं क्षमापयति-\nयत इति ।"
+    }
+  ]
+}

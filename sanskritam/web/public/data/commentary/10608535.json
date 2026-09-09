@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608535,
+    "chapter_id": 6185,
+    "verse_number": "2.35",
+    "content_sanskrit": "यथादर्शे तथात्मनि यथा स्वप्ने तथा पितृलोके ।\nयथाप्सु परीव ददृशे तथा गन्धर्वलोके च्छायातपयोरिव ब्रह्मलोके ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608535,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "यदनुगतानीति ।\nयेन येन मनसाऽधिष्ठितानि तेन तेन सहावतिष्ठन्ते निवृत्तव्यापाराणि भवन्तीत्यर्थः ॥ १० ॥"
+    }
+  ]
+}

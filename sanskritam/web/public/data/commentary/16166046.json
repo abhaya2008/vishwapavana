@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166046,
+    "chapter_id": 6166,
+    "verse_number": "18.46",
+    "content_sanskrit": "ज्ञानस्य तु तावत् त्रिविधत्वम् उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "base_unit_id": "BG_C18_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166046,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञानादीनां प्रत्येकं ज्ञातव्यं प्रतिज्ञाय, ज्ञानत्रैविध्यार्थं श्लोकत्रयम् अवतारयति -\nज्ञानस्येति ।"
+    }
+  ]
+}

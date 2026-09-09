@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16705050,
+    "chapter_id": 6105,
+    "verse_number": "1.50",
+    "content_sanskrit": "नक्षत्राण्येवर्क्चन्द्रमाः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते नक्षत्राण्येव सा चन्द्रमा अमस्तत्साम ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "base_unit_id": "Ch_C01_S06_V04"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16705050,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "नक्षत्राणामधिपतिश्चन्द्रमा अतः स साम ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C01_S06_V04_B01",
+      "bhashya": "नक्षत्राणामधिपतिश्चन्द्रमा अतः स साम ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

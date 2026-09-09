@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166105,
+    "chapter_id": 6166,
+    "verse_number": "18.105",
+    "content_sanskrit": "ततः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "base_unit_id": "BG_C18_V52_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166105,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "बुद्धेः वैशारद्यं यत्नेन कार्यकरणनियमनं, देहस्थितिहेत्वतिरिक्तविषयत्यागः, देहस्थित्यर्थेष्वपि तेषु रागद्वेषवर्जनम् , उपायभेदे सिद्धे, सन्ति उपायान्तराण्यपि यत्नसाध्यानि इत्याह -\nतत इति ।"
+    }
+  ]
+}

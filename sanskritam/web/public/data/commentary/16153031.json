@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153031,
+    "chapter_id": 6153,
+    "verse_number": "5.31",
+    "content_sanskrit": "यस्तु परमार्थदर्शी सः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "base_unit_id": "BG_C05_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153031,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तर्हि फले सक्तिं त्यक्त्वा, सर्वैरपि कर्तव्यमिति कर्मसंन्यासस्य निरवकाशत्वम् इत्याशङ्क्य, अविदुषः सकाशाद् विदुषो विशेषं दर्शयति -\nयस्त्विति ।"
+    }
+  ]
+}

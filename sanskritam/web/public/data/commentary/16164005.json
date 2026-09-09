@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164005,
+    "chapter_id": 6164,
+    "verse_number": "16.5",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "base_unit_id": "BG_C16_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164005,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "दैवी सम्पदं प्राप्तस्य विशेषणान्तराणि अपि सन्ति इति आह -\nकिञ्चेति ।"
+    }
+  ]
+}

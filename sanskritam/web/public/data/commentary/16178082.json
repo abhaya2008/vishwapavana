@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178082,
+    "chapter_id": 6178,
+    "verse_number": "2.82",
+    "content_sanskrit": "वसन्तो हिङ्कारः, प्राथम्यात् । ग्रीष्मः प्रस्तावः इत्यादि पूर्ववत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "base_unit_id": "Ch_C02_S16_V01_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178082,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पर्जन्यायत्तत्वादृतुव्यवस्थायास्तद्दृषेरनन्तरमृतुदृष्टिमाचष्टे –\n<span class=\"pratika\">वसन्त इत्यादिना ॥१॥</span>"
+    }
+  ]
+}

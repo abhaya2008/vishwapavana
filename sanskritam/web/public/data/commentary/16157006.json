@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157006,
+    "chapter_id": 6157,
+    "verse_number": "9.6",
+    "content_sanskrit": "ये पुनः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "base_unit_id": "BG_C09_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157006,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आत्मज्ञानाख्ये धर्मे श्रद्धावतां तन्निष्ठानां परमपदप्राप्तिमुक्त्वा, ततो विमुखानां संसारप्राप्तिम् आह -\nये पुनरिति ।"
+    }
+  ]
+}

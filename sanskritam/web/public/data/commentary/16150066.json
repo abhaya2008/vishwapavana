@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150066,
+    "chapter_id": 6150,
+    "verse_number": "2.66",
+    "content_sanskrit": "अथेदानीं प्रकरणार्थमुपसंहरन्ब्रूते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "base_unit_id": "BG_C02_V30_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150066,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "श्लोकान्तरमुत्थापयति -\nअथेति ।\nआत्मनो दुर्ज्ञानत्वप्रदर्शनानन्तरमिति यावत् । वस्तुवृत्तापेक्षया शोकमोहयोरकर्तव्यत्वं प्रकरणार्थः ।"
+    }
+  ]
+}

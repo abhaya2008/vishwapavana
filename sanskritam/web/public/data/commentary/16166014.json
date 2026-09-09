@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166014,
+    "chapter_id": 6166,
+    "verse_number": "18.14",
+    "content_sanskrit": "एतान्यपि तु कर्माणि यज्ञदानतपांसि पावनानि उक्तानि सङ्गम् आसक्तिं तेषु त्यक्त्वा फलानि च तेषां परित्यज्य कर्तव्यानि इति अनुष्ठेयानि इति मे मम निश्चितं मतम् उत्तमम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "base_unit_id": "BG_C18_V06_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166014,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रतिज्ञातम् अर्थम् उपसंहरति -\nएतान्यपीति ।"
+    }
+  ]
+}

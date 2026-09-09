@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150119,
+    "chapter_id": 6150,
+    "verse_number": "2.119",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 119,
+    "base_unit_id": "BG_C02_V56_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150119,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "लक्षणभेदानुवादद्वारा विविदिषोरेव कर्तव्यान्तरमुपदिशति -\nकिञ्चेति ।"
+    }
+  ]
+}

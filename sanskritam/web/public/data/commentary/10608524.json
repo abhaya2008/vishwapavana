@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608524,
+    "chapter_id": 6185,
+    "verse_number": "2.24",
+    "content_sanskrit": "अग्निर्यथैको भुवनं प्रविष्टो रूपं रूपं प्रतिरूपो बभूव ।\nएकस्तथा सर्वभूतान्तरात्मा रूपं रूपं प्रतिरूपो बहिश्च ॥ ९ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608524,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "छेद्यत्वे युक्तिमाह -\nजन्मजरेत्यादिना ।"
+    }
+  ]
+}

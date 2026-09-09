@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16165013,
+    "chapter_id": 6165,
+    "verse_number": "17.13",
+    "content_sanskrit": "आहारस्त्वपि सर्वस्य भोक्तुः प्राणिनः त्रिविधो भवति प्रियः इष्टः, तथा यज्ञः, तथा तपः, तथा दानम् । तेषाम् आहारादीनां भेदम् इमं वक्ष्यमाणं शृणु ॥ ७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "base_unit_id": "BG_C17_V07_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16165013,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कथम् एतेषां प्रत्येकं त्रैविध्यम् ? तत्र आह -\nतेषाम् इति\n॥ ७ ॥"
+    }
+  ]
+}

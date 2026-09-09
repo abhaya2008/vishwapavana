@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16704061,
+    "chapter_id": 6104,
+    "verse_number": "1.61",
+    "content_sanskrit": "पिता माता प्रजैत एव मन एव पिता वाङ्माता प्राणः प्रजा ॥ ७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "base_unit_id": "BR_C01_S05_V07"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16704061,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तथा त्रयो वेदा इत्यादीनि वाक्यानि ऋज्वर्थानि ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BR_C01_S05_V07_B01",
+      "bhashya": "तथा त्रयो वेदा इत्यादीनि वाक्यानि ऋज्वर्थानि ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159016,
+    "chapter_id": 6159,
+    "verse_number": "11.16",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C11_V11_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159016,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उक्तरूपवन्तं भगवन्तं प्रकारान्तरेण विशिनष्टि-\nकिञ्चेति ।\n“अर्जुन इति“ अध्याहारेऽपि पदसङ्घटनासम्भवात्\n॥ ११ ॥"
+    }
+  ]
+}

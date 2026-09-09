@@ -1,6 +1,6 @@
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
-import { useDatabase, IS_STATIC } from '../db/database';
+import { useDatabase, IS_STATIC, resolveUllekhaLinks } from '../db/database';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { EDIT_PASSWORD, isAuthed, storeAuth } from '../utils/auth';
@@ -459,11 +459,19 @@ function matchesPaneType(commentaryType, match) {
 }
 
 function resolvePaneData(def, verse, commentaries) {
+    if (def.paraText !== undefined) {
+        const val = def.paraText || '';
+        return val && String(val).trim() ? { kind: 'text', value: String(val) } : null;
+    }
     if (def.field) {
         const val = verse ? verse[def.field] : '';
         return val && String(val).trim() ? { kind: 'text', value: String(val) } : null;
     }
-    const comm = commentaries.find(c => matchesPaneType(c.commentary_type, def.match));
+    if (def.commObj) {
+        const val = def.commObj.content || def.commObj.content_sanskrit || '';
+        return val && String(val).trim() ? { kind: 'commentary', value: String(val) } : null;
+    }
+    const comm = (commentaries || []).find(c => matchesPaneType(c.commentary_type, def.match));
     return comm && (comm.content || '').trim() ? { kind: 'commentary', value: comm.content } : null;
 }
 
@@ -936,7 +944,7 @@ const HTML_TAG_RE = /<[a-zA-Z]/;
 
 function renderCell(text) {
     if (text && HTML_TAG_RE.test(String(text))) {
-        return <span dangerouslySetInnerHTML={{ __html: text }} />;
+        return <span dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(text) }} />;
     }
     return text || '';
 }
@@ -1139,12 +1147,42 @@ function HeaderedTable({ headers, rows }) {
 }
 
 function CommentaryContent({ content }) {
+    const navigate = useNavigate();
+    const handleClick = (e) => {
+        const anchor = e.target.closest('a');
+        if (anchor) {
+            const href = anchor.getAttribute('href');
+            if (href && href.startsWith('#/')) {
+                e.preventDefault();
+                navigate(href.slice(1));
+            }
+        }
+    };
     const parsed = parseCommentaryContent(content);
     if (!parsed) {
-        if (content && HTML_TAG_RE.test(content)) {
-            return <div className="commentary-text rte-output" dangerouslySetInnerHTML={{ __html: content }} />;
-        }
-        return <div className="commentary-text">{content}</div>;
+        if (!content) return null;
+        const paragraphs = String(content).split(/\n\s*\n/).filter(p => p.trim());
+        return (
+            <div className="commentary-text-container" onClick={handleClick}>
+                {paragraphs.map((para, idx) => {
+                    const isHtml = HTML_TAG_RE.test(para) || para.includes('<span') || para.includes('<a');
+                    if (isHtml) {
+                        return (
+                            <p
+                                key={idx}
+                                className="commentary-para rte-output"
+                                dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(para.replace(/\n/g, '<br />')) }}
+                            />
+                        );
+                    }
+                    return (
+                        <p key={idx} className="commentary-para" style={{ whiteSpace: 'pre-wrap' }}>
+                            {para}
+                        </p>
+                    );
+                })}
+            </div>
+        );
     }
     if (parsed.type === 'word_meanings') return <WordMeaningsTable rows={parsed.rows} />;
     if (parsed.type === 'shabda_analysis') return <ShabdaTable headers={parsed.headers} rows={parsed.rows} />;
@@ -1152,20 +1190,105 @@ function CommentaryContent({ content }) {
     if (parsed.type === 'sandhi') return <HeaderedTable headers={parsed.headers} rows={parsed.rows} />;
     if (parsed.type === 'grammar') return <GrammarTable rows={parsed.rows} />;
     if (parsed.type === 'dhatu') return <DhatuTables header={parsed.header} tables={parsed.tables} dhatus={parsed.dhatus} />;
-    return <div className="commentary-text">{content}</div>;
+    return <div className="commentary-text" style={{ whiteSpace: 'pre-wrap' }}>{content}</div>;
 }
 
-function CommentaryFilterBar({ panes, visiblePanes, onChange }) {
-    const allSelected = visiblePanes.size === panes.length;
+function ParaCommentaryContent({ paragraphs, content }) {
+    const navigate = useNavigate();
+    const [openTeekas, setOpenTeekas] = useState({});
+
+    const toggleTeeka = (idx) => {
+        setOpenTeekas(prev => ({ ...prev, [idx]: !prev[idx] }));
+    };
+
+    const handleClick = (e) => {
+        const anchor = e.target.closest('a');
+        if (anchor) {
+            const href = anchor.getAttribute('href');
+            if (href && href.startsWith('#/')) {
+                e.preventDefault();
+                navigate(href.slice(1));
+            }
+        }
+    };
+
+    if (paragraphs && paragraphs.length > 0) {
+        return (
+            <div className="para-commentary-container" onClick={handleClick}>
+                {paragraphs.map((p, idx) => {
+                    const isTeekaOpen = !!openTeekas[idx];
+                    const hasTeeka = p.teeka && p.teeka.trim();
+                    const bhashyaText = p.bhashya || '';
+                    return (
+                        <div key={idx} className="para-block" style={{ marginBottom: '1.25rem' }}>
+                            <div
+                                className="para-bhashya-text commentary-para rte-output"
+                                dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(bhashyaText.replace(/\n/g, '<br />')) }}
+                            />
+                            {hasTeeka && (
+                                <div className="para-teeka-wrapper" style={{ marginTop: '0.4rem', marginLeft: '0.2rem' }}>
+                                    <button
+                                        type="button"
+                                        className="para-teeka-toggle-btn"
+                                        onClick={() => toggleTeeka(idx)}
+                                        style={{
+                                            background: 'none',
+                                            border: 'none',
+                                            padding: '4px 0',
+                                            color: '#006699',
+                                            fontWeight: '600',
+                                            fontSize: '0.95rem',
+                                            cursor: 'pointer',
+                                            display: 'inline-flex',
+                                            alignItems: 'center',
+                                            gap: '6px'
+                                        }}
+                                    >
+                                        <span style={{ fontSize: '0.75rem', color: '#006699' }}>{isTeekaOpen ? '▼' : '▶'}</span>
+                                        <span>{p.teeka_type || 'आनन्दगिरिटीका'}</span>
+                                    </button>
+                                    {isTeekaOpen && (
+                                        <div
+                                            className="para-teeka-content rte-output"
+                                            style={{
+                                                marginTop: '0.35rem',
+                                                padding: '0.75rem 1rem',
+                                                background: 'var(--bg-secondary, #F9F8F3)',
+                                                borderLeft: '3px solid #006699',
+                                                borderRadius: '0 6px 6px 0',
+                                                fontSize: '0.98rem',
+                                                lineHeight: '1.7'
+                                            }}
+                                            dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(p.teeka.replace(/\n/g, '<br />')) }}
+                                        />
+                                    )}
+                                </div>
+                            )}
+                        </div>
+                    );
+                })}
+            </div>
+        );
+    }
+
+    return <CommentaryContent content={content} />;
+}
+
+function CommentaryFilterBar({ panes, hiddenPanes, onChange }) {
+    const allSelected = panes.length > 0 && panes.every(p => !hiddenPanes.has(p.key));
 
     const toggle = (key) => {
-        const next = new Set(visiblePanes);
+        const next = new Set(hiddenPanes);
         if (next.has(key)) next.delete(key); else next.add(key);
         onChange(next);
     };
 
     const toggleAll = () => {
-        onChange(allSelected ? new Set() : new Set(panes.map(p => p.key)));
+        if (allSelected) {
+            onChange(new Set(panes.map(p => p.key)));
+        } else {
+            onChange(new Set());
+        }
     };
 
     return (
@@ -1176,7 +1299,7 @@ function CommentaryFilterBar({ panes, visiblePanes, onChange }) {
             </label>
             {panes.map(p => (
                 <label key={p.key} className="cf-item">
-                    <input type="checkbox" checked={visiblePanes.has(p.key)} onChange={() => toggle(p.key)} />
+                    <input type="checkbox" checked={!hiddenPanes.has(p.key)} onChange={() => toggle(p.key)} />
                     <span>{p.title}</span>
                 </label>
             ))}
@@ -1220,7 +1343,7 @@ export default function VersePage() {
     const verseCardRef = useRef(null);
     const avatarnikaRef = useRef(null);
     const commentaryContainerRef = useRef(null);
-    const [visiblePanes, setVisiblePanes] = useState(() => new Set(DISPLAY_PANES.map(p => p.key)));
+    const [hiddenPanes, setHiddenPanes] = useState(() => new Set());
 
     const requireAuth = useCallback((onSuccess) => {
         if (isAuthed()) { onSuccess(); }
@@ -1232,20 +1355,90 @@ export default function VersePage() {
         (chapter.text_name && chapter.text_name.indexOf('मणिमञ्जरी') !== -1)
     ));
 
-    // Mahabharata (both editions) is a bulk-imported mulam corpus with no per-verse
-    // commentary — hide the avatarnika editor and the "sample commentary" placeholder
-    // blocks that make sense for a hand-curated single text but not a 200k-verse epic.
     const isMahabharata = !!(chapter && (chapter.text_id === 4 || chapter.text_id === 5));
 
+    const currentVerse = verses[currentVerseIndex];
+
+    // Compute dynamic commentary/analysis panes for any verse (Maya, Prasthanatraya, Manimanjari, etc.)
+    const versePanes = useMemo(() => {
+        if (!currentVerse) return [];
+        if (isManimanjari) return DISPLAY_PANES;
+
+        const list = [];
+        if (currentVerse.padaccheda) {
+            list.push({ key: 'padaccheda', title: 'पदच्छेदः', field: 'padaccheda' });
+        }
+        if (currentVerse.anvaya) {
+            list.push({ key: 'anvaya', title: 'अन्वयः', field: 'anvaya' });
+        }
+        if (currentVerse.meaning_sanskrit) {
+            list.push({ key: 'meaning_sanskrit', title: 'अर्थः', field: 'meaning_sanskrit' });
+        }
+        if (currentVerse.meaning_english) {
+            list.push({ key: 'meaning_english', title: 'English Meaning', field: 'meaning_english' });
+        }
+
+        if (commentaries && commentaries.length > 0) {
+            const paras = commentaries.paragraphs;
+            if (paras && paras.length > 0) {
+                paras.forEach((p, pIdx) => {
+                    if (p.bhashya && p.bhashya.trim()) {
+                        const bhashyaTitle = paras.length > 1 ? `शङ्कराचार्यभाष्यम् (${pIdx + 1})` : 'शङ्कराचार्यभाष्यम्';
+                        list.push({
+                            key: `bhashya_para_${pIdx}`,
+                            title: bhashyaTitle,
+                            paraText: p.bhashya,
+                        });
+                    }
+
+                    if (p.teeka && p.teeka.trim()) {
+                        const teekaTitle = paras.length > 1
+                            ? `${p.teeka_type || 'आनन्दगिरिटीका'} (${pIdx + 1})`
+                            : (p.teeka_type || 'आनन्दगिरिटीका');
+                        list.push({
+                            key: `teeka_para_${pIdx}`,
+                            title: teekaTitle,
+                            paraText: p.teeka,
+                        });
+                    }
+                });
+
+                commentaries.forEach((c, idx) => {
+                    const title = c.commentary_type || c.author || `व्याख्यानम् ${idx + 1}`;
+                    if (title.indexOf('शङ्कराचार्य') !== -1 || title.indexOf('आनन्दगिरि') !== -1 || title.indexOf('न्यायनिर्णय') !== -1) {
+                        return;
+                    }
+                    const key = `comm_${c.id || idx}`;
+                    list.push({
+                        key,
+                        title,
+                        match: c.commentary_type || title,
+                        commObj: c
+                    });
+                });
+            } else {
+                commentaries.forEach((c, idx) => {
+                    const title = c.commentary_type || c.author || `व्याख्यानम् ${idx + 1}`;
+                    const key = `comm_${c.id || idx}`;
+                    list.push({
+                        key,
+                        title,
+                        match: c.commentary_type || title,
+                        commObj: c
+                    });
+                });
+            }
+        }
+        return list;
+    }, [currentVerse, commentaries, isManimanjari]);
+
     const togglePane = useCallback((key) => {
-        setOpenPanes(prev => ({ ...prev, [key]: !prev[key] }));
+        setOpenPanes(prev => ({ ...prev, [key]: prev[key] === false ? true : false }));
     }, []);
 
     const scrollToPane = useCallback((key) => {
         const el = document.getElementById(`mm-pane-${key}`);
         if (el) {
-            // Measure the actual bottom of the sticky verse container so the pane
-            // appears just below it regardless of how tall the card is.
             const stickyBottom = verseCardRef.current
                 ? verseCardRef.current.getBoundingClientRect().bottom
                 : 160;
@@ -1613,8 +1806,6 @@ ${wrapper.innerHTML}
         );
     }
 
-    const currentVerse = verses[currentVerseIndex];
-
     return (
         <div className="verse-page-wrapper">
             <Header />
@@ -1707,22 +1898,22 @@ ${wrapper.innerHTML}
 
                 {/* Commentary Section */}
                 <div className="commentary-container" ref={commentaryContainerRef}>
-                    {isManimanjari ? (
-                        /* Standard collapsible panes + right index for every Manimanjari shloka */
+                    {!isMahabharata && versePanes.length > 0 ? (
+                        /* Standard collapsible panes + right index for all verses */
                         <div className="mm-layout">
                             <div className="mm-panes">
                                 <CommentaryFilterBar
-                                    panes={DISPLAY_PANES}
-                                    visiblePanes={visiblePanes}
-                                    onChange={setVisiblePanes}
+                                    panes={versePanes}
+                                    hiddenPanes={hiddenPanes}
+                                    onChange={setHiddenPanes}
                                 />
                                 {IS_STATIC && savedAt && (Date.now() - savedAt < 30000) && (
                                     <div style={{ margin: '0.4rem 0', padding: '0.5rem 0.8rem', background: '#F0FFF4', border: '1px solid #68D391', borderRadius: '6px', fontSize: '0.987rem', color: '#276749' }}>
                                         ✓ Saved to GitHub! Refresh the page to see latest data.
                                     </div>
                                 )}
-                                {DISPLAY_PANES.map(def => {
-                                    if (!visiblePanes.has(def.key)) return null;
+                                {versePanes.map(def => {
+                                    if (hiddenPanes.has(def.key)) return null;
                                     const data = resolvePaneData(def, currentVerse, commentaries);
                                     const rawText = data ? data.value : '';
                                     return (
@@ -1730,7 +1921,7 @@ ${wrapper.innerHTML}
                                             key={def.key}
                                             id={`mm-pane-${def.key}`}
                                             title={def.title}
-                                            isOpen={!!openPanes[def.key]}
+                                            isOpen={openPanes[def.key] !== false}
                                             onToggle={() => togglePane(def.key)}
                                             hasData={!!data}
                                             rawText={rawText}
@@ -1738,12 +1929,12 @@ ${wrapper.innerHTML}
                                             onEditRequested={requireAuth}
                                         >
                                             {data && data.kind === 'commentary' && (
-                                                <CommentaryContent content={data.value} />
+                                                (matchesPaneType(def.match, 'शङ्कराचार्य') || matchesPaneType(def.match, 'भाष्य')) && commentaries?.paragraphs?.length > 0
+                                                    ? <ParaCommentaryContent paragraphs={commentaries.paragraphs} content={data.value} />
+                                                    : <CommentaryContent content={data.value} />
                                             )}
                                             {data && data.kind === 'text' && (
-                                                HTML_TAG_RE.test(data.value)
-                                                    ? <div className="commentary-text rte-output" dangerouslySetInnerHTML={{ __html: data.value }} />
-                                                    : <div className="commentary-text" style={{ whiteSpace: 'pre-wrap' }}>{data.value}</div>
+                                                <CommentaryContent content={data.value} />
                                             )}
                                         </CollapsiblePane>
                                     );
@@ -1762,13 +1953,13 @@ ${wrapper.innerHTML}
                                 {!indexMinimized && (
                                     <>
                                     <ul className="mm-index-list">
-                                        {DISPLAY_PANES.map(def => (
+                                        {versePanes.map(def => (
                                             <li key={def.key} className="mm-index-item">
                                                 <button
-                                                    className={`mm-index-btn${activePane === def.key ? ' active' : ''}${!visiblePanes.has(def.key) ? ' mm-index-btn-hidden' : ''}`}
+                                                    className={`mm-index-btn${activePane === def.key ? ' active' : ''}${hiddenPanes.has(def.key) ? ' mm-index-btn-hidden' : ''}`}
                                                     onClick={() => {
-                                                        if (!visiblePanes.has(def.key)) {
-                                                            setVisiblePanes(prev => { const n = new Set(prev); n.add(def.key); return n; });
+                                                        if (hiddenPanes.has(def.key)) {
+                                                            setHiddenPanes(prev => { const n = new Set(prev); n.delete(def.key); return n; });
                                                         }
                                                         scrollToPane(def.key);
                                                     }}
@@ -1778,112 +1969,16 @@ ${wrapper.innerHTML}
                                             </li>
                                         ))}
                                     </ul>
-                                    <button className="mm-bulk-btn mm-index-bulk-btn" onClick={() => requireAuth(() => setShowBulkImport(true))}>
-                                        📋 Bulk Import
-                                    </button>
+                                    {isManimanjari && (
+                                        <button className="mm-bulk-btn mm-index-bulk-btn" onClick={() => requireAuth(() => setShowBulkImport(true))}>
+                                            📋 Bulk Import
+                                        </button>
+                                    )}
                                     </>
                                 )}
                             </nav>
                         </div>
-                    ) : (
-                    <>
-                    {/* Anvaya / Meaning Prose (shown first) */}
-                    {currentVerse && currentVerse.anvaya && (
-                        <div className="commentary-block">
-                            <div className="commentary-block-header">॥ अन्वयः ॥</div>
-                            <div className="commentary-block-content">{currentVerse.anvaya}</div>
-                        </div>
-                    )}
-
-                    {/* Commentary Sections with Gold Headers */}
-                    {commentaries.length > 0 ? (
-                        <div className="commentary-sections">
-                            {commentaries.map((comm, idx) => (
-                                <div key={comm.id} className="commentary-block">
-                                    <div className="commentary-block-header">
-                                        ॥ {comm.author || comm.author_name || `Commentary ${idx + 1}`} ॥
-                                    </div>
-                                    <div className="commentary-block-content">
-                                        <CommentaryContent content={comm.content || comm.content_sanskrit || ''} />
-                                    </div>
-                                </div>
-                            ))}
-                        </div>
-                    ) : isMahabharata ? null : (
-                        /* Show sample sections matching reference */
-                        <div className="commentary-sections">
-                            <div className="commentary-block">
-                                <div className="commentary-block-header">
-                                    ॥ छात्रतोषिणी टीका ॥
-                                </div>
-                                <div className="commentary-block-content has-tabs">
-                                    <div className="commentary-tabs-inline">
-                                        <button className="commentary-tab-inline active">॥ छात्रतोषिणी टीका ॥</button>
-                                        <button className="commentary-tab-inline">॥ विशेष-व्याख्या: ॥</button>
-                                    </div>
-                                    <div className="commentary-text">
-                                        we will add data <span className="highlight-text">soon</span>.
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div className="commentary-block">
-                                <div className="commentary-block-header">
-                                    ॥ अन्वयदीपिका - गुजराती ॥
-                                </div>
-                                <div className="commentary-block-content">
-                                    we will add data soon.
-                                </div>
-                            </div>
-
-                            <div className="commentary-block">
-                                <div className="commentary-block-header">
-                                    ॥ श्रीरघुवीराचार्यश्रीविरचितम् - भाष्यम् ॥
-                                </div>
-                                <div className="commentary-block-content">
-                                    we will add data soon.
-                                </div>
-                            </div>
-
-                            <div className="commentary-block">
-                                <div className="commentary-block-header">
-                                    ॥ श्रीभगवत्प्रसादाचार्यश्रीविरचिता - भाष्यार्थबोधि॥
-                                </div>
-                                <div className="commentary-block-content">
-                                    we will add data soon.
-                                </div>
-                            </div>
-                        </div>
-                    )}
-
-                    {/* Meaning Sections */}
-                    {currentVerse && (
-                        <>
-                            {currentVerse.meaning_sanskrit && (
-                                <div className="commentary-block">
-                                    <div className="commentary-block-header">
-                                        ॥ अर्थः ॥
-                                    </div>
-                                    <div className="commentary-block-content">
-                                        {currentVerse.meaning_sanskrit}
-                                    </div>
-                                </div>
-                            )}
-
-                            {currentVerse.meaning_english && (
-                                <div className="commentary-block">
-                                    <div className="commentary-block-header">
-                                        ॥ English Meaning ॥
-                                    </div>
-                                    <div className="commentary-block-content">
-                                        {currentVerse.meaning_english}
-                                    </div>
-                                </div>
-                            )}
-                        </>
-                    )}
-                    </>
-                    )}
+                    ) : null}
                 </div>
 
                 {/* Scroll to Top Button */}

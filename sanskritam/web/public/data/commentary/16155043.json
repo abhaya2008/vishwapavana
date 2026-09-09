@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155043,
+    "chapter_id": 6155,
+    "verse_number": "7.43",
+    "content_sanskrit": "तदज्ञानं किंनिमित्तमित्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "base_unit_id": "BG_C07_V25_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155043,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अविवेकरूपम् अज्ञानं भगवन्निष्ठाप्रतिबन्धकम् उक्तम् । तस्मिन्नपि निमित्तं प्रश्नपूर्वकम् अनाद्यज्ञानम् उपन्यस्यति -\nतदीयम् अज्ञानम् इत्यादिना ।"
+    }
+  ]
+}

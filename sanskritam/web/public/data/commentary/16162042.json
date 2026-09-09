@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162042,
+    "chapter_id": 6162,
+    "verse_number": "14.42",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "base_unit_id": "BG_C14_V24_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162042,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "गुणातीतस्य लिङ्गान्तरम् आह -\nकिं चेति ।\nतयोः समत्वं रागद्वेषानुत्पादकतया । स्वकीयत्वाभिमानानास्पदत्वं प्रसन्नत्वम् । स्वास्थ्यात् अप्रच्युतिः अविक्रियत्वम् ।"
+    }
+  ]
+}

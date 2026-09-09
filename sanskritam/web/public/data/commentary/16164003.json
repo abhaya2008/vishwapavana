@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164003,
+    "chapter_id": 6164,
+    "verse_number": "16.3",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "base_unit_id": "BG_C16_V02_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164003,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "दैवीं सम्पदमभिजातस्य विशेषणान्तराणि दर्शयति -\nकिं चेति ।"
+    }
+  ]
+}

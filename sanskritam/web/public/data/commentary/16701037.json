@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701037,
+    "chapter_id": 6101,
+    "verse_number": "1.37",
+    "content_sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्सबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥ ३७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "base_unit_id": "BG_C01_V37"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701037,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "फलाभावादनर्थसम्भवाच्च परहिंसा न कर्तव्येत्युपसंहरति -\n<span class=\"pratika\">तस्मादिति ।</span>\n\nकिञ्च राज्यसुखमुद्दिश्य युद्धमुपक्रम्यते, न च स्वजनपरिक्षये सुखमुपपद्यते, तेन न कर्तव्यं युद्धमित्याह -\n<span class=\"pratika\">स्वजनं हीति</span>\n॥ ३७ ॥"
+    }
+  ]
+}

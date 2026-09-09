@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157016,
+    "chapter_id": 6157,
+    "verse_number": "9.16",
+    "content_sanskrit": "एवम् अविद्यालक्षणाम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C09_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157016,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तर्हि कीदृशी प्रकृतिः ? सा च कथं सृष्टौ उपयुक्ता, इत्याशङ्क्य, आह -\nएवमिति ।\nसंसारस्य अनादित्वद्योतनार्थं पुनः पुनः इत्युक्तम् ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159056,
+    "chapter_id": 6159,
+    "verse_number": "11.56",
+    "content_sanskrit": "यस्मात् एवम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "base_unit_id": "BG_C11_V33_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159056,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तव अौदासीन्येऽपि प्रतिकूलानीकस्थाः मत्प्रातिकूल्यादेव न भविष्यन्ति, इत्येवं यस्मान् निश्चितम् , तस्मात् त्वदौदासीन्यम् अकिञ्चित्करम् , इत्याह-\nयस्मादिति ।\nउत्तिष्ठ - युद्धाय उन्मुखी भव, इत्यर्थः ।"
+    }
+  ]
+}

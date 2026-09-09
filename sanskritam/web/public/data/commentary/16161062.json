@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161062,
+    "chapter_id": 6161,
+    "verse_number": "13.62",
+    "content_sanskrit": "किञ्च, सर्वत्र विद्यमानमपि सत् न उपलभ्यते चेत् , ज्ञेयं तमः तर्हि ? न । किं तर्हि ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "base_unit_id": "BG_C13_V17_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161062,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतोऽपि ज्ञेयस्यास्तित्वम् , इत्याह -\nकिञ्चेति ।\n\nहेत्वन्तरमेव स्फोरयितुं शङ्कते -\nसर्वत्रेति ।\n\nन तत् तमो मन्तव्यम् , इत्याह -\nनेति ।"
+    }
+  ]
+}

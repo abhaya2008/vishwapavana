@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701031,
+    "chapter_id": 6101,
+    "verse_number": "1.31",
+    "content_sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ॥ ३१ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "base_unit_id": "BG_C01_V31"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701031,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विपरीतनिमित्तप्रतीतेरपि मोहो भवतीत्याह –\n<span class=\"pratika\">निमित्तानीति ।</span>\nतानि विपरीतानि निमित्तानि यानि वामनेत्रस्फुरणादीनि ।\n\nयुद्धे स्वजनहिंसया फलानुपलम्भादपि तस्मादुपरिरंसा जायते इत्याह -\n<span class=\"pratika\">न चेति ।</span>\n॥ ३१ ॥"
+    }
+  ]
+}

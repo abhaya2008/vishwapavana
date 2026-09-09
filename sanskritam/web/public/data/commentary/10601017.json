@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10601017,
+    "chapter_id": 6110,
+    "verse_number": "1.17",
+    "content_sanskrit": "निवृत्तेः सर्वदुःखानामीशानः प्रभुरव्ययः ।\nअद्वैतः सर्वभावानां देवस्तुर्यो विभुः स्मृतः ॥ १० ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10601017,
+      "commentary_type": "आनन्दगिरिटीका (माण्डूक्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "अत्रैते श्लोका भवन्ति —"
+    }
+  ]
+}

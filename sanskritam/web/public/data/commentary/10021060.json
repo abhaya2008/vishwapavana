@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021060,
+    "chapter_id": 6107,
+    "verse_number": "1.60",
+    "content_sanskrit": "यस्तु विज्ञानवान्भवति युक्तेन मनसा सदा ।\nतस्येन्द्रियाणि वश्यानि सदश्वा इव सारथेः ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021060,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "औपाधिके भोक्तृत्वेऽन्वयव्यतिरेकौ शास्त्रञ्च प्रमाणमित्याह -\nन हि केवलस्येति ।"
+    }
+  ]
+}

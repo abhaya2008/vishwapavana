@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608504,
+    "chapter_id": 6185,
+    "verse_number": "2.4",
+    "content_sanskrit": "स्वप्नान्तं जागरितान्तं चोभौ येनानुपश्यति ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608504,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "विपक्षे बाधकमाह -\nयदि हीति ॥ ३ - ४ - ५ ॥"
+    }
+  ]
+}

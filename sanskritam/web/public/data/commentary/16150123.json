@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150123,
+    "chapter_id": 6150,
+    "verse_number": "2.123",
+    "content_sanskrit": "किञ्च—",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "base_unit_id": "BG_C02_V58_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150123,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "जिज्ञासोरेव कर्तव्यान्तरं सूचयति -\nकिञ्चेति ।"
+    }
+  ]
+}

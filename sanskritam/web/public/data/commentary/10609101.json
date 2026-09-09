@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10609101,
+    "chapter_id": 6191,
+    "verse_number": "4.1",
+    "content_sanskrit": "ब्रह्मेति होवाच ब्रह्मणो वा एतद्विजये महीयध्वमिति ततो हैव विदाञ्चकार ब्रह्मेति ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10609101,
+      "commentary_type": "आनन्दगिरिटीका (केन वाक्यभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "विद्येति सत्त्वप्रधाना शक्तिश्चित्तादात्म्यापत्त्या बोधहेतुः ॥ २७ - १ ॥ २८ - २ ॥ २९ - ३ ॥"
+    }
+  ]
+}

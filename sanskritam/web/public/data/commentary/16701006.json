@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701006,
+    "chapter_id": 6101,
+    "verse_number": "1.6",
+    "content_sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "base_unit_id": "BG_C01_V06"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701006,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तेषां सर्वेषामपि महाबलपराक्रमभाक्त्वादनुपेक्ष्यत्वं पुनर्विवक्षति -\n<span class=\"pratika\">सर्व एवेति</span>\n॥ ४, ५, ६ ॥"
+    }
+  ]
+}

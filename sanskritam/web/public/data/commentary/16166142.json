@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166142,
+    "chapter_id": 6166,
+    "verse_number": "18.142",
+    "content_sanskrit": "सम्प्रदायस्य कर्तुः फलम् इदानीम् आह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "base_unit_id": "BG_C18_V68_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166142,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "शास्त्रसम्प्रदायप्रवृत्त्यर्थम् उत्तरश्लोकप्रवृत्तिं दर्शयति -\nसम्प्रदायस्येति ।\nयः इति अध्यापकः निर्दिश्यते ।"
+    }
+  ]
+}

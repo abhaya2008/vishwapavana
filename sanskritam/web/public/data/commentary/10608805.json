@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608805,
+    "chapter_id": 6188,
+    "verse_number": "4.5",
+    "content_sanskrit": "अथाध्यात्मं यदेतद्गच्छतीव च मनोऽनेन चैतदुपस्मरत्यभीक्ष्णं सङ्कल्पः ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608805,
+      "commentary_type": "आनन्दगिरिटीका (केन पदभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "एवं शिष्याभिप्रायमुपवर्ण्य समाधानमाह –\nएतदुपपन्नमिति ।"
+    }
+  ]
+}

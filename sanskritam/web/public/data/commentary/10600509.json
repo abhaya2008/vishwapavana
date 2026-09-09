@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600509,
+    "chapter_id": 6105,
+    "verse_number": "1.9",
+    "content_sanskrit": "तेनेयं त्रयीविद्या वर्तते ओमित्याश्रावयत्योमिति शं सत्योमित्युद्गायत्येतस्यैवाक्षरस्यापचित्यै महिम्ना रसेन ॥ ९ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600509,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "तदुपासकोऽप्युद्गाता तद्धर्मा भवतीत्याह —"
+    }
+  ]
+}

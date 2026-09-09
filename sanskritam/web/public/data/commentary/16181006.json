@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181006,
+    "chapter_id": 6181,
+    "verse_number": "5.6",
+    "content_sanskrit": "यो ह वै प्रतिष्ठां वेद, स अस्मिंल्लोके अमुष्मिंश्च परे प्रतितिष्ठति ह । का तर्हि प्रतिष्ठेति, आह — चक्षुर्वाव प्रतिष्ठा । चक्षुषा हि पश्यन् समे च दुर्गे च प्रतितिष्ठति यस्मात् , अतः प्रतिष्ठा चक्षुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "base_unit_id": "Ch_C05_S01_V03_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181006,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "गुणान्तरमाध्यानायोपदिशति –\n<span class=\"pratika\">यो हेति ।</span>\n\nप्रतिष्ठात्वं चक्षुषो विशदयति –\n<span class=\"pratika\">चक्षुषा हीति ॥३॥</span>"
+    }
+  ]
+}

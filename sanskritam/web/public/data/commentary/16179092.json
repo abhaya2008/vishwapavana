@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179092,
+    "chapter_id": 6179,
+    "verse_number": "3.92",
+    "content_sanskrit": "अथ यानि चतुश्चत्वारिंशद्वर्षाणीत्यादि समानम् । रुदन्ति रोदयन्तीति प्राणा रुद्राः । क्रूरा हि ते मध्यमे वयसि, अतो रुद्राः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "base_unit_id": "Ch_C03_S16_V03_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179092,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्राणेषु रुद्रशब्दप्रवृत्तौ निमित्तमाह –\n<span class=\"pratika\">रुदन्तीति ।</span>\n\nयदुक्तं रोदयन्तीति रुद्रा इति तदुपपादयति –\n<span class=\"pratika\">क्रूरा हीति ॥३॥</span>\nयथा प्राणा वसवो रुद्राश्चोक्तास्तथेति यावत् ।"
+    }
+  ]
+}

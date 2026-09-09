@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021015,
+    "chapter_id": 6107,
+    "verse_number": "1.15",
+    "content_sanskrit": "लोकादिमग्निं तमुवाच तस्मै या इष्टका यावतीर्वा यथा वा ।\nस चापि तत्प्रत्यवदद्यथोक्तमथास्य मृत्युः पुनरेवाह तुष्टः ॥ १५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021015,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पीतमुदकं प्रागेव नोत्तरकालं पानशक्तिरप्यस्तीत्यर्थः ॥ ३ - ४ ॥"
+    }
+  ]
+}

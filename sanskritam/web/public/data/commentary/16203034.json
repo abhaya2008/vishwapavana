@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16203034,
+    "chapter_id": 6203,
+    "verse_number": "3.34",
+    "content_sanskrit": "कः पुनरसौ विस्मय इति, उच्यते -",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "base_unit_id": "T_C03_S10_V06_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16203034,
+      "commentary_type": "वनमालाव्याख्या",
+      "author": "अच्युतकृष्णानन्दतीर्थः",
+      "lang": "sa",
+      "content": "<span class=\"pratika\">क इति ।</span>\nकिङ्कृत इत्यर्थः ।\n\nसार्वात्म्यप्राप्तिकृतो विदुषो विस्मय इत्याह –\n<span class=\"pratika\">उच्यत इति ।</span>"
+    }
+  ]
+}

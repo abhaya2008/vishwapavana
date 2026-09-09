@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179101,
+    "chapter_id": 6179,
+    "verse_number": "3.101",
+    "content_sanskrit": "अथ यत्तपो दानमार्जवमहिंसा सत्यवचनमिति, ता अस्य दक्षिणाः, धर्मपुष्टिकरत्वसामान्यात् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "base_unit_id": "Ch_C03_S17_V04_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179101,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "दक्षिणावत्त्वसाम्यादपि पुरुषस्य यज्ञत्वमवधेयमित्याह –\n<span class=\"pratika\">अथेति ।</span>\n\nतपोदानादिषु दक्षिणादृष्टौ हेतुमाह –\n<span class=\"pratika\">धर्मेति ॥४॥</span>"
+    }
+  ]
+}

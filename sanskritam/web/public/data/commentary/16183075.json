@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16183075,
+    "chapter_id": 6183,
+    "verse_number": "7.75",
+    "content_sanskrit": "यदा वै मनुत इति । मतिः मननं तर्कः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "base_unit_id": "Ch_C07_S18_V01_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16183075,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विज्ञानकारणीभूतां मतिं व्याचष्टे –\n<span class=\"pratika\">मतिरिति ॥१॥</span>\nइति श्रीमदानन्दगिरिटीकायां सप्तमाध्यायस्याष्टादशः खण्डः ॥"
+    }
+  ]
+}

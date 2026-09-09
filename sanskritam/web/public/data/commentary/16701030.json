@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701030,
+    "chapter_id": 6101,
+    "verse_number": "1.30",
+    "content_sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ॥ ३० ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "base_unit_id": "BG_C01_V30"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701030,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किञ्च अधैर्यमपि संवृत्तमित्याह -\n<span class=\"pratika\">न चेति ।</span>\n\nमोहोऽपि महान् भवतीत्याह -\n<span class=\"pratika\">भ्रमतीवेति ।</span>\n॥ ३० ॥"
+    }
+  ]
+}

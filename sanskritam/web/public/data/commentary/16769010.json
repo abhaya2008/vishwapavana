@@ -1,0 +1,49 @@
+{
+  "verse": {
+    "id": 16769010,
+    "chapter_id": 6169,
+    "verse_number": "4.10",
+    "content_sanskrit": "स्मरन्ति च ॥ १० ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "base_unit_id": "BS_C04_S01_V10"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16769010,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "स्मरन्त्यपि च शिष्टा उपासनाङ्गत्वेन आसनम् — <a class=\"ullekha\" href=\"#/chapter/6154/verse/16754011\">‘शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः’</a><span class=\"ullekha-ref\">(भ. गी. ६ । ११)</span> इत्यादिना । अत एव पद्मकादीनामासनविशेषाणामुपदेशो योगशास्त्रे ॥ १० ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 16769010,
+      "commentary_type": "भामतीव्याख्या",
+      "author": "श्रीवाचस्पतिमिश्रः",
+      "lang": "sa",
+      "content": "<span class=\"pratika\">स्मरन्ति च ॥ १० ॥</span>"
+    },
+    {
+      "id": 3,
+      "verse_id": 16769010,
+      "commentary_type": "भाष्यरत्नप्रभाव्याख्या",
+      "author": "श्रीरामानन्दयतिः",
+      "lang": "sa",
+      "content": "बाह्यस्य शारीरस्य चासनस्य स्मरणान्नियम इत्याह -\n<span class=\"pratika\">स्मरन्ति चेति ॥१०॥</span>"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BS_C04_S01_V10_B1",
+      "bhashya": "स्मरन्त्यपि च शिष्टा उपासनाङ्गत्वेन आसनम् — ‘शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः’(भ. गी. ६ । ११) इत्यादिना । अत एव पद्मकादीनामासनविशेषाणामुपदेशो योगशास्त्रे ॥ १० ॥",
+      "teeka": "<span class=\"pratika\">स्मरन्ति च ॥ १० ॥</span>",
+      "teeka_type": "भामतीव्याख्या"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153053,
+    "chapter_id": 6153,
+    "verse_number": "5.53",
+    "content_sanskrit": "कथम्भूतश्च ब्रह्मणि स्थितः ब्रह्म प्राप्नोति इति आह भगवान् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "base_unit_id": "BG_C05_V24_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153053,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञानस्य अत्यन्तमन्तरङ्गमात्मनिष्ठत्वं दर्शयन् प्रकृतं ब्रह्मविदमेव विशिनष्टि -\nकथम्भूतश्चेति ।"
+    }
+  ]
+}

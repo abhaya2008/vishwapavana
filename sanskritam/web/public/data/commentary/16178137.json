@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178137,
+    "chapter_id": 6178,
+    "verse_number": "2.137",
+    "content_sanskrit": "दिविक्षिद्भ्य इत्येवमादि समानमन्यत् । विन्दत अपहत इति बहुवचनमात्रं विशेषः । याजमानं त्वेतत् , एतास्म्यत्र यजमान इत्यादिलिङ्गात् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 137,
+    "base_unit_id": "Ch_C02_S24_V15_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178137,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किमिदं सामाद्यार्त्विज्यमाहो याजमानिकमिति वीक्षायामाह –\n<span class=\"pratika\">याजमानं त्विति ।</span>\nआदिपदेन लोकं मे यजमानायेति निर्देशो गृह्यते ॥१४ – १५॥"
+    }
+  ]
+}

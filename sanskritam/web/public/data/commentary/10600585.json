@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600585,
+    "chapter_id": 6105,
+    "verse_number": "1.85",
+    "content_sanskrit": "एवमेवोद्गातारमुवाचोद्गातर्या देवतोद्गीथमन्वायत्ता तां चेदविद्वानुद्गास्यसि मूर्धा ते विपतिष्यतीति ॥ १० ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600585,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "एकादशः खण्डः"
+    }
+  ]
+}

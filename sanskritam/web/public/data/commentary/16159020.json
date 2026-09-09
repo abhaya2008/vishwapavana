@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159020,
+    "chapter_id": 6159,
+    "verse_number": "11.20",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "base_unit_id": "BG_C11_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159020,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "न केवलम् उक्तमेव अर्जुनो दृष्टवान् ; किन्तु, तत्रैव - विश्वरूपे सर्वं जगत् , एकस्मिन् अवस्थितम् अनुभूतवान् , इत्याह-\nकिञ्चेति ।\nतदा - विश्वरूपस्य भगवद्रूपस्य दर्शनदशायाम् , इत्यर्थः\n॥ १३ ॥"
+    }
+  ]
+}

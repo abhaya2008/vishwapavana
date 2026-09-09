@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166155,
+    "chapter_id": 6166,
+    "verse_number": "18.155",
+    "content_sanskrit": "तं च इमम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 155,
+    "base_unit_id": "BG_C18_V75_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166155,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रकृष्टं संवादं कथम् अश्रौषीः इति चेत् तत्र आह -\nतं चेति ।"
+    }
+  ]
+}

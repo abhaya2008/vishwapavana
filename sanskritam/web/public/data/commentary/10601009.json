@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10601009,
+    "chapter_id": 6110,
+    "verse_number": "1.9",
+    "content_sanskrit": "विश्वो हि स्थूलभुङ् नित्यं तैजसः प्रविविक्तभुक् ।\nआनन्दभुक्तथा प्राज्ञस्त्रिधा भोगं निबोधत ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10601009,
+      "commentary_type": "आनन्दगिरिटीका (माण्डूक्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "अत्रैते श्लोका भवन्ति —"
+    }
+  ]
+}

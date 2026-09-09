@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150109,
+    "chapter_id": 6150,
+    "verse_number": "2.109",
+    "content_sanskrit": "यस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "base_unit_id": "BG_C02_V51_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150109,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "समत्वबुद्धियुक्तस्य सुकृतदुष्कृततत्फलपरित्यागेऽपि कथं मोक्षः स्यात् ? इत्याशङ्क्याह -\nयस्मादिति ।\nसमत्वबुद्ध्या यस्मात् कर्मानुष्ठीयमानं दुरितादि त्याजयति, तस्मात् परम्परया असौ मुक्तिहेतुरित्यर्थः ।"
+    }
+  ]
+}

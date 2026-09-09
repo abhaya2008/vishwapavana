@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16705057,
+    "chapter_id": 6105,
+    "verse_number": "1.57",
+    "content_sanskrit": "श्रोत्रमेवर्ङ्मनः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते । श्रोत्रमेव सा मनोऽमस्तत्साम ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "base_unit_id": "Ch_C01_S07_V03"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16705057,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "श्रोत्रमेव ऋक् मनः साम, श्रोत्रस्याधिष्ठातृत्वान्मनसः सामत्वम् ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C01_S07_V03_B01",
+      "bhashya": "श्रोत्रमेव ऋक् मनः साम, श्रोत्रस्याधिष्ठातृत्वान्मनसः सामत्वम् ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166038,
+    "chapter_id": 6166,
+    "verse_number": "18.38",
+    "content_sanskrit": "कः पुनः सुमतिः यः सम्यक् पश्यतीति, उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "base_unit_id": "BG_C18_v17_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166038,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विपरीतदृष्टेः दुर्मतित्वं शिष्ट्वा सम्यग्दृष्टेः सुमतित्वं प्रश्नपूर्वकम् आह -\nकः पुनरित्यादिना ।"
+    }
+  ]
+}

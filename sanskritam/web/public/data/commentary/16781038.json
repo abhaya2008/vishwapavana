@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16781038,
+    "chapter_id": 6181,
+    "verse_number": "5.38",
+    "content_sanskrit": "तस्मिन्नेतस्मिन्नग्नौ देवा अन्नं जुह्वति तस्या आहुते रेतः सम्भवति ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "base_unit_id": "Ch_C05_S07_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16781038,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "समानमन्यत् । अन्नं जुह्वति व्रीह्यादिसंस्कृतम् । तस्या आहुते रेतः सम्भवति ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C05_S07_V02_B01",
+      "bhashya": "समानमन्यत् । अन्नं जुह्वति व्रीह्यादिसंस्कृतम् । तस्या आहुते रेतः सम्भवति ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

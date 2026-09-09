@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16183081,
+    "chapter_id": 6183,
+    "verse_number": "7.81",
+    "content_sanskrit": "निष्ठा गुरुशुश्रूषादितत्परत्वं ब्रह्मविज्ञानाय ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "base_unit_id": "Ch_C07_S20_V01_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16183081,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "श्रद्धाहेतुं निष्ठां व्याचष्टे –\n<span class=\"pratika\">निष्ठेति ॥१॥</span>\nइति श्रीमदानन्दगिरिटीकायां सप्तमाध्यायस्य विंशः खण्डः ॥"
+    }
+  ]
+}

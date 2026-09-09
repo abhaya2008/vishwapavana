@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608514,
+    "chapter_id": 6185,
+    "verse_number": "2.14",
+    "content_sanskrit": "यथोदकं दुर्गे वृष्टं पर्वतेषु विधावति ।\nएवं धर्मान्पृथक्पश्यंस्तानेवानुविधावति ॥ १४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608514,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "येयं प्रेत इति प्रष्टुः परलोकेऽस्तित्वेऽपि सन्देह आसीत् । विशेषतस्तन्निवृत्त्यर्थमुच्यत आह -\nहन्तेदानीमिति ॥ ६ - ७ - ८ ॥"
+    }
+  ]
+}

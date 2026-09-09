@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150091,
+    "chapter_id": 6150,
+    "verse_number": "2.91",
+    "content_sanskrit": "येषां व्यवसायात्मिका बुद्धिर्नास्ति ते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "base_unit_id": "BG_C02_V42_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150091,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यदि साङ्ख्ययोगरूपा एकैव प्रमाणभूता बुद्धिः, तर्हि सैव सर्वेषां चित्ते किमिति स्थिरा न भवति ? तत्राह -\nयेषामिति ।"
+    }
+  ]
+}

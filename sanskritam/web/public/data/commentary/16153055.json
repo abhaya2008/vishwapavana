@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153055,
+    "chapter_id": 6153,
+    "verse_number": "5.55",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "base_unit_id": "BG_C05_V25_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153055,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "मुक्तिहेतोर्ज्ञानस्य साधनान्तरमाह -\nकिञ्चेति ।"
+    }
+  ]
+}

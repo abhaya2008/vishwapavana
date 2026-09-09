@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166048,
+    "chapter_id": 6166,
+    "verse_number": "18.48",
+    "content_sanskrit": "यानि द्वैतदर्शनानि तानि असम्यग्भूतानि राजसानि तामसानि च इति न साक्षात् संसारोच्छित्तये भवन्ति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "base_unit_id": "BG_C18_V21_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166048,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "द्वैतदर्शनान्यपि कानिचित् भवन्ति सत्वनिर्वृत्तानि सम्यञ्चि, इति आशङ्क्य आह -\nयानीति ।\n\nतेषाम् असम्यक्त्वे हेतुम् आह -\nराजसानीति ।"
+    }
+  ]
+}

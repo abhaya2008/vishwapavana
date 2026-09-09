@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608538,
+    "chapter_id": 6185,
+    "verse_number": "2.38",
+    "content_sanskrit": "अव्यक्तात्तु परः पुरुषो व्यापकोऽलिङ्ग एव च ।\nयं ज्ञात्वा मुच्यते जन्तुरमृतत्वं च गच्छति ॥ ८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608538,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "विधिपक्षे हेतुं पृच्छति -\nकुत इति ॥ ११ ॥"
+    }
+  ]
+}

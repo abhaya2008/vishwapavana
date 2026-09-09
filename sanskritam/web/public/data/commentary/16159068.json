@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159068,
+    "chapter_id": 6159,
+    "verse_number": "11.68",
+    "content_sanskrit": "तथा —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "base_unit_id": "BG_C11_V40_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159068,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विधान्तरेण भगवन्तं स्तुत्या नमस्कुर्वन् अभिमुखीकरोति-\nतथेति ।"
+    }
+  ]
+}

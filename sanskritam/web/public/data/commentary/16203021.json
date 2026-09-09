@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16203021,
+    "chapter_id": 6203,
+    "verse_number": "3.21",
+    "content_sanskrit": "अष्टमोऽनुवाकः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "base_unit_id": "T_C03_S08"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16203021,
+      "commentary_type": "तैत्तिरीयोपनिषद्भाष्यवार्तिकम्",
+      "author": "श्रीमत्सुरेश्वराचार्यः",
+      "lang": "sa",
+      "content": "अष्टमोऽनुवाकः\nप्राप्तं न परिचक्षीत त्वन्नं व्रतमिदं भवेत् ।\nइति अष्टमोऽनुवाकः ॥ ८ ॥"
+    }
+  ]
+}

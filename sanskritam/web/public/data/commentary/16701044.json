@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701044,
+    "chapter_id": 6101,
+    "verse_number": "1.44",
+    "content_sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरके नियतं वासो भवतीत्यनुशुश्रुम ॥ ४४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "base_unit_id": "BG_C01_V44"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701044,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किञ्च जातिधर्मेषु कुलधर्मेषु चोत्सन्नेषु तत्तद्धर्मवर्जितानां मनुष्याणामनधिकृतानां नरकपतनध्रौव्यात् अनर्थकरमिदमेव हेयमित्याह –\n<span class=\"pratika\">उत्सन्नेति ।</span>\n\nयथोक्तानां मनुष्याणां नरकपातस्य आवश्यकत्वे प्रमाणमाह -\n<span class=\"pratika\">इत्यनुशुश्रुमेति</span>\n॥ ४४ ॥"
+    }
+  ]
+}

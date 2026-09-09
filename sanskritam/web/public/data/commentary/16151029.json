@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151029,
+    "chapter_id": 6151,
+    "verse_number": "3.29",
+    "content_sanskrit": "यतः एवम् अतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "base_unit_id": "BG_C03_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151029,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्मानुष्ठायिनो वैशिष्ट्यमुपदिष्टमनूद्य तदनुष्ठानमधिकृतेन कर्तव्यमिति निगमयति -\nयत इति ।"
+    }
+  ]
+}

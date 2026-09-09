@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150089,
+    "chapter_id": 6150,
+    "verse_number": "2.89",
+    "content_sanskrit": "येयं साङ्‍ख्ये बुद्धिरुक्ता योगे च, वक्ष्यमाणलक्षणा सा —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "base_unit_id": "BG_C02_V41_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150089,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ननु - बुद्धिद्वयातिरिक्तानि बुद्ध्यन्तराण्यपि काणादादिशास्त्रप्रसिद्धानि विद्यन्ते । तथा च कथं बुद्धिद्वयमेव भगवतोपदिष्टमिति, तत्राह -\nयेयमिति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151085,
+    "chapter_id": 6151,
+    "verse_number": "3.85",
+    "content_sanskrit": "शृणु त्वं तं वैरिणं सर्वानर्थकरं यं त्वं पृच्छसि इति भगवान् उवाच — ॥ ३६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "base_unit_id": "BG_C03_V37_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151085,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्प्रति प्रतिवचनं प्रस्तौति -\nश्रृण्विति ।\n\nतस्य वैरित्वं स्फोरयति -\nसर्वेति ।\n\nअप्रस्तुतं किमिति प्रस्तूयते ? तत्राह -\nयं त्वमिति ।"
+    }
+  ]
+}

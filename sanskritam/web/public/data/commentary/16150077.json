@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150077,
+    "chapter_id": 6150,
+    "verse_number": "2.77",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "base_unit_id": "BG_C02_V35_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150077,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च त्वया युद्धं कर्तव्यमित्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

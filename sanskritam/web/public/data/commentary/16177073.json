@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16177073,
+    "chapter_id": 6177,
+    "verse_number": "6.73",
+    "content_sanskrit": "अथास्य नामधेयं करोति ‘वेदोऽसि’ इति । तदस्य तद्गुह्यं नाम भवति — वेद इति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "base_unit_id": "BR_C06_S04_V26_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16177073,
+      "commentary_type": "आनन्दगिरिटीका (बृहदारण्यक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वेदनाम्ना व्यवहारो लोके नास्तीत्याशङ्क्याऽऽह —\n<span class=\"pratika\">तदस्येति ।</span>\nयत्तद्वेद इति नाम तदस्य गुह्यं भवति । वेदनं वेदोऽनुभवः सर्वस्य निजं स्वरूपमित्यर्थः ॥२६॥"
+    }
+  ]
+}

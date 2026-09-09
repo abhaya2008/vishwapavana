@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153061,
+    "chapter_id": 6153,
+    "verse_number": "5.61",
+    "content_sanskrit": "एवं समाहितचित्तेन किं विज्ञेयम् इति, उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "base_unit_id": "BG_C05_V29_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153061,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अधिकारिणो यथोक्तस्य कर्तव्याभावे ज्ञातव्यमपि नास्ति, इत्याशङ्क्य, परिहरति -\nएवमित्यादिना ।"
+    }
+  ]
+}

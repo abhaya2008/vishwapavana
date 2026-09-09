@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155018,
+    "chapter_id": 6155,
+    "verse_number": "7.18",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "base_unit_id": "BG_C07_V12_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155018,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "चिदानन्दयोः अभिव्यञ्जकानां भावानाम् ईश्वरात्मत्वाभिधानात् अन्येषाम् अतदात्मत्वप्राप्तौ उक्तम् -\nकिञ्चेति ।"
+    }
+  ]
+}

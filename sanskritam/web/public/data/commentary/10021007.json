@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021007,
+    "chapter_id": 6107,
+    "verse_number": "1.7",
+    "content_sanskrit": "वैश्वानरः प्रविशति अतिथिर्ब्राह्मणो गृहान् ।\nतस्यैतां शान्तिं कुर्वन्ति हर वैवस्वतोदकम् ॥ ७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021007,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "क्लृप्तावयवशक्त्यैव प्रयोगसम्भवे समुदायशक्तिरुपनिषच्छब्दस्य न कल्पनीयेत्याह -\nकेन पुनरिति ।"
+    }
+  ]
+}

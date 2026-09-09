@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600512,
+    "chapter_id": 6105,
+    "verse_number": "1.12",
+    "content_sanskrit": "ते ह नासिक्यं प्राणमुद्गीथमुपासाञ्चक्रिरे तꣳ हासुराः पाप्मना विविधुस्तस्मात्तेनोभयं जिघ्रति सुरभि च दुर्गन्धि च पाप्मना ह्येष विद्धः ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600512,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "तत्र अक्षरविज्ञानवतः कर्म कर्तव्यमिति स्थितमाक्षिपति —"
+    }
+  ]
+}

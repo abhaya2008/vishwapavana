@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16767117,
+    "chapter_id": 6167,
+    "verse_number": "2.117",
+    "content_sanskrit": "उपादानात् ॥ ३५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "base_unit_id": "BS_C02_S03_V35"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16767117,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "इतश्चास्य कर्तृत्वम् , यज्जीवप्रक्रियायामेव करणानामुपादानं सङ्कीर्तयति — <a class=\"ullekha\" href=\"#/chapter/6173/verse/16773017\">‘तदेषां प्राणानां विज्ञानेन विज्ञानमादाय’</a><span class=\"ullekha-ref\">(बृ. उ. २ । १ । १७)</span> इति, <a class=\"ullekha\" href=\"#/chapter/6173/verse/16773018\">‘प्राणान्गृहीत्वा’</a><span class=\"ullekha-ref\">(बृ. उ. २ । १ । १८)</span> इति च ॥ ३५ ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BS_C02_S03_V35_B1",
+      "bhashya": "इतश्चास्य कर्तृत्वम् , यज्जीवप्रक्रियायामेव करणानामुपादानं सङ्कीर्तयति — ‘तदेषां प्राणानां विज्ञानेन विज्ञानमादाय’(बृ. उ. २ । १ । १७) इति, ‘प्राणान्गृहीत्वा’(बृ. उ. २ । १ । १८) इति च ॥ ३५ ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

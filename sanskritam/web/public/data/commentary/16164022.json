@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164022,
+    "chapter_id": 6164,
+    "verse_number": "16.22",
+    "content_sanskrit": "ईदृशश्च तेषाम् अभिप्रायः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "base_unit_id": "BG_C16_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164022,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तेषां अभिप्रायोऽपि विवेकविरोधी इत्याह -\nईदृशश्चेति ।\nद्रव्यं गोहिरण्यादि । इदं - अन्यत् बुद्धौ प्रार्थ्यमानत्वेन विपरिवर्तमानं इति एतत्\n॥ १३ ॥"
+    }
+  ]
+}

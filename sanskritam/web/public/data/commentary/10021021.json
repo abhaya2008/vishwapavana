@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021021,
+    "chapter_id": 6107,
+    "verse_number": "1.21",
+    "content_sanskrit": "देवैरत्रापि विचिकित्सितं पुरा न हि सुविज्ञेयमणुरेष धर्मः ।\nअन्यं वरं नचिकेतो वृणीष्व मा मोपरोत्सीरति मा सृजैनम् ॥ २१ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021021,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "स्वर्गसाधनमग्निज्ञानं प्रष्टुं स्वर्गस्वरूपं तावदाह -\nस्वर्गे लोक इति ॥ १२ - १३ ॥"
+    }
+  ]
+}

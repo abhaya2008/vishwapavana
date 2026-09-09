@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155026,
+    "chapter_id": 6155,
+    "verse_number": "7.26",
+    "content_sanskrit": "ये पुनर्नरोत्तमाः पुण्यकर्माणः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "base_unit_id": "BG_C07_V16_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155026,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "केषां तर्हि तन्निष्ठता सुकरा ? इति, तत्र आह -\nये पुनरिति ।\nते भजन्ते भगवन्तम् , इति शेषः ।"
+    }
+  ]
+}

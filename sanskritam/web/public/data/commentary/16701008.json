@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701008,
+    "chapter_id": 6101,
+    "verse_number": "1.8",
+    "content_sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिर्जयद्रथः ॥ ८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "base_unit_id": "BG_C01_V08"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701008,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तानेव स्वसेनानिविष्टान् पुरुषधौरेयान् आत्मीयभयपरिहारार्थं परिगणयति -\n<span class=\"pratika\">भवानित्यादिना</span>\n॥ ८ ॥"
+    }
+  ]
+}

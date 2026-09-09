@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151035,
+    "chapter_id": 6151,
+    "verse_number": "3.35",
+    "content_sanskrit": "कथम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "base_unit_id": "BG_C03_V11_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151035,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कथं पुनरभीष्टफलविशेषहेतुत्वं यज्ञस्य विज्ञायते ? नहि देवताप्रसादादृते स्वर्गादिरभ्युदयो लभ्यते, नापि सम्यग्दर्शनमन्तरेण निश्श्रेयसं सेद्धुं पारयतीति शङ्कते -\nकथमिति ।"
+    }
+  ]
+}

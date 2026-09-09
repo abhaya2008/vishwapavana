@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151065,
+    "chapter_id": 6151,
+    "verse_number": "3.65",
+    "content_sanskrit": "अविद्वानज्ञः कथं कर्मसु सज्जते इत्याह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "base_unit_id": "BG_C03_V27_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151065,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "‘अज्ञानां कर्मसङ्गिनाम्’(भ. गी. ३-२६) इत्युक्तं ; तेनोत्तरश्लोकस्य सङ्गतिमाह -\nअविद्वानिति ।"
+    }
+  ]
+}

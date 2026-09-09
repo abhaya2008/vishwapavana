@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152067,
+    "chapter_id": 6152,
+    "verse_number": "4.67",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "base_unit_id": "BG_C04_V29_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152067,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्राणायामाख्यं यज्ञमुदाहरति -\nकिञ्चेति ।"
+    }
+  ]
+}

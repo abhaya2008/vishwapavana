@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16163012,
+    "chapter_id": 6163,
+    "verse_number": "15.12",
+    "content_sanskrit": "तदेव पदं पुनः विशेष्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "base_unit_id": "BG_C15_V06_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16163012,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तच्चेत्पदं वेद्यं, कुर्तुः अन्यत्कर्म इति द्वैतापातः, अवेद्यं चेत् अपुमर्थत्वात् प्रेप्सितत्वासिद्धिः इत्याशङ्क्य आह -\nतदेवेति\n॥ ६ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021067,
+    "chapter_id": 6107,
+    "verse_number": "1.67",
+    "content_sanskrit": "यच्छेद्वाङ्मनसी प्राज्ञस्तद्यच्छेज्ज्ञान आत्मनि ।\nज्ञानमात्मनि महति नियच्छेत्तद्यच्छेच्छान्त आत्मनि ॥ १३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021067,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पारयिष्णव इति ।\nसंसारपारं गन्तार इत्यर्थः ।"
+    }
+  ]
+}

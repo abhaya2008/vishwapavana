@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153022,
+    "chapter_id": 6153,
+    "verse_number": "5.22",
+    "content_sanskrit": "न च असौ परमार्थतः करोतीत्यतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "base_unit_id": "BG_C05_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153022,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्माणि अङ्गीकृत्य तैः अस्य विदुषो बन्धो नास्ति इत्युक्तम् । इदानीं वस्तुतः तस्य कर्माण्येव न सन्ति, इत्याह -\nनचेति ।\n॥ ८ ॥"
+    }
+  ]
+}

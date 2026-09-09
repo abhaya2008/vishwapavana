@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178122,
+    "chapter_id": 6178,
+    "verse_number": "2.122",
+    "content_sanskrit": "यत्संस्थः अमृतत्वमेति, तन्निरूपणार्थमाह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "base_unit_id": "Ch_C02_S23_V02_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178122,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किं तद्ब्रह्मेत्याकाङ्क्षायामाह –\n<span class=\"pratika\">यत्संस्थ इति ।</span>"
+    }
+  ]
+}

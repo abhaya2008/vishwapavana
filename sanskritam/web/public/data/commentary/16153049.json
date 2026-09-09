@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153049,
+    "chapter_id": 6153,
+    "verse_number": "5.49",
+    "content_sanskrit": "इतश्च निवर्तयेत् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "base_unit_id": "BG_C05_V22_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153049,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तत्रैव हेत्वन्तरपरत्वेन उत्तरश्लोकमुदाहरति -\nइतश्चेति ।\nविषयेभ्यः सकाशात् इन्द्रियाणि, इति शेषः ।"
+    }
+  ]
+}

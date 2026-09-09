@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156006,
+    "chapter_id": 6156,
+    "verse_number": "8.6",
+    "content_sanskrit": "न मद्विषय एव अयं नियमः । किं तर्हि ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "base_unit_id": "BG_C08_V06_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156006,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अन्तकाले भगवन्तं अनुध्यायतः भगवत्प्राप्तिनियमवत् अन्यस्यापि तत्काले देवादिविशेषं ध्यायतः देहं त्यजतः तत् प्रप्तिः अवश्यंभाविनी, इति दर्शयति -\nन इत्यादिना ।"
+    }
+  ]
+}

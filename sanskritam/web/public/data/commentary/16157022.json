@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157022,
+    "chapter_id": 6157,
+    "verse_number": "9.22",
+    "content_sanskrit": "एवं मां नित्यशुद्धबुद्धमुक्तस्वभावं सर्वज्ञं सर्वजन्तूनाम् आत्मानमपि सन्तम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "base_unit_id": "BG_C09_V11_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157022,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सर्वाध्यक्षः सर्वभूताधिवासो नित्यमुक्तश्चेत् त्वम् , तर्हि किमिति त्वामेव आत्मत्वेन भेदेन वा सर्वे न भजन्ते ? तत्राह -\nएवमिति ।"
+    }
+  ]
+}

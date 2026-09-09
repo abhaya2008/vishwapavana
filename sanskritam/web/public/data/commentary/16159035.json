@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159035,
+    "chapter_id": 6159,
+    "verse_number": "11.35",
+    "content_sanskrit": "किञ्चान्यत् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "base_unit_id": "BG_C11_V22_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159035,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "दृश्यमानस्य भगवद्रूपस्य विस्मयकरत्वे हेत्वन्तरम् आह-\nकिञ्चेति ।\nते एव - उक्ताः रुद्रादयः सर्वे विस्मयम् आपन्नाः त्वां पश्यन्ति - इति सम्बन्धः\n॥ २२ ॥"
+    }
+  ]
+}

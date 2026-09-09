@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154022,
+    "chapter_id": 6154,
+    "verse_number": "6.22",
+    "content_sanskrit": "अत एवमुत्तमफलप्राप्तये —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "base_unit_id": "BG_C06_V10_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154022,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यथोक्तविशेषणवतो योगारूढेषु उत्तमत्वे योगानुष्ठाने प्रयतितव्यम् , इति अङ्गाभिधानानन्तरं प्रधानम् अभिदधाति -\nअत एवमिति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166051,
+    "chapter_id": 6166,
+    "verse_number": "18.51",
+    "content_sanskrit": "अथ इदानीं कर्मणः त्रैविध्यम् उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "base_unit_id": "BG_C18_V23_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166051,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "त्रिविधं कर्म वक्तुम् अनन्तरश्लोकत्रयम् इत्याह -\nअथेति ।"
+    }
+  ]
+}

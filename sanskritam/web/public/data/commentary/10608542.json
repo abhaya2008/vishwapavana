@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608542,
+    "chapter_id": 6185,
+    "verse_number": "2.42",
+    "content_sanskrit": "नैव वाचा न मनसा प्राप्तुं शक्यो न चक्षुषा ।\nअस्तीति ब्रुवतोऽन्यत्र कथं तदुपलभ्यते ॥ १२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608542,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इतश्च सदेव मूलं जगतो वाच्यमित्याह -\nमूलं चेदिति ।"
+    }
+  ]
+}

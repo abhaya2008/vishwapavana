@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161060,
+    "chapter_id": 6161,
+    "verse_number": "13.60",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "base_unit_id": "BG_C13_V16_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161060,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञेयस्यास्तित्वे हेत्वन्तरमाह-\nकिञ्चेति ।"
+    }
+  ]
+}

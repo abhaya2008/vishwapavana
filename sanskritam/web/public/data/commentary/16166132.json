@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166132,
+    "chapter_id": 6166,
+    "verse_number": "18.132",
+    "content_sanskrit": "कर्मयोगनिष्ठायाः परमरहस्यम् ईश्वरशरणताम् उपसंहृत्य, अथ इदानीं कर्मयोगनिष्ठाफलं सम्यग्दर्शनं सर्ववेदान्तसारविहितं वक्तव्यमिति आह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "base_unit_id": "BG_C18_V66_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166132,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वृत्तम् अनूद्य अनन्तरश्लोकतात्पर्यम् आह-\nकर्मयोगेति ।"
+    }
+  ]
+}

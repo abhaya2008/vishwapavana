@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021058,
+    "chapter_id": 6107,
+    "verse_number": "1.58",
+    "content_sanskrit": "इन्द्रियाणि हयानाहुर्विषयांस्तेषु गोचरान् ।\nआत्मेन्द्रियमनोयुक्तं भोक्तेत्याहुर्मनीषिणः ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021058,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तत्रेति ।\nतयोः प्रथमग्रन्थोक्तयोरात्मनोर्मध्ये ॥ ३ ॥"
+    }
+  ]
+}

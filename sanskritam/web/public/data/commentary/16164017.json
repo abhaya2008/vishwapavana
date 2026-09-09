@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164017,
+    "chapter_id": 6164,
+    "verse_number": "16.17",
+    "content_sanskrit": "ते च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "base_unit_id": "BG_C16_V10_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164017,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तानेव दुराचारान् आसुरान् प्रकारान्तरेण विशिनष्टि -\nते चेति\n॥ १० ॥"
+    }
+  ]
+}

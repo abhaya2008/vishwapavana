@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021032,
+    "chapter_id": 6107,
+    "verse_number": "1.32",
+    "content_sanskrit": "स त्वं प्रियान्प्रियरूपांश्च कामानभिध्यायन्नचिकेतोऽत्यस्राक्षीः ।\nनैतां सृङ्कां वित्तमयीमवाप्तो यस्यां मज्जन्ति बहवो मनुष्याः ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021032,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्यक्प्राक्काले देहपातादूर्ध्वमेवेयते गम्यत इति शेषः ॥ ६ - ७ ॥"
+    }
+  ]
+}

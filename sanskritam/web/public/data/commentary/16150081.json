@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150081,
+    "chapter_id": 6150,
+    "verse_number": "2.81",
+    "content_sanskrit": "युद्धे पुनः क्रियमाणे कर्णादिभिः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "base_unit_id": "BG_C02_V37_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150081,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तर्हि युद्धे गुर्वादिवधवशात् मध्यस्थनिन्दा, ततो निवृत्तौ शत्रुनिन्दा इत्युभयतः पाशा रज्जुरित्याशङ्क्याह -\nयुद्धे पुनरिति ।"
+    }
+  ]
+}

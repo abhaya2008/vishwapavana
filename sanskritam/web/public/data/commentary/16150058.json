@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150058,
+    "chapter_id": 6150,
+    "verse_number": "2.58",
+    "content_sanskrit": "आत्मनः अनित्यत्वमभ्युपगम्य इदमुच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "base_unit_id": "BG_C02_V26_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150058,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आत्मनो नित्यत्वस्य प्रागेव सिद्धत्वात् उत्तरश्लोकानुपपत्तिरित्याशङ्क्यह -\nआत्मन इति ।\n‘अनित्यत्वं’ इति च्छेदः । शाक्यानां लोकायतानां वा मतम् इदमा परामृश्यते ।"
+    }
+  ]
+}

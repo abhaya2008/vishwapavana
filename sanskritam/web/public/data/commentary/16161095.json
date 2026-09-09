@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161095,
+    "chapter_id": 6161,
+    "verse_number": "13.95",
+    "content_sanskrit": "पुनरपि तदेव सम्यग्दर्शनं शब्दान्तरेण प्रपञ्चयति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "base_unit_id": "BG_C13_V30_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161095,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रकृतेर्विकाराणां च साङ्ख्यवत् पुरुषात् अन्यत्वप्रसक्तौ प्रत्याह -\nपुनरपीति ।"
+    }
+  ]
+}

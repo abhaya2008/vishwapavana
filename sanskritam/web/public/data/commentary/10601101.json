@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10601101,
+    "chapter_id": 6111,
+    "verse_number": "1.1",
+    "content_sanskrit": "ब्रह्मा देवानां प्रथमः सम्बभूव विश्वस्य कर्ता भुवनस्य गोप्ता ।\nस ब्रह्मविद्यां सर्वविद्याप्रतिष्ठामथर्वाय ज्येष्ठपुत्राय प्राह ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10601101,
+      "commentary_type": "आनन्दगिरिटीका (मुण्डक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "प्रथमः खण्डः"
+    }
+  ]
+}

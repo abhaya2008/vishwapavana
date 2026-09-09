@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154020,
+    "chapter_id": 6154,
+    "verse_number": "6.20",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "base_unit_id": "BG_C06_V09_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154020,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "योगारूढस्य प्रशस्तत्वम् अभ्युपेत्य योगस्य अङ्गान्तरं दर्शयति -\nकिञ्चेति ।"
+    }
+  ]
+}

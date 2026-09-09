@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157060,
+    "chapter_id": 6157,
+    "verse_number": "9.60",
+    "content_sanskrit": "शृणु मद्भक्तेर्माहात्म्यम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "base_unit_id": "BG_C09_V30_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157060,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रकृतां भगवद्भक्तिं स्तुवन् , पापीयसाम् अपि तत्र अधिकारः अस्ति, इति सूचयति -\nश्रृणु इति ।"
+    }
+  ]
+}

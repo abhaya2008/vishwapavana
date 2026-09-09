@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152064,
+    "chapter_id": 6152,
+    "verse_number": "4.64",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "base_unit_id": "BG_C04_V27_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152064,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यज्ञान्तरं कथयति -\nकिञ्चेति ।"
+    }
+  ]
+}

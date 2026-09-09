@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16180047,
+    "chapter_id": 6180,
+    "verse_number": "4.47",
+    "content_sanskrit": "सोऽग्निः हंसः ते पादं वक्तेत्युक्त्वा उपरराम । हंस आदित्यः, शौक्ल्यात्पतनसामान्याच्च । स ह श्वोभूते इत्यादि समानम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "base_unit_id": "Ch_C04_S07_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16180047,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अवशिष्टपादद्वयं कथं ज्ञातव्यमिति जिज्ञासमानं प्रत्याह –\n<span class=\"pratika\">सोऽग्निरिति ।</span>\n\nपक्षिविशेषविषयत्वं हंसशब्दस्य व्यावर्तयति –\n<span class=\"pratika\">आदित्य इति ।</span>\n\nकथं तत्र हंसशब्दस्य प्रवृत्तिरित्याशङ्क्याऽऽह –\n<span class=\"pratika\">शौक्ल्यादिति ॥१ – २॥</span>"
+    }
+  ]
+}

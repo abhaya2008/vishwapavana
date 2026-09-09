@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021056,
+    "chapter_id": 6107,
+    "verse_number": "1.56",
+    "content_sanskrit": "यः सेतुरीजानानामक्षरं ब्रह्म यत्परम् ।\nअभयं तितीर्षतां पारं नाचिकेतं शकेमहि ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021056,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ननु न सन्ति ब्रह्मविदः पञ्चाग्निविदश्च साम्प्रतमनुपलम्भादित्याशङ्क्य पूर्वविद्वदनुभवविरोधमाह -\nयः सेतुरिवेत्यादिना ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162034,
+    "chapter_id": 6162,
+    "verse_number": "14.34",
+    "content_sanskrit": "कथम् अधिगच्छति इति, उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "base_unit_id": "BG_C14_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162034,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अनर्थव्रातरूपम् अपोह्य विद्वान् ब्रह्मत्वं प्राप्नोति इत्येतत् प्रश्नद्वारा विवृणोति -\nकथमित्यादिना ।"
+    }
+  ]
+}

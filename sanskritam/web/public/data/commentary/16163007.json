@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16163007,
+    "chapter_id": 6163,
+    "verse_number": "15.7",
+    "content_sanskrit": "यस्तु अयं वर्णितः संसारवृक्षः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "base_unit_id": "BG_C15_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16163007,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पुनः पुनः रागादिना प्रवृत्तत्वेन अनादित्वात् न संसारवृक्षः स्वयम् उच्छिद्यते, न च उच्छेत्तुं शक्यते केनापि, इत्याशङ्क्य, आह -\nयस्त्विति ।"
+    }
+  ]
+}

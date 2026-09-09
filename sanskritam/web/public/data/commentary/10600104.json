@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600104,
+    "chapter_id": 6101,
+    "verse_number": "1.4",
+    "content_sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600104,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् ।\nअण्डस्यान्तस्त्विमे लोकाः सप्तद्वीपा च मेदिनी ॥"
+    }
+  ]
+}

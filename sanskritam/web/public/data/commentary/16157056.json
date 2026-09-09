@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157056,
+    "chapter_id": 6157,
+    "verse_number": "9.56",
+    "content_sanskrit": "एवं कुर्वतः तव यत् भवति, तत् शृणु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "base_unit_id": "BG_C09_V28_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157056,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किम् अतो भवति ? तदाह -\nएवम् इति ।"
+    }
+  ]
+}

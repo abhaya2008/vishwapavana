@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16177064,
+    "chapter_id": 6177,
+    "verse_number": "6.64",
+    "content_sanskrit": "दुहितुः पाण्डित्यं गृहतन्त्रविषयमेव, वेदेऽनधिकारात् । तिलौदनं कृशरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "base_unit_id": "BR_C06_S04_V17_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16177064,
+      "commentary_type": "आनन्दगिरिटीका (बृहदारण्यक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वेदविषयमेव तत्पाण्डित्यं किं न स्यादत आह —\n<span class=\"pratika\">वेद इति ॥१७॥</span>"
+    }
+  ]
+}

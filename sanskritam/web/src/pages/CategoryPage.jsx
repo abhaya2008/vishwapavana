@@ -15,6 +15,7 @@ export default function CategoryPage() {
     const { id } = useParams();
     const { getCategory, getSubCategories, getTextsByCategory, loading } = useDatabase();
     const [category, setCategory] = useState(null);
+    const [parentCategory, setParentCategory] = useState(null);
     const [subCategories, setSubCategories] = useState([]);
     const [texts, setTexts] = useState([]);
 
@@ -22,6 +23,13 @@ export default function CategoryPage() {
         async function fetchData() {
             const categoryData = await getCategory(id);
             setCategory(categoryData);
+
+            if (categoryData?.parent_id) {
+                const pData = await getCategory(categoryData.parent_id);
+                setParentCategory(pData);
+            } else {
+                setParentCategory(null);
+            }
 
             const subCats = await getSubCategories(id);
             setSubCategories(subCats);
@@ -45,43 +53,70 @@ export default function CategoryPage() {
         );
     }
 
+    const breadcrumbItems = parentCategory ? [
+        { label: parentCategory.name_sanskrit, path: `/category/${parentCategory.id}` },
+        { label: category.name_sanskrit, path: `/category/${id}` }
+    ] : [
+        { label: category.name_sanskrit, path: `/category/${id}` }
+    ];
+
     return (
         <div className="page-wrapper">
             <Header />
 
             <main className="main-content">
                 <div className="container">
-                    <Breadcrumb items={[
-                        { label: category.name_sanskrit, path: `/category/${id}` }
-                    ]} />
+                    <Breadcrumb items={breadcrumbItems} />
+
+                    {/* Back link when viewing a sub-category */}
+                    {parentCategory && (
+                        <div style={{ marginBottom: '1rem' }}>
+                            <Link
+                                to={`/category/${parentCategory.id}`}
+                                style={{
+                                    display: 'inline-flex',
+                                    alignItems: 'center',
+                                    gap: '0.4rem',
+                                    color: 'var(--color-maroon, #800000)',
+                                    fontWeight: '600',
+                                    fontFamily: 'var(--font-sanskrit)',
+                                    fontSize: '1.05rem',
+                                    textDecoration: 'none',
+                                    transition: 'color 0.2s ease'
+                                }}
+                            >
+                                ← {parentCategory.name_sanskrit} (प्रति गच्छतु / Back to {parentCategory.name_english || parentCategory.name_sanskrit})
+                            </Link>
+                        </div>
+                    )}
 
                     {/* Category Header */}
                     <section className="page-title-section">
                         <h1 className="page-title">॥ {category.name_sanskrit} ॥</h1>
                     </section>
 
-                    {/* Sub-categories */}
-                    {subCategories.length > 0 && (
+                    {/* Case A: Show ONLY Sub-categories (Upavargas) when they exist */}
+                    {subCategories.length > 0 ? (
                         <section className="mt-md">
                             <h2 className="sanskrit-title mb-lg text-center">उप-वर्गाः</h2>
-                            <div className="subcategory-grid">
-                                {subCategories.map(subCat => (
-                                    <CategoryCard key={subCat.id} category={subCat} isSubcategory={true} />
-                                ))}
-                            </div>
-                        </section>
-                    )}
-
-                    {/* Texts in this category */}
-                    {texts.length > 0 && (
-                        <section className="mt-md">
-                            <h2 className="sanskrit-title mb-lg text-center">ग्रन्थाः</h2>
                             <div className="cards-grid">
-                                {texts.map(text => (
-                                    <TextCard key={text.id} text={text} />
+                                {subCategories.map(subCat => (
+                                    <CategoryCard key={subCat.id} category={subCat} isSubcategory={false} />
                                 ))}
                             </div>
                         </section>
+                    ) : (
+                        /* Case B: Show ONLY Specific Texts (Granthas) when viewing a specific Upavarga / leaf category */
+                        texts.length > 0 && (
+                            <section className="mt-md">
+                                <h2 className="sanskrit-title mb-lg text-center">ग्रन्थाः</h2>
+                                <div className="cards-grid">
+                                    {texts.map(text => (
+                                        <TextCard key={text.id} text={text} />
+                                    ))}
+                                </div>
+                            </section>
+                        )
                     )}
 
                     {/* Tools (not text/chapter/verse content) — currently only Sandhi Practice */}
@@ -100,7 +135,7 @@ export default function CategoryPage() {
                     {subCategories.length === 0 && texts.length === 0 && id !== VYAKARANAM_CATEGORY_ID && (
                         <div className="text-center mt-md">
                             <p className="sanskrit" style={{ color: 'var(--color-text-light)' }}>
-                                अत्र ग्रन्थाः उपलब्धाः नसन्ति।
+                                अत्र ग्रन्थाः उपलब्धाः न सन्ति।
                                 <br />
                                 No texts available in this category yet.
                             </p>

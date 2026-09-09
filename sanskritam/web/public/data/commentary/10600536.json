@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600536,
+    "chapter_id": 6105,
+    "verse_number": "1.36",
+    "content_sanskrit": "आत्मानमन्तत उपसृत्य स्तुवीत कामं ध्यायन्नप्रमत्तोऽभ्याशो ह यदस्मै स कामः समृध्येत यत्कामः स्तुवीतेति यत्कामः स्तुवीतेति ॥ १२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600536,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति तृतीयखण्डभाष्यम् ॥"
+    }
+  ]
+}

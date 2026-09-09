@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179043,
+    "chapter_id": 6179,
+    "verse_number": "3.43",
+    "content_sanskrit": "सत्यं तेनोक्तमित्याह श्रुतिः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "base_unit_id": "Ch_C03_S11_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179043,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एवं मन्त्रदृक्शपथद्वारा निर्णीतेऽर्थे न हेत्याद्या किमर्था श्रुतिरित्याशङ्क्याऽऽह –\n<span class=\"pratika\">सत्यमिति ।</span>"
+    }
+  ]
+}

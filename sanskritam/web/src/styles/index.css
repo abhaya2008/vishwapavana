@@ -640,10 +640,14 @@ body {
 
 .card-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.667rem;
+  font-size: clamp(1.1rem, 1.4vw, 1.4rem);
   color: #3a1f0d;
   margin-bottom: var(--space-sm);
   text-shadow: 0 1px 2px rgba(255, 230, 170, 0.4);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
 }
 
 .card-subtitle {
@@ -654,14 +658,14 @@ body {
 /* === Sub-Category Grid (Second level pages like /vyakaranam) === */
 .subcategory-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: var(--space-lg);
   padding: var(--space-lg) 0;
 }
 
 @media (max-width: 768px) {
   .subcategory-grid {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: var(--space-md);
   }
 }
@@ -672,28 +676,36 @@ body {
   background-position: center;
   border: none;
   border-radius: var(--radius-md);
-  padding: var(--space-lg);
+  padding: var(--space-xl) var(--space-lg);
   text-align: center;
   text-decoration: none;
   color: #3a1f0d;
   transition: var(--transition-fast);
-  min-height: 100px;
+  min-height: 150px;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  box-shadow: 0 4px 12px rgba(60, 30, 0, 0.12);
+  position: relative;
+  overflow: hidden;
 }
 
 .subcategory-card:hover {
-  transform: scale(1.03);
+  transform: translateY(-4px);
   filter: brightness(1.05);
+  box-shadow: 0 8px 20px rgba(60, 30, 0, 0.2);
 }
 
 .subcategory-title {
   font-family: var(--font-sanskrit);
-  font-size: 1.267rem;
+  font-size: clamp(1.15rem, 1.4vw, 1.45rem);
   color: #3a1f0d;
   font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
 }
 
 /* === Text List (Third level pages like /shikshapatri) === */
@@ -2244,9 +2256,73 @@ body {
   padding: var(--space-lg);
   font-family: var(--font-sanskrit);
   font-size: 1.267rem;
-  line-height: 1.8;
+  line-height: 1.85;
   color: var(--text-color);
   text-align: justify;
+  white-space: pre-wrap;
+}
+
+.commentary-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+.commentary-para {
+  margin: 0;
+  padding: 0;
+  line-height: 1.85;
+  font-family: var(--font-sanskrit);
+  font-size: 1.267rem;
+  color: var(--text-color);
+  text-align: justify;
+}
+
+/* === Pratika (Mula text highlight in Vyakhyana / Commentary) === */
+.pratika {
+  background-color: #f3ebe1;
+  color: #1a1208;
+  padding: 1px 6px;
+  border-radius: 3px;
+  font-weight: 500;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/* === Ullekha (Pramana / Quotes) === */
+.ullekha {
+  color: #9f5700;
+  text-decoration: underline dotted #9f5700;
+  font-weight: 600;
+  transition: color 0.15s ease;
+}
+
+a.ullekha {
+  cursor: pointer;
+}
+
+a.ullekha:hover {
+  color: #bf6800;
+  text-decoration: underline solid #bf6800;
+}
+
+/* === Ullekha Ref (Citations like (भ. गी. १८ । ६६)) === */
+.ullekha-ref {
+  color: #7d542a;
+  font-size: 0.95em;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+}
+
+a.ullekha-ref {
+  color: #7d542a;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+a.ullekha-ref:hover {
+  color: #9f5700;
+  text-decoration: underline;
 }
 
 .commentary-block-content.has-tabs {

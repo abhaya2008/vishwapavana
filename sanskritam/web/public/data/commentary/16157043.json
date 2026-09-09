@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157043,
+    "chapter_id": 6157,
+    "verse_number": "9.43",
+    "content_sanskrit": "ये पुनः निष्कामाः सम्यग्दर्शिनः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "base_unit_id": "BG_C09_V22_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157043,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "फलम् अनभिसन्धाय त्वामेव आराधयतां सम्यग्दर्शननिष्ठानाम् अत्यन्तनिष्कामाणां कथं योगक्षेमौ स्याताम् ? इत्याशङ्क्य आह -\nये पुनरिति ।\nतेषां योगक्षेमं वहामि इति उत्तरत्र सम्बन्धः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600542,
+    "chapter_id": 6105,
+    "verse_number": "1.42",
+    "content_sanskrit": "अथ खलु य उद्गीथः स प्रणवो यः प्रणवः स उद्गीथ इत्यसौ वा आदित्य उद्गीथ एष प्रणव ओमिति ह्येष स्वरन्नेति ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600542,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति चतुर्थखण्डभाष्यम् ॥"
+    }
+  ]
+}

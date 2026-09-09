@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600575,
+    "chapter_id": 6105,
+    "verse_number": "1.75",
+    "content_sanskrit": "तथामुष्मिंल्लोके लोक इति स य एतमेवं विद्वानुपास्ते परोवरीय एव हास्यास्मिंल्लोके जीवनं भवति तथामुष्मिंल्लोके लोक इति लोके लोक इति ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600575,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति नवमखण्डभाष्यम् ॥"
+    }
+  ]
+}

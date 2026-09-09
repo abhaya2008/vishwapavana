@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166017,
+    "chapter_id": 6166,
+    "verse_number": "18.17",
+    "content_sanskrit": "तस्मात् अज्ञस्य अधिकृतस्य मुमुक्षोः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "base_unit_id": "BG_C18_V07_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166017,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "नित्यकर्मणाम् अवश्यकर्तव्यत्वम् उक्तम् उपजीव्य अपेक्षितं पूरयन् अनन्तरश्लोकम् अवतारयति -\nतस्मादिति ।"
+    }
+  ]
+}

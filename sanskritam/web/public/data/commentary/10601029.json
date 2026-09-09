@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10601029,
+    "chapter_id": 6110,
+    "verse_number": "1.29",
+    "content_sanskrit": "सुषुप्तस्थानः प्राज्ञो मकारस्तृतीया मात्रा मितेरपीतेर्वा मिनोति ह वा इदं सर्वमपीतिश्च भवति य एवं वेद ॥ ११ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10601029,
+      "commentary_type": "आनन्दगिरिटीका (माण्डूक्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "अत्रैते श्लोका भवन्ति —"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16160030,
+    "chapter_id": 6160,
+    "verse_number": "12.30",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "base_unit_id": "BG_C12_V19_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16160030,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वाग्यतत्वादिविशेषणमपि ज्ञाननिष्ठस्य अस्ति, इत्याह -\nकिञ्चेति ।\nनिन्दा - दोपसङ्कीर्तनम् । स्तुतिः - गुणगणनम् ।"
+    }
+  ]
+}

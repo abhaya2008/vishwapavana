@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156037,
+    "chapter_id": 6156,
+    "verse_number": "8.37",
+    "content_sanskrit": "तल्लब्धेः उपायः उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "base_unit_id": "BG_C08_V22_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156037,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ननु अव्यक्तात् अतिरिक्तस्य तद्विलक्षणस्य परमपुरुषस्य प्राप्तौ कश्चित् असाधारणो हेतुः एषितव्यः, यस्मिन् प्रेक्षापूर्वकारी तत्प्रेक्षणा प्रवृत्तो निर्वृणोति, तत्र आह -\nतल्लब्धेरिति ।"
+    }
+  ]
+}

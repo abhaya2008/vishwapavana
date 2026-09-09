@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154071,
+    "chapter_id": 6154,
+    "verse_number": "6.71",
+    "content_sanskrit": "यः पुनः असंयतात्मा, तेन —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "base_unit_id": "BG_C06_V36_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154071,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "संयतात्मनो योगप्राप्तिः सुलभा, इत्युक्त्वा, व्यतिरेकं दर्शयति -\nयः पुनरिति ।"
+    }
+  ]
+}

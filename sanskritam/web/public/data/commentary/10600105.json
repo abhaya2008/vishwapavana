@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600105,
+    "chapter_id": 6101,
+    "verse_number": "1.5",
+    "content_sanskrit": "धृष्टकेतुश्चेकितानः काशीराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600105,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् ।\nअण्डस्यान्तस्त्विमे लोकाः सप्तद्वीपा च मेदिनी ॥"
+    }
+  ]
+}

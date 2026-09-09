@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153027,
+    "chapter_id": 6153,
+    "verse_number": "5.27",
+    "content_sanskrit": "यस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "base_unit_id": "BG_C05_V11_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153027,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विदुषः तर्हि कृतेन कर्मणा किं स्याद् ? इत्याशङ्क्य, आह -\nकेवलमिति ।\n\nअज्ञस्य ईश्वरार्पणबुद्ध्या अनुष्ठितं कर्म बुद्धिशद्धिफलम् , इत्यत्रैव हेतुमाह -\nयस्मादिति ।"
+    }
+  ]
+}

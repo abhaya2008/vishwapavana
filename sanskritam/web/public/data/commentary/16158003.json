@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158003,
+    "chapter_id": 6158,
+    "verse_number": "10.3",
+    "content_sanskrit": "किमर्थम् अहं वक्ष्यामि इत्यत आह –",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "base_unit_id": "BG_C10_V02_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158003,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कश्चित् अन्योऽपि परमं वचः मह्यं वक्ष्यति । तेन च मम तत्त्वज्ञानं भविष्यति । अतः भगवद्वचनम् अकिञ्चित्करम् , इति शङ्कित्वा परिहरति -\nकिमर्थमित्यादिना ।"
+    }
+  ]
+}

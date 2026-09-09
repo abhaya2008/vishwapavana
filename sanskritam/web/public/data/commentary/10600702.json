@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600702,
+    "chapter_id": 6107,
+    "verse_number": "1.2",
+    "content_sanskrit": "तꣳ ह कुमारꣳ सन्तं दक्षिणासु नीयमानासु श्रद्धाविवेश सोऽमन्यत ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600702,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "ॐ नमो भगवते वैवस्वताय मृत्यवे ब्रह्मविद्याचार्याय, नचिकेतसे च ।"
+    }
+  ]
+}

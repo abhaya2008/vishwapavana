@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157058,
+    "chapter_id": 6157,
+    "verse_number": "9.58",
+    "content_sanskrit": "रागद्वेषवान् तर्हि भगवान् , यतो भक्तान् अनुगृह्णाति, न इतरान् इति । तत् न —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "base_unit_id": "BG_C09_V29_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157058,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवतो रागद्वेषवत्वेन अनीश्वरत्वमाशङ्क्य, परिहरति -\nरागेत्यादिना ।"
+    }
+  ]
+}

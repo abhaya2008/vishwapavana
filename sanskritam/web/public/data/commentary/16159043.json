@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159043,
+    "chapter_id": 6159,
+    "verse_number": "11.43",
+    "content_sanskrit": "येभ्यो मम पराजयाशङ्का या आसीत् सा च अपगता । यतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "base_unit_id": "BG_C11_V26_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159043,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अस्माकं जयं परेषां पराजयं च (दिदृक्षन्तं) दिदृक्षुं त्वां पश्यामि इत्याह-\nयेभ्य इति ।\n\nतत्र हेतुत्वेन श्लोकम् अवतारयति-\nयत इति ।"
+    }
+  ]
+}

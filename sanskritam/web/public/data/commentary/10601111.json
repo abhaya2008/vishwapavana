@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10601111,
+    "chapter_id": 6111,
+    "verse_number": "1.11",
+    "content_sanskrit": "यदा लेलायते ह्यर्चिः समिद्धे हव्यवाहने ।\nतदाज्यभागावन्तरेणाहुतीः प्रतिपादयेत् ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10601111,
+      "commentary_type": "आनन्दगिरिटीका (मुण्डक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "द्वितीयः खण्डः"
+    }
+  ]
+}

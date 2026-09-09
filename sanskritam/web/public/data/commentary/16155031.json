@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155031,
+    "chapter_id": 6155,
+    "verse_number": "7.31",
+    "content_sanskrit": "ज्ञानी पुनरपि स्तूयते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "base_unit_id": "BG_C07_V19_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155031,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उत्तरश्लोकस्य गतार्थत्वं परिहरति -\nज्ञानीति ।\nज्ञानार्थसंस्कारः - वासना तत्तज्जन्मनि पुण्यकर्मानुष्ठानजनिता बुद्धिशुद्धिः, तदाश्रयाणां - तद्वताम् अनन्तानां जन्मनाम् , इति यावत् ।"
+    }
+  ]
+}

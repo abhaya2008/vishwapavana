@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153057,
+    "chapter_id": 6153,
+    "verse_number": "5.57",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "base_unit_id": "BG_C05_V26_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153057,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पूर्वं कामक्रोधयोर्वेगः सोढव्यो दर्शितः । सम्प्रति तावेव त्याज्यौ इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

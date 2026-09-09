@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608521,
+    "chapter_id": 6185,
+    "verse_number": "2.21",
+    "content_sanskrit": "हन्त त इदं प्रवक्ष्यामि गुह्यं ब्रह्म सनातनम् ।\nयथा च मरणं प्राप्य आत्मा भवति गौतम ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608521,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "विद्वदनुभवोऽपि परमानन्दे प्रमाणमित्याह -\nयत्तदात्मविज्ञानमिति ।"
+    }
+  ]
+}

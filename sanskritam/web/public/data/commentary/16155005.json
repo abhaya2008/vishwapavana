@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155005,
+    "chapter_id": 6155,
+    "verse_number": "7.5",
+    "content_sanskrit": "कथमित्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "base_unit_id": "BG_C07_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155005,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञानस्य दुर्लभत्वं प्रश्नपूर्वकं प्रकटयति -\nकथमित्यादिना ।"
+    }
+  ]
+}

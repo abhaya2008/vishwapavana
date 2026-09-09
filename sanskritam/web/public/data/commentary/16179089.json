@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179089,
+    "chapter_id": 6179,
+    "verse_number": "3.89",
+    "content_sanskrit": "पुत्रायुष उपासनमुक्तं जपश्च । अथेदानीमात्मनः दीर्घजीवनायेदमुपासनं जपं च विदधदाह ; जीवन्हि स्वयं पुत्रादिफलेन युज्यते, नान्यथा । इत्यतः आत्मानं यज्ञं सम्पादयति पुरुषः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "base_unit_id": "Ch_C03_S16_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179089,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वृत्तमनूद्य पुरुषो वावेत्यादिखण्डान्तरमवतारयति –\n<span class=\"pratika\">पुत्रायुष इति ।</span>\n\nकिमित्यात्मनो दीर्घजीवनं समर्थ्यते तत्राऽऽह –\n<span class=\"pratika\">जीवन्निति ।</span>\n\nयथोक्तफलहेतुभूतं विद्यामुत्थापयति –\n<span class=\"pratika\">इत्यत आत्मनमिति ।</span>"
+    }
+  ]
+}

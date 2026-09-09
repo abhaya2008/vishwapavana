@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16781036,
+    "chapter_id": 6181,
+    "verse_number": "5.36",
+    "content_sanskrit": "तस्मिन्नेतस्मिन्नग्नौ देवा वर्षं जुह्वति तस्या आहुतेरन्नं सम्भवति ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "base_unit_id": "Ch_C05_S06_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16781036,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तस्मिन्नित्यादि समानम् । तस्या आहुतेरन्नं व्रीहियवादि सम्भवति ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C05_S06_V02_B01",
+      "bhashya": "तस्मिन्नित्यादि समानम् । तस्या आहुतेरन्नं व्रीहियवादि सम्भवति ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

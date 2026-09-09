@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154048,
+    "chapter_id": 6154,
+    "verse_number": "6.48",
+    "content_sanskrit": "‘यत्रोपरमते’(भ. गी. ६ । २०) इत्याद्यारभ्य यावद्भिः विशेषणैः विशिष्ट आत्मावस्थाविशेषः योगः उक्तः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "base_unit_id": "BG_C06_V23_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154048,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तं विद्यात् इत्याद्यपेक्षितं पूरयन् अवतारयति -\nयत्रेति ।\nतमिति आत्मावस्थाविशेषं परामृशति ।"
+    }
+  ]
+}

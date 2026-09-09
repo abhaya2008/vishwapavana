@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181109,
+    "chapter_id": 6181,
+    "verse_number": "5.109",
+    "content_sanskrit": "बस्तिस्त्वेष आत्मनो वैश्वानरस्य, बस्तिः मूत्रसङ्ग्रहस्थानम् , बस्तिस्ते व्यभेत्स्यत् भिन्नोऽभविष्यत् यन्मां नागमिष्य इति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "base_unit_id": "Ch_C05_S16_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181109,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "मूत्राशयो धनुर्वक्रो बस्तिरित्यभिधीयत इत्याशयेनाऽऽह –\n<span class=\"pratika\">बस्तिरिति ॥२॥</span>\nइति श्रीमदानन्दगिरिटीकायां पञ्चमाध्यायस्य षोडशः खण्डः ॥"
+    }
+  ]
+}

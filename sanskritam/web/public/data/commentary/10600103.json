@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600103,
+    "chapter_id": 6101,
+    "verse_number": "1.3",
+    "content_sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600103,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् ।\nअण्डस्यान्तस्त्विमे लोकाः सप्तद्वीपा च मेदिनी ॥"
+    }
+  ]
+}

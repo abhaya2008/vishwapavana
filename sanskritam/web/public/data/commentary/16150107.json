@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150107,
+    "chapter_id": 6150,
+    "verse_number": "2.107",
+    "content_sanskrit": "समत्वबुद्धियुक्तः सन् स्वधर्ममनुतिष्ठन् यत्फलं प्राप्नोति तच्छृणु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 107,
+    "base_unit_id": "BG_C02_V50_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150107,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पूर्वोक्तसमत्वबुद्धियुक्तस्य स्वधर्मानुष्ठाने प्रवृत्तस्य किं स्यात् ? इत्याशङ्क्याह -\nसमत्वेति ।\nबुद्धियुक्तः स्वधर्माख्यं कर्म अनुतिष्ठन्निति शेषः ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16165017,
+    "chapter_id": 6165,
+    "verse_number": "17.17",
+    "content_sanskrit": "अथ इदानीं यज्ञः त्रिविधः उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "base_unit_id": "BG_C17_V11_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16165017,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "हानादानार्थम् आहारत्रैविध्यम् एवं विभज्य क्रमप्राप्तं यज्ञत्रैविध्यं कथयति -\nअथेति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161073,
+    "chapter_id": 6161,
+    "verse_number": "13.73",
+    "content_sanskrit": "यत् पुरुषस्य सुखदुःखानां भोक्तृत्वं संसारित्वम् इति उक्तं तस्य तत् किंनिमित्तमिति उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "base_unit_id": "BG_C13_V21_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161073,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "श्लोकान्तरं प्रश्नोत्तरत्वेन अवतारयति-\nयदिति ।"
+    }
+  ]
+}

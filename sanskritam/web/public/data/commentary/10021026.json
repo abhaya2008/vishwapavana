@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021026,
+    "chapter_id": 6107,
+    "verse_number": "1.26",
+    "content_sanskrit": "श्वोभावा मर्त्यस्य यदन्तकैतत्सर्वेन्द्रियाणां जरयन्ति तेजः ।\nअपि सर्वं जीवितमल्पमेव तवैव वाहास्तव नृत्यगीते ॥ २६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021026,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रथमवल्लीसमाप्तिपर्यन्ताख्यायिकाया अवान्तरसम्बन्धमाह -\nतमेतमर्थमिति ।"
+    }
+  ]
+}

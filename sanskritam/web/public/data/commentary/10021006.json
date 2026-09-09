@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021006,
+    "chapter_id": 6107,
+    "verse_number": "1.6",
+    "content_sanskrit": "अनुपश्य यथा पूर्वे प्रतिपश्य तथा परे ।\nसस्यमिव मर्त्यः पच्यते सस्यमिवाजायते पुनः ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021006,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ब्रह्मविद्यायामुपनिषच्छब्दस्य ‘उपनिषदं भो ब्रूहि’(के.उ. ४-७) इत्यादिप्रयोगदर्शनाद्धात्वर्थमाह -\nउपनिषच्छब्देनेति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162048,
+    "chapter_id": 6162,
+    "verse_number": "14.48",
+    "content_sanskrit": "कुत एतदिति उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "base_unit_id": "BG_C14_V27_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162048,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विद्वान् ब्रह्मैव इत्यत्र हेतुं पृच्छति -\nकुत इति ।\n\nतत्र उत्तरम् आह -\nउच्यत इति ।"
+    }
+  ]
+}

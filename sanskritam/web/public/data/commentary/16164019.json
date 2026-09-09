@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164019,
+    "chapter_id": 6164,
+    "verse_number": "16.19",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "base_unit_id": "BG_C16_V11_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164019,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तानेव विधान्तरेण विशिनष्टि -\nकिं चेति ।\nचिन्तां - आत्मीययोगक्षेमोपायालोचनात्मिकां अपरिमेयविषयत्वात् परिमातुं अशक्यां आश्रिताः इति सम्बन्धः ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161076,
+    "chapter_id": 6161,
+    "verse_number": "13.76",
+    "content_sanskrit": "तस्यैव पुनः साक्षात् निर्देशः क्रियते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "base_unit_id": "BG_C13_V22_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161076,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रकृतस्यैव मोक्षहेतोर्ज्ञानस्य साक्षान्निर्देशाय उत्तरश्लोकम् उत्थापयति -\nतस्येति ।"
+    }
+  ]
+}

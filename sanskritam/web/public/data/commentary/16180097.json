@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16180097,
+    "chapter_id": 6180,
+    "verse_number": "4.97",
+    "content_sanskrit": "प्रजापतिः लोकानभ्यतपत् लोकानुद्दिश्य तत्र सारजिघृक्षया ध्यानलक्षणं तपश्चचार । तेषां तप्यमानानां लोकानां रसान् साररूपान्प्रावृहत् उद्धृतवान् जग्राहेत्यर्थः । कान् ? अग्निं रसं पृथिव्याः, वायुमन्तरिक्षात् , आदित्यं दिवः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "base_unit_id": "Ch_C04_S17_V01_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16180097,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "रसान्विशेषतो ज्ञातुं पृच्छति –\n<span class=\"pratika\">कानिति ॥१॥</span>"
+    }
+  ]
+}

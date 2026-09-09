@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166153,
+    "chapter_id": 6166,
+    "verse_number": "18.153",
+    "content_sanskrit": "परिसमाप्तः शास्त्रार्थः । अथ इदानीं कथासम्बन्धप्रदर्शनार्थं सञ्जयः उवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "base_unit_id": "BG_C18_V74_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166153,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "शास्त्रीार्थे समाप्ते सति, अस्याम् अवस्थायां सञ्जयवचनं कुत्र उपयुक्तम् इति तत् आह -\nपरिसमाप्त इति ।"
+    }
+  ]
+}

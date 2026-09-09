@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159089,
+    "chapter_id": 6159,
+    "verse_number": "11.89",
+    "content_sanskrit": "कथं पुनः शक्यः इति उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "base_unit_id": "BG_C11_V54_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159089,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "केन उपायेन तर्हि द्रष्टुं शक्यो भगवान् ? इति पृच्छति-\nकथमिति ।\n\nशास्त्रीयज्ञानद्वारा तद्दर्शनं सफलं सिध्यति, इत्याह-\nउच्यत इति ।"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16759051,
+    "chapter_id": 6159,
+    "verse_number": "11.51",
+    "content_sanskrit": "अर्जुन उवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "base_unit_id": "BG_C11_V51"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16759051,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "दृष्ट्वा इदं मानुषं रूपं मत्सखं प्रसन्नं तव सौम्यं जनार्दन, इदानीम् अधुना अस्मि संवृत्तः सञ्जातः । किम् ? सचेताः प्रसन्नचित्तः प्रकृतिं स्वभावं गतश्च अस्मि ॥ ५१ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 16759051,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एवं भगवदाश्वासितः सन् अर्जुनः तं प्रति उक्तवान् , इत्याह-\n<span class=\"pratika\">अर्जुन इति</span>\n॥ ५१ ॥"
+    }
+  ]
+}

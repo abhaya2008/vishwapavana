@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16113028,
+    "chapter_id": 6113,
+    "verse_number": "1.28",
+    "content_sanskrit": "यदेतद्व्याहृत्यात्मकं ब्रह्मोपास्यमुक्तम् , तस्यैवेदानीं पृथिव्यादिपाङ्क्तस्वरूपेणोपासनमुच्यते -",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "base_unit_id": "T_C01_S07_V01_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16113028,
+      "commentary_type": "आनन्दगिरिटीका (तैत्तिरीय)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उत्तरोऽप्यनुवाकः प्रकारान्तरेण हिरण्यगर्भोपासनविषय इत्याह –\nयदेतदित्यादिना ।"
+    }
+  ]
+}

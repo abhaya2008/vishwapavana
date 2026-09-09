@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16779051,
+    "chapter_id": 6179,
+    "verse_number": "3.51",
+    "content_sanskrit": "अयं वाव स योऽयमन्तः पुरुष आकाशो यो वै सोऽन्तः पुरुष आकाशः ॥ ८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "base_unit_id": "Ch_C03_S12_V08"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16779051,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "अयं वाव सः, योऽयमन्तः पुरुषे शरीरे आकाशः । यो वै सोऽन्तः पुरुष आकाशः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C03_S12_V08_B01",
+      "bhashya": "अयं वाव सः, योऽयमन्तः पुरुषे शरीरे आकाशः । यो वै सोऽन्तः पुरुष आकाशः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159075,
+    "chapter_id": 6159,
+    "verse_number": "11.75",
+    "content_sanskrit": "यतः एवम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "base_unit_id": "BG_C11_V44_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159075,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "निरतिशयप्रभावं हेतूकृत्य अप्रतिमेत्यादिना, प्रसादये प्रणामपूर्वकं त्वाम् , इत्याह -\nयत इति ।"
+    }
+  ]
+}

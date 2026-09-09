@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152069,
+    "chapter_id": 6152,
+    "verse_number": "4.69",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "base_unit_id": "BG_C04_V30_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152069,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्राणापानयोर्गती - श्वासप्रश्वासौ निरुध्य किं कुर्वन्ति ? इत्यपेक्षायामाह -\nकिञ्चेति ।\nप्राणापानगतिनिरोधरूपं कुम्भकं कृत्वा पुनःपुनर्वायुजयं कुर्वन्तीत्यर्थः । आहारस्य परिमितत्वं हितत्वमेध्यत्वोपलक्षणार्थम् ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162036,
+    "chapter_id": 6162,
+    "verse_number": "14.36",
+    "content_sanskrit": "जीवन्नेव गुणान् अतीत्य अमृतम् अश्नुते इति प्रश्नबीजं प्रतिलभ्य, अर्जुन उवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "base_unit_id": "BG_C14_V21_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162036,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्यग्धीफलं गुणातिक्रमपूर्वकम् अमृतत्वम् उक्तं श्रुत्वा, मुक्तस्य लक्षणं वक्तव्यम् , इति प्रकृतं विवक्षित्वा, प्रश्नम् उत्थापयति -\nजीवन्नेवेति ।"
+    }
+  ]
+}

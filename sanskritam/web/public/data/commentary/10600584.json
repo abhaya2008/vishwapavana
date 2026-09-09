@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600584,
+    "chapter_id": 6105,
+    "verse_number": "1.84",
+    "content_sanskrit": "प्रस्तोतर्या देवता प्रस्तावमन्वायत्ता तां चेदविद्वान्प्रस्तोष्यसि मूर्धा ते विपतिष्यतीति ॥ ९ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600584,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति दशमखण्डभाष्यम् ॥"
+    }
+  ]
+}

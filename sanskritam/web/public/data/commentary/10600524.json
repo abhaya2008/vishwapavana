@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600524,
+    "chapter_id": 6105,
+    "verse_number": "1.24",
+    "content_sanskrit": "आगाता ह वै कामानां भवति य एतदेवं विद्वानक्षरमुद्गीथमुपास्त इत्यध्यात्मम् ॥ १४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600524,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति द्वितीयखण्डभाष्यम् ॥"
+    }
+  ]
+}

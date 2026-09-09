@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16750009,
+    "chapter_id": 6150,
+    "verse_number": "2.9",
+    "content_sanskrit": "सञ्जय उवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "base_unit_id": "BG_C02_V09"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16750009,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एवमर्जुनेन स्वाभिप्रायं भगवन्तं प्रति प्रकाशितं सञ्जयो राजानमावेदितवानित्याह -\n<span class=\"pratika\">सञ्जय इति ।</span>\nएवं प्रागुक्तप्रकारेण भगवन्तं प्रत्युक्त्वा परन्तपोऽर्जुनो न योत्स्ये - न सम्प्रहरिष्ये, अत्यन्तासह्यशोकप्रसङ्गात् इति गोविन्दमुक्त्वा तूष्णीं - अब्रुवन् बभूव, ह किलेत्यर्थः ॥ ९ ॥"
+    }
+  ]
+}

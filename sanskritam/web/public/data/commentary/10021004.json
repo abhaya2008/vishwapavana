@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021004,
+    "chapter_id": 6107,
+    "verse_number": "1.4",
+    "content_sanskrit": "स होवाच पितरं तत कस्मै मां दास्यसीति द्वितीयं तृतीयं तं होवाच मृत्यवे त्वा ददामीति ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021004,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "चिकीर्षितं प्रतिजानीति -\nकाठकेति ।"
+    }
+  ]
+}

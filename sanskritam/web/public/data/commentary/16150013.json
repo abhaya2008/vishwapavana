@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150013,
+    "chapter_id": 6150,
+    "verse_number": "2.13",
+    "content_sanskrit": "कुतस्ते अशोच्याः, यतो नित्याः । कथम् ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "base_unit_id": "BG_C02_V12_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150013,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "नित्यत्वमशोच्यत्वे कारणमिति सूचितं विवेचयितुं प्रश्नपूर्वकं प्रतिजानीते -\nकुत इत्यादिना ।\n\nनित्यत्वमसिद्धं प्रमाणाभावात् इति चोदयति -\nकथमिति ।"
+    }
+  ]
+}

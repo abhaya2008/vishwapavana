@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162008,
+    "chapter_id": 6162,
+    "verse_number": "14.8",
+    "content_sanskrit": "के गुणाः कथं बध्नन्तीति, उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "base_unit_id": "BG_C14_V05_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162008,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एवं क्षेत्रक्षेत्रज्ञसंयोगात् जगदुत्पत्तिं दर्शयता ब्रह्मैव अविद्यया संसरति इत्युक्तम् , इदानीम् अध्यायादौ उक्तम् आकाङ्क्षाद्वयं पूर्वम् अनूद्य अनन्तरश्लोकेन उत्तरम् आह -\nके गुणा इति ।"
+    }
+  ]
+}

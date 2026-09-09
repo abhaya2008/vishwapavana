@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179113,
+    "chapter_id": 6179,
+    "verse_number": "3.113",
+    "content_sanskrit": "आदित्यो ब्रह्मणः पाद उक्त इति तस्मिन्सकलब्रह्मदृष्ट्यर्थमिदमारभ्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "base_unit_id": "Ch_C03_S19_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179113,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "खण्डान्तरस्य सङ्गतिमाह –\n<span class=\"pratika\">आदित्य इति ।</span>\nतस्येत्यादित्यो गृह्यते ।"
+    }
+  ]
+}

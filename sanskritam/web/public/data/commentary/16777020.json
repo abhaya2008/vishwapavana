@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16777020,
+    "chapter_id": 6177,
+    "verse_number": "6.20",
+    "content_sanskrit": "स होवाच दैवेषु वै गौतम तद्वरेषु मानुषाणां ब्रूहीति ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "base_unit_id": "BR_C06_S02_V06"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16777020,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "स होवाच राजा — दैवेषु वरेषु तद्वै गौतम, यत् त्वं प्रार्थयसे ; मानुषाणामन्यतमं प्रार्थय वरम् ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BR_C06_S02_V06_B01",
+      "bhashya": "स होवाच राजा — दैवेषु वरेषु तद्वै गौतम, यत् त्वं प्रार्थयसे ; मानुषाणामन्यतमं प्रार्थय वरम् ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

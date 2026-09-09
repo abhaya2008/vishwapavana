@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608512,
+    "chapter_id": 6185,
+    "verse_number": "2.12",
+    "content_sanskrit": "अङ्गुष्ठमात्रः पुरुषो मध्य आत्मनि तिष्ठति ।\nईशानं भूतभव्यस्य न ततो विजुगुप्सते । एतद्वै तत् ॥ १२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608512,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "अन्यथासिद्धिं शङ्कते -\nस्यान्मतमिति ।"
+    }
+  ]
+}

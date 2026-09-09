@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16163018,
+    "chapter_id": 6163,
+    "verse_number": "15.18",
+    "content_sanskrit": "कानि पुनः तानि —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "base_unit_id": "BG_C15_V09_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16163018,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "मनःषष्ठानि इन्द्रियाण्येव प्रश्नद्वारा विशेषतो दर्शयति -\nकानीति\n॥ ९ ॥"
+    }
+  ]
+}

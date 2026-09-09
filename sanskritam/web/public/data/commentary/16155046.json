@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155046,
+    "chapter_id": 6155,
+    "verse_number": "7.46",
+    "content_sanskrit": "यतः एवम् , अतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "base_unit_id": "BG_C07_V26_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155046,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवतो मायाप्रतिबद्धज्ञानत्वाभावेन सर्वज्ञत्वम् अप्रतिबद्धं सिद्धम् , इत्याह -\nयत इति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181009,
+    "chapter_id": 6181,
+    "verse_number": "5.9",
+    "content_sanskrit": "अथ ह प्राणाः एवं यथोक्तगुणाः सन्तः अहंश्रेयसि अहं श्रेयानस्मि अहं श्रेयानस्मि इत्येतस्मिन्प्रयोजने व्यूदिरेनाना विरुद्धं चोदिरे उक्तवन्तः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "base_unit_id": "Ch_C05_S01_V06_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181009,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यथोक्ता गुणा मुख्यप्राणगामिनो न प्रत्येकं वागादिषु भवन्तीति वक्तुमाख्यायिकां प्रमाणयति –\n<span class=\"pratika\">अथेति ॥६॥</span>"
+    }
+  ]
+}

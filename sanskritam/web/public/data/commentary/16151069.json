@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151069,
+    "chapter_id": 6151,
+    "verse_number": "3.69",
+    "content_sanskrit": "ये पुनः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "base_unit_id": "BG_C03_V29_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151069,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विद्वान् अविद्वानित्युभावपि प्रकृत्य, विद्वानविदुषो बुद्धिभेदं न कुर्यादित्युपसंहरति -\nये पुनरिति ।\nप्रकृतेरुक्तगुणैर्देहादिभिर्विकारैः संमूढाः - तानेव आत्मत्वेन मन्यमाना ये ते ।"
+    }
+  ]
+}

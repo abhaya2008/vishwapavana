@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157034,
+    "chapter_id": 6157,
+    "verse_number": "9.34",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "base_unit_id": "BG_C09_V17_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157034,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च भगवतः सर्वात्मकत्वम् अनुमन्तव्यम् , इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

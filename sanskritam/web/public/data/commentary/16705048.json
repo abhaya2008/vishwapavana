@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16705048,
+    "chapter_id": 6105,
+    "verse_number": "1.48",
+    "content_sanskrit": "अन्तरिक्षमेवर्ग्वायुः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयतेऽन्तरिक्षमेव सा वायुरमस्तत्साम ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "base_unit_id": "Ch_C01_S06_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16705048,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "अन्तरिक्षमेव ऋक् वायुः साम इत्यादि पूर्ववत् ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C01_S06_V02_B01",
+      "bhashya": "अन्तरिक्षमेव ऋक् वायुः साम इत्यादि पूर्ववत् ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

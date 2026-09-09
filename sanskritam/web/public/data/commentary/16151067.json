@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151067,
+    "chapter_id": 6151,
+    "verse_number": "3.67",
+    "content_sanskrit": "यः पुनर्विद्वान् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "base_unit_id": "BG_C03_V28_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151067,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अज्ञस्य कर्मसु सक्तिमुक्त्वा विदुषस्तदभावमभिदधाति -\nयः पुनरिति ।\nतत्त्वं याथार्थ्यं वेत्तीति व्युत्पत्त्या तत्त्वविदिति ।"
+    }
+  ]
+}

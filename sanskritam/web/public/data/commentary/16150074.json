@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150074,
+    "chapter_id": 6150,
+    "verse_number": "2.74",
+    "content_sanskrit": "न केवलं स्वधर्मकीर्तिपरित्यागः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "base_unit_id": "BG_C02_V34_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150074,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "युद्धाकरणे क्षत्रियस्य प्रत्यवायमामुष्मिकमापाद्य, शिष्टगर्हालक्षणं दीर्घकालभाविनमैहिकमपि प्रत्यवायं प्रतिलम्भयति -\nन केवलमिति ।"
+    }
+  ]
+}

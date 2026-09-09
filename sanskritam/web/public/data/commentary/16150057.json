@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150057,
+    "chapter_id": 6150,
+    "verse_number": "2.57",
+    "content_sanskrit": "त्वं न अनुशोचितुमर्हसि हन्ताहमेषाम् , मयैते हन्यन्त इति ॥ २५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "base_unit_id": "BG_C02_V25_B02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150057,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रतिषेध्यमनुशोकमेवाभिनयति -\nहन्ताहमिति ॥ २५ ॥"
+    }
+  ]
+}

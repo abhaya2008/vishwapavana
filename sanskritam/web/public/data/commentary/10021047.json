@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021047,
+    "chapter_id": 6107,
+    "verse_number": "1.47",
+    "content_sanskrit": "न जायते म्रियते वा विपश्चिन्नायं कुतश्चिन्न बभूव कश्चित् ।\nअजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ॥ १८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021047,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एकदेशविज्ञानस्येति ।\nमनुष्योऽहं नीलं पश्यामीत्यादिपरिच्छिन्नविज्ञानस्येत्यर्थः ॥ २१ - २२ ॥"
+    }
+  ]
+}

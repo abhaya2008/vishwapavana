@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701016,
+    "chapter_id": 6101,
+    "verse_number": "1.16",
+    "content_sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥ १६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C01_V16"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701016,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एतेषामीदृशीं प्रवृत्तिं प्रतीत्य परिपालनावकाशमासाद्य राज्ञो युधिष्ठिरस्यापि प्रवृत्तिं दर्शयति -\n<span class=\"pratika\">अनन्तेति ।</span>\n\nज्यायसां भ्रातॄणामनुसरणमावश्यकमिति मत्वा तयोर्यवीयसोर्भ्रात्रोरपि प्रवृत्तिमाह -\n<span class=\"pratika\">नकुल इति</span>\n॥ १६ ॥"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16180036,
+    "chapter_id": 6180,
+    "verse_number": "4.36",
+    "content_sanskrit": "किञ्च अहं ब्रह्मणः परस्य ते तुभ्यं पादं ब्रवाणि कथयानि । इत्युक्तः प्रत्युवाच — ब्रवीतु",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "base_unit_id": "Ch_C04_S05_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16180036,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वाक्यान्तरं च मदीयं श्रूयतामित्याह –\n<span class=\"pratika\">किञ्चेति ।</span>"
+    }
+  ]
+}

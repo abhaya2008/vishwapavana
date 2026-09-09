@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16710032,
+    "chapter_id": 6110,
+    "verse_number": "1.32",
+    "content_sanskrit": "मकारभावे प्राज्ञस्य मानसामान्यमुत्कटम् ।\nमात्रासम्प्रतिपत्तौ तु लयसामान्यमेव च ॥ २१ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "base_unit_id": "MK_C01_K21"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16710032,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "मकारत्वे प्राज्ञस्य मितिलयावुत्कृष्टे सामान्ये इत्यर्थः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "MK_C01_K21_B01",
+      "bhashya": "मकारत्वे प्राज्ञस्य मितिलयावुत्कृष्टे सामान्ये इत्यर्थः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

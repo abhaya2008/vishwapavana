@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166111,
+    "chapter_id": 6166,
+    "verse_number": "18.111",
+    "content_sanskrit": "ततः ज्ञानलक्षणया —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "base_unit_id": "BG_C18_V55_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166111,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ननु समाधिसाध्येन परमभक्त्यात्मकेन ज्ञानेन किम् अपूर्वम् अवाप्यते ? तत्र आह -\nतत इति ।\nभक्त्या समाधिजन्यया मां ब्रह्म आभिमुख्येन प्रत्यक्तया जानाति व्याप्नोति इत्यर्थः ।"
+    }
+  ]
+}

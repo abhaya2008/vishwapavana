@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16704024,
+    "chapter_id": 6104,
+    "verse_number": "1.24",
+    "content_sanskrit": "अथ श्रोत्रमत्यवहत् ; तद्यदा मृत्युमत्यमुच्यत ता दिशोऽभवंस्ता इमा दिशः परेण मृत्युमतिक्रान्ताः ॥ १५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "base_unit_id": "BR_C01_S03_V15"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16704024,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तथा श्रोत्रं दिशोऽभवन् ; दिशः प्राच्यादिविभागेनावस्थिताः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BR_C01_S03_V15_B01",
+      "bhashya": "तथा श्रोत्रं दिशोऽभवन् ; दिशः प्राच्यादिविभागेनावस्थिताः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

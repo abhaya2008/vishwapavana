@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153047,
+    "chapter_id": 6153,
+    "verse_number": "5.47",
+    "content_sanskrit": "किञ्च, ब्रह्मणि स्थितः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "base_unit_id": "BG_C05_V21_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153047,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "शब्दादिविषयप्रीतिप्रतिबन्धात् न कस्यचिदपि ब्रह्मणि स्थितिः सिध्येत् , इत्याशङ्क्य, आह -\nकिञ्चेति ।\nन केवलं पूर्वोक्तरीत्या ब्रह्मणि स्थितो हर्षविषादरहितः, किन्तु विधान्तरेणापि इत्यर्थः ।"
+    }
+  ]
+}

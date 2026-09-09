@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156028,
+    "chapter_id": 6156,
+    "verse_number": "8.28",
+    "content_sanskrit": "ब्रह्मलोकसहिताः लोकाः कस्मात् पुनरावर्तिनः ? कालपरिच्छिन्नत्वात् । कथम् ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "base_unit_id": "BG_C08_V17_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156028,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ब्रह्मलोकसहितानां पुनरावृत्तौ हेतुं प्रश्नद्वारा दर्शयति -\nब्रह्मेति ।\n\nउक्तमेव हेतुम् आकाङ्क्षापूर्वकम् उत्तरश्लोकेन साधयति -\nकथमित्यादिना ।"
+    }
+  ]
+}

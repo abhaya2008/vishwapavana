@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159051,
+    "chapter_id": 6159,
+    "verse_number": "11.51",
+    "content_sanskrit": "त्वं पुनः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "base_unit_id": "BG_C11_V30_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159051,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "योद्धुकामानां राज्ञां भगवन्मुखप्रवेशप्रकारं प्रदर्श्य तस्यां दशायां भगवतः, तद्भासां च प्रवृत्तिप्रकारं प्रत्याययति-\nत्वं पुनरिति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157032,
+    "chapter_id": 6157,
+    "verse_number": "9.32",
+    "content_sanskrit": "यदि बहुभिः प्रकारैः उपासते, कथं त्वामेव उपासते इति, अत आह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "base_unit_id": "BG_C09_V16_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157032,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवदेकविषयम् उपासनं तर्हि न सिद्ध्यति, इति शङ्कते -\nयदि इति ।\n\nप्रकारभेदमादाय ध्यायन्तोऽपि भगवन्तमेव ध्यायन्ति, तस्य सर्वात्मकत्वात् , इत्याह -\nअत आहेति ।"
+    }
+  ]
+}

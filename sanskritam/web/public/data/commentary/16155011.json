@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155011,
+    "chapter_id": 6155,
+    "verse_number": "7.11",
+    "content_sanskrit": "यतः तस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "base_unit_id": "BG_C07_V07_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155011,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रधानात् परतः अक्षरात् पुरुषवत् परमात्मनोऽपि परात् अन्यत् - परं स्यात् , इत्याशङ्क्य, प्रकृतिद्वयद्वारा सर्वकारणत्वम् ईश्वरस्य उक्तम् उपजीव्य परिहरति -\nयतः तस्मादिति ।"
+    }
+  ]
+}

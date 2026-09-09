@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150055,
+    "chapter_id": 6150,
+    "verse_number": "2.55",
+    "content_sanskrit": "किं च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "base_unit_id": "BG_C02_V25_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150055,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "त्वम्पदार्थपरिशोधनस्य प्रकृतत्वात् तत्रैव हेत्वन्तरमाह -\nकिञ्चेति ।"
+    }
+  ]
+}

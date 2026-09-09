@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152076,
+    "chapter_id": 6152,
+    "verse_number": "4.76",
+    "content_sanskrit": "तदेतत् विशिष्टं ज्ञानं तर्हि केन प्राप्यते इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "base_unit_id": "BG_C04_V34_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152076,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यद्येवं प्रशस्यतरमिदं ज्ञानं, तर्हि केनोपायेन तत्प्राप्तिः, इति पृच्छति -\nतदेतदिति ।\n\nज्ञानप्राप्तौ प्रत्यासन्नमुपायम् उपदिशति -\nउच्यत इति ।"
+    }
+  ]
+}

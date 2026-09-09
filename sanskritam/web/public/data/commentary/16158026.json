@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158026,
+    "chapter_id": 6158,
+    "verse_number": "10.26",
+    "content_sanskrit": "यतः त्वं देवादीनाम् आदिः, अतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "base_unit_id": "BG_C10_V15_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158026,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कश्चिदेव महता कष्टेन अनेकजन्मसंसिद्धः जानाति त्वदनुगृहीतः त्वद्रूपम् इत्यभिप्रेत्य आह -\nयतः इति ।\nस्वयमेव - उपदेशम् अन्तरेण इत्यर्थः । आत्मना प्रत्यक्त्वेन अविषयतया इति यावत् ।"
+    }
+  ]
+}

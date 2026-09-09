@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16782029,
+    "chapter_id": 6182,
+    "verse_number": "6.29",
+    "content_sanskrit": "अपां सोम्य पीयमानानां योऽणिमा स ऊर्ध्वः समुदीषति स प्राणो भवति ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "base_unit_id": "Ch_C06_S06_V03"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16782029,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तथा अपां सोम्य पीयमानानां यो अणिमा, स ऊर्ध्वः समुदीषति, स प्राणो भवतीति ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C06_S06_V03_B01",
+      "bhashya": "तथा अपां सोम्य पीयमानानां यो अणिमा, स ऊर्ध्वः समुदीषति, स प्राणो भवतीति ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

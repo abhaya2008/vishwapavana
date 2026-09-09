@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021010,
+    "chapter_id": 6107,
+    "verse_number": "1.10",
+    "content_sanskrit": "शान्तसङ्कल्पः सुमना यथा स्याद्वीतमन्युर्गौतमो माभिमृत्यो ।\nत्वत्प्रसृष्टं माभिवदेत्प्रतीत एतत्त्रयाणां प्रथमं वरं वृणे ॥ १० ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021010,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "गत्यर्थमादायाऽऽह -\nपूर्वोक्तेति ।"
+    }
+  ]
+}

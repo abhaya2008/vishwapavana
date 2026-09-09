@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156022,
+    "chapter_id": 6156,
+    "verse_number": "8.22",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "base_unit_id": "BG_C08_V14_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156022,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ननु - वायुनिरोधविधुराणाम् उदीरितया रीत्या स्वेच्छाप्रयुक्तोत्क्रमणासम्भवात् दुर्लभा परमा गतिः आपतेत् इति, तत्र आह -\nकिं चेति ।\nइतश्च भगवदनुस्मरणे प्रयतितव्यम् , इत्यर्थः ।"
+    }
+  ]
+}

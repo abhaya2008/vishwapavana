@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154078,
+    "chapter_id": 6154,
+    "verse_number": "6.78",
+    "content_sanskrit": "किं तु अस्य भवति ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "base_unit_id": "BG_C06_V41_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154078,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "योगभ्रष्टस्य लोकद्वयेऽपि नाशाभावे किं भवति ? इति पृच्छति -\nकिन्त्विति ।"
+    }
+  ]
+}

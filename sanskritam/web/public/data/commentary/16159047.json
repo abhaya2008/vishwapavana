@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159047,
+    "chapter_id": 6159,
+    "verse_number": "11.47",
+    "content_sanskrit": "कथं प्रविशन्ति मुखानि इत्याह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "base_unit_id": "BG_C11_V28_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159047,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उभयोरपि सेनयोः अवस्थितानां राज्ञां भगवन्मुखप्रवेशं निदर्शनेन विशदयति-\nकथमित्यादिना\n॥ २८ ॥"
+    }
+  ]
+}

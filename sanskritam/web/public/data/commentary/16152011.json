@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152011,
+    "chapter_id": 6152,
+    "verse_number": "4.11",
+    "content_sanskrit": "कथं तर्हि तव नित्येश्वरस्य धर्माधर्माभावेऽपि जन्म इति, उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "base_unit_id": "BG_C04_V06_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152011,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ईश्वरस्य कारणाभावात्‌ जन्मैवायुक्तम् , अतीतानेकजन्मवत्त्वं तु दूरोत्सारितमिति शङ्कते -\nकथमिति ।\n\nवस्तुतो जन्माभावेऽपि मायावशाज्जन्म सम्भवतीत्युत्तरमाह -\nउच्यत इति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152027,
+    "chapter_id": 6152,
+    "verse_number": "4.27",
+    "content_sanskrit": "येषां तु कर्मणां कर्तारं मां मन्यसे परमार्थतः तेषाम् अकर्ता एवाहम् , यतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "base_unit_id": "BG_C04_V14_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152027,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ईश्वरस्य कर्तृत्वभोक्तृत्वयोर्वस्तुतोऽभावे कर्मतत्फलसम्बन्धवैधुर्यं फलति, इत्याह -\nयेषां त्विति ।"
+    }
+  ]
+}

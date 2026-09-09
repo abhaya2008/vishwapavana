@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152013,
+    "chapter_id": 6152,
+    "verse_number": "4.13",
+    "content_sanskrit": "तच्च जन्म कदा किमर्थं च इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "base_unit_id": "BG_C04_V07_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152013,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यदीश्वरस्य मायानिबन्धनं जन्मेत्युक्तं, तस्य प्रश्नपूर्वकं कालं कथयति -\nतच्चेत्यादिना ।"
+    }
+  ]
+}

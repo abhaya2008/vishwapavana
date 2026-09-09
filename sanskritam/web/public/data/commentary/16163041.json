@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16163041,
+    "chapter_id": 6163,
+    "verse_number": "15.41",
+    "content_sanskrit": "अस्मिन् अध्याये भगवत्तत्त्वज्ञानं मोक्षफलम् उक्त्वा,अथ इदानीं तत् स्तौति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "base_unit_id": "BG_C15_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16163041,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अध्यायार्थमनूद्य उपसंहारश्लोकं अवतारयति -\nअस्मिन्निति ।"
+    }
+  ]
+}

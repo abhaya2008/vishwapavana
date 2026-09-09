@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178030,
+    "chapter_id": 6178,
+    "verse_number": "2.30",
+    "content_sanskrit": "फलम् — भवन्ति ह अस्य पशवः पशुमान्भवति, पशुफलैश्च भोगत्यागादिभिर्युज्यत इत्यर्थः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "base_unit_id": "Ch_C02_S06_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178030,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पशुमान्भवतीत्यस्य पूर्वेण पौनरुक्त्यं परिहरति –\n<span class=\"pratika\">पशुफलैश्चेति ॥२॥</span>\nइति श्रीमदानन्दगिरिटीकायां द्वितीयाध्यायस्य षष्ठः खण्डः ॥"
+    }
+  ]
+}

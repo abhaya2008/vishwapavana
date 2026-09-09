@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600102,
+    "chapter_id": 6101,
+    "verse_number": "1.2",
+    "content_sanskrit": "दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600102,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् ।\nअण्डस्यान्तस्त्विमे लोकाः सप्तद्वीपा च मेदिनी ॥"
+    }
+  ]
+}

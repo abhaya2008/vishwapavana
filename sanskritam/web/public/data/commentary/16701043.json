@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701043,
+    "chapter_id": 6101,
+    "verse_number": "1.43",
+    "content_sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥ ४३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "base_unit_id": "BG_C01_V43"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701043,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कुलक्षयकृतामेतैरुदाहृतैर्दोषैर्वर्णसङ्करहेतुभिर्जातिप्रयुक्ता वंशप्रयुक्ताश्च धर्माः सर्वे समुत्साद्यन्ते । तेन कुलक्षयकारणाद् युद्धादुपरतिरेव श्रेयसीत्याह -\n<span class=\"pratika\">दोषैरिति</span>\n॥ ४३ ॥"
+    }
+  ]
+}

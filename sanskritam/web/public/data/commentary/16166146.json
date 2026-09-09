@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166146,
+    "chapter_id": 6166,
+    "verse_number": "18.146",
+    "content_sanskrit": "योऽपि —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 146,
+    "base_unit_id": "BG_C18_V70_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166146,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्प्रदायवक्तुः सर्वाधिकं फलं ‘स वक्ता विष्णुरित्युक्तो न स विश्वाधिदैवतम् । ‘इति न्यायेन उक्त्वा सम्प्रति अध्येतुः विवक्षितं फलम् आह -\nयोऽपीति ।"
+    }
+  ]
+}

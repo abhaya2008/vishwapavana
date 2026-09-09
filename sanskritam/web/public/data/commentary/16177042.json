@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16177042,
+    "chapter_id": 6177,
+    "verse_number": "6.42",
+    "content_sanskrit": "अथैनमुद्यच्छति सह पात्रेण हस्ते गृह्णाति ‘आमंस्यामंहि ते महि’ इत्यनेन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "base_unit_id": "BR_C06_S03_V05_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16177042,
+      "commentary_type": "आनन्दगिरिटीका (बृहदारण्यक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आमंसि त्वं सर्वं विजानासि वयं च ते तव महि महत्तरं रूपममांहि मन्यामहे । स हि प्राणो राजादिगुणः स च मां तथाभूतं करोत्वित्युद्यमनमन्त्रस्यार्थः ॥५॥"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161070,
+    "chapter_id": 6161,
+    "verse_number": "13.70",
+    "content_sanskrit": "के पुनः ते विकाराः गुणाश्च प्रकृतिसम्भवाः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "base_unit_id": "BG_C13_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161070,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विकाराणां गुणानां प्रकृतेश्च स्वरूपम् आकाङ्क्षाद्वारा निर्णेतुम् उत्तरश्लोकपूर्वार्धं पातयति -\nके पुनरिति ।"
+    }
+  ]
+}

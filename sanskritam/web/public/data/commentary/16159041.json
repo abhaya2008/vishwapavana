@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159041,
+    "chapter_id": 6159,
+    "verse_number": "11.41",
+    "content_sanskrit": "कस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "base_unit_id": "BG_C11_V25_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159041,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "दृश्यमानेऽपि भगवद्देहे, परितोषाद्यभावे कारणान्तरं प्रश्नपूर्वकम् आह-\nकस्मादिति ।\nदृष्ट्वैव - इति एवकारेण प्राप्तिः व्यावर्त्यतेदृष्ट्वैव इति एवकारेण प्राप्तिः व्यावर्त्यते\n॥ २५ ॥"
+    }
+  ]
+}

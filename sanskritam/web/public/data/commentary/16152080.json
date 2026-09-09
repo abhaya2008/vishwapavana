@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152080,
+    "chapter_id": 6152,
+    "verse_number": "4.80",
+    "content_sanskrit": "किञ्च एतस्य ज्ञानस्य माहात्म्यम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "base_unit_id": "BG_C04_V36_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152080,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञानस्य प्रकारान्तरेण प्रशम्सां प्रस्तौति -\nकिञ्चेति ।"
+    }
+  ]
+}

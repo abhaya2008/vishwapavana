@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152019,
+    "chapter_id": 6152,
+    "verse_number": "4.19",
+    "content_sanskrit": "नैष मोक्षमार्ग इदानीं प्रवृत्तः ; किं तर्हि ? पूर्वमपि —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "base_unit_id": "BG_C04_V10_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152019,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्प्रति प्रस्तुतमोक्षमार्गस्य नूतनत्वेनाव्यवस्थितत्वमाशङ्क्य, परिहरति -\nनैष इति ।"
+    }
+  ]
+}

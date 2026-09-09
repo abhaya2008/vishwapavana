@@ -1,0 +1,38 @@
+{
+  "verse": {
+    "id": 10605058,
+    "chapter_id": 6150,
+    "verse_number": "2.58",
+    "content_sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः ।\nइन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता ॥ ५८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10605058,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "किञ्च अधैर्यमपि संवृत्तमित्याह -\nन चेति ।\n\nमोहोऽपि महान् भवतीत्याह -\nभ्रमतीवेति ।\n॥ ३० ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "None_P1",
+      "bhashya": "किञ्च अधैर्यमपि संवृत्तमित्याह -\nन चेति ।",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    },
+    {
+      "buid": "None_P2",
+      "bhashya": "मोहोऽपि महान् भवतीत्याह -\nभ्रमतीवेति ।\n॥ ३० ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157062,
+    "chapter_id": 6157,
+    "verse_number": "9.62",
+    "content_sanskrit": "उत्सृज्य च बाह्यां दुराचारतां अन्तः सम्यग्व्यवसायसामर्थ्यात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "base_unit_id": "BG_C09_V31_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157062,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "हेत्वर्थमेव प्रपञ्चयति -\nउत्सृज्येति ।"
+    }
+  ]
+}

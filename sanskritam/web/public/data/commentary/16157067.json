@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157067,
+    "chapter_id": 6157,
+    "verse_number": "9.67",
+    "content_sanskrit": "कथम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "base_unit_id": "BG_C09_V34_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157067,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवद्भक्तेः इत्थम्भावं पृच्छति -\nकथमिति ।"
+    }
+  ]
+}

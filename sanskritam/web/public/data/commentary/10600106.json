@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600106,
+    "chapter_id": 6101,
+    "verse_number": "1.6",
+    "content_sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600106,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "नारायणः परोऽव्यक्तादण्डमव्यक्तसम्भवम् ।\nअण्डस्यान्तस्त्विमे लोकाः सप्तद्वीपा च मेदिनी ॥"
+    }
+  ]
+}

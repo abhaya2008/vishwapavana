@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150153,
+    "chapter_id": 6150,
+    "verse_number": "2.153",
+    "content_sanskrit": "सैषा ज्ञाननिष्ठा स्तूयते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "base_unit_id": "BG_C02_V72_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150153,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तत्र तत्र सङ्क्षेपविस्तराभ्यां प्रदर्शितां ज्ञाननिष्ठामधिकारिप्रवृत्त्यर्थत्वेन स्तोतुमुत्तरश्लोकमवतारयति -\nसैषेति ।"
+    }
+  ]
+}

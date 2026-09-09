@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16169047,
+    "chapter_id": 6169,
+    "verse_number": "4.47",
+    "content_sanskrit": "अत एव च सूक्ष्मत्वात् नास्य स्थूलस्य शरीरस्योपमर्देन दाहादिनिमित्तेन इतरत्सूक्ष्मं शरीरमुपमृद्यते ॥ १० ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "base_unit_id": "BS_C04_S02_V10_B1"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16169047,
+      "commentary_type": "भामतीव्याख्या",
+      "author": "श्रीवाचस्पतिमिश्रः",
+      "lang": "sa",
+      "content": "<span class=\"pratika\">नोपमर्देनातः ।</span>\nअत एव च स्वच्छतालक्षणात्सौक्ष्म्यादसक्तत्वापरनाम्नः ॥ १० ॥"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16106015,
+    "chapter_id": 6106,
+    "verse_number": "1.15",
+    "content_sanskrit": "योऽयमतीतैर्मन्त्रैरुक्त आत्मा, स स्वेन रूपेण किंलक्षण इत्याह अयं मन्त्रः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "base_unit_id": "IS_C01_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16106015,
+      "commentary_type": "आनन्दगिरिटीका (ईशावास्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "<span class=\"pratika\">योऽय</span>मिति ।\n‘स्नु’ प्रक्षरणे धातुः । स्नावयन्ति शरीरमिति स्नावाः शिराः । क्रान्तमतिक्रान्तं नष्टमित्युपलक्षणं भूतभविष्यद्वर्तमानदर्शी ॥ ८ ॥"
+    }
+  ]
+}

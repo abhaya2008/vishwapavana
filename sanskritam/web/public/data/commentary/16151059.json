@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151059,
+    "chapter_id": 6151,
+    "verse_number": "3.59",
+    "content_sanskrit": "यदि हि पुनः अहं न वर्तेय जातु कदाचित् कर्मणि अतन्द्रितः अनलसः सन् मम श्रेष्ठस्य सतः वर्त्म मार्गम् अनुवर्तन्ते मनुष्याः हे पार्थ, सर्वशः सर्वप्रकारैः ॥ २३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "base_unit_id": "BG_C03_V23_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151059,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "लोकसङ्ग्रहोऽपि न ते कर्तव्यो विफलत्वादित्याशङ्क्याह -\nयदि हीति\n॥ २३ ॥"
+    }
+  ]
+}

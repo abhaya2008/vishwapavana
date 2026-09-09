@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600598,
+    "chapter_id": 6105,
+    "verse_number": "1.98",
+    "content_sanskrit": "तान्होवाचेहैव मा प्रातरुपसमीयातेति तद्ध बको दाल्भ्यो ग्लावो वा मैत्रेयः प्रतिपालयाञ्चकार ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600598,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति द्वादशखण्डभाष्यम् ॥\n\nत्रयोदशः खण्डः"
+    }
+  ]
+}

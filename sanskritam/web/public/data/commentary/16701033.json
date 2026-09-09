@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701033,
+    "chapter_id": 6101,
+    "verse_number": "1.33",
+    "content_sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ॥ ३३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "base_unit_id": "BG_C01_V33"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701033,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "राज्यादीनामाक्षेपे हेतुमाह -\n<span class=\"pratika\">येषामिति</span>\n॥३३ ॥"
+    }
+  ]
+}

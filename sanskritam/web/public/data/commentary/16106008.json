@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16106008,
+    "chapter_id": 6106,
+    "verse_number": "1.8",
+    "content_sanskrit": "यस्यात्मनो हननादविद्वांसः संसरन्ति, तद्विपर्ययेण विद्वांसो मुच्यन्तेऽनात्महनः, तत्कीदृशमात्मतत्त्वमित्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "base_unit_id": "IS_C01_V04_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16106008,
+      "commentary_type": "आनन्दगिरिटीका (ईशावास्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उत्तरमन्त्रमवतारयति -\nयस्याऽऽत्मन इत्यादिना ।"
+    }
+  ]
+}

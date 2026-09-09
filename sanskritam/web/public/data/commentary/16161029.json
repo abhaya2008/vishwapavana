@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161029,
+    "chapter_id": 6161,
+    "verse_number": "13.29",
+    "content_sanskrit": "तत् क्षेत्रक्षेत्रज्ञयाथात्म्यं विवक्षितं स्तौति श्रोतृबुद्धिप्ररोचनार्थम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "base_unit_id": "BG_C13_V04_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161029,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "श्लोकान्तरस्य तात्पर्यमाह -\nतदित्यादिना ।\nविवक्षितम् - जिज्ञासितम् इत्यर्थः ।\n\nस्तुतिफलमाह -\nश्रोत्रिति ।"
+    }
+  ]
+}

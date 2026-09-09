@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701028,
+    "chapter_id": 6101,
+    "verse_number": "1.28",
+    "content_sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत् ।\nअर्जुन उवाच —\nदृष्ट्वेमान्स्वजनान्कृष्ण युयुत्सून्समुपस्थितान् ॥ २८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "base_unit_id": "BG_C01_V28"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701028,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तदेव इदंशब्दवाच्यं वचनमुदाहरति -\n<span class=\"pratika\">दृष्ट्वेति ।</span>\n॥ २८ ॥"
+    }
+  ]
+}

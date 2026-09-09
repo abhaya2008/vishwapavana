@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600730,
+    "chapter_id": 6107,
+    "verse_number": "1.30",
+    "content_sanskrit": "अन्यच्छ्रेयोऽन्यदुतैव प्रेयस्ते उभे नानार्थे पुरुषं सिनीतः ।\nतयोः श्रेय आददानस्य साधु भवति हीयतेऽर्थाद्य उ प्रेयो वृणीते ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600730,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति प्रथमवल्लीभाष्यम् ॥"
+    }
+  ]
+}

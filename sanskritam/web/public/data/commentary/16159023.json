@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159023,
+    "chapter_id": 6159,
+    "verse_number": "11.23",
+    "content_sanskrit": "कथम् ? यत् त्वया दर्शितं विश्वरूपम् , तत् अहं पश्यामीति स्वानुभवमाविष्कुर्वन् अर्जुन उवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "base_unit_id": "BG_C11_V15_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159023,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कथं भगवन्तं प्रति अर्जुनो भाषितवान् ? इति पृच्छति-\nकथमिति ।\n\nतत्प्रश्नम् अपेक्षितं पूरयन् अवतारयति-\nयत् त्वयेति ।"
+    }
+  ]
+}

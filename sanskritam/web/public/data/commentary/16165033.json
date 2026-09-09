@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16165033,
+    "chapter_id": 6165,
+    "verse_number": "17.33",
+    "content_sanskrit": "यज्ञदानतपःप्रभृतीनां साद्गुण्यकरणाय अयम् उपदेशः उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "base_unit_id": "BG_C17_V23_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16165033,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विहितानां कर्मणां प्रमादयुक्ते वैगुण्ये कथं परिहारः स्यात् इति आशङ्क्य आह -\nयज्ञेति ।"
+    }
+  ]
+}

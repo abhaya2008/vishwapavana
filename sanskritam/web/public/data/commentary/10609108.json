@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10609108,
+    "chapter_id": 6191,
+    "verse_number": "4.8",
+    "content_sanskrit": "तस्यै तपो दमः कर्मेति प्रतिष्ठा वेदाः सर्वाङ्गानि सत्यमायतनम् ॥ ८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10609108,
+      "commentary_type": "आनन्दगिरिटीका (केन वाक्यभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "गौणमिति ।\nअवयवशक्तिलभ्यं न रूढ्या समुदायशक्त्येत्यर्थः ॥ ३२ - ६ ॥"
+    }
+  ]
+}

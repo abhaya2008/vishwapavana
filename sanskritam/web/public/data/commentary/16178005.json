@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178005,
+    "chapter_id": 6178,
+    "verse_number": "2.5",
+    "content_sanskrit": "तत् तत्रैव साध्वसाधुविवेककरणे उताप्याहुः — साम्ना एनं राजानं सामन्तं च उपागात्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "base_unit_id": "Ch_C02_S01_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178005,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किं पुनरेवं विवेककरणे कारणमित्याशङ्क्याऽऽह –\n<span class=\"pratika\">तत्तत्रेति ।</span>\nविवेककरणोपायभेदविकल्पार्थमुतेत्युभयत्र पदम् ।"
+    }
+  ]
+}

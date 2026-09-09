@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158034,
+    "chapter_id": 6158,
+    "verse_number": "10.34",
+    "content_sanskrit": "एवं च ध्येयोऽहम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "base_unit_id": "BG_C10_V21_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158034,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उक्तध्यानाशक्तेभ्यो वक्तव्यं विभूतियोगम् उपदिशति -\nएवञ्चेति ।"
+    }
+  ]
+}

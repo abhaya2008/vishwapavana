@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158052,
+    "chapter_id": 6158,
+    "verse_number": "10.52",
+    "content_sanskrit": "त्वमेव । मुनीनां मननशीलानां सर्वपदार्थज्ञानिनाम् अपि अहं व्यासः, कवीनां क्रान्तदर्शिनाम् उशना कविः अस्मि ॥ ३७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "base_unit_id": "BG_C10_V37_B02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158052,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उशना - शुक्रः, कविशब्दोेऽत्र योगिकः न रूढः पौनरुक्त्यात्\n॥ ३७ ॥"
+    }
+  ]
+}

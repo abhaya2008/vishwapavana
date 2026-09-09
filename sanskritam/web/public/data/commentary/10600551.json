@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600551,
+    "chapter_id": 6105,
+    "verse_number": "1.51",
+    "content_sanskrit": "अथ यदेतदादित्यस्य शुक्लं भाः सैवर्गथ यन्नीलं परः कृष्णं तत्साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600551,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "अन्तरिक्षमेव ऋक् वायुः साम इत्यादि पूर्ववत् ॥"
+    }
+  ]
+}

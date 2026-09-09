@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151063,
+    "chapter_id": 6151,
+    "verse_number": "3.63",
+    "content_sanskrit": "एवं लोकसङ्ग्रहं चिकीर्षोः न मम आत्मविदः कर्तव्यमस्ति अन्यस्य वा लोकसङ्ग्रहं मुक्त्वा । ततः तस्य आत्मविदः इदमुपदिश्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "base_unit_id": "BG_C03_V26_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151063,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वृत्तमनूद्योत्तरश्लोकमवतारयति -\nएवमिति ।\nकर्तव्यं,कर्मेति शेषः ।"
+    }
+  ]
+}

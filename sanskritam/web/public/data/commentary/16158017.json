@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158017,
+    "chapter_id": 6158,
+    "verse_number": "10.17",
+    "content_sanskrit": "ये यथोक्तैः प्रकारैः भजन्ते मां भक्ताः सन्तः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "base_unit_id": "BG_C10_V10_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158017,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यदुक्तं ‘सोऽविकम्पेन’(भ. गी. १०-७) इत्यादि, तदर्थं भूमिकां कृत्वा, तद् इदानीम् उदाहरति -\nये यथोक्तेति ।\nनित्याभियुक्तानाम् - अनवरतं भगवति ऐकाग्र्यसम्पन्नानाम् , इत्यर्थः ।"
+    }
+  ]
+}

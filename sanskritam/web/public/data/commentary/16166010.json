@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166010,
+    "chapter_id": 6166,
+    "verse_number": "18.10",
+    "content_sanskrit": "तत्र एतेषु विकल्पभेदेषु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "base_unit_id": "BG_C18_V04_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166010,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्माधिकतान् प्रत्येव उक्तविकल्पप्रवृत्तावपि कुतो निर्धारणसिद्धिः ? तत्र आह -\nतत्रेति ।"
+    }
+  ]
+}

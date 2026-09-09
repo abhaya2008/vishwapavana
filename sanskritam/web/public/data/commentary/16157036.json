@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157036,
+    "chapter_id": 6157,
+    "verse_number": "9.36",
+    "content_sanskrit": "किञ्च—",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "base_unit_id": "BG_C09_V18_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157036,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवतः सर्वात्मकत्वे हेत्वन्तरम् आह -\nकिञ्चेति ।"
+    }
+  ]
+}

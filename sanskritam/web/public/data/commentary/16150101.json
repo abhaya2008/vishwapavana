@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150101,
+    "chapter_id": 6150,
+    "verse_number": "2.101",
+    "content_sanskrit": "तव च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "base_unit_id": "BG_C02_V47_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150101,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तर्हि परम्परया पुरुषार्थसाधनं योगमार्गं परित्यज्य साक्षादेव पुरुषार्थकारणमात्मज्ञानं तदर्थमुपदेष्टव्यम् , तस्मै हि स्पृहयति मनो मदीयम् , इत्याशङ्क्याह -\nतव चेति ।"
+    }
+  ]
+}

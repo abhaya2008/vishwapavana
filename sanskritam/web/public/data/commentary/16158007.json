@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158007,
+    "chapter_id": 6158,
+    "verse_number": "10.7",
+    "content_sanskrit": "इतश्चाहं महेश्वरो लोकानाम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "base_unit_id": "BG_C10_V04_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158007,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवतो लोकमहेश्वरत्वे हेत्वन्तरम् आह -\nअतश्चेति ।"
+    }
+  ]
+}

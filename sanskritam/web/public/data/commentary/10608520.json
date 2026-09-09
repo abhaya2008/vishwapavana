@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608520,
+    "chapter_id": 6185,
+    "verse_number": "2.20",
+    "content_sanskrit": "न प्राणेन नापानेन मर्त्यो जीवति कश्चन ।\nइतरेण तु जीवन्ति यस्मिन्नेतावुपाश्रितौ ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608520,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "विमतं कर्मफलं तत्स्वरूपाद्यभिज्ञेन दीयमानं व्यवहितफलत्वात्सेवाफलवदित्याह -\nकिञ्च स इति ॥ १३ ॥"
+    }
+  ]
+}

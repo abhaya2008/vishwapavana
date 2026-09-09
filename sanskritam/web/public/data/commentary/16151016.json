@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151016,
+    "chapter_id": 6151,
+    "verse_number": "3.16",
+    "content_sanskrit": "प्रश्नानुरूपमेव प्रतिवचनं श्रीभगवानुवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C03_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151016,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्मुच्चयविरोधितया प्रश्नं व्याख्याय तद्विरोधित्वेनैव प्रतिवचनमुत्थापयति -\nप्रश्नेति।"
+    }
+  ]
+}

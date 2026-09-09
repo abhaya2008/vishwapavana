@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10609459,
+    "chapter_id": 6194,
+    "verse_number": "4.59",
+    "content_sanskrit": "यथा मायामयाद्बीजाज्जायते तन्मयोऽङ्कुरः ।\nनासौ नित्यो न चोच्छेदी तद्वद्धर्मेषु योजना ॥ ५९ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10609459,
+      "commentary_type": "आनन्दगिरिटीका (माण्डूक्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "तदेव पदं विशिनष्टि –\nअनापन्नादिमध्यान्तमिति ।\n\nतद् व्याकरोति –\nआदीति ।\n\nअन्वयं दर्शयन्नवशिष्टं व्याचष्टे –\nतदेव प्राप्येति ।"
+    }
+  ]
+}

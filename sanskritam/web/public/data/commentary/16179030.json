@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179030,
+    "chapter_id": 6179,
+    "verse_number": "3.30",
+    "content_sanskrit": "अथ यद्द्वितीयममृतं तद्रुद्रा उपजीवन्तीत्यादि समानम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "base_unit_id": "Ch_C03_S07_V03_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179030,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रथमममृतमधिकृत्य चिन्तनीयमुक्त्वा द्वितीयममृतमाश्रित्य तद्दर्शयति –\n<span class=\"pratika\">अथेति ॥१-३॥</span>"
+    }
+  ]
+}

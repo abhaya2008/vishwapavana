@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153041,
+    "chapter_id": 6153,
+    "verse_number": "5.41",
+    "content_sanskrit": "येषां ज्ञानेन नाशितम् आत्मनः अज्ञानं ते पण्डिताः कथं तत्त्वं पश्यन्ति इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "base_unit_id": "BG_C05_V18_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153041,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यद् अपुनरावृत्तिसाधनं तत्त्वज्ञानं, तदेव प्रश्नद्वारेण विवृणोति -\nयेषामित्यादिना ।"
+    }
+  ]
+}

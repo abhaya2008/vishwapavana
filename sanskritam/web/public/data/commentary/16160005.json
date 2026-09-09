@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16160005,
+    "chapter_id": 6160,
+    "verse_number": "12.5",
+    "content_sanskrit": "किमितरे युक्ततमाः न भवन्ति ? न ; किन्तु तान् प्रति यत् वक्तव्यम् , तत् शृणु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "base_unit_id": "BG_C12_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16160005,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वक्ष्यामः तदुपरिष्टात् - इत्युक्तं प्रश्नपूर्वकं प्रकटयति -\nकिमित्यादिना ।\nपूर्वेभ्यः फलतो विशेषार्थः तुशब्दः ।"
+    }
+  ]
+}

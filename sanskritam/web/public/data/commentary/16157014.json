@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157014,
+    "chapter_id": 6157,
+    "verse_number": "9.14",
+    "content_sanskrit": "एवं वायुः आकाशे इव मयि स्थितानि सर्वभूतानि स्थितिकाले ; तानि —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "base_unit_id": "BG_C09_V07_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157014,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आकाशे वाय्वादिस्थितिवत् आकाशादीनि भूतानि स्थितिकाले परमेश्वरे स्थितानि चेत् , तर्हि प्रळयकाले ततोऽन्यत्र तिष्ठेयुः, इत्याशङ्क्य, आह -\nएवमिति ।"
+    }
+  ]
+}

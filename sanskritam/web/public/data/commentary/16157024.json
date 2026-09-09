@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157024,
+    "chapter_id": 6157,
+    "verse_number": "9.24",
+    "content_sanskrit": "कथम् ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "base_unit_id": "BG_C09_V12_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157024,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवन्तम् अवजानतां प्रश्नपूर्वकं शोच्यत्वं विशदयति -\nकथमिति ।"
+    }
+  ]
+}

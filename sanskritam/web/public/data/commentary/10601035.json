@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10601035,
+    "chapter_id": 6110,
+    "verse_number": "1.35",
+    "content_sanskrit": "अमात्रश्चतुर्थोऽव्यवहार्यः प्रपञ्चोपशमः शिवोऽद्वैत एवमोङ्कार आत्मैव संविशत्यात्मनात्मानं य एवं वेद ॥ १२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10601035,
+      "commentary_type": "आनन्दगिरिटीका (माण्डूक्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति माण्डूक्योपनिषत्समाप्ता ॥"
+    }
+  ]
+}

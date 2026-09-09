@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16705021,
+    "chapter_id": 6105,
+    "verse_number": "1.21",
+    "content_sanskrit": "तेन तꣳ ह बृहस्पतिरुद्गीथमुपासाञ्चक्र एतमु एव बृहस्पतिं मन्यन्ते वाग्घि बृहती तस्या एष पतिः ॥ ११ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "base_unit_id": "Ch_C01_S02_V11"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16705021,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तथा वाचो बृहत्याः पतिः तेनासौ बृहस्पतिः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C01_S02_V11_B01",
+      "bhashya": "तथा वाचो बृहत्याः पतिः तेनासौ बृहस्पतिः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

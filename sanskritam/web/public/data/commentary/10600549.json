@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600549,
+    "chapter_id": 6105,
+    "verse_number": "1.49",
+    "content_sanskrit": "द्यौरेवर्गादित्यः साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते द्यौरेव सादित्योऽमस्तत्साम ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600549,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "षष्ठः खण्डः\n\nअथेदानीं सर्वफलसम्पत्त्यर्थम् उद्गीथस्य उपासनान्तरं विधित्स्यते —"
+    }
+  ]
+}

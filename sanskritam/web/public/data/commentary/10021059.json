@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021059,
+    "chapter_id": 6107,
+    "verse_number": "1.59",
+    "content_sanskrit": "यस्त्वविज्ञानवान्भवत्ययुक्तेन मनसा सदा ।\nतस्येन्द्रियाण्यवश्यानि दुष्टाश्वा इव सारथेः ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021059,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आत्मा रथस्वामी यः कल्पितस्तस्य भोक्तृत्वं च न स्वाभाविकमित्याह -\nआत्मेन्द्रियमनोयुक्तमिति ।"
+    }
+  ]
+}

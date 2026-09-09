@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166117,
+    "chapter_id": 6166,
+    "verse_number": "18.117",
+    "content_sanskrit": "यस्मात् एवम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "base_unit_id": "BG_C18_V57_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166117,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "परमेश्वरप्रसादस्य एवं माह्यत्म्यं यतः सिद्धं, तत्मात् तत्प्रसादार्थं भवता प्रयतितव्यम् इत्याह -\nयस्मादिति ।\nभगवत्प्रसादात् आसादितसम्यग्ज्ञानादेव मुक्तिः, न कर्ममात्रात् इति ज्ञानं विवेकबुद्धिः ।"
+    }
+  ]
+}

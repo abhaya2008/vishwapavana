@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157064,
+    "chapter_id": 6157,
+    "verse_number": "9.64",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "base_unit_id": "BG_C09_V32_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157064,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च भगवद्भक्तिः विधातव्या, इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

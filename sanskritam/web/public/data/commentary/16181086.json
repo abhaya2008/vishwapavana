@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181086,
+    "chapter_id": 6181,
+    "verse_number": "5.86",
+    "content_sanskrit": "एवं सम्पाद्य तान् ह उवाच — अश्वपतिर्वै नामतः भगवन्तः अयं केकयस्यापत्यं कैकेयः सम्प्रति सम्यगिममात्मानं वैश्वानरमध्येतीत्यादि समानम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "base_unit_id": "Ch_C05_S11_V04_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181086,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अश्वपतिरित्यादौ भगवन्त इति प्राचीनशालप्रभृतयः सम्बोध्यन्ते ॥४॥"
+    }
+  ]
+}

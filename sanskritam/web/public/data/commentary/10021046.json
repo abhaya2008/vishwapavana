@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021046,
+    "chapter_id": 6107,
+    "verse_number": "1.46",
+    "content_sanskrit": "एतदालम्बनं श्रेष्ठमेतदालम्बनं परम् ।\nएतदालम्बनं ज्ञात्वा ब्रह्मलोके महीयते ॥ १७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021046,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "स्वतो विरुद्धधर्मवत्त्वं नास्तीत्येतदेव श्रुतियोजनया दर्शयति -\nकरणानामित्यादिना ।"
+    }
+  ]
+}

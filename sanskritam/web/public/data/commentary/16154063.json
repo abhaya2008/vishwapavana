@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154063,
+    "chapter_id": 6154,
+    "verse_number": "6.63",
+    "content_sanskrit": "किञ्च अन्यत् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "base_unit_id": "BG_C06_V32_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154063,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "स्वैराचरणस्य अप्रतिबन्धकत्वकथनात् परपीडनस्य योगिनः सम्यग्दर्शनं प्रति अप्रतिबन्धकत्वप्रसक्तौ उक्तम् -\nकिञ्चेति ।\nअन्यदपि कि़ञ्चित् उच्यते परमयोगिनो निर्देशद्वारा योगमाहात्म्यम् , इत्यर्थः ।"
+    }
+  ]
+}

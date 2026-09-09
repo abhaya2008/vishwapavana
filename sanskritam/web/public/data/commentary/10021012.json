@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021012,
+    "chapter_id": 6107,
+    "verse_number": "1.12",
+    "content_sanskrit": "स्वर्गे लोके न भयं किञ्चनास्ति न तत्र त्वं न जरया बिभेति ।\nउभे तीर्त्वा अशनायापिपासे शोकातिगो मोदते स्वर्गलोके ॥ १२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021012,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ग्रन्थे तु भक्त्येति ।\nउपचारेणोपनिषच्छब्दप्रयोग इत्यर्थः ।"
+    }
+  ]
+}

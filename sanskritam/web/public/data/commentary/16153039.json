@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153039,
+    "chapter_id": 6153,
+    "verse_number": "5.39",
+    "content_sanskrit": "यत् परं ज्ञानं प्रकाशितम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "base_unit_id": "BG_C05_V17_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153039,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विदुषां विविदिषूणां च अन्तरङ्गाणि विद्यापरिपाकसाधनानि इति उपदिदिक्षुः उत्तरश्लोकस्य अपेक्षितं पूरयति -\nयत्परमिति ।"
+    }
+  ]
+}

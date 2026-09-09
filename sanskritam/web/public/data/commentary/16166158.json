@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166158,
+    "chapter_id": 6166,
+    "verse_number": "18.158",
+    "content_sanskrit": "तच्च संस्मृत्य संस्मृत्य रूपम् अत्यद्भुतं हरेः विश्वरूपं विस्मयो मे महान् राजन् , हृष्यामि च पुनः पुनः ॥ ७७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 158,
+    "base_unit_id": "BG_C18_V77_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166158,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यत्तु विश्वरूपाख्यं रूपं स्वगुणम् अर्जुनाय भगवान् दर्शितवान् ध्यानार्थं, तत् इदानीं स्तौति-\nतच्चेति\n॥ ७७ ॥"
+    }
+  ]
+}

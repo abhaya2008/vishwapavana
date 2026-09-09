@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16160019,
+    "chapter_id": 6160,
+    "verse_number": "12.19",
+    "content_sanskrit": "इदानीं सर्वकर्मफलत्यागं स्तौति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "base_unit_id": "BG_C12_V12_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16160019,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उत्तरश्लोकतात्पर्यम् आह -\nइदानीमिति ।\nज्ञानं - शब्दयुक्तिभ्याम् आत्मनिश्चयः अभ्यासः - ज्ञानार्थश्रवणाभ्यासः, निश्चयपूर्वकः ध्यानाभ्यासो वा । तस्य विशिष्यमाणत्वे साक्षात्कारहेतुत्वं हेतुः ।"
+    }
+  ]
+}

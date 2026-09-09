@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179094,
+    "chapter_id": 6179,
+    "verse_number": "3.94",
+    "content_sanskrit": "निश्चिता हि विद्या फलायेत्येतद्दर्शयन् उदाहरति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "base_unit_id": "Ch_C03_S16_V07_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179094,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "महिदासोदाहरणस्य तात्पर्यमाह –\n<span class=\"pratika\">निश्चिता हीति ।</span>\nतदेतद्यज्ञदर्शनं विद्वानाह स्मेति सम्बन्धः । ह वा इति निपातयोः किलेत्यर्थः । उक्तस्य वोदाहरणस्य प्रसिद्धिविषयः । हे रोग कस्मान्मां त्वमुपतपसीति सम्बन्धः ।"
+    }
+  ]
+}

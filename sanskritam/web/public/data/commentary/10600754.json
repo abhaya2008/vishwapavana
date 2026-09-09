@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600754,
+    "chapter_id": 6107,
+    "verse_number": "1.54",
+    "content_sanskrit": "यस्य ब्रह्म च क्षत्रं च उभे भवत ओदनः ।\nमृत्युर्यस्योपसेचनं क इत्था वेद यत्र सः ॥ २५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600754,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति द्वितीयवल्लीभाष्यम् ॥"
+    }
+  ]
+}

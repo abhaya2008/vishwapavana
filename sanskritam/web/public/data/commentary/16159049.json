@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159049,
+    "chapter_id": 6159,
+    "verse_number": "11.49",
+    "content_sanskrit": "ते किमर्थं प्रविशन्ति कथं च इत्याह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "base_unit_id": "BG_C11_V29_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159049,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रवेशप्रयोजनम् , तत्प्रकारविशेषञ्च उदाहरणान्तरेण स्फोटयति-\nते किमर्थम् इत्यादिना\n॥ २९ ॥"
+    }
+  ]
+}

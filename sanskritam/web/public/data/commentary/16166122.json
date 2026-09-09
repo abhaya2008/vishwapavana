@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166122,
+    "chapter_id": 6166,
+    "verse_number": "18.122",
+    "content_sanskrit": "यस्माच्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "base_unit_id": "BG_C18_V60_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166122,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च त्वया युद्धात् न वैमुख्यं कर्तुम् उचितम् इत्याह -\nयस्माच्चेति ।\nस्वभावजेन स्वेन कर्मणा निबद्धः त्वम् इति सम्बन्धः\n॥ ६० ॥"
+    }
+  ]
+}

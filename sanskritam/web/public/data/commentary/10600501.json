@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600501,
+    "chapter_id": 6105,
+    "verse_number": "1.1",
+    "content_sanskrit": "ओमित्येतदक्षरमुद्गीथमुपासीत । ओमिति ह्युद्गायति तस्योपव्याख्यानम् ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600501,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "प्रथमः खण्डः"
+    }
+  ]
+}

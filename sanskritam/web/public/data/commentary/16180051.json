@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16180051,
+    "chapter_id": 6180,
+    "verse_number": "4.51",
+    "content_sanskrit": "हंसोऽपि मद्गुष्टे पादं वक्तेत्युपरराम । मद्गुः उदकचरः पक्षी, स च अप्सम्बन्धात्प्राणः । स ह श्वोभूते इत्यादि पूर्ववत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "base_unit_id": "Ch_C04_S08_V01_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16180051,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अवशिष्टं पादान्तरं तर्हि कथं ज्ञायतामित्याशङ्क्याऽऽह –\n<span class=\"pratika\">हंसोऽपीति ।</span>\n\nमद्गुशब्दस्य वाच्यमर्थमन्वाचष्टे -\n<span class=\"pratika\">मद्गुरिति ।</span>\n\nतस्य कथं सत्यकामं प्रत्युपदेष्टृत्वमत आह –\n<span class=\"pratika\">स चेति ॥१॥</span>"
+    }
+  ]
+}

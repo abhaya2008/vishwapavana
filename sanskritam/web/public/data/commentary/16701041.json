@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16701041,
+    "chapter_id": 6101,
+    "verse_number": "1.41",
+    "content_sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥ ४१ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "base_unit_id": "BG_C01_V41"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16701041,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कुलक्षये कृते अवशिष्टकुलस्य अधर्मप्रवणत्वे को दोषः स्यात् ? इति तत्राह –\n<span class=\"pratika\">अधर्मेति ।</span>\n\nपापप्रचुरे कुले प्रसूतानां स्त्रीणां प्रदुष्टत्वे किं दुष्यति ? तत्राह -\n<span class=\"pratika\">स्त्रीष्विति</span>\n॥ ४१ ॥"
+    }
+  ]
+}

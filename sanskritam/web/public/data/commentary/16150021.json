@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150021,
+    "chapter_id": 6150,
+    "verse_number": "2.21",
+    "content_sanskrit": "इतश्च शोकमोहौ अकृत्वा शीतोष्णादिसहनं युक्तम् , यस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "base_unit_id": "BG_C02_V16_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150021,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अधिकारिविशेषणे तितिक्षुत्वे हेत्वन्तरपरत्वेन उत्तरश्लोकमवतारयति -\nइतश्चेति ।\n\nइतःशब्दार्थमेवस्फुटयति -\nयस्मादिति ।"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16705056,
+    "chapter_id": 6105,
+    "verse_number": "1.56",
+    "content_sanskrit": "चक्षुरेवर्गात्मा साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते । चक्षुरेव सात्मामस्तत्साम ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "base_unit_id": "Ch_C01_S07_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16705056,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "चक्षुरेव ऋक् आत्मा साम । आत्मेति च्छायात्मा, तत्स्थत्वात्साम ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C01_S07_V02_B01",
+      "bhashya": "चक्षुरेव ऋक् आत्मा साम । आत्मेति च्छायात्मा, तत्स्थत्वात्साम ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

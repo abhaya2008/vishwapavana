@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154050,
+    "chapter_id": 6154,
+    "verse_number": "6.50",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "base_unit_id": "BG_C06_V24_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154050,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च योगस्य कर्तव्यत्वम् , इति प्रतिजानीते -\nकिञ्चेति ।"
+    }
+  ]
+}

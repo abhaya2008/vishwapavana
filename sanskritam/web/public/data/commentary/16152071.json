@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152071,
+    "chapter_id": 6152,
+    "verse_number": "4.71",
+    "content_sanskrit": "एवं यथोक्तान् यज्ञान् निर्वर्त्य —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "base_unit_id": "BG_C04_V31_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152071,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यथोक्तयज्ञनिर्वर्तनानन्तरं क्षीणे कल्मषे किं स्यात् ? इत्याशङ्क्य आह -\nएवमिति ।"
+    }
+  ]
+}

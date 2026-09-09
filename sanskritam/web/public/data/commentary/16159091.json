@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159091,
+    "chapter_id": 6159,
+    "verse_number": "11.91",
+    "content_sanskrit": "अधुना सर्वस्य गीताशास्त्रस्य सारभूतः अर्थः निःश्रेयसार्थः अनुष्ठेयत्वेन समुच्चित्य उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "base_unit_id": "BG_C11_V55_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159091,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भक्त्या तु इति विशेषणात् अन्येषाम् अहेतुत्वम् आशङ्क्य आह-\nअधुनेति ।\nसमुच्चित्य - सङ्क्षिप्य, पुञ्जीकृत्य इति यावत् ।"
+    }
+  ]
+}

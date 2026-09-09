@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157026,
+    "chapter_id": 6157,
+    "verse_number": "9.26",
+    "content_sanskrit": "ये पुनः श्रद्दधानाः भगवद्भक्तिलक्षणे मोक्षमार्गे प्रवृत्ताः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "base_unit_id": "BG_C09_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157026,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "के पुनः भगवन्तं भजन्ते ? तानाह -\nये पुनरिति ।"
+    }
+  ]
+}

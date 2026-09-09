@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157010,
+    "chapter_id": 6157,
+    "verse_number": "9.10",
+    "content_sanskrit": "अत एव असंसर्गित्वात् मम —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "base_unit_id": "BG_C09_V05_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157010,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "परमेश्वरस्य भूतेषु स्थित्यभावेऽपि भूतानां तत्र स्थितिः आस्थिता, इति, कुतोऽसङ्गत्वम् ? तत्राह -\nअत एवेति ।\n‘न च ‘ इत्यत्र चकारः अवधारणार्थः ।"
+    }
+  ]
+}

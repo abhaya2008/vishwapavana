@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16203024,
+    "chapter_id": 6203,
+    "verse_number": "3.24",
+    "content_sanskrit": "नवमोऽनुवाकः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "base_unit_id": "T_C03_S09"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16203024,
+      "commentary_type": "तैत्तिरीयोपनिषद्भाष्यवार्तिकम्",
+      "author": "श्रीमत्सुरेश्वराचार्यः",
+      "lang": "sa",
+      "content": "नवमोऽनुवाकः\nअन्नं सुबहु कुर्वीत तथैवेहोत्तरं व्रतम् ॥ ४२ ॥\nइति नवमोऽनुवाकः ॥ ९ ॥"
+    }
+  ]
+}

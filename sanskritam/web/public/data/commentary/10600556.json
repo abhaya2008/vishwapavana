@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600556,
+    "chapter_id": 6105,
+    "verse_number": "1.56",
+    "content_sanskrit": "चक्षुरेवर्गात्मा साम तदेतदेतस्यामृच्यध्यूढꣳ साम तस्मादृच्यध्यूढꣳ साम गीयते । चक्षुरेव सात्मामस्तत्साम ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600556,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति षष्ठखण्डभाष्यम् ॥\n\nसप्तमः खण्डः"
+    }
+  ]
+}

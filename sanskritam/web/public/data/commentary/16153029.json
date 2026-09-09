@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153029,
+    "chapter_id": 6153,
+    "verse_number": "5.29",
+    "content_sanskrit": "यस्माच्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "base_unit_id": "BG_C05_V12_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153029,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च सङ्गं त्यक्त्वा कर्मानुष्ठानं त्वया कर्तव्यम् , इत्याह -\nयस्माच्चेति ।"
+    }
+  ]
+}

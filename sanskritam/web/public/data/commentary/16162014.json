@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162014,
+    "chapter_id": 6162,
+    "verse_number": "14.14",
+    "content_sanskrit": "पुनः गुणानां व्यापारः सङ्क्षेपतः उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "base_unit_id": "BG_C14_V09_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162014,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उक्तानां मध्ये कस्मिन् मार्गे कस्य गुणस्य उत्कर्षः ? तत्र आह -\nपुनरिति ।"
+    }
+  ]
+}

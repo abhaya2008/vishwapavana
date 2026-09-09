@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164014,
+    "chapter_id": 6164,
+    "verse_number": "16.14",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "base_unit_id": "BG_C16_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164014,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आसुराणां जनानां विशेषणान्तराण्यपि सन्ति इत्याह -\nकिं चेति ।\nविद्यते इत्याहुः इति पूर्वेण सबन्धः ।"
+    }
+  ]
+}

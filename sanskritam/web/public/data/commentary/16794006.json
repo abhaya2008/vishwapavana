@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16794006,
+    "chapter_id": 6194,
+    "verse_number": "4.6",
+    "content_sanskrit": "अजातस्यैव धर्मस्य जातिमिच्छन्ति वादिनः ।\nअजातो ह्यमृतो धर्मो मर्त्यतां कथमेष्यति ॥ ६ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "base_unit_id": "MK_C04_K06"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16794006,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "सदसद्वादिनः सर्वे । अयं तु पुरस्तात्कृतभाष्यः श्लोकः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "MK_C04_K06_B01",
+      "bhashya": "सदसद्वादिनः सर्वे । अयं तु पुरस्तात्कृतभाष्यः श्लोकः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

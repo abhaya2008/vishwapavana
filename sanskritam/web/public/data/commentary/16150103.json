@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150103,
+    "chapter_id": 6150,
+    "verse_number": "2.103",
+    "content_sanskrit": "यदि कर्मफलप्रयुक्तेन न कर्तव्यं कर्म, कथं तर्हि कर्तव्यमिति ; उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "base_unit_id": "BG_C02_V48_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150103,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आसक्तिरकरणे न युक्ता चेत् , तर्हि क्लेशात्मकं कर्म किमुद्दिश्य कर्तव्यम् ? इत्याशङ्कामनूद्य, श्लोकान्तरमवतारयति -\nयदीत्यादिना ।"
+    }
+  ]
+}

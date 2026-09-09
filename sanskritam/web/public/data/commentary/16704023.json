@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16704023,
+    "chapter_id": 6104,
+    "verse_number": "1.23",
+    "content_sanskrit": "अथ चक्षुरत्यवहत् ; तद्यदा मृत्युमत्यमुच्यत स आदित्योऽभवत् ; सोऽसावादित्यः परेण मृत्युमतिक्रान्तस्तपति ॥ १४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "base_unit_id": "BR_C01_S03_V14"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16704023,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तथा चक्षुरादित्योऽभवत् ; स तु तपति ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BR_C01_S03_V14_B01",
+      "bhashya": "तथा चक्षुरादित्योऽभवत् ; स तु तपति ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

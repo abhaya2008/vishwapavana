@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156020,
+    "chapter_id": 6156,
+    "verse_number": "8.20",
+    "content_sanskrit": "तत्रैव च धारयन् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "base_unit_id": "BG_C08_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156020,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यथोक्तयोगधारणार्थं प्रवृत्तो मूर्धनि प्राणम् आधाय - धारयन् किं कुर्यात् ? इत्याशङ्क्य, अनन्तरश्लोकम् अवतारयति -\nतत्रैवेति ।"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16794033,
+    "chapter_id": 6194,
+    "verse_number": "4.33",
+    "content_sanskrit": "सर्वे धर्मा मृषा स्वप्ने कायस्यान्तर्निदर्शनात् ।\nसंवृतेऽस्मिन्प्रदेशे वै भूतानां दर्शनं कुतः ॥ ३३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "base_unit_id": "MK_C04_K33"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16794033,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "<span class=\"ullekha\">‘निमित्तस्यानिमित्तत्वमिष्यते भूतदर्शनात्’</span><span class=\"ullekha-ref\">(मा. का. ४ । २५)</span> इत्ययमर्थः प्रपञ्च्यते एतैः श्लोकैः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "MK_C04_K33_B01",
+      "bhashya": "‘निमित्तस्यानिमित्तत्वमिष्यते भूतदर्शनात्’(मा. का. ४ । २५) इत्ययमर्थः प्रपञ्च्यते एतैः श्लोकैः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

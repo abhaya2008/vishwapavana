@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16794032,
+    "chapter_id": 6194,
+    "verse_number": "4.32",
+    "content_sanskrit": "सप्रयोजनता तेषां स्वप्ने विप्रतिपद्यते ।\nतस्मादाद्यन्तवत्त्वेन मिथ्यैव खलु ते स्मृताः ॥ ३२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "base_unit_id": "MK_C04_K32"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16794032,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "वैतथ्ये कृतव्याख्यानौ श्लोकाविह संसारमोक्षाभावप्रसङ्गेन पठितौ ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "MK_C04_K32_B01",
+      "bhashya": "वैतथ्ये कृतव्याख्यानौ श्लोकाविह संसारमोक्षाभावप्रसङ्गेन पठितौ ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

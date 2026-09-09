@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10609104,
+    "chapter_id": 6191,
+    "verse_number": "4.4",
+    "content_sanskrit": "तस्यैष आदेशो यदेतद्विद्युतो व्यद्युतदा३ इतीन्न्यमीमिषदा३ इत्यधिदैवतम् ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10609104,
+      "commentary_type": "आनन्दगिरिटीका (केन वाक्यभाष्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "अहङ्ग्रहेणैवैतत्कर्तव्यमित्यभिप्रेत्याऽऽध्यात्मिकब्रह्मरूपमाह –\nआत्मेत्यादिना ॥ ३१ - ५ ॥"
+    }
+  ]
+}

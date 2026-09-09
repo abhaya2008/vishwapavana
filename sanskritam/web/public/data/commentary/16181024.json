@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181024,
+    "chapter_id": 6181,
+    "verse_number": "5.24",
+    "content_sanskrit": "समानमन्यत् , वसिष्ठाय प्रतिष्ठायै सम्पदे आयतनाय स्वाहेति, प्रत्येकं तथैव सम्पातमवनयेत् हुत्वा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "base_unit_id": "Ch_C05_S02_V05_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181024,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वसिष्ठाय स्वाहेत्यादिवाक्यं पूर्ववाक्येन तुल्यार्थमित्याह –\n<span class=\"pratika\">समानमिति ।</span>\n\nतुल्यत्वमेव स्पष्टयति –\n<span class=\"pratika\">वसिष्ठायेति ।</span>\nस्वाहेति मन्त्रं समुच्चार्य हुत्वेति सम्बन्धः । तथैव प्रथमहोमानन्तरमित्यर्थः ॥५॥"
+    }
+  ]
+}

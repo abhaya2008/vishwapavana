@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16162005,
+    "chapter_id": 6162,
+    "verse_number": "14.5",
+    "content_sanskrit": "क्षेत्रक्षेत्रज्ञसंयोगः ईदृशः भूतकारणम् इत्याह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "base_unit_id": "BG_C14_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16162005,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञानस्तुत्या तदभिमुखाय अवहितचेतसे विवक्षितम् अर्थम् आह -\nक्षेत्रेति ।"
+    }
+  ]
+}

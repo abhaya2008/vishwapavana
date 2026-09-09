@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021017,
+    "chapter_id": 6107,
+    "verse_number": "1.17",
+    "content_sanskrit": "त्रिणाचिकेतस्त्रिभिरेत्य सन्धिं त्रिकर्मकृत्तरति जन्ममृत्यू ।\nब्रह्मजज्ञं देवमीड्यं विदित्वा निचाय्येमां शान्तिमत्यन्तमेति ॥ १७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021017,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "श्रुत्यनुक्तपूर्वभाषणादिकमपि कथायामपेक्षितं पूरयति -\nस एवमुक्तः पितेति ॥ ७ - ८ ॥"
+    }
+  ]
+}

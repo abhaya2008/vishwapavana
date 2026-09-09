@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181008,
+    "chapter_id": 6181,
+    "verse_number": "5.8",
+    "content_sanskrit": "यो ह वा आयतनं वेद, आयतनं ह म्वानां भवतीत्यर्थः । किं तदायतनमिति, आह — मनो ह वा आयतनम् । इन्द्रियोपहृतानां विषयाणां भोक्त्रर्थानां प्रत्ययरूपाणां मन आयतनमाश्रयः । अतो मनो ह वा आयतनमित्युक्तम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "base_unit_id": "Ch_C05_S01_V05_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181008,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "संप्रति गुणान्तरमाह –\n<span class=\"pratika\">यो हीति ।</span>\n\nकथं पुनरायतनत्वं मनसः सिद्धमित्यत आह –\n<span class=\"pratika\">इन्द्रियोपहृतानामिति ॥५॥</span>"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10608531,
+    "chapter_id": 6185,
+    "verse_number": "2.31",
+    "content_sanskrit": "ऊर्ध्वमूलोऽवाक्शाख एषोऽश्वत्थः सनातनः ।\nतदेव शुक्रं तद्ब्रह्म तदेवामृतमुच्यते ।\nतस्मिंल्लोकाः श्रिताः सर्वे तदु नात्येति कश्चन । एतद्वै तत् ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10608531,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "द्वितीयं प्रत्याह -\nकथं तर्हीति ।"
+    }
+  ]
+}

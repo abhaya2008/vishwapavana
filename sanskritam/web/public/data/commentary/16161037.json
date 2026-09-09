@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16161037,
+    "chapter_id": 6161,
+    "verse_number": "13.37",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "base_unit_id": "BG_C13_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16161037,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "न केवलम् अमानित्वादीन्येव ज्ञानस्य अन्तरङ्गसाधनानि, किन्तु वैराग्यादीन्यपि तथाविधानि सन्ति, इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

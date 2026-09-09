@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151043,
+    "chapter_id": 6151,
+    "verse_number": "3.43",
+    "content_sanskrit": "तच्चैवंविधं कर्म कुतो जातमित्याह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "base_unit_id": "BG_C03_V15_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151043,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यत् अपूर्वहेतुत्वेन कर्मोक्तं, तत् किं चैत्यवन्दनादि ? किं वाऽग्निहोत्रादीति सन्दिहानं प्रत्याह -\nकर्मेति ।"
+    }
+  ]
+}

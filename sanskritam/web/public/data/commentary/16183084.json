@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16183084,
+    "chapter_id": 6183,
+    "verse_number": "7.84",
+    "content_sanskrit": "यदा वै करोति । कृतिः इन्द्रियसंयमः चित्तैकाग्रताकरणं च । सत्यां हि तस्यां निष्ठादीनि यथोक्तानि भवन्ति विज्ञानावसानानि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "base_unit_id": "Ch_C07_S21_V01_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16183084,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "निष्ठानिदानं कृतिं विभजते –\n<span class=\"pratika\">कृतिरिति ।</span>\n\nकथं पुनरेतेषामुत्तरमुत्तरं पूर्वस्य पूर्वस्य कारणीभवति तत्राऽऽह –\n<span class=\"pratika\">सत्यां हीति ॥१॥</span>\nइति श्रीमदानन्दगिरिटीकायां सप्तमाध्यायस्यैकविंशः खण्डः ॥"
+    }
+  ]
+}

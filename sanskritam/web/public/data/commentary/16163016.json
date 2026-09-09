@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16163016,
+    "chapter_id": 6163,
+    "verse_number": "15.16",
+    "content_sanskrit": "कस्मिन् काले ? —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C15_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16163016,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "स्वस्थाने स्थितानां इन्द्रियाणां जीवेन आकर्षणस्य कालं पृच्छति -\nकस्मिन्निति ।"
+    }
+  ]
+}

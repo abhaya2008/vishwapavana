@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159073,
+    "chapter_id": 6159,
+    "verse_number": "11.73",
+    "content_sanskrit": "यतः त्वम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "base_unit_id": "BG_C11_V43_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159073,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "वाचनिकं मदीयम् अपराधजातं त्वया क्षन्तव्यम् इत्युक्तम् ; इदानीं मदीयो योऽपराधो न त्वया गृहीतव्यः, गृहीतोऽपि सोढव्यः, इत्याह-\nयत इति ।"
+    }
+  ]
+}

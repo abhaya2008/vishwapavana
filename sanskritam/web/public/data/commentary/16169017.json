@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16169017,
+    "chapter_id": 6169,
+    "verse_number": "4.17",
+    "content_sanskrit": "अपि च ‘ध्यायतीव पृथिवी’(छा. उ. ७ । ६ । १) इत्यत्र पृथिव्यादिषु अचलत्वमेवापेक्ष्य ध्यायतिवादो भवति । तच्च लिङ्गम् उपासनस्य आसीनकर्मत्वे ॥ ९ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "base_unit_id": "BS_C04_S01_V09_B1"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16169017,
+      "commentary_type": "भामतीव्याख्या",
+      "author": "श्रीवाचस्पतिमिश्रः",
+      "lang": "sa",
+      "content": "<span class=\"pratika\">अचलत्वं चापेक्ष्य ॥ ९ ॥</span>"
+    },
+    {
+      "id": 2,
+      "verse_id": 16169017,
+      "commentary_type": "भाष्यरत्नप्रभाव्याख्या",
+      "author": "श्रीरामानन्दयतिः",
+      "lang": "sa",
+      "content": "अत्रैव श्रौतं दृष्टान्तमाह -\n<span class=\"pratika\">अचलत्वं चेति ॥९॥</span>"
+    }
+  ]
+}

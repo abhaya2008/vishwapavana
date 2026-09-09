@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600571,
+    "chapter_id": 6105,
+    "verse_number": "1.71",
+    "content_sanskrit": "तꣳ ह प्रवाहणो जैवलिरुवाचान्तवद्वै किल ते शालावत्य साम यस्त्वेतर्हि ब्रूयान्मूर्धा ते विपतिष्यतीति मूर्धा ते विपतेदिति हन्ताहमेतद्भगवत्तो वेदानीति विद्धीति होवाच ॥ ८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600571,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "इति अष्टमखण्डभाष्यम् ॥\n\nनवमः खण्डः"
+    }
+  ]
+}

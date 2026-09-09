@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16780031,
+    "chapter_id": 6180,
+    "verse_number": "4.31",
+    "content_sanskrit": "तमग्निरभ्युवाद सत्यकाम३ इति भगव इति ह प्रतिशुश्राव ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "base_unit_id": "Ch_C04_S06_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16780031,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "तमग्निरभ्युवाद सत्यकाम३ इति सम्बोध्य । तम् असौ सत्यकामो भगव इति ह प्रतिशुश्राव प्रतिवचनं ददौ ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C04_S06_V02_B01",
+      "bhashya": "तमग्निरभ्युवाद सत्यकाम३ इति सम्बोध्य । तम् असौ सत्यकामो भगव इति ह प्रतिशुश्राव प्रतिवचनं ददौ ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

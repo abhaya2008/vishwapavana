@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178103,
+    "chapter_id": 6178,
+    "verse_number": "2.103",
+    "content_sanskrit": "सर्वविषयसामविदः फलम् — सर्वं ह भवति सर्वेश्वरो भवतीत्यर्थः । निरुपचरितसर्वभावे हि दिक्स्थेभ्यो बलिप्राप्त्यनुपपत्तिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "base_unit_id": "Ch_C02_S21_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178103,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अथ यथाश्रुतं सर्वात्मत्वमेव किं न स्यादत आह –\n<span class=\"pratika\">निरुपचरितेति ॥२॥</span>"
+    }
+  ]
+}

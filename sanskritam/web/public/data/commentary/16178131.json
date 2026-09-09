@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178131,
+    "chapter_id": 6178,
+    "verse_number": "2.131",
+    "content_sanskrit": "लोकद्वारम् अस्य पृथिवीलोकस्य प्राप्तये द्वारम् अपावृणु हे अग्ने तेन द्वारेण पश्येम त्वा त्वां राज्यायेति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 131,
+    "base_unit_id": "Ch_C02_S24_V04_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178131,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "राज्याय त्वद्दर्शनेन त्वदनुज्ञया पृथिवीप्रयुक्तभोगायेत्यर्थः ॥४॥"
+    }
+  ]
+}

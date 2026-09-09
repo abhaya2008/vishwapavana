@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150139,
+    "chapter_id": 6150,
+    "verse_number": "2.139",
+    "content_sanskrit": "सेयं प्रसन्नता स्तूयते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 139,
+    "base_unit_id": "BG_C02_V66_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150139,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किं पुनः सत्त्वशुद्ध्यैव यथोक्तबुद्धिः सिध्यति ? नेत्याह -\nसेयमिति ।"
+    }
+  ]
+}

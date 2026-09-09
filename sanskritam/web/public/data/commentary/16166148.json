@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166148,
+    "chapter_id": 6166,
+    "verse_number": "18.148",
+    "content_sanskrit": "अथ श्रोतुः इदं फलम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 148,
+    "base_unit_id": "BG_C18_V71_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166148,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रवक्तुः अध्येतुश्च फलम् उक्त्वा श्रोतुः इदानीं फलं कथयति -\nअथेति\n॥ ७१ ॥"
+    }
+  ]
+}

@@ -8,9 +8,7 @@ export default function CategoryCard({ category, isSubcategory = false }) {
 
     return (
         <Link to={`/category/${id}`} className={cardClass}>
-            <h3 className={titleClass}>
-                {isSubcategory ? name_sanskrit : `॥ ${name_sanskrit} ॥`}
-            </h3>
+            <h3 className={titleClass}>{name_sanskrit}</h3>
         </Link>
     );
 }

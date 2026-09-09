@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154046,
+    "chapter_id": 6154,
+    "verse_number": "6.46",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "base_unit_id": "BG_C06_V22_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154046,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रकारान्तरेण प्रकृतं योगं विशिनष्टि -\nकिञ्चेति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166120,
+    "chapter_id": 6166,
+    "verse_number": "18.120",
+    "content_sanskrit": "इदं च त्वया न मन्तव्यम् ‘स्वतन्त्रः अहम् , किमर्थं परोक्तं करिष्यामि ? ’ इति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "base_unit_id": "BG_C18_V59_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166120,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "स्वातन्त्र्ये सति भीतेः अवकाशः नास्ति इति आशङ्क्य आह -\nइदं चेति\n॥ ५९ ॥"
+    }
+  ]
+}

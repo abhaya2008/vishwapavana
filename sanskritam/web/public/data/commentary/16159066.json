@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159066,
+    "chapter_id": 6159,
+    "verse_number": "11.66",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "base_unit_id": "BG_C11_V39_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159066,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तस्य सर्वात्मत्वे हेत्वन्तरम् आह-\nकिं चेति ।\nकश्यपादिः इति आदिशब्देन विरड्दक्षादयो गृह्यन्ते ।"
+    }
+  ]
+}

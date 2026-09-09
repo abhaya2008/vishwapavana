@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151088,
+    "chapter_id": 6151,
+    "verse_number": "3.88",
+    "content_sanskrit": "कथं वैरी इति दृष्टान्तैः प्रत्याययति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "base_unit_id": "BG_C03_V38_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151088,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उत्तरश्लोकमवतास्यति -\nकथमिति ।\nअनेकदृष्टान्तोपादानं प्रतिपत्तिसौकर्यार्थम् ।"
+    }
+  ]
+}

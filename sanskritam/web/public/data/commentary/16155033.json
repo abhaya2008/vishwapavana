@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155033,
+    "chapter_id": 6155,
+    "verse_number": "7.33",
+    "content_sanskrit": "आत्मैव सर्वो वासुदेव इत्येवमप्रतिपत्तौ कारणमुच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "base_unit_id": "BG_C07_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155033,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "किमिति तर्हि सर्वेषां प्रत्यग्भूते भगवति यथोक्तज्ञानं नोदोति? इत्याशङ्क्य, ‘न माम् ‘ इत्यत्र उक्तं हृदि निधाय, ज्ञाानानुदये हेत्वन्तरम् आह -\nआत्मैवेति ।"
+    }
+  ]
+}

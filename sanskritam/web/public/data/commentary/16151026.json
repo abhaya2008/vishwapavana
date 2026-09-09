@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151026,
+    "chapter_id": 6151,
+    "verse_number": "3.26",
+    "content_sanskrit": "कर्मेन्द्रियाणि हस्तादीनि संयम्य संहृत्य यः आस्ते तिष्ठति मनसा स्मरन् चिन्तयन् इन्द्रियार्थान् विषयान् विमूढात्मा विमूढान्तःकरणः मिथ्याचारो मृषाचारः पापाचारः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "base_unit_id": "BG_C03_V06_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151026,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "मिथ्याचारतामेव वर्णयति -\nकर्मेन्द्रियाणीति\n॥ ६ ॥"
+    }
+  ]
+}

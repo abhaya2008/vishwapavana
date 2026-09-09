@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155052,
+    "chapter_id": 6155,
+    "verse_number": "7.52",
+    "content_sanskrit": "ते किमर्थं भजन्ते इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "base_unit_id": "BG_C07_V29_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155052,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यथोक्तानाम् अधिकारिणां भगवद्भजनफलं प्रश्नद्वारा दर्शयति -\nते किमर्थमिति ।\nजरामरणादिलक्षणो यो बन्धः तद्विश्लेषार्थं भगवद्भजनम् , इत्यर्थः ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158013,
+    "chapter_id": 6158,
+    "verse_number": "10.13",
+    "content_sanskrit": "कीदृशेन अविकम्पेन योगेन युज्यते इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "base_unit_id": "BG_C10_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158013,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कथं तावक विभूत्त्यैश्वर्यज्ञानम् उक्तयोगस्य हेतुः? इति मत्वा पृच्छति -\nकीदृशेनेति ।\n\nउक्तज्ञानमाहात्म्यात् प्रतिष्ठिता भगवन्निष्ठा सिध्यति, इत्याह -\nउच्यत इति ।"
+    }
+  ]
+}

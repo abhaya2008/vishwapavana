@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159053,
+    "chapter_id": 6159,
+    "verse_number": "11.53",
+    "content_sanskrit": "यतः एवमुग्रस्वभावः, अतः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "base_unit_id": "BG_C11_V31_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159053,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवद्रूपस्य अर्जुनेन दृष्टपूर्वत्वात् तस्य तस्मिन् न जिज्ञासा, इत्याशङ्क्य, आह-\nयत इति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16164007,
+    "chapter_id": 6164,
+    "verse_number": "16.7",
+    "content_sanskrit": "अथ इदानीं आसुरी सम्पत् उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "base_unit_id": "BG_C16_V04_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16164007,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आदेयत्वेन दैवीं सम्पदं उक्त्वा हेयत्वेन आसुरीं सम्पदं आह -\nअथेति ।"
+    }
+  ]
+}

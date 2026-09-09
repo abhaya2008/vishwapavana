@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159064,
+    "chapter_id": 6159,
+    "verse_number": "11.64",
+    "content_sanskrit": "पुनरपि स्तौति —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "base_unit_id": "BG_C11_V38_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159064,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सम्प्रति जगत्स्रष्टृत्वादिनापि तद्योग्यत्वम् अस्ति, इति स्तुतिद्वारा दर्शयति-\nपुनरपीति ।"
+    }
+  ]
+}

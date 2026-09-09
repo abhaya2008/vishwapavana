@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179085,
+    "chapter_id": 6179,
+    "verse_number": "3.85",
+    "content_sanskrit": "अथ यदवोचं भुवः प्रपद्ये इति, अग्न्यादीन्प्रपद्ये इति तदवोचम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "base_unit_id": "Ch_C03_S15_V06_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179085,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "अरिष्टमित्यादिमन्त्रस्य प्रागेव व्याख्यातत्वात्प्राणमित्यादिमन्त्रमादाय व्याचष्टे –\n<span class=\"pratika\">स यदिति ।</span>\nसशब्दो वक्तृविषयः ।\n\nप्राणस्य सर्वात्मत्वे वाक्यशेषानुगुण्यं दर्शयति –\n<span class=\"pratika\">यथेति ।</span>\nतत्सार्वात्म्यमतःशब्दार्थः ॥४ - ५- ६॥"
+    }
+  ]
+}

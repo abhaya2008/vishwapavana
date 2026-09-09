@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16165029,
+    "chapter_id": 6165,
+    "verse_number": "17.29",
+    "content_sanskrit": "इदानीं दानत्रैविध्यम् उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "base_unit_id": "BG_C17_V20_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16165029,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "क्रमप्राप्तं दातस्य गुणनिमित्तभेदम् आह -\nइदानाीमिति ।\nदातव्यम् इति एवं मनः कृत्वा - ‘दानमेव मया भाव्यं, न फलम् ‘ इति अभिसन्धाय इत्यर्थः\n॥ २० ॥"
+    }
+  ]
+}

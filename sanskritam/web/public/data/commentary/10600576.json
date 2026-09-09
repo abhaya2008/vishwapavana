@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600576,
+    "chapter_id": 6105,
+    "verse_number": "1.76",
+    "content_sanskrit": "मटचीहतेषु कुरुष्वाचिक्या सह जाययोषस्तिर्ह चाक्रायण इभ्यग्रामे प्रद्राणक उवास ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600576,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "दशमः खण्डः"
+    }
+  ]
+}

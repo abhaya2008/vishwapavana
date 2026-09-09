@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158010,
+    "chapter_id": 6158,
+    "verse_number": "10.10",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "base_unit_id": "BG_C10_V06_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158010,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "न केवलं भगवतः सर्व प्रकृतित्वमेव, किन्तु सर्वज्ञत्व - सर्वेश्वरत्वरूपम् अधिष्ठातृत्वम् अपि, इत्याह -\nकिञ्चेति ।\nआद्या भृग्वादयो वसिष्ठान्ताः सर्वज्ञाः विद्यासम्प्रदायप्रवर्तकाः ।"
+    }
+  ]
+}

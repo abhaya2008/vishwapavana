@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150083,
+    "chapter_id": 6150,
+    "verse_number": "2.83",
+    "content_sanskrit": "तत्र युद्धं स्वधर्मं इत्येवं युध्यमानस्योपदेशमिमं शृणु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "base_unit_id": "BG_C02_V38_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150083,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पापभीरुतया युद्धाय निश्चयं कृत्वा नोत्थातुं शक्नोमीत्याशङ्क्याह -\nतत्रेति ।\nयुद्धस्य स्वधर्मतया कर्तव्यत्वे सतीति यावत् ।"
+    }
+  ]
+}

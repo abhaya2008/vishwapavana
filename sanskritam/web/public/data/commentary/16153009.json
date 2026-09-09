@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153009,
+    "chapter_id": 6153,
+    "verse_number": "5.9",
+    "content_sanskrit": "स्वाभिप्रायम् आचक्षाणो निर्णयाय श्रीभगवानुवाच —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "base_unit_id": "BG_C05_V02_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153009,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रश्नमेवमुत्थाप्य, प्रतिवचनमुत्थापयति -\nस्वाभिप्रायमिति ।\nनिर्णयाय तद्वारेण परस्य संशयनिवृत्त्यर्थमित्यर्थः ।"
+    }
+  ]
+}

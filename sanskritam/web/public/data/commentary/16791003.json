@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16791003,
+    "chapter_id": 6191,
+    "verse_number": "4.3",
+    "content_sanskrit": "तस्माद्वा इन्द्रोऽतितरामिवान्यान्देवान्स ह्येनन्नेदिष्ठं पस्पर्श स ह्येनत्प्रथमो विदाञ्चकार ब्रह्मेति ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "base_unit_id": "KV_C04_V03"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16791003,
+      "commentary_type": "आनन्दगिरिटीका",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "विद्येति सत्त्वप्रधाना शक्तिश्चित्तादात्म्यापत्त्या बोधहेतुः ॥ २७ - १ ॥ २८ - २ ॥ २९ - ३ ॥"
+    }
+  ]
+}

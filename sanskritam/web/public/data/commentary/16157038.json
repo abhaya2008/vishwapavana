@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16157038,
+    "chapter_id": 6157,
+    "verse_number": "9.38",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "base_unit_id": "BG_C09_V19_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16157038,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च सर्वात्मत्वे भगवतो न विवदितव्यम् इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": 16789001,
+    "chapter_id": 6189,
+    "verse_number": "2.1",
+    "content_sanskrit": "यदि मन्यसे सुवेदेति दभ्रमेवापि नूनं त्वं वेत्थ ब्रह्मणो रूपं यदस्य त्वं यदस्य देवेष्वथ नु मीमांस्यमेव ते मन्ये विदितम् ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "base_unit_id": "KV_C02_V01"
+  },
+  {
+    "id": 16789002,
+    "chapter_id": 6189,
+    "verse_number": "2.2",
+    "content_sanskrit": "नाह मन्ये सुवेदेति नो न वेदेति वेद च ।\nयो नस्तद्वेद तद्वेद नो न वेदेति वेद च ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "base_unit_id": "KV_C02_V02"
+  },
+  {
+    "id": 16789003,
+    "chapter_id": 6189,
+    "verse_number": "2.3",
+    "content_sanskrit": "यस्यामतं तस्य मतं मतं यस्य न वेद सः ।\nअविज्ञातं विजानतां विज्ञातमविजानताम् ॥ ३ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "base_unit_id": "KV_C02_V03"
+  },
+  {
+    "id": 16789004,
+    "chapter_id": 6189,
+    "verse_number": "2.4",
+    "content_sanskrit": "प्रतिबोधविदितं मतममृतत्वं हि विन्दते ।\nआत्मना विन्दते वीर्यं विद्यया विन्दतेऽमृतम् ॥ ४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "base_unit_id": "KV_C02_V04"
+  },
+  {
+    "id": 16789005,
+    "chapter_id": 6189,
+    "verse_number": "2.5",
+    "content_sanskrit": "इह चेदवेदीदथ सत्यमस्ति न चेदिहावेदीन्महती विनष्टिः ।\nभूतेषु भूतेषु विचित्य धीराः प्रेत्यास्माल्लोकादमृता भवन्ति ॥ ५ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "base_unit_id": "KV_C02_V05"
+  }
+]

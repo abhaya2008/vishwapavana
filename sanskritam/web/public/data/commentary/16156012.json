@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156012,
+    "chapter_id": 6156,
+    "verse_number": "8.12",
+    "content_sanskrit": "किंविशिष्टं च पुरुषं याति इति उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "base_unit_id": "BG_C08_V09_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156012,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "पुरुषम्अनुचिन्तयन्निति सम्बन्धः । चकारात् कया वा नाड्या उत्क्रामन् , इति अनुकृष्यते । तत्र ध्यानद्वारा प्राप्यस्य पुरुषस्य विशेषणानि दर्शयति -\nउच्यत इति ।"
+    }
+  ]
+}

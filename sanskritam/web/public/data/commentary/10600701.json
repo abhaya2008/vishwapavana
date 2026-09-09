@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600701,
+    "chapter_id": 6107,
+    "verse_number": "1.1",
+    "content_sanskrit": "उशन्ह वै वाजश्रवसः सर्ववेदसं ददौ । तस्य ह नचिकेता नाम पुत्र आस ॥ १ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600701,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "प्रथमा वल्ली"
+    }
+  ]
+}

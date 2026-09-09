@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021051,
+    "chapter_id": 6107,
+    "verse_number": "1.51",
+    "content_sanskrit": "अशरीरं शरीरेषु अनवस्थेष्ववस्थितम् ।\nमहान्तं विभुमात्मानं मत्वा धीरो न शोचति ॥ २२ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021051,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "दुश्चरितं कायिकं पापम् ॥ २४ ॥"
+    }
+  ]
+}

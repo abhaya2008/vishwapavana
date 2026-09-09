@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153016,
+    "chapter_id": 6153,
+    "verse_number": "5.16",
+    "content_sanskrit": "एकस्यापि सम्यगनुष्ठानात् कथम् उभयोः फलं विन्दते इति उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C05_V05_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153016,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रश्नपूर्वकं श्लोकान्तरमवतारयति -\nएकस्यापीति ।"
+    }
+  ]
+}

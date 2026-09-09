@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16778042,
+    "chapter_id": 6178,
+    "verse_number": "2.42",
+    "content_sanskrit": "स य एवमेतद्बृहदादित्ये प्रोतं वेद तेजस्व्यन्नादो भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या तपन्तं न निन्देत्तद्व्रतम् ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "base_unit_id": "Ch_C02_S14_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16778042,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "स य इत्यादि पूर्ववत् । तपन्तं न निन्देत् ; तद्व्रतम् ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C02_S14_V02_B01",
+      "bhashya": "स य इत्यादि पूर्ववत् । तपन्तं न निन्देत् ; तद्व्रतम् ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16778050,
+    "chapter_id": 6178,
+    "verse_number": "2.50",
+    "content_sanskrit": "स य एवमेता रेवत्यः पशुषु प्रोता वेद पशुमान्भवति सर्वमायुरेति ज्योग्जीवति महान्प्रजया पशुभिर्भवति महान्कीर्त्या पशून्न निन्देत्तद्व्रतम् ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "base_unit_id": "Ch_C02_S18_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16778050,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "पशून् न निन्देत् , तद्व्रतम् ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C02_S18_V02_B01",
+      "bhashya": "पशून् न निन्देत् , तद्व्रतम् ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

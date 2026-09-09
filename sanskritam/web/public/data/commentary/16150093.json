@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150093,
+    "chapter_id": 6150,
+    "verse_number": "2.93",
+    "content_sanskrit": "ते च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "base_unit_id": "BG_C02_V43_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150093,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "प्रकृतान् प्रवक्तॄनविवेकिनो व्यवसायात्मकबुद्धिभाक्त्वासम्भवसिद्ध्यर्थं विधान्तरेण विशिनष्टि -\nते चेति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156010,
+    "chapter_id": 6156,
+    "verse_number": "8.10",
+    "content_sanskrit": "किञ्च—",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "base_unit_id": "BG_C08_V08_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156010,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च पूर्वश्लोकार्थानुष्ठायी भगवन्तम् अन्तकाले प्रप्नोति, इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16155003,
+    "chapter_id": 6155,
+    "verse_number": "7.3",
+    "content_sanskrit": "तच्च मद्विषयम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "base_unit_id": "BG_C07_V02_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16155003,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "ज्ञास्यसि इत्युक्त्या परोक्षज्ञानशङ्कायां तन्निवृत्यर्थं तदुक्तिप्रकारमेव विवृणोति -\nतच्चेति ।"
+    }
+  ]
+}

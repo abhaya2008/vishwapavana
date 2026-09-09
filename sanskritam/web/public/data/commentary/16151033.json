@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151033,
+    "chapter_id": 6151,
+    "verse_number": "3.33",
+    "content_sanskrit": "इतश्च अधिकृतेन कर्म कर्तव्यम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "base_unit_id": "BG_C03_V10_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151033,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "नित्यस्य कर्मणो नैमित्तिकसहितस्य अधिकृतेन कर्तव्यत्वे हेत्वन्तरपरत्वेनानन्तरश्लोकमवतारयति -\nइतश्चेति ।"
+    }
+  ]
+}

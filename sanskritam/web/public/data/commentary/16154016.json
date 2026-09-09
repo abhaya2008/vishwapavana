@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154016,
+    "chapter_id": 6154,
+    "verse_number": "6.16",
+    "content_sanskrit": "आत्मैव बन्धुः आत्मैव रिपुः आत्मनः इत्युक्तम् । तत्र किंलक्षण आत्मा आत्मनो बन्धुः, किंलक्षणो वा आत्मा आत्मनो रिपुः इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "base_unit_id": "BG_C06_V06_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154016,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उक्तम् अनूद्य प्रश्नपूर्वकं श्लोकान्तरम् अवतारयति -\nआत्मैव इत्यादिना ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16153011,
+    "chapter_id": 6153,
+    "verse_number": "5.11",
+    "content_sanskrit": "कस्मात् इति आह —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "base_unit_id": "BG_C05_V03_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16153011,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्म हि बन्धकारणं प्रसिद्धं, तत्कथं निःश्रेयसकरं स्याद् ? इति शङ्कते -\nकस्मादिति ।\n\nअकर्त्रात्मविज्ञानात्प्रागपि सर्वदा असौ संन्यासी ज्ञेयः, यो रागद्वेषौ क्कचिदपि न करोति, इत्याह -\nइत्याहेति ।"
+    }
+  ]
+}

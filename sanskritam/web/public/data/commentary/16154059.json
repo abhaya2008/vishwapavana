@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154059,
+    "chapter_id": 6154,
+    "verse_number": "6.59",
+    "content_sanskrit": "एतस्य आत्मैकत्वदर्शनस्य फलम् उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "base_unit_id": "BG_C06_V30_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154059,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उक्तस्य एकत्वज्ञानस्य फलविकल्पत्वशङ्कां शिथिलयति -\nएतस्येति ।"
+    }
+  ]
+}

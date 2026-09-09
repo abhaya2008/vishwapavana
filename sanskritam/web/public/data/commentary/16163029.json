@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16163029,
+    "chapter_id": 6163,
+    "verse_number": "15.29",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "base_unit_id": "BG_C15_V14_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16163029,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "भगवतः सर्वात्मत्वे हेत्वन्तरमाह -\nकिञ्चेति ।\nअहमेवेति अहंशब्देन परो लक्ष्यते, भूत्वा पचामि इति सम्बन्धः ।"
+    }
+  ]
+}

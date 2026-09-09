@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16180098,
+    "chapter_id": 6180,
+    "verse_number": "4.98",
+    "content_sanskrit": "पुनरप्येवमेवाग्न्याद्याः स एतास्तिस्रो देवता उद्दिश्य अभ्यतपत् । ततोऽपि सारं रसं त्रयीविद्यां जग्राह ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "base_unit_id": "Ch_C04_S17_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16180098,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "एवं यथा लोकानभ्यतपत्तथेति यावत् । जग्राहेति सम्बन्धः ॥२॥"
+    }
+  ]
+}

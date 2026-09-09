@@ -34,6 +34,47 @@ let _meta = null;          // { categories, texts, chapters }
 let _verseListCache = {};  // chapterId → verse[]  (full rows incl. padaccheda etc.)
 let _commentaryCache = {}; // verseId   → { verse, commentaries }
 let _cid2vid = {};         // commentaryId → verseId  (reverse lookup for updates)
+let _ullekhaLookup = null; // base_unit_id → { c: chapterId, v: verseId }
+let _ullekhaPromise = null;
+
+// Regex to match href="#BG_C02_V31" or href="#BS_C01_S01_V22" patterns
+const ULLEKHA_HREF_RE = /href="#((?:BG|BS)_C\d+(?:_S\d+)?_V\d+)(?:_[A-Z]\d+)?"/g;
+
+async function _loadUllekhaLookup() {
+    if (_ullekhaLookup) return _ullekhaLookup;
+    try {
+        const res = await fetch(dataBase() + 'ullekha_lookup.json');
+        if (res.ok) _ullekhaLookup = await res.json();
+        else _ullekhaLookup = {};
+    } catch { _ullekhaLookup = {}; }
+    return _ullekhaLookup;
+}
+
+function getUllekhaLookup() {
+    if (_ullekhaLookup) return _ullekhaLookup;
+    if (!_ullekhaPromise) _ullekhaPromise = _loadUllekhaLookup();
+    return null; // not ready yet; will be available on next render
+}
+
+/**
+ * Replace unresolved #BG_CXX_VYY / #BS_CXX_SYY_VZZ hrefs in commentary HTML
+ * with proper #/chapter/{chapterId}/verse/{verseId} app routes.
+ */
+function resolveUllekhaLinks(html) {
+    if (!html || typeof html !== 'string') return html;
+    const lookup = _ullekhaLookup;
+    if (!lookup) return html;
+    return html.replace(ULLEKHA_HREF_RE, (match, baseUnitId) => {
+        // Try exact match first, then try without suffix (_I01, _B01 etc.)
+        const entry = lookup[baseUnitId];
+        if (entry) return `href="#/chapter/${entry.c}/verse/${entry.v}"`;
+        // Try stripping trailing _IXX / _BXX suffixes that might be in the data
+        const stripped = baseUnitId.replace(/_[IB]\d+$/, '');
+        const entry2 = lookup[stripped];
+        if (entry2) return `href="#/chapter/${entry2.c}/verse/${entry2.v}"`;
+        return match; // leave unchanged if not found
+    });
+}
 
 function dataBase() {
     // import.meta.env.BASE_URL ends with '/'
@@ -119,8 +160,11 @@ async function sGetSubCategories(parentId) {
     return categories.filter(c => c.parent_id === +parentId).sort(byDisplayOrder);
 }
 async function sGetTextsByCategory(categoryId) {
-    const { texts } = await getMeta();
-    return texts.filter(t => t.category_id === +categoryId);
+    const { texts, categories } = await getMeta();
+    const cid = +categoryId;
+    const subCatIds = categories.filter(c => c.parent_id === cid).map(c => c.id);
+    const targetCatIds = [cid, ...subCatIds];
+    return texts.filter(t => targetCatIds.includes(t.category_id));
 }
 async function sGetText(id) {
     const { texts, categories } = await getMeta();
@@ -168,14 +212,22 @@ async function sGetCommentariesByVerse(verseId) {
         try {
             const data = await staticGet(`commentary/${vid}.json`);
             _commentaryCache[vid] = data;
-            for (const c of data.commentaries) _cid2vid[c.id] = vid;
+            if (data.commentaries) {
+                data.commentaries.paragraphs = data.paragraphs || [];
+            }
+            for (const c of (data.commentaries || [])) _cid2vid[c.id] = vid;
         } catch (_) {
-            // Commentary file not yet created (new verse added before first edit) — start empty.
             const verse = Object.values(_verseListCache).flat().find(v => v.id === vid) || { id: vid };
-            _commentaryCache[vid] = { verse, commentaries: [] };
+            const comms = [];
+            comms.paragraphs = [];
+            _commentaryCache[vid] = { verse, commentaries: comms };
         }
     }
-    return _commentaryCache[vid].commentaries;
+    const res = _commentaryCache[vid].commentaries || [];
+    if (!res.paragraphs) {
+        res.paragraphs = _commentaryCache[vid].paragraphs || [];
+    }
+    return res;
 }
 
 // ── Static write functions ────────────────────────────────────────────────────
@@ -394,6 +446,9 @@ export function DatabaseProvider({ children }) {
     const [loading] = useState(false);
     const [error]   = useState(null);
 
+    // Eagerly load the ullekha (cross-reference) lookup table
+    if (!_ullekhaLookup && !_ullekhaPromise) _ullekhaPromise = _loadUllekhaLookup();
+
     const getCategories        = useCallback((     ) => IS_STATIC ? sGetCategories()         : apiFetch('/categories'),                    []);
     const getCategory          = useCallback((id   ) => IS_STATIC ? sGetCategory(id)          : apiFetch(`/categories/${id}`),              []);
     const getSubCategories     = useCallback((id   ) => IS_STATIC ? sGetSubCategories(id)     : apiFetch(`/categories/${id}/subcategories`),[]);
@@ -429,3 +484,5 @@ export function useDatabase() {
     if (!ctx) throw new Error('useDatabase must be used within DatabaseProvider');
     return ctx;
 }
+
+export { resolveUllekhaLinks };

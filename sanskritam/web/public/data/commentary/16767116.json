@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16767116,
+    "chapter_id": 6167,
+    "verse_number": "2.116",
+    "content_sanskrit": "विहारोपदेशात् ॥ ३४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "base_unit_id": "BS_C02_S03_V34"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16767116,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "इतश्च जीवस्य कर्तृत्वम् , यज्जीवप्रक्रियायां सन्ध्ये स्थाने विहारमुपदिशति — <a class=\"ullekha\" href=\"#/chapter/6175/verse/16775012\">‘स ईयतेऽमृतो यत्र कामम्’</a><span class=\"ullekha-ref\">(बृ. उ. ४ । ३ । १२)</span> इति, <a class=\"ullekha\" href=\"#/chapter/6173/verse/16773018\">‘स्वे शरीरे यथाकामं परिवर्तते’</a><span class=\"ullekha-ref\">(बृ. उ. २ । १ । १८)</span> इति च ॥ ३४ ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BS_C02_S03_V34_B1",
+      "bhashya": "इतश्च जीवस्य कर्तृत्वम् , यज्जीवप्रक्रियायां सन्ध्ये स्थाने विहारमुपदिशति — ‘स ईयतेऽमृतो यत्र कामम्’(बृ. उ. ४ । ३ । १२) इति, ‘स्वे शरीरे यथाकामं परिवर्तते’(बृ. उ. २ । १ । १८) इति च ॥ ३४ ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

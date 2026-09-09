@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16181022,
+    "chapter_id": 6181,
+    "verse_number": "5.22",
+    "content_sanskrit": "यथोक्तप्राणदर्शनविदः इदं मन्थाख्यं कर्म आरभ्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "base_unit_id": "Ch_C05_S02_V04_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16181022,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "गोदोहनवदधिकृताधिकारमिदं कर्म प्राणविदोऽस्मिन्नधिकारोऽस्तीत्याह –\n<span class=\"pratika\">यथोक्तेति ।</span>\nअनन्तरं प्राणविद्यानिष्पत्तेरिति शेषः ।"
+    }
+  ]
+}

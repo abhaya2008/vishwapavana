@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154081,
+    "chapter_id": 6154,
+    "verse_number": "6.81",
+    "content_sanskrit": "यस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "base_unit_id": "BG_C06_V43_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154081,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "यत् उत्तमतरं जन्म उक्तम् , तस्य उत्तमत्वे हेत्वन्तरम् आह -\nयस्मादिति ।\nबुद्ध्येति आत्मविषयया, इति शेषः । पूर्वस्मिन् देहे भवम् - तत्र अनुष्ठितसाधनविशेषयुक्तम् , इत्यर्थः ।"
+    }
+  ]
+}

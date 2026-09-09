@@ -1,0 +1,41 @@
+{
+  "verse": {
+    "id": 16769070,
+    "chapter_id": 6169,
+    "verse_number": "4.70",
+    "content_sanskrit": "भावे जाग्रद्वत् ॥ १४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "base_unit_id": "BS_C04_S04_V14"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16769070,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "भावे पुनः तनोः, यथा जागरिते विद्यमाना एव पित्रादिकामा भवन्ति, एवं मुक्तस्याप्युपपद्यते ॥ १४ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 16769070,
+      "commentary_type": "भामतीव्याख्या",
+      "author": "श्रीवाचस्पतिमिश्रः",
+      "lang": "sa",
+      "content": "<span class=\"pratika\">भावे जाग्रद्वत् ॥ १४ ॥</span>"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "BS_C04_S04_V14_B1",
+      "bhashya": "भावे पुनः तनोः, यथा जागरिते विद्यमाना एव पित्रादिकामा भवन्ति, एवं मुक्तस्याप्युपपद्यते ॥ १४ ॥",
+      "teeka": "<span class=\"pratika\">भावे जाग्रद्वत् ॥ १४ ॥</span>",
+      "teeka_type": "भामतीव्याख्या"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16156014,
+    "chapter_id": 6156,
+    "verse_number": "8.14",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "base_unit_id": "BG_C08_v10_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16156014,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "इतश्च भगवदनुस्मरणं सफलत्वात् अनुष्ठेयम् , इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

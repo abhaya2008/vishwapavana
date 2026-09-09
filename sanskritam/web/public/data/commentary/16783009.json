@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16783009,
+    "chapter_id": 6183,
+    "verse_number": "7.9",
+    "content_sanskrit": "स यो मनो ब्रह्मेत्युपास्ते यावन्मनसो गतं तत्रास्य यथाकामचारो भवति यो मनो ब्रह्मेत्युपास्तेऽस्ति भगवो मनसो भूय इति मनसो वाव भूयोऽस्तीति तन्मे भगवान्ब्रवीत्विति ॥ २ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "base_unit_id": "Ch_C07_S03_V02"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16783009,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "स यो मन इत्यादि समानम् ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C07_S03_V02_B01",
+      "bhashya": "स यो मन इत्यादि समानम् ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10609618,
+    "chapter_id": 6196,
+    "verse_number": "3.18",
+    "content_sanskrit": "यथा नद्यः स्यन्दमानाः समुद्रेऽस्तं गच्छन्ति नामरूपे विहाय ।\nतथा विद्वान्नामरूपाद्विमुक्तः परात्परं पुरुषमुपैति दिव्यम् ॥ ८ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10609618,
+      "commentary_type": "आनन्दगिरिटीका (मुण्डक)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "तर्कतोऽपीहैव मोक्षो वक्तव्य इत्याह –\nदेशपरिच्छिन्नः हीत्यादिना ॥३.२.६॥"
+    }
+  ]
+}

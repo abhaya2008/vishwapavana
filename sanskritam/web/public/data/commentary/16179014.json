@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179014,
+    "chapter_id": 6179,
+    "verse_number": "3.14",
+    "content_sanskrit": "अथ येऽस्य प्रत्यञ्चो रश्मय इत्यादि समानम् । तथा साम्नां मधु, एतदादित्यस्य कृष्णं रूपम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "base_unit_id": "Ch_C03_S03_V03_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179014,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तृतीयं मधु कथयति –\n<span class=\"pratika\">अथेति ।</span>\nऋचां यजुषां च मधु यथा कथितं तथेति यावत् ।\n\nतस्य शास्त्रप्रत्यक्षत्वं दर्शयति –\n<span class=\"pratika\">एतदिति ॥१ -३॥</span>\nइति श्रीमदानन्दगिरिटीकायां तृतीयाध्यायस्य तृतीयः खण्डः ॥"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "verse": {
+    "id": 16705035,
+    "chapter_id": 6105,
+    "verse_number": "1.35",
+    "content_sanskrit": "यां दिशमभिष्टोष्यन्स्यात्तां दिशमुपधावेत् ॥ ११ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "base_unit_id": "Ch_C01_S03_V11"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16705035,
+      "commentary_type": "शङ्कराचार्यभाष्यम्",
+      "author": "शङ्कराचार्यः",
+      "lang": "sa",
+      "content": "यां दिशमभिष्टोष्यन्स्यात् तां दिशमुपधावेत् अधिष्ठात्रादिभिः ॥"
+    }
+  ],
+  "paragraphs": [
+    {
+      "buid": "Ch_C01_S03_V11_B01",
+      "bhashya": "यां दिशमभिष्टोष्यन्स्यात् तां दिशमुपधावेत् अधिष्ठात्रादिभिः ॥",
+      "teeka": "",
+      "teeka_type": "आनन्दगिरिटीका"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158015,
+    "chapter_id": 6158,
+    "verse_number": "10.15",
+    "content_sanskrit": "किञ्च —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "base_unit_id": "BG_C10_V09_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158015,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "न केवलम् उक्तमेव भगवद्भजने साधनम् , साधनान्तरं च अस्ति, इत्याह -\nकिञ्चेति ।"
+    }
+  ]
+}

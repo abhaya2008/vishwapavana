@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16158023,
+    "chapter_id": 6158,
+    "verse_number": "10.23",
+    "content_sanskrit": "ईदृशम् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "base_unit_id": "BG_C10_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16158023,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उक्तविशेषणं त्वाम् ऋषयः सर्वे यस्मात् आहुः, तस्मात् तद्वचनात् तवोक्तं ब्रह्मत्वम् युक्तम् , इत्याह -\nईदृशमिति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16178018,
+    "chapter_id": 6178,
+    "verse_number": "2.18",
+    "content_sanskrit": "फलमुपासनस्य — वर्षति ह अस्मै इच्छातः । तथा वर्षयति ह असत्यामपि वृष्टौ । य एतदित्यादि पूर्ववत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "base_unit_id": "Ch_C02_S03_V02_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16178018,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उद्ग्रहणदृष्ट्या निधनोपासने निदानमाह –\n<span class=\"pratika\">समाप्तीति ।</span>\n\nवर्षति पर्जन्ये तदनुमन्तृत्वमकिञ्चित्करमित्याशङ्क्याऽह –\n<span class=\"pratika\">असत्यामपीति ॥२॥</span>\nइति श्रीमदानन्दगिरिटीकायां द्वितीयाध्यायस्य तृतीयः खण्डः ॥"
+    }
+  ]
+}

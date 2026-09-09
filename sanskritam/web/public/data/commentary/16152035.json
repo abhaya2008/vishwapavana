@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152035,
+    "chapter_id": 6152,
+    "verse_number": "4.35",
+    "content_sanskrit": "किं पुनस्तत्त्वं कर्मादेः यत् बोद्धव्यं वक्ष्यामि इति प्रतिज्ञातम् ? उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "base_unit_id": "BG_C04_V18_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152035,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "उत्तरश्लोकमाकाङ्क्षापूर्वकमुपादत्ते -\nकिं पुनरिति ।"
+    }
+  ]
+}

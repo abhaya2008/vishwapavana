@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16154038,
+    "chapter_id": 6154,
+    "verse_number": "6.38",
+    "content_sanskrit": "अथ अधुना कदा युक्तो भवति इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "base_unit_id": "BG_C06_V18_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16154038,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सफलस्य साङ्गस्य योगस्य उक्त्यनन्तरम् , ‘यदा हि’(भ. गी. ४-७) इत्यादौ उक्तकालानुवादेन युक्तं लक्षयितुं अनन्तरश्लोकप्रवृत्तिं दर्शयति -\nअथ अधुनेति ।"
+    }
+  ]
+}

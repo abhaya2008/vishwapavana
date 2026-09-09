@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10600593,
+    "chapter_id": 6105,
+    "verse_number": "1.93",
+    "content_sanskrit": "आदित्य इति होवाच सर्वाणि ह वा इमानि भूतान्यादित्यमुच्चैः सन्तं गायन्ति सैषा देवतोद्गीथमन्वायत्ता तां चेतविद्वानुदगास्यो मूर्धा ते व्यपतिष्यत्तथोक्तस्य मयेति ॥ ७ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10600593,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानविरचिता",
+      "lang": "sa",
+      "content": "द्वादशः खण्डः"
+    }
+  ]
+}

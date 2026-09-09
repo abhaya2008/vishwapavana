@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16179046,
+    "chapter_id": 6179,
+    "verse_number": "3.46",
+    "content_sanskrit": "इदं वाव तद्यथोक्तम् अन्योऽपि ज्येष्ठाय पुत्राय सर्वप्रियार्हाय ब्रह्म प्रब्रूयात् । प्रणाय्याय वा योग्याय अन्तेवासिने शिष्याय ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "base_unit_id": "Ch_C03_S11_V05_B01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16179046,
+      "commentary_type": "आनन्दगिरिटीका (छान्दोग्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "तस्य परोक्षत्वं व्यावर्तयति –\n<span class=\"pratika\">इदं वावेति ।</span>\n\nअथ ज्येष्ठाय पुत्राय ब्रह्म वक्तव्यमिति पूर्वेषामयं नियमो नेदानींतनानामित्यत आह –\n<span class=\"pratika\">अन्योऽपीति ।</span>\n\nपात्रान्तरमनुजानति –\n<span class=\"pratika\">प्रणाय्यायेति ॥५॥</span>"
+    }
+  ]
+}

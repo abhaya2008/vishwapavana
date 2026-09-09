@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 10021014,
+    "chapter_id": 6107,
+    "verse_number": "1.14",
+    "content_sanskrit": "प्र ते ब्रवीमि तदु मे निबोध स्वर्ग्यमग्निं नचिकेतः प्रजानन् ।\nअनन्तलोकाप्तिमथो प्रतिष्ठां विद्धि त्वमेतं निहितं गुहायाम् ॥ १४ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 10021014,
+      "commentary_type": "आनन्दगिरिटीका (काठक)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "सदसि यज्ञसभायां येऽन्ये मिलिता ब्राह्मणास्तेभ्यश्च ॥ २ ॥"
+    }
+  ]
+}

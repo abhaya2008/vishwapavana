@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152044,
+    "chapter_id": 6152,
+    "verse_number": "4.44",
+    "content_sanskrit": "तदेतत् कर्मणि अकर्मदर्शनं स्तूयते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "base_unit_id": "BG_C04_V19_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152044,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्मण्यकर्मदर्शनं पूर्वोक्तं स्तोतुमुत्तरश्लोकं प्रस्तौति -\nतदेतदिति ।\nयथोक्तदर्शित्वं - पूर्वोक्तदर्शनसम्पन्नत्वम् ।"
+    }
+  ]
+}

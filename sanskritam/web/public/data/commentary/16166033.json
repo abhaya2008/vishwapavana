@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166033,
+    "chapter_id": 6166,
+    "verse_number": "18.33",
+    "content_sanskrit": "कानि तानीति, उच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "base_unit_id": "BG_C18_V14_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166033,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्मार्थानि अधिष्ठानादीनि मानमूलत्वात् ज्ञेयानि, इति उक्तम् इदानीं प्रश्नपूर्वकं विशेषतः तानि निर्दिशति -\nकानीत्यादिना ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16152086,
+    "chapter_id": 6152,
+    "verse_number": "4.86",
+    "content_sanskrit": "येन एकान्तेन ज्ञानप्राप्तिः भवति स उपायः उपदिश्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "base_unit_id": "BG_C04_V39_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16152086,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "कर्मयोगेन समाधियोगेन च सम्पन्नस्य ज्ञानोत्पत्तौ अन्तरङ्गं साधनमुपदिशति -\nयेनेति ।"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16150141,
+    "chapter_id": 6150,
+    "verse_number": "2.141",
+    "content_sanskrit": "अयुक्तस्य कस्माद्बुद्धिर्नास्ति इत्युच्यते —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 141,
+    "base_unit_id": "BG_C02_V67_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16150141,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "आकाङ्क्षाद्वारा श्लोकान्तरमुत्थापयति -\nअयुक्तस्येति ।"
+    }
+  ]
+}

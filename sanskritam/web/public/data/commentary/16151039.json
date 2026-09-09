@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16151039,
+    "chapter_id": 6151,
+    "verse_number": "3.39",
+    "content_sanskrit": "ये पुनः —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "base_unit_id": "BG_C03_V13_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16151039,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "देवादिभ्यः संविभागमकृत्वा भुञ्जानानां प्रत्यवायित्वमुक्त्वा, तदन्येषां सर्वदोषराहित्यं दर्शयति -\nये पुनरिति ।\nयज्ञशिष्टाशिनो ये पुनस्ते तादृशाः सन्तः सर्वकिल्बिषैर्मुच्यन्त इति योजना ।"
+    }
+  ]
+}

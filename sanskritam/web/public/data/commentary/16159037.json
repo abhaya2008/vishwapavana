@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16159037,
+    "chapter_id": 6159,
+    "verse_number": "11.37",
+    "content_sanskrit": "यस्मात् —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "base_unit_id": "BG_C11_V23_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16159037,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "लोकत्रयं प्रव्यथितम् , इत्युक्तम् उपसंहरति-\nयस्मादिति ।\nईदृशं यस्मात् ते रूपम् , तस्मात् तं दृष्ट्वा - इति योजना ।"
+    }
+  ]
+}

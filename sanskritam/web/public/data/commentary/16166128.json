@@ -1,0 +1,25 @@
+{
+  "verse": {
+    "id": 16166128,
+    "chapter_id": 6166,
+    "verse_number": "18.128",
+    "content_sanskrit": "भूयोऽपि मया उच्यमानं शृणु —",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 128,
+    "base_unit_id": "BG_C18_V64_I01"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 16166128,
+      "commentary_type": "आनन्दगिरिटीका (गीताभाष्य)",
+      "author": "आनन्दज्ञानः",
+      "lang": "sa",
+      "content": "गीताशास्त्रस्य पौर्वापर्येण विमर्शनद्वारा तात्पर्यार्थं प्रतिपत्तुम् असमर्थं प्रति आह -\nभूयोऽपीति ।"
+    }
+  ]
+}
