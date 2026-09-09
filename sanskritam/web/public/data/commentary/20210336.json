@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210336,
+    "chapter_id": 7781,
+    "verse_number": "३३७",
+    "content_sanskrit": "वट्",
+    "padaccheda": "वटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वेष्टने",
+    "meaning_english": "to cover,to surround,to string, to collect, to bring together",
+    "audio_url": null,
+    "display_order": 337,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210336,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " \" णावदन्ताद्वटेर्ग्रन्थे वटयेत् वेष्टने वटेत् ' (श्लो.77) इति देवः । ' बटेत्यपि बहुषु कोशेषु दृश्यते ' इति पुरुषकारः ।"
+    }
+  ]
+}

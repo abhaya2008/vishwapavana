@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211774,
+    "chapter_id": 7790,
+    "verse_number": "२५",
+    "content_sanskrit": "वर्ण्",
+    "padaccheda": "वर्णँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to order, to motivate, to inspire, to paint, to color",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211774,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वर्ण वर्णने इत्येके ' इति कौमुदी । ' प्रेरणे इति मैत्रेयः ' इति मा.धा.वृत्तिः । क्षीरस्वामी तु ' वर्णने ' इत्याह ।"
+    }
+  ]
+}

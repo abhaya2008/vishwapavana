@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211492,
+    "chapter_id": 7786,
+    "verse_number": "२३",
+    "content_sanskrit": "उब्ज्",
+    "padaccheda": "उब्जँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "आर्जवे",
+    "meaning_english": "to be straight (non-twisted)",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211492,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं दोपधः । अयम् उपध्मानीयः इति केचित् ।"
+    }
+  ]
+}

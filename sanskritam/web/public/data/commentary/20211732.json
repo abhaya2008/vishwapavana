@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211732,
+    "chapter_id": 7789,
+    "verse_number": "५४",
+    "content_sanskrit": "कुष्",
+    "padaccheda": "कुषँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "निष्कर्षे",
+    "meaning_english": "to take out, to extract, to examine a metal, to investigate purity of a metal",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211732,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — सिद्ध या स्थापित करना\nनिस् — खीचकर बाहर निकालना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211732,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " निष्कर्षः = बहिर्निस्सारणम् ।"
+    }
+  ]
+}

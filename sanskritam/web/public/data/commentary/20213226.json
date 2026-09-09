@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213226,
+    "chapter_id": 7796,
+    "verse_number": "२८",
+    "content_sanskrit": "श्मनि श्रयतेर्डुन्",
+    "padaccheda": "",
+    "anvaya": "डुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213226,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्मन्शब्दो मुखवाची । मुखमाश्रयत इति श्मश्रुः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213413,
+    "chapter_id": 7799,
+    "verse_number": "७९",
+    "content_sanskrit": "शूर्पकुतपकुणपद्वीपविटपानि नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213413,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं शूर्पः । इदं शूर्पमित्यादि ।"
+    }
+  ]
+}

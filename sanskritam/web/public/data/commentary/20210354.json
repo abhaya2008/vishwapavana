@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210354,
+    "chapter_id": 7781,
+    "verse_number": "३५५",
+    "content_sanskrit": "बिट्",
+    "padaccheda": "बिटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आक्रोशे",
+    "meaning_english": "to swear,to curse,to shout, to abuse",
+    "audio_url": null,
+    "display_order": 355,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210354,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिटेत्येके ' इति कौमुदी । क्षीरतरङ्गिण्याम्, ' विट ' इति पठित्वा ' डान्तोयमिति (विड) नन्दी ' इति दृश्यते । धातुवृत्तौ ' बिट - बशादिः ' इति पठितम् । तत्र टिप्पण्यां ' विट विड इति मैत्रेयः ' इति च दृश्यते । अमरे (विटः इत्यत्र) वकारादिः (दन्त्योष्ठादिः) एव पठ्यते । तत्त्वबोधिन्यामपि एवमेव दृश्यते ।"
+    }
+  ]
+}

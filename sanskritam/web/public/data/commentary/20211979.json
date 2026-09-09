@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211979,
+    "chapter_id": 7790,
+    "verse_number": "२३०",
+    "content_sanskrit": "दिव्",
+    "padaccheda": "दिवुँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "परिकूजने",
+    "meaning_english": "to irritate, to cause pain, to mourn to grieve",
+    "audio_url": null,
+    "display_order": 230,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211979,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अर्दने देवयेद्, दीव्येत् क्रीडादौ, परिकूजने । देवयेतेदितो दिन्वेद्, देवेर्देवेत देवने ' (श्लो. 160-161) इति देवः ।"
+    }
+  ]
+}

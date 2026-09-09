@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210164,
+    "chapter_id": 7781,
+    "verse_number": "१६५",
+    "content_sanskrit": "लिङ्ग्",
+    "padaccheda": "लिगिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 165,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210164,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' लिङ्गेर्गतौ लिङ्गति, लिङ्गयेद् इत्यस्यैव चित्रीकरणार्थवृत्तेः ' (श्लो. 45) इति देवः ।"
+    }
+  ]
+}

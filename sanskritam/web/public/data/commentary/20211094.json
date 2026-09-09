@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211094,
+    "chapter_id": 7781,
+    "verse_number": "१०९५",
+    "content_sanskrit": "द्रु",
+    "padaccheda": "द्रु",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 1095,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211094,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — विद्रव करना\nउप — उपद्रव करना"
+    }
+  ]
+}

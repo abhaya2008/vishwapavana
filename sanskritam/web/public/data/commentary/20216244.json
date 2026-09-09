@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216244,
+    "chapter_id": 7825,
+    "verse_number": "५४",
+    "content_sanskrit": "अन्तरङ्गानपि विधीन् बहिरङ्गो ल्यब्बाधते",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": "नन्वेवमपि 'प्रधाय, प्रस्थाय' इत्यादावन्तरङ्गत्वाद्वित्वादिषु कृतेषु ल्यप् स्यादत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216244,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अदो जग्धिः' [[2.4.36]] इति सूत्रे कितीत्येव सिद्धे ल्यब्ग्रहणमस्या ज्ञापकमिति 'अदो जग्धिः' इत्यत्र भाष्ये स्पष्टम् ॥"
+    }
+  ]
+}

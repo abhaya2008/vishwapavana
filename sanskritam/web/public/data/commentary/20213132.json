@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213132,
+    "chapter_id": 7795,
+    "verse_number": "१७२",
+    "content_sanskrit": "अशित्रादिभ्य इत्रोत्रौ",
+    "padaccheda": "",
+    "anvaya": "इत्र, उत्र",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 172,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213132,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अशित्रम् । वहित्रम् । धरित्री मही । त्रैङ् एवमादिभ्य उत्रः । तोत्रं प्रहरणम् । वृञ् वरुत्रं प्रावरणम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212849,
+    "chapter_id": 7794,
+    "verse_number": "४९",
+    "content_sanskrit": "शकेरुनोन्तोन्त्युनयः",
+    "padaccheda": "",
+    "anvaya": "उन, उन्त, उन्ति, उनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212849,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उन उन्त उन्ति उनि एते चत्वारः स्युः । शकुनः । शकुन्तः । शकुन्तिः । शकुनिः ।"
+    }
+  ]
+}

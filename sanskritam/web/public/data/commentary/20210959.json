@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210959,
+    "chapter_id": 7781,
+    "verse_number": "९६०",
+    "content_sanskrit": "स्यम्",
+    "padaccheda": "स्यमुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 960,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210959,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्यमेः स्यमति शब्दार्थे वितर्के स्यामयेत णौ ' (श्लो. 148) - देवः ।"
+    }
+  ]
+}

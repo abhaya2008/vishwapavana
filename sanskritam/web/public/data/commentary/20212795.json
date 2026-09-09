@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212795,
+    "chapter_id": 7793,
+    "verse_number": "११८",
+    "content_sanskrit": "एतेर्णिच्च",
+    "padaccheda": "",
+    "anvaya": "उसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 118,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212795,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आयुः । आयुषी ।"
+    }
+  ]
+}

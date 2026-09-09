@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213230,
+    "chapter_id": 7796,
+    "verse_number": "३२",
+    "content_sanskrit": "हन्तेः शरीरावयवे द्वे च",
+    "padaccheda": "",
+    "anvaya": "अच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213230,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जघनम् । पश्चान्नितम्बः स्त्रीकट्याः क्लीबे तु जघनं पुरः ।"
+    }
+  ]
+}

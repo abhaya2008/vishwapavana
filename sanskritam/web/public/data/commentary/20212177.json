@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212177,
+    "chapter_id": 7790,
+    "verse_number": "४२८",
+    "content_sanskrit": "भाज",
+    "padaccheda": "भाज",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पृथक्कर्मणि",
+    "meaning_english": "to cut into pieces",
+    "audio_url": null,
+    "display_order": 428,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212177,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — विभाजन करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212177,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' आमर्दे तु भनक्ति भाजयति णौ भाजेः पृथक्कर्मणि ' (श्लो.65) इति देवः ।"
+    }
+  ]
+}

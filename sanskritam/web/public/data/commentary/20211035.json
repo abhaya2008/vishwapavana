@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211035,
+    "chapter_id": 7781,
+    "verse_number": "१०३६",
+    "content_sanskrit": "झष्",
+    "padaccheda": "झषँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "आदानसंवरणयोः",
+    "meaning_english": "to hurt,to injure,to kill,to take,to put on, to wear",
+    "audio_url": null,
+    "display_order": 1036,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211035,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " झषेज्झषेत संवृत्यामादाने हिंसने झषेत् ' (श्लो. 168) इति देवः ।"
+    }
+  ]
+}

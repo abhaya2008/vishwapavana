@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213146,
+    "chapter_id": 7795,
+    "verse_number": "१८६",
+    "content_sanskrit": "कुटिकुषिभ्यां क्मलन्",
+    "padaccheda": "",
+    "anvaya": "क्मलन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 186,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213146,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुड्मलम् । कुष्मलम् ।"
+    }
+  ]
+}

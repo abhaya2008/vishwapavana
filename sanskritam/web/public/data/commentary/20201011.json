@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201011,
+    "chapter_id": 7759,
+    "verse_number": "३.३.५५",
+    "content_sanskrit": "परौ भुवोऽवज्ञाने",
+    "padaccheda": "परौ । भुवः । अवज्ञाने",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६), विभाषा (३.३.५०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201011,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "विभाषेत्येव। परिशब्द उपपदे भवतेर्धातोर्विभाषा घञ् प्रत्ययो भवत्यवज्ञाने गम्यमाने। अवज्ञानमसत्कारः। परिभावः, परिभवः। अवज्ञान इति किम्? सर्वतो भवनं परिभवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201011,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "परिभावः । परिभवः । अवज्ञाने किम् । सर्वतो भवनं परिभवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201011,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<परौ भुवोऽवज्ञाने>> - परिभावः ।अनादरः परिभवः परीभावस्तिरस्क्रिया॑ इत्यमरः । परत्वाद्धि क्तल्युटौ प्राप्तौ । तथा च पूर्वविप्रतिषेधोऽयं फलितः । एवं च वाऽसरूपन्यायोऽत्र न प्रवर्तते, अनपवादत्वादिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201011,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "परिभुवो धिक्कारे वा घञ् । परिभावः परिभवः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201011,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् is optionally used after the verb भू 'to be', the word परि being in construction and the sense of the word so formed being 'disregard'.\nThe word अवज्ञान means 'contempt', 'neglect', 'disregard' &c. As परिभावः or परिभवः 'insult, humiliation'.\n \nWhy do we say 'when meaning disregard'? The word परिभवः may be then constructed to mean सर्वतोभवनं = परिभवः 'surrounding'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201011,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् is optionally used after the verb भू 'to be', the word परि being in construction and the sense of the word so formed being 'disregard'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201011,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "परिभाव एव भवतां भुवोऽधिपाः (शिशुपालवधम् 15.34) — `परौ भुवोऽवज्ञाने` इति विभाषया घञ्प्रत्ययः।\nपरिभावं मृगेन्द्राणां (भट्टिकाव्यम् 7.54) — `परौ भुवो ऽवज्ञाने` इति घञ्।"
+    }
+  ]
+}

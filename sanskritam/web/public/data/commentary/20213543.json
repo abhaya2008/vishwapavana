@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213543,
+    "chapter_id": 7800,
+    "verse_number": "२०",
+    "content_sanskrit": "न कुपूर्वस्य कृत्तिकाख्या चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213543,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्त उदात्तो न । कृत्तिका नक्षत्रम् । केचित्तु कुपूर्वो य आप्तद्विषयाणामिति व्याख्याय आर्यिका, बहुलिका इत्यत्राप्यन्तोदात्तो नेत्याहुः ॥"
+    }
+  ]
+}

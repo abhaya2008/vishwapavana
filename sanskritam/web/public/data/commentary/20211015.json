@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211015,
+    "chapter_id": 7781,
+    "verse_number": "१०१६",
+    "content_sanskrit": "बुध्",
+    "padaccheda": "बुधिँर्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "बोधने",
+    "meaning_english": "to know,to understand,to be awakened with knowledge, to be restored to senses,to think, to learn",
+    "audio_url": null,
+    "display_order": 1016,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211015,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्रति — किसी को जानना, जागना, बाट जोहना\nसम् — अच्छी तरह से जानना\nअव — जानना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211015,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " बुधिरो बोधनार्थस्य बोधते बोधतीत्यपि ' (श्लो. 119) इति देवः । चान्द्राः, क्षीरस्वामी च ' बुध ' इत्यनिरितं पठन्ति ।"
+    }
+  ]
+}

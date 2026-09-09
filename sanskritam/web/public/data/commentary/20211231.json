@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211231,
+    "chapter_id": 7782,
+    "verse_number": "६६",
+    "content_sanskrit": "जक्ष्",
+    "padaccheda": "जक्षँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "भक्षहसनयोः",
+    "meaning_english": "to eat,to consume,to laugh",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211231,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अन्यत्राकर्मकः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211834,
+    "chapter_id": 7790,
+    "verse_number": "८५",
+    "content_sanskrit": "चुक्क्",
+    "padaccheda": "चुक्कँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "व्यथने",
+    "meaning_english": "to suffer,to give pain",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211834,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चुक्क ' इति क्वचित् पठ्यते ।"
+    }
+  ]
+}

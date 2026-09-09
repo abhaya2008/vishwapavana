@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210262,
+    "chapter_id": 7781,
+    "verse_number": "२६३",
+    "content_sanskrit": "तेज्",
+    "padaccheda": "तेजँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पालने",
+    "meaning_english": "to protect",
+    "audio_url": null,
+    "display_order": 263,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210262,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अस्य स्थाने क्षीरस्वामी ' कज मदे ' इति पठति ।"
+    }
+  ]
+}

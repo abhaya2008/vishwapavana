@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213479,
+    "chapter_id": 7799,
+    "verse_number": "१४५",
+    "content_sanskrit": "शतायुतप्रयुताः पुंसि च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213479,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं शतः । इदं शतम् इत्यादि । "
+    }
+  ]
+}

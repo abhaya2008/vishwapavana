@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210628,
+    "chapter_id": 7781,
+    "verse_number": "६२९",
+    "content_sanskrit": "दल्",
+    "padaccheda": "दलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विशरणे विदारणे च",
+    "meaning_english": "to break,to split,to expand,to open,to cut,to decline, to wither, to tear, to fade",
+    "audio_url": null,
+    "display_order": 629,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210628,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "विशरणम् अवयवानां विभागः ।  ' विदारणे ' इति मैत्रेयः । ' विदारणे शपि दलेद्दालयेदिति णौ दलेः ' (श्लो. 159) इति देवः ।"
+    }
+  ]
+}

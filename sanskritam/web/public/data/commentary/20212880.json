@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212880,
+    "chapter_id": 7794,
+    "verse_number": "८०",
+    "content_sanskrit": "पर्देर्नित्संप्रसारणमल्लोपश्च",
+    "padaccheda": "",
+    "anvaya": "काकु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212880,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पृदाकुर्वृश्चिके व्याघ्रे चित्रके च सरीसृपे ।"
+    }
+  ]
+}

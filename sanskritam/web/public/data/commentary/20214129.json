@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214129,
+    "chapter_id": 7805,
+    "verse_number": "३३६",
+    "content_sanskrit": "तत्र साधनवृत्तिर्यः शब्दः सत्त्वनिबन्धनः । न स प्रधानभूतस्य साध्यस्यार्थस्य वाचकः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 336,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214129,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "एवं `यस्मिन्नुच्चरिते' इत्यादिके शब्दार्थलक्षणे शब्दार्थसम्बन्धस्यानित्यत्वमभिधाय दूषणान्तरमभिधातुमाह--"
+    }
+  ]
+}

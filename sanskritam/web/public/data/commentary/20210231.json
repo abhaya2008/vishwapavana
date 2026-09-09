@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210231,
+    "chapter_id": 7781,
+    "verse_number": "२३२",
+    "content_sanskrit": "अर्च्",
+    "padaccheda": "अर्चँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to pray, to honor, to worship, to respect",
+    "audio_url": null,
+    "display_order": 232,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210231,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — पूजना, स्थिर करना, प्रशंसा करना\nअनु — जयजयकार करना, मान करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210231,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' पूजायां णौ विभाषार्चे: अर्चयत्यर्चतेर्चति । भूवादौ पाठसामर्थ्यात् कर्तुगामिफलेर्चति ' (श्लो.49) इति देवः । अयमात्मनेपदीति शाकटायनः । ' अच इत्येके ' इति आभरणोक्तिः ।"
+    }
+  ]
+}

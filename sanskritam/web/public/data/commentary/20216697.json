@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216697,
+    "chapter_id": 7843,
+    "verse_number": "७२",
+    "content_sanskrit": "निश्चितसाध्याभाववान् विपक्षः । यथा- तत्रैव महाह्रदः ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": "विपक्षः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216697,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "निश्चितसाध्याभावेति । सपक्षेऽतिव्याप्तिवारणाय साध्याभावेति । पक्षेऽतिव्याप्तिवारणाय निश्चितेति । तत्रैव=धूमवत्त्वे एव ।"
+    }
+  ]
+}

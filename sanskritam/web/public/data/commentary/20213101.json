@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213101,
+    "chapter_id": 7795,
+    "verse_number": "१४१",
+    "content_sanskrit": "भुजेः किच्च",
+    "padaccheda": "",
+    "anvaya": "इ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 141,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213101,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भुजिः ।"
+    }
+  ]
+}

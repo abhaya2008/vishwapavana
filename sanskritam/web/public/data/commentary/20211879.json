@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211879,
+    "chapter_id": 7790,
+    "verse_number": "१३०",
+    "content_sanskrit": "चुम्ब्",
+    "padaccheda": "चुबिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt, to irritate",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211879,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " हिंसायां , वक्त्रसंयोगे चुम्बयेच्चुम्बति क्रमात् ' (श्लो. 140) - देवः ।"
+    }
+  ]
+}

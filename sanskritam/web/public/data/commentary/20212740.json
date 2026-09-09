@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212740,
+    "chapter_id": 7793,
+    "verse_number": "६३",
+    "content_sanskrit": "चिक् च",
+    "padaccheda": "",
+    "anvaya": "चिक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212740,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इकार उच्चारणार्थः । क इत् कुत्वम् । स्रुवं च स्रुचश्च संमृड्ढि ।"
+    }
+  ]
+}

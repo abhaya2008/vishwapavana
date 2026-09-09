@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210298,
+    "chapter_id": 7781,
+    "verse_number": "२९९",
+    "content_sanskrit": "हेठ्",
+    "padaccheda": "हेठँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "विबाधायाम्",
+    "meaning_english": "to hinder, to be wicked, to be cruel",
+    "audio_url": null,
+    "display_order": 299,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210298,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "विबाधनम् = शाठ्यम् । ' अमुं परस्मैपदिष्वपि केचित् पठन्ति ' इति माधवः ।"
+    }
+  ]
+}

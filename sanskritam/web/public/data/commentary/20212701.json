@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212701,
+    "chapter_id": 7793,
+    "verse_number": "२४",
+    "content_sanskrit": "जोरी च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212701,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जीरोऽणुः । ज्यश्चेत्येके ।"
+    }
+  ]
+}

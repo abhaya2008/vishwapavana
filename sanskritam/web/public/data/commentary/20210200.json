@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210200,
+    "chapter_id": 7781,
+    "verse_number": "२०१",
+    "content_sanskrit": "ऋञ्ज्",
+    "padaccheda": "ऋजिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "भर्जने",
+    "meaning_english": "to fry, to parch",
+    "audio_url": null,
+    "display_order": 201,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210200,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "भर्जनम् = पाकविषेशः । ' ऋञ्जते भर्जने, गत्याद्यर्थे स्यादर्जने त्वृजेः ' (श्लो.62) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213478,
+    "chapter_id": 7799,
+    "verse_number": "१४४",
+    "content_sanskrit": "शतादिः संख्या ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213478,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शतम् । सहस्रम् । शतादिरिति किम् ? एक द्वौ बहवः । सङ्ख्येति किम् ? शतशृङ्गो नाम पर्वतः । "
+    }
+  ]
+}

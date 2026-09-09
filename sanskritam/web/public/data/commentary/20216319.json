@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216319,
+    "chapter_id": 7825,
+    "verse_number": "१२९",
+    "content_sanskrit": "क्वचिद्वकृतिः प्रकृतिं गृह्णाति",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": "यत्तु —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216319,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तेन <<निसमुपविभ्यो ह्वः>> [[1.3.30]] इत्यत्र ह्वाग्रहणेन ह्वेञो ग्रहणसिद्धिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210453,
+    "chapter_id": 7781,
+    "verse_number": "४५४",
+    "content_sanskrit": "जृम्भ्",
+    "padaccheda": "जृभिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गात्रविनामे",
+    "meaning_english": "to yawn,to gape",
+    "audio_url": null,
+    "display_order": 454,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210453,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तत्त्वबोधिनीयुक्तायां कौमुद्याम् तु ' जभि जृभी ' इति पाठः दृश्यते । सः अयुक्तः स्यात् । यतः ' जभि ' इति पाठे इदित्वात् एव नुमि सिद्धे, पुनः नुमः विधानं व्यर्थं स्यात् । तथैव ' जृभी ' इति पाठे नुमः प्राप्तिः न स्यात् ।"
+    }
+  ]
+}

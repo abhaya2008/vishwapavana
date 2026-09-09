@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212549,
+    "chapter_id": 7792,
+    "verse_number": "२९",
+    "content_sanskrit": "लङ्घिबंह्योर्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212549,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लघुः । <! वालमूललघ्वलमङ्गुलीनां वा लो रत्वमापद्यते (वार्त्तिकम्) !> ।  रघुर्नृपभेदः । बहुः ।"
+    }
+  ]
+}

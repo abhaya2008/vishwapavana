@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212094,
+    "chapter_id": 7790,
+    "verse_number": "३४५",
+    "content_sanskrit": "वृ",
+    "padaccheda": "वृञ्",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आवरणे",
+    "meaning_english": "to cover",
+    "audio_url": null,
+    "display_order": 345,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212094,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — संरक्षण करना, दूर हटाना\nआ — घेरना, लपेटना\nवि — समाप्त करना, निवारण करना, स्पष्ट करना या होना\nसम् — छिपाना\nअप — छोडना, दान देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212094,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " जॄ ' इति चौरादिकधातोः नन्दिसम्मतः पाठः एव अयम् ' - मा.धा.वृत्तिः । ' वृञ् आवरणे वा णौ वारयेद् वरते वरेत् ' (श्लो.32) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201719,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१४७",
+    "content_sanskrit": "संज्ञायां कन्",
+    "padaccheda": "संज्ञायाम् । कन्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 147,
+    "avatarnika": "अनुवृत्तिः — विकारः (४.३.१३४), तस्य (४.३.१३४), अवयवे (४.३.१३५), मयट् (४.३.१४३), पिष्टात् (४.३.१४६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201719,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पिष्टशब्दात् कन् प्रत्ययो भवति विकारे संज्ञायां विषये। मयटोऽपवादः। पिष्टकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201719,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पिष्टादित्येव । पिष्टस्य विकारविशेषः पिष्टकः । पूपोऽपूपः पिष्टकः स्यात् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201719,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`तिलयवशब्दावाद्युदात्तौ` इति। तस्मादण्प्राप्नोति, अतस्तस्यायमपवादः। आद्युदात्तत्वं तु तयोः `तृणधान्यानां {गर्मुत् - द।उ। ग्रो मुट् च` पं।उ।}द्व्यषाम्` (फिट्।2।27) इत्यनेनैव भवितव्यम्। अस्यायमर्थः - तृणधान्यानां द्व्यचामादिरुदात्तो भवतीति।`यावकःर` इति। विकारेऽण्। तदन्तात्तु <<यावादिभ्यः कन्>> [[5.4.29]]  इति कन्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201719,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पिष्टान्नाम्नि कन् । पिष्टकोऽपूपः ।।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201719,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कन् comes in the sense of 'product' after the word पिष्ट , the whole word being a Name.\nThis debars मयट् ॥ As पिष्टकः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201719,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कन् comes in the sense of 'product' after the word पिष्ट , the whole word being a Name."
+    }
+  ]
+}

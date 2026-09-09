@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201006,
+    "chapter_id": 7759,
+    "verse_number": "३.३.५०",
+    "content_sanskrit": "विभाषाऽऽङि रुप्लुवोः",
+    "padaccheda": "विभाषा । आङि । रु-प्लुवोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201006,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आङ्युपपदे रौतेः प्लवतेश्च विभाषा घञ् प्रत्ययो भवति। आरावः, आरवः। आप्लावः, आप्लवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201006,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आरावः । आरवः । आप्लावः । आप्लवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201006,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "रौतेः <<उपसर्गे रुवः>> [[3.3.22]]  इति नित्यं घञि प्राप्ते प्लवतेरप्युवर्णान्तत्वादपि सूत्रारम्भः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201006,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् is optionally used after the verbs 1. रू 'to roar' 2. प्लु 'to float' when the preposition अङ् is in composition.\nAs आरावः or आरवः 'noise'; आप्लावः or आप्लवः 'bathing'."
+    },
+    {
+      "id": 5,
+      "verse_id": 20201006,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् is optionally used after the verbs 1. रू 'to roar' 2. प्लु 'to float' when the preposition अङ् is in composition."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201006,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "उच्छ्राय-वान्घनाऽऽरावो (भट्टिकाव्यम् 7.47) — `विभाषा sऽङि रुप्लुवोः` इति भावे घञ्।"
+    }
+  ]
+}

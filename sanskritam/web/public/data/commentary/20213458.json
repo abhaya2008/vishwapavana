@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213458,
+    "chapter_id": 7799,
+    "verse_number": "१२४",
+    "content_sanskrit": "द्वन्द्वैकत्वम् ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213458,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पाणिपादम् ।"
+    }
+  ]
+}

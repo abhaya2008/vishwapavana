@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201122,
+    "chapter_id": 7759,
+    "verse_number": "३.३.१६६",
+    "content_sanskrit": "अधीष्टे च",
+    "padaccheda": "अधीष्टे । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 166,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), स्मे (३.३.१६५), लोट् (३.३.१६५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201122,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "स्म इति वर्तते। अधीष्टं व्याख्यातम् [[३.३.१६१]]। स्मशब्द उपपदेऽधीष्टे गम्यमाने धातोर्लोट् प्रत्ययो भवति। लिङोऽपवादः। अङ्ग स्म राजन् माणवकमध्यापय। अङ्ग स्म राजन्नग्निहोत्रं जुहुधि॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201122,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "स्म उपपदेऽधीष्टे लोट् स्यात् । त्वं स्म अध्यापय ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201122,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अधीष्टे च>> - अधीष्टे च । लोट् स्यादिति । अधीष्टे विहितस्य लिङोऽपवादः । अधीष्टं सत्कारपूर्वको व्यापार इत्युक्तम् । त्वं स्माध्यापयेति गुरुं प्रत्युक्तिः ।स्मे लोडधीष्टेचे॑त्येकसूत्रत्वेन सिद्धए योगविभागस्तु ऊध्र्वमौहूर्तिक इत्यनुवृत्तिनिवृत्त्यर्थः ।कालसमयेलासु तुमु॑न्नित्युत्तरसूत्रं तु कृदधिकारे व्याख्यास्यते ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201122,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<अधीष्टे च>> - अधीष्टे च । लिङोऽपवादः । योगविभास्तु ऊध्र्वमौहूर्तिकाऽननुवृत्त्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201122,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`लिङोषऽपवादः`इति। विध्यादिसूत्रेण प्राप्तस्य। `अध्यापय`इति। सेर्हिरादेशः  [[3.4.87]] , तस्य <<अतो हेः>> [[6.4.105]]  इति लुक्। `जुहुधि`इति। <<हुझल्भ्यो हेर्धिः>> [[6.4.101]]  इति धिरादेशः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201122,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अङ्ग स्म राजन्निति । अङ्गशब्दोऽनुनये । ब्राह्मणानामेवाध्यापनं वृत्तिरतो राजन्नित्यभ्यर्हितेत्यर्थः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201122,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "स्मयोगेऽधीष्टेऽर्थे लोडेव, न लिङ् । अध्यापयतु स्म भवान् ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201122,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And when 'wish' is meant ( the लोट् (Imperative) may be used when the word स्म is in composition with the verb.\nThe word स्म is understood here. The word अधीष्ट has already been explained in <i>sutra</i> [[3.3.161]]. This rule supersedes the Potential. Thus अङ्ग स्म राजन् माणवकमध्यापय or अङ्ग स्म राजन्नग्निहोत्रं जुहुधि 'O! King! I wish that you teach the boy or make <i>Agnihotra</i> sacrifice'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201122,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And when 'wish' is meant ( the लोट् (Imperative) may be used when the word स्म is in composition with the verb."
+    }
+  ]
+}

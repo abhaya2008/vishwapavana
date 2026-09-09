@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211242,
+    "chapter_id": 7782,
+    "verse_number": "७७",
+    "content_sanskrit": "ह्नु",
+    "padaccheda": "ह्नुङ्",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "अपनयने",
+    "meaning_english": "to hide, to conceal,to take away,to deny",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211242,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — छिपाना\nनि — छिपाना"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212737,
+    "chapter_id": 7793,
+    "verse_number": "६०",
+    "content_sanskrit": "परौ व्रजेः षश्च पदान्ते",
+    "padaccheda": "",
+    "anvaya": "क्विप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212737,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "व्रजेः क्विब्दीर्घौ स्तः पदान्ते तु षश्च । परिव्राट् । परिव्राजौ ।"
+    }
+  ]
+}

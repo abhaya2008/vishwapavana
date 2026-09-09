@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210073,
+    "chapter_id": 7781,
+    "verse_number": "७४",
+    "content_sanskrit": "क्रन्द्",
+    "padaccheda": "क्रदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आह्वाने रोदने च",
+    "meaning_english": "to call out,to cry,to cry out continually,to lament,to grieve, to shed tears",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210073,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — मदत मांगना, मदत के लिए बुलाना, रोना, पुकारना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210073,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अर्थविशेषे घटादिः । षित् । (धातुसङ्ख्या 773 अवलोक्यताम्) 'आह्वाने सकर्मकः, रोदने अकर्मकः । 'रक्षणे च' इत्येके । ' आह्वाने रोदने क्रन्देः कन्देः क्रन्दति कन्दति । वैक्लव्ये तु तयोर्धात्वोः क्रन्दते कन्दते मितोः' । मित्त्वार्थपाठसामर्थ्यात् तयोर्दीर्घविकल्पनम् । भवेत् चिण्णमुलोस्तस्मात् अक्रान्द्यक्रन्दि सिद्ध्यतः' (श्लो. 105-106) इति देवः ।"
+    }
+  ]
+}

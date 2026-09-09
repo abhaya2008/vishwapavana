@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210352,
+    "chapter_id": 7781,
+    "verse_number": "३५३",
+    "content_sanskrit": "चिट्",
+    "padaccheda": "चिटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "परप्रैष्ये",
+    "meaning_english": "to obey, to be slave",
+    "audio_url": null,
+    "display_order": 353,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210352,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "परप्रैष्यम् = दासभावः ।"
+    }
+  ]
+}

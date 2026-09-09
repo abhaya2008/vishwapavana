@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213116,
+    "chapter_id": 7795,
+    "verse_number": "१५६",
+    "content_sanskrit": "इन्देः कमिन्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "कमिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 156,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213116,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदम् ।"
+    }
+  ]
+}

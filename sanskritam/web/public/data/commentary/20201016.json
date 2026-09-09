@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20201016,
+    "chapter_id": 7759,
+    "verse_number": "३.३.६०",
+    "content_sanskrit": "नौ ण च",
+    "padaccheda": "नौ । ण । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), अदः (३.३.५९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201016,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "निशब्द उपपदेऽदेर्धातोर्णः प्रत्ययो भवति, चकारादप् च। न्यादः। निघसः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201016,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नौ उपपदे अदेर्णः स्यादप् च । न्यादः । निघसः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201016,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And The affix ण as well as अप् come after the verb अद् 'to eat' when the उपसर्ग नि is in composition.\nAs नि + अद् + ण = नि + आद् + अ = न्यादः  [[7.2.116]] 'feeding'; नि + अद् + अप् =  नि + घस् + अ [[2.4.38]] = निघसः 'eating, food'."
+    },
+    {
+      "id": 4,
+      "verse_id": 20201016,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And The affix ण as well as अप् come after the verb अद् 'to eat' when the उपसर्ग नि is in composition."
+    },
+    {
+      "id": 5,
+      "verse_id": 20201016,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "व्याप्नुवन्तो दिशोऽन्यादान् (भट्टिकाव्यम् 7.56) — `नौ ण च` इति निपूर्वाददोऽण् प्रत्ययः।"
+    }
+  ]
+}

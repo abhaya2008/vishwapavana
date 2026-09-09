@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202978,
+    "chapter_id": 7771,
+    "verse_number": "६.३.११७",
+    "content_sanskrit": "वनगिर्योः संज्ञायां कोटरकिंशुलकादीनाम्",
+    "padaccheda": "वन-गिर्योः । संज्ञायाम् । कोटर-किंशुलकादीनाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": "अनुवृत्तिः — दीर्घः (६.३.१११)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202978,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वन गिरि इत्येतयोरुत्तरपदयोर्यथासंख्यं कोटरादीनां किंशुलकादीनां च दीर्घो भवति संज्ञायां विषये। वने कोटरादीनाम् — कोटरावणम्। मिश्रकावणम्। सिध्रकावणम्। सारिकावणम्। गिरौ किंशुलकादीनाम् — किंशुलकागिरिः। अञ्जनागिरिः। कोटरकिंशुलकादीनामिति किम्? असिपत्रवनम्। कृष्णगिरिः॥ कोटर। मिश्रक। पुरग। सिध्रक। सारिक। कोटरादिः॥ किंशुलक। शाल्वक। अञ्जन। भञ्जन। लोहित। कुक्कुट। किंशुलकादिः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202978,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कोटरादीनां वने परे किंशुलुकादीनां गिरौ परे च दीर्घः स्यात्संज्ञायाम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202978,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वनगिर्योः संज्ञायां कोटरकिंशुलकादीनाम्>> - वनगिर्योः । वनगिर्योरिति सप्तमी । कोटरश्च किंशुलुकश्च कोटरकिशुलुकौ, तावादी येषामिति विग्रहः । कोटरादीनांकिंशुलुकादीनां चेति लभ्यते । यथासङ्ख्यमन्वयः । तदाह — कोटरादीनामित्यादिना ।पुरगावण॑मित्युदाहरणानि वक्ष्यन्ते ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202978,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कोटरावणमिति । वनं पुरगा इति णत्वम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202978,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For the final vowel of कोटर etc. a long vowel is substituted before वन and also of किंशुलक etc. before गिरि when the compound is a name.\nThus कोटरावणम्, मिश्रकावणम्, सिध्रकावणम्, सारिकावणम् ॥\n\nSo also किंशुलकागिरिः, अञ्जनागिरिः, &c.\n\nThe न is changed to ण in वन by [[8.4.4]]. But असिपत्रवनम् and कृष्णगिरि as these words do not belong to the above classes.\n\n1 कोटर, 2 मिश्रक, 3 सिध्रक, 4 पुरग (पुरक), 5 शारिक (सारिक)॥\n\n1 किंशुलुक (किंशुलक), 2 शाल्व (साल्वक), 3 नड, 4 अञ्जन, 5 मञ्जन, 6 लोहित, 7 कुक्कुट ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202978,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For the final vowel of कोटर etc. a long vowel is substituted before वन and also of किंशुलक etc. before गिरि when the compound is a name."
+    }
+  ]
+}

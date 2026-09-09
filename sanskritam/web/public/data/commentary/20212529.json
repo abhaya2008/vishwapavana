@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212529,
+    "chapter_id": 7792,
+    "verse_number": "९",
+    "content_sanskrit": "धान्ये नित्",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212529,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "धान्ये वाच्येऽण उप्रत्ययः स्यात् स च नित् । नित्त्वादाद्युदात्तः । प्रियङ्गवश्च मेऽणवश्च मे । व्रीहिभेदस्त्वणुः पुमान् । निद्ग्रहणं फलिपाटीत्यादिसूत्रमभिव्याप्य संबध्यते ।"
+    }
+  ]
+}

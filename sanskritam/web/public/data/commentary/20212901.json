@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212901,
+    "chapter_id": 7794,
+    "verse_number": "१०१",
+    "content_sanskrit": "शॄरम्योश्च",
+    "padaccheda": "",
+    "anvaya": "अन्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212901,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शरण्यम् । रमण्यम् ।"
+    }
+  ]
+}

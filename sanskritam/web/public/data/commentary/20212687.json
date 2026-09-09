@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212687,
+    "chapter_id": 7793,
+    "verse_number": "१०",
+    "content_sanskrit": "गश्चोदि",
+    "padaccheda": "",
+    "anvaya": "थक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212687,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उद्गीथः साम्नो भागविशेषः ।"
+    }
+  ]
+}

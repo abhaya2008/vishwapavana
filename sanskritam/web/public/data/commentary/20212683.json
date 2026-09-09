@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212683,
+    "chapter_id": 7793,
+    "verse_number": "६",
+    "content_sanskrit": "जॄवृञ्भ्यामूथन्",
+    "padaccheda": "",
+    "anvaya": "ऊथन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212683,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जरूथं मांसम् । वरूथो रथगुप्तौ ना ।"
+    }
+  ]
+}

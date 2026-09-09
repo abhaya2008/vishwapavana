@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213060,
+    "chapter_id": 7795,
+    "verse_number": "१००",
+    "content_sanskrit": "वृह्रोः षुग्दुकौ च",
+    "padaccheda": "",
+    "anvaya": "कयन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213060,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वृषयः आश्रयः । हृदयम् ।"
+    }
+  ]
+}

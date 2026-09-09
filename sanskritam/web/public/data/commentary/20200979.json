@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200979,
+    "chapter_id": 7759,
+    "verse_number": "३.३.२३",
+    "content_sanskrit": "समि युद्रुदुवः",
+    "padaccheda": "समि । यु-द्रु-दुवः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200979,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सम्युपपदे यु द्रु दु इत्येतेभ्यो धातुभ्यो घञ् प्रत्ययो भवति। संयावः। संद्रावः। संदावः। समीति किम्? प्रयवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200979,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "संयूयते मिश्रीक्रियते गुडादिभिरिति संयावः । पिष्टविकारोऽपूपविशेषः । सन्द्रावः । सन्दावः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200979,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "संयावःउपिष्टविकारोऽपूपविशेषः, सम्पूयते मिश्रीक्रियते गुडजीरकादिभिरिति कृत्वा ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200979,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "संयावः । सन्द्रावः । सन्दावः । 'दु द्रु गतौ' इत्यस्य ग्रहात् पीडार्थस्य दोः सन्दवः । एभ्योऽनुपसर्गे वेति भोजः । यवः यावः । द्रवः द्रावः । दवः दावः ।।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200979,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the roots 1. यु 'to join' 2. द्रु 'to run' 3. दु 'to burn' when in composition with the preposition सम्।\nAs संयावः, सन्द्रावः, सन्दावः । But प्रयवः where the preposition is not <i>sam</i>."
+    },
+    {
+      "id": 6,
+      "verse_id": 20200979,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the roots 1. यु 'to join' 2. द्रु 'to run' 3. दु 'to burn' when in composition with the preposition सम्।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200979,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "चारु-सन्द्रावमब्रवीत् (भट्टिकाव्यम् 7.35) — `समि युद्रुदुवः` इति घञ्।"
+    }
+  ]
+}

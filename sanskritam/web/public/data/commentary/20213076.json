@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213076,
+    "chapter_id": 7795,
+    "verse_number": "११६",
+    "content_sanskrit": "प्र ईरशदोस्तुट् च",
+    "padaccheda": "",
+    "anvaya": "क्वनिप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213076,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्रेर्त्वा प्रशत्वा च सागरः । प्रेत्वरी प्रशत्वरी च नदी ।"
+    }
+  ]
+}

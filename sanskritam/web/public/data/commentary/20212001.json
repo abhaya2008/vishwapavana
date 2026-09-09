@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212001,
+    "chapter_id": 7790,
+    "verse_number": "२५२",
+    "content_sanskrit": "क्रन्द्",
+    "padaccheda": "क्रन्दँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सातत्ये",
+    "meaning_english": "to call out",
+    "audio_url": null,
+    "display_order": 252,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212001,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आङः क्रन्दः - सातत्ये ' इति पाठे, आङः परः क्रन्दतिः सतताह्वाने, सततरोदने चार्थे गम्यमाने णिचं लभते इत्यर्थः । अन्ये तु ' आङ्पूर्वो घुषिः क्रन्दसातत्ये ' इत्याहुः । आघोषयति ' इति द्वेधा व्याख्या ।"
+    }
+  ]
+}

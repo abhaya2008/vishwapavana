@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210004,
+    "chapter_id": 7781,
+    "verse_number": "५",
+    "content_sanskrit": "बाध्",
+    "padaccheda": "बाधृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "लोडने, रोटने",
+    "meaning_english": "to oppress, to torment, to harass, to destroy, to infect, to torture",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210004,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — रद्द करना, बाजू मे रखना, दूर भगाना, छोड देना, रोक देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210004,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "लोडनं हिंसनमिति यावत् । 'रोटने । रोटनं प्रतिघातः' इति क्षीरस्वामी ।"
+    }
+  ]
+}

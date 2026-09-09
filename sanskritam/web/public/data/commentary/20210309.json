@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210309,
+    "chapter_id": 7781,
+    "verse_number": "३१०",
+    "content_sanskrit": "हुण्ड्",
+    "padaccheda": "हुडिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वरणे हरणे च",
+    "meaning_english": "to accept, to agree, to take away",
+    "audio_url": null,
+    "display_order": 310,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210309,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वरणम् = स्वीकारः । ' हरणे ' इति मैत्रेयः । हुण्डी = धनप्रक्षेप-स्थानम् । हुण्डिका = मुद्रा । ' स्फुडि विकसने ' इत्येके पठन्ति ।"
+    }
+  ]
+}

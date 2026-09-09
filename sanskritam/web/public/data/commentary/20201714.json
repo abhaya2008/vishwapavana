@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201714,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१४२",
+    "content_sanskrit": "शम्याष्ट्लञ्",
+    "padaccheda": "शम्याः । ट्लञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१३४), विकारः (४.३.१३४), अवयवे (४.३.१३५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201714,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "शमीशब्दाट् ट्लञ् प्रत्ययो भवति विकारावयवयोरर्थयोः। अञोऽपवादः। शामीलं भस्म। शामीली स्रुक्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201714,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शामीलं भस्म । षित्वान्ङीष् । शामीली स्रुक् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201714,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<शम्याष्ट्लञ्>> - षित्त्वन्ङीषिति । टित्त्वान्ङीषिति । टित्त्वान्ङीबिति तु माधवः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201714,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अञोऽपवाद इति । शमीशब्दो गौरादिङीषन्तः । शामीली स्रुगिति । चातुर्मास्ये वरुणप्रघासेषु शमीमय्यः स्रुचो भवन्तीति श्रुतम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201714,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "टित्त्वात् ङीप् । शामीली समित् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201714,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ट्लञ् comes in the sense of 'modification or part' after the word शमी।\nThis debars अञ् ॥ Thus शामीलं भस्म, शामीली स्रुक् [[4.1.60]]."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201714,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ट्लञ् comes in the sense of 'modification or part' after the word शमी।"
+    }
+  ]
+}

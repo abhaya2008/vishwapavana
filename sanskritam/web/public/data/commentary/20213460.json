@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213460,
+    "chapter_id": 7799,
+    "verse_number": "१२६",
+    "content_sanskrit": "अनञ्कर्मधारयस्तत्पुरुषः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213460,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अधिकारोऽयम् ।"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20203635,
+    "chapter_id": 7777,
+    "verse_number": "८.१.२२",
+    "content_sanskrit": "तेमयावेकवचनस्य",
+    "padaccheda": "तेमयौ । एकवचनस्य",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": "अनुवृत्तिः — षष्ठीचतुर्थीद्वितीयास्थयोः (८.१.२०), युष्मदस्मदोः (८.१.२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203635,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "युष्मदस्मदोरेकवचनान्तयोः षष्ठीचतुर्थीस्थयोर्यथासंख्यं ते मे इत्येतावादेशौ भवतः। ग्रामस्ते॒ स्वम्। ग्रामो मे॒ स्वम्। ग्रामस्ते॒ दीयते। ग्रामो मे॒ दीयते। द्वितीयान्तस्यादेशान्तरविधानसामर्थ्यात् षष्ठीचतुर्थ्योरेवायं योगः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203635,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उक्तविधयोरनयोः षष्ठीचतुर्थ्येकवचनान्तयोस्ते मे एतौ स्तः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203635,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "उक्तविधयोरनयोष्षष्ठीचतुर्थ्येकवचनान्तयोस्ते मे एतौ स्तः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203635,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "किं पुनः कारणं षष्ठीचतुथ्र्यन्तयोरेवोदाहरणमुपन्यस्तम्, न द्वितीयान्तयोः? इत्याह -`द्वितीयान्तस्य` इत्यादि॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203635,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "तादृशोरनयोः षष्ठीचतुर्थ्येकवचनान्तयोस्ते मे इति स्तः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203635,
+      "commentary_type": "सुधा",
+      "author": "",
+      "content": "तेमयेति । तेश्च मेश्चेति विग्रहः । अयं वांनावोरपवादः । अत्र द्वितीयाग्रहणं नानुवर्तते, तत्र त्वामादेशयोर्वचयमाणत्वात् ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203635,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For the Genitive 6th-Case and Dative -4th Case singular (of युष्मद् and अस्मद् are substituted) ते and मे respectively (when a word precedes and these substitutes are अनुदात्त).\nThus ग्रामस्ते स्वम्, ग्रामो मे स्वम्, ग्रामस्ते दीयते, ग्रामो मे दीयते ॥ For the Accusative singular, other substitutes have been taught in the next <i>sutra</i>, hence ते and मे come only in Genitive and Dative."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203635,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For the Genitive 6th-Case and Dative -4th Case singular (of युष्मद् and अस्मद् are substituted) ते and मे respectively (when a word precedes and these substitutes are अनुदात्त)."
+    },
+    {
+      "id": 9,
+      "verse_id": 20203635,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "शस्त्र-पूतो ब्रवीमि ते (भट्टिकाव्यम् 6.49) — `तेमयावेकवचनस्य` इति ते आदेशः।"
+    }
+  ]
+}

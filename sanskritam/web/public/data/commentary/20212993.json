@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212993,
+    "chapter_id": 7795,
+    "verse_number": "३३",
+    "content_sanskrit": "कृञ उच्च",
+    "padaccheda": "",
+    "anvaya": "ईरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212993,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुरीरं मैथुनम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211055,
+    "chapter_id": 7781,
+    "verse_number": "१०५६",
+    "content_sanskrit": "ध्यै",
+    "padaccheda": "ध्यै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "चिन्तायाम्",
+    "meaning_english": "to think,to meditate,to recollect, to concentrate  upon",
+    "audio_url": null,
+    "display_order": 1056,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211055,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — शोधना, ढूंढना"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213255,
+    "chapter_id": 7796,
+    "verse_number": "५७",
+    "content_sanskrit": "अश्नोतेराशुकर्मणि वरट् च",
+    "padaccheda": "",
+    "anvaya": "वरट्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213255,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चकारादुपधाया ईत्वम् । ईश्वरः ।"
+    }
+  ]
+}

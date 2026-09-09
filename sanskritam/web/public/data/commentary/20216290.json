@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216290,
+    "chapter_id": 7825,
+    "verse_number": "१००",
+    "content_sanskrit": "सर्वविधिभ्यो लोपविधिरिड्विधिश्च बलवान्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216290,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इत्यादि भाष्यानुक्तं बोध्यम् ।'स्वायम्भुवमि'त्यादि लोकेऽसाध्वेवेत्यन्यत्र विस्तरः ॥"
+    }
+  ]
+}

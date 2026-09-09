@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212601,
+    "chapter_id": 7792,
+    "verse_number": "८१",
+    "content_sanskrit": "कृषिचमितनिधनिसर्जिखर्जिभ्य ऊः",
+    "padaccheda": "",
+    "anvaya": "ऊ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212601,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कर्षूः पुंसि करीषाग्नौ कर्षूर्नद्यां स्त्रियां मता । चमूः । तनूः । धनूः शस्त्रम् । सर्ज सर्जने । सर्जूर्वणिक् । खर्ज व्यथने । खर्जूः पामा ।"
+    }
+  ]
+}

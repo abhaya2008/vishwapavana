@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211279,
+    "chapter_id": 7784,
+    "verse_number": "११",
+    "content_sanskrit": "त्रस्",
+    "padaccheda": "त्रसीँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "उद्वेगे",
+    "meaning_english": "to fear,to tremble",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211279,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उद्वेगः = भयम् इति क्षीरस्वामी । ' त्रसति त्रस्यतीत्येवमुद्वेगार्थे तु वा श्यनि ' (श्लो. 191) इति देवः ।"
+    }
+  ]
+}

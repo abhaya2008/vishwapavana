@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212180,
+    "chapter_id": 7790,
+    "verse_number": "४३१",
+    "content_sanskrit": "ध्वन",
+    "padaccheda": "ध्वन",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 431,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212180,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' ध्वनयेदित्यदन्तस्य ध्वनेः शब्दे ध्वनेत् शपि ' (श्लो. 126) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211590,
+    "chapter_id": 7786,
+    "verse_number": "१२१",
+    "content_sanskrit": "स्फुर्",
+    "padaccheda": "स्फुरँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "सञ्चलने",
+    "meaning_english": "to throb, to pulse, to move, to palpitate",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211590,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चलने ' इति न्यासे (6.1.47) । एवं क्षीरस्वाम्यपि । ' स्फर इत्येके ' इति माधवः । ' स्फुरणे सञ्चलने दीप्तौ च ' इति मैत्रेयः । ' स्फूर्तौ चले ' इति वोपदेवः ।"
+    }
+  ]
+}

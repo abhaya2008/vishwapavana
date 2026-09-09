@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211910,
+    "chapter_id": 7790,
+    "verse_number": "१६१",
+    "content_sanskrit": "ह्लप्",
+    "padaccheda": "ह्लपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "व्यक्तायां वाचि",
+    "meaning_english": "to speak articulately, to talk clearly",
+    "audio_url": null,
+    "display_order": 161,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211910,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्लप ' इत्येके ।"
+    }
+  ]
+}

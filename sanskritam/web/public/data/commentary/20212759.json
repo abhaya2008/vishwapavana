@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212759,
+    "chapter_id": 7793,
+    "verse_number": "८२",
+    "content_sanskrit": "कॄपॄवृजिमन्दिनिधाञः क्युः",
+    "padaccheda": "",
+    "anvaya": "क्यु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212759,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "किरणः । पुरणः समुद्रः । वृजनमन्तरिक्षम् । मन्दनं स्तोत्रम् । निधनम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212124,
+    "chapter_id": 7790,
+    "verse_number": "३७५",
+    "content_sanskrit": "ग्रन्थ्",
+    "padaccheda": "ग्रन्थँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सन्दर्भे",
+    "meaning_english": "to refer, to reference",
+    "audio_url": null,
+    "display_order": 375,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212124,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ग्रथ्नातीति तु सन्दर्भे ग्रन्थयेत् ग्रन्थतीति यौ । कौटिल्ये ग्रन्थते ग्रन्थे: ग्राथयेत् ग्रथति ग्रथे: ' (श्लो. 97) - देवः ।"
+    }
+  ]
+}

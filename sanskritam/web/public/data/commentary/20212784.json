@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212784,
+    "chapter_id": 7793,
+    "verse_number": "१०७",
+    "content_sanskrit": "क्षिपेः किच्च",
+    "padaccheda": "",
+    "anvaya": "अनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 107,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212784,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्षिपणिरायुधम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212739,
+    "chapter_id": 7793,
+    "verse_number": "६२",
+    "content_sanskrit": "स्रुवः कः",
+    "padaccheda": "",
+    "anvaya": "क",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212739,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्रुवः ।"
+    }
+  ]
+}

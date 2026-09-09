@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210257,
+    "chapter_id": 7781,
+    "verse_number": "२५८",
+    "content_sanskrit": "गर्ज्",
+    "padaccheda": "गर्जँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to roar,to growl,to thunder",
+    "audio_url": null,
+    "display_order": 258,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210257,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — मिलकर चिल्लाना, जोर से शब्द करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210257,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मेघशब्दे ' इति कविकल्पद्रुमे । ' गर्जेद् गृञ्जेद् गजेद् गञ्जेच्छब्दने गाजयेण्णिचि ' (श्लो.59) इति देवः ।"
+    }
+  ]
+}

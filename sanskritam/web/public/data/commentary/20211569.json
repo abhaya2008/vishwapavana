@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211569,
+    "chapter_id": 7786,
+    "verse_number": "१००",
+    "content_sanskrit": "स्फुट्",
+    "padaccheda": "स्फुटँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विकसने",
+    "meaning_english": "to blow,to blossom, to burst,to break open",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211569,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्फोटयेत्स्फोटतीति द्वे भेदे विशरणे क्रमात् ' (श्लो. 71) - देवः ।"
+    }
+  ]
+}

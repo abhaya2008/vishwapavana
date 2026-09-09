@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210865,
+    "chapter_id": 7781,
+    "verse_number": "८६६",
+    "content_sanskrit": "कृप्",
+    "padaccheda": "कृपूँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सामर्थ्ये",
+    "meaning_english": "to be able, to be capable, to be powerful",
+    "audio_url": null,
+    "display_order": 866,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210865,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सामर्थ्यं शक्तिः योग्यता वा । ' कल्पते शपि सामर्थ्ये कप्लयत्यवकल्कने । अदान्तस्य कृपेर्णौ तु दौर्बल्ये कृपयेदिति ' ( श्लो. 135) इति देवः ।"
+    }
+  ]
+}

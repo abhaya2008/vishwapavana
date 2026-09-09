@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213531,
+    "chapter_id": 7800,
+    "verse_number": "८",
+    "content_sanskrit": "दक्षिणस्य साधौ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213531,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्त उदात्तः स्यात् । साधुवाचित्वाभावे तु व्यवस्थायां सर्वनामतया <<स्वाङ्गशिटाम्—>> इत्याद्युदात्तः । अर्थान्तरे तु <<लघावन्ते—>> इति गुरुरुदात्तः । 'दक्षिणः सरलोदारपरच्छन्दानुवर्तिषु' इति कोशः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210572,
+    "chapter_id": 7781,
+    "verse_number": "५७३",
+    "content_sanskrit": "देव्",
+    "padaccheda": "देवृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "देवने",
+    "meaning_english": "to play, to sport",
+    "audio_url": null,
+    "display_order": 573,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210572,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अर्दने देवयेद्दीव्येत् क्रीडादौ परिकूजने । देवयेतेदितो दिन्वेद्देवेर्देवेत देवने (श्लो. 160-61) - देवः ।"
+    }
+  ]
+}

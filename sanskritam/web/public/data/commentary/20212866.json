@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212866,
+    "chapter_id": 7794,
+    "verse_number": "६६",
+    "content_sanskrit": "स्नुव्रश्चिकृत्यृषिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "स",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212866,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्नुषा । वृक्षः । कुत्समुदकम् । ऋक्षं नक्षत्रम् ।"
+    }
+  ]
+}

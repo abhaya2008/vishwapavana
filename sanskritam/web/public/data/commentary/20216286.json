@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216286,
+    "chapter_id": 7825,
+    "verse_number": "९६",
+    "content_sanskrit": "गणकार्यमनित्यम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": "तथा तनादिपाठादेव सिद्धे <<तनादिकृञ्भ्यः>> [[3.1.79]] इति सूत्रे कृञ्ग्रहणाद् —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216286,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तेन 'न विश्वसेदविश्वस्तम्' इत्यादि सिद्धम् ॥"
+    }
+  ]
+}

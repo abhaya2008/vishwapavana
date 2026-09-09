@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210802,
+    "chapter_id": 7781,
+    "verse_number": "८०३",
+    "content_sanskrit": "वृष्",
+    "padaccheda": "वृषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेचनहिंसासङ्क्लेशनेषु",
+    "meaning_english": "to sprinkle,to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 803,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210802,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' .. सेके वर्षेत् , स्नेहे तु वर्षते ' ( श्लो. 176) इति देवः ।"
+    }
+  ]
+}

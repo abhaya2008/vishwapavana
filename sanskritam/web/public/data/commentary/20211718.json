@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211718,
+    "chapter_id": 7789,
+    "verse_number": "४०",
+    "content_sanskrit": "व्री",
+    "padaccheda": "व्री",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "वरणे",
+    "meaning_english": "to choose,to select,to find, to marry, to cover, to glean",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211718,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वरणे - अवरणे ' इति ' व्रीतः, व्रीतवान् आवारकेर्थे ' इति च काशकृत्स्नः । ' गतौ च द्रुमे ' इति धा.का.व्याख्या (3-9) । ' व्रीणाति वरणे तत्र व्रीङो व्रीयेत तु श्यनि ' (श्लो. 19) इति देवः ।"
+    }
+  ]
+}

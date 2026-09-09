@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210048,
+    "chapter_id": 7781,
+    "verse_number": "४९",
+    "content_sanskrit": "सिध्",
+    "padaccheda": "षिधँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गत्याम्",
+    "meaning_english": "to regulate, to punish, to hinder, to instruct, to scare away, to drive off, to restrain",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210048,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — रोकना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210048,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "काश्यपक्षीरस्वामिनौ धातुममुम् उदितं पठतः, 'ततः परं सिध्यतिरेव नेतरे' (व्याघ्रभूतिकारिका 7.2.10) इति वृत्तिविरोधात् तावुपेक्षौ' इति माधवः । विस्तरश्च तत्रैव धातुवृत्तौ द्रष्टव्यः । देवोपि 'सिधेः सिध्यति संराद्धौ सेधतीत्युदितो गतौ । शास्त्रमाङ्गल्ययो रूपमुदितस्तदिटा भिदा' (श्लो. 116) इति उदित्पक्षमेव अङ्गीकृतवान् ।"
+    }
+  ]
+}

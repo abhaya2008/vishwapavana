@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213049,
+    "chapter_id": 7795,
+    "verse_number": "८९",
+    "content_sanskrit": "सर्तेर्णिच्च",
+    "padaccheda": "",
+    "anvaya": "घथिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213049,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सारथिः ।"
+    }
+  ]
+}

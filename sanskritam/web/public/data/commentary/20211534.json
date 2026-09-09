@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211534,
+    "chapter_id": 7786,
+    "verse_number": "६५",
+    "content_sanskrit": "घूर्ण्",
+    "padaccheda": "घूर्णँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "भ्रमणे",
+    "meaning_english": "to move, to roam around",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211534,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भूवाद्योः घुणिघूर्ण्योः स्तां घोर्णते घूर्णते शपि । भ्रमणेत्र तुदाद्योः शे स्यातां घुणति घूर्णति ' (श्लो. 19) इति देवः ।"
+    }
+  ]
+}

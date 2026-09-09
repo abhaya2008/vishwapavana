@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213421,
+    "chapter_id": 7799,
+    "verse_number": "८७",
+    "content_sanskrit": "किसलयहृदयेन्द्रियोत्तरीयाणि नपुंसके",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213421,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् ।"
+    }
+  ]
+}

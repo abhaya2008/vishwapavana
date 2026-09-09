@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211019,
+    "chapter_id": 7781,
+    "verse_number": "१०२०",
+    "content_sanskrit": "खन्",
+    "padaccheda": "खनुँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "अवदारणे",
+    "meaning_english": "to dig",
+    "audio_url": null,
+    "display_order": 1020,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211019,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — उत्खनन करना, खोदना, जमीन में गढ्ढा बनाना"
+    }
+  ]
+}

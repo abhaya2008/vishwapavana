@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210552,
+    "chapter_id": 7781,
+    "verse_number": "५५३",
+    "content_sanskrit": "दय्",
+    "padaccheda": "दयँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दानगतिरक्षणहिंसाऽदानेषु",
+    "meaning_english": "to accept, to recieve, to obtain, to go, to protect, to kill, to hurt, to injure, to accept, to take",
+    "audio_url": null,
+    "display_order": 553,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210552,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आदानम् = ग्रहणम् ।"
+    }
+  ]
+}

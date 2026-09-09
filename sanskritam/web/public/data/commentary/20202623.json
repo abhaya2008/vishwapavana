@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202623,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१८४",
+    "content_sanskrit": "नृ चान्यतरस्याम्",
+    "padaccheda": "नृ । च । अन्यतरस्याम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 184,
+    "avatarnika": "अनुवृत्तिः — उदात्तः (६.१.१५९), अन्तः (६.१.१५९), विभक्तिः (६.१.१६८), अन्यतरस्याम् (६.१.१७७), नाम् (६.१.१७७), न (६.१.१८२), झल् (६.१.१८३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202623,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नृ इत्येतस्मात् परा झलादिर्विभक्तिरन्यतरस्यां नोदात्ता भवति। नृभ्या॑म्। नृभिः॑ (ऋ० १०.१४७.४)। नृभ्यः॒ (ऋ० १.४३.२)। नृषु॒ (ऋ० १.१८०.८)। झलित्येव — न्रा। न्रे॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202623,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नुः परा झलादिर्विभक्तिर्वोदात्ता । नभिर्येमानः (नृभि॑र्येमा॒नः) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202623,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "नृशब्दात्? <<सावेकाचस्तृतीयादिर्विभक्तिः>> [[6.1.168]]  इति, `न गोआन्सावर्ण` [[6.1.176]]  इति नित्ये प्रतिषेधे च प्राप्ते विभाषेयमारभ्यते॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202623,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नृशब्दात् झलादिः सुब् नोदात्तो वा स्यात् । नृभिः सोम प्रप्यः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202623,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After नृ , a case-ending beginning with भ or स is optionally unaccented.\nThus नृ꣡भिः or नृभिः꣡, नृभ्यः꣡, नृभ्यः꣡, नृ꣡भ्याम्, नृभ्या꣡म् , नृ꣡षु, नृषु꣡ ॥ But not so श्रा꣡, त्रे꣡ ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202623,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After नृ , a case-ending beginning with भ or स is optionally unaccented."
+    }
+  ]
+}

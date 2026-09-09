@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210544,
+    "chapter_id": 7781,
+    "verse_number": "५४५",
+    "content_sanskrit": "क्रम्",
+    "padaccheda": "क्रमुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पादविक्षेपे",
+    "meaning_english": "to walk,to step,to go ahead,to cross,to leap,to ascend, to protect, to approach",
+    "audio_url": null,
+    "display_order": 545,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210544,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — घूमना, चक्कर लगाना, सङ्क्रमण करना, राशी में प्रवेश करना, "
+    },
+    {
+      "id": 2,
+      "verse_id": 20210544,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पदविक्षेपे ' इति कुत्रचित् पाठः । पादविक्षेपः = पादन्यासः ।"
+    }
+  ]
+}

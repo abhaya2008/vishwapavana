@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213533,
+    "chapter_id": 7800,
+    "verse_number": "१०",
+    "content_sanskrit": "छन्दसि च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213533,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अस्वाङ्गार्थमिदम् । दक्षिणः । इह पर्यायेणाद्यन्तावुदात्तौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210841,
+    "chapter_id": 7781,
+    "verse_number": "८४२",
+    "content_sanskrit": "द्युत्",
+    "padaccheda": "द्युतँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to glow, to illumine",
+    "audio_url": null,
+    "display_order": 842,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210841,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — अत्यंत प्रकाशित होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210841,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रायेण अयं विपूर्वकः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212149,
+    "chapter_id": 7790,
+    "verse_number": "४००",
+    "content_sanskrit": "पत",
+    "padaccheda": "पत",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to fall down, to go down, to descend, to go",
+    "audio_url": null,
+    "display_order": 400,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212149,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ' गत्यर्थे पतयेत् पतेत् ' (श्लो. 95) इति देवः ।"
+    }
+  ]
+}

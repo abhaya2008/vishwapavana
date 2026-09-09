@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211323,
+    "chapter_id": 7784,
+    "verse_number": "५५",
+    "content_sanskrit": "वृत्",
+    "padaccheda": "वृतुँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "वरणे",
+    "meaning_english": "to choose, to like, to serve, to do employment",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211323,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " केचित् पूर्वत्र वाग्रहणमस्यादिं पठित्वा (कृत्वा) ' वावृतु वरणे ' इत्याहुः ' इति धा.का.व्याख्या (2.60) । विषयेस्मिन् कृदन्तरूपमालायां ' वावृतु वरणे ' इत्यत्र (1590) बहवः विषयाः निरूपिताः ।"
+    }
+  ]
+}

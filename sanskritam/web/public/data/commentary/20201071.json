@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201071,
+    "chapter_id": 7759,
+    "verse_number": "३.३.११५",
+    "content_sanskrit": "ल्युट् च",
+    "padaccheda": "ल्युट् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), नपुंसके (३.३.११४), भावे (३.३.११४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201071,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नपुंसकलिङ्गे भावे धातोर्ल्युट् प्रत्ययो भवति। हसनं छात्रस्य। शोभनम्। जल्पनम्। शयनम्। आसनम्। योगविभाग उत्तरार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201071,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हसितम् । हसनम् । योगविभागः उत्तरार्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201071,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "हसितम्, हसनम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201071,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`योगविभाग उत्तरार्थः`इति। उत्तरत्र ल्युट एवानुवृत्तिर्यथा स्यात्, क्तस्य मा भूत्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201071,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "योगविभाग उतरार्थ इति । उतरत्र ल्युट एवानुवृत्तिर्यथा स्यात्, क्तस्य मा भूदित्येवमर्थम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201071,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नपुंसके भावे ल्युट् स्यात् । योरनः । पचनम् । सवर्णदीर्घः । यानम् । मानम् । <karika>महाभाष्यकृता कोऽसावनुमान इतीरणात् । ल्युडन्तोऽपि न पुंल्लिङ्गो मानशब्दः प्रदुष्यति ॥ १६१ ॥</karika> इति भोजः । गॄ । गुणः । णत्वम् । निगरणम् । 'अचि विभाषा (८-२-२१) इति लत्वे निगलनम् । 'टुवम उद्गिरण' इति धातुपाठे निपातनादित्वमपीति केचित् । गिरणं गिलनम् । कुचेः कुटादित्वेऽपि 'कुच सङ्कोचन' इति धातूक्तेर्ल्युटि गुणः । नुम्व्यवाये णत्वम् । बृहि । बृंहणम् । अनुम्यनुस्वारमात्रेऽपि । 'तृहू हिंसायाम्' । तृहणम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201071,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ल्युट् is added to the root when the name of an action is expressed, in the neuter gender.\nThus हसनं छात्रस्य 'the laughter of the student'; शोभनं 'beauty'; जल्पनं 'speech'; शयनं 'sleep'; आसनम् 'seat'.\n\nThe separation of this <i>sutra</i> from the last, in which it might well have been included, is for the sake of the subsequent aphorisms, in which the <i>anuvritti</i> of <i>lyut</i> only runs, and not that of क्त ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201071,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ल्युट् is added to the root when the name of an action is expressed, in the neuter gender."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201071,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तेषां प्रायोपवेशनम् (भट्टिकाव्यम् 7.79) — `ल्युट् च` इति भावे ल्युट्।"
+    }
+  ]
+}

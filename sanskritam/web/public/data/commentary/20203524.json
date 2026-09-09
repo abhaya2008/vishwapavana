@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203524,
+    "chapter_id": 7776,
+    "verse_number": "७.४.८",
+    "content_sanskrit": "नित्यं छन्दसि",
+    "padaccheda": "नित्यम् । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": "अनुवृत्तिः — णौ (७.४.१), चङि (७.४.१), ऋत् (७.४.७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203524,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसि विषये णौ चङि उपधाया ऋवर्णस्य स्थाने ऋकरादेशो भवति नित्यम्। अवीवृधत् पुरोडाशेन। अवीवृधताम्। अवीवृधन्।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203524,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "छन्दसि विषये चङ्युपधाया ऋवर्णस्य ऋन्नित्यम् । अवीवृधत् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203524,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अवीवृधत्` इति। `वृधु वृद्धौ` (धातुपाठः-759) हेतुमाण्णिच्, ततो लुङादिः। नित्यग्रहणं पूर्वसूत्रे वेत्येतदनुवृत्तेर्विज्ञापनार्थम्; अन्यथा हि तत्राप्यस्याननुवृत्तिर्विज्ञायेत॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203524,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "चङ परे णौ परे ऋवर्णस्य ऋकारो नित्यं स्यात् । अवीवृधत् । लोके ह्यववर्धदित्यपि स्यात् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203524,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Short ऋ is invariably substituted in the छन्दस् (Vedas) for the penultimate ऋ or ॠ of a Causative अङ्ग (stem) in the reduplicated Aorist.\nAs अवीवृधत्, अवीवृधताम् and अवीवृधन् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203524,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Short ऋ is invariably substituted in the छन्दस् (Vedas) for the penultimate ऋ or ॠ of a Causative अङ्ग (stem) in the reduplicated Aorist."
+    }
+  ]
+}

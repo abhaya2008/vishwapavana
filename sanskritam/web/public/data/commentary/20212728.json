@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212728,
+    "chapter_id": 7793,
+    "verse_number": "५१",
+    "content_sanskrit": "द्रुदक्षिभ्यामिनन्",
+    "padaccheda": "",
+    "anvaya": "इनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212728,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "द्रविणम् । दक्षिणः । दक्षिणा ।"
+    }
+  ]
+}

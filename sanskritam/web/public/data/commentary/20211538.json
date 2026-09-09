@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211538,
+    "chapter_id": 7786,
+    "verse_number": "६९",
+    "content_sanskrit": "मुर्",
+    "padaccheda": "मुरँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "संवेष्टने परिवेष्टने च",
+    "meaning_english": "to surround, to cover",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211538,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " परिवेष्टने ' इति मा.धा.वृत्तौ ।"
+    }
+  ]
+}

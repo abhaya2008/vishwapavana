@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210918,
+    "chapter_id": 7781,
+    "verse_number": "९१९",
+    "content_sanskrit": "स्मृ",
+    "padaccheda": "स्मृ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आध्याने",
+    "meaning_english": "to remember,to recollect,to think upon,to recite mentally,to memorize",
+    "audio_url": null,
+    "display_order": 919,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210918,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — भूलना, विस्मृत होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210918,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चिन्तायां पठिष्यमाणस्य आध्याने (उत्कण्ठापूर्वकस्मरणे) मित्त्वार्थोनुवादः ' इति कौमुदी ।"
+    }
+  ]
+}

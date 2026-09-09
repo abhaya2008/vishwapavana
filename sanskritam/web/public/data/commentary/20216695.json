@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216695,
+    "chapter_id": 7843,
+    "verse_number": "७०",
+    "content_sanskrit": "सन्दिग्धसाध्यवान् पक्षः । यथा-धूमवत्वे हेतौ पर्वतः ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": "पक्षः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216695,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "सन्दिग्धेति । अथ पृथिवी मात्रस्य पक्षत्वाद् इत्यत्र किं नाम पक्षता ? इत्यपेक्षायामाह सन्दिग्धेति । सपक्षवारणाय सन्दिग्धेति ।"
+    }
+  ]
+}

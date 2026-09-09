@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212061,
+    "chapter_id": 7790,
+    "verse_number": "३१२",
+    "content_sanskrit": "वृत्",
+    "padaccheda": "वृतुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to shine, to glow",
+    "audio_url": null,
+    "display_order": 312,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212061,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भासार्थः ' इति क्षीरस्वामिशाकटायनादयः । ' दीप्तौ ' इति वोपदेवः । ' तथा क्षीरस्वामी - भासादीप्तिरर्थे येषां ते भासार्थाः ' इति मा.धा.वृत्तौ । क्षीरतरङ्गिण्यां तु अयं पाठः न उपलभ्यते । ' वर्तयेद् भाषणार्थे णौ वर्तने शपि वर्तते ' (श्लो. 96) - देवः ।"
+    }
+  ]
+}

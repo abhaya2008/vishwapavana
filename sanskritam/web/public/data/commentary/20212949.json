@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212949,
+    "chapter_id": 7794,
+    "verse_number": "१४९",
+    "content_sanskrit": "इणस्तशन्तशसुनौ",
+    "padaccheda": "",
+    "anvaya": "तशन्, तशसुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212949,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतशो ब्राह्मणः । स एव एतशाः ।"
+    }
+  ]
+}

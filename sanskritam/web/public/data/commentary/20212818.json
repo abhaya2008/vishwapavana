@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212818,
+    "chapter_id": 7794,
+    "verse_number": "१८",
+    "content_sanskrit": "तिजेर्दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "क्स्न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212818,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तीक्ष्णम् ।"
+    }
+  ]
+}

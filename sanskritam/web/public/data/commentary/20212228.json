@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212228,
+    "chapter_id": 7790,
+    "verse_number": "४७९",
+    "content_sanskrit": "रूप",
+    "padaccheda": "रूप",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "रूपक्रियायाम्",
+    "meaning_english": "to create a shape, to formulate, to create a mental picture",
+    "audio_url": null,
+    "display_order": 479,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212228,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — स्पष्ट बोलना, समझाके कहना, निरूपण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212228,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।  रूपस्य दर्शनं करणं वा रूपक्रिया । रूपक्रिया = राजमुद्रादिरूपस्य करणम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212669,
+    "chapter_id": 7792,
+    "verse_number": "१४९",
+    "content_sanskrit": "अशूप्रुषिलटिकणिखटिविशिभ्यः क्वन्",
+    "padaccheda": "",
+    "anvaya": "क्वन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212669,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अश्वः । प्रुष स्नेहनादौ । प्रुष्वः स्यादृतुसूर्ययोः । प्रुष्वा जलकणिका । लट्वा पक्षिभेदः फलं च । कण्वं पापम् । बाहुलकादित्वे किण्वमपि । खट्वा । विश्वम् ।"
+    }
+  ]
+}

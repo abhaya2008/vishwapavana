@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212057,
+    "chapter_id": 7790,
+    "verse_number": "३०८",
+    "content_sanskrit": "लोच्",
+    "padaccheda": "लोचृँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 308,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212057,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णौ लोचयति भाषार्थे दर्शने शपि लोचते ' (श्लो. 46) - देवः ।"
+    }
+  ]
+}

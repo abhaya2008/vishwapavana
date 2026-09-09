@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210240,
+    "chapter_id": 7781,
+    "verse_number": "२४१",
+    "content_sanskrit": "स्फूर्छ्",
+    "padaccheda": "स्फुर्छाँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विस्तृतौ",
+    "meaning_english": "to expand, to spread",
+    "audio_url": null,
+    "display_order": 241,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210240,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विस्मृतौ ' इति धातुकाव्यव्याख्या (1.29) ' स्मुर्च्छा ' इति स्वामी ।"
+    }
+  ]
+}

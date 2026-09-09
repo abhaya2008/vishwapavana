@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212646,
+    "chapter_id": 7792,
+    "verse_number": "१२६",
+    "content_sanskrit": "अण्डन्कृसृभृवृञः",
+    "padaccheda": "",
+    "anvaya": "अण्डन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212646,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "करण्डः । सरण्डः पक्षी । भरण्डः स्वामी । वरण्डो मुखरोगः ।"
+    }
+  ]
+}

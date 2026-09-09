@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202763,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१०१",
+    "content_sanskrit": "न हास्तिनफलकमार्देयाः",
+    "padaccheda": "न । हास्तिन-फलक-मार्देयाः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), अन्तः (६.२.९२), पुरे (६.२.९९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202763,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "हास्तिन फलक मार्देय इत्येतानि पूर्वपदानि पुरशब्द उत्तरपदे नान्तोदात्तानि भवन्ति। <<पुरे प्राचाम्>> [[६.२.९९]] इति प्राप्तिः प्रतिषिध्यते। हा॒स्ति॒न॒पु॒रम्। फ॒ल॒क॒पु॒रम्। मा॒र्दे॒य॒पु॒रम्। मृदोरपत्यं मार्देयः। शुभ्रादित्वाद् ढक् [[४.१.१२३]]॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202763,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पुरे परे नैतान्यन्तोदात्तानि । हास्तिनपुरम् । फलकपुरम् । मार्देयपुरम् । मृदेरपत्यमिति शुभ्रादित्वाड्ढक् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202763,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मार्देअय इति । ढेअलोपोऽकद्र्वाः इत्युकारलोपः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202763,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एते प्राग्देशजत्वेऽपि पुरेऽन्तोदात्ता न स्युः । हास्तिनपुरम् । फलकपुरम् । मार्वेयपुरम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202763,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "But when the words 1. हास्तिन 2. फलक and 3. मार्देय precede पुर , the acute accent (उदात्त) does not fall on their final.\nThis is an exception to [[6.2.99]]. Thus हास्तिनपुरम्, फलकपुरम्, मार्देयपुरम् ॥ The son of मृदु is मार्देय formed by ढक्, the word belonging to <i>Subhradi</i> class. The उ is elided by [[6.4.147]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202763,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "But when the words 1. हास्तिन 2. फलक and 3. मार्देय precede पुर , the acute accent (उदात्त) does not fall on their final."
+    }
+  ]
+}

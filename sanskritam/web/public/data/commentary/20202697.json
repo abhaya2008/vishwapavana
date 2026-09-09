@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202697,
+    "chapter_id": 7770,
+    "verse_number": "६.२.३५",
+    "content_sanskrit": "संख्या",
+    "padaccheda": "संख्या",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), राजन्य-बहुवचन-द्वन्द्वे (६.२.३४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202697,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "द्वन्द्वसमासे संख्यावाचि पूर्वपदं प्रकृतिस्वरं भवति। एका॑दश (तै० सं० ४.७.११.१)। द्वाद॑श। त्र॒योद॑श। <<इण्भीकापाशल्यतिमर्चिभ्यः कन्>> (प०उ० ३.४३) इति नित्त्वादाद्युदात्त एकशब्दः। त्रेस्त्रयस् आदेशोऽन्तोदात्तो निपात्यते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202697,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "संख्यावाचि पूर्वपदं प्रकृत्या द्वन्द्वे । द्वादश । त्रयोदश । त्रेस्त्रयसादेश आद्युदात्तो निपात्यते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202697,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`एकादश` इति। एकश्च दश चेति द्वन्द्वः। `द्वादश` इति द्व्यष्टनः संख्यायामबहुव्रीह्रशीत्योः  [[6.3.46]]  इत्यात्तवम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202697,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "एकादशोति । सङ्ख्याया अल्पीयस्याः इत्येकशब्दस्य पूर्वनिपातः, प्रागेकादशभ्यो च्छन्दसि इति निपातनाद्दीर्घः । द्वादशेति। द्व्यष्टनः सङ्ख्यायाम् इत्यात्वम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202697,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "संख्यार्थं प्राक्पदं प्रकृत्या स्यात् । दिव्यैकादश(स्थ?) क्नि एकः द्वादश प्रधयः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202697,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The numeral word standing as the first member of a द्वन्द समास , preserves its accent.\nThus ए꣡कादश, द्वा꣡दश, त्र꣡योदश or त्रयोद꣡श ॥ The word एक is derived from इण् by कन् affix (<i>Unadi</i> III.43) and has acute on the first [[6.1.197]]. The त्रयस् is the substitute of  त्रि [[6.3.48]] and has acute on the final."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202697,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The numeral word standing as the first member of a द्वन्द समास , preserves its accent."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212513,
+    "chapter_id": 7791,
+    "verse_number": "२५५",
+    "content_sanskrit": "पति । गण । पुत्र ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 255,
+    "avatarnika": "पत्यादिः (8.2.70)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212513,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "अहरादीनां पत्यादिषु वा रेफः"
+    }
+  ]
+}

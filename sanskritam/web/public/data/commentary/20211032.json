@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211032,
+    "chapter_id": 7781,
+    "verse_number": "१०३३",
+    "content_sanskrit": "लष्",
+    "padaccheda": "लषँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "कान्तौ",
+    "meaning_english": "to wish, to desire",
+    "audio_url": null,
+    "display_order": 1033,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211032,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कान्तौ लष्यति लष्येत श्यनि वा लषते लषेत् ' (श्लो. 177) इति देवः । कान्तिः = इच्छा ।"
+    }
+  ]
+}

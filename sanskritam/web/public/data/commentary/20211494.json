@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211494,
+    "chapter_id": 7786,
+    "verse_number": "२५",
+    "content_sanskrit": "लुभ्",
+    "padaccheda": "लुभँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विमोहने",
+    "meaning_english": "to be confused, to lose senses, to act weird",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211494,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विमोहनम् = व्याकुलीकरणम् ' इति क्षीरस्वामी । ' गार्ध्ये लुभ्यति मोहार्थे तुदादेर्लुभतीति शे ' (श्लो. 141) इति देवः ।"
+    }
+  ]
+}

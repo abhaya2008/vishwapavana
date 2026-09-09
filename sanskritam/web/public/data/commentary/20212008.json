@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212008,
+    "chapter_id": 7790,
+    "verse_number": "२५९",
+    "content_sanskrit": "भज्",
+    "padaccheda": "भजँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "विश्राणने",
+    "meaning_english": "to give, to donate, to cook, to make readm to prepare food, to segregate",
+    "audio_url": null,
+    "display_order": 259,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212008,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विश्राणनम् = दानम् । ' सेवायां भजते भजेदिति भजेः विश्राणने भाजयेद्..भाजयेद' (श्लो. 65) इति देवः ।"
+    }
+  ]
+}

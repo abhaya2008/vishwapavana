@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213156,
+    "chapter_id": 7795,
+    "verse_number": "१९६",
+    "content_sanskrit": "उदके नुट् च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 196,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213156,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अर्तेरसुन् स्यात्तस्य च नुट् । अर्णः । अर्णसी ।"
+    }
+  ]
+}

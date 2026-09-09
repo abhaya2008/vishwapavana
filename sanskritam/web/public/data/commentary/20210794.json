@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210794,
+    "chapter_id": 7781,
+    "verse_number": "७९५",
+    "content_sanskrit": "मिष्",
+    "padaccheda": "मिषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेचने",
+    "meaning_english": "to sprinkle",
+    "audio_url": null,
+    "display_order": 795,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210794,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सेवने ' इति धा. काव्यम् । (1 - 87 ) ' सेचने मेषतीति स्यात् , स्पर्धायां मिषतीति शे ' (श्लो. 174) इति देवः ।"
+    }
+  ]
+}

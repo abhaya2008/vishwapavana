@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213565,
+    "chapter_id": 7801,
+    "verse_number": "१९",
+    "content_sanskrit": "लघावन्ते द्वयोश्च बह्वषो गुरुः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213565,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्ते लघौ, द्वयोश्च लध्वोः सतोर्बह्वच्कस्य गुरुरुदात्तः । कल्याणः । कोलाहलः ॥"
+    }
+  ]
+}

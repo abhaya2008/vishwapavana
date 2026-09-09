@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201558,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१३१",
+    "content_sanskrit": "मद्रवृज्योः कन्",
+    "padaccheda": "मद्र-वृज्योः । कन्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201558,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "मद्रवृजिशब्दाभ्यां कन् प्रत्ययो भवति शैषिकः। जनपदवुञोऽपवादः। मद्रेषु जातो मद्रकः। वृजिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201558,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "जनपदवुञोऽपवादः । मद्रेषु जातो मद्रकः । वृजिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201558,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<मद्रवृज्योः कन्>> - मद्रवृज्योः कन् । मद्रो वृजिश्च जनपदविशेषः । जगपदवुञोऽपवादः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201558,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`जनपदवुञोऽपवादः`इति। <<अवृद्धादपि बहुवचनविषयात्>> [[4.2.125]]  इत्यादिप्राप्तस्य। मद्रवृज्योः कन्निति ञ्यन्तस्य परनिपातः <<द्वन्द्वे घि>> [[2.2.32]]  इत्यस्य विधेरनित्यत्वज्ञापनार्थम्। तेन धूमाग्नी इत्येवमादि सिद्धं भवति॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201558,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "मद्रशब्दः'स्फायितञ्चि'  इति रक्प्रत्ययान्तः,'वृजी वर्जने'  ठिगुपधात्किःऽ इति किप्रत्ययान्तो वृजिशब्दः । जनपदवुञोऽपवाद इति । ठवृद्धादपिऽ इति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201558,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "मद्रेषु जातादिर्मद्रकः वृजिकः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201558,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कन् comes in the remaining senses after the words 1. मद्र and 2. वृजि।\nThis debars वुञ्, though the words denote inhabited countries. Thus म꣡द्रकः 'born in <i>Madra</i>', वृ꣡जिकः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201558,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कन् comes in the remaining senses after the words 1. मद्र and 2. वृजि।"
+    }
+  ]
+}

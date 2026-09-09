@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213053,
+    "chapter_id": 7795,
+    "verse_number": "९३",
+    "content_sanskrit": "सिवेष्टेरू च",
+    "padaccheda": "",
+    "anvaya": "चट्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213053,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सूचो दर्भाङ्कुरः । सूची ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213601,
+    "chapter_id": 7803,
+    "verse_number": "१०",
+    "content_sanskrit": "त्वत्त्वसमसिमेत्यनुच्चानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213601,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्त॒रीरु॑ त्व॒त् । उ॒त त्वः॒ पश्य॑न् । नभ॑न्तामन्यके॒ स॑मे । सिम॑स्मै ॥"
+    }
+  ]
+}

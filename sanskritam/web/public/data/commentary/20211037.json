@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211037,
+    "chapter_id": 7781,
+    "verse_number": "१०३८",
+    "content_sanskrit": "भ्लक्ष्",
+    "padaccheda": "भ्लक्षँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "आदानसंवरणयोः",
+    "meaning_english": "to eat",
+    "audio_url": null,
+    "display_order": 1038,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211037,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भक्ष इति मैत्रेयः ' इति सिद्धान्तकौमुदी । ' प्लक्ष ' इति दुर्गः । तस्य अनार्षत्वम् उक्तं मा.धा.वृत्तौ । विस्तरस्तु तत्र, कृदन्तरूपमालायां वा द्रष्टव्यः ।"
+    }
+  ]
+}

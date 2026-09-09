@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213098,
+    "chapter_id": 7795,
+    "verse_number": "१३८",
+    "content_sanskrit": "अच इः",
+    "padaccheda": "",
+    "anvaya": "इ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 138,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213098,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रविः । पविः । तरिः । कविः । अरिः । अलिः ।"
+    }
+  ]
+}

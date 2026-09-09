@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211564,
+    "chapter_id": 7786,
+    "verse_number": "९५",
+    "content_sanskrit": "कुच्",
+    "padaccheda": "कुचँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "सङ्कोचने",
+    "meaning_english": "to contract,to shrink, to shorten",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211564,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — आकुंचित करना या होना\nसम् — संकुचित करना या होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211564,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सङ्कोचः ह्रस्वीभवनम् । प्रायेण सम्पूर्वक एव अयं प्रयुज्यते । ' सङ्कोचे कुचतीति स्यात् काचेत् सम्पर्चनादिषु ' (श्लो. 54) इति देवः ।"
+    }
+  ]
+}

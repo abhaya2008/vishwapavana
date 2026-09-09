@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213444,
+    "chapter_id": 7799,
+    "verse_number": "११०",
+    "content_sanskrit": "ध्वजगजमुञ्जपुञ्जाः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213444,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते पुंसि । "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213550,
+    "chapter_id": 7801,
+    "verse_number": "४",
+    "content_sanskrit": "तृणधान्यानां च द्व्यषाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213550,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "द्व्यचामित्यर्थः । कुशाः । काशाः । माषाः । तिलाः । बह्वचां तु गोधूमाः ॥"
+    }
+  ]
+}

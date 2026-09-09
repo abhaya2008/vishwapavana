@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210479,
+    "chapter_id": 7781,
+    "verse_number": "४८०",
+    "content_sanskrit": "रम्फ्",
+    "padaccheda": "रफिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 480,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210479,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "केचित् हिंसार्थकत्वम् अस्य अङ्गीकुर्वन्ति इति क्षीरतरङ्गिणीतो ज्ञायते ।"
+    }
+  ]
+}

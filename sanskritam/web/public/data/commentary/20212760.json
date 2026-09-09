@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212760,
+    "chapter_id": 7793,
+    "verse_number": "८३",
+    "content_sanskrit": "धृषेर्धिष् च संज्ञायाम्",
+    "padaccheda": "",
+    "anvaya": "क्यु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212760,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "धिषणो गुरुः । धिषणा धीः ।"
+    }
+  ]
+}

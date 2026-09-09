@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212100,
+    "chapter_id": 7790,
+    "verse_number": "३५१",
+    "content_sanskrit": "तृप्",
+    "padaccheda": "तृपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "तृप्तौ सन्दीपने प्रीणने च",
+    "meaning_english": "to be satisfied, to be happy to satisfy, to make happy",
+    "audio_url": null,
+    "display_order": 351,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212100,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सन्दीपने ' इति क्षीरस्वामी । ' प्रीणने ' इति कविकल्पद्रुमे । ' तृप्तावन्यतरस्यां णौ स्यातां तर्पति तर्पयेत् ' (श्लो. 133) इति देवः ।"
+    }
+  ]
+}

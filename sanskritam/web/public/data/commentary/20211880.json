@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211880,
+    "chapter_id": 7790,
+    "verse_number": "१३१",
+    "content_sanskrit": "पुल्",
+    "padaccheda": "पुलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सङ्घाते",
+    "meaning_english": "to be great, to be large, to rise up, to be heaped up",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211880,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पूर्ण ' इत्येके । ' पुण ' इत्यन्ये । ' पूल ' इति मा.धा.वृत्ति: । ' सङ्घाते पूलयेत्पूलेत्पूलेस्स्तां णिशपोः क्रमात् ' (श्लो. 156) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210770,
+    "chapter_id": 7781,
+    "verse_number": "७७१",
+    "content_sanskrit": "लूष्",
+    "padaccheda": "लूषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भूषायाम्",
+    "meaning_english": "to decorate",
+    "audio_url": null,
+    "display_order": 771,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210770,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं धातुः सिद्धान्तकौमुद्यां स्वातन्त्र्येण पठितः । माधावीयधातुवृत्तौ ' मूष स्तेये ' इत्यत्र ' लूष इति सुधाकर ' इत्युक्तम् । क्षीरतरङ्गिण्यां तु ' लूषोपीति दुर्गः ' इति दृश्यते ।"
+    }
+  ]
+}

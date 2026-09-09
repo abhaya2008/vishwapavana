@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210647,
+    "chapter_id": 7781,
+    "verse_number": "६४८",
+    "content_sanskrit": "क्षीव्",
+    "padaccheda": "क्षीवुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "निरसने",
+    "meaning_english": "to spit",
+    "audio_url": null,
+    "display_order": 648,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210647,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मैत्रेयसम्मतः पाठोयम् ' इति मा.धा. वृत्तितः ज्ञायते । ' क्षिवु ' इति तत्वबोधिनी । ' क्षेवु ' इति चन्द्रः ।"
+    }
+  ]
+}

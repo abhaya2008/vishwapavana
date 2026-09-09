@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210633,
+    "chapter_id": 7781,
+    "verse_number": "६३४",
+    "content_sanskrit": "धोर्",
+    "padaccheda": "धोरृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतिचातुर्ये",
+    "meaning_english": "to go quickly,to run,to trot,to be skillful",
+    "audio_url": null,
+    "display_order": 634,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210633,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' धोरितकम् अश्वानां गतिविशेषः ' इति बालमनोरमा ।"
+    }
+  ]
+}

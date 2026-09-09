@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202701,
+    "chapter_id": 7770,
+    "verse_number": "६.२.३९",
+    "content_sanskrit": "क्षुल्लकश्च वैश्वदेवे",
+    "padaccheda": "क्षुल्लकः । च । वैश्वदेवे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), महान् (६.२.३८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202701,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "क्षुल्लक इत्येतत् पूर्वपदं महांश्च वैश्वदेव उत्तरपदे प्रकृतिस्वरं भवति। क्षु॒ल्ल॒कव॑ैश्वदेवम्। म॒हाव॑ैश्वदेवम्। क्षुयं लातीति क्षुल्लः। तस्मादज्ञातादिषु प्रागिवात् केऽन्तोदात्तः क्षुल्लकशब्दः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202701,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चान्महान् । क्षुल्लकवैश्वदेवम् । महावैश्वदेवम् । क्षुधं लातीति क्षुल्लः । तस्मादज्ञातादिषु केऽन्तोदात्तः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202701,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`क्षुधं लातीति क्षुल्लः` इति। <<आतोऽनुपसर्गे कः>> [[3.2.3]]  इति कप्रत्ययः। `तोर्लि`  [[8.4.59]]  इति परसवर्णः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202701,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "क्षुधं लातीति क्षुल्लः। आतोऽनुपसर्ग कः, तोर्लि इति परसवर्णः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202701,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मिन्परे क्षुल्लको महांश्च प्रकृत्या स्यात् । क्षुल्लकवैश्वदेवम् । क्षुल्लात् *कः । महावैश्वदेवम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202701,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words महत् and क्षुल्लक retain their accent before the word वैश्वदेव।\nThus महा꣡वैश्वदेवम्, and क्षुल्लक꣡वैश्वदेवम् ॥ The word <i>kshullaka</i> is derived thus क्षुधं लाति = क्षुल्लः to which the Diminutive क [[5.3.73]]&c)) is added : and the word has <i>udatta</i> on the final."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202701,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words महत् and क्षुल्लक retain their accent before the word वैश्वदेव।"
+    }
+  ]
+}

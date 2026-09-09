@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212558,
+    "chapter_id": 7792,
+    "verse_number": "३८",
+    "content_sanskrit": "मन्दिवाशिमथिचतिचङ्क्यङ्किभ्य उरच्",
+    "padaccheda": "",
+    "anvaya": "उरच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212558,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मन्दुरा वाजिशाला । वाशुरा रात्रिः । मथुरा । चतुरः । चङ्कुरो रथः । अङ्कुरः । खर्जूरादित्वादङ्कूरोऽपि ।"
+    }
+  ]
+}

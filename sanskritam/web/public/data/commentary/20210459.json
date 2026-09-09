@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210459,
+    "chapter_id": 7781,
+    "verse_number": "४६०",
+    "content_sanskrit": "स्तुभ्",
+    "padaccheda": "ष्टुभुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "स्तम्भे",
+    "meaning_english": "to stop,to hinder,to become stiff,  to paralyze,to fix firmly",
+    "audio_url": null,
+    "display_order": 460,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210459,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्तुप ' इति दुर्गः । ' ष्टूप ' इति केचित् ।"
+    }
+  ]
+}

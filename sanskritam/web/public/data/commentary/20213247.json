@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213247,
+    "chapter_id": 7796,
+    "verse_number": "४९",
+    "content_sanskrit": "जीर्यतेः क्रिन् रश्च वः",
+    "padaccheda": "",
+    "anvaya": "क्रिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213247,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जिव्रिः स्यात्कलपक्षिणोः । बहुलकात् [[8.2.77]] <<हलि च>> इति दीर्घो न ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211010,
+    "chapter_id": 7781,
+    "verse_number": "१०११",
+    "content_sanskrit": "मेध्",
+    "padaccheda": "मेधृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "मेधाहिंसनयोः सङ्गमे च",
+    "meaning_english": "to understand, to know, to hurt, to injure, to cause trouble, to join, to unite",
+    "audio_url": null,
+    "display_order": 1011,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211010,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चकारात् धातुपाठे पूर्वधातुगतं मेधाहिंसारूपम् अर्थद्वयम् विवक्षितम् ।"
+    }
+  ]
+}

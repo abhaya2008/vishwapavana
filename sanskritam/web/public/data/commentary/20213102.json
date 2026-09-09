@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213102,
+    "chapter_id": 7795,
+    "verse_number": "१४२",
+    "content_sanskrit": "कॄगॄशॄपॄकुटिभिदिछिदिभ्यश्च",
+    "padaccheda": "",
+    "anvaya": "इ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213102,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इः कित्स्यात् । किरिर्वराहः । गिरिर्गोत्राक्षिरोगयोः । गिरिणा काणः गिरिकाणः । शिरिः शलभो हन्ता च । पुरिर्नगरं राजा नदी च । कुटिः शाला शरीरं च । भिदिर्वज्रम् । छिदिः परशुः ।"
+    }
+  ]
+}

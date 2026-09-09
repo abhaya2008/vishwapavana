@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213212,
+    "chapter_id": 7796,
+    "verse_number": "१४",
+    "content_sanskrit": "सौ रमेः क्तो दमे पूर्वपदस्य च दीर्घः",
+    "padaccheda": "",
+    "anvaya": "क्त",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213212,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रमेः सुपूर्वाद्दमे वाच्ये क्तः स्यात् । कित्वादनुनासिकलोपः । सूरत उपशान्तो दयालुश्च ।"
+    }
+  ]
+}

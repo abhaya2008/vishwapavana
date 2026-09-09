@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212122,
+    "chapter_id": 7790,
+    "verse_number": "३७३",
+    "content_sanskrit": "प्री",
+    "padaccheda": "प्रीञ्",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "तर्पणे कान्तौ च",
+    "meaning_english": "to love, to satisfy, to desire, to wish, to be radiant",
+    "audio_url": null,
+    "display_order": 373,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212122,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रीङ् प्रीतौ प्रीयतेप्रीणात् प्रीणीते तर्पणे ञितः । अणौ यौ ञित्त्व - साफल्यात् प्रीणयेत् प्रयते प्रयेत् ' (श्लो. 19 - 20) - देवः ।"
+    }
+  ]
+}

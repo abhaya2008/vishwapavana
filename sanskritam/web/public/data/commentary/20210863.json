@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210863,
+    "chapter_id": 7781,
+    "verse_number": "८६४",
+    "content_sanskrit": "शृध्",
+    "padaccheda": "शृधुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "उन्दने शब्दकुत्सायाम् च",
+    "meaning_english": "to moisten, to wet, to fart",
+    "audio_url": null,
+    "display_order": 864,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210863,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दकुत्सा पायुशब्दः ' इति स्वामी । ' शर्धते शब्दकुत्सायाम् उन्दे शर्धति शर्धते ' ( श्लो. 118) इति देवः ।"
+    }
+  ]
+}

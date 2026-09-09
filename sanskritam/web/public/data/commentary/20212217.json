@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212217,
+    "chapter_id": 7790,
+    "verse_number": "४६८",
+    "content_sanskrit": "स्तोम",
+    "padaccheda": "स्तोम",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "श्लाघायाम्",
+    "meaning_english": "to praise, to boast, to cheer",
+    "audio_url": null,
+    "display_order": 468,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212217,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212019,
+    "chapter_id": 7790,
+    "verse_number": "२७०",
+    "content_sanskrit": "ध्रस्",
+    "padaccheda": "उँध्रसँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "उञ्छे",
+    "meaning_english": "to pick, to glean",
+    "audio_url": null,
+    "display_order": 270,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212019,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ध्रस्नाति ध्रासयत्युञ्छे पदे तु श्नि णिचि ध्रसेः ' (श्लो. 190) - देवः ।"
+    }
+  ]
+}

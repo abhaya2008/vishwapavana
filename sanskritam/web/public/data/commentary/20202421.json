@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202421,
+    "chapter_id": 7768,
+    "verse_number": "५.४.१४२",
+    "content_sanskrit": "छन्दसि च",
+    "padaccheda": "छन्दसि । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": "अनुवृत्तिः — बहुव्रीहौ (५.४.११३), दन्तस्य (५.४.१४१), दतृ (५.४.१४१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202421,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसि च दन्तशब्दस्य दतृ इत्ययमादेशो भवति समासान्तो, बहुव्रीहौ समासे। पत्रदतमालभेत। उ॒भ॒याद॑तः (ऋ० १०.९०.१०) आलभते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202421,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "दन्तस्य दतृशब्दः स्याद्बहुव्रीहौ । उभयतोदतः प्रतिगृह्णाति ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202421,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अवयोऽर्थम्, असंख्यापूर्वपदार्थञ्च वचनम्। `उभयतोदतः` इति। शासन्तमेतत्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202421,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For दन्त is substituted दत् in the छन्दस् (Vedas) when final in a बहुव्रीहि समास ।\nThus पत्रदन्तमालभेत, उभयदत आलभेत ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202421,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For दन्त is substituted दत् in the छन्दस् (Vedas) when final in a बहुव्रीहि समास ।"
+    }
+  ]
+}

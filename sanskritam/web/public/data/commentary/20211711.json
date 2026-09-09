@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211711,
+    "chapter_id": 7789,
+    "verse_number": "३३",
+    "content_sanskrit": "गॄ",
+    "padaccheda": "गॄ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound, to talk",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211711,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ज्ञाने गारयते, गिरेन्निगरणे, शब्दे गृणाति त्रयं युक्तं, ग्रो गरतीति सेकविषये ह्रस्वान्तधातोः शपि ' (श्लो. 33) इति देवः ।"
+    }
+  ]
+}

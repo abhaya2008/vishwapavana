@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210824,
+    "chapter_id": 7781,
+    "verse_number": "८२५",
+    "content_sanskrit": "मश्",
+    "padaccheda": "मशँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे रोषकृते गतौ च",
+    "meaning_english": "to make noise,to be angry, to tie, to bind, to go",
+    "audio_url": null,
+    "display_order": 825,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210824,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तालव्योष्मान्तः । ' शब्दने रोषक्रियायाञ्चार्थे ' इति क्षीरस्वामी । ' शब्दकोपयोः इति द्रुमोक्त्या रोषकृतम् = रोष एव ' इति धातुकाव्यव्याख्या । (1.90)"
+    }
+  ]
+}

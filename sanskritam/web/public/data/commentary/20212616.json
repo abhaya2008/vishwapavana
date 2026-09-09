@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212616,
+    "chapter_id": 7792,
+    "verse_number": "९६",
+    "content_sanskrit": "हृषेरुलच्",
+    "padaccheda": "",
+    "anvaya": "उलच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212616,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हर्षुलो मृगकामिनोः । बाहुलकाच्चटतेः । चटुलं शोभनम् ।"
+    }
+  ]
+}

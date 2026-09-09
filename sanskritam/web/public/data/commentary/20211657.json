@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211657,
+    "chapter_id": 7787,
+    "verse_number": "१४",
+    "content_sanskrit": "शिष्",
+    "padaccheda": "शिषॢँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "विशेषणे",
+    "meaning_english": "to distinguish,to criticize, to characterize",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211657,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विशेषणम् = उपरञ्जनम् ' इति दुर्गादासः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211218,
+    "chapter_id": 7782,
+    "verse_number": "५३",
+    "content_sanskrit": "ला",
+    "padaccheda": "ला",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "आदाने",
+    "meaning_english": "to accept, to obtain",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211218,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दाने ' इति चन्द्रः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215649,
+    "chapter_id": 7807,
+    "verse_number": "४२",
+    "content_sanskrit": "शब्दानुशासनमिदानीं कर्तव्यम् । किं शब्दोपदेशः कर्तव्यः, आहोस्विदपशब्दोपदेशः, आहोस्विदुभयोपदेश इति?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": "शास्त्रनिर्माणरीतिनिरूपणाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215649,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "<x> उभयोपदेश इति</x> । हेयोपादेयोपदेशे स्पष्टा प्रतिपत्तिर्भवति - इत्युभयोपदेश उद्भावितः ॥"
+    }
+  ]
+}

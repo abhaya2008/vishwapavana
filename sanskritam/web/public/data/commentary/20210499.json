@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210499,
+    "chapter_id": 7781,
+    "verse_number": "५००",
+    "content_sanskrit": "शुभ्",
+    "padaccheda": "शुभँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भाषणे भासने हिंसायां च",
+    "meaning_english": "to speak, to shine,to glow, to speak,to kill",
+    "audio_url": null,
+    "display_order": 500,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210499,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भासने इत्येके ' इति कौमुदी । क्षीरस्वामि - चन्द्र - जैन - कातन्त्र - हेमचन्द्रादयः न पठन्ति । ' हिंसाभाषणयोः शोभेत्, शोभार्थे शुभतीति शे ' (श्लो.143) इति देवः ।"
+    }
+  ]
+}

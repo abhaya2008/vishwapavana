@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213038,
+    "chapter_id": 7795,
+    "verse_number": "७८",
+    "content_sanskrit": "गडेश्च",
+    "padaccheda": "",
+    "anvaya": "ऊषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213038,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गण्डूषः । गण्डूषा ।"
+    }
+  ]
+}

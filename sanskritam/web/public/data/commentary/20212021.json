@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212021,
+    "chapter_id": 7790,
+    "verse_number": "२७२",
+    "content_sanskrit": "मुच्",
+    "padaccheda": "मुचँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रमोचने मोदने च",
+    "meaning_english": "to free,to liberate,to release,to loosen,to abandon,to grant,to give money",
+    "audio_url": null,
+    "display_order": 272,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212021,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मोदने च ' इति मा.धा.वृत्तौ सिद्धान्तकौमुद्यां च दृश्यते, न क्षीरतरङ्गिण्यादिषु । ' कल्कने मुञ्चते मुञ्चेर्मोक्षे मुञ्चति मुञ्चते । प्रमोचने चुरादेर्णौ मोचयत्येष न त्व्ऌदित् ' (श्लो. 47) इति देवः ।"
+    }
+  ]
+}

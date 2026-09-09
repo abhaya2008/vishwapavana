@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213437,
+    "chapter_id": 7799,
+    "verse_number": "१०३",
+    "content_sanskrit": "मानाभिधामनि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213437,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतानि पुंसि स्युः ।  कुडवः । प्रस्थः ।"
+    }
+  ]
+}

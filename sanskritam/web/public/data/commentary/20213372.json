@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213372,
+    "chapter_id": 7799,
+    "verse_number": "३८",
+    "content_sanskrit": "भयलिङ्गभगपदानि नपुंसके",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213372,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतानि नपुंसके स्युः । भयम् । लिङ्गम् । भगम् । पदम् ।"
+    }
+  ]
+}

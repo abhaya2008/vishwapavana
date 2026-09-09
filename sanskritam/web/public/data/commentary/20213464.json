@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213464,
+    "chapter_id": 7799,
+    "verse_number": "१३०",
+    "content_sanskrit": "परवत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213464,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्यस्तत्पुरुषः परवल्लिङ्गः स्यात् । रात्राह्नाहाः पुंसि । "
+    }
+  ]
+}

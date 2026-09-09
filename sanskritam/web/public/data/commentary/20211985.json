@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211985,
+    "chapter_id": 7790,
+    "verse_number": "२३६",
+    "content_sanskrit": "कुस्म्",
+    "padaccheda": "कुस्मँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "कुत्सितस्मये",
+    "meaning_english": "to smile inappropriately, to smile with an insult",
+    "audio_url": null,
+    "display_order": 236,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211985,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "\" कुस्म नाम्नः वा ' इति गणसूत्रम् । ' कुस्म ' इति धातुः कुत्सितस्मये वर्तते इति तस्य तात्पर्यम् । अथवा - ' कुस्म ' इति प्रातिपदिकम् । ततः धात्वर्थे णिच् \" इति सिद्धान्तकौमुदी । विषयेस्मिन् केचन विशेषांशाः कृदन्तरूपमालायाम् उक्ताः दृश्यन्ते ।"
+    }
+  ]
+}

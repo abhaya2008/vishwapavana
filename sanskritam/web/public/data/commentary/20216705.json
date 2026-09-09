@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216705,
+    "chapter_id": 7843,
+    "verse_number": "८०",
+    "content_sanskrit": "असिद्धस्त्रिविधः । आश्रयासिद्धः स्वरूपासिद्धो व्याप्यत्वासिद्धश्चेति ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": "असिद्धः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216705,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "असिद्धं विभजते असिद्ध इति । आश्रयासिद्धाद्यन्यतमत्वम् ।"
+    }
+  ]
+}

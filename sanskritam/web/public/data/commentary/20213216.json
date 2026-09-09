@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213216,
+    "chapter_id": 7796,
+    "verse_number": "१८",
+    "content_sanskrit": "हिंसेरीरन्नीरचौ",
+    "padaccheda": "",
+    "anvaya": "ईरन् , ईरच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213216,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हिंसीरो व्याघ्रदुष्टयोः ।"
+    }
+  ]
+}

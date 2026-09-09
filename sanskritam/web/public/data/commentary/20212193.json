@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212193,
+    "chapter_id": 7790,
+    "verse_number": "४४४",
+    "content_sanskrit": "शूर",
+    "padaccheda": "शूर",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "विक्रान्तौ",
+    "meaning_english": "to be powerful, to be courageous, to be brave, to have victory",
+    "audio_url": null,
+    "display_order": 444,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212193,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । आवर्गीयः । ' शूरयेतेति विक्रान्तौ, शूर्यते स्तम्भहिंसयोः ' (श्लो. 151) इति देवः ।"
+    }
+  ]
+}

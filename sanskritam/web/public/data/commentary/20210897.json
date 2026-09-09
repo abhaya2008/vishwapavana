@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210897,
+    "chapter_id": 7781,
+    "verse_number": "८९८",
+    "content_sanskrit": "सग्",
+    "padaccheda": "षगेँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "संवरणे",
+    "meaning_english": "to wrap, to cover, to conceal",
+    "audio_url": null,
+    "display_order": 898,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210897,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ष्ठगे ' इति क्वचित् पाठः ।"
+    }
+  ]
+}

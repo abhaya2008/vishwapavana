@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202651,
+    "chapter_id": 7769,
+    "verse_number": "६.१.२१२",
+    "content_sanskrit": "ङयि च",
+    "padaccheda": "ङयि । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 212,
+    "avatarnika": "अनुवृत्तिः — उदात्तः (६.१.१५९), आदिः (६.१.१९७), युष्मद्-अस्मदोः (६.१.२११)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202651,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "युष्मदस्मदोरिति वर्तते, आदिरुदात्त इति च। ङे इत्येतस्मिंश्च परतो युष्मदस्मदोरादिरुदात्तो भवति। तुभ्य॑म् (ऋ० २.३६.१)। मह्य॑म् (ऋ० १०.१२८.२)। पृथग्योगकरणं यथासंख्यशङ्कानिवृत्त्यर्थम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202651,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "तुभ्यं हिन्वानः (तुभ्यं॑ हिन्वा॒नः) । मद्यं वातः पवताम् (मद्यं॒ वातः॑पवताम्) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202651,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`तुभ्यम्, मह्रम्` इति। <<ङे प्रथमयोरम्>> [[7.1.28]]  इत्यम्भावः, `तुम्यमह्रौ ङयि`  [[7.2.95]]  इति युष्मदस्मदोस्तुभ्यमह्रावादेशौ। किमर्थं पृथगयं योगः क्रियते? इत्यत आह -`पृथग्योगकरणम्` इत्यादि। एकयोगे हि कार्यिणोः, निमित्तयोश्च समानत्वाद्यथासंख्यमत्र भवितव्यमिति कस्यचिदाशङ्का स्यात्। अतः पृथग्योगकरणं यथासंख्यनिरासार्थमिति प्रदर्शनार्थम्। ततश्चास्वरितत्वादेव यतासंख्यं न भविष्यति। आशङ्कातः कस्यचिन्मन्दबुद्धेः स्यादिति तन्निरासार्थं पृथग्योगकरणम्। अयमपि पूर्ववदेव विभक्तिस्वरापवादः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202651,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "तुभ्यम्, मह्यमिति।'णेó प्रथमयोरम्' ,'तुभ्यमह्याइ ङ्यि' । अथ किमर्थो योगविभागः, न'युष्मदस्मदोर्णेóङ्सोः'  इत्येवोच्येत, एवं हि चकारो न कर्तव्यो भवति ? अत आह -पृथग्योगकरणमिति। आशङ्काग्रहणेनास्वरितत्वादेव यथासंख्यं न भविष्यतीति शक्यं वक्तुमिति दर्शयति। अत्रापि पूर्ववद्विभक्तिस्वरः प्राप्तः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202651,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "(तं?) अनयोर्ङयि परे आदिरुदात्तः स्यात् । तुभ्यं दक्ष । मह्यं त्वादुः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202651,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The acute accent is on the first syllable of युष्मद् and अस्मद् in the Dative Singular.\nThus तु꣡भ्यम् and म꣡ह्यम्, the forms त and मे are not governed by this rule. The making of two separate <i>sutras</i> is for the sake of preventing the application of यथासंख्य rule [[1.3.10]]. Had the <i>sutra</i> been यु꣡ष्मदस्मदोर्ङिङणोः, then <i>yushmad</i> in the Dative, and <i>asmad</i> in the Genitive alone would have taken this accent."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202651,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The acute accent is on the first syllable of युष्मद् and अस्मद् in the Dative Singular."
+    }
+  ]
+}

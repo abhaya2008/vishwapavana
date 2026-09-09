@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213123,
+    "chapter_id": 7795,
+    "verse_number": "१६३",
+    "content_sanskrit": "अमिचिमिदिशसिभ्यः क्त्रः",
+    "padaccheda": "",
+    "anvaya": "क्त्र",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 163,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213123,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आन्त्रम् । दित्रम् । मित्रम् । शस्त्रम् ।"
+    }
+  ]
+}

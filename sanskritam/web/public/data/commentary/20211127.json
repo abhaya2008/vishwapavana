@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211127,
+    "chapter_id": 7781,
+    "verse_number": "११२८",
+    "content_sanskrit": "बध्",
+    "padaccheda": "बधँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "बन्धने चित्तविकारे च",
+    "meaning_english": "to bind,to restrain,to loathe,to hate, to criticize",
+    "audio_url": null,
+    "display_order": 1128,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211127,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "( बधेः चित्तविकारे सन् )"
+    }
+  ]
+}

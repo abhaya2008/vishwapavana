@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211269,
+    "chapter_id": 7784,
+    "verse_number": "१",
+    "content_sanskrit": "दिव्",
+    "padaccheda": "दिवुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "क्रीडाविजिगीषाव्यवहारद्युतिस्तुतिमोदमदस्वप्नकान्तिगतिषु",
+    "meaning_english": "to play, to gamble, to dice, to desire to win, to transact, to glow, to shine, to praise, to please, to boast, to sleep, to wish, to go",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211269,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " व्यवहारः = क्रयविक्रयादिः । यथासम्भवं सकर्मकत्वाकर्मकत्वे बोध्ये । ' अर्दने देवयेत्, दीव्येत् क्रीडादौ , परिकूजने । देवयेत , इदितो दिन्वेत् , देवेर्देवेत देवने ' (श्लो. 160-161) इति देवः ।"
+    }
+  ]
+}

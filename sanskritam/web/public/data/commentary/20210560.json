@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210560,
+    "chapter_id": 7781,
+    "verse_number": "५६१",
+    "content_sanskrit": "प्याय्",
+    "padaccheda": "ओँप्यायीँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वृद्धौ",
+    "meaning_english": "to grow,to increase,to expand",
+    "audio_url": null,
+    "display_order": 561,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210560,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रायेणायमाङ्पूर्वः ।"
+    }
+  ]
+}

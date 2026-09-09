@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203166,
+    "chapter_id": 7772,
+    "verse_number": "६.४.१६६",
+    "content_sanskrit": "संयोगादिश्च",
+    "padaccheda": "संयोगादिः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 166,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.४.१६३), इन् (६.४.१६४), अणि (६.४.१६४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203166,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "संयोगादिश्चेनणि प्रकृत्या भवति। शङ्खिनोऽपत्यं शाङ्खिनः। माद्रिणः। वाज्रिणः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203166,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "इन्प्रकृत्या स्यादणि परे । चक्रिणोऽपत्यं चाक्रिणः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203166,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<संयोगादिश्च>> - संयोगादिश्च । इन् प्रकृत्येति । 'इनण्यनपत्ये' इत्यतःप्रकृत्यैका॑जित्यतश्च तदनुवृत्तेरिति भावः । चाक्रिण इति । 'इण्यपत्ये' इत्यत्रानपत्ये इति पर्युदासादप्राप्तिः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203166,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अयमप्यपत्यार्थ आरम्भः। `शाङ्खिनः` इति। शङ्खमद्रवज्रशब्देभ्यो मत्वर्थे इतिः, तदन्तात्? पूर्ववदण्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203166,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अयमपत्यार्थ आरम्भः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203166,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "संयोगादिरिन् अणि प्रकृत्या स्यात् । वज्रिणः पुत्रो वाजिणः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203166,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The syllable इन् of a अङ्ग (stem) ending in इन् remains unchanged before अण् when a conjunct consonant precedes it.\nThus शाङ्किनेऽपत्यं = शाङ्किनः, याद्रिणः, वाज्जिणः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20203166,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The syllable इन् of a अङ्ग (stem) ending in इन् remains unchanged before अण् when a conjunct consonant precedes it."
+    }
+  ]
+}

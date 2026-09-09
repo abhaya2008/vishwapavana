@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212777,
+    "chapter_id": 7793,
+    "verse_number": "१००",
+    "content_sanskrit": "नयतेर्डिच्च",
+    "padaccheda": "",
+    "anvaya": "ऋ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212777,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ना । नरौ नरः ।"
+    }
+  ]
+}

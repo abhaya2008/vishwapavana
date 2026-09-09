@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212126,
+    "chapter_id": 7790,
+    "verse_number": "३७७",
+    "content_sanskrit": "तन्",
+    "padaccheda": "तनुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "श्रद्धोपकरणयोः",
+    "meaning_english": "to believe, to have faith, to provide shelter, to help, to sound, to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 377,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212126,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — सम्"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212126,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " उपसर्गाच्च दैर्घ्ये ' । ' चन श्रद्धोपहननयोः ' इत्येके । चानयति - चनति । ' श्रद्धोपकरणार्थस्य तनेस्तनति तानयेत् ' (श्लो. 127) इति देवः ।"
+    }
+  ]
+}

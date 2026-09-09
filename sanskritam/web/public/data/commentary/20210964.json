@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210964,
+    "chapter_id": 7781,
+    "verse_number": "९६५",
+    "content_sanskrit": "ज्वल्",
+    "padaccheda": "ज्वलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to blaze,to glow,to shine, to burn",
+    "audio_url": null,
+    "display_order": 965,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210964,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "ज्वलादिप्रयोजनं तु कृत्सु एव तथापि गणज्ञानाय अत्र ज्वलादित्वं निर्दिष्टम् । ' कस गतौ ' इत्यन्ताः ज्वलादयः । अयं धातुः घटादौ अपि अस्ति ।"
+    }
+  ]
+}

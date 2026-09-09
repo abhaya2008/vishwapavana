@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211200,
+    "chapter_id": 7782,
+    "verse_number": "३५",
+    "content_sanskrit": "द्यु",
+    "padaccheda": "द्यु",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "अभिगमने",
+    "meaning_english": "to assail,to attack, to advance towards",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211200,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " केचिदस्य सेट्त्वमिच्छन्ति ' इति धातुपारायणे । तत् ' उतां च रुस्नुवौ क्षुवं तथोर्णोतिमथो युणुक्ष्णुवः ' ति उकारान्तसेट्परिगणने पाठाभावात् इच्छामात्रम् ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

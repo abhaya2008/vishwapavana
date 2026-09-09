@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212825,
+    "chapter_id": 7794,
+    "verse_number": "२५",
+    "content_sanskrit": "स्तुवो दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "प",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212825,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्तूपः समुच्छ्रायः ।"
+    }
+  ]
+}

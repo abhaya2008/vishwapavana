@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211725,
+    "chapter_id": 7789,
+    "verse_number": "४७",
+    "content_sanskrit": "मन्थ्",
+    "padaccheda": "मन्थँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "विलोडने",
+    "meaning_english": "to churn,to shake,to agitate",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211725,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विलोटने ' इति पुरुषकारे (श्लो98) पाठः ।  ' हिंसासङ्क्लेशयोर्मन्थेत्, मथेन्मथ्नाति लोडने ' (श्लो.98) इति देवः ।"
+    }
+  ]
+}

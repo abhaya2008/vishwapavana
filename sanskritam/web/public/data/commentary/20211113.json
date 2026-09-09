@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211113,
+    "chapter_id": 7781,
+    "verse_number": "१११४",
+    "content_sanskrit": "रु",
+    "padaccheda": "रुङ्",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतिरेषणयोः",
+    "meaning_english": "to go, to move, to kill, to be angry, to cause pain",
+    "audio_url": null,
+    "display_order": 1114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211113,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अस्य सेट्-त्वम् इति तत्त्वबोधिनीका कारमतम् इति ज्ञायते । न्यासकारादयः अनिट् त्वं मन्यते । विस्तरस्तु कृदन्तरूपमालायां द्रष्टव्यः । रेषणं = हिंसा । ' गतिरोषणयोः ' इति कुत्रचित् दृष्टः पाठः । रेषणशब्दस्य वृकशब्दार्थत्त्वात् क्वचिदेव नेयमिति पुरुषकारः । ' रवते रौति शब्दने ' (श्लो. 23) इति देवः ।"
+    }
+  ]
+}

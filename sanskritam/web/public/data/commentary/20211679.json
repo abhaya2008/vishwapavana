@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211679,
+    "chapter_id": 7789,
+    "verse_number": "१",
+    "content_sanskrit": "क्री",
+    "padaccheda": "डुक्रीञ्",
+    "anvaya": "U-पदी, गणः 9",
+    "meaning_sanskrit": "द्रव्यविनिमये",
+    "meaning_english": "to buy, to purchase",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211679,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — बेचना"
+    }
+  ]
+}

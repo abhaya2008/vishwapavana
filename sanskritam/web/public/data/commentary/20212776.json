@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212776,
+    "chapter_id": 7793,
+    "verse_number": "९९",
+    "content_sanskrit": "दिवेर्ऋः",
+    "padaccheda": "",
+    "anvaya": "ऋ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212776,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "देवा देवरः । स्वामिनो देवृ देवरौ ।"
+    }
+  ]
+}

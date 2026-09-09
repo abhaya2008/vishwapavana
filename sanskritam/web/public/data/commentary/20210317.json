@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210317,
+    "chapter_id": 7781,
+    "verse_number": "३१८",
+    "content_sanskrit": "हेड्",
+    "padaccheda": "हेडृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अनादरे",
+    "meaning_english": "to disregard,to insult",
+    "audio_url": null,
+    "display_order": 318,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210317,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हेडतेनादरे हेडेर्वेष्टने हिडयेन्मिथः ' (श्लो.85) इति देवः ।"
+    }
+  ]
+}

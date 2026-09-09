@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212689,
+    "chapter_id": 7793,
+    "verse_number": "१२",
+    "content_sanskrit": "तिथपृष्ठगूथयूथप्रोथाः",
+    "padaccheda": "",
+    "anvaya": "थक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212689,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तिजेर्जलोपः । तिथोऽनलः कामश्च । पृष्ठम् । गूथं विष्ठा । यूथं समूहः । प्रोथमस्त्री तुरङ्गास्ये प्रोथः प्रस्थित उच्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211967,
+    "chapter_id": 7790,
+    "verse_number": "२१८",
+    "content_sanskrit": "शम्",
+    "padaccheda": "शमँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "आलोचने",
+    "meaning_english": "to publish, to advertise, to explain, to clarify",
+    "audio_url": null,
+    "display_order": 218,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211967,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आलोचने शामयते शाम्यत्युपशमे श्यनि ' (श्लो. 149) इति देवः ।"
+    }
+  ]
+}

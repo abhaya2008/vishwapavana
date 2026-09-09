@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201171,
+    "chapter_id": 7760,
+    "verse_number": "३.४.३९",
+    "content_sanskrit": "हस्ते वर्त्तिग्रहोः",
+    "padaccheda": "हस्ते । वर्त्ति-ग्रहोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६), करणे (३.४.३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201171,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "करण इत्येव। हस्त इत्यर्थग्रहणम्। वर्तिर्ण्यन्तः। हस्तवाचिनि करण उपपदे वर्तयतेर्गृह्णातेश्च णमुल् प्रत्ययो भवति। हस्तेन वर्तयति हस्तवर्तं वर्तयति। करवर्तम्। पाणिवर्तम्। ग्रहेः खल्वपि — हस्तेन गृह्णाति हस्तग्राहं गृह्णाति। करग्राहम्। पाणिग्राहम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201171,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हस्तार्थे करणे । हस्तवर्तं वर्तयति । करवर्तम् । हस्तेन गुलिकां करोतीत्यर्थः । हस्तग्राहं गृह्णाति । करग्राहम् । पाणिग्राहम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201171,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<हस्ते वर्त्तिग्रहोः>> - हस्ते । हस्त इत्यर्थग्रहणं, तदाह —  हस्तार्थे इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201171,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`वर्त्तिण्र्यन्तः` इति। निर्देशादेव वर्तेण्र्यन्तत्वं प्रतीयते॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201171,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "'जीवे ग्रहः, हस्ते च, वर्तेश्च'  इति नोक्तम्, तत्र कर्मोपपदम्, इह तु करणम् । वर्तिर्ण्यन्त इति । निर्देश एवात्र प्रमाणम् । हस्तवर्तं वर्तयतीति । हस्तेन वर्तयति, गुलिकां करोतीत्यर्थः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201171,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "हस्तार्थे करणे पूर्वेऽनयोर्णमुल् । वर्तेणिलोपः । हस्तवर्त्तं वर्त्तयत्यौपधं दण्डं वा । पाणिवर्त्तम् । हस्तेन गुलिकीकरोति भ्रमयति चेत्यर्थः । हस्तग्राहं गृह्णाति । करग्राहम् ।।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201171,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verbs वर्त्ति (the causative of वृत्) and ग्रह् 'to seize' when a word denoting 'hand' in the Instrumental -3rd case, is in composition.\nThus हस्तवर्ते, करवर्ते or पाणिवर्ते वर्तयति = हस्तेन वर्तयति 'he revolves by the hand'. So also, तम् हस्तग्राहम् गृह्णाति 'he takes him by the hand': so पाणिग्राहम्, करग्राहम् &c.\n\nHere also rule [[3.4.46]] applies and appropriate verbs from the same roots must be employed to govern the gerund."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201171,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the verbs वर्त्ति (the causative of वृत्) and ग्रह् 'to seize' when a word denoting 'hand' in the Instrumental -3rd case, is in composition."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201171,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "हस्त-वर्तमवीवृतत् (भट्टिकाव्यम् 15.37) — `हस्ते वर्ति- ग्रहो ः` इति णमुल्।"
+    }
+  ]
+}

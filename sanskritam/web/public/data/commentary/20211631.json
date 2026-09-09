@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211631,
+    "chapter_id": 7786,
+    "verse_number": "१६२",
+    "content_sanskrit": "नुद्",
+    "padaccheda": "णुदँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to inspire, to urge",
+    "audio_url": null,
+    "display_order": 162,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211631,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कर्त्रभिप्रायेपि फले परस्मैपदार्थः पुनः पाठः' इति कौमुदी ।"
+    }
+  ]
+}

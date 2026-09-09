@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213071,
+    "chapter_id": 7795,
+    "verse_number": "१११",
+    "content_sanskrit": "अघ्न्यादयश्च",
+    "padaccheda": "",
+    "anvaya": "यक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213071,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यगन्ता निपात्यन्ते । हन्तेर्युक् अडागम उपधालोपश्च । अघ्न्या माहेयी । अघ्न्यः प्रजापतिः । कनी दीप्तौ । कन्या । बवयोरैक्यम् । वन्ध्याः ।"
+    }
+  ]
+}

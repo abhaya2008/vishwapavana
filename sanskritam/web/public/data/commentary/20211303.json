@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211303,
+    "chapter_id": 7784,
+    "verse_number": "३५",
+    "content_sanskrit": "व्री",
+    "padaccheda": "व्रीङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "वृणोत्यर्थे",
+    "meaning_english": "to choose,to select,to find, to glean",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211303,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वरणे - आवरणे सामीप्ये ' इति काशकृत्स्नः । ' व्रीणाति वरणे तत्र व्रीङो व्रीयेत तु श्यनि ' (श्लो. 19) इति देवः । ' छादनं परिग्रहो वा तत् ' इति धा.का.व्या व्याख्यायाम् । (1.58)"
+    }
+  ]
+}

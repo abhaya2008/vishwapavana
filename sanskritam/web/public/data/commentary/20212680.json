@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212680,
+    "chapter_id": 7793,
+    "verse_number": "३",
+    "content_sanskrit": "अवे भृञः",
+    "padaccheda": "",
+    "anvaya": "कथन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212680,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अवभृथः ।"
+    }
+  ]
+}

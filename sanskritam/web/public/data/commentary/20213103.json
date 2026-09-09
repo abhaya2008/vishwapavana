@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213103,
+    "chapter_id": 7795,
+    "verse_number": "१४३",
+    "content_sanskrit": "कुडिकम्प्योर्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "इ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213103,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुडि दाहे । कुडिर्देहः । कपिः ।"
+    }
+  ]
+}

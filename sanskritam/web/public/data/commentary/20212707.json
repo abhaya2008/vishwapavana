@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212707,
+    "chapter_id": 7793,
+    "verse_number": "३०",
+    "content_sanskrit": "समि कस उकन्",
+    "padaccheda": "",
+    "anvaya": "उकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212707,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कस गतौ । सम्यक्कसन्ति पलायन्ते जना अस्मादिति सङ्कसुको दुर्जनः अस्थिरश्च ।"
+    }
+  ]
+}

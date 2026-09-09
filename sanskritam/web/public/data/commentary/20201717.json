@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20201717,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१४५",
+    "content_sanskrit": "गोश्च पुरीषे",
+    "padaccheda": "गोः । च । पुरीषे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१३४), विकारः (४.३.१३४), अवयवे (४.३.१३५), मयट् (४.३.१४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201717,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "गोशब्दात् पुरीषेऽभिधेये मयट् प्रत्ययो भवति। गोमयम्। पुरीष इति किम्? गव्यं पयः। पुरीषं न विकारो नाप्यवयवः, तस्येदंविषये विधानम्। विकारावयवयोस्तु गोपयसोर्यतं [[४.३.१६०]] वक्ष्यति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201717,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "गोः पुरीषं गोमयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201717,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "गोः पुरीषं गोमयम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201717,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<संज्ञायां कन्>> - संज्ञायां कन् । विकारविशेष इति । अपूप इत्यर्थः । तदाह — पूपोऽपूपः पिष्टकः स्यादिति । अमरकोशोऽयम् । पुरोडाशस्तु न पिष्टकः, तस्यानपूपत्वात् ।तुङ्गमनपूपाकृतिमआशफमात्रं पुरोडाशं करोती॑ति श्रुतेः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201717,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<गोश्च पुरीषे>> - गोस्च पुरीषे । पुरीषं न विकारो, नाप्यवयवः, तथापितस्येद॑ मित्यर्थेऽयं प्रत्ययः । विकारावयवोस्तु गोपयसोर्यतं वक्ष्यति । पुरीषे किम् । गव्यं पयः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201717,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`मयटोऽपवादःरट इति। पूर्वसूत्रेण प्राप्तस्य। ननु च संज्ञायां कनं वक्ष्यत्येव, तदपार्थकं तद्विधानम्? नैतदस्ति; स ह्रल्पादिष्वर्थेषु, अयं तु विकारे। तदिदं सार्थकम्; अर्थभेदात्॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201717,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "गव्यं पय इति । कथं पुनरत्र प्रसङ्गः, यावता विकारावयवयोरिति वर्तते, पयश्च न विकारो नाषयवः ? तत्राह - पुरीषं नं विकार इत्यादि । अक्रियमाणे पुरीषग्रहणे इष्टसिध्यर्थमेव'तस्येदम्'  इत्यधैकारे'गोर्मयट्'  इति सूत्रं कर्तव्यम्, ततश्चात्रापि प्रसङ्ग इत्यर्थः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201717,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "गोः पुरीषं गोमयम् ॥ अस्माद् विकारे नित्यं मयट् । पिष्टमयं हविः । पौष्टी सुरेति तु 'तस्येदम' (४-३-१२०) इत्यण् ।।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201717,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix मयट् comes after the word गो in the sense of 'its dung'.\nThus गोमयम् 'cow dung'. 'Dung' is neither a modification nor a part of cow.\nTherefore this separate <i>sutra</i> for गो ॥ Why do we say meaning 'its dung'? Observe गव्यं = milk. The affix यत् here comes in the sense of product or part. [[4.3.160]], though strictly speaking 'milk' also is not an '<i>avayava</i>' or a '<i>vikara</i>' of गो ॥"
+    },
+    {
+      "id": 10,
+      "verse_id": 20201717,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix मयट् comes after the word गो in the sense of 'its dung'."
+    }
+  ]
+}

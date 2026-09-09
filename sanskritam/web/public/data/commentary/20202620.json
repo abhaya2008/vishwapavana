@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202620,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१८१",
+    "content_sanskrit": "विभाषा भाषायाम्",
+    "padaccheda": "विभाषा । भाषायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 181,
+    "avatarnika": "अनुवृत्तिः — उदात्तः (६.१.१५९), अन्तः (६.१.१५९), विभक्तिः (६.१.१६८), अन्यतरस्याम् (६.१.१७७), नाम् (६.१.१७७), षट्-त्रि-चतुर्भ्यः (६.१.१७९), झलि (६.१.१८०), उपोत्तमम् (६.१.१८०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202620,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "षट्त्रिचतुर्भ्यो या झलादिर्विभक्ति स्तदन्ते पद उपोत्तममुदात्तं भवति विभाषा भाषायां विषये। प॒ञ्चभिः॑, प॒ञ्च॒भिः। स॒प्तभिः॑, स॒प्त॒भिः। ति॒सृभिः॑ ति॒सृ॒भिः। च॒तुर्भिः॑, च॒तु॒र्भिः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202620,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उक्तविषये ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202620,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "पूर्वेण नित्ये प्राप्ते विकल्पार्थं वचनम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202620,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एतदुदात्तत्वं लोके वा स्यात् । पञ्चभिः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202620,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the Secular language this is optional.\nThe झलादि case-affixes coming after the above numerals षट्, त्रि and चतुर् may make the words so formed take the acute on the penultimate optionally, in the spoken ordinary language. Thus पंच꣡भिः or पंचभिः꣡ ॥ In the alternative [[6.1.179]] applies. So also सप्तभिः or सप्तभिः꣡, तिसृ꣡भिः or तिसृभिः꣡ ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202620,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the Secular language this is optional."
+    }
+  ]
+}

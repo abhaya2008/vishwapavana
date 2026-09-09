@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211413,
+    "chapter_id": 7784,
+    "verse_number": "१४५",
+    "content_sanskrit": "डिप्",
+    "padaccheda": "डिपँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "क्षेपे",
+    "meaning_english": "to throw, to make fly",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211413,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सङ्घाते डेपयेतेति, क्षेपे डिपति डिप्यति ' (श्लो. 134) इति देवः ।"
+    }
+  ]
+}

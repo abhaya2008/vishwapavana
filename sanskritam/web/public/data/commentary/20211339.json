@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211339,
+    "chapter_id": 7784,
+    "verse_number": "७१",
+    "content_sanskrit": "अण्",
+    "padaccheda": "अणँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "प्राणने",
+    "meaning_english": "to live, to breath",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211339,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अन ' इति दन्त्यान्तोयमित्येके इति कौमुदी । ' अणेरणति शब्दार्थे प्राणते त्वण्यते श्यनि ' (श्लो. 92) इति देवः ।"
+    }
+  ]
+}

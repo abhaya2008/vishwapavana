@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212862,
+    "chapter_id": 7794,
+    "verse_number": "६२",
+    "content_sanskrit": "वॄतॄवदिहनिकमिकशिभ्यः सः",
+    "padaccheda": "",
+    "anvaya": "स",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212862,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वर्सः । तर्सः प्लवसमुद्रयोः । वत्सः । वत्सम् । वक्षः । हंसः । कंसोऽस्त्री पानभाजनम् । कक्षं नक्षत्रम् ।"
+    }
+  ]
+}

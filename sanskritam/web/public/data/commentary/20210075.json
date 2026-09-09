@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210075,
+    "chapter_id": 7781,
+    "verse_number": "७६",
+    "content_sanskrit": "क्लिन्द्",
+    "padaccheda": "क्लिदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "परिदेवने",
+    "meaning_english": "to lament to grieve, to shed tears, to have sorrow",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210075,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अस्मिन् एव गणे परिदेवनार्थे पुनः पाठः आत्मगामिन्यपि क्रियाफले परस्मैपदार्थः इति ज्ञायते । अन्यथा स्वरितेत्त्वेन एकत्रैव पाठं कुर्यात् आचार्यः । (आ.प.पाठः धा.सं. 15 इत्यत्र ।) 'क्लिन्दते क्लिन्दतीत्येवम् इदितः परिदेवने । क्लिद्यतीत्यार्द्रभावेर्थे क्लिदेः श्यन्यूदितो भवेत्' (श्लो. 102)इति देवः ।"
+    }
+  ]
+}

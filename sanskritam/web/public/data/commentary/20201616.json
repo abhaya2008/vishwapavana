@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201616,
+    "chapter_id": 7763,
+    "verse_number": "४.३.४४",
+    "content_sanskrit": "उप्ते च",
+    "padaccheda": "उप्ते । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.२५), कालात् (४.३.४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201616,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तत्रेत्येव, कालादिति च। सप्तमीसमर्थात् कालवाचिनः प्रातिपदिकादुप्तेऽर्थे यथा विहितं प्रत्ययो भवति। हेमन्त उप्यन्ते हैमन्ता यवाः। गै्रष्मा व्रीहयः। योगविभाग उत्तरार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201616,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हेमन्ते उप्यन्ते हैमन्ता यवाः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201616,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<उप्ते च>> - उप्ते च ।काला॑दित्येव । योगविङाग उत्तरार्थः । उप्यन्त इति । सूत्रे भूतकालोऽतन्त्रमिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201616,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`योगविभाग उत्तरार्थः` इति। उत्तरत्र वुञ् उप्त एव यथा स्यात्; साध्वादिषु मा भूत्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201616,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "सूत्रे भूतकालस्याविवक्षां दर्सयति । हेमन्ते उप्यन्ते इति । योगविभाग उतरार्थ इति । उतरयोगयोरुक्त एव प्रत्ययो यथा स्यात्, साध्वादिषु मा भूत् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201616,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कालात् तत्रोप्तमित्यर्थेऽणादिः । हेमन्ते उप्ता हैमना यवाः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201616,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "An affix comes after a word denoting 'time' being in the Locative -7th case in construction meaning 'sown therein'.\nThus हेमन्ते उप्यन्ते = हैमन्ता यवाः 'the barley sown in autumn.' ग्रैष्मा व्रीहयः ॥\n\nThe separation of this <i>sutra</i> from the last, is for the sake of the subsequent <i>sutra</i> in which the <i>anuvritti</i> of उप्त only goes, which could not have been the case had this word been included in the last <i>sutra</i>."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201616,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "An affix comes after a word denoting 'time' being in the Locative -7th case in construction meaning 'sown therein'."
+    }
+  ]
+}

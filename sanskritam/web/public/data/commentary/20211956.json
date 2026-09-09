@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211956,
+    "chapter_id": 7790,
+    "verse_number": "२०७",
+    "content_sanskrit": "विष्क्",
+    "padaccheda": "विष्कँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 207,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211956,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिष्क ' इत्येके ।"
+    }
+  ]
+}

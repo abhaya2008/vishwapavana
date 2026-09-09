@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212090,
+    "chapter_id": 7790,
+    "verse_number": "३४१",
+    "content_sanskrit": "सह्",
+    "padaccheda": "षहँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "मर्षणे",
+    "meaning_english": "to bear, to tolerate, to be powerful, to be satisfied",
+    "audio_url": null,
+    "display_order": 341,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212090,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — उत्साहित होना, उद्योग करना, यत्न करना\nवि — दृढ़ निश्चय करना, निर्णय करना"
+    }
+  ]
+}

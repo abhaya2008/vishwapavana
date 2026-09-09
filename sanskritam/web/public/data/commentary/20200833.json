@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20200833,
+    "chapter_id": 7758,
+    "verse_number": "३.२.६५",
+    "content_sanskrit": "कव्यपुरीषपुरीष्येषु ञ्युट्",
+    "padaccheda": "कव्य-पुरीष-पुरीष्येषु । ञ्युट्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), सुपि (३.२.४), अपि (३.२.६१), उपसर्गे (३.२.६१), छन्दसि (३.२.६३), वहः (३.२.६४), च (३.२.६४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200833,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कव्य पुरीष पुरीष्य इत्येतेषूपदेषु छन्दसि विषये वहेर्धातोर्ञ्युट् प्रत्ययो भवति। कव्य॒वाह॑नः पितृ॒णाम् (तै०सं०२.५.८.६)। पु॑रीष॒वाह॑णः (मा०सं०११.४४)। पु॒रीष्य॒वा॑ह॒नः (मै०सं०२.७.४)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200833,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एषु वहेर्ञ्युट् स्याच्छन्दसि । कव्यवाहनः । पुरीषवाहनः । पुरीष्यवाहनः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200833,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "पूर्वेण च्वौ प्राप्ते ञ्यृड्विधीयते। टकारो ङीबर्थः, ञकारः स्वरार्थो वृद्ध्यर्थश्च। युमात्रं प्रत्ययः, तस्य <<युवोरनाकौ>> [[7.1.1]]  इत्यनादेशः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200833,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "योरनः । कव्यवाहनः । पुरीषवाहनः । पुरीष्यवाहनः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200833,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the affix ञ्युट् comes after the verb वह् 'to carry' when it is in composition with the words कव्य 'oblation of food to deceased ancestors', पुरीष 'faeces' and पुरीष्य 'water'.\nAs कव्यवाहनः पितॄणाम् (<i>Yajur</i>. <i>Ved</i>. II.29) 'fire that carries the oblation to the <i>pitris</i>'; पुरीषवाहनः 'carrier of water'; पुरीष्यवाहनः (<i>Yaj</i>. <i>Ved</i>. (XI.44)). The feminine of these words is formed by adding long ई ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200833,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the affix ञ्युट् comes after the verb वह् 'to carry' when it is in composition with the words कव्य 'oblation of food to deceased ancestors', पुरीष 'faeces' and पुरीष्य 'water'."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212741,
+    "chapter_id": 7793,
+    "verse_number": "६४",
+    "content_sanskrit": "तनोतेरनश्च वः",
+    "padaccheda": "",
+    "anvaya": "चिक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212741,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तनोतेश्चिक् प्रत्ययः । अनो वशब्दादेशश्च । त्वक् ।"
+    }
+  ]
+}

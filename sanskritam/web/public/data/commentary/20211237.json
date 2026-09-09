@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211237,
+    "chapter_id": 7782,
+    "verse_number": "७२",
+    "content_sanskrit": "वेवी",
+    "padaccheda": "वेवीङ्",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "गतिव्याप्तिप्रजनकान्त्यसनस्वादनेषु",
+    "meaning_english": "to go, to walk to pervade, to become pregnant, to conceive, to wish, to desire, to send, to eat, to taste",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211237,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "धातुरयं छान्दसः ।"
+    }
+  ]
+}

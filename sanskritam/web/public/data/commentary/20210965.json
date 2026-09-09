@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210965,
+    "chapter_id": 7781,
+    "verse_number": "९६६",
+    "content_sanskrit": "चल्",
+    "padaccheda": "चलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कम्पने",
+    "meaning_english": "to move, to walk, to shake",
+    "audio_url": null,
+    "display_order": 966,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210965,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अयं धातुः घटादौ अपि अस्ति ।  ' ... भृत्याम् चालयेत् कम्पने चलेत् ' (श्लो. 158) इति देवः ।"
+    }
+  ]
+}

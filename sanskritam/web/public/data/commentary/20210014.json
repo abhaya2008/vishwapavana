@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210014,
+    "chapter_id": 7781,
+    "verse_number": "१५",
+    "content_sanskrit": "क्लिन्द्",
+    "padaccheda": "क्लिदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "परिदेवने",
+    "meaning_english": "to lament",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210014,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्लिन्दते क्लिन्दन्तीत्येवम् इदितः परिवेदने । ' क्लिद्यतीत्यार्द्रभावेर्थे क्लिदेः श्यन्यूदितो भवेत्' ( श्लो. 102 ) इति देवः । परिदेवनम् = शोचनम् । क्लिन्दते चैत्रम् ।"
+    }
+  ]
+}

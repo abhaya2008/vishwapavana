@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211246,
+    "chapter_id": 7783,
+    "verse_number": "४",
+    "content_sanskrit": "पॄ",
+    "padaccheda": "पॄ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "पालनपूरणयोः",
+    "meaning_english": "to take care, to nurture, to nourish, o provide, to fill",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211246,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पृणाति पूरणे श्लौ तु पिपर्ति णिचि पारयेत् ' (श्लो. 36) - देवः ।"
+    }
+  ]
+}

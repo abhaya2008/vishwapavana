@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212702,
+    "chapter_id": 7793,
+    "verse_number": "२५",
+    "content_sanskrit": "सुसूधागृधिभ्यः क्रन्",
+    "padaccheda": "",
+    "anvaya": "क्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212702,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सुरः । सूरः । धीरः । गृध्रः ।"
+    }
+  ]
+}

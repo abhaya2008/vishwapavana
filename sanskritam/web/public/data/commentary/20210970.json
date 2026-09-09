@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210970,
+    "chapter_id": 7781,
+    "verse_number": "९७१",
+    "content_sanskrit": "हल्",
+    "padaccheda": "हलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विलेखने",
+    "meaning_english": "to plow, to cultivate, to till, to furrow",
+    "audio_url": null,
+    "display_order": 971,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210970,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विलेखनम् = कर्षणम् ।"
+    }
+  ]
+}

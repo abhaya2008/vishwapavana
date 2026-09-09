@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210419,
+    "chapter_id": 7781,
+    "verse_number": "४२०",
+    "content_sanskrit": "तिप्",
+    "padaccheda": "तिपृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "क्षरणे",
+    "meaning_english": "to drop, to ooze, to sprinkle",
+    "audio_url": null,
+    "display_order": 420,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210419,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " क्षीरस्वामी तु अयं (धातुः) सेट् इति बभ्राम ' इति  सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

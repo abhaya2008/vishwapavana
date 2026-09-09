@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212732,
+    "chapter_id": 7793,
+    "verse_number": "५५",
+    "content_sanskrit": "गर्वेरत उच्च",
+    "padaccheda": "",
+    "anvaya": "इनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212732,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गौरादित्वात् ङीष् । गुर्विणी । गर्भिणी ।"
+    }
+  ]
+}

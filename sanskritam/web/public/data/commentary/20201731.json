@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201731,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१५९",
+    "content_sanskrit": "एण्या ढञ्",
+    "padaccheda": "एण्याः । ढञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 159,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१३४), विकारः (४.३.१३४), अवयवे (४.३.१३५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201731,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "एणीशब्दाद् ढञ् प्रत्ययो भवति विकारावयवयोरर्थयोः। प्राण्यञोऽपवादः। ऐणेयं मांसम्। पुंसस्त्वञेव भवति। एणस्य मांसमैणम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201731,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ऐणेयम् । एणस्य तु ऐणम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201731,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<एण्या ढञ्>> - एण्या ढञ् । एण्या अवयवो विकारो वा ऐणेयम् । ढस्य एयादेशः ।यस्येति चे॑ति ईकारलोपः । स्त्रीलिङ्गनिर्देशस्य प्रयोजनमाह — एणस्य त्विति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201731,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<एण्या ढञ्>> - एण्या ढञ् । प्राण्यञोऽपवादः । स्त्रीलिङ्गनिर्देशादाह -एणस्यत्विति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201731,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "स्त्रीलिङ्गनिर्देशस्य प्रयोजनमाह -पुंसस्त्वञव भवतीति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201731,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ऐणेयं चर्म । एणस्य तु ऐणम् ।।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201731,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढञ् comes optionally in the sense of 'product or part' after the feminine word एणी।\nThus ऐणेयं मांसम् 'the flesh of a female black deer.' But एणस्य मांसम् = ऐणम् 'the flesh of a male deer', formed by अञ् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201731,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढञ् comes optionally in the sense of 'product or part' after the feminine word एणी।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210266,
+    "chapter_id": 7781,
+    "verse_number": "२६७",
+    "content_sanskrit": "एज्",
+    "padaccheda": "एजृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कम्पने",
+    "meaning_english": "to shiver,to tremble, to shake",
+    "audio_url": null,
+    "display_order": 267,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210266,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दीप्तौ शप्येजते तत्र, भवेदेजति कम्पने ' (श्लो.58) इति देवः ।"
+    }
+  ]
+}

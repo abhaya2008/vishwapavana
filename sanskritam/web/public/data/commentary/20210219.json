@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210219,
+    "chapter_id": 7781,
+    "verse_number": "२२०",
+    "content_sanskrit": "म्रुञ्च्",
+    "padaccheda": "म्रुन्चुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 220,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210219,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं नोपधः, सन्धिवशात् ञकारः इति ज्ञेयम् । नकारजौ अनुस्वारपञ्चमौ  झलि धातुषु । सकारजः शकारश्च षाट्टवर्गस्तवर्गजः ।"
+    }
+  ]
+}

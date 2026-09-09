@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201718,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१४६",
+    "content_sanskrit": "पिष्टाच्च",
+    "padaccheda": "पिष्टात् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 146,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१३४), विकारः (४.३.१३४), अवयवे (४.३.१३५), मयट् (४.३.१४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201718,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पिष्टशब्दाद् नित्यं मयट् प्रत्ययो भवति तस्य विकार इत्येतस्मिन् विषये। अणोऽपवादः। पिष्टमयं भस्म॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201718,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "मयट् स्याद्विकारे । पिष्टमयं भस्म । कथं पैष्टी सुरेति । सामान्यविवक्षायां तस्येदं <{SK1500}>इत्यण् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201718,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पिष्टाच्च>> - पिष्टाच्च । शेषपूरणेन सूत्रं व्याचष्टे — मयट् स्याद्विकारे इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201718,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पिष्टमंय भस्मेति ॥ पैष्टी सुरेति तु सामान्यविवक्षायाम्'तस्येदम्'  इत्यण्,'प्रदीयतां दाशरथाय मैथिली'  इतिवत् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201718,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix मयट् invariably comes in the sense of 'its product or part' after the word पिष्ट।\nThis debars अण् ॥ Thus पिष्टमयं भस्म ॥ Otherwise अण्, as पैष्टी सुरा in the sense of तस्येदम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201718,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix मयट् invariably comes in the sense of 'its product or part' after the word पिष्ट।"
+    }
+  ]
+}

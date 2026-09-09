@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210836,
+    "chapter_id": 7781,
+    "verse_number": "८३७",
+    "content_sanskrit": "बृंह्",
+    "padaccheda": "बृहिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वृद्धौ शब्दे च",
+    "meaning_english": "to grow, to prosper, to sound",
+    "audio_url": null,
+    "display_order": 837,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210836,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अत्र शब्दः गजशब्दः एव, लोके तथैव प्रयोगात् । ' बृहिर् ' इति चन्द्रदुर्गौ । ' ...बृंहति बर्हति । वृद्धौ , भाषार्थविषये बृंहयेत् बर्हयेदिति ' ( श्लो. 198 ) इति देवः ।"
+    }
+  ]
+}

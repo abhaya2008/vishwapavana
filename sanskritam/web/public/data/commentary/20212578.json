@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212578,
+    "chapter_id": 7792,
+    "verse_number": "५८",
+    "content_sanskrit": "पतिकठिकुठिगडिगुडिदंशिभ्य एरक्",
+    "padaccheda": "",
+    "anvaya": "एरक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212578,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पतेरः पक्षी गन्ता च । छठेरः कृच्छ्रजीवी । कुठेरः पर्णाशः । बाहुलकान्नुम्न । गडेरो मेघः । गुडेरो गुडकः । दंशेरो हिंस्रः ।"
+    }
+  ]
+}

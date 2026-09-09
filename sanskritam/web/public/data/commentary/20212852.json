@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212852,
+    "chapter_id": 7794,
+    "verse_number": "५२",
+    "content_sanskrit": "अनुङ्नदेश्च",
+    "padaccheda": "",
+    "anvaya": "अनुङ्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212852,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्क्षिपेः । नदनुर्मेघः । क्षिपणुर्वातः ।"
+    }
+  ]
+}

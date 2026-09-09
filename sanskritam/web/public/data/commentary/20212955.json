@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212955,
+    "chapter_id": 7794,
+    "verse_number": "१५५",
+    "content_sanskrit": "प्लुषिकुषिशुषिभ्यः क्सिः",
+    "padaccheda": "",
+    "anvaya": "क्सि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212955,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्लुक्षिर्वह्निः । कुक्षिः । शुक्षिर्वातः ।"
+    }
+  ]
+}

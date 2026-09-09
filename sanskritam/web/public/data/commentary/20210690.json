@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210690,
+    "chapter_id": 7781,
+    "verse_number": "६९१",
+    "content_sanskrit": "क्लेश्",
+    "padaccheda": "क्लेशँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्तायां वाचि",
+    "meaning_english": "to speak inarticulately,to irritate, to give pain",
+    "audio_url": null,
+    "display_order": 691,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210690,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " बाधने ' इति दुर्गः । ' उपतापे ' इति कविकल्पद्रुमः । अत्र स्वामी ' क्लेश व्याक्तायां वाचि च ' इति पठन् इमौ अपि पूर्वधातोः अर्थावेवाह । चन्द्र - मैत्रेय - सम्मताकार - देवादयः तु धात्वन्तरमेव आहुः । ' व्यक्तोक्तौ क्लेशते क्लेशेः क्लिश्नातीति तु बाधते । दिवादेरुपतापेर्थे तङि स्यात् क्लिश्यते पदम् ' (श्लो. 163.164) इति देवः ।"
+    }
+  ]
+}

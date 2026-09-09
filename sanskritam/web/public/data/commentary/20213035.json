@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213035,
+    "chapter_id": 7795,
+    "verse_number": "७५",
+    "content_sanskrit": "पॄनहिकलिभ्य उषच्",
+    "padaccheda": "",
+    "anvaya": "उषच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213035,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "परुषम् । नहुषः । कलुषम् ।"
+    }
+  ]
+}

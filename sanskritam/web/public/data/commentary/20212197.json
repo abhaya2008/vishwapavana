@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212197,
+    "chapter_id": 7790,
+    "verse_number": "४४८",
+    "content_sanskrit": "सत्र",
+    "padaccheda": "सत्र",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "सन्तानक्रियायाम्",
+    "meaning_english": "to spread, to extend, to contact, to be connected",
+    "audio_url": null,
+    "display_order": 448,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212197,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । आवर्गीयः ।"
+    }
+  ]
+}

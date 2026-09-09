@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212614,
+    "chapter_id": 7792,
+    "verse_number": "९४",
+    "content_sanskrit": "मृग्रोरुतिः",
+    "padaccheda": "",
+    "anvaya": "उति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212614,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मरुत् । गरुत्पक्षः ।"
+    }
+  ]
+}

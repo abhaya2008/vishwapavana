@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211134,
+    "chapter_id": 7781,
+    "verse_number": "११३५",
+    "content_sanskrit": "यभ्",
+    "padaccheda": "यभँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "मैथुने",
+    "meaning_english": "to copulate",
+    "audio_url": null,
+    "display_order": 1135,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211134,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अस्य पाठभेदविषये अर्थभेदविषये च विविधानि मतानि मा.धा. वृत्तौ कृदन्तरूपमालायां च दत्तानि सन्ति ।"
+    }
+  ]
+}

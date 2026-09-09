@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211071,
+    "chapter_id": 7781,
+    "verse_number": "१०७२",
+    "content_sanskrit": "स्नै",
+    "padaccheda": "ष्णै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वेष्टने शोभायां च",
+    "meaning_english": "to cover, to wrap, to decorate",
+    "audio_url": null,
+    "display_order": 1072,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211071,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' शोभायां च ' इत्येके । ' शौच इत्यन्ये ' इति कौमुदी । ' स्नातीति शौचे स्नः स्नायेदिति चेच्छन्ति केचन ' (श्लो. 12) इति देवः ।"
+    }
+  ]
+}

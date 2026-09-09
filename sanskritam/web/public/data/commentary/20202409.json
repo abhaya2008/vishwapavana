@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202409,
+    "chapter_id": 7768,
+    "verse_number": "५.४.१३०",
+    "content_sanskrit": "ऊर्ध्वाद्विभाषा",
+    "padaccheda": "ऊर्ध्वाद् । विभाषा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": "अनुवृत्तिः — बहुव्रीहौ (५.४.११३), जानुनोः (५.४.१२९), ज्ञुः (५.४.१२९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202409,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ऊर्ध्वशब्दादुत्तरस्य जानुशब्दस्य विभाषा ज्ञुरित्ययमादेशो भवति। ऊर्ध्वे जानुनी अस्य ऊर्ध्वजानुः, ऊर्ध्वज्ञुः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202409,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ऊर्ध्वज्ञुः । ऊर्ध्वजानुः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202409,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ऊर्ध्वाद्विभाषा>> - ऊध्र्वाद्विभाषा । ऊध्र्वशब्दात् परो यो जानुशब्दस्तस्य ज्ञुरादेशो वा स्यात्, बहुव्रीहावित्यर्थः । ऊध्र्वज्ञुरिति । ऊर्ध्वे जानुनी यस्येति विग्रहः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202409,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ङ्त्किरणादन्त्यादेशत्वम्, अकारादित्वं च निश्चित्याऽऽहानङदेशो भवतीति। कुण्डोध्नीति।'बहुव्रीहेरूधसो ङीष्' , ठल्लोपोऽनःऽ।  अनङ्विधानमुतरार्थम्, इह तु नकारादेशेनापि सिद्धम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202409,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ऊर्ध्वज्ञुः, ऊर्ध्वजानुः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202409,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The substitution of ज्ञु for जानु when the word ऊर्धव precedes it.\nThus ऊर्ध्वे जानुनी अस्य = ऊर्ध्वजानुः or ऊर्ध्वज्ञुः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202409,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The substitution of ज्ञु for जानु when the word ऊर्धव precedes it."
+    }
+  ]
+}

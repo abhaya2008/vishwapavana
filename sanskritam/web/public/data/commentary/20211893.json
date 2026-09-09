@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211893,
+    "chapter_id": 7790,
+    "verse_number": "१४४",
+    "content_sanskrit": "पूज्",
+    "padaccheda": "पूजँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to worship, to pray, to honor, to respect",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211893,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — उत्तम प्रकार से आदर करना, अच्छी तरह से पूजा करना"
+    }
+  ]
+}

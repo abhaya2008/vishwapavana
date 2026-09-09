@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211812,
+    "chapter_id": 7790,
+    "verse_number": "६३",
+    "content_sanskrit": "श्रण्",
+    "padaccheda": "श्रणँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दाने",
+    "meaning_english": "to give",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211812,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "( प्रायेण अयं विपूर्वः) ' मितः श्रणति दानार्थे श्राणयत्यत्र णौ पदम् ' (श्लो. 92) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212762,
+    "chapter_id": 7793,
+    "verse_number": "८५",
+    "content_sanskrit": "संश्चत्तृपद्वेहत्",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212762,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते निपात्यन्ते । पृथक्करणं शतृवद्भावनिवृत्त्यर्थम् । संचिनोतेः सुट् इकारलोपः । संश्चत् कुहकः । तृषत् छत्रम् । विपूर्वाद्धन्तेष्टिलोपः । इत ए च । वेहद्गर्भोपघातिनी ।"
+    }
+  ]
+}

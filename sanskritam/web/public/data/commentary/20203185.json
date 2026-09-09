@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203185,
+    "chapter_id": 7773,
+    "verse_number": "७.१.१०",
+    "content_sanskrit": "बहुलं छन्दसि",
+    "padaccheda": "बहुलम् । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": "अनुवृत्तिः — भिस (७.१.९), ऐस् (७.१.९), अतः (७.१.९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203185,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसि विषये बहुलमैसादेशो भवति। अत इत्युक्तमनतोऽपि भवति नद्यैरिति। अतो न भवति — देवेभिः सर्वेभिः प्रोक्तमिति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203185,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अग्निर्देवेभिः (अ॒ग्निर्दे॒वेभिः॑) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203185,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "बहुलग्रहणं विस्पष्टार्थम्। शक्यते हि मण्डूकप्लुतिन्यायेन बहुलग्रहणमनुवर्तयितुम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203185,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अतो भिस ऐस् बहुलं स्यात् । देवेभिरिन्द्रः । तेभिश्चष्टे । अनतोऽपि स्यात् । नद्यैः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203185,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the substitution takes place diversely.\nThat is ऐस् is substituted for भिस् even after stems which do not end in short अ; as नद्यः; and some times the substitution does not take place even after stems ending in short अ, as, देवेभिः सर्वेभिः प्रोक्तम् ॥ देवो देवोभिरागमत् (<i>Rig</i> <i>Veda</i> I.1.4)."
+    },
+    {
+      "id": 6,
+      "verse_id": 20203185,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the substitution takes place diversely."
+    }
+  ]
+}

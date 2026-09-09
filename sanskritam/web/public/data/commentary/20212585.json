@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212585,
+    "chapter_id": 7792,
+    "verse_number": "६५",
+    "content_sanskrit": "किशोरादयश्च",
+    "padaccheda": "",
+    "anvaya": "ओरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212585,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "किंपूर्वस्य शृणातेष्टिलोपः किमोऽन्त्यलोपः किशोरोऽश्वशावः । सहोरः साधुः ।"
+    }
+  ]
+}

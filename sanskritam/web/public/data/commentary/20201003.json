@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201003,
+    "chapter_id": 7759,
+    "verse_number": "३.३.४७",
+    "content_sanskrit": "परौ यज्ञे",
+    "padaccheda": "परौ । यज्ञे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६), ग्रहः (३.३.४५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201003,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "परिशब्द उपपदे ग्रहेर्घञ् प्रत्ययो भवति, यज्ञविषयश्चेत् प्रत्ययान्ताभिधेयः स्यात्। उत्तरपरिग्राहः। यज्ञ इति किम्? परिग्रहो देवदत्तस्य॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201003,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उत्तरः परिग्राहः । स्फ्येन वेदेः स्वीकरणम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201003,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "उतरपरिग्राह इति । भावे घञ् । वेदेः स्फ्येन स्वीकरणं परिग्राहः, ततः कर्मधारयः । क्वचिदुतरः परिग्राह इत्यसमास एव पठ।ल्ते ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201003,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "परिग्रहेर्यज्ञगतेऽर्थे वाच्ये घञ् । परिग्राहो वेद्याः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201003,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the root ग्रह् 'to seize' in composition with परि when it relates to sacrificial subjects.\nAs उत्तरपरिग्राहः 'the northern fencing of the sacrificial altar'; अधरपरिग्राहः 'the southern fencing of the sacrificial altar'.\n\nWhy do we say 'when relating to sacrifices'? Observe परिग्रहः देवदत्तस्य 'the fencing of <i>Devadatta</i>'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201003,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the root ग्रह् 'to seize' in composition with परि when it relates to sacrificial subjects."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201003,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "वेदि-वत्स-परिग्राहा (भट्टिकाव्यम् 7.45) — `ग्रहेः परौ यज्ञे` इति यज्ञविपये घञ्।"
+    }
+  ]
+}

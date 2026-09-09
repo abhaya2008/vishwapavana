@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212906,
+    "chapter_id": 7794,
+    "verse_number": "१०६",
+    "content_sanskrit": "गडेरादेश्च कः",
+    "padaccheda": "",
+    "anvaya": "अत्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212906,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कडत्रम् । डलयोरेकत्वस्मरणात् कलत्रम् ।"
+    }
+  ]
+}

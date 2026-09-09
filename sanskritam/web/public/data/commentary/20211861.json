@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211861,
+    "chapter_id": 7790,
+    "verse_number": "११२",
+    "content_sanskrit": "क्षम्प्",
+    "padaccheda": "क्षपिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षान्त्याम्",
+    "meaning_english": "to endure,to tolerate, to forgive, to shine",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211861,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्षम्पेः क्षम्पयति क्षान्त्यां प्रेरणे क्षपयेदिति ' (श्लो. 136) इति देवः । ' क्षप प्रेरणे ' इति धातुः चुरादौ अदन्ते अस्ति इति एतस्मात् श्लोकात् अवगम्यते । सिद्धान्तकौमुद्यां तु न दृश्यते इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

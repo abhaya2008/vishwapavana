@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210363,
+    "chapter_id": 7781,
+    "verse_number": "३६४",
+    "content_sanskrit": "मुड्",
+    "padaccheda": "मुडँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "मर्दने",
+    "meaning_english": "to press, to massage, to rub",
+    "audio_url": null,
+    "display_order": 364,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210363,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मुट प्रमर्दने ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

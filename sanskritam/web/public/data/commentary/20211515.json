@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211515,
+    "chapter_id": 7786,
+    "verse_number": "४६",
+    "content_sanskrit": "शुभ्",
+    "padaccheda": "शुभँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "शोभायाम्",
+    "meaning_english": "to shine, to look beautiful",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211515,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसाभाषणयोः शोभेच्छोभार्थे शुभतीति शे ' (श्लो. 143) - देवः ।"
+    }
+  ]
+}

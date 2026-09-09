@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210587,
+    "chapter_id": 7781,
+    "verse_number": "५८८",
+    "content_sanskrit": "ईर्ष्य्",
+    "padaccheda": "ईर्ष्यँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "ईर्ष्यायाम्",
+    "meaning_english": "to envy, to grudge",
+    "audio_url": null,
+    "display_order": 588,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210587,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ईर्ष्या = कामजम् असहनम् ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

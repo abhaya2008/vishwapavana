@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210828,
+    "chapter_id": 7781,
+    "verse_number": "८२९",
+    "content_sanskrit": "शंस्",
+    "padaccheda": "शन्सुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "स्तुतौ",
+    "meaning_english": "to praise, to complement",
+    "audio_url": null,
+    "display_order": 829,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210828,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि — मिथ्यापवाद लगाना\nआ — चाहना, बोलना\nप्र — प्रशंसा करना, स्तुति करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210828,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "नोपधोयम् धातुः ।  - ' नकारजावनुस्वा नुस्वारपञ्चमौ झलि धातुषु ' इति अभियुक्तवचनात् । ' आशंसे स्यादिच्छायां शंसतीति स्तुतौ भवेत् । हिंसायां शसति ' ( श्लो. 183, 4 ) इति देवः । ' अयं हिंसायामपि ' इति दुर्गः ।"
+    }
+  ]
+}

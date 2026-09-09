@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211280,
+    "chapter_id": 7784,
+    "verse_number": "१२",
+    "content_sanskrit": "कुथ्",
+    "padaccheda": "कुथँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "पूतीभावे",
+    "meaning_english": "to have rotten smell, to have bad smell",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211280,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पूतीभावः = दौर्गन्ध्यम् इति सिद्धान्तकौमुदी । पवित्रीकरणमिति तत्त्वबोधिनी । ' कुथ्नाति कुन्थेत् संक्लेशे, पूतीभावे तु कुथ्यति ' (श्लो. 38) इति देवः ।"
+    }
+  ]
+}

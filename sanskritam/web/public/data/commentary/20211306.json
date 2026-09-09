@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211306,
+    "chapter_id": 7784,
+    "verse_number": "३८",
+    "content_sanskrit": "ई",
+    "padaccheda": "ईङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211306,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अयत्येतीयते गत्याम् अधीतेध्येति चेङिकोः ' (श्लो. 14) - देवः ।"
+    }
+  ]
+}

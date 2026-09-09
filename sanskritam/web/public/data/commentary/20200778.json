@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200778,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१०",
+    "content_sanskrit": "वयसि च",
+    "padaccheda": "वयसि । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कर्मणि (३.२.१), अनुपसर्गे (३.२.३), सुपि (३.२.४), हरतेः (३.२.९), अच् (३.२.९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200778,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वयसि गम्यमाने हरतेः कर्मण्युपपदेऽच् प्रत्ययो भवति। उद्यमनार्थोऽयमारम्भः। कालकृता शरीरावस्था यौवनादिर्वयः। यदुद्यमनं क्रियमाणं संभाव्यमानं वा वयो गमयति, तत्रायं विधिः। अस्थिहरः श्वा। कवचहरः क्षत्रियकुमारः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200778,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उद्यमनार्थं सूत्रम् । कवचहरः कुमारः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200778,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वयसि च>> - वयसि च । कर्मण्युपपदे वयसि गम्ये हरतेरजित्यर्थः । ननुहरतेरनुद्यमनेऽ॑जित्येव सिद्धे किमर्थमिदमित्यत आह —  उद्यमनार्थमिति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200778,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<वयसि च>> - कवचहर इति । कवचोद्यमनं क्रियमाणं, संभाव्यमानं वा वयो गमयति । तनाऽसत्यपि कवचग्रहणेकवचहर॑ इति भवत्येव ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200778,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`उद्यमनार्थोऽयमारम्भः` इति। अनुद्यमने पूर्वेणैव सिद्धत्वात्। `अस्थिहरः`इति। अस्थ्युत्क्षेपणसमर्थे वयसि वर्तत इत्यर्थः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200778,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वयसि च॥ संभाव्यमानं वेति। तेनासत्यपि कवचग्रहणे वयसि गम्यमाने कवचहर इति भवतीति भावः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200778,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वयसि द्योत्ये हृञोऽच् । कवचहरः ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200778,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अच् comes after the verb हृञ् when the object is in composition with it and when the meaning of the word to be formed is descriptive of age.\nIn this <i>sutra</i> the verb हृञ् has the sense of <i>udyamana</i> which was specifically excluded in the last. The word वयस् means the condition of human body as dependent upon time. This rule applies to those words which indicate the attainment of appropriate age for the accomplishment of objects described by the <i>upapada</i>, or the reaching of that age in which the thing described by the <i>upapada</i> naturally takes place; as अस्थिहरः श्वा 'the dog that has reached the age when it can chew bones' (lit. when it can raise it up); कवचहरः क्षत्रियकुमारः 'the <i>Kshatriya</i> boy old enough to wear (lit. 'to raise up or bear') the shield'; so that the verb here has the sense of 'raising up'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200778,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अच् comes after the verb हृञ् when the object is in composition with it and when the meaning of the word to be formed is descriptive of age."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200778,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "सम्यग्विनीतमथ वर्महरं कुमारमादिश्य रक्षणविधौ विधिवत्प्रजानाम् । रोगापसृष्टतनुदुर्वसतिं मुमुक्षुः प्रायोपवेशनमतिर्नृपतिर्बभूव ॥ (रघुवंशम् 8.94) — `वयसि च` इत्यच्प्रत्ययः।\nतं मनो-हरमागत्य गिरिं वर्म-हरौ कपिः (भट्टिकाव्यम् 6.91) — `वयसि च` इति वर्महरौ इत्यत्र अच्-प्रत्ययः।"
+    }
+  ]
+}

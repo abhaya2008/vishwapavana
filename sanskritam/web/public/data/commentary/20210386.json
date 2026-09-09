@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210386,
+    "chapter_id": 7781,
+    "verse_number": "३८७",
+    "content_sanskrit": "रट्",
+    "padaccheda": "रटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "परिभाषणे",
+    "meaning_english": "to memorize, to recall, to chat",
+    "audio_url": null,
+    "display_order": 387,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210386,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कौमुद्यां तु ' रठ इत्येके ' इति दृश्यते । ' रठ ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

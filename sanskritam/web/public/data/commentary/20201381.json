@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201381,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१३२",
+    "content_sanskrit": "पितृष्वसुश्छण्",
+    "padaccheda": "पितृष्वसुः । छण्",
+    "anvaya": "'तस्य अपत्यम्' (इति) पितृष्वसुः छण्",
+    "meaning_sanskrit": "'तस्य अपत्यम्' अस्मिन् अर्थे 'पितृष्वसृ'शब्दात्  छण् प्रत्ययः भवति ।",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.१.९२), अपत्यम् (४.१.९२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201381,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पितृष्वसृशब्दादपत्ये छण् प्रत्ययो भवति। अणोऽपवादः। पैतृष्वस्रीयः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201381,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अणोऽपवादः । पैतृष्वस्त्रीयः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201381,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पितृष्वसुश्छण्>> - पितृष्वसुश्छण् । पैतृष्वस्त्रीय इति । पितृस्वसुरपत्यमिति विग्रहः । छस्य ईयादेशे आदिवृद्धिः । करारादृकारस्य यण् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201381,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "छस्य ईय् । पैतृष्वस्रीयः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201381,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छण् comes in the sense of a descendant after the word पितृष्वसृ।\nThis debars अण् ॥ Thus पितृष्वसृ + छण् = पैतृष्वस्रीयः 'the son of the father's sister'. The छ of the affix is replaced by ईय ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201381,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छण् comes in the sense of a descendant after the word पितृष्वसृ।"
+    }
+  ]
+}

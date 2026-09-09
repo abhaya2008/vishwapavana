@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211671,
+    "chapter_id": 7788,
+    "verse_number": "३",
+    "content_sanskrit": "क्षण्",
+    "padaccheda": "क्षणुँ",
+    "anvaya": "U-पदी, गणः 8",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to irritate, to cause pain, to hurt, to break",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211671,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदुपधः । अयमपि लाक्षणिकणकारः ।"
+    }
+  ]
+}

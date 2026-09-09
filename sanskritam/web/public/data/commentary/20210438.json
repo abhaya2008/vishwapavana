@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210438,
+    "chapter_id": 7781,
+    "verse_number": "४३९",
+    "content_sanskrit": "लम्ब्",
+    "padaccheda": "लबिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अवस्रंसने शब्दे च",
+    "meaning_english": "to hang down",
+    "audio_url": null,
+    "display_order": 439,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210438,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — आधार देना\nअव — किसी पर निर्भर रहना, सहारा लेना"
+    }
+  ]
+}

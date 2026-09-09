@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202840,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१७८",
+    "content_sanskrit": "वनं समासे",
+    "padaccheda": "वनम् । समासे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 178,
+    "avatarnika": "अनुवृत्तिः — उपसर्गात् (६.२.१७७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202840,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "समासमात्रे वनमित्येतदुत्तरपदमुपसर्गात् परमन्तोदात्तं भवति। प्॒रव॒णे यष्टव्यम्। नि॒र्व॒णे प्रणिधीयते। <<प्रनिरन्तः०>> [[८.४.५]] इति णत्वम्। समासग्रहणं समासमात्रपरिग्रहार्थम्, बहुव्रीहावेव हि स्यात्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202840,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "समासमात्रे उपसर्गादुत्तरपदं वनमन्तोदात्तम् । तस्येदिमे प्रवणे (तस्येदि॑मे प्रव॒णे) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202840,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`समासमात्रे` इति। मात्रग्रहणेन बहुव्रीहेर्निवृत्ति सूचयति। `प्रवणे` इति। यदायं बहुव्रीहिस्तदा प्रकृष्टं प्रकृतं वा वनमस्येति विग्रहः। यदा तु तत्पुरुषः, तदा प्रकृष्टं वनं प्रगतं वा वनमिति विग्रहः। `निर्वणे` इति। अत्रापि यदा बहुव्रीहिः, तदा निर्गतं वनमस्येति विग्रहः। यदा तु तत्पुरुषस्तदा निरगतो वनादिति तत्पुरुषस्तु <<कुगतिप्रादयः>> [[2.2.18]]  इति। किं पुनः स्याद्यदि समासमात्रपरिग्रहार्थं समासग्रहणं न क्रियेत? इत्यत आह -`बहुव्रीहावेव हि स्यात्` इति। `रञ्जेः क्युन्`(द।उ।5।24-पं।उ।2।80)। [`रजेः` -द।उ।] बहलवनात्? `वनु याचने` (धातुपाठः-1470) इत्यस्मादपि भवति। तेन वनमाद्युदात्तम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202840,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्रादेः परं वनं समासमात्रेऽन्तोदात्तं स्यात् । उद्वनादुदकानीव प्रवणे यष्टव्यम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202840,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a preposition वन has acute accent (उदात्त) on the final in compounds of every kind.\nThus प्रवणे꣡ यष्टव्यम्, निर्वणे꣡ प्रणिधीयते, the न changed to ण by [[8.4.5]]. The word '<i>samasa</i>' is used in the <i>sutra</i> to indicate that all sorts of compounds are meant, otherwise only <i>Bahuvrihi</i> would have been meant."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202840,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a preposition वन has acute accent (उदात्त) on the final in compounds of every kind."
+    }
+  ]
+}

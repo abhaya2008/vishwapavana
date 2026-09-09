@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211084,
+    "chapter_id": 7781,
+    "verse_number": "१०८५",
+    "content_sanskrit": "सृ",
+    "padaccheda": "सृ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go,to move,to approach,to slip",
+    "audio_url": null,
+    "display_order": 1085,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211084,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — पश्चात गमन करना, पीछे पीछे जाना, दूसरे को देखकर वैसा करना\nअप — लौटना, पीछे जाना\nअभि — चारों और फैलना, सहगमन करना, साथ जाना\nउप — पास जाना\nप्र — आगे जाना, फैलना\nवि — आना, अलग अलग जाना\nनिस् — निकलना\nउद् — दूर होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211084,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं धातुः अर्थभेदेन अकर्मकः सकर्मकोपि दृश्यते । ' गतौ ससर्ति सरति श्लुशपोर्धावति क्वचित् ' (श्लो. 30) इति देवः ।"
+    }
+  ]
+}

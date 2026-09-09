@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212863,
+    "chapter_id": 7794,
+    "verse_number": "६३",
+    "content_sanskrit": "प्लुषेरच्चोपधायाः",
+    "padaccheda": "",
+    "anvaya": "स",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212863,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्लक्षः ।"
+    }
+  ]
+}

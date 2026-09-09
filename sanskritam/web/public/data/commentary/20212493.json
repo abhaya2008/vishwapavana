@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212493,
+    "chapter_id": 7791,
+    "verse_number": "२३५",
+    "content_sanskrit": "कुक्कुटी । मृगी । काकी । अण्ड । पद । शाव । भ्रुकुंस । भ्रुकुटी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 235,
+    "avatarnika": "कुक्कुट्यादिः (6.3.42)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212493,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "कुक्कुट्यादीनामण्डादिषु"
+    }
+  ]
+}

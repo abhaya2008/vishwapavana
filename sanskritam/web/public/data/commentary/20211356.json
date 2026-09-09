@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211356,
+    "chapter_id": 7784,
+    "verse_number": "८८",
+    "content_sanskrit": "शुध्",
+    "padaccheda": "शुधँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "शौचे",
+    "meaning_english": "to become pure",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211356,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "शौचम् = नैर्मल्यम् इति क्षीरस्वामी । ' शुद्धौ शुन्धति भूवादेः शुधेः शोचे तु शुध्यति ' (श्लो. 117) इति देवः। शोधने , व्यवस्थिते, अन्वेषणे, नाशने च दृश्यते । यदाह मनुः - ' वेदाभ्यासेन शुध्यन्ति ' (11.46) इति । अत्र नश्यति इत्यर्थः ' इति कुल्लूकभट्टः।"
+    }
+  ]
+}

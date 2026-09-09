@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210049,
+    "chapter_id": 7781,
+    "verse_number": "५०",
+    "content_sanskrit": "सिध्",
+    "padaccheda": "षिधूँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शास्त्रे (शासने) माङ्गल्ये च",
+    "meaning_english": "to rule, to be auspicious",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210049,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — निषेध करना, मना करना\nप्रति — निषेध करना, मना करना\nप्र — प्रसिद्ध होना, कीर्तिमान होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210049,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "माङ्गल्ये सकर्मकः । देवश्लोकः सेधतौ द्रष्टव्यः । ऊदित्त्वादिड्विकल्पः । शास्त्रम् = शासनम् , माङ्गल्यम्= मङ्गलार्थक्रिया ।"
+    }
+  ]
+}

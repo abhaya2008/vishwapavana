@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201173,
+    "chapter_id": 7760,
+    "verse_number": "३.४.४१",
+    "content_sanskrit": "अधिकरणे बन्धः",
+    "padaccheda": "अधिकरणे । बन्धः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201173,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अधिकरणवाचिन्युपपदे बध्नातेर्धातोर्णमुल् प्रत्ययो भवति। चक्रबन्धं बध्नाति। कूटबन्धं बध्नाति। मुष्टिबन्धं बध्नाति। चोरकबन्धं बध्नाति। चोरके बध्नातीत्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201173,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चक्रबन्धं बध्नाति । चक्रे बध्नातीत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201173,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एतत्पूर्वाद् बन्धेर्णमुल् । कारायां बध्नाति काराबन्धं बध्नाति ।।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201173,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "अधिकरणे बन्धः (1202) (601 णमुल्प्रत्ययविधिसूत्रम्॥ 3 । 4 । 1 आ.13) (आक्षेपभाष्यम्) इह कस्मान्न भवति ग्रामे बन्ध इति॥ (समाधानभाष्यम्) एवं वक्ष्वामि अधिकरणे बन्धः संज्ञायाम् ततः कत्रोर्जीवपुरषयोर्नशिबहोः इति। (आक्षेपभाष्यम्) कथमट्टालिकाबन्धं बद्धः। चण्डालिकाबन्धं बद्धः? (समाधानभाष्यम्) उपमाने कर्मणि च इत्येवं भविष्यति॥ अधिकरणे॥ 41 ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201173,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the बन्ध् 'to bind' when a word expressing location is in construction with it.\nOf course, rule [[3.4.46]] applies here also, and the gerund must be governed by a verb from the same root <i>bandh</i>. Thus चक्रबन्धं बध्नाति 'he binds to the wheel'; कूटबन्धं बध्नाति 'he binds in a snare'; मुष्टिबन्धं बध्नाति 'he binds in the fist'. चोरकबन्धं बध्नाति = चोरके बध्नाति ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201173,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the बन्ध् 'to bind' when a word expressing location is in construction with it."
+    }
+  ]
+}

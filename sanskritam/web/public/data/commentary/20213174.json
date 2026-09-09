@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213174,
+    "chapter_id": 7795,
+    "verse_number": "२१४",
+    "content_sanskrit": "देशे ह च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 214,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213174,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रमन्तेऽस्मिन् रहः ।"
+    }
+  ]
+}

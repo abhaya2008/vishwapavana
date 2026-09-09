@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212547,
+    "chapter_id": 7792,
+    "verse_number": "२७",
+    "content_sanskrit": "अर्जिदृशिकम्यमिपशिबाधामृजिपसितुक्धुक्दीर्घहकाराश्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212547,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अर्जयति गुणान् ऋजुः । सर्वानविशेषेण पश्यतीति पशुः । कन्तुः । अन्धुः कूपः । पांशुर्ना न द्वयो रजः । तालव्या अपि दन्त्याश्च सम्बसूकरपांसवः । बाधते इति बाहुः । बाहुः स्त्रीपुंसयोर्भुजः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211313,
+    "chapter_id": 7784,
+    "verse_number": "४५",
+    "content_sanskrit": "दीप्",
+    "padaccheda": "दीपीँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to shine,to burn,to be illustrious, to glow",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211313,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दीपि ' इति क्षीरतरङ्गिणीपाठः ।"
+    }
+  ]
+}

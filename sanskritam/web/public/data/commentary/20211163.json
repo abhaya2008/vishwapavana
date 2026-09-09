@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211163,
+    "chapter_id": 7781,
+    "verse_number": "११६४",
+    "content_sanskrit": "वद्",
+    "padaccheda": "वदँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "व्यक्तायां वाचि",
+    "meaning_english": "to talk, to speak, to tell, to describe, to inform, to explain to utter, to communicate",
+    "audio_url": null,
+    "display_order": 1164,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211163,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — पीछे से बोलना\nअप — निन्दा करना, अपकार कारक भाषण करना\nअभि — सत्कार पूर्वक अभिनन्दन करना\nपरि — विरुद्ध बोलना\nप्रति — उत्तर देना\nवि — वाद विवाद करना\nवि + प्र — बकवास करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211163,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " व्यक्तवाचि वदेद्वा णौ वादयेद् वदते वदेत् ' (श्लो. 109) - देवः ।"
+    }
+  ]
+}

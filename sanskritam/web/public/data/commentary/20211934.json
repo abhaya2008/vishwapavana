@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211934,
+    "chapter_id": 7790,
+    "verse_number": "१८५",
+    "content_sanskrit": "पिण्ड्",
+    "padaccheda": "पिडिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सङ्घाते",
+    "meaning_english": "to heap,to unite, to pile up",
+    "audio_url": null,
+    "display_order": 185,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211934,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सङ्घाते पिण्डयेत् पिण्डेस्तत्रैव शपि पिण्डते ' (श्लो. 90) इति देवः ।"
+    }
+  ]
+}

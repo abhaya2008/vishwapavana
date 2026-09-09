@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211968,
+    "chapter_id": 7790,
+    "verse_number": "२१९",
+    "content_sanskrit": "लक्ष्",
+    "padaccheda": "लक्षँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "आलोचने",
+    "meaning_english": "to criticize",
+    "audio_url": null,
+    "display_order": 219,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211968,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आलोचनार्थात् णिचि लक्षयेत , स्याल्लक्षयेत् लक्षयतेङ्कनार्थात् ' (श्लो. 182) इति देवः ।"
+    }
+  ]
+}

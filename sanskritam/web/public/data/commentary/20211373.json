@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211373,
+    "chapter_id": 7784,
+    "verse_number": "१०५",
+    "content_sanskrit": "मद्",
+    "padaccheda": "मदीँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "हर्षे ग्लेपने च",
+    "meaning_english": "to be happy, to be tired, to be intoxicated",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211373,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ग्लेपनम् = दैन्यम् ' इति मा.धा.वृत्तिः । ' ग्लपने ' इति क्षीरतरङ्गिण्यां पाठः । ' स्तूत्यादौ मन्दते, हर्षे माद्येत् , मादयते णिचि ' (श्लो. 112) इति देवः ।"
+    }
+  ]
+}

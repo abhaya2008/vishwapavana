@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212590,
+    "chapter_id": 7792,
+    "verse_number": "७०",
+    "content_sanskrit": "पः किच्च",
+    "padaccheda": "",
+    "anvaya": "तुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212590,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पिबतीति पितुर्वह्नौ दिवाकरे ।"
+    }
+  ]
+}

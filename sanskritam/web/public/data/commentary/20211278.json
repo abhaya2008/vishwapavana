@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211278,
+    "chapter_id": 7784,
+    "verse_number": "१०",
+    "content_sanskrit": "नृत्",
+    "padaccheda": "नृतीँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "गात्रविक्षेपे",
+    "meaning_english": "to dance,to gesticulate, to enact",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211278,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "परि — चारो ओर से नाचना, चक्कर लगाते हुए नाचना"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210403,
+    "chapter_id": 7781,
+    "verse_number": "४०४",
+    "content_sanskrit": "कड्ड्",
+    "padaccheda": "कड्डँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कार्कश्ये",
+    "meaning_english": "to be harsh, to be rough, to be ruthless",
+    "audio_url": null,
+    "display_order": 404,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210403,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चुड्डादयस्त्रयः दोपधाः ' इति कौमुदी ।"
+    }
+  ]
+}

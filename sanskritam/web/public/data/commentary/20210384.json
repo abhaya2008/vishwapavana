@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210384,
+    "chapter_id": 7781,
+    "verse_number": "३८५",
+    "content_sanskrit": "कठ्",
+    "padaccheda": "कठँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कृच्छ्रजीवने",
+    "meaning_english": "to drag on the days of life, to live in distress",
+    "audio_url": null,
+    "display_order": 385,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210384,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अथ कण्ठते । शोके यो कण्ठयेत् कण्ठेत् कठेत् स्यात् कृच्छ्रजीवने ' (श्लो.79) इति देवः ।"
+    }
+  ]
+}

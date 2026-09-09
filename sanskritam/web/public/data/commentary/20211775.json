@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211775,
+    "chapter_id": 7790,
+    "verse_number": "२६",
+    "content_sanskrit": "चूर्ण्",
+    "padaccheda": "चुर्णँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रेरणे ",
+    "meaning_english": "to order, to motivate, to inspire, to paint, to color, to pull",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211775,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पोषणे इति चन्द्रः । अस्य धातोः क्षोदनमप्यर्थः इति धा.का.व्याख्याने । (3.15)"
+    }
+  ]
+}

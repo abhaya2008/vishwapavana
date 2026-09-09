@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213887,
+    "chapter_id": 7805,
+    "verse_number": "९४",
+    "content_sanskrit": "तथैव भागे सादृश्यं भागे भेदोऽवसीयते । भागाभावेऽपि वाक्यानां अत्यन्तं भिन्नधर्मणाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213887,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "दार्ष्टान्तिके योजयितुमाह--\nप्रतीतार्थः श्लोकः ॥"
+    }
+  ]
+}

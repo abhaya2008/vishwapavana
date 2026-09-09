@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211677,
+    "chapter_id": 7788,
+    "verse_number": "९",
+    "content_sanskrit": "मन्",
+    "padaccheda": "मनुँ",
+    "anvaya": "A-पदी, गणः 8",
+    "meaning_sanskrit": "अवबोधने",
+    "meaning_english": "to understand, to regard, to think, to believe, to assume",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211677,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्तम्भे मानयते, ज्ञाने मन्यते मनुते पदम् ' (श्लो. 125) इति देवः । ' बोधने इति मैत्रेयः ' इति मा.धा.वृत्तिटीका ।"
+    }
+  ]
+}

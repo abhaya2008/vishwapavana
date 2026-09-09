@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212730,
+    "chapter_id": 7793,
+    "verse_number": "५३",
+    "content_sanskrit": "वेपितुह्योर्ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "इनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212730,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "विपिनम् । तुहिनम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211125,
+    "chapter_id": 7781,
+    "verse_number": "११२६",
+    "content_sanskrit": "तिज्",
+    "padaccheda": "तिजँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "निशाने क्षमायाम् च",
+    "meaning_english": "to sharpen, to whet, to endure, to tolerate, to bear, to forgive",
+    "audio_url": null,
+    "display_order": 1126,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211125,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "( तिजि क्षमायां नित्यसन् ) निशानम् = तीक्ष्णीकरणम् । ' क्षमायाम् च ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

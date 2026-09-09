@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20203302,
+    "chapter_id": 7774,
+    "verse_number": "७.२.२४",
+    "content_sanskrit": "अर्देः संनिविभ्यः",
+    "padaccheda": "अर्देः । सन्निविभ्यः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": "अनुवृत्तिः — न (७.२.८), इट् (७.२.८), निष्ठायाम् (७.२.१४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203302,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सं नि वि इत्येतेभ्य उत्तरस्यार्देर्निष्ठायामिडागमो न भवति। समर्णः। न्यर्णः। व्यर्णः। अर्देरिति किम्? समेधितः संनिविभ्य इति किम्? अर्दितः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203302,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एतत्पूर्वादर्देर्निष्ठाया इण्न स्यात् । समर्णः । न्यर्णः । व्यर्णः । अर्दितोऽन्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203302,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अर्देः` इति। `अर्द गतौ याचने च` (धातुपाठः-55)॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203302,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एभ्योऽर्देर्निष्ठायामिण् न । दान्तत्वान्नत्वम् । समर्णः । न्यर्णः । व्यर्णः । अर्दितोऽन्यः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203302,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The participial affix does not take the augment इट् after the root अर्द when it is preceded by 1. सं 2. नि or 3. वि।\nAs समर्णः, 'plagued' न्यर्णः, ष्यर्णः ॥ Why 'of अर्द'? Observe समेधितः ॥ Why 'सम्, नि or वि'? Observe अर्दितः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203302,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The participial affix does not take the augment इट् after the root अर्द when it is preceded by 1. सं 2. नि or 3. वि।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203302,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अ-व्यर्णो गिरि-कूटाभान्- (भट्टिकाव्यम् 9.19) — `अर्देः सं-नि-विभ्यः` इति इट्प्रतिषेधः।"
+    }
+  ]
+}

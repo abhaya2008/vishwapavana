@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211570,
+    "chapter_id": 7786,
+    "verse_number": "१०१",
+    "content_sanskrit": "मुट्",
+    "padaccheda": "मुटँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "आक्षेपमर्दनयोः",
+    "meaning_english": "to object, to insult, to blame, to crush, to grid",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211570,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' प्रमर्दने चापेक्षे च मुटेत् आद्ये तु मोटति ' (श्लो. 71) इति देवः ।"
+    }
+  ]
+}

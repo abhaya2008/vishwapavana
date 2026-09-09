@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210232,
+    "chapter_id": 7781,
+    "verse_number": "२३३",
+    "content_sanskrit": "म्लेच्छ्",
+    "padaccheda": "म्लेछँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे",
+    "meaning_english": "to speak indistinctly, to murmur, to blabber",
+    "audio_url": null,
+    "display_order": 233,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210232,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' छकारे परतः दीर्घस्य तुगिति तुक् ' इति मा.धा.वृत्तिः । ' अव्यक्तायां वाचि ' इति क्षीरस्वामी । ' इह अव्यक्तशब्दः अस्फुटशब्दः अपशब्दश्च ' - मा.धा.वृत्तिः ।"
+    }
+  ]
+}

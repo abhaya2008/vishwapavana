@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212977,
+    "chapter_id": 7795,
+    "verse_number": "१७",
+    "content_sanskrit": "अनिहृषिभ्याम् किच्च",
+    "padaccheda": "",
+    "anvaya": "ईकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212977,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अनीकम् । हृषीकम् ।"
+    }
+  ]
+}

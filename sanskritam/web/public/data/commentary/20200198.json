@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200198,
+    "chapter_id": 7751,
+    "verse_number": "१.३.५१",
+    "content_sanskrit": "अवाद्ग्रः",
+    "padaccheda": "अवात् । ग्रः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200198,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<गॄ निगरणे>> (धा० पा० १४१०) इति तुदादौ पठ्यते, तस्येदं ग्रहणम्, न तु <<गॄ शब्दे>> (धा० पा० १४९८) इति क्र्यादिपठितस्य। तस्य ह्यवपूर्वस्य प्रयोग एव नास्ति (म० भा० [[१.३.५१]]) । <<शेषात् क​र्तरि परस्मैपदे>> [[१.३.७८]] प्राप्तेः, अवपूर्वाद् गिरतेरात्मनेपदं भवति। अवगिरते, अवगिरेते, अवगिरन्ते। अवादिति किम्? गिरति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200198,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अवगिरते । कृणातिस्त्ववपूर्वो न प्रयुज्यत एवेति भाष्यम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200198,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अवाद्ग्रः>> - अवाद्ग्रः । आत्मनेपद॑मिति शेषः । 'गृ' इत्यस्य 'ग्र' इति पञ्चमी ।प्रकृतिवदनुकरण॑मित्यस्याऽनुत्यत्वात्ऋत इद्धातो॑रिति न भवति । तदनित्यत्वे इदमेव मानम् । अवगिरत इति । शविकरणोऽयम् ।अवगृणाती॑त्यत्राप्यात्मनेपदमाशङ्क्य आह —  गृणातिस्त्विति । एवं च तुदादेरेव ग्रहणमिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200198,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अवगिरते` इति। `ऋत इद्धातोः` 97.1.100) इतीत्त्वम्, रपरत्वञ्च।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200198,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "'गिरः'  इति पाठे धात्वनुकरणत्वाद् विभक्तावित्वम् ।'ग्रः' इति तु पाठे रूपमात्रानुकरणं द्रष्टव्यम्। तस्य ह्यवपूर्वस्येति। नियतविषयाण्यपि क्रियाविशेषणानि भवन्ति, यथा - उर्यादयः कृभ्वस्तिभ्योऽन्यविषया न भवन्तीति भावः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200198,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "निगिरणार्थस्योक्तिः । अवगिरतेऽन्नम् ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200198,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "अवाद्ग्रः अवाद् ग्रो गिरतेः ॥ 1 ॥ अवाद् ग्र इत्यत्र गिरतेरिति वक्तव्यम्। गृणातेर्मा भूत्। तत्तर्हि वक्तव्यम्। न वा प्रयोगाभावात्। न वक्तव्यम्, प्रयोगाभावात्। अवाद् ग्र इत्युच्यते, न चावपूर्वस्य गृणातेः प्रयोगोऽस्ति ॥ 51 ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200198,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb गॄ 'to swallow', when preceded by अव, the आत्मनेपद is used.\nAs अवगिरति (he swallows). The root <i>gri</i> to swallow preceded by the preposition <i>ava</i> is <i>Atmanepadi</i>. The verb <i>gri</i> taken in this <i>sutra</i> means to swallow and belongs to the <i>Tudadi</i> class. It is not the <i>gri</i> 'to make sound' which belongs to the <i>kryadi</i> class, because there is no word formed with the latter verb by affixing the preposition <i>ava</i> to it. By <i>sutra</i> (I..3.78) this verb <i>gri</i> 'to swallow' would have been <i>Parasmaipadi</i>; the present <i>sutra</i> debars that.\n\nWhen it is not preceded by <i>ava</i>, it is <i>Parasmaipadi</i>, as गिरति 'he swallows.'"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200198,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb गॄ 'to swallow', when preceded by अव, the आत्मनेपद is used."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200198,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "नृपः संगिरमाण एव (भट्टिकाव्यम् 3.8) — `अवाद्रः` इति अधिकृत्य तङ् ।\nतथाऽवगिरमाणैश्च पिशाचैर्माम्स-शोणितम् (भट्टिकाव्यम् 8.30) — `अवाद् ग्रः` इति गिरतेरभ्यवहारार्थत्वात् तङ्।"
+    }
+  ]
+}

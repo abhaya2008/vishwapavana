@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214432,
+    "chapter_id": 7806,
+    "verse_number": "१४९",
+    "content_sanskrit": "अथाप्यवाच्यं इत्येवं, न तद्वाच्यं प्रतीयते । विवक्षितास्य यावस्था सैव नाध्यवसीयते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214432,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "अवाच्यशब्दस्याप्यवाच्यत्वे प्रतिपिपादयिषितं शब्दानभिधेयत्वं समवायस्य न गम्येतेत्यस्य वाच्य एव । तथा च विरोध इत्यर्थः ॥"
+    }
+  ]
+}

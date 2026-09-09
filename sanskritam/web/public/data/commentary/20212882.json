@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212882,
+    "chapter_id": 7794,
+    "verse_number": "८२",
+    "content_sanskrit": "आनकः शीङ्भियः",
+    "padaccheda": "",
+    "anvaya": "आनक",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212882,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शयानकोऽजगरः । भयानकः ।"
+    }
+  ]
+}

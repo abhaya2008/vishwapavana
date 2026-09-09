@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210467,
+    "chapter_id": 7781,
+    "verse_number": "४६८",
+    "content_sanskrit": "लप्",
+    "padaccheda": "लपँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "व्यक्तायां वाचि",
+    "meaning_english": "to talk,to speak, to articulate",
+    "audio_url": null,
+    "display_order": 468,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210467,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — स्वीकार करना\nअनु — दूसरे के सामने बोलना\nआ — आलाप करना\nवि — रोना"
+    }
+  ]
+}

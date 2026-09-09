@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216643,
+    "chapter_id": 7843,
+    "verse_number": "१८",
+    "content_sanskrit": "सुखाद्युपलब्धिसाधनमिन्द्रियं मनः । तच्च प्रत्यात्मनियतत्वादनन्तं परमाणुरूपं नित्यञ्च ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": "मनः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216643,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "सुखेति । आत्ममनः संयोगादिवारणाय इन्द्रियमिति । चक्षुरादिवारणाय सुखेति ।"
+    }
+  ]
+}

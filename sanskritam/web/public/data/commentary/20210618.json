@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210618,
+    "chapter_id": 7781,
+    "verse_number": "६१९",
+    "content_sanskrit": "वेल्ल्",
+    "padaccheda": "वेल्लँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "चलने",
+    "meaning_english": "to go, walk",
+    "audio_url": null,
+    "display_order": 619,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210618,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तरङ्गिण्यां पाठोयं न दृश्यते । मैत्रेयसम्मतः पाठः इति धातुवृत्तिदर्शनात् ज्ञायते ।"
+    }
+  ]
+}

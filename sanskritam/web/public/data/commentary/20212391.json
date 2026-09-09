@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212391,
+    "chapter_id": 7791,
+    "verse_number": "१३३",
+    "content_sanskrit": "सुस्नात । सुखरात्रि । सुखशयन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 133,
+    "avatarnika": "सुस्नातादिः (4.4.1)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212391,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "पृच्छतौ सुस्नातादिभ्यः"
+    }
+  ]
+}

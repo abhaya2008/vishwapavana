@@ -1,0 +1,45 @@
+{
+  "verse": {
+    "id": 20202480,
+    "chapter_id": 7769,
+    "verse_number": "६.१.४१",
+    "content_sanskrit": "ल्यपि च",
+    "padaccheda": "ल्यपि । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": "अनुवृत्तिः — सम्प्रसारणम् (६.१.३२), न (६.१.३७), सम्प्रसारणम् (६.१.३७), वेञः (६.१.४०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202480,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वेञ इत्यनुवर्तते। ल्यपि च परतो वेञः संप्रसारणं न भवति। प्रवाय। उपवाय। पृथग्योगकरणमुत्तरार्थम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202480,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वेञो ल्यपि सम्प्रसारणं न स्यात् । प्रवाय ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202480,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The semi-vowel of वे 'to weave' is not vocalised in the Participial affix ल्यप् follows.\nThus प्रवाय, उपवाय ॥ The separation of this <i>sutra</i> from the last, is for the sake of the subsequent <i>sutras</i>, into which the <i>anuvritti</i> of ल्यप् only runs."
+    },
+    {
+      "id": 4,
+      "verse_id": 20202480,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The semi-vowel of वे 'to weave' is not vocalised in the Participial affix ल्यप् follows."
+    }
+  ]
+}

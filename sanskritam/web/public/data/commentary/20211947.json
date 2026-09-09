@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211947,
+    "chapter_id": 7790,
+    "verse_number": "१९८",
+    "content_sanskrit": "तन्त्र्",
+    "padaccheda": "तत्रिँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "कुटुम्बधारणे",
+    "meaning_english": "to support the family, to govern, to lead",
+    "audio_url": null,
+    "display_order": 198,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211947,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चान्द्राः धातुद्वयमिति मत्वा ' कुटुम्बयते इत्युदाहरन्ति ' इति सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

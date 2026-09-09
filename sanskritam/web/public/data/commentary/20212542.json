@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212542,
+    "chapter_id": 7792,
+    "verse_number": "२२",
+    "content_sanskrit": "कुर्भ्रश्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212542,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बभ्रुर्मुन्यन्तरे विष्णौ बभ्रू नकुलपिङ्गलौ । चादन्यतोऽपि । चक्रुः कर्ता । जघ्नुर्हन्ता । पपुः पालकः ।"
+    }
+  ]
+}

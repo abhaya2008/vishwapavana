@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211140,
+    "chapter_id": 7781,
+    "verse_number": "११४१",
+    "content_sanskrit": "त्यज्",
+    "padaccheda": "त्यजँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हानौ",
+    "meaning_english": "to abandon,to leave,to quit,to let go,to renounce",
+    "audio_url": null,
+    "display_order": 1141,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211140,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "हानिः = उत्सर्गः इति बालमनोरमा । त्यागः इति क्षीरस्वामी ।"
+    }
+  ]
+}

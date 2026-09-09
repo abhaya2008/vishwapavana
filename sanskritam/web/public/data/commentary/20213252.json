@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213252,
+    "chapter_id": 7796,
+    "verse_number": "५४",
+    "content_sanskrit": "अवद्यावमाधमार्वरेफाः",
+    "padaccheda": "",
+    "anvaya": "यत्, अम, वन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213252,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुत्सिते वदेर्नञि यत् । अवद्यम् । अवतेरमः । वस्य पक्षे धः । अवमः । अधमः । अर्तेर्वन् । अर्वा । रिफतेस्तौदादिकादेः । रेफः ।"
+    }
+  ]
+}

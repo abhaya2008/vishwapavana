@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212540,
+    "chapter_id": 7792,
+    "verse_number": "२०",
+    "content_sanskrit": "शः कित्सन्वच्च",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212540,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्यतेरुः स्यात्स च कित्सन्वच्च । शिशुर्बालः ।"
+    }
+  ]
+}

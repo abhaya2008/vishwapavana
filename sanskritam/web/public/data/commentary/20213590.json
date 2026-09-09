@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213590,
+    "chapter_id": 7802,
+    "verse_number": "१८",
+    "content_sanskrit": "उशीरदाशेरकपालपलालशैवालश्यामाकशारीरशरावहृदयहिरण्यारण्यापत्यदेवराणाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213590,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एषामादिरुदात्तः स्यात् ॥"
+    }
+  ]
+}

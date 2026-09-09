@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211300,
+    "chapter_id": 7784,
+    "verse_number": "३२",
+    "content_sanskrit": "मी",
+    "padaccheda": "मीङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to die, to leave body",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211300,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मीञो मीनाति मीनीते, हिंसायां मीयते ङितः ' (श्लो. 16) इति देवः । ' हिंसात्र मृतिः ' इति धा.का.व्या व्याख्यायाम् (2.58) ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213441,
+    "chapter_id": 7799,
+    "verse_number": "१०७",
+    "content_sanskrit": "नाड्यपजनोपपदानि व्रणाङ्गपदानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 107,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213441,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यथासङ्ख्यं नाड्यादीन्युपपदानि व्रणादीनि पुंसि स्युः । अयं नाडीव्रणः । अपाङ्गः । जनपदः । व्रणादीनामुभयलिङ्गत्वेऽपि क्लीबत्वानुवृत्यर्थं सूत्रम् ।"
+    }
+  ]
+}

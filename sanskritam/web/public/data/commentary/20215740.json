@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20215740,
+    "chapter_id": 7808,
+    "verse_number": "४",
+    "content_sanskrit": "किमुच्यते-विवारभेदादिति, न पुनः कालभेदादपि । यथैव ह्ययं विवारभिन्नः, एवं कालभिन्नोऽपि?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": "व्यक्तिपक्षाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215740,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": " व्यक्तिपक्षे भेदान्तरसद्भावादाह- <x>किमुच्यत</x> इति ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20215740,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": " ननु प्रयत्नभेदेऽपि जातिसद्भावात्स्यादेव ग्रहणमत उक्तम्‌ - <y>व्यक्तिपक्ष इति</y>"
+    }
+  ]
+}

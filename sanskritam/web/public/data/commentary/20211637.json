@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211637,
+    "chapter_id": 7786,
+    "verse_number": "१६८",
+    "content_sanskrit": "विद्",
+    "padaccheda": "विदॢँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "लाभे",
+    "meaning_english": "to obtain, to receive",
+    "audio_url": null,
+    "display_order": 168,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211637,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "व्याघ्रभूत्यादिमते सेट्कः अयम् । भाष्यादिमते अनिट्कः । ' विन्दते विन्दतीत्येवं लाभे वेदयते णिचि ' (श्लो. 111) इति देवः ।"
+    }
+  ]
+}

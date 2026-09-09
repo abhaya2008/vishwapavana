@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211374,
+    "chapter_id": 7784,
+    "verse_number": "१०६",
+    "content_sanskrit": "अस्",
+    "padaccheda": "असुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "क्षेपणे",
+    "meaning_english": "to throw, to be disappointed",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211374,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " असतेसति गत्यादौ भुव्यस्ति क्षेपणेस्यति ' (श्लो. 184) - देवः ।"
+    }
+  ]
+}

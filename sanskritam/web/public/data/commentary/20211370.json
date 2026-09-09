@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211370,
+    "chapter_id": 7784,
+    "verse_number": "१०२",
+    "content_sanskrit": "भ्रम्",
+    "padaccheda": "भ्रमुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "अनवस्थाने",
+    "meaning_english": "to be unsteady,to wander to roam",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211370,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अनवस्थानम् = देशान्तरगमनम् । ' चलने भ्रमति भ्रम्येत् , शमादेः भ्राम्यति भ्रमेत् ' (श्लो. 147) इति देवः ।"
+    }
+  ]
+}

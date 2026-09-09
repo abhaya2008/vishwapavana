@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200884,
+    "chapter_id": 7758,
+    "verse_number": "३.२.११६",
+    "content_sanskrit": "हशश्वतोर्लङ् च",
+    "padaccheda": "ह-शश्वतोः । लङ् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अनद्यतने (३.२.१११), लिट् (३.२.११५), परोक्षे (३.२.११५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200884,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भूतानद्यतनपरोक्षेऽर्थे लिटि प्राप्ते, हशश्वतोरुपपदयोर्लङ् प्रत्ययो भवति, चकाराल् लिट् च। इति ह अकरोत्। इति ह चकार। शश्वदकरोत्। शश्वच् चकार॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200884,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अनयोरुपपदयोर्लिङ्विषये लङ् स्यात् । इतिहाकरोच्चकार वा । शश्वदकरोच्चकार वा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200884,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<हशश्वतोर्लङ् च>> - हशआतोर्लङ् च । स्पष्टम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200884,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आभ्यां योगे लिड्विषये लङ् लिट् च स्यात् । इति हाकरोच्चकार वा । शश्वदकरोत्, शश्वच्चकार ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200884,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And the affix लङ् (Imperfect Tense) comes after the verb when the particles ह and शश्वत are in connection with it and when the verb denotes past action unperceived by the speaker and before the commencement of the current day.\nThe force of च 'and' is that the affix लिट् (perfect) may also be employed in similar construction. As इति हाकरोत् (imperfect), or इति ह चकार (perfect) 'Alas ! he did it'. शश्वदकरोत् or शश्वच्चकार 'again and again he did it'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20200884,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And the affix लङ् (Imperfect Tense) comes after the verb when the particles ह and शश्वत are in connection with it and when the verb denotes past action unperceived by the speaker and before the commencement of the current day."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200884,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "यतो न\"इतिहाऽकरोत् (भट्टिकाव्यम् 6.140) — `हशश्वतोर्लङ् च` इति भूतानद्यतनपरोक्षलिटि प्राप्ते लङ्।"
+    }
+  ]
+}

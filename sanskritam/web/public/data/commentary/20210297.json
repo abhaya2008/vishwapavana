@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210297,
+    "chapter_id": 7781,
+    "verse_number": "२९८",
+    "content_sanskrit": "मुण्ठ्",
+    "padaccheda": "मुठिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "पालने",
+    "meaning_english": "to protect",
+    "audio_url": null,
+    "display_order": 298,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210297,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' पलायने ' इति क्षीरस्वामी । ' काशकृत्स्नचन्द्रौ च ' इति क्षी. टीका ।"
+    }
+  ]
+}

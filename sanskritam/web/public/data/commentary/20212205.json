@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212205,
+    "chapter_id": 7790,
+    "verse_number": "४५६",
+    "content_sanskrit": "कत्र",
+    "padaccheda": "कत्र",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शैथिल्ये",
+    "meaning_english": "to loosen, to leave, to abandon",
+    "audio_url": null,
+    "display_order": 456,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212205,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' कर्त ' इत्यप्येके ।"
+    }
+  ]
+}

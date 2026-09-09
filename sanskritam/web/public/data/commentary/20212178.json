@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212178,
+    "chapter_id": 7790,
+    "verse_number": "४२९",
+    "content_sanskrit": "सभाज",
+    "padaccheda": "सभाज",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रीतिदर्शनयोः प्रीतिसेवनयोः च",
+    "meaning_english": "to love, to show affection, to serve, to see",
+    "audio_url": null,
+    "display_order": 429,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212178,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

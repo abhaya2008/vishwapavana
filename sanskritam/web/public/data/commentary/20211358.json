@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211358,
+    "chapter_id": 7784,
+    "verse_number": "९०",
+    "content_sanskrit": "रध्",
+    "padaccheda": "रधँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसासंराद्ध्योः",
+    "meaning_english": "to kill,to injure,to hurt, to be ripen, to be ready",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211358,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' रधादिभ्यश्च ' - रध , नश् , तृप् , दृप् , द्रुह् , मुह् , ष्णुह् , ष्णिह् , एभ्यः वलाद्यार्धधातुकस्य वेट् स्यात् । ' रध हिंसायाम् ' इत्येव प्रौढमनोरमादिषु पाठः । ' हिंसासंसिद्ध्योः ' इति काशिकायां (7.2.45) दृष्टः पाठः । संराद्धिः = विपत्तिः । ' संराद्धिः पाकः ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

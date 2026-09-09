@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211475,
+    "chapter_id": 7786,
+    "verse_number": "६",
+    "content_sanskrit": "कृष्",
+    "padaccheda": "कृषँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "विलेखने",
+    "meaning_english": "to plow, to furrow, to cultivate",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211475,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — स्त्राव करना, बहाना, हीन करना\nअव — तिस्कृत करना, बाहर निकालना, ऊपर उठाना\nआ — आकर्षण करना, खींचना, उठाना, उत्तेजन करना\nसम् — समेटना\nसम् + नि — खींचके समीप ले आना\nउद् — उठाना, उध्दृत करना, उठा लेना, उत्तेजन करना, ऊपर उठाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211475,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कर्षत्याकर्षणे शे तु कृषते कृषतीत्युभे ' (श्लो. 178) इति देवः ।"
+    }
+  ]
+}

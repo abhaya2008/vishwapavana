@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211144,
+    "chapter_id": 7781,
+    "verse_number": "११४५",
+    "content_sanskrit": "कृष्",
+    "padaccheda": "कृषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विलेखने",
+    "meaning_english": "to farm, to plow, to cultivate",
+    "audio_url": null,
+    "display_order": 1145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211144,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — बहना\nआ — आकर्षण करना, खींचना\nउद् — उठाना\nसम् — आकुंचित करना, समेटना\nसम् + नि — खींचकर समीप ले आना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211144,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "विलेखनम् = आकर्षणम् । हलोत्किरणमिति क्षीरस्वामी ।"
+    }
+  ]
+}

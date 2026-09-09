@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212088,
+    "chapter_id": 7790,
+    "verse_number": "३३९",
+    "content_sanskrit": "पृच्",
+    "padaccheda": "पृचँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "संयमने",
+    "meaning_english": "to touch, to hold, to control, to restrain",
+    "audio_url": null,
+    "display_order": 339,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212088,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पृणाक्ति पृक्ते (ङ्के) सम्पर्के यौ पर्चयति पर्चति ' (श्लो. 51) - देवः ।"
+    }
+  ]
+}

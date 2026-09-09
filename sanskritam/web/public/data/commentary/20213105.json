@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213105,
+    "chapter_id": 7795,
+    "verse_number": "१४५",
+    "content_sanskrit": "बृंहेर्नोच्च",
+    "padaccheda": "",
+    "anvaya": "मनिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213105,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नकारस्याकारः । ब्रह्म तत्वं तपो वेदो ब्रह्मा विप्रः प्रजापतिः ।"
+    }
+  ]
+}

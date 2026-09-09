@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212062,
+    "chapter_id": 7790,
+    "verse_number": "३१३",
+    "content_sanskrit": "वृध्",
+    "padaccheda": "वृधुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 313,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212062,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' छेदने पूरणे चार्थे वर्धेर्वर्धयतीति णौ ' (श्लो. 123) - देवः ।"
+    }
+  ]
+}

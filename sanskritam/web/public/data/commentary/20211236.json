@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211236,
+    "chapter_id": 7782,
+    "verse_number": "७१",
+    "content_sanskrit": "दीधी",
+    "padaccheda": "दीधीङ्",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "दीप्तिदेवनयोः",
+    "meaning_english": "to glow, to shine, to play, to enjoy",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211236,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वस्तुतस्तु छन्दसि दृष्टानुविधित्वादेषां पञ्चानां लोकानुसारेण रूपवर्ण वर्णनमनुचितम् ' इति बालमनोरमा । ' अस्माभिः तु कालापमतानुसारेण उदाहरणप्रदर्शनं कृतम् ' इति मा.धा.वृत्तिः । धातुरयं छान्दसः । देवनम् - क्रीडाविजिगीषादिकम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212859,
+    "chapter_id": 7794,
+    "verse_number": "५९",
+    "content_sanskrit": "तृणाख्यायां चित्",
+    "padaccheda": "",
+    "anvaya": "उनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212859,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चित्त्वादन्तोदात्तः । अर्जुनं तृणम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210012,
+    "chapter_id": 7781,
+    "verse_number": "१३",
+    "content_sanskrit": "मन्द्",
+    "padaccheda": "मदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "स्तुतिमोदमदस्वप्नकान्तिगतिषु",
+    "meaning_english": "to praise, to be glad, to be proud, to sleep, to shine, to move slowly, to intoxicate",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210012,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्तुत्यादौ मन्दते, हर्षे माद्येत्, मादयते णिचि' (श्लॊ. 112) इति देवः । ' मोदो = हर्षः, मदो = गर्वः, स्वप्नः = आलस्यम् । चन्द्रस्तु ' मदि जाड्ये ' इत्येव पपाठ । ' स्तुतिगतिभ्याम् अन्यत्र अकर्मकः' इति माधवीयधातुवृत्तिः । ' स्वप्नेनालस्यमपि लक्ष्यते ' इति क्षीरस्वामी । धातोरस्य कान्त्यर्थकत्वं केषाञ्चिदसम्मतम् ।"
+    }
+  ]
+}

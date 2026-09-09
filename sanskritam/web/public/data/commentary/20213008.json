@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213008,
+    "chapter_id": 7795,
+    "verse_number": "४८",
+    "content_sanskrit": "वीज्याज्यरिभ्यो निः",
+    "padaccheda": "",
+    "anvaya": "नि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213008,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बाहुलकाण्णत्वम् । वेणिः स्यात्केशविन्यासः प्रवेणी च स्त्रियामुभे । ज्यानिः । जूर्णिः ।"
+    }
+  ]
+}

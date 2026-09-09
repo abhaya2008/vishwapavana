@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213025,
+    "chapter_id": 7795,
+    "verse_number": "६५",
+    "content_sanskrit": "अदिशदिभूशुभिभ्यः क्रिन्",
+    "padaccheda": "",
+    "anvaya": "क्रिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213025,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अद्रिः । शद्रिः । शर्करा । भूरि प्रचुरम् । शुभ्रिर्ब्रह्मा ।"
+    }
+  ]
+}

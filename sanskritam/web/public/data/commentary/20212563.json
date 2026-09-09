@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212563,
+    "chapter_id": 7792,
+    "verse_number": "४३",
+    "content_sanskrit": "मसेश्च",
+    "padaccheda": "",
+    "anvaya": "उरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212563,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पञ्चमे पादे मसेरूरन्निति वक्ष्यते । मसूरा मसुरा व्रीहिप्रभेदे पण्ययोषिति । मसूरा मसुरा वा ना वेश्याव्रीहिप्रभेदयोः । मसूरी पादरोगे स्यादुपधाने पुनः पुमान् । मसूरमसुरौ च द्वाविति विश्वः ।"
+    }
+  ]
+}

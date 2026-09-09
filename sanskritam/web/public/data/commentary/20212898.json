@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212898,
+    "chapter_id": 7794,
+    "verse_number": "९८",
+    "content_sanskrit": "वृञ एण्यः",
+    "padaccheda": "",
+    "anvaya": "एण्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212898,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वरेण्यः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211522,
+    "chapter_id": 7786,
+    "verse_number": "५३",
+    "content_sanskrit": "मृड्",
+    "padaccheda": "मृडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "सुखने",
+    "meaning_english": "to make happy,to rejoice,to be happy",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211522,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मृडेर्मृड्णाति सुखने तत्रैव मृडतीति शे ' (श्लो. 87) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211342,
+    "chapter_id": 7784,
+    "verse_number": "७४",
+    "content_sanskrit": "युज्",
+    "padaccheda": "युजँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "समाधौ",
+    "meaning_english": "to concentrate, to focus, to abstain from senses, to meditate",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211342,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " \" चित्तवृत्तेः धात्वर्थान्तर्भावात् अकर्मकत्वम् । अर्थान्तरे तु सकर्मकोपि ' सृजयुज्योः सकर्मकयोः कर्मवद्भावः ' इति कर्मवत्सूत्रवार्तिकात् \" इति बालमनोरमा । समाधिः = चित्तवृत्तिनिरोधः । ' युनक्ति युङ्क्ते योगार्थे समाधौ युज्यते श्यनि । युजेः संयमनार्थे वा णौ योजयति योजति ' (श्लो. 64 ) इति देवः ।"
+    }
+  ]
+}

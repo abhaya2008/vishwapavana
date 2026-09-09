@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202434,
+    "chapter_id": 7768,
+    "verse_number": "५.४.१५५",
+    "content_sanskrit": "न संज्ञायाम्",
+    "padaccheda": "न । संज्ञायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": "अनुवृत्तिः — बहुव्रीहौ (५.४.११३), कप् (५.४.१५१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202434,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "संज्ञायां विषये बहुव्रीहौ समासे कप् प्रत्ययो न भवति। पूर्वेण प्राप्तः प्रतिषिध्यते। विश्वे देवा अस्य विश्वदेवः। विश्वयशाः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202434,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शेषादिति प्राप्तः कप् न स्यात्संज्ञायाम् । विश्वे देवा अस्य विश्वदेवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202434,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<न संज्ञायाम्>> - न संज्ञायाम् । शेषादिति प्राप्त इति ।अनन्तरस्ये॑ति न्यायात् । 'सेषाद्विभाषा' इति विहितस्य कपएवायं निषेधो, नतु व्यवहितस्यनद्यृतश्चे॑त्यादिकप इति भावः । विओ देवा अस्येति । अत्र संज्ञायां समासस्य नित्यत्वाल्लौकिकविग्रहप्रदर्शनं चिन्त्यमेव ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202434,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नाम्नि बहुव्रीहौ कब्न । विश्वयशाः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202434,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कप् does not come after a बहुव्रीहि समास when a name is meant.\nThis debars कप् ordained by the last. Thus विश्वेदेवा अस्य = विश्वदेवः, विश्वयशाः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202434,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कप् does not come after a बहुव्रीहि समास when a name is meant."
+    }
+  ]
+}

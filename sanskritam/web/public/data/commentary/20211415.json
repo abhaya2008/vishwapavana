@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211415,
+    "chapter_id": 7784,
+    "verse_number": "१४७",
+    "content_sanskrit": "गुप्",
+    "padaccheda": "गुपँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "व्याकुलत्वे",
+    "meaning_english": "to be confused, to be disturbed,to be distressed",
+    "audio_url": null,
+    "display_order": 147,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211415,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' णौ गोपयति भाषार्थे , निन्दायाम् से जुगुप्सते । गोपायेद् रक्षणे त्वाये , व्याकुलत्वे तु गुप्यति ' (श्लो. 129) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211632,
+    "chapter_id": 7786,
+    "verse_number": "१६३",
+    "content_sanskrit": "सद्",
+    "padaccheda": "षदॢँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विशरणगत्यवसादनेषु",
+    "meaning_english": "to go, to lose energy, to move, to be sad",
+    "audio_url": null,
+    "display_order": 163,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211632,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — डुबना\nवि — डुबना, थकना, श्रान्त होना, दुःखी होना\nउप — पास जाना, पास बैठना\nनि — नीचे बैठना, लेटना\nप्र — खुष होना, आनंद होना, संतुष्ट होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211632,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " इह पाठः नुम् विकल्पार्थः । ज्वालादौ पाठस्तु णार्थः स्वरार्थश्च ' इति कौमुदी ।"
+    }
+  ]
+}

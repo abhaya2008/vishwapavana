@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202249,
+    "chapter_id": 7767,
+    "verse_number": "५.३.८९",
+    "content_sanskrit": "कुत्वा डुपच्",
+    "padaccheda": "कुत्वा । डुपच्",
+    "anvaya": "ह्रस्वे कुत्वाः डुपच्",
+    "meaning_sanskrit": "'ह्रस्व' इत्यस्य विशेष्यरूपेण विहितात् 'कुतू' शब्दात् स्वार्थे 'डुपच्' प्रत्ययः भवति ।",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202249,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ह्रस्व इत्येव। कुतूशब्दाद् ह्रस्वत्वे द्योत्ये डुपच् प्रत्ययो भवति। कस्यापवादः। ह्रस्वा कुतूः कुतुपम्। चर्ममयं स्नेहभाजनमुच्यते। कुतूरित्यावपनस्याख्या॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202249,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ह्रस्वा कुतूः कुतुपः । कुतूः कृत्तेः स्नेहपात्रं ह्रस्वा सा कुतुपः पुमान् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202249,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कुत्वा डुपच्>> - कुत्वा डुपच् । कुतुप इति । कुतूशब्दात् डुपचि ङित्त्वाट्टिलोपः । तत्रापि कुटीरादिवत्स्तीर्तवमपहाय पुंस्त्वमेव । तत्राऽमरकोशषमपि प्रमाणयति — कुतूः कृत्तिस्नेहेति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202249,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "चार्मणं स्नेहपात्रं कुतूः । सा ह्रस्वा कुतुपः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202249,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix डुपच् (उप) comes in expressing diminution after the word कुतू 'a jar'.\nThis debars क ॥ Thus कुतुपः, from कुतू the long ऊ being elided owing to ड ॥ It means a small leathern vessel for oil. This word is neuter also, as, कुतुपम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202249,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix डुपच् (उप) comes in expressing diminution after the word कुतू 'a jar'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202249,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'ह्रस्व' (यत् दीर्घः नास्ति तत्, short) इत्यस्य विशेष्यरूपेण विहितं यत् प्रातिपदिकम्, तस्मात् <<ह्रस्वे>> [[5.3.86]] इत्यनेन औत्सर्गिकरूपेण  क-प्रत्यये प्राप्ते 'कुतू' अस्य विषये अपवादरूपेण 'डुपच्' प्रत्ययः भवति ।\nह्रस्वा  कुतू (oil bag / oil bottle) इत्येव\n= कुतू + डुपच्\nकुतू + उप [डकारचकारयोः इत्संज्ञा, लोपः]\n→ कुत् + उप [डित्त्वात् <<टेः>> [[6.4.143]] इति टिलोपः]\n→ कुतुप ।\nA small-sized oil container / bottle is called कुतुपः । अयम् शब्दः पुंलिङ्गे प्रयुज्यते ।\n"
+    }
+  ]
+}

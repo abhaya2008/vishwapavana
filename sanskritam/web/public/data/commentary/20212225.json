@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212225,
+    "chapter_id": 7790,
+    "verse_number": "४७६",
+    "content_sanskrit": "दुःख",
+    "padaccheda": "दुःख",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "तत्क्रियायाम्",
+    "meaning_english": "to make sad, to be sad",
+    "audio_url": null,
+    "display_order": 476,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212225,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ( ' तत्क्रिया ' इति पदस्य ' सुख ' धातौ यादृशं विवरणं तादृशमेव अत्रापि ।)"
+    }
+  ]
+}

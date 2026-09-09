@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212167,
+    "chapter_id": 7790,
+    "verse_number": "४१८",
+    "content_sanskrit": "कुमार",
+    "padaccheda": "कुमार",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्रीडायाम्",
+    "meaning_english": "to play like a child",
+    "audio_url": null,
+    "display_order": 418,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212167,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

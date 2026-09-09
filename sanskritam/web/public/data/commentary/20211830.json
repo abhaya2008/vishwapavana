@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211830,
+    "chapter_id": 7790,
+    "verse_number": "८१",
+    "content_sanskrit": "चुद्",
+    "padaccheda": "चुदँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सञ्चोदने",
+    "meaning_english": "to inspire, to question, to ask, to request",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211830,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सञ्चोदनम् = प्रश्नः , प्रेरणं वा । प्रश्ने द्विकर्मकः ।"
+    }
+  ]
+}

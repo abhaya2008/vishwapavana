@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210992,
+    "chapter_id": 7781,
+    "verse_number": "९९३",
+    "content_sanskrit": "कुच्",
+    "padaccheda": "कुचँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सम्पर्चनकौटिल्यप्रतिष्टम्भविलेखनेषु",
+    "meaning_english": "to contract,to cleanse, to touch, to shrink,to be crooked,to bend, to write, to delineate",
+    "audio_url": null,
+    "display_order": 993,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210992,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — संकुचित होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210992,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सङ्कोचे कुचतीति स्यात् कोचेत् सम्पर्चनादिषु ' (श्लो. 54) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213498,
+    "chapter_id": 7799,
+    "verse_number": "१६४",
+    "content_sanskrit": "वियज्जगत्सकृत्शकन्पृषत्शकृद्यकृदुदश्वितः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 164,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213498,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते क्लीबाः स्युः ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201685,
+    "chapter_id": 7763,
+    "verse_number": "४.३.११३",
+    "content_sanskrit": "तसिश्च",
+    "padaccheda": "तसिः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": "अनुवृत्तिः — एकदिक् (४.३.११२), तेन (४.३.११२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201685,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तसिश्च प्रत्ययो भवति तेनैकदिगित्येतस्मिन् विषये। पूर्वेण घादिष्वणादिषु च प्राप्तेष्वयमपरः प्रत्ययो विधीयते। स्वरादिपाठादव्ययत्वम्। सुदामतः। हिमवत्तः। पिलुमूलतः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201685,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "स्वरादिपाठादव्ययत्वम् पीलुमूलेन एकदिक् पीलुमूलतः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201685,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<तसिश्च>> - तसिश्च ।तेनैकदिगि॑त्यर्थे तृतीयान्तात्तसिश्च स्यादित्यर्थः । इकार उच्चारणार्थः । स्वरादिपाठादिति ।स्वरादिनिपातमव्यय॑मिति प्रकरणेतद्धितश्चासर्वविभक्ति॑रित्यत्र 'तसिलादयः' इतिपरिगणने तसेः पाछादित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201685,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<तसिश्च>> - तसिश्च । पूर्वोक्तविषये ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201685,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "स्वरादिपाठादव्ययत्वमिति । तस्मिन्नेवार्थे विधैइयमानस्याप्यस्य लिङ्गसंख्यानुपादानमपि स्वाभाविकं वेदितव्यम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201685,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "उक्तार्थे तसिश्च स्यात् । स च स्वरादित्वादव्ययम् । सेतुतो लङ्का । तद्दिशीत्यर्थः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201685,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix तसि comes in the sense of 'in the same direction with that'.\nThis ordains another affix in addition to the previously taught अण् &c ञ &c. The words formed by this affix are Indeclinables [[1.1.37]]. Thus हिमवतः 'in the same direction as <i>Himavat</i>.' पीलुमूलतः, सुदामतः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201685,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix तसि comes in the sense of 'in the same direction with that'."
+    }
+  ]
+}

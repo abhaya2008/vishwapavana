@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215701,
+    "chapter_id": 7807,
+    "verse_number": "९४",
+    "content_sanskrit": "अपर आह - तत्तुल्यं वेदशब्देन - इति । यथा - वेदशब्दा नियमपूर्वमधीताः फलवन्तो भवन्ति, एवं यः शास्त्रपूर्वकं शब्दान्प्रयुङ्क्ते सोऽभ्युदयेन युज्यत इति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": "शब्दज्ञानस्य धर्मजनकताधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215701,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "<x>अपर आहेति</x> । वेदश्चासौ शब्दश्च - वेदशब्द इति कर्मधारयः ॥"
+    }
+  ]
+}

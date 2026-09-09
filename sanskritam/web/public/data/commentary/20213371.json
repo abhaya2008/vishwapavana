@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213371,
+    "chapter_id": 7799,
+    "verse_number": "३७",
+    "content_sanskrit": "घाजन्तश्च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213371,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "विस्तरः । गोचरः । चयः । जयः । इत्यादि । "
+    }
+  ]
+}

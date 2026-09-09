@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213492,
+    "chapter_id": 7799,
+    "verse_number": "१५८",
+    "content_sanskrit": "बलकुसुमशुल्बपत्तनरणाभिधानानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 158,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213492,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बलं वीर्यम् ।"
+    }
+  ]
+}

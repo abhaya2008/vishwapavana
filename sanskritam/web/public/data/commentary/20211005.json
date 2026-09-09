@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211005,
+    "chapter_id": 7781,
+    "verse_number": "१००६",
+    "content_sanskrit": "मिद्",
+    "padaccheda": "मिदृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "मेधाहिंसनयोः",
+    "meaning_english": "to understand, to know, to hurt, to injure, to cause trouble",
+    "audio_url": null,
+    "display_order": 1006,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211005,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " थान्तः इति स्वामी । धान्तः इति न्यासः ' इति कौमुदी । ' ऋदितो मेदते मेदेन्मेधाहिंसनयोर्द्वयो: ' (श्लो. 104) इति देवः ।"
+    }
+  ]
+}

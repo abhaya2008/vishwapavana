@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212222,
+    "chapter_id": 7790,
+    "verse_number": "४७३",
+    "content_sanskrit": "अङ्क",
+    "padaccheda": "अन्क",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पदे लक्षणे च",
+    "meaning_english": "to mark, to count, to roam around, to limp, to take in lap",
+    "audio_url": null,
+    "display_order": 473,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212222,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ' अङ्क लक्षण इत्यस्य भवेदङ्कयतीति णौ ' (श्लो. 41) इति देवः ।"
+    }
+  ]
+}

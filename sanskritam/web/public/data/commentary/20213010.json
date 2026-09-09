@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213010,
+    "chapter_id": 7795,
+    "verse_number": "५०",
+    "content_sanskrit": "अङ्गेर्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "नि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213010,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अग्निः ।"
+    }
+  ]
+}

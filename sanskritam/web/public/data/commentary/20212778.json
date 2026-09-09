@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212778,
+    "chapter_id": 7793,
+    "verse_number": "१०१",
+    "content_sanskrit": "सव्ये स्थश्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "ऋ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212778,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "[[8.3.97]] <<अम्बाम्ब...>> इत्यत्र ‘स्थास्थिन्स्थूणामुपसंख्यानम्’ । सव्येष्टा सारथिः । सव्येष्टरौ । सव्येष्टरः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210658,
+    "chapter_id": 7781,
+    "verse_number": "६५९",
+    "content_sanskrit": "मर्व्",
+    "padaccheda": "मर्वँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पूरणे",
+    "meaning_english": "to fill, to complete",
+    "audio_url": null,
+    "display_order": 659,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210658,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतौ च द्रुमे ' इति धातुकाव्यव्याख्यायाम् । (1.73)"
+    }
+  ]
+}

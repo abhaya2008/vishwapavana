@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201523,
+    "chapter_id": 7762,
+    "verse_number": "४.२.९६",
+    "content_sanskrit": "कुलकुक्षिग्रीवाभ्यः श्वास्यलंकारेषु",
+    "padaccheda": "कुल-कुक्षि-ग्रीवाभ्यः । श्व-असि-अलङ्कारेषु",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": "अनुवृत्तिः — ढकञ् (४.२.९५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201523,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कुलकुक्षिग्रीवाशब्देभ्यो यथासंख्यं श्वन् असि अलंकार इत्येतेषु जातादिष्वर्थेषु ढकञ् प्रत्ययो भवति। कौलेयको भवति श्वा चेत्। कौलोऽन्यः। कौक्षेयको भवत्यसिश्चेत्। कौक्षोऽन्यः। ग्रैवेयको भवत्यलंकारश्चेत्। गै्रवोऽन्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201523,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कौलेयकः श्वा । कौलोऽन्यः । कौक्षेयकोऽसिः । कौक्षोऽन्यः । ग्रैवेयकोऽलङ्कारः । ग्रैवोऽन्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201523,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कुलकुक्षिग्रीवाभ्यः श्वास्यलंकारेषु>> - कुलकुक्षि । कुलाच्छुनि, कुक्षेः असौ , ग्रीवाया अलंकारे ढकञित्यर्थः । कौलेयकः । ओति । कुले जातादिरिति विग्रहः । कौक्षेयकोऽसिरिति । कुक्षौ=कोशे भवः खङ्ग इत्यर्थः । ग्रैवेयक इति । ग्रीवासु भव इति विग्रहः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201523,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<कुलकुक्षिग्रीवाभ्यः श्वास्यलंकारेषु>> - कुल्याया यलोपश्चे ॑ति गण सूत्रम् । कुल्यायां जातः — कौलेयकः । कत्त्रि, उम्भि, कुण्डिन, माहिष्मतीत्यादि ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201523,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अणोऽपवादो योगः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201523,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कुले ग्रहे भवत्वात्, कौलेयकः श्वा । कौक्षेयकः खड्गः । ग्रैवेयको ग्रीवालङ्कारः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201523,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "कुलकुक्षिग्रीवाभ्यः श्वाऽस्यलङ्कारेषु (1417) (सूत्रप्रत्याख्याने भाष्यम्) अयं योगः शक्योऽवक्तुम्। कथं कौलेयकः? कुलस्यापत्यम्। कुक्षिग्रीवात्तु कन् ढञ्ञः। कुलस्यापत्यं कौलेयक इति भविष्यति। कुक्षिग्रीवादपि ढञ्ञन्तात्कन्भविष्यति॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201523,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढकञ् is added to the words 1. कुल 2. कुक्षि and 3. ग्रीवा when the whole words so formed mean respectively 'a dog', 'a sword' and 'an ornament'.\nThe force of the affix, as already told above, is to denote 'produce' &c. [[4.3.25]] &c)): but the whole word has specific significance. As कौलेयकः = a dog (lit. pertaining to a family); कौक्षेयकः = a sword (lit. remaining in a sheath), ग्रैवेयकः = a necklace. When not having these meanings; the regular derivatives from these words are formed by अण् as, कौलः, कौक्षः and ग्रैवः ॥"
+    },
+    {
+      "id": 9,
+      "verse_id": 20201523,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढकञ् is added to the words 1. कुल 2. कुक्षि and 3. ग्रीवा when the whole words so formed mean respectively 'a dog', 'a sword' and 'an ornament'."
+    }
+  ]
+}

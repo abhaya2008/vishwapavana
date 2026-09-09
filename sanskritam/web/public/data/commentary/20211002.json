@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211002,
+    "chapter_id": 7781,
+    "verse_number": "१००३",
+    "content_sanskrit": "चत्",
+    "padaccheda": "चतेँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "याचने",
+    "meaning_english": "to beg,to beg,to ask,to solicit",
+    "audio_url": null,
+    "display_order": 1003,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211002,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चते चदे च यातने ' इति क्षीरस्वामिसम्मतः पाठः । चकारः परिभाषणे इति पूर्वधात्वर्थस्यापि अनुवृत्तिसूचकः ।"
+    }
+  ]
+}

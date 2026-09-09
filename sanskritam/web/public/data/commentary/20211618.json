@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211618,
+    "chapter_id": 7786,
+    "verse_number": "१४९",
+    "content_sanskrit": "प्रच्छ्",
+    "padaccheda": "प्रछँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "ज्ञीप्सायाम्",
+    "meaning_english": "to ask, to seek, to question",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211618,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — बिदाई करना, अलग होना"
+    }
+  ]
+}

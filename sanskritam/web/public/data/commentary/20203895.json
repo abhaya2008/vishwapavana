@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203895,
+    "chapter_id": 7779,
+    "verse_number": "८.३.१००",
+    "content_sanskrit": "नक्षत्राद्वा",
+    "padaccheda": "नक्षत्रात् । वा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": "अनुवृत्तिः — सः (८.३.५६), एति (८.३.९९), संज्ञायाम् (८.३.९९), अगात् (८.३.९९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203895,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नक्षत्रवाचिनः शब्दादुत्तरस्य सकारस्य वा एति संज्ञायामगकाराद् मूर्धन्यो भवति। रोहिणीषेणः, रोहिणीसेनः। भरणीषेणः, भरणीसेनः। अगकारादित्येव — शतभिषक्सेनः। अविहितलक्षणो मूर्धन्यः सुषामादिषु द्रष्टव्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203895,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एति सस्य संज्ञायामगकारान्मूर्धन्यो वा । रोहिणीषेणः । रोहिणीसेनः । अगकारात्किम् । शतभिषक्सेनः । आकृतिगणोऽयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203895,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<नक्षत्राद्वा>> - एति संज्ञायामगात् । एकारे परे सस्य षः स्यादित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203895,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<नक्षत्राद्वा>> - एति संज्ञायामिति । सुषामाद्यन्तर्गणसूत्रमेतत् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203895,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`नक्षत्राद्वा` इति। पूर्वेण नित्ये प्राप्ते विकल्पोऽयमुच्यत इति। सूत्रे[`सुषामादिषु च` इत्यस्मिन्? सूत्रे  [[8.3.98]] ] चकारोक्तसमुच्चयार्थः, स चाकृतिगणतां सुषामादेर्बोधयतीत्यत आह -`अविहितलक्षणा` इत्यादि॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203895,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "निस्तप्तं रक्षः, निस्तप्ता अरातय इत्यत्रेति । एवमपि कस्याञ्चिच्छाखायां पाठमुपलभ्य परिहार उच्यते । तैतिरीयकास्तु षत्वमेव पठन्ति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203895,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "ष् is optionally substituted for the स् when the preceding word is the name of a Lunar mansion.\nThus रोहिणिषेणः or रोहिणिसेनः, भरणिषेणः or भरणिसेनः ॥ But not here शतभिषक् सेनः were the preceded letter is ग् ॥ These two <i>sutras</i> [[8.3.99]] and [[8.3.100]] are really <i>Gana</i>-sutras<i>, being read in the सुषामादि </i>Gana<i>. The author of </i>Kasika<i> has raised them to the rank of full </i>sutras<i>.\n\nAll cerebral ष changes, when not referable to any specific rule, should be classified under this </i>Sushamadi<i> </i>gana_."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203895,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "ष् is optionally substituted for the स् when the preceding word is the name of a Lunar mansion."
+    }
+  ]
+}

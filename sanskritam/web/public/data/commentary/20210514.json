@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210514,
+    "chapter_id": 7781,
+    "verse_number": "५१५",
+    "content_sanskrit": "भण्",
+    "padaccheda": "भणँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 515,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210514,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अमुं क्षीरस्वामी न पठति ।"
+    }
+  ]
+}

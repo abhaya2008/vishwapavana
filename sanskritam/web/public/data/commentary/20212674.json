@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212674,
+    "chapter_id": 7792,
+    "verse_number": "१५४",
+    "content_sanskrit": "कनिन् युवृषितक्षिराजिधन्विद्युप्रतिदिवः",
+    "padaccheda": "",
+    "anvaya": "कनिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 154,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212674,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यौतीति युवा । वृषा इन्द्रः । तक्षा । राजा । धन्वा मरुः । धन्व शरासनम् । द्युवा सूर्यः । प्रतिदीव्यन्त्यस्मिन् प्रतिदिवा दिवसः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211933,
+    "chapter_id": 7790,
+    "verse_number": "१८४",
+    "content_sanskrit": "जस्",
+    "padaccheda": "जसुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to hurt, to hit, to strike, to injure",
+    "audio_url": null,
+    "display_order": 184,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211933,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मोक्षणे जस्यतीति स्याण्णावत्रार्थे तु जंसयेत् । हिंसाताडनयोर्धात्वोः उदितोर्जासयेदिति ' (श्लो . 188 - 189) इति देवः ।"
+    }
+  ]
+}

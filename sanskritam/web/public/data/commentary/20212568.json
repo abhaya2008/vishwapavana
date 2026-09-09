@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212568,
+    "chapter_id": 7792,
+    "verse_number": "४८",
+    "content_sanskrit": "तवेर्णिद्वा",
+    "padaccheda": "",
+    "anvaya": "टिषच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212568,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तवेति सौत्रो धातुः । तविपताविषावब्धौ स्वर्गे च । स्त्रियां तविषी ताविषी नदी देवकन्या भूमिश्च । तविषी बलमिति वेदभाष्यम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211069,
+    "chapter_id": 7781,
+    "verse_number": "१०७०",
+    "content_sanskrit": "वै",
+    "padaccheda": "ओँवै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शोषणे",
+    "meaning_english": "to dry,to wither",
+    "audio_url": null,
+    "display_order": 1070,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211069,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गतिगन्धनयोर्वाति वायतीति तु शोषणे ' (श्लो. 10) इति देवः ।"
+    }
+  ]
+}

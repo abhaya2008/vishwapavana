@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203223,
+    "chapter_id": 7773,
+    "verse_number": "७.१.४८",
+    "content_sanskrit": "इष्ट्वीनमिति च",
+    "padaccheda": "इष्ट्वीनम् । इति । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": "अनुवृत्तिः — छन्दसि (७.१.३८), क्त्वः (७.१.४७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203223,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "इष्ट्वीनमित्ययं शब्दो निपात्यते छन्दसि विषये। यजेः क्त्वाप्रत्ययान्तस्य ईनमादेशोऽन्त्यस्य निपात्यते। इष्ट्वीनं देवान्। इष्ट्वा देवानिति प्राप्ते। पीत्वीनमित्यपीष्यते। चकारस्यानुक्तसमुच्चयार्थत्वात् सिद्धम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203223,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्त्वाप्रत्ययस्य ईनमन्तादेशो निपात्यते । इष्ट्वीनं देवान् । इष्ट्वा इति प्राप्ते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203223,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`इष्ट्वीनम्` इति। वच्यादिसूत्रेण  [[6.1.15]]  सम्प्रसारणम्। `पीत्वीनम्` इति। `धुमास्था`  [[6.4.66]]  इत्यादिनेत्त्वम्। एतच्चेतिकरणादाद्यर्थाच्चकरास्यानुक्तसमुच्चयार्थत्वाद्वा लभ्यते। अनयोरन्यतरोपादानेनैव सिद्ध उभयोरुपादानं वैचित्र्यार्थम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203223,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्वायामीत्वं निपात्यते । इष्ट्वीनं देवान् । इष्ट्वा इत्यर्थः । इति करणात् पीत्वीनं सोममित्याद्यपि ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203223,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the Absolutive इष्ट्वीनम् is irregularly formed for इष्ट्वा।\nTo the root यज् is added that क्त्वा, and the final आ is replaced by ईनम् ॥ As इष्ट्वीनम् देवान् for इष्ट्वा देवान् ॥ The  च in the <i>sutra</i> indicates that there are other forms like this, as पीत्वीनम् for पीत्वा ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203223,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the Absolutive इष्ट्वीनम् is irregularly formed for इष्ट्वा।"
+    }
+  ]
+}

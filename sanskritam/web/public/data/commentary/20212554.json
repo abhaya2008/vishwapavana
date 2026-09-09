@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212554,
+    "chapter_id": 7792,
+    "verse_number": "३४",
+    "content_sanskrit": "हरिमितयोर्द्रुवः",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212554,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "द्रु गतौ अस्मात् हरिमितयोरुपपदयोः कुः स च डित् । हरिभिर्द्रूयते हरिद्रुर्वृक्षः । मितं द्रवति मितद्रुः समुद्रः ।"
+    }
+  ]
+}

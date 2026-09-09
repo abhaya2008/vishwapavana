@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213802,
+    "chapter_id": 7805,
+    "verse_number": "९",
+    "content_sanskrit": "तथैवैकस्य वाक्यस्य निराकाङ्क्षस्य सर्वतः । शब्दान्तरैः समाख्यानं साकाङ्क्षैरनुगम्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213802,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "तथा प्रकृते किमित्याह– \nएकस्य निर्विभागस्य वाक्यस्य सर्वतः परिपूर्णस्य वाक्यान्तरगतैः पदान्तरैरन्वाख्यानं तथाव क्रियत इति ॥"
+    }
+  ]
+}

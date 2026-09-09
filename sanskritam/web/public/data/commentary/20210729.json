@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210729,
+    "chapter_id": 7781,
+    "verse_number": "७३०",
+    "content_sanskrit": "वेह्",
+    "padaccheda": "वेहृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रयत्ने",
+    "meaning_english": "to endeavour, to try",
+    "audio_url": null,
+    "display_order": 730,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210729,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वेहृ ' इत्येके इति धा.का.व्याख्या । (1.81) ' दन्त्यौष्ठ्यादिः । केवलौष्ठ्यादिः इत्येके ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

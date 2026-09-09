@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211189,
+    "chapter_id": 7782,
+    "verse_number": "२४",
+    "content_sanskrit": "पृच्",
+    "padaccheda": "पृचीँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "सम्पर्चने",
+    "meaning_english": "to unite, to communicate",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211189,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सम्पर्चनम् = मिश्रीकरणम् । ' पृणाति पृक्ते ( पृङ्क्ते ) सम्पर्के, यौ पर्चयति पर्चति ' (श्लो. 51) इति देवः ।"
+    }
+  ]
+}

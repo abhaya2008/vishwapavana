@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201036,
+    "chapter_id": 7759,
+    "verse_number": "३.३.८०",
+    "content_sanskrit": "उद्घनोऽत्याधानम्",
+    "padaccheda": "उद्घनः । अत्याधानम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), हनः (३.३.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201036,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उत्पूर्वस्य हन्तेः उद्घन इति निपात्यतेऽत्याधानं चेद् भवति। उद्घनः। यस्मिन् काष्ठे स्थापयित्वा अन्यानि काष्ठानि तक्ष्यन्ते तदभिधीयते। उद्घातोऽन्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201036,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अत्याधानमुपरि स्थापनम् । यस्मिन् काष्ठे अन्यानि काष्ठानि स्थापयित्वा तक्ष्यन्ते तदुद्घनः । अधिकरणेऽप् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201036,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अत्याधानम्` इति। अतिशब्द उपरिभावे वर्तते। आदधातिः स्थापने। य उपरि निधीयते स्थाप्यते तस्मिन् सः, तदस्याधानम्। अधिकरणे ल्युट्। `उद्घनः` इति। उद्धन्यतेऽस्मिन्नित्यधिकरणेऽप्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201036,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अत्याधानमिति । अतिशब्द उपरिभावे वर्तते, आदधातिः स्थापने, अधिकरणे ल्युट् । उद्घन इत्यत्राप्यधिकरण एवाप् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201036,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "यस्मिन् काष्ठे निधाय वृक्षास्तक्ष्यन्ते, स उद्घनः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201036,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word उद्घन is irregularly formed in the sense of 'bench'.\nThis is formed from उत् + हन् irregularly. Thus उद्घनः 'a carpenter's bench' (the wood on which placing other planks &c. the carpenter carves &c).\n\nWhen not having this sense, we have उद्घातः 'uneven'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201036,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word उद्घन is irregularly formed in the sense of 'bench'."
+    }
+  ]
+}

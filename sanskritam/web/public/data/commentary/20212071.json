@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212071,
+    "chapter_id": 7790,
+    "verse_number": "३२२",
+    "content_sanskrit": "नण्ट्",
+    "padaccheda": "नटिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 322,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212071,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नृतौ नटत्यवस्पन्दे चुरादेर्णिचि नण्टयेत् ' (श्लो. 76) - देवः ।"
+    }
+  ]
+}

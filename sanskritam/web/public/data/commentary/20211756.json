@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211756,
+    "chapter_id": 7790,
+    "verse_number": "७",
+    "content_sanskrit": "कुन्द्र्",
+    "padaccheda": "कुद्रिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अनृतभाषणे",
+    "meaning_english": "to tell a lie",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211756,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अत्र स्वामी - ऋदिदित्येके ' इति ।"
+    }
+  ]
+}

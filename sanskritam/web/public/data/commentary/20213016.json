@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213016,
+    "chapter_id": 7795,
+    "verse_number": "५६",
+    "content_sanskrit": "कृविघृष्विछविस्थविकिकीदिवि",
+    "padaccheda": "",
+    "anvaya": "क्विन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213016,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कृविस्तन्तुवायद्रव्यम् । घृष्विर्वराहः । छास्थोर्ह्रस्वत्वं च । छविर्दीप्तिः । स्थविस्तन्तुवायः । दीव्यतेः किकीपूर्वात् किकीदिविश्चाषः । बाहुलकाद्ध्रस्वदीर्घयोर्विनिमयः । चाषेण किकीदीविना ।"
+    }
+  ]
+}

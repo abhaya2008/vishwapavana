@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211806,
+    "chapter_id": 7790,
+    "verse_number": "५७",
+    "content_sanskrit": "स्मिट्",
+    "padaccheda": "स्मिटँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अनादरे",
+    "meaning_english": "to insult, to disrespect, to dishonor",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211806,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्नेहे च ' इति वोपदेवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210069,
+    "chapter_id": 7781,
+    "verse_number": "७०",
+    "content_sanskrit": "नन्द्",
+    "padaccheda": "टुनदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "समृद्धौ",
+    "meaning_english": "to prosper",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210069,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — सुखी होना, आनन्दित होना\nअभि — इच्छा करना, स्वीकार करना, प्रशंसा करना\nप्रति — उपकार करना, धन्यवाद देना"
+    }
+  ]
+}

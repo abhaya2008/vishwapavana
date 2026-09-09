@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212964,
+    "chapter_id": 7795,
+    "verse_number": "४",
+    "content_sanskrit": "पुषः कित्",
+    "padaccheda": "",
+    "anvaya": "करन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212964,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पुष्करम् ।"
+    }
+  ]
+}

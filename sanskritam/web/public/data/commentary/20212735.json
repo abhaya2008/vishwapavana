@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212735,
+    "chapter_id": 7793,
+    "verse_number": "५८",
+    "content_sanskrit": "क्विब्वचिप्रच्छिश्रिस्रुद्रुप्रुज्वां दीर्घोऽसंप्रसारणं च",
+    "padaccheda": "",
+    "anvaya": "क्विप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212735,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वाक् । प्राट् । श्रीः । स्रवत्यतो घृतादिकमिति स्रूर्यज्ञोपकरणम् । द्रूर्हिरण्यम् । कटप्रूः कामरूपी कीटश्च । जूराकाशे सरस्वत्यां पिशाच्यां जवने स्त्रियाम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211179,
+    "chapter_id": 7782,
+    "verse_number": "१४",
+    "content_sanskrit": "कंस्",
+    "padaccheda": "कसिँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "गतिशासनयोः",
+    "meaning_english": "to go, to rule, to punish",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211179,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतिशासनयोः कंस्ते कंसतीति गतौ शपि ' (श्लो. 192) - देवः ।"
+    }
+  ]
+}

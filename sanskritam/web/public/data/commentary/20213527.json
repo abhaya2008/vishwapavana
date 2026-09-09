@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213527,
+    "chapter_id": 7800,
+    "verse_number": "४",
+    "content_sanskrit": "गुदस्य च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213527,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्त उदात्तः स्यान्न तु स्त्रियाम् । गुदम् । अस्त्रियाम् किम् ?  आ॒न्त्रेभ्य॑स्ते॒ गुदा॑भ्यः । <<स्वाङ्गशिटामदन्तानाम्>> इत्यन्तरङ्गमाद्युदात्तत्वम् । ततष्टाप् ॥"
+    }
+  ]
+}

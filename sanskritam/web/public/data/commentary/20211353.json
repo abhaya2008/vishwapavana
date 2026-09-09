@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211353,
+    "chapter_id": 7784,
+    "verse_number": "८५",
+    "content_sanskrit": "स्विद्",
+    "padaccheda": "ष्विदाँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "गात्रप्रक्षरणे",
+    "meaning_english": "to sweat, to perspire",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211353,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " घर्मस्रुतौ इत्यर्थः । अयं ञीदिति न्यासकारादयः । नेति हरदत्तादयः । ' गात्रप्रक्षरणे स्विद्येत् स्वेदते स्नेहमोकयोः ' (श्लो. 107) इति देवः ।"
+    }
+  ]
+}

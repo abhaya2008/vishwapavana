@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211548,
+    "chapter_id": 7786,
+    "verse_number": "७९",
+    "content_sanskrit": "मिष्",
+    "padaccheda": "मिषँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "स्पर्धायाम्",
+    "meaning_english": "to compete, to contend, to rival",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211548,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सेचने मेषतीति स्यात् स्पर्धायां मिषतीति शे ' ( श्लो. 174) - देवः ।"
+    }
+  ]
+}

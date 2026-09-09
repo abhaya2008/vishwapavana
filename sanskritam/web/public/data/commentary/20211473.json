@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211473,
+    "chapter_id": 7786,
+    "verse_number": "४",
+    "content_sanskrit": "भ्रज्ज्",
+    "padaccheda": "भ्रस्जँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "पाके",
+    "meaning_english": "to fry,to roast,to parch",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211473,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भृज्जते भृज्जति भ्रस्जेः भर्जने भर्जते भृज़ेः ' (श्लो. 68) इति देवः ।"
+    }
+  ]
+}

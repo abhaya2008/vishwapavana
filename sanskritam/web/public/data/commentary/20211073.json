@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211073,
+    "chapter_id": 7781,
+    "verse_number": "१०७४",
+    "content_sanskrit": "पा",
+    "padaccheda": "पा",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पाने",
+    "meaning_english": "to drink",
+    "audio_url": null,
+    "display_order": 1074,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211073,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — मिलकर पीना\nआ — संपूर्ण रूप से पीना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211073,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' पाने पिबति, रक्षायां पाति, पायति शोषणे ' (श्लो. 5) इति देवः ।"
+    }
+  ]
+}

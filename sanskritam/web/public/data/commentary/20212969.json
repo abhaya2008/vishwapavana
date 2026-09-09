@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212969,
+    "chapter_id": 7795,
+    "verse_number": "९",
+    "content_sanskrit": "प्रे स्थः",
+    "padaccheda": "",
+    "anvaya": "इनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212969,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "प्रस्थायी ।"
+    }
+  ]
+}

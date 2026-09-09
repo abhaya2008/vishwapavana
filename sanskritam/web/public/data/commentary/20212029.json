@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212029,
+    "chapter_id": 7790,
+    "verse_number": "२८०",
+    "content_sanskrit": "पुष्",
+    "padaccheda": "पुषँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "धारणे",
+    "meaning_english": "to wear, to obey",
+    "audio_url": null,
+    "display_order": 280,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212029,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पोषयत्याभरणम् । ' धारणे पोषयेत्पुष्टौ पुष्येत्पुष्णाति पोषति ' (श्लो. 171) इति देवः ।"
+    }
+  ]
+}

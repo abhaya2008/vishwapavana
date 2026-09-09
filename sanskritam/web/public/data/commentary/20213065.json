@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213065,
+    "chapter_id": 7795,
+    "verse_number": "१०५",
+    "content_sanskrit": "अन्येभ्योऽपि दृश्यन्ते",
+    "padaccheda": "",
+    "anvaya": "इत्वन्, त्वन्, त्नण्, क्निन्, शक्, स्य, ढ, डट्, आटच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 105,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213065,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पेत्वममृतम् भृशम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213168,
+    "chapter_id": 7795,
+    "verse_number": "२०८",
+    "content_sanskrit": "रूपे जुट् च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 208,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213168,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अब्जो रूपम् ।"
+    }
+  ]
+}

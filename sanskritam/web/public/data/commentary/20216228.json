@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216228,
+    "chapter_id": 7825,
+    "verse_number": "३८",
+    "content_sanskrit": "पूर्वपरनित्यान्तरङ्गापवादानामुत्तरोत्तरं बलीयः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216228,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पूर्वात्परं बलवत् । विप्रतिषेध शास्त्रात्पूर्वस्यपरं बाधकमिति यावत् ॥"
+    }
+  ]
+}

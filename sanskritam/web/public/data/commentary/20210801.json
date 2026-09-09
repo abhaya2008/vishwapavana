@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210801,
+    "chapter_id": 7781,
+    "verse_number": "८०२",
+    "content_sanskrit": "पृष्",
+    "padaccheda": "पृषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेचनहिंसासङ्क्लेशनेषु",
+    "meaning_english": "to sprinkle,to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 802,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210801,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हिंसासंक्लेशनयोश्च ' इति माधवः ।"
+    }
+  ]
+}

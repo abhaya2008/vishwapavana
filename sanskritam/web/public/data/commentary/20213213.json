@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213213,
+    "chapter_id": 7796,
+    "verse_number": "१५",
+    "content_sanskrit": "पूञो यण् णुक् ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "यत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213213,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यत्प्रत्ययः । पुण्यम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210530,
+    "chapter_id": 7781,
+    "verse_number": "५३१",
+    "content_sanskrit": "कन्",
+    "padaccheda": "कनीँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तिकान्तिगतिषु",
+    "meaning_english": "to glow, to shine, to approach",
+    "audio_url": null,
+    "display_order": 531,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210530,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दीप्तिः = प्रकाशः , कान्तिः = शोभा ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

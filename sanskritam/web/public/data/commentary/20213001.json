@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213001,
+    "chapter_id": 7795,
+    "verse_number": "४१",
+    "content_sanskrit": "उलूकादयश्च",
+    "padaccheda": "",
+    "anvaya": "ऊक",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213001,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वलेः संप्रसारणमूकश्च । उलूकाविन्द्रपेचकौ । वावदूको वक्ता । भल्लूकः । << शमेर्बुक् च>> (गणसूत्र 200) ।  शम्बूको जलशुक्तिः ।"
+    }
+  ]
+}

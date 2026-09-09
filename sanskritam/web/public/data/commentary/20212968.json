@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212968,
+    "chapter_id": 7795,
+    "verse_number": "८",
+    "content_sanskrit": "भुवश्च",
+    "padaccheda": "",
+    "anvaya": "इनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212968,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भावी ।"
+    }
+  ]
+}

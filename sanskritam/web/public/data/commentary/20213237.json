@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213237,
+    "chapter_id": 7796,
+    "verse_number": "३९",
+    "content_sanskrit": "वचिमनिभ्यां चिच्च",
+    "padaccheda": "",
+    "anvaya": "अर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213237,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वठरो मूर्खः । मठरो मुनिशौण्डयोः । बिदादित्वान्माठरः। गर्गादित्वान्माठर्यः ।"
+    }
+  ]
+}

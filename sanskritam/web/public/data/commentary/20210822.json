@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210822,
+    "chapter_id": 7781,
+    "verse_number": "८२३",
+    "content_sanskrit": "निश्",
+    "padaccheda": "णिशँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "समाधौ",
+    "meaning_english": "to meditate upon, to think calmly",
+    "audio_url": null,
+    "display_order": 823,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210822,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तालव्योष्मान्तः ।"
+    }
+  ]
+}

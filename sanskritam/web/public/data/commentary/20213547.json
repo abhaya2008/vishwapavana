@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213547,
+    "chapter_id": 7801,
+    "verse_number": "१",
+    "content_sanskrit": "अथादिः प्राक् शकटेः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213547,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अधिकारोऽयम् । <<शकटिशकट्योः—>> इति यावत् ॥"
+    }
+  ]
+}

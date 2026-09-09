@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213092,
+    "chapter_id": 7795,
+    "verse_number": "१३२",
+    "content_sanskrit": "अशिपणाय्यो रुडायलुकौ च",
+    "padaccheda": "",
+    "anvaya": "इण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213092,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अशे रुट् । राशिः पुञ्जः । पणायतेरायलुक् । पाणिः करः ।"
+    }
+  ]
+}

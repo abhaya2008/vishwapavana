@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200978,
+    "chapter_id": 7759,
+    "verse_number": "३.३.२२",
+    "content_sanskrit": "उपसर्गे रुवः",
+    "padaccheda": "उपसर्गे । रुवः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घञ् (३.३.१६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200978,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उपसर्ग उपपदे रौतेर्धातोर्घञ् प्रत्ययो भवति। अपोऽपवादः। संरावः। उपरावः। उपसर्ग इति किम्? रवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200978,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "घञ् । संरावः । उपसर्गे किम् । रवः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200978,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<उपसर्गे रुवः>> - रव इति ।ॠदोर॑बित्यप् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200978,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अपोऽपवादः` इति। `ऋदोरप्`  [[3.3.57]]  इति प्राप्तस्य। उत्तरसूत्रेणाप्युवर्णान्ताद्धञ् विधीयमानोऽप एवापवादो वेदितव्यः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200978,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "घञ् स्यात् । संरावः । विरावः । केवलस्य रव इत्यप् ॥ <karika> कृत्यल्युटो बहुलमित्यनेन घञ्वादयः । बहुलं व्यतिकीर्यन्ते मञ्जुरावादयस्ततः ॥ ९५१ ॥ </karika>"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200978,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the verb रू 'to roar' when it has an उपसर्ग in composition with it.\nThis debars अप् [[3.3.57]]. As संरावः 'clamour', उपरावः &c.\n\nWhy do we say 'compounded with an <i>upasarga</i>'? Observe रवः 'sound'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200978,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix घञ् comes after the verb रू 'to roar' when it has an उपसर्ग in composition with it."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200978,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "स-जलाऽम्भो-द-संरावं (भट्टिकाव्यम् 7.35) — `उपसर्गे रुवः` इति घञ्।"
+    }
+  ]
+}

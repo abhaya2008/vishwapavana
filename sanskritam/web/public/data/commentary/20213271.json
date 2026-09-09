@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213271,
+    "chapter_id": 7797,
+    "verse_number": "३",
+    "content_sanskrit": "एओङ्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213271,
+      "commentary_type": "काशिका",
+      "author": "",
+      "content": "ए ओ इत्येतौ वर्णावुपदिश्यान्ते ङकारमितं करोति प्रत्याहारार्थम् । तस्य ग्रहणं भवत्येकेन - <<एङि पररूपम्>> [[6.1.94]] इत्येकारेण ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211553,
+    "chapter_id": 7786,
+    "verse_number": "८४",
+    "content_sanskrit": "इल्",
+    "padaccheda": "इलँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "स्वप्नक्षेपणयोः",
+    "meaning_english": "to sleep, to throw, to cast, to throw in air",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211553,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्वप्रेरणयोः ' इति धातुकाव्ये पाठः ।"
+    }
+  ]
+}

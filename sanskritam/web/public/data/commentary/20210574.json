@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210574,
+    "chapter_id": 7781,
+    "verse_number": "५७५",
+    "content_sanskrit": "गेव्",
+    "padaccheda": "गेवृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सेवने",
+    "meaning_english": "to serve, to devote oneself, practise",
+    "audio_url": null,
+    "display_order": 575,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210574,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' खेवृ ' इत्यप्येके ।"
+    }
+  ]
+}

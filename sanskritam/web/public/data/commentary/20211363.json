@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211363,
+    "chapter_id": 7784,
+    "verse_number": "९५",
+    "content_sanskrit": "मुह्",
+    "padaccheda": "मुहँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "वैचित्त्ये",
+    "meaning_english": "to lose senses,to faint, to be foolish, to err",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211363,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वैचित्त्यम् = विचित्तता , अविवेकः ।"
+    }
+  ]
+}

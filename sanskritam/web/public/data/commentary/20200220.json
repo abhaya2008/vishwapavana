@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200220,
+    "chapter_id": 7751,
+    "verse_number": "१.३.७३",
+    "content_sanskrit": "अपाद्वदः",
+    "padaccheda": "अपात् । वदः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२), कर्त्रभिप्राये (१.३.७२), क्रियाफले (१.३.७२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200220,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कर्त्रभिप्राये इति वर्तते। अपपूर्वाद्वदतेः कर्त्रभिप्राये क्रियाफले आत्मनेपदं भवति॥ धनकामो न्यायमपवदते। न्यायापवादेन धनमर्जयिष्यामीति मन्यते। कर्त्रभिप्राये क्रियाफले इत्येव — अपवदति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200220,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "न्यायमपवदते । कर्त्रभिप्राये इत्येव । अपवदति । णिचश्च <{SK2564}> कारयते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200220,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अपाद्वदः>> - अपाद्वदः । अपपूर्वाद्वदधातोरात्मनेपदमित्यर्थः । न्यायमपवदते इति । वचनेने निरस्यतीतय्र्थः ।किमिह वचनं न कुर्यान्नास्ति वचनस्यातिभारः॑ इति न्यायात् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200220,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`न्यायपवादेन` इत्यादिना येनाभिप्रायेण धनकामो न्यायमपवदते तं दर्शयति॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200220,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मात् कर्त्रर्थे फले तङ् । स्वार्थे चेत् अपवदते रिपुम् । नो चेत् अपवदति ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200220,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb वद् 'to tell', preceded by अप , when the fruit of the action accrues to the agent, the terminations are of the आत्मनेपद।\nThe phrase \"when the fruit of the action accrues to the agent,\" is understood here. The <i>sutra</i> is clear. As धनकामो न्यायमपवदते 'the wealth-seeker forsakes justice,' that is to say, he wishes to acquire wealth at the sacrifice of justice. But when the fruit of the action does not accrue to the agent, the <i>parasmaipada</i> is employed. As अपवदति."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200220,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb वद् 'to tell', preceded by अप , when the fruit of the action accrues to the agent, the terminations are of the आत्मनेपद।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200220,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "नृभ्योऽपवदमानस्य (भट्टिकाव्यम् 8.45) — `अपा- द्वदः` इति तङ्।"
+    }
+  ]
+}

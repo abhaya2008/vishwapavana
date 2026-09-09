@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202821,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१५९",
+    "content_sanskrit": "संज्ञायाम्",
+    "padaccheda": "संज्ञायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 159,
+    "avatarnika": "अनुवृत्तिः — नञः (६.२.१५५), आक्रोशे (६.२.१५८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202821,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आक्रोशे गम्यमाने नञः परमुत्तरपदं संज्ञायां वर्तमानमन्तोदात्तं भवति। अ॒दे॒व॒द॒त्तः अ॒य॒ज्ञ्ाद॒त्तः। अ॒वि॒ष्ण्ाुमि॒त्रः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202821,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नञः परमन्तोदात्तं संज्ञायामाक्रोशे । अदेवदत्तः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202821,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अदेवदत्तोऽपज्ञदत्तः` इति। देवदत्तयज्ञदत्तशब्दावन्तोदात्तौ। प्रातिपदिकस्वरेण। यो देवदत्तः सन्? तत्? कार्य न करोति स एवमाक्रुश्यते। एवं `अविष्णुमित्त्रः` इत्यत्रापि वेदितव्यम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202821,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अदेवदत इति । यो देवदतः सन् तत्कार्यं न करोति, स एवमाक्रुश्यते ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202821,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आक्रोशे नञः परं नाम्नि स्थितं पदमन्तोदात्तं स्यात् । अविष्णुमित्रः तत्कार्यमकुर्वन् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202821,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "When abuse is meant, a word preceded by नञ् has acute accent (उदात्त) on the final in denoting a Name.\nThus अदेवदत्तः꣡ 'No <i>Devadatta</i>, not deserving of this name' अयज्ञदत्तः꣡, अविष्णुमित्रः꣡ ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202821,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "When abuse is meant, a word preceded by नञ् has acute accent (उदात्त) on the final in denoting a Name."
+    }
+  ]
+}

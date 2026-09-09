@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213570,
+    "chapter_id": 7801,
+    "verse_number": "२४",
+    "content_sanskrit": "जनपदशब्दानामषान्तानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213570,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदिरुदात्तः । केकयः । <<यान्तस्यान्त्यात् पूर्वम्>> इति प्राप्ते ॥"
+    }
+  ]
+}

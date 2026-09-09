@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213412,
+    "chapter_id": 7799,
+    "verse_number": "७८",
+    "content_sanskrit": "पापरूपोडुपतल्पशिल्पपुष्पसमीपान्तरीपाणि नपुंसके",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213412,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदं पापमित्यादि ।"
+    }
+  ]
+}

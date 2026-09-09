@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212885,
+    "chapter_id": 7794,
+    "verse_number": "८५",
+    "content_sanskrit": "ह्रियः कुक् रश्च लो वा",
+    "padaccheda": "",
+    "anvaya": "कुक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212885,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ह्राकुः । ह्रीकुर्लज्जावान् ।"
+    }
+  ]
+}

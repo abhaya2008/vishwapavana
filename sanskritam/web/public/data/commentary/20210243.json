@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210243,
+    "chapter_id": 7781,
+    "verse_number": "२४४",
+    "content_sanskrit": "उच्छ्",
+    "padaccheda": "उछीँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विवासे",
+    "meaning_english": "to complete, to terminate, to conclude, to leave, to go away",
+    "audio_url": null,
+    "display_order": 244,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210243,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — पोंछना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210243,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " \" उछि इति क्षीरतरङ्गिण्याम् । मन्ये सम्पादकस्तत्र भ्रान्तः \" इति मा.धा.वृत्ति वृत्तिटिप्पणी । विवासः = समाप्तिः । प्रायेण अयं विपूर्वकः प्रयुज्यते इति पुरुषकारः । ' शशपोः उञ्छतीत्युञ्छे स्वरभेदाद् द्विरुच्यते । उच्छतीति विवासे स्यात् इदितोनिदितस्तयोः ' (श्लो. 56) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212107,
+    "chapter_id": 7790,
+    "verse_number": "३५८",
+    "content_sanskrit": "दृभ्",
+    "padaccheda": "दृभँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सन्दर्भे",
+    "meaning_english": "to relate, to give reference",
+    "audio_url": null,
+    "display_order": 358,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212107,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दृभी भये विभाषा णौ स्यातां दर्भति दर्भयेत् । अनीदितश्च सन्दर्भे दृभति ग्रन्थः ईदितः ' (श्लो. 141 - 142) - देवः ।"
+    }
+  ]
+}

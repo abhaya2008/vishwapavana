@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211292,
+    "chapter_id": 7784,
+    "verse_number": "२४",
+    "content_sanskrit": "सुह्",
+    "padaccheda": "षुहँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "चक्यर्थे",
+    "meaning_english": "to be satisfied, to be patient, to tolerate, to resist",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211292,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' फलानां सुहितः । सुहितार्थाः तृप्त्यर्था: इति वैयाकरणाः ' इति कौमुदी । ' चक्यर्थः = तृप्तिः ' इति स्वामिकाश्यपधनपालशाकटायनाः ।"
+    }
+  ]
+}

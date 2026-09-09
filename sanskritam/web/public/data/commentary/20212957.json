@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212957,
+    "chapter_id": 7794,
+    "verse_number": "१५७",
+    "content_sanskrit": "इषेः क्सुः",
+    "padaccheda": "",
+    "anvaya": "क्सु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 157,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212957,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इक्षुः ।"
+    }
+  ]
+}

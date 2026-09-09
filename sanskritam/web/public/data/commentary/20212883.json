@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212883,
+    "chapter_id": 7794,
+    "verse_number": "८३",
+    "content_sanskrit": "आणको लुधुशिघिधाञ्भ्यः",
+    "padaccheda": "",
+    "anvaya": "आणक",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212883,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लवाणकं दात्रम् । धवानको वातः । शिङ्घाणकः श्लेष्मा । पृषोदरादित्वात्पक्षे कलोपः । शिङ्घाणं नासिकामले । धाणको दीनारभागः ।"
+    }
+  ]
+}

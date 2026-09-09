@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211815,
+    "chapter_id": 7790,
+    "verse_number": "६६",
+    "content_sanskrit": "खण्ड्",
+    "padaccheda": "खडिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भेदने",
+    "meaning_english": "to break in pieces,to break,to cut,to tear to pieces",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211815,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मन्थार्थे खण्डते खण्डेः भेदार्थे खण्डयेण्णिचि ' (श्लो. 85) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201308,
+    "chapter_id": 7761,
+    "verse_number": "४.१.५९",
+    "content_sanskrit": "दीर्घजिह्वी च च्छन्दसि",
+    "padaccheda": "दीर्घ-जिह्वी । च । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": "अनुवृत्तिः — अनुपसर्जनात् (४.१.१४), ङीष् (४.१.४०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201308,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "दीर्घजिह्वी इति छन्दसि विषये निपात्यते। संयोगोपधत्वादप्राप्तो ङीष् विधीयते। दीर्घजि॒ह्वी॑ वै॑ दे॒वा॑नां॒ ह॒व्यम॑वा॒ले॒ट् (तु० — मै०सं० ३.१०.६)। चकारः संज्ञानुकर्षणार्थः। दीर्घजिह्वीति निपातनं नित्यार्थम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201308,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "संयोगोपधत्वादप्राप्ते ङीष् विधीयते । आसुरी वै दीर्घजिह्वी देवानां यज्ञवाट् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201308,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अथ किमर्थमीकारान्तनिपातनं क्रियते, न `दीर्घजिह्वा च्छन्दसि` इत्येवोच्येत, एवमुच्यमाने प्रतिषेध प्रकरणात् प्रतिषेधो विज्ञायेतेति चेत्? न; संयोगोपधत्वेन प्राप्त्यभावात्, प्राप्तिपूर्वकत्वाच्च प्रतिषेधानाम्। तस्मात् सामर्थ्याद्विधिरेव विज्ञास्यत इत्याह - `निपातनं नित्यार्थम्` इति। कल्पितत्वात् प्रकृतस्य ङीष इहापि विकल्पित एवासौ विज्ञायेत, निपातनात् नित्यो भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201308,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "निपातनं नित्यार्थमिति ।'दीर्घजिह्वात्'  इत्युच्यमाने प्रकृतस्य ङीषो विकल्पितत्वादिहापि विकल्पो विज्ञायते ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201308,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The form दीर्घजिह्वी 'long-tongued' is irregularly formed in the छन्दस् (Vedas).\nThe word दीर्घजीह्वी is the feminine of दीर्घजीह्व but as the latter has a conjunct consonant for its penultimate, the feminine affix ङीष् would not have applied to it by [[4.1.54]]. The present aphorism enjoins ङीष् ॥ Thus दीर्घजीह्वी in the sentence दीर्घजीह्वी वै देवानां हव्यमलेट् ।\n\nThe word च 'and' in the aphorism is used in order to draw in the word संज्ञा from the last, so that the word <i>dirgha</i>-jihvi is always a Name. Moreover by using the feminine form <i>dirgha</i>-jihvi in the <i>sutra</i>, it is indicated that the application of ङीष् is necessary and not optional, as was the case in the last <i>sutras</i>."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201308,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The form दीर्घजिह्वी 'long-tongued' is irregularly formed in the छन्दस् (Vedas)."
+    }
+  ]
+}

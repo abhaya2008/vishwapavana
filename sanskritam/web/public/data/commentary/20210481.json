@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210481,
+    "chapter_id": 7781,
+    "verse_number": "४८२",
+    "content_sanskrit": "पर्ब्",
+    "padaccheda": "पर्बँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 482,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210481,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वर्फ ' इति स्वामी ।"
+    }
+  ]
+}

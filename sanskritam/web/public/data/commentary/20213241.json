@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213241,
+    "chapter_id": 7796,
+    "verse_number": "४३",
+    "content_sanskrit": "क्रमिगमिक्षमिभ्यस्तुन् वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "तुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213241,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्रान्तुः पक्षी । गान्तुः पथिकः । क्षान्तुर्मशकः ।"
+    }
+  ]
+}

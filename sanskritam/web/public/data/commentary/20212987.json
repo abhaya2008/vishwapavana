@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212987,
+    "chapter_id": 7795,
+    "verse_number": "२७",
+    "content_sanskrit": "शॄपॄभ्यां किच्च",
+    "padaccheda": "",
+    "anvaya": "ईषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212987,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शिरीषः । पुरीषम् ।"
+    }
+  ]
+}

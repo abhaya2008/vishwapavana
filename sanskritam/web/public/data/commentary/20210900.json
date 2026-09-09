@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210900,
+    "chapter_id": 7781,
+    "verse_number": "९०१",
+    "content_sanskrit": "अक्",
+    "padaccheda": "अकँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कुटिलायां गतौ",
+    "meaning_english": "to move tortuously, to limp",
+    "audio_url": null,
+    "display_order": 901,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210900,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मित् । ' इदितस्त्वङ्कते तत्र कुटिलायां गतावकेत् ' (श्लो. 41) इति देवः ।"
+    }
+  ]
+}

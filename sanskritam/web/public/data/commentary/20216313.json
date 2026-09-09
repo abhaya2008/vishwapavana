@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216313,
+    "chapter_id": 7825,
+    "verse_number": "१२३",
+    "content_sanskrit": "योगविभागादिष्टसिद्धिः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216313,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इष्टसिद्धिरेव न त्वनिष्टापादनं कार्यमित्यर्थः । तत्तत्समानविधिकद्वितीययोगेन विभक्तस्यानित्यत्वज्ञापनमेतद्बीजम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211207,
+    "chapter_id": 7782,
+    "verse_number": "४२",
+    "content_sanskrit": "इ",
+    "padaccheda": "इक्",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "स्मरणे",
+    "meaning_english": "to memorize, to think",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211207,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नित्यमधिपूर्वकः । ' अयत्येतीयते गत्याम् , अधीतेध्येति चेङिको: ' (श्लो. 14) - देवः ।"
+    }
+  ]
+}

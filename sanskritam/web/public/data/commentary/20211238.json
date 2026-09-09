@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211238,
+    "chapter_id": 7782,
+    "verse_number": "७३",
+    "content_sanskrit": "सस्",
+    "padaccheda": "षसँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "स्वप्ने",
+    "meaning_english": "to sleep",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211238,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' षसने ' इति सुधाकरक्षीरस्वामिनौ । धातुरयं छान्दसः ।"
+    }
+  ]
+}

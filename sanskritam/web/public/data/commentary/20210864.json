@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210864,
+    "chapter_id": 7781,
+    "verse_number": "८६५",
+    "content_sanskrit": "स्यन्द्",
+    "padaccheda": "स्यन्दूँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्रस्रवणे",
+    "meaning_english": "to ooze, to drip, to trickle",
+    "audio_url": null,
+    "display_order": 865,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210864,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — टपकना, चूना\nनिस् — निकलना, झरना"
+    }
+  ]
+}

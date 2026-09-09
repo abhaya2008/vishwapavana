@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210026,
+    "chapter_id": 7781,
+    "verse_number": "२७",
+    "content_sanskrit": "ह्लाद्",
+    "padaccheda": "ह्लादीँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे सुखे च",
+    "meaning_english": "to be  glad, to be pleasant, to make a sound",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210026,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "चकारात् पूर्वधात्वर्थः 'अव्यक्तेशब्दे' इति अनुषज्यते ।"
+    }
+  ]
+}

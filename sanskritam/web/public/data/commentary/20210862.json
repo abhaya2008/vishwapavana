@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210862,
+    "chapter_id": 7781,
+    "verse_number": "८६३",
+    "content_sanskrit": "वृध्",
+    "padaccheda": "वृधुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वृद्धौ",
+    "meaning_english": "to increase, to grow, to prosper",
+    "audio_url": null,
+    "display_order": 863,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210862,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तदेव रूपं भाषार्थे वृधेर्वृद्धौ तु वर्धते ' ( श्लो. 124) इति देवः ।"
+    }
+  ]
+}

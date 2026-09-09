@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213505,
+    "chapter_id": 7799,
+    "verse_number": "१७१",
+    "content_sanskrit": "स्त्रीपुंसयोः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 171,
+    "avatarnika": "स्त्रीपुंसाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213505,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अधिकारोऽयम्"
+    }
+  ]
+}

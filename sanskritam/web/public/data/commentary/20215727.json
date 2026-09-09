@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215727,
+    "chapter_id": 7807,
+    "verse_number": "१२०",
+    "content_sanskrit": "नैष दोषः।\nगर्गादिबिदादिपाठात्संवृतादीनां निवृत्तिर्भविष्यति॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": "वर्णोपदेशाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215727,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "भाष्ये - <y>गर्गादिबिदादिपाठादिति</y> । संवृतादिदोषरहितानामेव तत्र पाठादिति भावः ॥"
+    }
+  ]
+}

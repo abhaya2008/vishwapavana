@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214006,
+    "chapter_id": 7805,
+    "verse_number": "२१३",
+    "content_sanskrit": "आत्मभेदो न चेत्कश्चिद्वर्णेभ्यः पदवाक्ययोः । अन्योन्यापेक्षया शक्त्या वर्णः स्यादभिधायकः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 213,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214006,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": " वर्णानामर्थवत्त्वाभ्युपगमे पदवाक्ययोरभिधायकता भज्येतेत्याह--\nसुबोधम् ॥"
+    }
+  ]
+}

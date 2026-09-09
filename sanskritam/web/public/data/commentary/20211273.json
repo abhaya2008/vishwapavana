@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211273,
+    "chapter_id": 7784,
+    "verse_number": "५",
+    "content_sanskrit": "स्नुस्",
+    "padaccheda": "ष्णुसुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "अदने आदाने अदर्शने च",
+    "meaning_english": "to eat, to swallow, to consume, to take, to disappear, to be invisible",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211273,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आदाने इत्येके । अदर्शने इत्यपरे ।"
+    }
+  ]
+}

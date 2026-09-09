@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213480,
+    "chapter_id": 7799,
+    "verse_number": "१४६",
+    "content_sanskrit": "लक्षा कोटिः स्त्रियाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 146,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213480,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं लक्षा । इयं कोटिः । वा लक्षा नियुतं च तदित्यमरात् क्लीबेऽपि लक्षम् । "
+    }
+  ]
+}

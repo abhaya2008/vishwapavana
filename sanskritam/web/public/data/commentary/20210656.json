@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210656,
+    "chapter_id": 7781,
+    "verse_number": "६५७",
+    "content_sanskrit": "पूर्व्",
+    "padaccheda": "पुर्वँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पूरणे",
+    "meaning_english": "to fill, to complete",
+    "audio_url": null,
+    "display_order": 657,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210656,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गुर्द पूर्वनिकेतने ' इति चुरादिषु पठितस्य धातोः केषाञ्चित् मतेन ' गुर्द पूर्व ' इति व्यत्यस्तपाठपक्षे धातुरयम् उपात्तः । ' पूर्व पूर्वनिकेतने ' इति धातुकाव्यपाठः (3-31) । ' पूरणे पूर्वतीति स्यात् पूर्वयेत् णौ निकेतने ' (श्लो. 162) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201863,
+    "chapter_id": 7764,
+    "verse_number": "४.४.१२३",
+    "content_sanskrit": "असुरस्य स्वम्",
+    "padaccheda": "असुरस्य । स्वम्",
+    "anvaya": "असुरस्य 'स्वम्' (इति) छन्दसि संज्ञायाम् यत्",
+    "meaning_sanskrit": "षष्ठीसमर्थात् असुर-शब्दात् 'स्वम्' (आत्मीयम्) अस्मिन् अर्थे वेेदेषु संज्ञायाम् यत्-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": "अनुवृत्तिः — छन्दसि (४.४.११०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201863,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "असुरशब्दात् षष्ठीसमर्थात् स्वमित्येतस्मिन्नर्थे यत् प्रत्ययो भवति। अणोऽपवादः। असु॒३र्यं॒ वा॑ ए॒त॑त्पा॑त्रं॒ य॑त् कु॑ला॒लकृतम् च॒क्॑रवृ॒त्तम् (मै०सं०१.८.३)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201863,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "असुर्यं देवोभिर्धायि विश्वम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201863,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`षष्ठीसमर्थात्` इति। `असुरस्य` इति निर्देशादेव षष्ठी समर्थविभक्तर्लभ्यते। `स्वम्` इति। आत्मीयमित्यर्थः। `अणोऽपवादः` इति। <<तस्येदम्>> [[4.3.120]]  इति प्राप्तस्य॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201863,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "न सुरोऽसुरः उ सुरप्रतिपक्षः । अथ वा ठसेरुरन्ऽ, अस्यत्यस्यते वेत्यसुरः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201863,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मिन्नर्थे यत् । असूर्य वा एतत्पात्रम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201863,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् comes in the sense of 'property' after the word असुर in the Genitive -6th-Case in construction, in the छन्दस् (Vedas).\nThis debars अण् ॥ Thus असुर्यम् 'belonging to the <i>Asuras</i>. As असुर्यं वा एतत् पात्रं यच्चक्रधृतं कुलालकृतम् 'this vessel made on a wheel by a potter belongs to the <i>Asuras</i>'. असुर्यं देवेभिर्धायि विश्वम् ॥ See <i>Maitr</i> S. I.8.3"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201863,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् comes in the sense of 'property' after the word असुर in the Genitive -6th-Case in construction, in the छन्दस् (Vedas)."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201863,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "षष्ठीसमर्थात् 'असुर' शब्दात् 'स्वम्'   (स्वीयम् / आत्मीयम्) अस्मिन् अर्थे वेदेषु संज्ञायाः विषये यत्-प्रत्ययः कृतः दृश्यते ।\nअसुरस्य स्वम् = असुर + यत्  → असूर्य । असूरस्य स्वकीयः / आत्मीयः इत्यर्थः ।\nयथा - (ऋग्वेदः 10.105.11) श॒तं वा॒ यद॑सुर्य॒ प्रति॑ त्वा सुमि॒त्र इ॒त्थास्तौ॑द्दुर्मि॒त्र इ॒त्थास्तौ॑त् ।\n"
+    }
+  ]
+}

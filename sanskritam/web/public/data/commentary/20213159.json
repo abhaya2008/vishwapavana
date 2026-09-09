@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213159,
+    "chapter_id": 7795,
+    "verse_number": "१९९",
+    "content_sanskrit": "चायतेरन्ने ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 199,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213159,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चनो भक्तम् ।"
+    }
+  ]
+}

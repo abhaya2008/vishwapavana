@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212605,
+    "chapter_id": 7792,
+    "verse_number": "८५",
+    "content_sanskrit": "णित्कसिपद्यर्तेः",
+    "padaccheda": "",
+    "anvaya": "ऊ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212605,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कासूः शक्तिः । पादूश्चरणधारिणी । आरूः पिङ्गलः ।"
+    }
+  ]
+}

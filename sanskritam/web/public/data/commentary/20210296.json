@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210296,
+    "chapter_id": 7781,
+    "verse_number": "२९७",
+    "content_sanskrit": "कण्ठ्",
+    "padaccheda": "कठिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शोके",
+    "meaning_english": "to sorrow, to grieve, to be anxious",
+    "audio_url": null,
+    "display_order": 297,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210296,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अथ कण्ठते । शोके यो कण्ठयेत् कण्ठेत्, कठेत् स्यात् कृच्छजीवने ' (श्लो.79) इति देवः । प्रायेण अयम् उत्पूर्वकः एव प्रयुज्यते । शोकः = सोत्कण्ठस्मरणम् । उत्कण्ठामात्रे तु अकर्मकः ।"
+    }
+  ]
+}

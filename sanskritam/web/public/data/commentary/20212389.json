@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212389,
+    "chapter_id": 7791,
+    "verse_number": "१३१",
+    "content_sanskrit": "माशब्दः । नित्यशब्दः । कार्यशब्दः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": "माशब्दादिः (4.4.1)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212389,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "माशब्दादिभ्य उपसंख्यानम्"
+    }
+  ]
+}

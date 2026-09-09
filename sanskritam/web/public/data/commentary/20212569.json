@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212569,
+    "chapter_id": 7792,
+    "verse_number": "४९",
+    "content_sanskrit": "नञि व्यथेः",
+    "padaccheda": "",
+    "anvaya": "टिषच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212569,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अव्यथिषोऽब्धिसूर्ययोः । अव्यथिषी धरारात्र्योः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211745,
+    "chapter_id": 7789,
+    "verse_number": "६७",
+    "content_sanskrit": "खच्",
+    "padaccheda": "खचँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "भूतप्रादुर्भावे",
+    "meaning_english": "to occur in abundance",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211745,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " खव ' इति वकारन्तं क्षीरस्वामी पपाठ । भूतप्रादुर्भावः - अतिक्रान्तोत्पत्तिः । दशमासादौ उत्पत्तियोग्यस्य एकादशादिमासादिषु उत्पत्तिः इत्यर्थः ।"
+    }
+  ]
+}

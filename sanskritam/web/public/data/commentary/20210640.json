@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210640,
+    "chapter_id": 7781,
+    "verse_number": "६४१",
+    "content_sanskrit": "ष्ठिव्",
+    "padaccheda": "ष्ठिवुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "निरसने",
+    "meaning_english": "to spit",
+    "audio_url": null,
+    "display_order": 641,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210640,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ष्ठीवति ष्ठीव्यतीत्येते स्यातां निरसने ष्ठिवेः ' (श्लो. 162) इति देवः । \" अत्र द्वितीयः थकारः ठकारो वा इति वृत्तिः । आचार्येण शिष्येभ्यः उभयथा प्रतिपादनात् उभयमपि प्रमाणमिति व्याख्यातारः \" - मा.धा.वृत्तिः ।"
+    }
+  ]
+}

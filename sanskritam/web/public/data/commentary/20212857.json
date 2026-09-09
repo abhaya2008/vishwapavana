@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212857,
+    "chapter_id": 7794,
+    "verse_number": "५७",
+    "content_sanskrit": "अशेर्लशश्च",
+    "padaccheda": "",
+    "anvaya": "उनन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212857,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "लशुनम् ।"
+    }
+  ]
+}

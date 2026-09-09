@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212824,
+    "chapter_id": 7794,
+    "verse_number": "२४",
+    "content_sanskrit": "च्युवः किच्च",
+    "padaccheda": "",
+    "anvaya": "प",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212824,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "च्युपो वक्त्रम् ।"
+    }
+  ]
+}

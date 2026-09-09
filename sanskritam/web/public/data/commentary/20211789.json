@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211789,
+    "chapter_id": 7790,
+    "verse_number": "४०",
+    "content_sanskrit": "लुण्ठ्",
+    "padaccheda": "लुन्ठँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "स्तेये",
+    "meaning_english": "to steal, to loot",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211789,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ... स्तेये लुण्टति लुण्टयेत् ' (श्लो.74) इति देवः ।"
+    }
+  ]
+}

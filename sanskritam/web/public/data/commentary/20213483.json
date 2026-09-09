@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213483,
+    "chapter_id": 7799,
+    "verse_number": "१४९",
+    "content_sanskrit": "मन्द्व्यच्कोऽकर्तरि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213483,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मन्प्रत्ययान्तो द्व्यच्कः क्लीबः स्यान्न तु कर्तरि । वर्म । चर्म । द्व्यच्कः किम् - अणिमा । महिमा । अकर्तरि किम् ? ददातीति दामा । "
+    }
+  ]
+}

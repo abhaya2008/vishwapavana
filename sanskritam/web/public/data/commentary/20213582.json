@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213582,
+    "chapter_id": 7802,
+    "verse_number": "१०",
+    "content_sanskrit": "कर्दमादीनां च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213582,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदिर्द्वितीयं वोदात्तम् ॥"
+    }
+  ]
+}

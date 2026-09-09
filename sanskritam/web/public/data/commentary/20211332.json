@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211332,
+    "chapter_id": 7784,
+    "verse_number": "६४",
+    "content_sanskrit": "शप्",
+    "padaccheda": "शपँ",
+    "anvaya": "U-पदी, गणः 4",
+    "meaning_sanskrit": "आक्रोशे",
+    "meaning_english": "to swear, to take oath, to curse",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211332,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' आक्रोशे शप्यते शप्येत् शपते शपतीति च । उपालम्भे शपेर्वाक्यात्तङि , स्याच्छपते पदम् ' (श्लो. 132) इति देवः ।"
+    }
+  ]
+}

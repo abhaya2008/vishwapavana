@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214820,
+    "chapter_id": 7806,
+    "verse_number": "५३७",
+    "content_sanskrit": "द्वाभ्यां स किल शक्तिभ्यां भावानां वरणात्मकः । शक्तिस्तु वर्तमानाख्या भावरूपप्रकाशिनी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 537,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214820,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "दर्शनादर्शने एव शक्तिप्रविभागेन विभजति - \n अतीतानगतशक्तिभ्यां वरणं तिरोधानं भावानां सतां कालः करोति । वर्तमानशक्त्या दर्शने भावरूपप्रकाशनम् ॥"
+    }
+  ]
+}

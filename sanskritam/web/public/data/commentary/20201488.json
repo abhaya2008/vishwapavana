@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201488,
+    "chapter_id": 7762,
+    "verse_number": "४.२.६१",
+    "content_sanskrit": "क्रमादिभ्यो वुन्",
+    "padaccheda": "क्रम-आदिभ्यः । वुन्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": "अनुवृत्तिः — तत् (४.२.५९), अधीते (४.२.५९), तत् (४.२.५९), वेद (४.२.५९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201488,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "क्रम इत्येवमादिभ्यः शब्देभ्यो वुन् प्रत्ययो भवति तदधीते तद्वेदेत्यस्मिन् विषये। अणोऽपवादः। क्रमकः। पदकः॥ क्रम। पद। शिक्षा। मीमांसा। सामन्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201488,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्रमकः । क्रम, पद, शिक्षा, मीमांसा, क्रमादिः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201488,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "क्रमकः । पदकः । शिक्षकः । मीमांसकः ॥ इति रक्ताद्यर्थकाः ॥ ३ ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201488,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<क्रमादिभ्यो वुन्>> - क्रमादिभ्यो वुन् ।तदधीते तद्वेद इत्यर्थे॑ इति शेषः । क्रमक इति । क्रममधीते वेत्ति वेत्यर्थः । क्रमादिगणं पठति-क्रमेत्यादि । क्रमादिरिति । अयं क्रमादिगण इत्यर्थः । 'पदकः॒॑मीमांसकः' इत्युदाहरणानि ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201488,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्रमपदशीक्षामीमांसासामभ्यः । क्रममधीते वेद वा क्रमकः । पदकः । शीक्षकः । मीमांसकः । सामकः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201488,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुन् comes in the sense of 'who studies or who knows' after the words क्रम etc.\nThis debars अण् ॥ Thus क्रमकः [[7.1.1]] &c. The words 1 क्रम, 2 पद, 3 शिक्षा, 4 मीमांसा, 5 सामन् belong to this class."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201488,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुन् comes in the sense of 'who studies or who knows' after the words क्रम etc."
+    }
+  ]
+}

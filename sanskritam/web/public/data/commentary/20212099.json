@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212099,
+    "chapter_id": 7790,
+    "verse_number": "३५०",
+    "content_sanskrit": "तप्",
+    "padaccheda": "तपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दाहे",
+    "meaning_english": "to become hot, to glow, to burn, to be jealous",
+    "audio_url": null,
+    "display_order": 350,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212099,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — पश्चाताप करना\nपरि — सम्"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212099,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सन्तापेर्थे तपेत् दाहे तापयेत् तपते तपेत् ' (श्लो. 131) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211487,
+    "chapter_id": 7786,
+    "verse_number": "१८",
+    "content_sanskrit": "जर्ज्",
+    "padaccheda": "जर्जँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "परिभाषणभर्त्सनयोः",
+    "meaning_english": "to say,to kill, to blame, to abuse",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211487,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' परिभाषणसन्तर्जनयोः ' इति मा.धा.वृत्तिपाठः ।"
+    }
+  ]
+}

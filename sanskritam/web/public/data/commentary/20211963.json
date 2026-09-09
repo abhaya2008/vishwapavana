@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211963,
+    "chapter_id": 7790,
+    "verse_number": "२१४",
+    "content_sanskrit": "शठ्",
+    "padaccheda": "शठँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "श्लाघायाम्",
+    "meaning_english": "to praise",
+    "audio_url": null,
+    "display_order": 214,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211963,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ... श्लाघायां शाठयेत णौ ' (श्लो. 82) इति देवः ।"
+    }
+  ]
+}

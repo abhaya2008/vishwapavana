@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200720,
+    "chapter_id": 7757,
+    "verse_number": "३.१.१०२",
+    "content_sanskrit": "वह्यं करणम्",
+    "padaccheda": "वह्यम् । करणम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कृत्याः (३.१.९५), यत् (३.१.९७), अनुपसर्गे (३.१.१००)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200720,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वहेर्धातोः करणे यत् प्रत्ययो निपात्यते। वहत्यनेनेति वह्यं शकटम्। करण इति किम्? वाह्यमन्यत्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200720,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वहन्त्यनेनेति वह्यं शकटम् । करणं किम् । वाह्यम् । वोढव्यम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200720,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वह्यं करणम्>> - वह्रं करणम् । वहेः करणे यन्निपात्यते । ण्यतोऽपवादः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200720,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<वह्यं करणम्>> - वाह्रमिति । वहनकर्मेत्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200720,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वह्यं करणम्॥ वहेर्द्धातोः करणे यत्प्रत्ययो निपात्यत इति। अर्थव्याख्यानमेतत्।'वह्यमिति निपात्यते करणं चेद्भवति'  इति वक्तुअं युक्तम्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200720,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वह्यमिति वहनसाधनम् । वाह्यमन्यत् ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200720,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word वह्यं is irregularly formed when the meaning of the word is an instrument of carrying.\nThe word वह्य is derived from root वह 'to carry' and means 'a vehicle', i. e., that by which a thing is carried; as वह्यं शकटम्. When it does not mean a carriage, the root takes the affix ण्यत्; thus वाह्यः 'an ox'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200720,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word वह्यं is irregularly formed when the meaning of the word is an instrument of carrying."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200720,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तेन वह्येन हन्तासि (भट्टिकाव्यम् 6.51) — `वह्यं करणम्` इति यत्।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212235,
+    "chapter_id": 7790,
+    "verse_number": "४८६",
+    "content_sanskrit": "विष्क",
+    "padaccheda": "विष्क",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दर्शने",
+    "meaning_english": "to see",
+    "audio_url": null,
+    "display_order": 486,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212235,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।"
+    }
+  ]
+}

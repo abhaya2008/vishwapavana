@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210846,
+    "chapter_id": 7781,
+    "verse_number": "८४७",
+    "content_sanskrit": "रुच्",
+    "padaccheda": "रुचँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तावभिप्रीतौ च",
+    "meaning_english": "to shine, to glow, to please, to like, to enjoy",
+    "audio_url": null,
+    "display_order": 847,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210846,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "न्यासपदमञ्जर्यादिषु ' अभिप्रीतौ ' इति न पठ्यते । ' अभिप्रीतिः = प्रीतिविषयीभवनम् ' इति बालमनोरमा । दीप्तिः प्रकाशनम् । रोचते सूर्यः ।"
+    }
+  ]
+}

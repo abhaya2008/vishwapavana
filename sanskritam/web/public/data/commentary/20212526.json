@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212526,
+    "chapter_id": 7792,
+    "verse_number": "६",
+    "content_sanskrit": "कृके वचः कश्च",
+    "padaccheda": "",
+    "anvaya": "ञुण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212526,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कृकेन गलेन वक्तीति कृकवाकुः । ’कृकवाकुर्मयूरे च सरटे चरणायुधे’ इति विश्वः ।"
+    }
+  ]
+}

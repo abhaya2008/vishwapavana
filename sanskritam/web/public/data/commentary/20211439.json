@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211439,
+    "chapter_id": 7785,
+    "verse_number": "८",
+    "content_sanskrit": "वृ",
+    "padaccheda": "वृञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "वरणे",
+    "meaning_english": "to choose,to select,to marry,to finalize",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211439,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — स्पष्ट करना या होना\nसम् — छिपाना\nसम् + आ — लपेटना\nपरि — घेरना, लपेटना\nनि — पूरा करना, समाप्त करना\nनिर् — पूरा करना, समाप्त करना\nआ — घेरना, लपेटना\nअप — संरक्षण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211439,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वरणे - आवरणे इति काशकृत्स्नः । वरणं - स्वीकारः छादनं वा इति धा.का.व्याख्या ।(2.68) ' भक्तौ वृणीते वरणे वृणोति वृणुते वृञः । वृञ आवरणे वा णौ वारयेद् वरते वरेत् ' (श्लो. 32) इति देवः ।"
+    }
+  ]
+}

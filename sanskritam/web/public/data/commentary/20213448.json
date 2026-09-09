@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213448,
+    "chapter_id": 7799,
+    "verse_number": "११४",
+    "content_sanskrit": "हृदकन्दकुन्दबुद्बुदशब्दाः ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213448,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं हृदः ।"
+    }
+  ]
+}

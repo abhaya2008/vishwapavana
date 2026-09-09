@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210016,
+    "chapter_id": 7781,
+    "verse_number": "१७",
+    "content_sanskrit": "दद्",
+    "padaccheda": "ददँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दाने",
+    "meaning_english": "to give,to offer,to present",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210016,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' धारणे च कल्पद्रुमे ' इति धातुकाव्यव्याख्याने (1.4) । किञ्चिदुद्दिश्य अपुनर्ग्रहणाय स्वीयत्यागो दानम् । (विशेषविचारः दध- धारणे (8) इत्यत्र द्रष्टव्यः ।)"
+    }
+  ]
+}

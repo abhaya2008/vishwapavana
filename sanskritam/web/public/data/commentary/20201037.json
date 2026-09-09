@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201037,
+    "chapter_id": 7759,
+    "verse_number": "३.३.८१",
+    "content_sanskrit": "अपघनोऽङ्गम्",
+    "padaccheda": "अपघनः । अङ्गम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), हनः (३.३.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201037,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अपपूर्वस्य हन्तेरपघन इति निपात्यते, अङ्गं चेत् तद् भवति। अपघनः अङ्गम्। अवयवः, एकदेशो न सर्वः। किं तर्हि? पाणिः पादश्चाभिधीयते। अपघातोऽन्यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201037,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अङ्गं शरीरावयवः । स चेह न सर्वः किन्तु पाणिः पादश्चेत्याहुः । करणेऽप् । अपघातोऽन्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201037,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अपघनः`इति। अपहन्यतेऽनेनेति करणेऽप्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201037,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अपघन इति । करणेऽप् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201037,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अपघन is irregularly formed meaning 'a member of the body'.\nThis is formed irregularly from अप + हन्. Thus अपघनः 'a limb or member of the body'. The word अङ्गम् means a portion of the body, such as hand or foot, and not the whole body. Otherwise we have अपघातः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201037,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अपघन is irregularly formed meaning 'a member of the body'."
+    }
+  ]
+}

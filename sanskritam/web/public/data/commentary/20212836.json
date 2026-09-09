@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212836,
+    "chapter_id": 7794,
+    "verse_number": "३६",
+    "content_sanskrit": "जहातेर्द्वेऽन्तलोपश्च",
+    "padaccheda": "",
+    "anvaya": "नु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212836,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जह्नुः ।"
+    }
+  ]
+}

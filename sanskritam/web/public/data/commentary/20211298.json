@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211298,
+    "chapter_id": 7784,
+    "verse_number": "३०",
+    "content_sanskrit": "डी",
+    "padaccheda": "डीङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "विहायसा गतौ",
+    "meaning_english": "to pass through air, to fly",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211298,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — ऊपर उड़ना\nअव — आकाश से उतरना\nपरि — चक्राकार उड़ना\nप्र — चपलता से उड़ना\nसम् — समूह के साथ उड़ना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211298,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विहायसा गतौ डीङो डयते डीयते पदे ' (श्लो. 20) इति देवः ।"
+    }
+  ]
+}

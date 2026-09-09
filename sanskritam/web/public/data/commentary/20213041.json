@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213041,
+    "chapter_id": 7795,
+    "verse_number": "८१",
+    "content_sanskrit": "शकादिभ्योऽटन्",
+    "padaccheda": "",
+    "anvaya": "अटन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213041,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शकटोऽस्त्रियाम् । शकिर्गत्यर्थः । कङ्कटः सन्नाहः । देवटः शिल्पी । करट इत्यादि ।"
+    }
+  ]
+}

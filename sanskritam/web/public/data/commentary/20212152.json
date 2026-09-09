@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212152,
+    "chapter_id": 7790,
+    "verse_number": "४०३",
+    "content_sanskrit": "रच",
+    "padaccheda": "रच",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रतियत्ने",
+    "meaning_english": "to create, to craft, to compose",
+    "audio_url": null,
+    "display_order": 403,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212152,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

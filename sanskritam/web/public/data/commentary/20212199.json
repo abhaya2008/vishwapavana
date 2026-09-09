@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212199,
+    "chapter_id": 7790,
+    "verse_number": "४५०",
+    "content_sanskrit": "सूत्र",
+    "padaccheda": "सूत्र",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वेष्टने विमोचने ग्रन्थने च",
+    "meaning_english": "to put in thread, to cover with thread",
+    "audio_url": null,
+    "display_order": 450,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212199,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । \" अन्ये तु विमोचने इति पठन्तः ' विमोचनं मोचनाभावः ' इति । ग्रन्थनमित्यपरे \" इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

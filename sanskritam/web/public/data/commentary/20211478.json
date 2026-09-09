@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211478,
+    "chapter_id": 7786,
+    "verse_number": "९",
+    "content_sanskrit": "विज्",
+    "padaccheda": "ओँविजीँ",
+    "anvaya": "A-पदी, गणः 6",
+    "meaning_sanskrit": "भयचलनयोः",
+    "meaning_english": "to fear,to tremble, to shiver, to have disaster",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211478,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रायेण अयम् उत्पूर्वः । ' उद्वेगे च ' इति पा.धा.समीक्षा । ' वेवेक्तीति पृथग्भावे विवेक्ते च भये पुनः । विनक्ति विजते ....' (श्वो.61.62) इति देवः ।"
+    }
+  ]
+}

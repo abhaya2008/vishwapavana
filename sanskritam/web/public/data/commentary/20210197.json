@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210197,
+    "chapter_id": 7781,
+    "verse_number": "१९८",
+    "content_sanskrit": "पञ्च्",
+    "padaccheda": "पचिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "व्यक्तीकरणे",
+    "meaning_english": "to articulate, to speak clearly",
+    "audio_url": null,
+    "display_order": 198,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210197,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "\" पचेति दुर्गः । तथा वर्धमानोपि । सम्मतायां तु वर्धमानवदुक्त्वा ' अन्यैस्त्वयमिदित् पठ्यते ' इत्युक्तम् । न्यासकारः परस्मैपदिनं च मन्यते \" इति मा.धा.वृत्तिः । ' णौ पञ्चयति विस्तारे व्यक्तौ तु शपि पञ्चते ' (श्लो.18) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212697,
+    "chapter_id": 7793,
+    "verse_number": "२०",
+    "content_sanskrit": "दुरीणो लोपश्च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212697,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दुःखेनेयते प्राप्यत इति दूरम् ।"
+    }
+  ]
+}

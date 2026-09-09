@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213557,
+    "chapter_id": 7801,
+    "verse_number": "११",
+    "content_sanskrit": "हस्वान्तस्य हस्वमनृताच्छील्ये",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213557,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऋद्वर्जं हस्वान्तस्यादिभूतं हस्वमुदात्तं स्यात् । मुनिः ॥"
+    }
+  ]
+}

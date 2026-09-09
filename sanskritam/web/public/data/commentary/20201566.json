@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201566,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१३९",
+    "content_sanskrit": "प्राचां कटादेः",
+    "padaccheda": "प्राचाम् । कट-आदेः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": "अनुवृत्तिः — छः (४.२.१३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201566,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "देश इत्येव, तद्विशेषणं प्राग्ग्रहणम्। प्राग्देशवाचिनः कटादेः प्रातिपदिकाच् छः प्रत्ययो भवति शैषिकः। अणोऽपवादः। कटनगरीयम्। कटघोषीयम्। कटपल्वलीयम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201566,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्राद्गेशवाचिनः कटादेश्छः स्यात् । अणोऽपवादः । कटनगरीयम् । कटघोषीयम् । कटपल्वलीयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201566,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<प्राचां कटादेः>> - प्राचां कटादेः । कटनगरीयमिति । कटनगरो नाम प्राच्यो देशः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201566,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कटादेः प्राग्देशशब्दाच्छः । कटसाल्वीयम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201566,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छ comes in the remaining senses after the words beginning with कद denoting the places of the East-folk.\nThe word देशे is understood here also. The word प्राक् of the <i>sutra</i> qualifies देशे ॥ This debars अण् ॥ Thus कटनगरीयम्, कटघोषीयम्, कटपल्वलीयम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201566,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix छ comes in the remaining senses after the words beginning with कद denoting the places of the East-folk."
+    }
+  ]
+}

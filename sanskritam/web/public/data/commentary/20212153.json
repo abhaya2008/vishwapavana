@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212153,
+    "chapter_id": 7790,
+    "verse_number": "४०४",
+    "content_sanskrit": "कल",
+    "padaccheda": "कल",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "गतौ सङ्ख्याने च",
+    "meaning_english": "to go, to count, to enumerate",
+    "audio_url": null,
+    "display_order": 404,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212153,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — बांध लेना\nपरि — याद करना\nवि — व्याकुल होना\nसम् — सारांश निकाल कर कहना, तात्पर्य कहना, संकलन करना, मिलाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212153,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' कलेः कालयति क्षेपे, गतिसङ्ख्यानयोर्द्वयोः । कलयेद्, शब्दसङ्ख्यानविषये कलते शपि ' (श्लो. 155) इति देवः ।"
+    }
+  ]
+}

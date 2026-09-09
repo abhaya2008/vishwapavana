@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213497,
+    "chapter_id": 7799,
+    "verse_number": "१६३",
+    "content_sanskrit": "वृक्षजातिः स्त्रियामेव",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 163,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213497,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्वचिदेवेदम् । हरीतकी ।"
+    }
+  ]
+}

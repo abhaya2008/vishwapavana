@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213504,
+    "chapter_id": 7799,
+    "verse_number": "१७०",
+    "content_sanskrit": "अक्षमिन्द्रिये",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 170,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213504,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इन्द्रिये किम् ? रथाङ्गादौ मा भूत् । इति नपुंसकाधिकारः ॥"
+    }
+  ]
+}

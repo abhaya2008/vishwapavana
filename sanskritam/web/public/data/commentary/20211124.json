@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211124,
+    "chapter_id": 7781,
+    "verse_number": "११२५",
+    "content_sanskrit": "गुप्",
+    "padaccheda": "गुपँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गोपने निन्दायां च",
+    "meaning_english": "to protect, to conceal, to hide, to blame, to criticize",
+    "audio_url": null,
+    "display_order": 1125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211124,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "( निन्दार्थे सन् ) ' णौ गोपयति भाषार्थे , निन्दायाम् से जुगुप्सते । गोपयेद् रक्षणे त्वाये, व्याकुलत्वे तु गुप्यति ' (श्लो. 129) इति देवः । ' गोपनकुत्सनयोः ' इति मैत्रेयरक्षितौ ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211764,
+    "chapter_id": 7790,
+    "verse_number": "१५",
+    "content_sanskrit": "जल्",
+    "padaccheda": "जलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अपवारणे",
+    "meaning_english": "to cover,to hide, to cover by net",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211764,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " लज ' इत्येके इति तत्त्वबोधिनी । बालमनोरमायां तु ' लज ' इत्येव पाठः । ' जल ' इति पाठान्तरम् । मा.धा.वृत्तौ तु ' जल ' इत्येव पाठः ।"
+    }
+  ]
+}

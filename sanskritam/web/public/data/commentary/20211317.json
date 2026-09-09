@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211317,
+    "chapter_id": 7784,
+    "verse_number": "४९",
+    "content_sanskrit": "गूर्",
+    "padaccheda": "गूरीँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "हिंसागत्योः",
+    "meaning_english": "to kill, to destroy, to go",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211317,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गूरते गूर(गुर)येतेति शे णावुद्यमने तङि । श्यनि गूर्यत इत्येवं गतिहिंसनयोस्तुङि ' (श्लो. 152) इति देवः । ' हिंसावयोहान्योः ' इति क्वचित् पाठः ।"
+    }
+  ]
+}

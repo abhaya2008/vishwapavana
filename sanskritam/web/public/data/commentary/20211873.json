@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211873,
+    "chapter_id": 7790,
+    "verse_number": "१२४",
+    "content_sanskrit": "चि",
+    "padaccheda": "चिञ्",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "चयने",
+    "meaning_english": "to find, to gather, to collect",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211873,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — नाश करना, विध्वंस करना\nसम् — संचय करना, जोड़ना\nउप — पाना, प्राप्त करना\nनिर् — निश्चय करना, ठहरना\nवि + निर् — ठीक निश्चय करना"
+    }
+  ]
+}

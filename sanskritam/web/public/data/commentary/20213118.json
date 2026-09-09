@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213118,
+    "chapter_id": 7795,
+    "verse_number": "१५८",
+    "content_sanskrit": "सर्वधातुभ्यः ष्ट्रन्",
+    "padaccheda": "",
+    "anvaya": "ष्ट्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 158,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213118,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वस्त्रम् । अस्त्रम् । शस्त्रम् । [[6.4.97]] <<इस्मन्...>> इति ह्रस्वत्वम् । छादनाच्छत्रम् ।"
+    }
+  ]
+}

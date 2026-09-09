@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210923,
+    "chapter_id": 7781,
+    "verse_number": "९२४",
+    "content_sanskrit": "चल्",
+    "padaccheda": "चलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कम्पने",
+    "meaning_english": "to move, to shake, to walk",
+    "audio_url": null,
+    "display_order": 924,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210923,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चल - कम्पने ' इति ज्वलादौ स्थितस्य (दृश्यताम् 832) मित्त्वार्थे अनुवादः । ' ...भृत्यां चालयेत् कम्पने चलेत् ' (श्लो. 158) इति देवः ।"
+    }
+  ]
+}

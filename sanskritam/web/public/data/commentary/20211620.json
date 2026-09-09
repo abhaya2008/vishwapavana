@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211620,
+    "chapter_id": 7786,
+    "verse_number": "१५१",
+    "content_sanskrit": "मज्ज्",
+    "padaccheda": "टुमस्जोँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "शुद्धौ",
+    "meaning_english": "to bathe, to submerge",
+    "audio_url": null,
+    "display_order": 151,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211620,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — डूबना, डुबकी लगाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211620,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शुद्ध्या स्नानं, व्रुडनं च लक्ष्यते ' इति क्षीरस्वामी । व्रुडनम् = संवरणम् ।"
+    }
+  ]
+}

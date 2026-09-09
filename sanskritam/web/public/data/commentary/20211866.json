@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211866,
+    "chapter_id": 7790,
+    "verse_number": "११७",
+    "content_sanskrit": "श्वभ्र्",
+    "padaccheda": "श्वभ्रँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "गत्याम्",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211866,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतौ च । चकारात् कृच्छ्रजीवने इति दौर्गा: ' इति स्वामी । ' बिले गतौ तङ्के ' इति वोपदेवः । ' श्वभ्रिः बिलार्थे च द्रुमे ' इति धा.का. व्याख्या ।(3.24)"
+    }
+  ]
+}

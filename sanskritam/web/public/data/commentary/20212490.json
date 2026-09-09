@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212490,
+    "chapter_id": 7791,
+    "verse_number": "२३२",
+    "content_sanskrit": "त्रिचक्र । त्रिवृत् । त्रिवङ्कर ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 232,
+    "avatarnika": "त्रिचक्रादि (6.2.129)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212490,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "त्रिचक्रादीनां छन्दस्युपसंख्यानम्"
+    }
+  ]
+}

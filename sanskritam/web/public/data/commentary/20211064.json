@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211064,
+    "chapter_id": 7781,
+    "verse_number": "१०६५",
+    "content_sanskrit": "गै",
+    "padaccheda": "गै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sing",
+    "audio_url": null,
+    "display_order": 1065,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211064,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — जोर से गाना, जोर से कहना\nप्र — जोर से गाना, जोर से कहना\nवि — निश्चय पूर्वक कहना, निन्दा करना\nअव — निन्दा करना\nप्र — प्रशंसा करना, स्तुती करना, जोर से गाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211064,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दविशेषे ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

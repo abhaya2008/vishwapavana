@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211973,
+    "chapter_id": 7790,
+    "verse_number": "२२४",
+    "content_sanskrit": "भल्",
+    "padaccheda": "भलँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "आभण्डने",
+    "meaning_english": "to analyze, to argue",
+    "audio_url": null,
+    "display_order": 224,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211973,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आभण्डनम् - निरूपणम् । ' मार्जनम् ' इति धातुकाव्यम् ।"
+    }
+  ]
+}

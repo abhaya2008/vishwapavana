@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212946,
+    "chapter_id": 7794,
+    "verse_number": "१४६",
+    "content_sanskrit": "वृतेस्तिकन्",
+    "padaccheda": "",
+    "anvaya": "तिकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 146,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212946,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वर्तिका ।"
+    }
+  ]
+}

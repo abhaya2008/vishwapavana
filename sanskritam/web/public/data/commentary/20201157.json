@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201157,
+    "chapter_id": 7760,
+    "verse_number": "३.४.२५",
+    "content_sanskrit": "कर्मण्याक्रोशे कृञः खमुञ्",
+    "padaccheda": "कर्मणि । आक्रोशे । कृञः । खमुञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), समानकर्त्तृकयोः (३.४.२१), पूर्वकाले (३.४.२१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201157,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कर्मण्युपपदे कृञो धातोः खमुञ् प्रत्ययो भवत्याक्रोशे गम्यमाने। चोरंकारमाक्रोशति। चोरोऽसि दस्युरसीत्याक्रोशति। चोरकरणमाक्रोशसंपादनार्थमेव, न त्वसौ चोरः क्रियते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201157,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कर्मण्युपपदे आक्रोशे गम्ये । चौरङ्कारमाक्रोशति । करोतिरुच्चारणे । चोरशब्दमुच्चार्येत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201157,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`चौराङ्कारम्` इति। <<अरुर्द्विषदजन्तस्य मुम्>> [[6.3.67]]  इति मुम्। `चौरकरणम्` इत्यादि। करोतिरत्रोच्चारणक्रियः। `चौरोऽसि`इत्याक्रोशवाक्ये चौरशब्दस्य यत् करणमुच्चारणं तदाक्रोशस्यैव सम्पादनार्थम्। न हि तेनविनाऽऽक्रोशः शक्यते प्रतिपादयितुम्। `न त्वसौ चौरः क्रियते` इति। अशक्यत्वात्। न च `चौरोऽसीति शतकृत्वोऽपि ब्राउवता पुरुषस्य शक्यते चौरत्वमुत्पादयितुम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201157,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "उदाहरणेषु करोतिरुच्चारणे वर्तते, तस्य शब्दात्मकमेव कर्म भवति । तत्र चोरादिशब्दाः शब्दप्रधानाः । चोरङ्कारम् । कोऽथेः ? चोरशब्दमुच्चार्येत्यर्थः, तदाह - चोरोऽसीत्यादि । चोरकरणमिति । चोरशब्दोच्चारणम् । आक्रोशसम्पादनार्थमिति । निन्दितशब्दोच्चारणमन्तरेण तस्य सम्पादयितुशक्यत्वात् । न त्वसाविति । न हि चोरोऽसीति वचनेन चोरः क्रियते ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201157,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्षेपे द्योत्ये कर्मपूर्वात् कृञः खमुञ् स्यात् । अमन्तत्वावुपपदसमासः । खित्त्वान्मुम् । चोरङ्कारमाक्रोशति । चोरशब्दमुक्तेवेत्यर्थः । एवं वधिरङ्कारमा ह्वयति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201157,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix खमुञ् is added to the verb कृ 'to make', when a word in the Accusative -2nd case is in construction with it, if the sense intended implies 'abuse'.\nOf the affix  खमुञ्, the efficient portion is अम्; the indicatory ख introduces the augment मुम् [[6.3.67]]. Thus चोरं कारमाक्रोशति 'he reviles him as thief, i. e. he calls out in abuse 'thou art a thief., thou art a robber, &c.' The person is not really made a thief, but making him a thief is to express one's indignation."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201157,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix खमुञ् is added to the verb कृ 'to make', when a word in the Accusative -2nd case is in construction with it, if the sense intended implies 'abuse'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201157,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तंभीतं-कारमाक्रुश्य (भट्टिकाव्यम् 5.39) — `क्रोशे` इति कृञः खमुन्।"
+    }
+  ]
+}

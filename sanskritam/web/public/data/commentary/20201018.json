@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201018,
+    "chapter_id": 7759,
+    "verse_number": "३.३.६२",
+    "content_sanskrit": "स्वनहसोर्वा",
+    "padaccheda": "स्वन-हसोः । वा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), अनुपसर्गे (३.३.६१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201018,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अनुपसर्ग इत्येव। स्वनहसोरनुपसर्गयोर्वा अप् प्रत्ययो भवति। स्वनः, स्वानः। हसः, हासः। अनुपसर्ग इति किम्? प्रस्वानः। प्रहासः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201018,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अप् । पक्षे घञ् । स्वनः । स्वानः । हसः । हासः । अनुपसर्गे इत्येव । प्रस्वानः । प्रहासः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201018,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनुपसर्गयोरनयोरप् वा स्यात् । स्वनः । स्वानः । हसः । हासः । सोपसर्गे प्रस्वानः प्रहासः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201018,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes optionally after the verbs 1. स्वन् 2. हस् when no उपसर्ग is in composition with them.\nThus स्वनः or स्वानः 'sound'; हसः or हासः 'laughter'. But with <i>upasargas</i>, we have only one form; प्रस्वानः 'a loud noise'; प्रहासः 'a loud laughter'."
+    },
+    {
+      "id": 5,
+      "verse_id": 20201018,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes optionally after the verbs 1. स्वन् 2. हस् when no उपसर्ग is in composition with them."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201018,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "न सह सा सहसा परिरभ्य तम् (शिशुपालवधम् 6.57) — `स्वनहसोर्वा` इति विकल्पादप्प्रत्ययः।\nस्रग्विणी सु-हसाऽऽनना (भट्टिकाव्यम् 4.18) — `स्वनहसोर्वा` इत्यप्।\nराम-स्वनित-सङ्काशः स्वान्\"इत्यवदत्स ताम् (भट्टिकाव्यम् 5.55) — `स्वन- हसोर्वा` इति पक्षे घन्।\nसंचेरुः स-हसाः (भट्टिकाव्यम् 7.57) — `स्वन-ह- सोर्वा` इत्यप्।\nआघ्नन्भेरीर्महा-स्वानाः (भट्टिकाव्यम् 17.7) — `स्वनहसोर्वा` इत्यप्।"
+    }
+  ]
+}

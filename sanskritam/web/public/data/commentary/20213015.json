@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213015,
+    "chapter_id": 7795,
+    "verse_number": "५५",
+    "content_sanskrit": "दिवो द्वे दीर्घश्चाभ्यासस्य",
+    "padaccheda": "",
+    "anvaya": "क्विन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213015,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दीदिविः स्वर्गमोक्षयोः ।"
+    }
+  ]
+}

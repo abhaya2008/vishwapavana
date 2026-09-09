@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213408,
+    "chapter_id": 7799,
+    "verse_number": "७४",
+    "content_sanskrit": "नोपधः ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213408,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अदन्तः पुंसि । इनः फेनः ।"
+    }
+  ]
+}

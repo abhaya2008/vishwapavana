@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210480,
+    "chapter_id": 7781,
+    "verse_number": "४८१",
+    "content_sanskrit": "अर्ब्",
+    "padaccheda": "अर्बँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 481,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210480,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " इतः एकादश तृतीयान्ताः ' इति सिद्धान्तकौमुदी । ' अर्बादयो नोपधाः ' इति कौशिकः ।"
+    }
+  ]
+}

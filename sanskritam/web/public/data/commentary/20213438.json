@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213438,
+    "chapter_id": 7799,
+    "verse_number": "१०४",
+    "content_sanskrit": "द्रौणाढकौ नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213438,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदं द्रोणम् । अयं द्रोणः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211433,
+    "chapter_id": 7785,
+    "verse_number": "२",
+    "content_sanskrit": "सि",
+    "padaccheda": "षिञ्",
+    "anvaya": "U-पदी, गणः 5",
+    "meaning_sanskrit": "बन्धने",
+    "meaning_english": "to tie,to bind, to quill, to interlock",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211433,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सिनोति सिनुते बन्धे सिनिते च सिनाति च ' (श्लो. 15) इति देवः ।"
+    }
+  ]
+}

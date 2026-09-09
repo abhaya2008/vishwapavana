@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211892,
+    "chapter_id": 7790,
+    "verse_number": "१४३",
+    "content_sanskrit": "चूर्ण्",
+    "padaccheda": "चूर्णँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सङ्कोचने",
+    "meaning_english": "to hestitate",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211892,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — टुकड़े टुकड़े कर देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211892,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रेरणे पठितस्य पुनः पाठः अर्थभेदकृतः । ' चूण सङ्कोचने ' इति क्षीरस्वामी पपाठ ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211941,
+    "chapter_id": 7790,
+    "verse_number": "१९२",
+    "content_sanskrit": "चित्",
+    "padaccheda": "चितँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "सञ्चेतने",
+    "meaning_english": "to think to perceive, to meditate, to remember, to memorize",
+    "audio_url": null,
+    "display_order": 192,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211941,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आकुस्मीयाः आत्मनेपदिनः ' इति सिद्धान्तकौमुदी । सञ्चेतनम् - मूर्च्छावस्थानिवृत्त्युत्तरकालिकं ज्ञानम् । ' स्मृत्यां , चेतति संज्ञाने तत्र चेतयते णिचि ' (श्लो. 94) इति देवः ।"
+    }
+  ]
+}

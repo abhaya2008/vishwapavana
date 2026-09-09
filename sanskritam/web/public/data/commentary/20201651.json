@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201651,
+    "chapter_id": 7763,
+    "verse_number": "४.३.७९",
+    "content_sanskrit": "पितुर्यच्च",
+    "padaccheda": "पितुः । यत् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": "अनुवृत्तिः — आगतः (४.३.७४), तत (४.३.७४), ठञ् (४.३.७८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201651,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पितृशब्दाद् यत् प्रत्ययो भवति, चकाराट् ठञ् च तत आगत इत्येतस्मिन् विषये। पितुरागतं पित्र्यम्। पैतृकम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201651,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चाट्ठञ् । रीङ् ऋतः- <{SK1234}> । यस्य-<{SK311}>इति लोपः । पित्र्यम् । पैतृकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201651,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पितुर्यच्च>> - पुतुर्यच्च । यति प्रक्रियां दर्शयति — रीञ्ङृत इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201651,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पित्र्यम्` इति। `रीङ ऋतः`  [[7.4.27]]  इत रीङ, यस्यति  [[6.4.148]]  लोपः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201651,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ठञ्च स्यात् । रीङि यस्येति लोपः । पित्र्यम् । ठञि पैतृकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201651,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् and ठञ् comes in the sense of 'come thence' after the word पितृ।\nThus पितुरागतं = पैतृकं or पित्र्यम् [[7.4.27]] and [[6.4.148]]  'paternal -- i.e. wealth inherited from father.'"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201651,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् and ठञ् comes in the sense of 'come thence' after the word पितृ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201651,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तेन सिंहासनं पित्र्यमखिलं (रघुवंशम् 4.4) — `पितुर्यत्` इति यत्प्रत्ययः।\nत्वं पैतृकं चेद्वचनं न कुर्याः (भट्टिकाव्यम् 3.52) — `पितुर्यच्च` इति चकारादृतष्ठजि इसुसुक्तान्तात्कः।"
+    }
+  ]
+}

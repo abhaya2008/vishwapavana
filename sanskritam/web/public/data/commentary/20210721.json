@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210721,
+    "chapter_id": 7781,
+    "verse_number": "७२२",
+    "content_sanskrit": "अंह्",
+    "padaccheda": "अहिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to grow",
+    "audio_url": null,
+    "display_order": 722,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210721,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अहि प्लिह वक्रगतौ ' इति काशकृत्स्नधातुपाठे पठ्यते ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

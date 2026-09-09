@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210077,
+    "chapter_id": 7781,
+    "verse_number": "७८",
+    "content_sanskrit": "शीक्",
+    "padaccheda": "शीकृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सेचने",
+    "meaning_english": "to sprinkle",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210077,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "गत्यार्थकोपि कश्चित् शीकृधातुः क्षीरस्वामिना भ्वादिषु पठितः । ' सीकृ ' इति धनपालकाश्यपौ । पुरुषकारस्तु तन्न मृष्यति । अयम् अनृदित् इति केचित् ।"
+    }
+  ]
+}

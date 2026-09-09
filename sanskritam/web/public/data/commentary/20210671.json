@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210671,
+    "chapter_id": 7781,
+    "verse_number": "६७२",
+    "content_sanskrit": "मिन्व्",
+    "padaccheda": "मिविँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेवने सेचने संस्रने च",
+    "meaning_english": "to sprinkle,to make wet, to serve",
+    "audio_url": null,
+    "display_order": 672,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210671,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मूर्धन्योष्मादिरित्येके ' इति कौमुदी ।  ' सेचने ' इति क्षीरतरङ्गिणी । ' स्रंसने इति मैत्रेयः ' इति धातुवृत्तिटीका । धातुवृत्तौ तु - ' सेचने इति क्षीरतरङ्गिण्याम् । सेचने इति पाठो मैत्रेयस्य च ' इत्युक्तम् ।"
+    }
+  ]
+}

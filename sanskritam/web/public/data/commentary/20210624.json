@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210624,
+    "chapter_id": 7781,
+    "verse_number": "६२५",
+    "content_sanskrit": "स्खल्",
+    "padaccheda": "स्खलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सञ्चलने",
+    "meaning_english": "to stumble,to totter,to deviate,to blunder,to err,to stammer,to drop",
+    "audio_url": null,
+    "display_order": 625,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210624,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' प्रतिघातेप्यस्ति ' इति धातुकाव्यव्याख्या । (1.70) घटादिषु पठितोयं भोजेन ।"
+    }
+  ]
+}

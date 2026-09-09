@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211613,
+    "chapter_id": 7786,
+    "verse_number": "१४४",
+    "content_sanskrit": "सू",
+    "padaccheda": "षू",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "प्रेरणे",
+    "meaning_english": "to inspire, to put to work, to make something fly",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211613,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' प्रेरणे सुवति प्राणिप्रसवे सूयते भवेत् । प्राणिगर्भविमोकेथे सूते शे श्यनि शब्लुकि ' (श्लो. 25) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201516,
+    "chapter_id": 7762,
+    "verse_number": "४.२.८९",
+    "content_sanskrit": "शिखाया वलच्",
+    "padaccheda": "शिखाया । वलच्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201516,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "शिखाशब्दाद् वलच् प्रत्ययो भवति चातुरर्थिकः। यथासंभवमर्थसंबन्धः। शिखावलं नाम नगरम्। मतुप्प्रकरणेऽपि शिखाया वलचं [[५.२.११३]] वक्ष्यति, तददेशार्थं वचनम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201516,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "शिखावलम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201516,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "शिखावलः ॥ इति चातुरर्थिकाः ॥ ४ ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201516,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<शिखाया वलच्>> - शिखाया वलच् । निर्वृत्ताद्यर्थं सूत्रं, देशे तन्नाम्नि अणो बाधनार्थं च ।दन्तशिखात्संज्ञाया॑मिति पञ्चमे वक्ष्यमाणं तु अदेशे ।ञपि शिखावल इति रूपार्थछम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201516,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<शिखाया वलच्>> - शिखायाः निर्वृत्ताद्यर्थे देशे तन्नाम्नयणो बाधनार्थं चेदम् ।दन्तशिखात्संज्ञाया॑मिति पञ्चमे वक्ष्यमाणं त्वदेशेऽपि॒शिखाबल॑इति रूपसिद्ध्यर्थम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201516,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "शिखाया वलज्वक्ष्यतीति ।'दन्तशैखात्संज्ञायाम्'  इत्यनेन ।  तददेशार्थं वचनमिति । इदं तु निवृताद्यर्थम्, देशे तन्नाम्न्यणो बाधनार्थं च ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201516,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शिखावलं नाम नगरम् ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201516,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वलच् comes after the word शिखा in the above four senses.\nThus शिखावलम् 'the city <i>Sikha</i>-<i>vala</i>' lit. 'crested as a peacock'. The word शिखा takes वलच् by [[5.2.111]], the affix having the same force as मतुप् [[5.2.94]], ('whose it is' or 'in whom it is'). That वलच् should be distinguished from the present, in as much as, the latter is employed in making names of locality, not so the affix taught in Book V."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201516,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वलच् comes after the word शिखा in the above four senses."
+    }
+  ]
+}

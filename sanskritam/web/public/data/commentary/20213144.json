@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213144,
+    "chapter_id": 7795,
+    "verse_number": "१८४",
+    "content_sanskrit": "कॄतॄकृपिभ्यः कीटन्",
+    "padaccheda": "",
+    "anvaya": "कीटन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 184,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213144,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "किरीटं शिरोवेष्टनम् । तिरीटं सुवर्णम् । कृपीटं कुक्षिवारिणोः ।"
+    }
+  ]
+}

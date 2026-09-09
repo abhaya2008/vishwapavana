@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210204,
+    "chapter_id": 7781,
+    "verse_number": "२०५",
+    "content_sanskrit": "भ्राज्",
+    "padaccheda": "भ्राजृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दीप्तौ",
+    "meaning_english": "to glow, to shine",
+    "audio_url": null,
+    "display_order": 205,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210204,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भ्राजेः ऋदित्करणम् अनुदात्तेत्वमात्रफलम् ' इत्युक्त्वा तत्वबोधिन्यां, मा.धा. वृत्त्यादिषु च केचन विशेषविचाराः चर्चिताः । ते ते तत्र तत्र एव द्रष्टव्याः ।"
+    }
+  ]
+}

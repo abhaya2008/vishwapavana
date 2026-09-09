@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213607,
+    "chapter_id": 7803,
+    "verse_number": "१६",
+    "content_sanskrit": "चादयोऽनुदात्ताः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213607,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् ॥"
+    }
+  ]
+}

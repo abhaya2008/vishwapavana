@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211075,
+    "chapter_id": 7781,
+    "verse_number": "१०७६",
+    "content_sanskrit": "ध्मा",
+    "padaccheda": "ध्मा",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दाग्निसंयोगयोः",
+    "meaning_english": "to blow,to breathe out,to produce sound by blowing,to blow a fire,to manufacture by blowing, to play a conch",
+    "audio_url": null,
+    "display_order": 1076,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211075,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अग्निसंयोगश्च मुखवायुना । लक्षणया विधूनने, सन्तापेन पूरणे च ' इति धा.का. व्याख्यायाम् (2.33)"
+    }
+  ]
+}

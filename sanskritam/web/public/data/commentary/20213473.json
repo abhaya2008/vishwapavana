@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213473,
+    "chapter_id": 7799,
+    "verse_number": "१३९",
+    "content_sanskrit": "वक्त्रनेत्रारण्यगाण्डीवानि पुंसि च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213473,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वक्त्रो वक्त्रम् । नेत्रो नेत्रम् । अरण्योऽरण्यम् । गाण्डीवो गाण्डीवम् । "
+    }
+  ]
+}

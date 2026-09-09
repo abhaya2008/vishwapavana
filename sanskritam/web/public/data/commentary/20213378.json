@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213378,
+    "chapter_id": 7799,
+    "verse_number": "४४",
+    "content_sanskrit": "त्रिविष्टपत्रिभुवने नपुंसके ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213378,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् । तृतीयं विष्टपं त्रिपिष्टपम् । स्वर्गाभिधानतया पुंस्त्वे प्राप्ते अयमारम्भः ।"
+    }
+  ]
+}

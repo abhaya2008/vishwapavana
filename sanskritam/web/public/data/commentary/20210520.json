@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210520,
+    "chapter_id": 7781,
+    "verse_number": "५२१",
+    "content_sanskrit": "ध्वण्",
+    "padaccheda": "ध्वणँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 521,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210520,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अमुं मैत्रेयो न पठति । ' मूर्धन्यान्तो ध्वणिर्लोके नास्ति ' इति क्षीरस्वामी । ' धण ' इति सम्मताकारपक्षे पाठः । ' धणिरपि कैश्चित् पठ्यते । धणति ' इति सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

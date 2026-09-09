@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210119,
+    "chapter_id": 7781,
+    "verse_number": "१२०",
+    "content_sanskrit": "द्राघ्",
+    "padaccheda": "द्राघृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सामर्थ्ये आयामे च",
+    "meaning_english": "to be competent, to be able, to be powerful, to stretch, to spread",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210119,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आयामः = दैर्घ्यक्रिया इति कौशिकः । कदर्थनम् इति स्वामी ' इति मा.धा.वृत्तिः । ' ध्राघृ इत्यपि केचित् पठन्ति ' इति कौमुदी ।"
+    }
+  ]
+}

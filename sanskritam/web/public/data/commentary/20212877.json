@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212877,
+    "chapter_id": 7794,
+    "verse_number": "७७",
+    "content_sanskrit": "कटिकुषिभ्यां काकुः",
+    "padaccheda": "",
+    "anvaya": "काकु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212877,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कटाकुः पक्षी । कुषाकुरग्निः सूर्यश्च ।"
+    }
+  ]
+}

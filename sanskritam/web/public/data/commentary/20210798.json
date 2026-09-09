@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210798,
+    "chapter_id": 7781,
+    "verse_number": "७९९",
+    "content_sanskrit": "श्लिष्",
+    "padaccheda": "श्लिषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दाहे",
+    "meaning_english": "to set on fire",
+    "audio_url": null,
+    "display_order": 799,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210798,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्लिष्यत्यालिङ्गने दाहे श्लेषति श्लेषणे णिचि ' ( श्लो. 175) इति देवः ।"
+    }
+  ]
+}

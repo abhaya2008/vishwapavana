@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211377,
+    "chapter_id": 7784,
+    "verse_number": "१०९",
+    "content_sanskrit": "तस्",
+    "padaccheda": "तसुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "उपक्षये",
+    "meaning_english": "to throw, to bounce, to fly away",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211377,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तस्यत्युपक्षयार्थे णौ, अलङ्कारे तु तंसयेत् (श्लो. 189) इति देवः ।"
+    }
+  ]
+}

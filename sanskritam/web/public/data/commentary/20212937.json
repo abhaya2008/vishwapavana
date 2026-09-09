@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212937,
+    "chapter_id": 7794,
+    "verse_number": "१३७",
+    "content_sanskrit": "कञ्जिमृजिभ्यां चित्",
+    "padaccheda": "",
+    "anvaya": "आरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 137,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212937,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कञ्जिः सौत्रो धातुः । कञ्जारो मयूरः । मार्जारः ।"
+    }
+  ]
+}

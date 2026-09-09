@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201561,
+    "chapter_id": 7762,
+    "verse_number": "४.२.१३४",
+    "content_sanskrit": "मनुष्यतत्स्थयोर्वुञ्",
+    "padaccheda": "मनुष्य-तत्-स्थयोः । वुञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 134,
+    "avatarnika": "अनुवृत्तिः — कच्छ-आदिभ्यः (४.२.१३३), च (४.२.१३३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201561,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कच्छादिभ्य इत्येव। मनुष्ये मनुष्यस्थे च जातादौ प्रत्ययार्थे कच्छादिभ्यो वुञ् प्रत्ययो भवति। अणोऽपवादः। काच्छको मनुष्यः। काच्छकमस्य हसितम्, जल्पितम्। काच्छिका चूडा। सैन्धवको मनुष्यः। सैन्धवकमस्य हसितम्, जल्पितम्। सैन्धविका चूडा। मनुष्यतत्स्थयोरिति किम्? काच्छो गौः। सैन्धवः। वार्णवः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201561,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कच्छाद्यणोऽपवादः । कच्छे जातादिः काच्छको मनुष्यः । कच्छकं हसितम् । मनुष्येति किम् । काच्छो गौः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201561,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<मनुष्यतत्स्थयोर्वुञ्>> - मनुष्यतत्स्थयोर्वुञ् । कच्छादिभ्य इत्यनुवर्तते । तदाह — कच्छादीति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201561,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कच्छादेर्मनुष्ये तत्स्थे च वाच्ये वुञ् । काच्छको मनुष्यः । काच्छकं हसितम् । कौरवको नरः । कौरविका चूडेत्यादि ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201561,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes after the words कच्छ etc. in the senses of born etc. when the meaning is 'a man' or 'what exists in a man'.\nThis debars अण् ॥ Thus काच्छकः 'a man born in <i>Kutch</i>', काच्छकमस्य हसितं जल्पितम् ॥ 'His joke or talk is of <i>Kutch</i> or a <i>Kutch</i>-laughter'. काच्छिका चूडा ॥ Similarly सैन्धवको मनुष्यः, सैन्धवकमस्य हसितं जल्पितम्, सैन्धविका चूडा ॥\n\nWhy do we say \"when meaning man or what exists in man?\" Observe कान्छो गौः 'The cow of <i>Kutch</i>'. सैन्धवो वार्णवः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201561,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes after the words कच्छ etc. in the senses of born etc. when the meaning is 'a man' or 'what exists in a man'."
+    }
+  ]
+}

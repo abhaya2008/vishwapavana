@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212168,
+    "chapter_id": 7790,
+    "verse_number": "४१९",
+    "content_sanskrit": "शील",
+    "padaccheda": "शील",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "उपधारणे",
+    "meaning_english": "to wear, to recognize",
+    "audio_url": null,
+    "display_order": 419,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212168,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । उपधारणम् अभ्यासः । ' समाधौ शीलतीति स्यात् शीलयत्युपधारणे ' (श्लो. 154) - देवः ।"
+    }
+  ]
+}

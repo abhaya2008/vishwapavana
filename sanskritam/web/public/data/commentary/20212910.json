@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212910,
+    "chapter_id": 7794,
+    "verse_number": "११०",
+    "content_sanskrit": "भृमृदृशियजिपर्विपच्यमितमिनमिहर्येभ्योऽतच्",
+    "padaccheda": "",
+    "anvaya": "अतच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212910,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दशभ्योऽतच्स्यात् । भरतः । मनतो मृत्युः । दर्शत सोमसूर्ययोः । यजतः ऋत्विक् । पर्वतः । पचतोऽग्निः । अमतो रोगः । तमतस्तृष्णापरः । नमतः प्रह्णः । हर्यतोऽश्वः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210028,
+    "chapter_id": 7781,
+    "verse_number": "२९",
+    "content_sanskrit": "पर्द्",
+    "padaccheda": "पर्दँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कुत्सिते शब्दे",
+    "meaning_english": "to fart",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210028,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कुत्सितशब्दः गुदरवः । तदाह केशवस्वामी - ' कौक्षे कर्दति पर्दते गुदरवे इति ' इति मा.धा.वृत्तिः । क्षीरस्वामी तु - ' पायुध्वनौ वर्तते अयम् । अन्ये निश्शब्दमधोवातं मन्वानाः अशब्दे इत्याहुः ' इत्याह ।"
+    }
+  ]
+}

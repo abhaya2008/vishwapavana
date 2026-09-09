@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210732,
+    "chapter_id": 7781,
+    "verse_number": "७३३",
+    "content_sanskrit": "द्राह्",
+    "padaccheda": "द्राहृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "निद्राक्षये निक्षेपे च",
+    "meaning_english": "to wake up, to stay awake",
+    "audio_url": null,
+    "display_order": 733,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210732,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ( ' निक्षेपे ' इति क्षीरस्वामिप्रभृतयः । )"
+    }
+  ]
+}

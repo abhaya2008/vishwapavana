@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212390,
+    "chapter_id": 7791,
+    "verse_number": "१३२",
+    "content_sanskrit": "प्रभूत । पर्याप्त ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 132,
+    "avatarnika": "प्रभृतादिः (4.4.1)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212390,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "आहौ प्रभूतादिभ्यः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210997,
+    "chapter_id": 7781,
+    "verse_number": "९९८",
+    "content_sanskrit": "अञ्च्",
+    "padaccheda": "अन्चुँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ याचने च",
+    "meaning_english": "to go, to beg,to ask,to solicit",
+    "audio_url": null,
+    "display_order": 998,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210997,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अचु ' इत्येके । ' अचि ' इत्यपरे । ' अञ्चू ' इति शाकटायनः । ' गतियाचनयोरञ्चत्यञ्चते, णौ विशेषणे । अञ्चयत्यञ्चतीत्येकं गतिपूजनयोरपि ' इति (श्लो. 50) देवः ।"
+    }
+  ]
+}

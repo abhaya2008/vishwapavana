@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210067,
+    "chapter_id": 7781,
+    "verse_number": "६८",
+    "content_sanskrit": "गण्ड्",
+    "padaccheda": "गडिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वदनैकदेशे",
+    "meaning_english": "to have cheek disease",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210067,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वदनैकदेशे = वदनैकदेशक्रियायाम् इत्यर्थः ।"
+    }
+  ]
+}

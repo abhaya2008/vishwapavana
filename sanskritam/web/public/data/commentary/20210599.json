@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210599,
+    "chapter_id": 7781,
+    "verse_number": "६००",
+    "content_sanskrit": "नील्",
+    "padaccheda": "णीलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वर्णे",
+    "meaning_english": "to color, to dye, to paint, to darken",
+    "audio_url": null,
+    "display_order": 600,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210599,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णील ' इति मा.धा. वृत्तिः । ' वर्णेवर्णोपलक्षितायां क्रियायाम् । यथा - श्वेतं नीलति मरकतकान्त्या ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

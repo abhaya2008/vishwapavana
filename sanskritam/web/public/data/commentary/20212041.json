@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212041,
+    "chapter_id": 7790,
+    "verse_number": "२९२",
+    "content_sanskrit": "त्रंस्",
+    "padaccheda": "त्रसिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to shine, to glow",
+    "audio_url": null,
+    "display_order": 292,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212041,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " त्रिसि ' इति केषाञ्चित् मतम् । त्रिसिपिसी इदुपधौ । अदुपधौ इत्येके ' इति बालमनोरमा । किन्तु मूले (कौमुद्यां) ' त्रसि ' इत्येव दृश्यते । ' भाषणे त्रसयेत् त्रंसेर्धारणे त्रासयेण्णिचि ' (श्लो. 191) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210757,
+    "chapter_id": 7781,
+    "verse_number": "७५८",
+    "content_sanskrit": "सूर्क्ष्",
+    "padaccheda": "सूर्क्षँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आदरे",
+    "meaning_english": "to respect, to honor",
+    "audio_url": null,
+    "display_order": 758,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210757,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धातुकाव्य-सिद्धान्तकौमुदी-काशकृत्स्नीयेषु पठितः । ' ईर्ष्यायामादरे चार्थे क्रमात् सूर्क्ष्यति सूर्क्षति ' (श्लो. 170) इति देवः । ' अनादरः इति तु क्वाचित्कः अपपाठः । अवज्ञावहेलनमसूर्क्षणम् इति अमरः ' इति कौमुदी । ' षूर्क्ष ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

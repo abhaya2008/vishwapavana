@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212827,
+    "chapter_id": 7794,
+    "verse_number": "२७",
+    "content_sanskrit": "कुयुभ्यां च",
+    "padaccheda": "",
+    "anvaya": "प",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212827,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुवन्ति मन्ण्डूका अस्मिन् कूपः । युवन्ति बध्नन्त्यस्मिन्पशुमिति यूपो यज्ञस्थम्भः ।"
+    }
+  ]
+}

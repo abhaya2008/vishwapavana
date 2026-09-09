@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211727,
+    "chapter_id": 7789,
+    "verse_number": "४९",
+    "content_sanskrit": "ग्रन्थ्",
+    "padaccheda": "ग्रन्थँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "सन्दर्भे",
+    "meaning_english": "to arrange, to put in sequence",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211727,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "सन्दर्भः = बन्धनम् । ' ग्रथ्नातीति तु सन्दर्भे ग्रन्थयेद् ग्रन्थतीति यौ । कौटिल्ये ग्रन्थते ग्रन्थे: ग्राथयेद् ग्रथति ग्रथेः ' (श्लो. 97) इति देवः ।"
+    }
+  ]
+}

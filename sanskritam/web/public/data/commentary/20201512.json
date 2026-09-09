@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201512,
+    "chapter_id": 7762,
+    "verse_number": "४.२.८५",
+    "content_sanskrit": "नद्यां मतुप्",
+    "padaccheda": "नद्याम् । मतुप्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201512,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नद्यामभिधेयायां मतुप् प्रत्ययो भवति चातुरर्थिकः। तन्नाम्नो देशस्य विशेषणं नदी। उदुम्बरा यस्यां सन्ति उदुम्बरावती। मशकावती। वीरणावती। पुष्करावती। इक्षुमती। द्रुमती। इह कस्माद् न भवति — भागीरथी। भैमरथी? मतुबन्तस्यातन्नामधेयत्वात् ।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201512,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चातुरर्थिकः । इक्षुमती ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201512,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<नद्यां मतुप्>> - नद्यां मतुप् । चातुरर्थिक इति । शेषपूरणम् । इक्षमतीति । मतुपि उपावितौ । इक्षवः सन्त्यस्मिन् इत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201512,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`उदुम्बरावती`इति। <<मतौ बह्वचोऽनजिरादीनाम्>> [[6.3.119]]  इति दीर्घः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201512,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नद्यां वाच्यायाम् उक्तार्थेष्वण्बाधको मतुप् स्यात् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201512,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "नद्यां मतुप् (1506) (मतुबधिकरणम्) (आक्षेपभाष्यम्) किमर्थं नद्यां मतुब्विधीयते, न तदस्यास्त्यस्मिन्निति मतुप् [[5.2.94]] इत्येव सिद्धम्॥ (5387 समाधाने वार्तिकम्॥ 1 ॥) - नद्यां मतुब्वचनं मत्वर्थेऽण्विधानात् - (भाष्यम्) नद्यां मतुब्वचनं क्रियते मत्वर्थेऽण्विधानात्। अयं मत्वर्थेऽण्विधीयते, स विशेषविहितः सामान्यविहितं मतुपं बाधेत॥ (5388 समाधानान्तरबोधकं वार्तिकम्॥ 2 ॥) - निर्वृत्ताद्यर्थं च - (भाष्यम्) निर्वृत्ताद्यर्थं च नद्यां मतुब्वचनं क्रियते। निर्वृत्ताद्यर्थेषु मतुब्यथा स्यात्॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201512,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix मतुप् is added denoting a river.\nWhen the name of a river is to be designated by something which is found near it, we add the affix मतुप् (मत् and वत्). Thus उदुम्बरा꣡वती, मशका꣡वती, वीरणा꣡वती, पुष्करा꣡वती, इक्षु꣡मती, द्रु꣡मती ॥ See [[6.3.119]] by which the अ is lengthened in these words, and [[6.1.219]] by which the <i>udatta</i> is placed on this vowel. See [[8.2.10]] by which मत् becomes वत् ॥\n\nThe affix मतुप् is not however employed in forming the river-names भागीरथी and भैमरथी, which are formed by अण् added under [[4.2.68]]."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201512,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix मतुप् is added denoting a river."
+    }
+  ]
+}

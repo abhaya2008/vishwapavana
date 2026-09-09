@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212812,
+    "chapter_id": 7794,
+    "verse_number": "१२",
+    "content_sanskrit": "तृषिशुषिरसिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212812,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तृष्णा । शुष्णः सूर्यो वह्निश्च । रस्नं द्रव्यम् ।"
+    }
+  ]
+}

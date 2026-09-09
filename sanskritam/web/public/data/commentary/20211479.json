@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211479,
+    "chapter_id": 7786,
+    "verse_number": "१०",
+    "content_sanskrit": "लज्",
+    "padaccheda": "ओँलजीँ",
+    "anvaya": "A-पदी, गणः 6",
+    "meaning_sanskrit": "व्रीडायाम्",
+    "meaning_english": "to be ashamed,to be shy",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211479,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' प्रकाशे लजयेद् व्रीळे (डे) लज्जते लजते पदे ' (श्लो. 68) इति देवः ।"
+    }
+  ]
+}

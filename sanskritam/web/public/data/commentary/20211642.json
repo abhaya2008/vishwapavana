@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211642,
+    "chapter_id": 7786,
+    "verse_number": "१७३",
+    "content_sanskrit": "पिश्",
+    "padaccheda": "पिशँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "अवयवे",
+    "meaning_english": "to rip off, to grind, to cut into small parts",
+    "audio_url": null,
+    "display_order": 173,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211642,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अवयवे = अवयवक्रियायाम् इत्यर्थः । अयं दीपनायामपि वर्तते । दीपनं प्रकाशनम् इत्यर्थः ।"
+    }
+  ]
+}

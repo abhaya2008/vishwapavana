@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210692,
+    "chapter_id": 7781,
+    "verse_number": "६९३",
+    "content_sanskrit": "दीक्ष्",
+    "padaccheda": "दीक्षँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "मौण्ड्येज्योपनयननियमव्रतादेशेषु",
+    "meaning_english": "to shave, to perform a sacrifice, to initiate a mantra, to perform sacred thread ceremony, to practise self-restraint, to teach religious activities",
+    "audio_url": null,
+    "display_order": 693,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210692,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मौण्ड्यं = वपनम् , इज्या = यजनम् , उपनयनम् = मौञ्जीबन्धः, नियमः = संयमः , व्रतादेशः = संस्कारादेशकथनम् ' इति क्षीरस्वामी । \" अस्यार्थौ व्रतसम्प्राप्ति: तद्भेदाः कथिता इमे । सा च मौण्ड्यात् क्वचित्, क्वापि दीक्षणीयादिकेज्यया ॥ उपनीत्या क्वचित् , क्वापि नियमग्रहमात्रतः । क्वचित् गुर्वादिनन्दे ते (?) व्रतमस्त्विति शासनात् ॥ ... दीक्षते वाग्गमी यजमानस्तु माणवः । तपसे च महानाम्न्यै (?) तत्र ह्यादेशना व्रतम् ॥\" इति धातुकाव्यव्याख्याने प्रोक्तम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210694,
+    "chapter_id": 7781,
+    "verse_number": "६९५",
+    "content_sanskrit": "ईष्",
+    "padaccheda": "ईषँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतिहिंसादर्शनेषु",
+    "meaning_english": "to go, to kill, to see",
+    "audio_url": null,
+    "display_order": 695,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210694,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ईषतीतीष उञ्छेर्थे, गत्यादावीषते भवेत् ' (श्लो. 169) इति देवः ।"
+    }
+  ]
+}

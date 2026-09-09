@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212821,
+    "chapter_id": 7794,
+    "verse_number": "२१",
+    "content_sanskrit": "भुजिमृङ्भ्याम् युक्त्युकौ",
+    "padaccheda": "",
+    "anvaya": "युक्, त्युक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212821,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भुज्युर्भाजनम् । मृत्युः ।"
+    }
+  ]
+}

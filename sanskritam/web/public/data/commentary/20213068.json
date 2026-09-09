@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213068,
+    "chapter_id": 7795,
+    "verse_number": "१०८",
+    "content_sanskrit": "मूशक्यबिभ्यः क्लः",
+    "padaccheda": "",
+    "anvaya": "क्ल",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213068,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मूलम् । शक्लः प्रियंवदे । अम्ब्लो रसः । बाहुलकादमेः । अम्लः ।"
+    }
+  ]
+}

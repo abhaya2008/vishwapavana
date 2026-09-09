@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211290,
+    "chapter_id": 7784,
+    "verse_number": "२२",
+    "content_sanskrit": "इष्",
+    "padaccheda": "इषँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211290,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " इष्णात्याभीक्ष्ण्ये, इच्छायामिच्छेद्गत्यर्थ इष्यति' (श्लो. 168) - देवः ।"
+    }
+  ]
+}

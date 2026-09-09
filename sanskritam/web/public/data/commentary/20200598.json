@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200598,
+    "chapter_id": 7756,
+    "verse_number": "२.४.६५",
+    "content_sanskrit": "अत्रिभृगुकुत्सवसिष्ठगोतमाङ्गिरोभ्यश्च",
+    "padaccheda": "अत्रि-भृगु-कुत्स-वसिष्ठ-गोतम-अङ्गिरोभ्यः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": "अनुवृत्तिः — लुक् (२.४.५८), बहुषु (२.४.६२), तेन (२.४.६२), एव (२.४.६२), अस्त्रियाम् (२.४.६२), गोत्रे (२.४.६३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200598,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अत्र्यादिभ्यः परस्य गोत्रप्रत्ययस्य बहुषु लुग् भवति। अत्रिशब्दाद् <<इतश्चानिञः>> [[४.१.१२२]] इति ढक्। इतरेभ्य ऋष्यण् [[४.१.११४]]। अत्रयः। भृगवः। कुत्साः। वसिष्ठाः। गोतमाः। अङ्गिरसः। बहुष्वित्येव — आत्रेयः, भार्गवः। तेनैवेत्येव — प्रियात्रेयाः। प्रियभार्गवाः। अस्त्रियामिति किम्? आत्रेय्यः स्त्रियः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200598,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एभ्यो गोत्रप्रत्ययस्य लुक्स्यात्तत्कृते बहुत्वे । न तु स्त्रियाम् । अत्रयः । भृगवः । कुत्साः । वसिष्ठाः । गोतमाः । अङ्गिरसः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200598,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अत्रिभृगुकुत्सवसिष्ठगोतमाङ्गिरोभ्यश्च>> - अत्रिभृगु । पूर्वसूत्राद्गोत्र इति, तत्र यदनुवृत्तं तच्च सर्वमिहानुवर्तते । तदाह — एभ्यो गोत्रेति । अत्रेः, भृगोः, कुत्सस्य, वसिष्ठस्य, गोतमस्य, अङ्गरसश्च अपत्यानि पुमांस इति विग्रहाः । तत्र अत्रेः 'इतश्चाऽनिञः' इति ढको ।ञनेन लुक् । इतरेभ्यस्तु ऋष्यण इति बोध्यम् । लुकि आदिवृद्धेर्निवृत्तिः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200598,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<अत्रिभृगुकुत्सवसिष्ठगोतमाङ्गिरोभ्यश्च>> - अत्रि । गोत्रप्रत्ययस्येति । अत्रि शब्दात्इतश्चाऽनिञः॑इति ढिक् ।इतरेभ्यस्तु ऋष्यणिति बोध्यम् । भारतगोत्रे उदाहरति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200598,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`{आत्रेय्यः -  इति मुद्रितः पाठः`आत्त्रेयः` इति। `टिड्ढाणञ्`  [[4.1.15]]  इति। ङीप्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200598,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एभ्योऽपत्यप्रत्ययस्य बहुत्वे लुक् । अत्रेः 'इतश्चानिञः' (४-१-१२२) इति ढक् । आत्रेयः आत्रेयौ अत्रयः । भृग्वादेः ऋष्यणो लुक् । भृगवः । कुत्साः । वसिष्ठाः । गौतमाः । अङ्गिरसः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200598,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the words अत्रि , भृगु , कुत्स , वशिष्ठ , गोतम , अङ्गिरस , there is elision of the गोत्र affix, when the word takes the plural, but not in the feminine.\nThus the plural of आत्रेय (अत्रि + ढक (IV.1.122.)) the descendent of अत्रि, is अत्रयः, the regular plural of अत्रि. So also, singular भार्गवः, plural भृगवः, singular कौत्सः, plural कुत्साः; so, वसिष्ठाः, गोतमाः, अङ्गिरसः. In all these the affix has been elided. Thus भृगु + अण् = भार्गवः 'the descendent of <i>Bhrigu</i>.' Of course, it is only in the plural number that the <i>Gotra</i> affixes ढक् and अण् are elided, not in any other number; so we have in singular आत्रेयः भार्गवः; dual आत्रेयौ भार्गवौ; plural आत्रयः भृगवः &c.\n\nBut when these words are part of a compound, the <i>Gotra</i> affixes are not elided in forming their plural. Thus प्रियात्रेयाः or प्रियभार्गवाः ।\n\nIn the Feminine plural the affixes are not elided. Thus:- आत्रेय्यः स्त्रियः ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200598,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the words अत्रि , भृगु , कुत्स , वशिष्ठ , गोतम , अङ्गिरस , there is elision of the गोत्र affix, when the word takes the plural, but not in the feminine."
+    }
+  ]
+}

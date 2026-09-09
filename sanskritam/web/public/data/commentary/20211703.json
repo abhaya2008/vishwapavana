@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211703,
+    "chapter_id": 7789,
+    "verse_number": "२५",
+    "content_sanskrit": "मॄ",
+    "padaccheda": "मॄ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to hurt",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211703,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मृणाति हिंसार्थे प्वादेर्मृङस्तु म्रियते पदम् ' (श्लो. 34) इति देवः ।"
+    }
+  ]
+}

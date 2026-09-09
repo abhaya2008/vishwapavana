@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213542,
+    "chapter_id": 7800,
+    "verse_number": "१९",
+    "content_sanskrit": "नक्षत्राणामाब्विषयाणाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213542,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्त उदात्तः स्यात् । आश्लेषानुराधादीनां <<लघावन्ते—>> इति प्राप्ते ज्येष्ठाश्रविष्ठाधनिष्ठानामिष्ठन्नन्तत्वेनाद्युदात्ते प्राप्ते वचनम् ॥"
+    }
+  ]
+}

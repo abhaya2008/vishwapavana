@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200177,
+    "chapter_id": 7751,
+    "verse_number": "१.३.३०",
+    "content_sanskrit": "निसमुपविभ्यो ह्वः",
+    "padaccheda": "नि-सम्-उप-विभ्यः । ह्वः",
+    "anvaya": "नि-सम्-उप-विभ्यः ह्वः आत्मनेपदम् ",
+    "meaning_sanskrit": "'नि' , 'सम्', 'वि' उपसर्गेभ्यः 'ह्वे' धातोः आत्मनेपदस्य प्रत्ययाः भवन्ति । ",
+    "meaning_english": "When any of the उपसर्गs - नि, सम्, वि - is attached to the verb 'ह्वे', it gets the प्रत्ययाः of आत्मनेपद.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200177,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अकर्मकादिति निवृत्तम्। अतः परं सामान्येनात्मनेपदविधानं प्रतिपत्तव्यम्। नि सम् उप वि इत्येवंपूर्वाद् ह्वयतेर्द्धातोरात्मनेपदं भवति। निह्वयते। संह्वयते। उपह्वयते। विह्वयते। अकर्त्रभिप्रायार्थोऽयमारम्भः। अन्यत्र हि ञित्वात् सिद्धमेवात्मनेपदम्॥ उपसर्गादस्यत्यूह्योर्वा वचनम् (म.भा. [[१.३.२९]] वा. ३)॥ निरस्यति, निरस्यते। समूहति, समूहते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200177,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "निह्वयते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200177,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<निसमुपविभ्यो ह्वः>> - निसमुपवि । ह्वेञः कृतात्त्वस्य ह्व इति पञ्चम्यन्तम् । निह्वयते इति । संह्वयते । उपह्वयते । विह्वयते । अकत्र्रभिप्रायार्थमिदम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200177,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "निह्वयते इति। कथं पुनरत्रात्मनेपदम्, यावता'ह्वा'  इत्याकारान्तादियं पञ्चमि, एकारान्तश्चायम्, न च विकृतिः प्रकृतिं संगृह्णाति? सत्यम्; आकारान्तात्पञ्चमी, न त्विदं प्रयोगस्थस्याकारान्तस्यानुकरणम्, किं तर्हि? धातुपाठेऽवस्थितैकारान्तस्य तस्यैव लक्षणवशादात्वम्। न चातुक्रियमाणरूपविनाशप्रसङ्गः; शास्त्रवासनया तस्यैव प्रतीतेः, यथा -'यस्येति च'  इतीकाराकारयोः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200177,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अकर्मकादिति निवृत्तम् । निह्नयते गामित्यादि । ‘उपसर्गादस्यत्यूह्योर्वा- वचनम्' (वा०) । निरस्यते, निरस्यति । समूहते, समूहति ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200177,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verbs ह्वे 'to call', preceded by नि , सम् , उप and वि , the आत्मनेपद is used, even, when the fruit of the action does not accrue to the agent.\nThe verb ह्वेः 'to call' whether transitive or intransitive is <i>Atmanepadi</i> after the above prepositions. The condition of being Intransitive does not apply to this <i>sutra</i>, and from this <i>sutra</i> forward general rules of <i>Atmanepada</i> are treated of. As निह्वयते, संह्वयते, उपह्वयते ॥\n\nThe verb ह्वे is marked in the <i>Dhatupatha</i> with a ञ् and therefore, by <i>sutra</i> 72 of this Chapter, it will take the terminations of the <i>Atmanepada</i> when the direct fruit of the action accrues to the agent. But even when the direct fruit of the action does not accrue to the agent, the verb <i>hve</i> takes the terminations of the <i>Atmanepada</i> when preceded by the above prefixes.\n\nVart:- The verbs अस् 'to throw' and ऊह 'to note' take optionally <i>Atmanepada</i> affixes when compounded with <i>upasargas</i>. As निरस्यति—०ते 'he casts out,' समूहति—०ते 'he collects.'"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200177,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verbs ह्वे 'to call', preceded by नि , सम् , उप and वि , the आत्मनेपद is used, even, when the fruit of the action does not accrue to the agent."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200177,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "ह्वेञ् (स्पर्धायां शब्दे च) अयं धातुः वस्तुतः उभयपदी अस्ति । परन्तु निस् / नित्/ सम् / उप / वि - एतेभ्यः  अस्य आत्मनेपदस्य प्रत्ययाः भवन्ति । यथा - निह्वयते, संह्वयते, उपह्वयते, विह्वयते (सर्वेषामर्थः - 'आवाहनं करोति'  इति) ।\n"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200177,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. उपसर्गादस्यत्यूह्योर्वा वचनम् ।"
+    },
+    {
+      "id": 10,
+      "verse_id": 20200177,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "यत्नादुपाह्वये प्रतीतः (भट्टिकाव्यम् 8.17) — `नि-समुपविभ्यो ह्वः` इत्यकर्त्रभिप्राये लट्लोटोरात्मनेपदम्।"
+    }
+  ]
+}

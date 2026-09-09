@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210796,
+    "chapter_id": 7781,
+    "verse_number": "७९७",
+    "content_sanskrit": "पुष्",
+    "padaccheda": "पुषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "पुष्टौ",
+    "meaning_english": "to nourish,to bring up,to support, to protect, to take care, to feed",
+    "audio_url": null,
+    "display_order": 797,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210796,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' धारणे पोषयेत्पुष्टौ पुष्येत् पुष्णाति पोषति ' ( श्लो. 171) इति देवः ।"
+    }
+  ]
+}

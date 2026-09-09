@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210281,
+    "chapter_id": 7781,
+    "verse_number": "२८२",
+    "content_sanskrit": "गृञ्ज्",
+    "padaccheda": "गृजिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गर्जने",
+    "meaning_english": "to sound,to roar,to grumble",
+    "audio_url": null,
+    "display_order": 282,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210281,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गर्जेत् गृञ्जेत् गजेत् गञ्जेत् शब्दने गाजयेण्णिचि ' (श्लो.59) इति देवः ।"
+    }
+  ]
+}

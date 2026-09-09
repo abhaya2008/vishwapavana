@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212170,
+    "chapter_id": 7790,
+    "verse_number": "४२१",
+    "content_sanskrit": "वेल",
+    "padaccheda": "वेल",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "कालोपदेशे",
+    "meaning_english": "to measure time, to preach, to explain on time",
+    "audio_url": null,
+    "display_order": 421,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212170,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ' काल इति पृथग्धातुरित्येके । कालयति ' इति कौमुदी ।"
+    }
+  ]
+}

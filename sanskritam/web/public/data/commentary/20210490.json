@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210490,
+    "chapter_id": 7781,
+    "verse_number": "४९१",
+    "content_sanskrit": "चर्ब्",
+    "padaccheda": "चर्बँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ अर्दने च",
+    "meaning_english": "to go, to trouble, to distress",
+    "audio_url": null,
+    "display_order": 491,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210490,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चर्ब भर्ब नर्ब ' इति क्षीरतरङ्गिणी ।"
+    }
+  ]
+}

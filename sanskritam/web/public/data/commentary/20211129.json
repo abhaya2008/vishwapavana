@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211129,
+    "chapter_id": 7781,
+    "verse_number": "११३०",
+    "content_sanskrit": "लभ्",
+    "padaccheda": "डुलभँष्",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्राप्तौ",
+    "meaning_english": "to get,to obtain,to take,to have,to find",
+    "audio_url": null,
+    "display_order": 1130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211129,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — स्पर्श करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211129,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रेरणे लाभयेत् लाभेः  प्राप्त्यर्थे लभते शपि ' इति देवः ।"
+    }
+  ]
+}

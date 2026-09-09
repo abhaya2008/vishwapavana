@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212986,
+    "chapter_id": 7795,
+    "verse_number": "२६",
+    "content_sanskrit": "कॄतॄभ्यामीषन्",
+    "padaccheda": "",
+    "anvaya": "ईषन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212986,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "करीषोऽस्त्री शुष्कगोमये । करीषः तरीता ।"
+    }
+  ]
+}

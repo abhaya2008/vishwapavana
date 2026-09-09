@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210434,
+    "chapter_id": 7781,
+    "verse_number": "४३५",
+    "content_sanskrit": "कम्प्",
+    "padaccheda": "कपिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "चलने",
+    "meaning_english": "to shake, to tremble, to quake, to shiver",
+    "audio_url": null,
+    "display_order": 435,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210434,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — घबराना, हिचकिचाना, जोर से कांपना, थरथरना"
+    }
+  ]
+}

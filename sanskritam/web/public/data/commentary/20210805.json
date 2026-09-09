@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210805,
+    "chapter_id": 7781,
+    "verse_number": "८०६",
+    "content_sanskrit": "हृष्",
+    "padaccheda": "हृषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अलीके",
+    "meaning_english": "to be delighted , to rejoice , to be happy, to fill with pleasure, to speak lie",
+    "audio_url": null,
+    "display_order": 806,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210805,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " .. क्रमतोलीकं तुष्टौ हर्षति हृष्यति ' (श्लो. 176) इति देवः । ' अलीकम् = आनन्दः ' इति काशकृत्स्नधातुपाठकन्नडव्याख्या ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211900,
+    "chapter_id": 7790,
+    "verse_number": "१५१",
+    "content_sanskrit": "मर्च्",
+    "padaccheda": "मर्चँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शब्दार्थे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 151,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211900,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " \" क्वचित् धातुपाठेस्य अदृष्टत्वेपि नायमप्राणिकः इति मन्तव्यम् । ' मिदचोन्यात्परः ' इति सूत्रे कैयटेन उपन्यस्तत्वात् ' मर्तो मर्तं मर्चयति द्वयेन ' इति प्रयोगदर्शनाच्च \" इति तत्त्वबोधिनी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210265,
+    "chapter_id": 7781,
+    "verse_number": "२६६",
+    "content_sanskrit": "खञ्ज्",
+    "padaccheda": "खजिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतिवैकल्ये",
+    "meaning_english": "to be unable to walk, to have disability, to limp",
+    "audio_url": null,
+    "display_order": 266,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210265,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गतीवैकल्ये ' इति क्षीरस्वामिमाधवादिसम्मतः पाठः । केचन ' वैकल्ये ' इत्येतावत् एव पठन्ति ।"
+    }
+  ]
+}

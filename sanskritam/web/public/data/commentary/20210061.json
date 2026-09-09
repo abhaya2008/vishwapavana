@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210061,
+    "chapter_id": 7781,
+    "verse_number": "६२",
+    "content_sanskrit": "खर्द्",
+    "padaccheda": "खर्दँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दन्दशूके (सर्पदंशे)",
+    "meaning_english": "to bite,to sting",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210061,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "दन्दशूके= दंशनहिंसनरूपायां दन्दशूककर्तृकक्रियायाम् इत्यर्थः ।"
+    }
+  ]
+}

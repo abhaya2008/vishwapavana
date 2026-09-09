@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211835,
+    "chapter_id": 7790,
+    "verse_number": "८६",
+    "content_sanskrit": "क्षल्",
+    "padaccheda": "क्षलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शौचकर्मणि",
+    "meaning_english": "to wash,to cleanse, to purify",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211835,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — धोना"
+    }
+  ]
+}

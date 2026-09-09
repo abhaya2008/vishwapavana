@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200571,
+    "chapter_id": 7756,
+    "verse_number": "२.४.३८",
+    "content_sanskrit": "घञपोश्च",
+    "padaccheda": "घञ्-अपोः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": "अनुवृत्तिः — अदः (२.४.३६), घसॢ (२.४.३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200571,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "घञि अपि च परतोऽदो घस्लादेशो भवति। घासः। प्रघसः। <<उपसर्गेऽदः>> [[३.३.५९]] इत्यप्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200571,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अदेर्घसॢ स्यात् घञि अपि च । प्रघसः । विघसः । उपसर्गे किम् । घासः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200571,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<घञपोश्च>> - व्यद्यते विशेषेण भक्ष्यते इति विघसः = वैआदेबशिष्टमन्नम् । घासश्चतुष्पदां भक्ष्यम् ।शष्पं बालतृणं घासः॑इत्यमरः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200571,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`घासः` इति। भावे घञ्। `प्रघसः` इति। <<उपसर्गेऽदः>> [[3.3.59]]  इत्यप्। `लुङसन्घञ्प्सु घस्लृ` इत्येकयोगे कर्तव्ये योगविभागो वैचित्र्यार्थः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200571,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "घञपोः परयोः अदेर्घस्लृ स्यात् । प्रघसः । विघसः । अनुपसर्गाद् घास इति घञ् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200571,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And when the affix घञ् and अप् follow घसॢ is the substitute of अद्।\nघासः 'food, grass,' अद् + घञ् = घास + अ [[3.3.19]]. प्रघसः 'voracity.' प्र + अद् + अप् = प्र + घस."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200571,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "And when the affix घञ् and अप् follow घसॢ is the substitute of अद्।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200571,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "चक्रुर्विषमेस्वप्य-सङ्घसाः (भट्टिकाव्यम् 7.56) — `घनपोश्च` इति अदेर्घस्लादेशः।"
+    }
+  ]
+}

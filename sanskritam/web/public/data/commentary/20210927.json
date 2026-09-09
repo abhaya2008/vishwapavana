@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210927,
+    "chapter_id": 7781,
+    "verse_number": "९२८",
+    "content_sanskrit": "ध्वन्",
+    "padaccheda": "ध्वनँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 928,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210927,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ध्वनयेदित्यदन्तस्य ध्वनेः शब्दे ध्वनेत् शपि ' (श्लो. 126) इति देवः । अमित्त्वार्थकः अयं धातुः (828) इत्यत्र द्रष्टव्यः ।"
+    }
+  ]
+}

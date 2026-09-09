@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213591,
+    "chapter_id": 7802,
+    "verse_number": "१९",
+    "content_sanskrit": "महिष्याषाढयोर्जायेष्टकाख्या चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213591,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदिरुदात्तः । महिषी जाया । आषाढा उपदधाति ॥"
+    }
+  ]
+}

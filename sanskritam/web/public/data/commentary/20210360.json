@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210360,
+    "chapter_id": 7781,
+    "verse_number": "३६१",
+    "content_sanskrit": "मण्ड्",
+    "padaccheda": "मडिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भूषायाम्",
+    "meaning_english": "to adorn, to decorate",
+    "audio_url": null,
+    "display_order": 361,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210360,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भूषार्थे मण्डतीति स्यात्तत्र मण्डयतीति णौ ' (श्लो.84) इति देवः ।"
+    }
+  ]
+}

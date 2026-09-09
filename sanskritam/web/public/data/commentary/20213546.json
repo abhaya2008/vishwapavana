@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213546,
+    "chapter_id": 7800,
+    "verse_number": "२३",
+    "content_sanskrit": "बिल्वतिष्ययोः स्वरितो वा",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213546,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अनयोरन्तः स्वरितो वा स्यात् । पक्ष उदात्तः ॥ "
+    }
+  ]
+}

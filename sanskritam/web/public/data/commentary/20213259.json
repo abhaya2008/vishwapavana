@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213259,
+    "chapter_id": 7796,
+    "verse_number": "६१",
+    "content_sanskrit": "दहेर्गो लोपो दश्च नः",
+    "padaccheda": "",
+    "anvaya": "ग",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213259,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गप्रत्ययो धातोरन्तस्य लोपो दकारस्य नकारः । नगः ।"
+    }
+  ]
+}

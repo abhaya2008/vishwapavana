@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202883,
+    "chapter_id": 7771,
+    "verse_number": "६.३.२२",
+    "content_sanskrit": "पुत्रेऽन्यतरस्याम्",
+    "padaccheda": "पुत्रे । अन्यतरस्याम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": "अनुवृत्तिः — आक्रोशे (६.३.२१), षष्ठ्या (६.३.२१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202883,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पुत्रशब्द उत्तरपद आक्रोशे गम्यमानेऽन्यतरस्यां षष्ठ्या अलुग् भवति। दास्याःपुत्रः, दासीपुत्रः। वृषल्याःपुत्रः, वृषलीपुत्रः। आक्रोश इत्येव — ब्राह्मणीपुत्रः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202883,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "षष्ठ्याः पुत्रे परेऽलुग्वा निन्दायाम् । दास्याः पुत्रः । दासीपुत्रः । निन्दायां किम् । ब्राह्मणीपुत्रः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202883,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पुत्रेऽन्यतरस्याम्>> - पुत्रेऽन्यतरस्यां । निन्दायामिति । 'आक्रोशे' इत्यनुवृत्तिलभ्यमिदम् । स्पष्टं चेदम् 'आनङृतः' इत्यत्र भाष्ये ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202883,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्षेपे द्योत्ये पुत्रे परे षष्ठ्या अलुग्वा स्यात् । दास्याःपुत्रः, दासीपुत्रः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202883,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The Genitive 6th-Case-affix is optionally retained when insult is meant when पुत्र follows.\nThus दास्याः पुत्रः or दासीपुत्रः, वृषल्याः पुत्रः, or वृषलीपुत्रः ॥ But when insult is not meant we have ब्राह्मणीपुत्रः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202883,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The Genitive 6th-Case-affix is optionally retained when insult is meant when पुत्र follows."
+    }
+  ]
+}

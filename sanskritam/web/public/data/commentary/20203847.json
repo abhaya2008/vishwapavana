@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203847,
+    "chapter_id": 7779,
+    "verse_number": "८.३.५२",
+    "content_sanskrit": "पातौ च बहुलम्",
+    "padaccheda": "पातौ । च । बहुलम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": "अनुवृत्तिः — विसर्जनीयस्य (८.३.३४), कुप्वोः (८.३.३७), सः (८.३.३८), समासे (८.३.४५), छन्दसि (८.३.४९), पञ्चम्याः (८.३.५१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203847,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पातौ च धातौ परतः पञ्चमीविसर्जनीयस्य बहुलं सकार आदेशो भवति छन्दसि विषये। दि॒वस्पा॑तु (ऋ० १०.१५८.१)। राज्ञस्पातु। न च भवति — परिषदः पातु॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203847,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पञ्चम्या इत्येव । सूर्यो नो दिवस्पातु (सूर्यो॑ नो दि॒वस्पा॑तु) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203847,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`दिवस्पातु` इति। पातेर्लोट्, तिप्, `एरुः`  [[3.4.86]]  इत्युत्वम्, अदादित्वाच्छपो लुक्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203847,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "क्वचित् पठ।ल्ते - पाताविति धातुनिर्देश इति । अन्ये तूदाहरणपर्यालोचनया लोडन्तानुकरणं मन्यते ॥ षष्ठयाः पतिपुत्रपृष्ठपरापदपयस्पोषेषु । वाचस्पतिरिति ।'तत्पुरुषे कृति बहुलम्'  इत्यलुक् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203847,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "स् may diversely be substituted for the विसर्ग of the Ablative -5th case before the verb पातु in the छन्दस् (Vedas).\nThus दिवस्पातु, राज्ञस्पातु ॥ Sometimes, the change does not take place, as परिषदः पातु ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203847,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "स् may diversely be substituted for the विसर्ग of the Ablative -5th case before the verb पातु in the छन्दस् (Vedas)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213239,
+    "chapter_id": 7796,
+    "verse_number": "४१",
+    "content_sanskrit": "कृदरादयश्च",
+    "padaccheda": "",
+    "anvaya": "अल्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213239,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कृदरः । कुसूलः । मृदरं विलसत् । सृदरः सर्पः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212016,
+    "chapter_id": 7790,
+    "verse_number": "२६७",
+    "content_sanskrit": "लिङ्ग्",
+    "padaccheda": "लिगिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "चित्रीकरणे",
+    "meaning_english": "to paint in various colors",
+    "audio_url": null,
+    "display_order": 267,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212016,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ... लिङ्गयेद् इत्यस्यैव चित्रीकरणार्थवृत्तेः ' (श्लो. 45) इति देवः ।"
+    }
+  ]
+}

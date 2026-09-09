@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210883,
+    "chapter_id": 7781,
+    "verse_number": "८८४",
+    "content_sanskrit": "त्वर्",
+    "padaccheda": "ञित्वराँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "सम्भ्रमे",
+    "meaning_english": "to hurry up",
+    "audio_url": null,
+    "display_order": 884,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210883,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सम्भ्रमः = आशुकारिता ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

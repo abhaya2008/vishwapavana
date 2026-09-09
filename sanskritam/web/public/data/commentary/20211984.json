@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211984,
+    "chapter_id": 7790,
+    "verse_number": "२३५",
+    "content_sanskrit": "यु",
+    "padaccheda": "यु",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "जुगुप्सायाम्",
+    "meaning_english": "to insult, to blame, to criticise",
+    "audio_url": null,
+    "display_order": 235,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211984,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " यावयेत जुगुप्सायाम्, मिश्रणे यौति, बन्धने । युनाति च युनीते च ... ' (श्लो. 24) इति देवः । ' युजु कुत्सायाम् ' इत्येके । ' योजयते ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210361,
+    "chapter_id": 7781,
+    "verse_number": "३६२",
+    "content_sanskrit": "कुण्ड्",
+    "padaccheda": "कुडिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वैकल्ये",
+    "meaning_english": "to be lame,to be dull",
+    "audio_url": null,
+    "display_order": 362,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210361,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "वैकल्यम् अविवेकः । ' वैकल्ये दाहरक्षासु कुण्डेत् कुण्डेत कुण्डयेत् ' (श्लो.88) इति देवः ।"
+    }
+  ]
+}

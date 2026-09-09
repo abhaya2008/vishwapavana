@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213242,
+    "chapter_id": 7796,
+    "verse_number": "४४",
+    "content_sanskrit": "हर्यतेः कन्यन् हिर च",
+    "padaccheda": "",
+    "anvaya": "कन्यन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213242,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कन्यन् प्रत्ययः । हिरण्यम् ।"
+    }
+  ]
+}

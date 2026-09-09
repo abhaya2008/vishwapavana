@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201635,
+    "chapter_id": 7763,
+    "verse_number": "४.३.६३",
+    "content_sanskrit": "वर्गान्ताच्च",
+    "padaccheda": "वर्ग-अन्तात् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.५३), भवः (४.३.५३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201635,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वर्गशब्दान्तात् च प्रातिपदिकाच् छः प्रत्ययो भवति तत्र भव इत्येतस्मिन् विषये। अणोऽपवादः। कवर्गीयम्। चवर्गीयम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201635,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कवर्गीयम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201635,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "कवर्गीयम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201635,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वर्गान्ताच्च>> - वर्गान्ताच्च । कवर्गीयमिति । कादिवर्गे भवमित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201635,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कवर्गीयो वर्णः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201635,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a word ending with वर्ग the affix छ is used in the sense of 'who occurs there'.\nThis debars अण् ॥ As कवर्गीयम्, चवर्गीयम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201635,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a word ending with वर्ग the affix छ is used in the sense of 'who occurs there'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201635,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "संबंहयन्तीम्रघु-वर्ग्य-लक्ष्मीम् ॥ (भट्टिकाव्यम् 2.48) — `वर्गान्ताच्च` इत्यनुवृत्तौ यत्।"
+    }
+  ]
+}

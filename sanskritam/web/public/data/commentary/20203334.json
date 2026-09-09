@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203334,
+    "chapter_id": 7774,
+    "verse_number": "७.२.५६",
+    "content_sanskrit": "उदितो वा",
+    "padaccheda": "उदितः । वा",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": "अनुवृत्तिः — आर्धधातुकस्य (७.२.३५), इट् (७.२.३५), वलादेः (७.२.३५), क्त्वि (७.२.५५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203334,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उदितो धातोः क्त्वाप्रत्यये परतो वेडागमो भवति। शमु — शमित्वा, शान्त्वा। तमु — तमित्वा, तान्त्वा। दमु — दमित्वा, दान्त्वा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203334,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उदितः परस्य क्त्वा इड्वा । शमित्वा । अनुनासिक्स्य क्वि <{SK2666}> इति दीर्घः । शान्त्वा । द्यूत्वा । देवित्वा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203334,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "उदितः परस्य क्त्व इड्वा। शमित्वा, शान्त्वा। देवित्वा, द्यूत्वा। दधातेर्हिः। हित्वा॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203334,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<उदितो वा>> - द्यूत्वेति । इडभावपक्षेच्छ्वो॑रित्यूठ् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203334,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "उदितो धातोः क्त्व इड्विकल्पः । शमु, शमित्वा । 'अनुनासिकस्य—' (६-४-१५) इति दीर्घः । शान्त्वा । वृधु, वर्धित्वा वृद्ध्वा । खनु, खनित्वा खात्वा । अत्र 'जनसन—' (६-४-४२) इत्यात्वम् । क्रमु, क्रमित्वा । अनिट्त्वे तु ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203334,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्त्वा optionally gets the इट् augment after a root which has an indicatory short उ।\nAs शमु - शमित्वा or शान्त्वा; तमु - तमित्वा or तान्त्वा; दमु -दमित्वा or दान्त्वा ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203334,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्त्वा optionally gets the इट् augment after a root which has an indicatory short उ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20203334,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "दमित्वाऽप्यरि-संघातानश्रान्त्वा (भट्टिकाव्यम् 9.42) — `उड़ितो वा` इति विकल्पेनेट् ।"
+    }
+  ]
+}

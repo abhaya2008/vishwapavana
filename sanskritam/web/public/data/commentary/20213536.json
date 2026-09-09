@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213536,
+    "chapter_id": 7800,
+    "verse_number": "१३",
+    "content_sanskrit": "शुक्लगौरयोरादिः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213536,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "नित्यमुदात्तः स्यादित्येके । वेत्यनुवर्तत इति तु युक्तम् । सरो॑ गौ॒रो यथा॑ पिब - इत्यत्रान्तोदात्तदर्शनात् ॥"
+    }
+  ]
+}

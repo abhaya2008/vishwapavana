@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202949,
+    "chapter_id": 7771,
+    "verse_number": "६.३.८८",
+    "content_sanskrit": "विभाषोदरे",
+    "padaccheda": "विभाषा । उदरे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": "अनुवृत्तिः — सः (६.३.७८), समानस्य (६.३.८४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202949,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उदरशब्द उत्तरपदे यत्प्रत्ययान्ते समानस्य विभाषा स इत्ययमादेशो भवति। सोदर्यः, समानोदर्यः। <<समानोदरे शयित ओ चोदात्तः>>[[४.४.१०८]] इति यत्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202949,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यादौ प्रत्यये विवक्षिते इत्येव । सोदर्यः । समानोदर्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202949,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विभाषोदरे>> - विभाषोदरे । उदरशब्दे परे समानस्य सभावो वा स्यादित्यर्थः । इत्येवेति । अनुवर्तत एवेत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202949,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<विभाषोदरे>> - विवक्षित इति । उत्तरपदमात्रनिमित्तः समासोऽन्तरङ्गः, समासप्रकृतिकसुबन्तात्तु यत्प्रत्ययः । अतस्तस्य परत्वं न संभवतीत्याशयेनेदमुक्तम् । सोदर्य इति ।समानोदरे शयितः॑इत्यर्थे प्रत्ययात्प्राक्समानस्य सभावे कृतेसोदराद्यः॑इति यः । सभावाऽभावपक्षे तुसमानोदरे शयित ओ चोदात्तः इथि यतिसमानोदर्यः॑ ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202949,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "स is optionally substituted for समान् before उदर when the affix यत् is added to it.\nThus सोदर्यः or समानोदर्यः [[4.4.108]]."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202949,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "स is optionally substituted for समान् before उदर when the affix यत् is added to it."
+    }
+  ]
+}

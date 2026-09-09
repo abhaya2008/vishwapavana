@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211379,
+    "chapter_id": 7784,
+    "verse_number": "१११",
+    "content_sanskrit": "वस्",
+    "padaccheda": "वसुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "स्तम्भे",
+    "meaning_english": "to be firm to be fixed, to be straight",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211379,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वस्यति स्तम्भने वस्ते छादने वसयेद् वसेत् ' (श्लो. 187) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213592,
+    "chapter_id": 7803,
+    "verse_number": "१",
+    "content_sanskrit": "शकटिशकट्योरक्षरमक्षरं पर्यायेण",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213592,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उदात्तम् । शकटिः । शकटी ॥"
+    }
+  ]
+}

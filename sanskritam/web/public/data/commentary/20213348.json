@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213348,
+    "chapter_id": 7799,
+    "verse_number": "१४",
+    "content_sanskrit": "दुन्दुभिरक्षेषु",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213348,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इयं दुन्दुभिः । अक्षेषु किम् ? अयं दुन्दुभिर्वाद्यविशेषोऽसुरो वेत्यर्थः ।"
+    }
+  ]
+}

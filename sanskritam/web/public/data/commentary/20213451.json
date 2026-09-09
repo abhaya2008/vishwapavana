@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213451,
+    "chapter_id": 7799,
+    "verse_number": "११७",
+    "content_sanskrit": "सारथ्यतिक्षिकुक्षिबस्तिपाण्यञ्जलयः ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213451,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते पुंसि । अयं सारथिः । इति पुंलिङ्गाधिकारः ॥"
+    }
+  ]
+}

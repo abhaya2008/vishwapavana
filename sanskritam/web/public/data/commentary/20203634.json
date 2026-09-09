@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20203634,
+    "chapter_id": 7777,
+    "verse_number": "८.१.२१",
+    "content_sanskrit": "बहुवचनस्य वस्नसौ",
+    "padaccheda": "बहुवचनस्य । वस्नसौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": "अनुवृत्तिः — षष्ठीचतुर्थीद्वितीयास्थयोः (८.१.२०), युष्मदस्मदोः (८.१.२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203634,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "बहुवचनान्तयोर्युष्मदस्मदोः षष्ठीचतुर्थीद्वितीयास्थयोर्यथासंख्यं वस् नस् इत्येतावादेशौ भवतः। ग्रामो वः॒ स्वम्। जनपदो नः॒ स्वम्। ग्रामो वो॒ दीयते। जनपदो नो॒ दीयते। ग्रामो वः॒ पश्यति। जनपदो नः॒ पश्यति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203634,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उक्तविधयोः षष्ठ्यादिबहुवचनान्तयोर्वस्नसौ स्तः । वान्नावोरपवादः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203634,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "उक्तविधयोरनयोः षष्ठ्यादिबहुवचनान्तयोर्वस्नसौ स्तः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203634,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "उक्तप्रकारयोः षष्ठ्यादिबहुवचनान्तयोरनयोर्वस् नस् इति स्तः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203634,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For (the Genitive 6th-Case, Dative -4th Case and Accusative -2nd case) plural of युष्मद् and अस्मद् are substituted वस् and नस् respectively (when a word precedes and these substitutes are अनुदात्त).\nThus ग्रामो वः॒ स्वम्, जनपदो नः॒ स्वम्; ग्रामो वो॒ दीयते, जनपदो नो॒ दीयते; ग्रामो वः॒ पश्यति जनपदो नः॒ पश्यति ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203634,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "For (the Genitive 6th-Case, Dative -4th Case and Accusative -2nd case) plural of युष्मद् and अस्मद् are substituted वस् and नस् respectively (when a word precedes and these substitutes are अनुदात्त)."
+    },
+    {
+      "id": 7,
+      "verse_id": 20203634,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "प्रभावैरवलम्ब्य वः (कुमारसम्भवम् 2.18) — `बहुवचनस्य वस्नसौ` इति वसादेशः।\nसंधुक्ष्यतां नोऽरि-समिन्धनेषु (भट्टिकाव्यम् 2.28) — `बहुवचनस्य वस्-नसौ` इति नसादेशः।\nदृष्टाः स्थ स्वस्ति वो यामः स्व-पुण्य-विजितां गतिम् (भट्टिकाव्यम् 4.6) — `बहुवचनस्य वस्त्रसौ` इति वस्।"
+    }
+  ]
+}

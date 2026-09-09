@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212095,
+    "chapter_id": 7790,
+    "verse_number": "३४६",
+    "content_sanskrit": "जॄ",
+    "padaccheda": "जॄ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वयोहानौ",
+    "meaning_english": "to grow old",
+    "audio_url": null,
+    "display_order": 346,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212095,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " जृणाति जीर्यति जरत्येकार्थे जारयत्यपि ' (श्लो. 39) - देवः ।"
+    }
+  ]
+}

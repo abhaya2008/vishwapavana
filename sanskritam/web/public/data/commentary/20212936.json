@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212936,
+    "chapter_id": 7794,
+    "verse_number": "१३६",
+    "content_sanskrit": "शृङ्गारभृङ्गारौ",
+    "padaccheda": "",
+    "anvaya": "आरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 136,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212936,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शॄभृञ्भ्यामारन्नुम् गुक् ह्रस्वश्च । शृङ्गारो रसः । भृङ्गारः कनकालुका ।"
+    }
+  ]
+}

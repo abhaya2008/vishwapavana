@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210176,
+    "chapter_id": 7781,
+    "verse_number": "१७७",
+    "content_sanskrit": "बुङ्ग्",
+    "padaccheda": "बुगिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वर्जने",
+    "meaning_english": "to abandon,to desert, to leave",
+    "audio_url": null,
+    "display_order": 177,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210176,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वुगि ' इति क्षीरस्वामी । मा.धा.वृत्तौ अपि तथैव । ' भुगि भर्जने इत्येके ' इत्यपि स एव । \" अत्र स्वामिमैत्रेयौ ' दधि पालने ' इति अधिकं पठन्ति । मैत्रेयस्तु ' लघि शोषणे ' इत्यपि पठति \" इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

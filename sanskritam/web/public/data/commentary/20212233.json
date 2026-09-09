@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212233,
+    "chapter_id": 7790,
+    "verse_number": "४८४",
+    "content_sanskrit": "वर्ण",
+    "padaccheda": "वर्ण",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वर्णक्रियाविस्तारगुणवचनेषु",
+    "meaning_english": "to explain, to elaborate, to spread, to praise, to glow, to shine",
+    "audio_url": null,
+    "display_order": 484,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212233,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः ।  वर्णक्रिया वर्णकरणम् । सुवर्णं वर्णयति । कथां वर्णयति । विस्तृणाति इत्यर्थः । हरिं वर्णयति । स्तौतीत्यर्थः । ' रागे विस्तारे प्रशंसायां च ' इति काशकृत्स्नः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213650,
+    "chapter_id": 7804,
+    "verse_number": "४०",
+    "content_sanskrit": "इदं पुण्यं इदं पापं इत्येतस्मिन्पदद्वये । आचण्डालमनुष्याणां अल्पं शास्त्रप्रयोजनम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213650,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "यस्मात् प्रत्यक्षमार्ष च ज्ञानं सत्यपि विरोधे बाधकमनुमानम् ॥"
+    }
+  ]
+}

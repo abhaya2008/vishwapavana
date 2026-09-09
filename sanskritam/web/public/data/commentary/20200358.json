@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200358,
+    "chapter_id": 7753,
+    "verse_number": "२.१.८",
+    "content_sanskrit": "यावदवधारणे",
+    "padaccheda": "यावत् । अवधारणे",
+    "anvaya": "यावत् अवधारणे सुपा सह अव्ययीभावः समासः ",
+    "meaning_sanskrit": "'अवधारणा' (सङ्ख्यानिश्चयः) अस्मिन् अर्थे प्रयुक्तम् 'यावत्' इति अव्ययम् समर्थेन सुबन्तेन सह समस्यते । अयं समासः 'अव्ययीभावः' नाम्ना ज्ञायते । ",
+    "meaning_english": "When the word 'यावत्' is used in the the meaning of अवधारणा (indication of a number, For example - 'as many'), it undergoes a समास with a related सुबन्त, and the समास is called अव्ययीभावसमास. ",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": "अनुवृत्तिः — अव्ययं (२.१.६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200358,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यावदित्येतदव्ययमवधारणे वर्तमानं सुपा सह समस्यते, अव्ययीभावश्च समासो भवति। अवधारणमियत्तापरिच्छेदः। यावदमत्रं ब्राह्मणानामन्त्रयस्व। यावन्ति पात्राणि संभवन्ति पञ्च षड् वा तावत आमन्त्रयस्व। अवधारण इति किम्? यावद् दत्तं तावद् भुक्तम्। नावधारयामि कियद् मया भुक्तमिति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200358,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यावन्तः श्लोकास्तावन्तोऽच्युतप्रणामाः यावच्छ्लोकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200358,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<यावदवधारणे>> - यावदवधारणे । इयत्तापरिच्छेदे गम्ये यावदित्यव्ययं समस्यते, सोऽव्ययीभाव इत्यर्थः । यावन्त इति । यत्परिमाणं येषामिति विग्रहे॒यत्तदेतेभ्यः परिमाणे वतु॑बिति वतुप्प्रत्ययः । यावदित्यव्ययमेव समस्यते, विग्रहस्तु तद्धितान्तेनैव, नित्यसमासत्वेनाऽस्वपदविग्रहौचित्यात् । अवधारणे किम्  । यावद्दत्तं तावद्भुक्तम् । इयद्भुक्तमिति नावधारयतीत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200358,
+      "commentary_type": "प्रौढमनोरमा",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "<w>यावच्छ्लोकमिति।</w> यावदित्यव्ययं समस्यते। विग्रहस्तु तद्धितेनेत्यस्वपदत्वं बोद्ध्यम्।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200358,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<यावदवधारणे>> - यावच्छ्लोकमिति.॒याव॑दित्यव्ययं समस्यते, विग्रहस्तु तद्धितान्तेनेत्यस्वपदविग्रहत्वमस्त्येव । अवधारणे किम् । यावद्दत्तं तावद्भुक्तम् । [कियद्दत्त] कियद्भुक्तं वा नावधारयतीत्यर्थः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200358,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`इयत्तापरिच्छेदः`इति। इयतो भाव इयत्ता = परिमाणम्, तस्याः परिच्छेदो निश्चयः। `यावन्ति पात्राणि` इत्यादिना तमेवेयत्तापरिच्छेदं विस्पष्टीकरोति। `नावधारयामि` इत्यादिना इयत्तापरिच्छेदाभावं दर्शयति॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200358,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "यावदित्येतदवधारणेऽर्थे सुपा नित्यं समस्यते । यावदिच्छं देहि । यावतीच्छा तावदेवेत्यर्थः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200358,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The indeclinable word यावत् when it signifies limitation, is invariably compounded with a word ending in a case-affix which is in construction with it, and the compound so formed is called अव्ययीभाव।\nThe word अवधारण means accurate ascertainment, restriction or limitation. As, यावदमत्रं ब्राह्मणानामन्त्रयस्व invite so many <i>Bráhmanas</i> only and not more as there are pots': i.e., if there are five pots then invite five <i>Bráhmans</i>; if six pots, then invite six <i>Bráhmans</i>. \n\nWhy do we say 'when meaning limitation'? Observe यावद्दत्तं तावत् भुक्तम् 'I ate so long as it was given to me,' i.e. I do not know for certainty how much I have eaten."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200358,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The indeclinable word यावत् when it signifies limitation, is invariably compounded with a word ending in a case-affix which is in construction with it, and the compound so formed is called अव्ययीभाव।"
+    },
+    {
+      "id": 10,
+      "verse_id": 20200358,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "समुज्झिता यावदराति निर्यती (किरातार्जुनीयम् 14.56) — `यावदवधारणे` इत्यव्ययीभावः।\nयावदर्थपदां वाचमेवमादाय माधवः । विरराम महीयांसः प्रकृत्या मितभाषिणः ॥ (शिशुपालवधम् 2.13) — `यावदवधारणे` इत्यव्ययीभावः।"
+    }
+  ]
+}

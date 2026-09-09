@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210261,
+    "chapter_id": 7781,
+    "verse_number": "२६२",
+    "content_sanskrit": "अज्",
+    "padaccheda": "अजँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतिक्षेपणयोः",
+    "meaning_english": "to go,to drive,to throw,to ride",
+    "audio_url": null,
+    "display_order": 262,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210261,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "क्षेपणम् = प्रेरणम् ।"
+    }
+  ]
+}

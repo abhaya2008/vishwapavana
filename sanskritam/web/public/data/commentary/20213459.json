@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213459,
+    "chapter_id": 7799,
+    "verse_number": "१२५",
+    "content_sanskrit": "अभाषायां हेमन्तशिशिरावहोरात्रे च ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213459,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्पष्टम् ।"
+    }
+  ]
+}

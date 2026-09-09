@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210088,
+    "chapter_id": 7781,
+    "verse_number": "८९",
+    "content_sanskrit": "श्रङ्क्",
+    "padaccheda": "श्रकिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go,to move",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210088,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सर्पे ' इति वोपदेवः । यदुक्तं - ' क्षीरस्वामी ... शकि... ' इति पुरुषकारे ( श्लो. 42), तत् तु क्षीरतरङ्गिण्यां न दृश्यते ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211150,
+    "chapter_id": 7781,
+    "verse_number": "११५१",
+    "content_sanskrit": "पच्",
+    "padaccheda": "डुपचँष्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "पाके",
+    "meaning_english": "to cook",
+    "audio_url": null,
+    "display_order": 1151,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211150,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "परि — परिपक्व होना, प्रौढ होना"
+    }
+  ]
+}

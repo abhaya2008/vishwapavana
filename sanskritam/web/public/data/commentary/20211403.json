@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211403,
+    "chapter_id": 7784,
+    "verse_number": "१३५",
+    "content_sanskrit": "उच्",
+    "padaccheda": "उचँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "समवाये",
+    "meaning_english": "to be gather, to be collected",
+    "audio_url": null,
+    "display_order": 135,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211403,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " समवायः सङ्गमो मिश्रणम् । समवायः = ऐक्यम् इति क्षीरस्वामी ।"
+    }
+  ]
+}

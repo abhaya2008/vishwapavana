@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20203162,
+    "chapter_id": 7772,
+    "verse_number": "६.४.१६२",
+    "content_sanskrit": "विभाषर्जोश्छन्दसि",
+    "padaccheda": "विभाषा । ऋजोः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 162,
+    "avatarnika": "अनुवृत्तिः — इष्ठ-इमन्-ईयस्सु (६.४.१५४), रः (६.४.१६१), ऋतः (६.४.१६१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203162,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ऋजु इत्येतस्य ऋतः स्थाने विभाषा रेफ आदेशो भवतीष्ठेमेयस्सु परतश्छन्दसि विषये। रजि॑ष्ठ॒मनु॑ नेषि॒ पन्था॑म् (ऋ० १.९१.१)। त्वमृजिष्ठः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203162,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ऋजुशब्दस्य ऋतः स्थाने रः स्याद्वा इष्ठेमेयस्सु । त्वं रजिष्टमनुनेषु (त्वं रजि॑ष्ट॒मनु॑नेषु) । ऋजिष्ठं वा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203162,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "इष्ठेमेयस्सु परेषु ऋजोः ऋतोः वा रत्वं स्यात् । रजिष्ठम्१ ऋजिष्ठः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203162,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Before the affixes 1. इष्ठ 2. इमन् and 3. ईयस् , the ऋ of ऋजु may optionally be changed to र् , in the छन्दस् (Vedas).\nAs रजिष्ठः and ऋजिष्ठः, in रजिष्ठमेति पन्थानम्, त्वमृजिष्ठः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203162,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Before the affixes 1. इष्ठ 2. इमन् and 3. ईयस् , the ऋ of ऋजु may optionally be changed to र् , in the छन्दस् (Vedas)."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211046,
+    "chapter_id": 7781,
+    "verse_number": "१०४७",
+    "content_sanskrit": "धृ",
+    "padaccheda": "धृञ्",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "धारणे",
+    "meaning_english": "to wear, to support,to possess, to hold",
+    "audio_url": null,
+    "display_order": 1047,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211046,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — उद्धार करना\nअव — सत्य करके दिखाना\nनिर् — सत्य करके दिखाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211046,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " धरते धारणेर्थे तु धरते धरतीत्यभे ' (श्लो.29) इति देवः ।"
+    }
+  ]
+}

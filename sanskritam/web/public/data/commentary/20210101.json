@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210101,
+    "chapter_id": 7781,
+    "verse_number": "१०२",
+    "content_sanskrit": "त्रङ्क्",
+    "padaccheda": "त्रकिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210101,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "त्रखि इति चन्द्र- सम्मताकारादीनां मतेन पाठः ।"
+    }
+  ]
+}

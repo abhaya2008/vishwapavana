@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200931,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१६३",
+    "content_sanskrit": "इण्नश्जिसर्त्तिभ्यः क्वरप्",
+    "padaccheda": "इण्-नश्-जि-सर्त्तिभ्यः । क्वरप्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 163,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200931,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "इण् नश् जि सर्ति इत्येतेभ्यो धातुभ्यस्तच्छीलादिषु कर्तृषु क्वरप् प्रत्ययो भवति। पकारस्तुगर्थः। इत्वरः। इत्वरी। नश्वरः। नश्वरी। जित्वरः। जित्वरी। सृत्वरः। सृत्वरी। <<नेड् वशि कृति>> [[७.२.८]] इतीट्प्रतिषेधः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200931,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "इत्वरः । इत्वरी । नश्वरः । जित्वरः । सृत्वरः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200931,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<इण्नश्जिसर्त्तिभ्यः क्वरप्>> - इण्नशिजि । इण्, नशि, जि, सृ एभ्य क्वरप् स्यात्तच्छीलादिष्वित्यर्थः । कित्त्वान्न गुणः । पित्त्वं तु तुगर्थम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200931,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<इण्नश्जिसर्त्तिभ्यः क्वरप्>> - इत्वरः । इत्वरीति । इण् गतौह्रस्वस्य पिती॑ति तुक् । कित्त्वाद्गुणाऽभावः ।टिड्ढे॑त्यादिना स्त्रियां ङीप् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200931,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`इत्वरः` इति। <<ह्रस्वस्य पिति कृति तुक्>> [[6.1.71]] । `इत्वरी` इति। `टिड्ढाणञ्`  [[4.1.15]]  इत्यादिना ङीप्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200931,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "इण्नश्जिसर्तिभ्यः क्वरप्॥ क्वरपः पकारः स्वरार्थः, तुगर्थश्च। इत्वरीति।'टिड्ढाणञ्'  इत्यादिना ङीप्॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200931,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पित्त्वात् तुक् । उदित्वरः । नश्वरः । जित्वरः । सृत्वरः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200931,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्वरप् comes in the sense of 'agent having such a habit etc.' after the verbs 1. इ 'to go' 2. नश् 'to destroy' 3. जि 'to conquer' 4. सृ 'to flow'.\nThe प् is indicatory in order to introduce the augment तुक् between the verb and the affix [[6.1.71]]. Thus इ + क्वरप् = इ + त् + वर = इत्वरः, fem. इत्वरी 'a traveller'; नश्वरः, fem. नश्वरी 'transitory'; जित्वरः, fem. जित्वरी 'victorious'; सृत्वरः fem. सृत्वरी 'going, a river'.\n\nThough the affix begins with a letter of वल् <i>pratyahara</i>, and ought to have taken the intermediate इट् [[7.2.35]] yet it is prohibited by [[7.2.8]]."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200931,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क्वरप् comes in the sense of 'agent having such a habit etc.' after the verbs 1. इ 'to go' 2. नश् 'to destroy' 3. जि 'to conquer' 4. सृ 'to flow'."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200931,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "विसृत्वरैरम्बुरुहां रजोभिर् (शिशुपालवधम् 3.11) — `इण्नशजिसर्तिभ्यः क्वरप्` इति क्वरप्।\nसुराऽध्वरे घस्मर-जित्वरेण (भट्टिकाव्यम् 2.38) — `इण् नश - जि -` इत्यादिना क्वरप्।\nशस्त्राण्युपायंसत जित्वराणि (भट्टिकाव्यम् 1.16) — `इण्नशूजि` इत्यादिना करप्।\nविदुरो जित्वरः प्राप (भट्टिकाव्यम् 7.22) — `इणू-नश्- जि` इति करप्।"
+    }
+  ]
+}

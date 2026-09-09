@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213610,
+    "chapter_id": 7803,
+    "verse_number": "१९",
+    "content_sanskrit": "शेषं सर्वमनुदात्तम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213610,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शेषमित्यादिद्विरुक्तस्य परमित्यर्थः । प्रप्रा॒यम् । दि॒वेदि॑वे ॥"
+    }
+  ]
+}

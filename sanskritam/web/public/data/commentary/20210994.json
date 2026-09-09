@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210994,
+    "chapter_id": 7781,
+    "verse_number": "९९५",
+    "content_sanskrit": "रुह्",
+    "padaccheda": "रुहँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "बीजजन्मनि प्रादुर्भावे च",
+    "meaning_english": "to grow from seed,to manifest, to rise,to ascend, to take birth, to be born",
+    "audio_url": null,
+    "display_order": 995,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210994,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अति — ऊपर चढ़ना, चढ़ना\nअव — उतरना, नीचे आना\nआ — आरूढ़ होना, ऊपर बैठना, ऊपर चढ़ना\nप्र — ऊगना, अंकुर उत्पन्न होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210994,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रादुर्भावे च ' इति केचित् न पठन्ति । ' रुह जन्मनि ' इति न्यासपाठः ।"
+    }
+  ]
+}

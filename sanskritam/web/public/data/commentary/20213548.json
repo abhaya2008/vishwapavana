@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213548,
+    "chapter_id": 7801,
+    "verse_number": "२",
+    "content_sanskrit": "हस्वान्तस्य स्त्रीविषयस्य",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213548,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदरुदात्तः स्यात् । बलिः । तनुः ॥"
+    }
+  ]
+}

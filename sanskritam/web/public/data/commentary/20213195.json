@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213195,
+    "chapter_id": 7795,
+    "verse_number": "२३५",
+    "content_sanskrit": "अङ्गतेरसिरिरुडागमश्च",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 235,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213195,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अङ्गिराः ।"
+    }
+  ]
+}

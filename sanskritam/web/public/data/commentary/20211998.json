@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211998,
+    "chapter_id": 7790,
+    "verse_number": "२४९",
+    "content_sanskrit": "दिव्",
+    "padaccheda": "दिवुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "मर्दने",
+    "meaning_english": "to rub, to massage",
+    "audio_url": null,
+    "display_order": 249,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211998,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अर्दने ' इति क्षीरस्वाम्यादयः ।"
+    }
+  ]
+}

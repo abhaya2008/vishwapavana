@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210270,
+    "chapter_id": 7781,
+    "verse_number": "२७१",
+    "content_sanskrit": "लज्",
+    "padaccheda": "लजँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भर्जने",
+    "meaning_english": "to fry, to roast",
+    "audio_url": null,
+    "display_order": 271,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210270,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भर्जने ' इति मा.धा.वृत्तिः । पुरूषकारः अप्यत्र अनुकूलः । ' भर्जने चेति लीलाशुकः ' इति धा.का.(1.32) । ' लञ्जेत् लाञ्जेत् लजेत् लाजेत् इत्येते भर्त्सने शपि ' (श्लो.69) इति देवः ।"
+    }
+  ]
+}

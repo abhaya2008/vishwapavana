@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212000,
+    "chapter_id": 7790,
+    "verse_number": "२५१",
+    "content_sanskrit": "घुष्",
+    "padaccheda": "घुषिँर्",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "विशब्दने",
+    "meaning_english": "to announce, to speak loudly",
+    "audio_url": null,
+    "display_order": 251,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212000,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — मिलकर रोना, ढिंढोरा पीटना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212000,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' शब्दनं शब्देन स्वाभिप्रायप्रकाशनम् । ततः अन्यत् विशब्दनम् ' इति मा.धा.वृत्तिः । ' घुषेः विशब्दनादौ णौ घोषयत्यविशब्दने । घोषतीतीदितो घुंषेद् घुंषते कान्तिकर्मणि ' (श्लो. 169, 170) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210988,
+    "chapter_id": 7781,
+    "verse_number": "९८९",
+    "content_sanskrit": "रम्",
+    "padaccheda": "रमुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "क्रीडायाम्",
+    "meaning_english": "to enjoy, to rejoice, to play",
+    "audio_url": null,
+    "display_order": 989,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210988,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ + उप + वि — विराम करना, स्थिर रहना, आराम करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210988,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "नायम् उदित् इति माधवः । ' रमु ' इत्युदितं केचित् पठन्ति ।"
+    }
+  ]
+}

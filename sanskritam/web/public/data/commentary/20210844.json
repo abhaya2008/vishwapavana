@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210844,
+    "chapter_id": 7781,
+    "verse_number": "८४५",
+    "content_sanskrit": "स्विद्",
+    "padaccheda": "ञिष्विदाँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "स्नेहनमोचनयोः गात्रप्रस्रवणे च",
+    "meaning_english": "to be greasy, to be soft, to smoothen,to quit",
+    "audio_url": null,
+    "display_order": 845,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210844,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गात्रप्रक्षरणे स्विद्येत् स्वेदते स्नेहमोकयोः ' ( श्लो. 107) इति देवः । ' ञिक्ष्विदा च इत्येके ' इति कौमुदी । ' ञि क्ष्विडा इति आर्हतः ' इति कृ.रू.माला ।"
+    }
+  ]
+}

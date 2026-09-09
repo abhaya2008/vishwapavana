@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213568,
+    "chapter_id": 7801,
+    "verse_number": "२२",
+    "content_sanskrit": "नर्तुप्राण्याख्यायाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213568,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यथालक्षणं प्राप्तमुदात्तत्वं न । वसन्तः । कृकलासः ॥"
+    }
+  ]
+}

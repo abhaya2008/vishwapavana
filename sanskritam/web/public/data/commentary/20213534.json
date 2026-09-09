@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213534,
+    "chapter_id": 7800,
+    "verse_number": "११",
+    "content_sanskrit": "कृष्णस्यामृगाख्या चेत्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213534,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्त उदात्तः । <<वर्णानां तण—>> इत्याद्युदात्तत्वे प्राप्ते अन्तोदात्तो विधीयते । कृष्णानां व्रीहीणाम् । कृ॒ष्णो नो॑ नाव वृष॒भः । मृगाख्यायां तु कृष्णो रात्र्यै ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210404,
+    "chapter_id": 7781,
+    "verse_number": "४०५",
+    "content_sanskrit": "क्रीड्",
+    "padaccheda": "क्रीडृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "विहारे",
+    "meaning_english": "to amuse oneself, to enjoy, to play, to gamble, to make a noise",
+    "audio_url": null,
+    "display_order": 405,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210404,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — मिलकर खेलना, एकसाथ खेलना"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212135,
+    "chapter_id": 7790,
+    "verse_number": "३८६",
+    "content_sanskrit": "मृज्",
+    "padaccheda": "मृजूँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शौचालङ्कारयोः",
+    "meaning_english": "to cleanse, to purify, to  to decorate",
+    "audio_url": null,
+    "display_order": 386,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212135,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शौचालङ्कारयोर्वा णौ मृजेर्मार्जति मार्जयेत् ' (श्लो. 60) इति देवः । ' मृजूष् ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

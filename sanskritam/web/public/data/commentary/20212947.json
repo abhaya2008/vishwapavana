@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212947,
+    "chapter_id": 7794,
+    "verse_number": "१४७",
+    "content_sanskrit": "कृतिभिदिलतिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "तिकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 147,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212947,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कृत्तिका भित्तिका भित्तिः । लत्तिका गोधा ।"
+    }
+  ]
+}

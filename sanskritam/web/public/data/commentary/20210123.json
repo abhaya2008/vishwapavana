@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210123,
+    "chapter_id": 7781,
+    "verse_number": "१२४",
+    "content_sanskrit": "तक्",
+    "padaccheda": "तकँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हसने",
+    "meaning_english": "to make fun, to laugh at",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210123,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तकेत् तङ्केद् यथासंख्यं हसने कृच्छ्रजीवने ' (श्लो.43) इति देवः ।"
+    }
+  ]
+}

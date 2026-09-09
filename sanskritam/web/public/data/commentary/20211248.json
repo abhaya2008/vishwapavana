@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211248,
+    "chapter_id": 7783,
+    "verse_number": "६",
+    "content_sanskrit": "भृ",
+    "padaccheda": "डुभृञ्",
+    "anvaya": "U-पदी, गणः 3",
+    "meaning_sanskrit": "धारणपोषणयोः",
+    "meaning_english": "to wear, to bear,to support,to nourish,to protect",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211248,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भृञो बिभर्ति बिभृते भरते भरतीत्यपि । ऋदन्तस्य भृणातीति भर्त्सने श्नि तथा भरः ' (श्लो. 28) इति देवः ।"
+    }
+  ]
+}

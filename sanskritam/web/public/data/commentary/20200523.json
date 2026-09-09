@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20200523,
+    "chapter_id": 7755,
+    "verse_number": "२.३.६३",
+    "content_sanskrit": "यजेश्च करणे",
+    "padaccheda": "यजेः । च । करणे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": "अनुवृत्तिः — षष्ठी (२.३.५०), शेषे (२.३.५०), बहुलम् (२.३.६२), छन्दसि (२.३.६२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200523,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यजेर्धातोः करणे कारके छन्दसि बहुलं षष्ठी विभक्तिर्भवति। घृतस्य यजते (तु० — श०ब्रा० ४.४.२.४)। घृतेन यजते। सौम्यस्य यजते (तु० — श०ब्रा० ४.४.२.५)। सोमेन यजते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200523,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "इह छन्दसि बहुलं षष्ठी । घृतस्य घृतेन वा यजते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200523,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`धृतस्य यजते` इति। यजिरत्र देवपूजायां वर्तते, तत्र च घृतस्य करणभावः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200523,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "बहुलं षष्ठी स्यात् । सोमस्य यजते, सोमेन यजते ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200523,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The 6th-Case-affix is diversely used in the छन्दस् in denoting the instrument of the verb यज् 'to sacrifice'.\nEx. घृतस्य or घृतेन यजते 'he sacrifices with butter.' सोमस्य or सोमेन यजते ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200523,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The 6th-Case-affix is diversely used in the छन्दस् in denoting the instrument of the verb यज् 'to sacrifice'."
+    }
+  ]
+}

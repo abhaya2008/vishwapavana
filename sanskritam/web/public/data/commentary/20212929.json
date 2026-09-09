@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212929,
+    "chapter_id": 7794,
+    "verse_number": "१२९",
+    "content_sanskrit": "हन्तेर्मुट् हि च",
+    "padaccheda": "",
+    "anvaya": "झच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212929,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हेमन्तः ।"
+    }
+  ]
+}

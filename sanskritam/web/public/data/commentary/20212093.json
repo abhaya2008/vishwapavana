@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212093,
+    "chapter_id": 7790,
+    "verse_number": "३४४",
+    "content_sanskrit": "वृज्",
+    "padaccheda": "वृजीँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "वर्जने",
+    "meaning_english": "to leave, to abandon",
+    "audio_url": null,
+    "display_order": 344,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212093,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " त्यागे ' इति काशकृत्स्नवोपदेवौ ।"
+    }
+  ]
+}

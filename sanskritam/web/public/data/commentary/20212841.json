@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212841,
+    "chapter_id": 7794,
+    "verse_number": "४१",
+    "content_sanskrit": "सृवृभूशुषिमुषिभ्यः कक्",
+    "padaccheda": "",
+    "anvaya": "कक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212841,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सृक उत्पलवातयोः । वृकः श्वापदकाकयोः । भूकं छिद्रम् । शुष्कः । मुष्कोऽण्डम् ।"
+    }
+  ]
+}

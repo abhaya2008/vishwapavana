@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213201,
+    "chapter_id": 7796,
+    "verse_number": "३",
+    "content_sanskrit": "मसेरूरन्",
+    "padaccheda": "",
+    "anvaya": "ऊरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213201,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मसूरः। प्रथमे पादे असेरुरन्मसेश्चेत्यत्र व्याख्यातः ।"
+    }
+  ]
+}

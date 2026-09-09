@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200838,
+    "chapter_id": 7758,
+    "verse_number": "३.२.७०",
+    "content_sanskrit": "दुहः कब् घश्च",
+    "padaccheda": "दुहः । कप् । घः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), सुपि (३.२.४), उपसर्गे (३.२.६१), अपि (३.२.६१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200838,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "दुहेर्धातोः सुप्युपपदे कप् प्रत्ययो भवति, घकारश्चान्तादेशः। कामदुघा धेनुः। अर्घदुघा। घर्मदुघा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200838,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कामदुघा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200838,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<दुहः कब् घश्च>> - दुहः कुब्धश्च । सुप्युपपदे दुहेः कप्स्यात्, प्रकृतेर्घश्चान्तादेश इत्यर्थ- । कामदुघेति ।धेनु॑रिति शेषः । कामम् = अपेक्षितं दुग्धे इति विग्रहः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200838,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<दुहः कब् घश्च>> - कामदुघेति ।धेनु॑रिति शेषः । कामं दोग्धीति विग्रहः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200838,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`कामदुधा`। `घर्मदुघा`। कामं दोग्धीति कामदुघा। गर्मं दोग्धीति घर्मदुधा॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200838,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "दुहः कब्धश्च॥ कामदुधेति। काम्यन्ते इति कामाः, तान् दुग्धे कामदुघा अर्घःउमधुपर्कः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200838,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "सुबन्तपूर्वाद् दुहः कबन्त्यस्य च घः । कामदुघा गौः ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200838,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कप् comes after the verb दुह् 'to milk' when in composition with a word ending in a case-affix and the letter घ replaces the final.\nAs कामदुघा धेनुः 'a milch cow, giving abundance of milk'; so also अर्थदुघा, धर्मदुघा ।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200838,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कप् comes after the verb दुह् 'to milk' when in composition with a word ending in a case-affix and the letter घ replaces the final."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200838,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "प्रीता कामदुघा हि सा (रघुवंशम् 1.81) — `दुहः कब्धश्च` इति कप्प्रत्ययः घादेशश्च।\nमवेहि मां कामदुघां प्रसन्नाम् (रघुवंशम् 2.63) — `दुहः कब्घश्च` इति कप्प्रत्ययः।\nअद्य क्रियाः कामदुघाः क्रतूनां (किरातार्जुनीयम् 3.6) — `दुहः कब्धश्च` इति कप्प्रत्ययो धादेशश्च ।"
+    }
+  ]
+}

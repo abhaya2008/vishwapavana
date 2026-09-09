@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201195,
+    "chapter_id": 7760,
+    "verse_number": "३.४.६३",
+    "content_sanskrit": "तूष्णीमि भुवः",
+    "padaccheda": "तूष्णीमि । भुवः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), क्त्वा-णमुलौ (३.४.५९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201195,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तूष्णींशब्द उपपदे भवतेर्धातोः क्त्वाणमुलौ प्रत्ययौ भवतः। तूष्णींभूय गतः। तूष्णीं भूत्वा। तूष्णींभावम्। भूग्रहणं कृञो निवृत्त्यर्थम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201195,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "तूष्णींशब्दे उपपदे भुवः क्त्वाणमुलौ स्तः । तूष्णींभूय । तूष्णीं भूत्वा । तूष्णींभावम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201195,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<तूष्णीमि भुवः>> - तूष्णीमि । कृञो निवृत्त्यर्थं तूष्णीङ्ग्रहणम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201195,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "ननु च <<स्वाङ्गे तस्प्रत्यये कृभ्वोः>> [[3.4.61]]  इत्यतो भूग्रहणमनुवर्तत एव, तत् किमर्थं भुव इतीहोच्यते? इत्याह -  `भूग्रहणम्` इत्यादि। पूर्व हि भूग्रहणं कृञा सम्बद्धम्, अतस्तदनुवृत्तौ तस्याप्यनुवृत्तिः स्यात्; अतस्तन्निवृत्यर्थं पुनरिह भूग्रहणम्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201195,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्त्वाणमुलौ स्तः । तूष्णीम्भावम् । तूष्णीं च भावम् । तूष्णीम्भूय । तूष्णीं भूत्वा ।।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201195,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes क्तवा and णमुल् are added to the roots भू 'to be', when the word तूष्णीम् 'silently' is in composition.\nThus तूष्णीम्भूय, तूष्णीं भूत्वा, or तूष्णीम्भावम् 'having become silent'. The repetition of भू in this <i>sutra</i>, shows that the <i>anuvritti</i> of कृ does not run into it and altogether ceases."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201195,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes क्तवा and णमुल् are added to the roots भू 'to be', when the word तूष्णीम् 'silently' is in composition."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201195,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तूष्णीं-भूय भयादासांचक्रिरे (भट्टिकाव्यम् 5.95) — `तूष्णीमि भुवः` इति क्त्वा च।"
+    }
+  ]
+}

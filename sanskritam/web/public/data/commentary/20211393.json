@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211393,
+    "chapter_id": 7784,
+    "verse_number": "१२५",
+    "content_sanskrit": "कुस्",
+    "padaccheda": "कुसँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "संश्लेषणे",
+    "meaning_english": "to embrace,to surround, to get together",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211393,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कुश ' इति दुर्गः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211615,
+    "chapter_id": 7786,
+    "verse_number": "१४६",
+    "content_sanskrit": "गॄ",
+    "padaccheda": "गॄ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "निगरणे",
+    "meaning_english": "to eat, to swallow",
+    "audio_url": null,
+    "display_order": 146,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211615,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "निगरणम् भक्षणम् । ' ज्ञाने गारयते, गिरेन्निगरणे, शब्दे गृणाति त्रयम्, युक्तं ग्रो गरतीति सेकविषये ह्रस्वान्तधातोः शपि ' (श्लो. 33) इति देवः ।"
+    }
+  ]
+}

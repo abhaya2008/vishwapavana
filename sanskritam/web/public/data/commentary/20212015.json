@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212015,
+    "chapter_id": 7790,
+    "verse_number": "२६६",
+    "content_sanskrit": "अञ्च्",
+    "padaccheda": "अन्चुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "विशेषणे",
+    "meaning_english": "to characterise, to honor, to remove, to separate",
+    "audio_url": null,
+    "display_order": 266,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212015,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "व्यावर्तने इत्यर्थः । विशेषणम् = व्यावर्तनम् । ' गतियाचनयोरञ्चत्यञ्चते णौ विशेषणे । अञ्चयत्यञ्चतीत्येकं गतिपूजनयोरपि ' (श्लो. 50) इति देवः ।"
+    }
+  ]
+}

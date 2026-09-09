@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211341,
+    "chapter_id": 7784,
+    "verse_number": "७३",
+    "content_sanskrit": "मन्",
+    "padaccheda": "मनँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "ज्ञाने",
+    "meaning_english": "to believe, to know, to understand, to consider, to think",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211341,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — अनुमोदन करना, अनुमान करना\nअव — अपमान करना, भर्त्सना करना\nसम् — अनुमोदन करना, कबूल करना\nअभि — अभिमान करना, इच्छा करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211341,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्तम्भे मानयते , ज्ञाने मन्यते मनुते पदम् । पूजायां मानयेन्मानेत्, यौ मीमांसेत तङ्सनोः ' (श्लो. 125 - 126) इति देवः ।"
+    }
+  ]
+}

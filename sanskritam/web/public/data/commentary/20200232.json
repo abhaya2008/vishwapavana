@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200232,
+    "chapter_id": 7751,
+    "verse_number": "१.३.८५",
+    "content_sanskrit": "विभाषाऽकर्मकात्",
+    "padaccheda": "विभाषा । अकर्मकात्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": "अनुवृत्तिः — कर्तरि (१.३.१४), कर्तरि (१.३.७८), परस्मैपदम् (१.३.७८), रमः (१.३.८३), उपात् (१.३.८४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200232,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "रम उपात् इति च वर्तते। पूर्वेण नित्ये परस्मैपदे प्राप्ते विकल्प आरभ्यते। उपपूर्वाद्रमतेरकर्मकाद्विभाषा परस्मैपदं भवति। यावद्भुक्तमुपरमति, यावद्भुक्तमुपरमते। निवर्तत इत्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200232,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उपाद्रमेरकर्मकात्परस्मैपदं वा । उपरमति । उपरमते वा । निवर्तत इत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200232,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`यावद्भुक्तम्` इति। <<यावदवधारणे>> [[2.1.8]]  इत्यव्ययीभावः।`भुक्तम` इति। `नपवंसके भावे क्तः`  [[3.3.114]]  इति क्तप्रत्ययः। यावन्ति भोजनानि तावद्भ्यो निवर्ततइत्यर्थः। अथ वा -  यावद्भुक्तमिति यथार्थे वीप्सायामव्ययीभावः। भोजनाद्भोजनन्निवर्तत इत्यर्थः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200232,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अकर्मकादुपरमेर्वा परस्मैपदम् । पापादुपरमति, उपरते१ ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200232,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb रम् 'to sport', preceded by उप , परस्मैपद is optionally used, when employed intransitively.\nThe last aphorism ordained <i>parasmaipada</i> absolutely. This declares an option under certain circumstances. As यावद्भुक्तमुपरमति or उपरमते, he desisted from or was quiet while it was eaten."
+    },
+    {
+      "id": 6,
+      "verse_id": 20200232,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb रम् 'to sport', preceded by उप , परस्मैपद is optionally used, when employed intransitively."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200232,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "निरीक्षितुं नोपरराम बल्लवीर (किरातार्जुनीयम् 4.17) — `विभाषाकर्मकात्` इति परस्मैपदम्।\nउपारंसीच्च संपश्यन् (भट्टिकाव्यम् 8.54) — `विभाषाऽकर्मकात्` इति लुङः परस्मैपदम्।\nनाऽत्र सीतेत्युपारंस्त दुर्मना वायु-संभवः (भट्टिकाव्यम् 8.55) — `विभाषा ऽकर्मकात्` इति तङ्।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212774,
+    "chapter_id": 7793,
+    "verse_number": "९७",
+    "content_sanskrit": "यतेर्वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "ऋन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212774,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "याता । भार्यास्तु भ्रातृवर्गस्य यातरः स्युः परस्परम् ।"
+    }
+  ]
+}

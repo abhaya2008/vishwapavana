@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210344,
+    "chapter_id": 7781,
+    "verse_number": "३४५",
+    "content_sanskrit": "तट्",
+    "padaccheda": "तटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उच्छ्राये",
+    "meaning_english": "to go up, to go high, to raise",
+    "audio_url": null,
+    "display_order": 345,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210344,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' नागाद्यारोह उच्छ्रायः ' इत्यमरः ।"
+    }
+  ]
+}

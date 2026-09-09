@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212768,
+    "chapter_id": 7793,
+    "verse_number": "९१",
+    "content_sanskrit": "हुर्छेः सनो लुक् छलोपश्च",
+    "padaccheda": "",
+    "anvaya": "आनच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212768,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जुहुराणश्चन्द्रमाः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211858,
+    "chapter_id": 7790,
+    "verse_number": "१०९",
+    "content_sanskrit": "व्रज्",
+    "padaccheda": "व्रजँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "संस्कारगत्योः",
+    "meaning_english": "to do cultural rites, to cultivate, to complete, to prepare, to turn, to go",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211858,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वज ' इति केचित् । ' मार्ग ' इति पृथग् धातुरिति बहूनां पक्षः । तथा हि तत्त्वबोधिनी - \" वज मार्ग । वाजयति । मार्गयति । केचित् तु मार्ग इति न धात्वन्तरं , किन्तु वज इति एक एव धातुः मार्गसंस्कारे गतौ च इति व्याचख्युः \" इति ।"
+    }
+  ]
+}

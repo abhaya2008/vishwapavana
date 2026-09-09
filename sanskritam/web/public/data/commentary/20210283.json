@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210283,
+    "chapter_id": 7781,
+    "verse_number": "२८४",
+    "content_sanskrit": "मुञ्ज्",
+    "padaccheda": "मुजिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound, to hum, to buzz",
+    "audio_url": null,
+    "display_order": 284,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210283,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मृजीति स्वामिचन्द्रौ ।"
+    }
+  ]
+}

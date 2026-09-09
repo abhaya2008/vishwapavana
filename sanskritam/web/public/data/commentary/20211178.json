@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211178,
+    "chapter_id": 7782,
+    "verse_number": "१३",
+    "content_sanskrit": "वस्",
+    "padaccheda": "वसँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "आच्छादने",
+    "meaning_english": "to cover, to wear, to pull, to dress",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211178,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वस्यति स्तम्भने वस्ते छादने वसयेद् वसेत् ' (श्लो. 187) इति देवः । स्मृतौ इति वोपदेवः ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201029,
+    "chapter_id": 7759,
+    "verse_number": "३.३.७३",
+    "content_sanskrit": "आङि युद्धे",
+    "padaccheda": "आङि । युद्धे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), ह्वः (३.३.७२), सम्प्रसारणम् (३.३.७२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201029,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आङ्युपपदे ह्वयतेर्धातोः संप्रासरणमप् प्रत्ययश्च भवति युद्धेऽभिधेये। आहूयन्तेऽस्मिन्नित्याहवः। युद्ध इति किम्? आह्वायः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201029,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आहूयन्तेऽस्मिन्नित्याहवः । युद्धे किम् । आह्वायः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201029,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`आह्वायः`इति। <<आतो युक् चिण्कृतोः>> [[7.3.33]]  इति युक्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201029,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "आङि ह्वो युद्धे वाच्ये प्राग्वत् । आह्वयन्तेऽत्रेत्याहवः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201029,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes after the verb ह्वे 'to call' when the word in composition is the उपसर्ग आण् and the semi-vowel of the root is changed into its corresponding vowel, when the word so formed means 'battle'.\nAs आहवः 'battle' (where they challenge each other). But otherwise आह्वायः 'calling'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201029,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes after the verb ह्वे 'to call' when the word in composition is the उपसर्ग आण् and the semi-vowel of the root is changed into its corresponding vowel, when the word so formed means 'battle'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201029,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "तत्र नाभवदसौ महाहवे (शिशुपालवधम् 14.44) — `आङि युद्धे` इति ह्वयतेराङ्पूर्वादप्प्रत्ययः संप्रसारणम् ।\nममोघमभ्यर्ण-महाऽऽहवाय (भट्टिकाव्यम् 2.22) — `आङि युद्धे` इति सम्प्रसारणम्।\nप्राविशन्नाहव-प्रज्ञा (भट्टिकाव्यम् 7.60) — `आङि युद्धे` इत्यप् संप्रसारणं च।"
+    }
+  ]
+}

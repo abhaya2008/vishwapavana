@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210064,
+    "chapter_id": 7781,
+    "verse_number": "६५",
+    "content_sanskrit": "इन्द्",
+    "padaccheda": "इदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "परमैश्वर्ये",
+    "meaning_english": "to be powerful, to be gifted, to have divine power",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210064,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "परमैश्वर्ये = परमेश्वरक्रिया इति क्षीरस्वामी ।"
+    }
+  ]
+}

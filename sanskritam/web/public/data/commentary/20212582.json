@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212582,
+    "chapter_id": 7792,
+    "verse_number": "६२",
+    "content_sanskrit": "कबेरोतच् पश्च",
+    "padaccheda": "",
+    "anvaya": "ओतच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212582,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कपोतः पक्षी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210531,
+    "chapter_id": 7781,
+    "verse_number": "५३२",
+    "content_sanskrit": "स्तन्",
+    "padaccheda": "ष्टनँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 532,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210531,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दे च देवशब्दे च स्तनति स्तनयेत् क्रमात् ' ( श्लो. 127) इति देवः । ' स्तन ' इति न्यासकारः (8.3.86) । तत् भाष्यविरोधात् उपेक्ष्यम् इति कृदन्तरूपमाला ।"
+    }
+  ]
+}

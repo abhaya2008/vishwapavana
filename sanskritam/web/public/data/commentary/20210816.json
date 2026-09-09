@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210816,
+    "chapter_id": 7781,
+    "verse_number": "८१७",
+    "content_sanskrit": "पेस्",
+    "padaccheda": "पेसृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 817,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210816,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णौ पिंसयति भाषार्थे गत्याम् तु शपि पेसति ' ( श्लो. 192) इति देवः ।"
+    }
+  ]
+}

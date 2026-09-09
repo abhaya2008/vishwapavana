@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212764,
+    "chapter_id": 7793,
+    "verse_number": "८७",
+    "content_sanskrit": "ऋञ्जिवृद्धिमन्दिसहिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "असानच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212764,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऋञ्जसानो मेघः । वृधसानः पुरुषः । मन्दसानोऽग्निर्जीवश्च । सहसानो यज्ञो मयूरश्च ।"
+    }
+  ]
+}

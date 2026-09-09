@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211141,
+    "chapter_id": 7781,
+    "verse_number": "११४२",
+    "content_sanskrit": "सञ्ज्",
+    "padaccheda": "षन्जँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सङ्गे",
+    "meaning_english": "to hug, to embrace, to stay in close contact, to cling, to stick to",
+    "audio_url": null,
+    "display_order": 1142,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211141,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अव — लटकना, हिलना\nआ — अनुरक्त होना, आसक्त होना\nवि + आ — झगड़ना, हाथापाई करना"
+    }
+  ]
+}

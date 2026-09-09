@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201633,
+    "chapter_id": 7763,
+    "verse_number": "४.३.६१",
+    "content_sanskrit": "ग्रामात् पर्यनुपूर्वात्",
+    "padaccheda": "ग्रामात् । परि-अनु-पूर्वात्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": "अनुवृत्तिः — भवः (४.३.५३), तत्र (४.३.५३), अव्ययीभावात् (४.३.५९), च (४.३.५९), ठञ् (४.३.६०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201633,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अव्ययीभावादित्येव। ग्रामशब्दान्तादव्ययीभावात् परि अनु इत्येवंपूर्वाट् ठञ् प्रत्ययो भवति तत्र भव इत्येतस्मिन् विषये। अणोऽपवादः। पारिग्रामिकः। आनुग्रामिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201633,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ठञ् स्यात् । अव्ययीभावादित्येव । पारिग्रामिकः । आनुग्रामिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201633,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<ग्रामात् पर्यनुपूर्वात्>> - ग्रामात्पर्यनुपूर्वात् । ठञ् स्यादिति ।अन्तःपूर्वपदा॑दित्यतस्तदनुवृत्तेरिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201633,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पारिग्रामिकम्` इति। `{ग्रामशब्दान्तादव्ययीभावात् परि -काशिका।}` ग्रामात् परि` इति। <<अपपरिबहिरञ्चवः पञ्चम्या>> [[2.1.12]]  इत्यव्ययीभावः। `आनुग्रामिकम्िति। अत्रापि <<अनुर्यत्समया>> [[2.1.15]] ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201633,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पर्यनुपूर्वात् ग्रामान्तादव्ययीभावाट्ठञ् । पारिग्रामिकम् । आनुग्रामिकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201633,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word ग्राम preceded by परि or अनु (the whole being अव्ययीभाव समास ) there is the affix ठञ् in the sense of 'who stays there'.\nThis debars अण् ॥ Thus पारिग्रामिकः, आनुग्रामिकः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201633,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word ग्राम preceded by परि or अनु (the whole being अव्ययीभाव समास ) there is the affix ठञ् in the sense of 'who stays there'."
+    }
+  ]
+}

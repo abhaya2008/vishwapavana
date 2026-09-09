@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211227,
+    "chapter_id": 7782,
+    "verse_number": "६२",
+    "content_sanskrit": "रुद्",
+    "padaccheda": "रुदिँर्",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "अश्रुविमोचने",
+    "meaning_english": "to shed tears,to cry,to weep,to lament",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211227,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उप + आ — रो रोकर शांत करना, दूसरे के लिए रोना"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211664,
+    "chapter_id": 7787,
+    "verse_number": "२१",
+    "content_sanskrit": "अञ्ज्",
+    "padaccheda": "अन्जूँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "व्यक्तिम्रक्षणकान्तिगतिषु",
+    "meaning_english": "to anoint, to polish, to smear",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211664,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि — अभ्यंजन करना, तेल मर्दन करना\nवि — स्पष्ट करना, उत्पन्न करना\nअधि — मरना, संवारना\nआ — तेल मलना\nनि — तेल मलना, छिपना\nप्रति — तेल मलना, संवारना, सजाना\nसम् — तेल मलना, मान करना, एकत्र करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211664,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " व्यक्तिः = प्रकटता । म्रक्षणम् = घृतादिसेकः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211701,
+    "chapter_id": 7789,
+    "verse_number": "२३",
+    "content_sanskrit": "वॄ",
+    "padaccheda": "वॄ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "वरणे",
+    "meaning_english": "to marry, to accept, to own, to choose",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211701,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भरणे ' इत्येके । ' वृत्त्यां भृत्याम् ' इति वोपदेवः । ' वॄवॄञोरञितो धातोर्वृणाति वरणे भवेत् । वृणाति च वृणीते च वृञस्तत्रार्थ इष्यते ' (श्लो. 37) इति देवः । ' वृञ् इति नन्दी ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

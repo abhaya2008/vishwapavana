@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210411,
+    "chapter_id": 7781,
+    "verse_number": "४१२",
+    "content_sanskrit": "रोड्",
+    "padaccheda": "रोडृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उन्मादे",
+    "meaning_english": "to be mad, to lose mental stability",
+    "audio_url": null,
+    "display_order": 412,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210411,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "केचिदमुं धातुं न पठन्ति ।"
+    }
+  ]
+}

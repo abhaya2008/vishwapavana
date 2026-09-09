@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211676,
+    "chapter_id": 7788,
+    "verse_number": "८",
+    "content_sanskrit": "वन्",
+    "padaccheda": "वनुँ",
+    "anvaya": "A-पदी, गणः 8",
+    "meaning_sanskrit": "याचने",
+    "meaning_english": "to act,to beg,to request,to seek",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211676,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " याचने वनुते, शब्दे सम्भक्तौ च वनेदिति ' (श्लो. 124) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202595,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१५६",
+    "content_sanskrit": "कारस्करो वृक्षः",
+    "padaccheda": "कारस्करः । वृक्षः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 156,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202595,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कारस्कर इति सुट् निपात्यते वृक्षश्चेद् भवति। कारं करोतीति <<दिवाविभानिशाप्रभाभास्कारान्ता॰>> [[३.२.२१]] इति टप्रत्ययः। कारस्करो वृक्षः। वृक्ष इति किम् ? कारकरः। केचिदिदं सूत्रं नाधीयते, पारस्करप्रभृतिष्वेव कारस्करो वृक्ष इति पठन्ति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202595,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कारं करोतीति कारस्करो वृक्षः । अन्यत्र कारकरः । केचित्तु कस्कादिष्विदं पठन्ति न सूत्रेषु ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202595,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "पारस्करप्रभृतिष्वेवेति। नेदं सूत्रमधीयत इत्यर्थः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202595,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word कारस्कर means 'a tree'.\nThis word is formed from कार + कृ + ट [[3.2.21]] = कारस्करः ॥ When not meaning a tree, the form is कारकरः ॥ Some do not make this a separate <i>sutra</i>, but include it in the next aphorism."
+    },
+    {
+      "id": 5,
+      "verse_id": 20202595,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word कारस्कर means 'a tree'."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211308,
+    "chapter_id": 7784,
+    "verse_number": "४०",
+    "content_sanskrit": "शो",
+    "padaccheda": "शो",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "तनूकरणे",
+    "meaning_english": "to whet,to sharpen",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211308,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' तक्षणे ' इति हेमचन्द्रः । ' निशाने ' इति वोपदेवः । अन्ये सर्वेपि ' तनूकरणे ' इत्येव पठन्ति ।"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200893,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१२५",
+    "content_sanskrit": "सम्बोधने च",
+    "padaccheda": "सम्बोधने । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), लटः (३.२.१२४), शतृशानचौ (३.२.१२४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200893,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रथमासमानाधिकरणार्थ आरम्भः। संबोधने च विषये लटः शतृशानचौ प्रत्ययौ भवतः। हे पचन्। हे पचमान॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200893,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हे पचन् । हे पचमान ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200893,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<सम्बोधने च>> - संबोधने च ।शतृशानचा॑विति शेषः । प्रथमासमानाधिकरणार्थ आरम्भः । पूर्सूत्रस्थपुनर्लड्ग्रहणस्य अधकविधानार्थत्वादेव सिद्धे प्रपञ्चार्थमिदम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200893,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`प्रथमासमानाधिकरणार्थ आरम्भः` इति। अवधारणमिह द्रष्टव्यम्। पूर्वयोगो ह्रप्रथमासमानाधिकरणार्थः, क्वचित् प्रथमासमानाधिकरणार्थश्च; अयं तु प्रथमासमानाधिकरणार्थं एव। यदि तर्हि पूर्वसूत्रं प्रथमासमानाधिकरणार्थमपि, तह्र्रेषंसति तौ यथा अन्यत्र प्रथमासमानाधिकरणेऽपि भवतस्तथा सम्बोधनेऽपि भविष्यत इत्यपार्थकम्? नापार्थकम्; तस्यैव प्रपञ्चार्थत्वात्। `हे पचन्` इति। <<न ङिसम्बुद्ध्योः>> [[8.2.8]]  इति नलोपप्रतिषेधान्नलोपाभावः। `हे पचमान` इति। <<एङ्ह्रस्वात् सम्बुद्धेः>> [[6.1.69]]  इति सुलोपः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200893,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "सम्बोधने च॥ हे पचन्निति। संयोगान्तलोपस्यासिद्धत्वान्नलोपाभावः। अत्र सम्बोधने प्रथमा, अयमादेशश्चेत्युभयं मिलितं सम्बोधनं द्योतयति॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200893,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शतृशानचौ स्तः । हे पचन् ! हे पचमान ! ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200893,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes शतृ and शानच् are substitutes of लट् (Present Tense) even when agreeing with what ends with a 1st (Nominative Case) case-affix, provided that it is in the Vocative Case.\nThis aphorism declares when these participles may be employed even in the first case; as हे पचन् or हे पचमान 'O thou who art cooking'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200893,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes शतृ and शानच् are substitutes of लट् (Present Tense) even when agreeing with what ends with a 1st (Nominative Case) case-affix, provided that it is in the Vocative Case."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215656,
+    "chapter_id": 7807,
+    "verse_number": "४९",
+    "content_sanskrit": "कथंजातीयकः पुनरुत्सर्गः कर्तव्यः, कथंजातीयकोऽपवादः?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": "शास्त्रनिर्माणरीतिनिरूपणाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215656,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "भाष्ये - <y>कथंजातीयक इति ।</y> केन प्रकारेणेत्यर्थः । एतेनैवंजातीयकेन शास्त्रेण सुशब्दोपदेशप्रवृत्तिः पाणिनेरुचितेति सूचितम् ॥"
+    }
+  ]
+}

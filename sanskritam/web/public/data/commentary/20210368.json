@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210368,
+    "chapter_id": 7781,
+    "verse_number": "३६९",
+    "content_sanskrit": "मुण्ड्",
+    "padaccheda": "मुडिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "खण्डने",
+    "meaning_english": "to powder, to grind, to shave",
+    "audio_url": null,
+    "display_order": 369,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210368,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' पुडि ' चेत्येके इति कौमुदी । ' मुण्डते मार्जने मुण्डेः खण्डने शपि मुण्डति ' (श्लो.83) इति देवः । अर्थभेदात् पुनः पाठः । मार्जनार्थे 275 सङ्ख्याकः धातुः द्रष्टव्यः ।"
+    }
+  ]
+}

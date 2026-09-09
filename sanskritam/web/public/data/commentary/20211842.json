@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211842,
+    "chapter_id": 7790,
+    "verse_number": "९३",
+    "content_sanskrit": "कल्",
+    "padaccheda": "कलँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षेपे",
+    "meaning_english": "to throw, to  make something fly",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211842,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कालयति - द्रावयति इत्यर्थः । ' कालयति - प्रेरयति ' इति तत्त्वबोधिनी । दन्तोपघातं कालयति ' हिंसार्थायाम् ' (3.4.48) इत्यत्र । ' कलेः कालयति क्षेपे, गतिसंख्यानयोर्द्वयोः । कलयेत् शब्दसंख्यानविषये कलने शपि ' (श्लो. 155) इति देवः ।"
+    }
+  ]
+}

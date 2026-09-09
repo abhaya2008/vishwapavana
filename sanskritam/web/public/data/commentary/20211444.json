@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211444,
+    "chapter_id": 7785,
+    "verse_number": "१३",
+    "content_sanskrit": "पृ",
+    "padaccheda": "पृ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "प्रीतौ",
+    "meaning_english": "to satisfy, to please",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211444,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रीतौ पृणोत्यृदन्तस्य व्यायामे प्रियते पृङः' (श्लो. 34) इति देवः ।"
+    }
+  ]
+}

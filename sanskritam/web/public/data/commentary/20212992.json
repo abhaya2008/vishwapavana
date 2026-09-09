@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212992,
+    "chapter_id": 7795,
+    "verse_number": "३२",
+    "content_sanskrit": "कशेर्मुट् च",
+    "padaccheda": "",
+    "anvaya": "ईरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212992,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "काश्मीरो देशः ।"
+    }
+  ]
+}

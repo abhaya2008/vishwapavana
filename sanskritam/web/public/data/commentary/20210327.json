@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210327,
+    "chapter_id": 7781,
+    "verse_number": "३२८",
+    "content_sanskrit": "म्रेड्",
+    "padaccheda": "म्रेडृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उन्मादे",
+    "meaning_english": "to be mad, to be mentally ill",
+    "audio_url": null,
+    "display_order": 328,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210327,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मेडृ ' इति काशकृत्स्नसम्मतः पाठः ।"
+    }
+  ]
+}

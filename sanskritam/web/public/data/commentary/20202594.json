@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202594,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१५५",
+    "content_sanskrit": "कास्तीराजस्तुन्दे नगरे",
+    "padaccheda": "कास्तीर-अजस्तुन्दे । नगरे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202594,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कास्तीर अजस्तुन्द इत्येतौ शब्दौ निपात्येते नगरेऽभिधेये। ईषत्तीरमस्य, अजस्येव तुन्दमस्येति व्युत्पत्तिरेव क्रियते, नगरं तु वाच्यमेतयोः। कास्तीरं नाम नगरम्। अजस्तुन्दं नाम नगरम्। नगर इति किम् ? कातीरम्। अजतुन्दम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202594,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ईषत्तीरमस्यास्तीति कास्तीरं नाम नगरम् । अजस्येव तुन्दमस्येति अजस्तुन्दं नाम नगरम् । नगरे किम् । कातीरम् । अजतुन्दम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202594,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "कातीरमिति। `ईषदर्थे` इति कोः कादेशः।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202594,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "केचिन्नगरे इति प्रथमाद्विवचनान्तभाहुः। वृतौ तु सप्तम्यन्तं व्याख्यात्म्। कातीरमिति। ठीषदर्थे चऽ इति काभावः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202594,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कास्तीरम् । अजस्तुन्दम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202594,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words कास्तर and अजस्तुन्द are names of cities.\nWhen not meaning cities, we have कातीरम् (ईषत् तीरमस्य); and अजतुन्दम् (अजस्येव तुन्दमस्य) ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202594,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words कास्तर and अजस्तुन्द are names of cities."
+    }
+  ]
+}

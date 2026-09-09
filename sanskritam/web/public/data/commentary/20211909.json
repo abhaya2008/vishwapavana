@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211909,
+    "chapter_id": 7790,
+    "verse_number": "१६०",
+    "content_sanskrit": "तुम्ब्",
+    "padaccheda": "तुबिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अदर्शने",
+    "meaning_english": "to be invisible,to be hidden, to be destroyed",
+    "audio_url": null,
+    "display_order": 160,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211909,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अर्दने इति केचित् । अर्दने इत्यस्य पाठस्य अयुक्तता प्रतिपादिता तत्त्वबोधिन्यां कृदन्तरूपमालायां च । '  लुम्बयेत्तुम्बयेदर्दे शपि लुम्बति तुम्बति ' (श्लो. 139) इति देवः ।"
+    }
+  ]
+}

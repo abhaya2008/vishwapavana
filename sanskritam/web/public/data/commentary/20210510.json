@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210510,
+    "chapter_id": 7781,
+    "verse_number": "५११",
+    "content_sanskrit": "कम्",
+    "padaccheda": "कमुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कान्तौ",
+    "meaning_english": "to love,to desire, to long for, to have intercourse with",
+    "audio_url": null,
+    "display_order": 511,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210510,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कान्तिः = इच्छा ।"
+    }
+  ]
+}

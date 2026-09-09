@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211733,
+    "chapter_id": 7789,
+    "verse_number": "५५",
+    "content_sanskrit": "क्षुभ्",
+    "padaccheda": "क्षुभँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "सञ्चलने",
+    "meaning_english": "to tremble, to shake, to agitate",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211733,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' क्षुभ्नाति क्षोभते क्षुभ्येदिति सञ्चलने क्षुभेः ' (श्लो.144) इति देवः ।"
+    }
+  ]
+}

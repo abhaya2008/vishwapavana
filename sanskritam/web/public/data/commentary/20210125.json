@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210125,
+    "chapter_id": 7781,
+    "verse_number": "१२६",
+    "content_sanskrit": "बुक्क्",
+    "padaccheda": "बुक्कँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भषणे",
+    "meaning_english": "to bark",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210125,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "भषणम् = श्वरवः । क्षीरस्वामी तु ' भाषणे ' इति पठित्वा, ' भषणे इत्येके ' इत्याह । ' आभाषणे ' इति शाकटायनः । ' णिचि बुक्कयतीति स्यात्, भषणे शपि बुक्कति ' (श्लो. 42) इति देवः ।"
+    }
+  ]
+}

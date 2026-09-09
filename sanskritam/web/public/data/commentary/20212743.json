@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212743,
+    "chapter_id": 7793,
+    "verse_number": "६६",
+    "content_sanskrit": "च्विरव्ययम्",
+    "padaccheda": "",
+    "anvaya": "डौ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212743,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "डौरित्येव । ग्लौकरोति । [[1.1.39]] <<कृन्मेजन्तः>> इति सिद्धे नियमार्थमिदम् । उणादिप्रत्ययान्तश्च्व्यन्त एवेति ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213593,
+    "chapter_id": 7803,
+    "verse_number": "२",
+    "content_sanskrit": "गोष्ठजस्य ब्राह्मणानामधेयस्य",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213593,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अक्षरमक्षर पर्यायेणोदात्तम् । गोष्ठजो ब्राह्मणः । अन्यत्र गोष्ठजः पशुः । कृदुत्तरपदप्रकृतिस्वरेणान्तोदात्तः ॥"
+    }
+  ]
+}

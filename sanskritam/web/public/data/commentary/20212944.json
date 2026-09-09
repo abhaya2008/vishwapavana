@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212944,
+    "chapter_id": 7794,
+    "verse_number": "१४४",
+    "content_sanskrit": "कपश्चाक्रवर्मणस्य",
+    "padaccheda": "",
+    "anvaya": "कप",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 144,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212944,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्वरे भेदः ।"
+    }
+  ]
+}

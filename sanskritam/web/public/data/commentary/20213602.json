@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213602,
+    "chapter_id": 7803,
+    "verse_number": "११",
+    "content_sanskrit": "सिमस्याथर्वणेऽन्त उदात्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213602,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अथर्वण इति प्रायिकम् । तत्र दृष्टस्येत्येवंपरं वा । तेन 'वास॑स्तनुते सि॒मस्मै॑' इत्यृग्वेदेऽपि भवत्येव ॥"
+    }
+  ]
+}

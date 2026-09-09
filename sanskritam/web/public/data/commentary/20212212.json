@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212212,
+    "chapter_id": 7790,
+    "verse_number": "४६३",
+    "content_sanskrit": "लज",
+    "padaccheda": "लज",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रकाशने",
+    "meaning_english": "to appear, to be clear",
+    "audio_url": null,
+    "display_order": 463,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212212,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' लजि ' इत्येके । लञ्जयति । ' प्रकाशे लजयेद् , व्रीडे लज्जते लजते पदे ' (श्लो. 68) - देवः ।"
+    }
+  ]
+}

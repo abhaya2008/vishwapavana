@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214066,
+    "chapter_id": 7805,
+    "verse_number": "२७३",
+    "content_sanskrit": "जातिशब्दोऽन्तरेणापि जातिं यत्र प्रयुज्यते । संबन्धिसदृशाद्धर्मात्तं गौणं अपरे विदुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 273,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214066,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "सादृस्यमिदानीं निमित्तत्वेनाह--\nगोशब्दो गोत्वजातिं विनापि स्वव्यक्तिगतगुणसादृश्याद् बाहीके प्रयुज्यत इति सादृश्यं गौणमुख्यभावे निमित्तम् ॥"
+    }
+  ]
+}

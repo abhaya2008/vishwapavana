@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210872,
+    "chapter_id": 7781,
+    "verse_number": "८७३",
+    "content_sanskrit": "क्षञ्ज्",
+    "padaccheda": "क्षजिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गतिदानयोः",
+    "meaning_english": "to go, to give",
+    "audio_url": null,
+    "display_order": 873,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210872,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "षिच्च ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213069,
+    "chapter_id": 7795,
+    "verse_number": "१०९",
+    "content_sanskrit": "माछाससिभ्यो यः",
+    "padaccheda": "",
+    "anvaya": "य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213069,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "माया । छाया । सस्यम् । बाहुलकात्सुनोतेः । सव्यं दक्षिणवामयोः ।"
+    }
+  ]
+}

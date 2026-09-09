@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212156,
+    "chapter_id": 7790,
+    "verse_number": "४०७",
+    "content_sanskrit": "सार",
+    "padaccheda": "सार",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दौर्बल्ये",
+    "meaning_english": "to be weak",
+    "audio_url": null,
+    "display_order": 407,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212156,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः ।"
+    }
+  ]
+}

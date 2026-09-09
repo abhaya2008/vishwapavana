@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201049,
+    "chapter_id": 7759,
+    "verse_number": "३.३.९३",
+    "content_sanskrit": "कर्मण्यधिकरणे च",
+    "padaccheda": "कर्मणि । अधिकरणे । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), घोः (३.३.९२), किः (३.३.९२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201049,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "घोरित्येव। कर्मण्युपपदे घुसंज्ञकेभ्यो धातुभ्यः किः प्रत्ययो भवत्यधिकरणे कारके। जलं धीयतेऽस्मिन्निति जलधिः। शरधिः। अधिकरणग्रहणमर्थान्तरनिरासार्थम्। चकारः प्रत्ययानुकर्षणार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201049,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कर्मण्युपपदे घोः किः स्यादधिकरणेऽर्थे । जलानि धीयन्तेऽस्मिन्निति जलधिः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201049,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "कर्माधिकरणयोः सप्तम्या भेदेन निर्देशान्नोभयोरुपपदत्वम्, नापि प्रत्ययार्थत्वम्, तस्मात् किञ्चित् तत्रोपपदम्, किञ्चित्प्रत्ययार्थः। कर्म उपपदम्, अधिकरणं प्रत्ययार्थः। एष तु विभागो व्याख्यानास्लक्ष्यदर्शनाच्च विज्ञात इत्याह - `कर्मण्युपपदे इत्यादि। अथाधिकरणग्रहणं किमर्थम्, यावता `अकर्तरि च कारके`  [[3.3.19]]  इत्यस्यानुवृत्तेरेवाधिकरणे प्रत्ययो लभ्यते? इत्याह -  `अधिकरणग्रहणम्` इत्यादि। असति ह्रधिकरणग्रहणेरऽर्थान्तरेऽपि भावे करणादौ कारके प्रकृतप्रत्ययः स्यात्, तस्मात् तन्निवृत्त्यर्थमधिकरणग्रहणम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201049,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कर्माधिकरणयोः पृथक् पृथक् सप्तमीनिर्देशान्न तावदुभयोरुपपदत्वम्, तत्र व्याख्यानात्कर्मोपपदम्, अधिकरणं तु प्रत्ययार्थ इत्याह - कर्मण्युपपद इति । अथिकरणग्रहणमर्थान्तरनिरासार्थमिति । अर्थान्तरं भावः, करणादि च कारकम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201049,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "जलधिः । घञादयः पुल्लिङ्गाः । नाम्नि तु पुंस्त्वं प्रायिकम् । मल्यते धार्यत इति घञ् । माला । स्वेनाभिप्रायेणेरः स्वैरः । ईरेर्घञ् । ‘भीवृष्यादेः क्लीबेऽज् वाच्यः’ (वा० ३-३-५६) । भयम् । वर्षम् । पदम् । वर्षोऽस्त्रीति दर्शनाद् घञपि ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201049,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कि comes after a घु verb -- दाधा घ्वदाप् [[1.1.20]] when a word in the Accusative -2nd case is in composition with it and when the relation of the word so formed to its verb, is that of 'location.\nAs जलधिः 'the ocean (in which water is held)';  शरधिः 'a quiver (that in which arrows are put)'.\n\nThe word 'location' in the aphorism indicates that the words so formed should have no other significance. The word च in the aphorism draws in the affix कि from the last <i>sutra</i>."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201049,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix कि comes after a घु verb -- दाधा घ्वदाप् [[1.1.20]] when a word in the Accusative -2nd case is in composition with it and when the relation of the word so formed to its verb, is that of 'location."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201049,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "शितनिस्त्रिंशयुजौ महेषुधी (किरातार्जुनीयम् 3.57) — `कर्मण्यधिकरणे च` इति किप्रत्ययः।\nअम्भोधिविकसितवारिजाननोऽसौ (शिशुपालवधम् 8.26) — `कर्मण्यधिकरणे च` इति किप्रत्ययः।\nबबन्धाऽथ च बाणधी (भट्टिकाव्यम् 14.17) — `कर्मण्यधिकरणे च` इति किः।\nदेवि ! राघव-सन्निधिम् (भट्टिकाव्यम् 20.16) — `कर्मण्यधिकरणे च` इति किप्रत्ययः।"
+    }
+  ]
+}

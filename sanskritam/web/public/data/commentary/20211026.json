@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211026,
+    "chapter_id": 7781,
+    "verse_number": "१०२७",
+    "content_sanskrit": "भ्रेष्",
+    "padaccheda": "भ्रेषृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 1027,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211026,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भ्रेषृ इत्यपि ' इति मैत्रेयः । ' भये, चलने च ' इति क्षीरस्वामी । ' भ्लेषु ' इत्यन्ये इति धा.का. (2 - 27) ।"
+    }
+  ]
+}

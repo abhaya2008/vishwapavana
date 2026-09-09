@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213236,
+    "chapter_id": 7796,
+    "verse_number": "३८",
+    "content_sanskrit": "जनेररष्ठ च",
+    "padaccheda": "",
+    "anvaya": "अर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213236,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जठरम् ।"
+    }
+  ]
+}

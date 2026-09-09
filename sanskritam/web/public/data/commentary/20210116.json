@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210116,
+    "chapter_id": 7781,
+    "verse_number": "११७",
+    "content_sanskrit": "मङ्घ्",
+    "padaccheda": "मघिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "गत्याक्षेपे गत्यारम्भे कैतवे च",
+    "meaning_english": "to set out, to go, to commence, to blame, to cheat",
+    "audio_url": null,
+    "display_order": 117,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210116,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गत्याक्षेपः = वेगगतिः, गमनारम्भो वा, कैतवम् - व्याजः ' इति क्षीरस्वामी । ' आक्षेपो निन्दा, गतौ गमनारम्भे चेति स्वामी ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

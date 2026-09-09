@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211962,
+    "chapter_id": 7790,
+    "verse_number": "२१३",
+    "content_sanskrit": "भ्रूण्",
+    "padaccheda": "भ्रूणँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "आशाविशङ्कयोः",
+    "meaning_english": "to hope, to believe, to doubt, to question, to become pregnant",
+    "audio_url": null,
+    "display_order": 213,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211962,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आशंसायाम् ' इति मैत्रेयः , क्षीरतरङ्गिणी च ।"
+    }
+  ]
+}

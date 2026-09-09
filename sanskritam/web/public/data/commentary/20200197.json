@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200197,
+    "chapter_id": 7751,
+    "verse_number": "१.३.५०",
+    "content_sanskrit": "विभाषा विप्रलापे",
+    "padaccheda": "विभाषा । विप्रलापे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२), वदः (१.३.४७), व्यक्तवाचां (१.३.४८), समुच्चारणे (१.३.४८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200197,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वद इति वर्तते, व्यक्तवाचां समुच्चारणे इति च। विप्रलापात्मके व्यक्तवाचां समुच्चारणे वर्तमानाद्वदतेरात्मनेपदं भवति विभाषा। प्राप्तविभाषेयम्। विप्रवदन्ते सांवत्सराः, विप्रवदन्ति सांवत्सराः। विप्रवदन्ते मौहूर्ताः, विप्रवदन्ति मौहूर्ताः। युगपत्परस्परप्रतिषेधेन विरुद्धं वदन्तीत्यर्थः। विप्रलाप इति किम्? संप्रवदन्ते ब्राह्मणाः। व्यक्तवाचामित्येव — विप्रवदन्ति शकुनयः। समुच्चारण इत्येव — क्रमेण मौहूर्ता मौहूर्तेन सह विप्रवदन्ति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200197,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "विरूद्धोक्तिरूपे व्यक्तवाचां समुच्चारणे उक्तं वा स्यात् । विप्रवदन्ते विप्रवदन्ति वा वैद्याः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200197,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<विभाषा विप्रलापे>> - विभाषा विप्रलापे ।व्यक्तवाचां समुच्चारणे॑ इत्यनुवर्तते । विरुद्धोक्तिर्विप्रलापः । तदाह —  विरुद्धोक्तिरूपे इति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200197,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<विभाषा विप्रलापे>> - विभाषा विप्रलापे । अप्राप्तविभाषा ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200197,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`विप्रलापात्मके` इति। परस्परप्रतिबन्धेन विरुद्धः प्रलापो विप्रलापः, स यस्यात्मा स्वभावः स तथोक्तः। `प्राप्तविभाषेयम्` इति। <<व्यक्तवाचां समुच्चारणे>> [[1.3.48]]  इत्यस्यानुवृत्तेः।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200197,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "संवत्सरान् वदन्तीति सांवत्सराःउज्यौतिषिकाः। एवं मौहूर्तिकाः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200197,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "व्यक्तवाचां सहैव विरुद्धोक्तावर्थे वदेर्वा तङ् । विप्रवदन्ते, विप्रवदन्ति वा विप्राः ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200197,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb वद् , the आत्मनेपद is used optionally, when the sense is that of 'contradicting with each other'.\nAs विप्रवदन्ते or न्ति वैद्याः (the doctors are at variance). The words <i>vyaktavacham</i> (articulate utterance) and <i>samuchcharana</i> (speaking together) are understood in this <i>sutra</i> also.\n\nNo option is allowed when the sense is not that of contradiction or wrangling as, संप्रवदन्ते ब्राह्मणाः, 'the <i>Brahmanas</i> are speaking together.'\n\nThe phrase 'articulate utterance' is necessary in this also. Because as विप्रवदन्ति शकुनयः 'the kites are quarrelling,' the verb is in the <i>Parasmaipada</i>.\n\nThe wrangling must be by talking at one and the same time, otherwise this rule will not apply. As क्रमेण वैद्या वैद्येन सह विप्रवदन्ति, 'the doctors contradict by turn another doctor.'"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200197,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb वद् , the आत्मनेपद is used optionally, when the sense is that of 'contradicting with each other'."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200197,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "ऐद्विप्रवदमानैस्तां संयुक्तां ब्रह्म-राक्षसैः (भट्टिकाव्यम् 8.30) — `विभाषा विप्रलापे` इति विप्रलापात्मके व्यक्तवाचां समुच्चारणे तङ्।"
+    }
+  ]
+}

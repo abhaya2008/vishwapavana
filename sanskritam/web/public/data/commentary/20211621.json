@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211621,
+    "chapter_id": 7786,
+    "verse_number": "१५२",
+    "content_sanskrit": "रुज्",
+    "padaccheda": "रुजोँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "भङ्गे",
+    "meaning_english": "to have pain, to be ill, to bend, to break",
+    "audio_url": null,
+    "display_order": 152,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211621,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भङ्गे रुजति, हिंसायां रोजयेदिति णौ रुजेः ' (श्लो. 69) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212715,
+    "chapter_id": 7793,
+    "verse_number": "३८",
+    "content_sanskrit": "बहुलमन्यत्रापि",
+    "padaccheda": "",
+    "anvaya": "क्वुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212715,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुह विस्मापने । कुहकः । कृतकम् ।"
+    }
+  ]
+}

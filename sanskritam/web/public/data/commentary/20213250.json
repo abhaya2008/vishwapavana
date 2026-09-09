@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213250,
+    "chapter_id": 7796,
+    "verse_number": "५२",
+    "content_sanskrit": "तनोतेर्डउः सन्वच्च",
+    "padaccheda": "",
+    "anvaya": "डउ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213250,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तितउः । पुंसि क्लीबे ।"
+    }
+  ]
+}

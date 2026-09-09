@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213172,
+    "chapter_id": 7795,
+    "verse_number": "२१२",
+    "content_sanskrit": "अमेर्हुक्च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 212,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213172,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अंहः ।"
+    }
+  ]
+}

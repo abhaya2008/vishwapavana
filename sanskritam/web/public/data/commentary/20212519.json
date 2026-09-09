@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212519,
+    "chapter_id": 7791,
+    "verse_number": "२६१",
+    "content_sanskrit": "युवन् । पक्व । अहन् । आर्ययूना क्षत्रिययुना प्रपक्वानि । परिपक्वानि । दीर्घाह्नी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 261,
+    "avatarnika": "युवादिः (8.4.11)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212519,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "युवादेर्न"
+    }
+  ]
+}

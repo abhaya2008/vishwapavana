@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213268,
+    "chapter_id": 7796,
+    "verse_number": "७०",
+    "content_sanskrit": "मङ्गेरलच्",
+    "padaccheda": "",
+    "anvaya": "अलच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213268,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मङ्गलम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213486,
+    "chapter_id": 7799,
+    "verse_number": "१५२",
+    "content_sanskrit": "असन्तो द्व्यच्कः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 152,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213486,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यशः । मनः । तपः । द्व्यच्कः किम् ? चन्द्रमाः । "
+    }
+  ]
+}

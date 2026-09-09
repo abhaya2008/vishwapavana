@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216235,
+    "chapter_id": 7825,
+    "verse_number": "४५",
+    "content_sanskrit": "लक्षणान्तरेण प्राप्नुवन् विधिरनित्यः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": "एतन्मूलकमेवाह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216235,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अतिदेशविषये इयम् <<असिद्धवत्>> [[6.4.22]] सूत्रे कैयटेनोक्ता ॥"
+    }
+  ]
+}

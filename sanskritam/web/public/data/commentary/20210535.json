@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210535,
+    "chapter_id": 7781,
+    "verse_number": "५३६",
+    "content_sanskrit": "अम्",
+    "padaccheda": "अमँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ शब्दे सम्भक्तौ च",
+    "meaning_english": "to go, to sound, to serve, to help, to be slave",
+    "audio_url": null,
+    "display_order": 536,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210535,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गत्यदावमतीति स्याद् रोगे स्यादामयत्यमेः ' (श्लो. 147) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212820,
+    "chapter_id": 7794,
+    "verse_number": "२०",
+    "content_sanskrit": "यजिमनिशुन्धिदसिजनिभ्यो युच्",
+    "padaccheda": "",
+    "anvaya": "युच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212820,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "यज्युरध्वर्युः। मन्युर्दैन्ये क्रतौ क्रुधि । शुन्ध्युरग्निः । दस्युस्तस्करः । जन्युः शरीरी ।"
+    }
+  ]
+}

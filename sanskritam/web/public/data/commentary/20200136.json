@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200136,
+    "chapter_id": 7750,
+    "verse_number": "१.२.६२",
+    "content_sanskrit": "विशाखयोश्च",
+    "padaccheda": "विशाखयोः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": "अनुवृत्तिः — अन्यतरस्याम् (१.२.५८), नक्षत्रे (१.२.६०), छन्दसि (१.२.६१), एकवचनम् (१.२.६१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200136,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसीति वर्तते, द्विवचने प्राप्ते छन्दसि विषये विशाखयोरेकवचनमन्यतरस्यां भवति। वि॑शाखा न॑क्षत्रमिन्द्राग्नी॑ देव॑ता (मै०सं० २.१३.२०)। विशा॑खे॒ नक्ष॑त्रमिन्द्रा॒ग्नी दे॑वता॑ (तै०सं० ४.४.१०.२)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200136,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्राग्वत् । विशाखा नक्षत्रम् । विशाखे वा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200136,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "सनः पूर्वो यो धातुस्तेन तुल्यं सन्नन्तादप्यात्मनेपदं स्यात्। एदिधिष्यते॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200136,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एकत्वं वा स्यात् । विशाखा नक्षत्रम् । इन्द्राग्नी देवता । विशाखे नक्षत्रम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200136,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "विशाखयोश्च इमावपि यौगौ शक्याववक्तुम्। कथम्? - पुनर्वसुविशाखयोः सुपां सुलुक्पूर्वसवर्णेति सिद्धम् - पुनर्वसुविशाखयोः सुपां सुलुक्पूर्वसवर्ण इत्येव सिद्धम् ॥ छन्दसि पुनर्वस्वोरेकवचनम् ॥ 61 ॥ विशाखयोश्च ॥ 62 ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200136,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the Vedas, the two stars विशाखा may optionally be in the singular number.\nThe word विशाखा is in the dual number as a rule. In the Vedas, it is found sometime to have the singular form, denoting duality. Thus विशाखा नक्षत्रम् or विशाखे नक्षत्रमिन्द्राग्नी देवता ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200136,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the Vedas, the two stars विशाखा may optionally be in the singular number."
+    }
+  ]
+}

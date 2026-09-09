@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212736,
+    "chapter_id": 7793,
+    "verse_number": "५९",
+    "content_sanskrit": "आप्नोतेर्ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "क्विप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212736,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आपः । अपः । अद्भिः । अद्भ्यः ।"
+    }
+  ]
+}

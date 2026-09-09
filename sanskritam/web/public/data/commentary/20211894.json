@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211894,
+    "chapter_id": 7790,
+    "verse_number": "१४५",
+    "content_sanskrit": "अर्क्",
+    "padaccheda": "अर्कँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "स्तवने",
+    "meaning_english": "to praise,to heat",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211894,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तपने ' इत्येके ।"
+    }
+  ]
+}

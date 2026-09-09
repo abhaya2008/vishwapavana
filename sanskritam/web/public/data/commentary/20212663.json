@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212663,
+    "chapter_id": 7792,
+    "verse_number": "१४३",
+    "content_sanskrit": "युजिरुचितिजां कुश्च",
+    "padaccheda": "",
+    "anvaya": "मक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212663,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "युग्मम् । रुक्मम् । तिग्मम् ।"
+    }
+  ]
+}

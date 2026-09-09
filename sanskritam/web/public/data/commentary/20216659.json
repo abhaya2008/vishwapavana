@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216659,
+    "chapter_id": 7843,
+    "verse_number": "३४",
+    "content_sanskrit": "सर्वव्यवहारहेतुर्गुणो बुद्धिर्ज्ञानम् । सा द्विविधा-स्मृतिरनुभवश्च ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": "बुद्धिः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216659,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "सर्वेति । बुद्धिलक्षणमाह सर्वेति । सर्वे ये व्यवहाराः आहारविहारादयः तेषां हेतुर्बुद्धिः इत्यर्थः । दण्डादिवारणाय सर्वव्यवहारेति । कालादिवारणाय असाधारणेति देयम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210025,
+    "chapter_id": 7781,
+    "verse_number": "२६",
+    "content_sanskrit": "ह्राद्",
+    "padaccheda": "ह्रादँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे",
+    "meaning_english": "to make a sound",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210025,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अव्यक्तशब्दः वाद्यनिर्घोषः ।"
+    }
+  ]
+}

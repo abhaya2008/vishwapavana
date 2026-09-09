@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213477,
+    "chapter_id": 7799,
+    "verse_number": "१४३",
+    "content_sanskrit": "शीलमूलमङ्गलसालकमलतलमुसलकुण्डलपललमृणालवालनिगलपलालबिडालखिलशूलाः पुंसि च ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 143,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213477,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्क्लीबे । शीलं  शीलः इत्यादि । "
+    }
+  ]
+}

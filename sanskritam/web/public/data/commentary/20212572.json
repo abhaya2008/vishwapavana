@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212572,
+    "chapter_id": 7792,
+    "verse_number": "५२",
+    "content_sanskrit": "अशेर्णित्",
+    "padaccheda": "",
+    "anvaya": "किरच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212572,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आशिरो वह्निरक्षसोः ।"
+    }
+  ]
+}

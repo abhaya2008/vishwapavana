@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210790,
+    "chapter_id": 7781,
+    "verse_number": "७९१",
+    "content_sanskrit": "भष्",
+    "padaccheda": "भषँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भर्त्सने",
+    "meaning_english": "to bark,to revile, to abuse, to criticise",
+    "audio_url": null,
+    "display_order": 791,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210790,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भर्त्सनम् = श्वरवः, यतस्तत्रैवायं (धातुः) प्रसिद्धः ' इति मा.धा.वृत्तिः । क्षीरस्वामी तु कुत्सितशब्दकरणा करणार्थकत्वम् अस्य आह । ' भष बुक्के पिशुनोक्तौ... ' इति क.क.द्रुमे (श्लो. 320)"
+    }
+  ]
+}

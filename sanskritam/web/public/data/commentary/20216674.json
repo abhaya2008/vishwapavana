@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216674,
+    "chapter_id": 7843,
+    "verse_number": "४९",
+    "content_sanskrit": "तत्र निष्प्रकारकं  ज्ञानं निर्विकल्पकम् । यथेदं किञ्चित् ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": "निर्विकल्पम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216674,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "तत्रेति । सविकल्पकेऽतिव्याप्तिवारणाय निष्प्रकारकमिति । प्रकारवारणाय ज्ञानमिति ।"
+    }
+  ]
+}

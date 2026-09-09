@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210807,
+    "chapter_id": 7781,
+    "verse_number": "८०८",
+    "content_sanskrit": "ह्रस्",
+    "padaccheda": "ह्रसँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 808,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210807,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "धातूनामनेकार्थत्वात् ' ह्रासः ' इत्यत्र अपक्षयोर्थः । ' ह्रस्वः ' इत्यत्र अल्पत्वं धात्वर्थः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212024,
+    "chapter_id": 7790,
+    "verse_number": "२७५",
+    "content_sanskrit": "च्यु",
+    "padaccheda": "च्यु",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "सहने हसने च",
+    "meaning_english": "to endure, to tolerate, to laugh",
+    "audio_url": null,
+    "display_order": 275,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212024,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " हसने च ' इत्येके । ' च्युस ' इत्येके च्योसयति ।"
+    }
+  ]
+}

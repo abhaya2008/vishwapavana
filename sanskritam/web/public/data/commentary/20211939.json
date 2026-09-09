@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211939,
+    "chapter_id": 7790,
+    "verse_number": "१९०",
+    "content_sanskrit": "स्तुप्",
+    "padaccheda": "ष्टुपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "समुच्छ्राये",
+    "meaning_english": "to heap,to unite, to pile up",
+    "audio_url": null,
+    "display_order": 190,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211939,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ष्टूप ' इति मा.धा.वृत्तौ ।"
+    }
+  ]
+}

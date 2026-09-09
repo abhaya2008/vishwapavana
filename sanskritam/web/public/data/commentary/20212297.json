@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212297,
+    "chapter_id": 7791,
+    "verse_number": "३९",
+    "content_sanskrit": "मूलविभुज । नखमुच । काकगुह । कुमुद । महीध्र । कुध्र । गिघ्र ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": "मूलविभुजादिः (3.2.5)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212297,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "कप्रकरणे मूलविभुजादिभ्य उपसंख्यानम्"
+    }
+  ]
+}

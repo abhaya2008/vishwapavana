@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211158,
+    "chapter_id": 7781,
+    "verse_number": "११५९",
+    "content_sanskrit": "वह्",
+    "padaccheda": "वहँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "प्रापणे",
+    "meaning_english": "to flow, to propel, to carry, to  haul, to drag",
+    "audio_url": null,
+    "display_order": 1159,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211158,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रापणे = धारणे ' इति काशकृत्स्नः ।"
+    }
+  ]
+}

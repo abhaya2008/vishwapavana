@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211177,
+    "chapter_id": 7782,
+    "verse_number": "१२",
+    "content_sanskrit": "शास्",
+    "padaccheda": "शासुँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "इच्छायाम्",
+    "meaning_english": "to desire, to bless, to praise",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211177,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आङ्पूर्वत्वं प्रायिकम् । तेन ' नमोवाकं प्रशास्महे ' इति सिद्धम् ' - सिद्धान्तकौमुदी ।"
+    }
+  ]
+}

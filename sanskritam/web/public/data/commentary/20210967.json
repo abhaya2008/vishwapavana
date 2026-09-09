@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210967,
+    "chapter_id": 7781,
+    "verse_number": "९६८",
+    "content_sanskrit": "टल्",
+    "padaccheda": "टलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वैक्लव्ये",
+    "meaning_english": "to be confused, to be distressed",
+    "audio_url": null,
+    "display_order": 968,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210967,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वैक्लव्यं भयादिजनिता उद्विग्नता । ' वैप्लव्ये ', विप्लव एव वैप्लव्यम् ' इति क्षीरस्वामी । वैकल्ये इति धातुकाव्ये (2.21)"
+    }
+  ]
+}

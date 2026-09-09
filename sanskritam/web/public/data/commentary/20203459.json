@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203459,
+    "chapter_id": 7775,
+    "verse_number": "७.३.६३",
+    "content_sanskrit": "वञ्चेर्गतौ",
+    "padaccheda": "वञ्चेः । गतौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": "अनुवृत्तिः — चजोः (७.३.५२), कु (७.३.५२), न (७.३.५९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203459,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वञ्चेरङ्गस्य गतौ वर्तमानस्य कवर्गादेशो न भवति। वञ्च्यं वञ्चन्ति वणिजः। गताविति किम्? वङ्कं काष्ठम्। कुटिलमित्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203459,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कुत्वं न । वञ्च्यम् । गतौ किम् । वङ्क्यं काष्ठम् । कुटिलाकृतमित्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203459,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<वञ्चेर्गतौ>> - वञ्चेर्गतौ । कुत्वं नेति । शेषपूरणमिदम् ।चजोः कु घिण्ण्यतो॑रित्यतः कुग्रहणस्य,न क्वादे॑रित्यतो नेत्यस्य चाऽनुवृत्तेरिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203459,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`वञ्चम्` इति। `वञ्चु चञ्चु तञ्चु त्वञ्च म्रुञ्चु म्लञ्चु भ्रुचु म्लुचु गत्यर्थाः (धातुपाठः-189-196)। कर्मणि घञ्। वञ्च्यं वञ्चन्ति गन्तव्यं गच्छन्तीत्यर्थः। `चङ्कम्` इति। `हलश्च`  [[3.3.121]]  इति घञ्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203459,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वञ्च्यं वञ्चन्तीति । गन्तव्यं गच्छन्तीत्यर्थः । वङ्कमिति । गुणशब्दोऽयम्भावे घञ्, अभेदोपचाराद् गुणिनि वृत्तिः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203459,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कुत्वं न गत्यर्थस्य । वञ्च्यम् । कौटिल्यार्थे वङ्क्यम् ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203459,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A guttural is not substituted for the palatal of वञ्च् in the sense of 'going'.\nA वञ्च्यं वञ्चन्ति वणिजः, but वाङ्क्यं काष्ठं = कुटिलं ॥ Why is गतौ used, when we know from the <i>Dhatupatha</i> (<i>Bhuadi</i> 204) that वंच् means 'to go'? The specification shows that the roots possess many meanings other than those assigned to them in the <i>Dhatupatha</i>."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203459,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A guttural is not substituted for the palatal of वञ्च् in the sense of 'going'."
+    }
+  ]
+}

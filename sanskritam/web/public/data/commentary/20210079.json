@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210079,
+    "chapter_id": 7781,
+    "verse_number": "८०",
+    "content_sanskrit": "लोक्",
+    "padaccheda": "लोकृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "दर्शने",
+    "meaning_english": "to see,to perceive,to look",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210079,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दर्शने लोकते लोकेर्भाषार्थे णौ तु लोकयेत् ' (श्लो.40) इति देवः ।"
+    }
+  ]
+}

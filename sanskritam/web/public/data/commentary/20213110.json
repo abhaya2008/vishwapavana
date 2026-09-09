@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213110,
+    "chapter_id": 7795,
+    "verse_number": "१५०",
+    "content_sanskrit": "नामन् सीमन् व्योमन् रोमन् लोमन् पाप्मन् ध्यामन्",
+    "padaccheda": "",
+    "anvaya": "मनिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213110,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सप्त अमी निपात्यन्ते । म्नायतेऽनेनेति नाम । सिनोतेर्दीर्घः । सीमा सीमानौ । सीमानः । पक्षे डाप् । सीमे सीमाः । व्येञोऽन्त्यस्योत्वं गुणः । व्योम । रौतेः । रोम । लोम । पाप्मा पापम् । ध्याम परिमाणं तेजश्च ।"
+    }
+  ]
+}

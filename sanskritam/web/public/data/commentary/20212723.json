@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212723,
+    "chapter_id": 7793,
+    "verse_number": "४६",
+    "content_sanskrit": "आङि पणिपनिपतिखनिभ्यः",
+    "padaccheda": "",
+    "anvaya": "इकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212723,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आपणिकः । आपनिकः इन्द्रनीलः किरातश्च । आपतिकः श्येनो दैवायत्तश्च । आखनिको मूषिको वराहश्च ।"
+    }
+  ]
+}

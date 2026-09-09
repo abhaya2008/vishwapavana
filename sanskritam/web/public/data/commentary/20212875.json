@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212875,
+    "chapter_id": 7794,
+    "verse_number": "७५",
+    "content_sanskrit": "तन्यृषिभ्यां क्सरन्",
+    "padaccheda": "",
+    "anvaya": "क्सरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212875,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "तसरः सूत्रवेष्टने । ऋक्षरः ऋत्विक् ।"
+    }
+  ]
+}

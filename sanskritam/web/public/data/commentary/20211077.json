@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211077,
+    "chapter_id": 7781,
+    "verse_number": "१०७८",
+    "content_sanskrit": "म्ना",
+    "padaccheda": "म्ना",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अभ्यासे",
+    "meaning_english": "to study,to repeat,to remember,to think",
+    "audio_url": null,
+    "display_order": 1078,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211077,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्रायेणायमाङपूर्वक एव प्रयुज्यते । ' अभ्यासः = पारम्पर्येण वृत्तिः ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

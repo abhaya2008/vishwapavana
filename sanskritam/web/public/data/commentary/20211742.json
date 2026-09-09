@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211742,
+    "chapter_id": 7789,
+    "verse_number": "६४",
+    "content_sanskrit": "प्लुष्",
+    "padaccheda": "प्लुषँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "स्नेहनसेवनपूरणेषु",
+    "meaning_english": "to soften, to be greasy, to irrigate, to complete, to fill",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211742,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " प्लोषति प्लुष्यतीति स्तां प्लुष्णाति स्नेहनादिषु ' (श्लो. 172) इति देवः ।"
+    }
+  ]
+}

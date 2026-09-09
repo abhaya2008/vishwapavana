@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211850,
+    "chapter_id": 7790,
+    "verse_number": "१०१",
+    "content_sanskrit": "शुल्ब्",
+    "padaccheda": "शुल्बँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "माने",
+    "meaning_english": "to weigh, to measure",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211850,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सर्जने ' इति कातन्त्रशाकटायनौ । ' माने सर्जने च ' इति हेमचन्द्रः ।"
+    }
+  ]
+}

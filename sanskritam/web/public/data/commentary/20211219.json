@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211219,
+    "chapter_id": 7782,
+    "verse_number": "५४",
+    "content_sanskrit": "दा",
+    "padaccheda": "दाप्",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "लवने",
+    "meaning_english": "to cut",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211219,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दाञो दत्ते ददातीति, दाणो यच्छति दो द्यति । दाति दायति दाप्दैपोः, दयते रक्षणे ङितः ' (श्लो. 4 ) इति देवः ।"
+    }
+  ]
+}

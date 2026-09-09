@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213375,
+    "chapter_id": 7799,
+    "verse_number": "४१",
+    "content_sanskrit": "क्यन्तो घुः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213375,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "किप्रत्ययान्तो घुः पुंसि स्यात् । आधिः । निधिः । उदधिः । क्यन्तः किम् ? दानम् । घुः किम् ? जज्ञिर्बीजम् । "
+    }
+  ]
+}

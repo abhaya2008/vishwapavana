@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211629,
+    "chapter_id": 7786,
+    "verse_number": "१६०",
+    "content_sanskrit": "विश्",
+    "padaccheda": "विशँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "प्रवेशने",
+    "meaning_english": "to enter",
+    "audio_url": null,
+    "display_order": 160,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211629,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — प्रवेश करना\nउप — बैठना\nअभि + नि — समक्ष या सामने बैठना, आराम करना\nनिर् — मूच्छित होना, बाहर जाना\nपरि — उपहार देना\nसम् — आराम करना\nसम् + नि — पास जाना या रहना\nसम् + आ — प्रचार में लाना, समाना\nनि — निवेश करना, वास करना"
+    }
+  ]
+}

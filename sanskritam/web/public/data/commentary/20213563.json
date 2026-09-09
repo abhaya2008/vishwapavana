@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213563,
+    "chapter_id": 7801,
+    "verse_number": "१७",
+    "content_sanskrit": "न वृक्षपर्वतविशेषव्याघ्रसिंहमहिषाणाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213563,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एषामुपमेयनाम्नामादिरुदात्तो न । ताल इव तालः । मेरुरिव मेरुः । व्याघ्रः । सिंहः । महिषः ॥"
+    }
+  ]
+}

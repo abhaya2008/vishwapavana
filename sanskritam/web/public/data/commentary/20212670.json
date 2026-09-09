@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212670,
+    "chapter_id": 7792,
+    "verse_number": "१५०",
+    "content_sanskrit": "इण्शीभ्यां वन्",
+    "padaccheda": "",
+    "anvaya": "वन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212670,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एवो गन्ता । ये च एवा मरुतः । असत्वे निपातोऽयम् । शेवं मित्राय वरुणाय ।"
+    }
+  ]
+}

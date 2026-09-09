@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200823,
+    "chapter_id": 7758,
+    "verse_number": "३.२.५५",
+    "content_sanskrit": "पाणिघताडघौ शिल्पिनि",
+    "padaccheda": "पाणिघ-ताडघौ । शिल्पिनि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कर्मणि (३.२.१), अनुपसर्गे (३.२.३), सुपि (३.२.४), हनः (३.२.४९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200823,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पाणिघ ताडघ इत्येतौ शब्दौ निपात्येते शिल्पिनि कर्तरि। पाणि ताड इत्येतयोः कर्मणोरुपपदयोर्हन्तेर्धातोः टक् ‘प्रत्ययो भवति, तस्मिंश्च परतो हन्तेष्टिलोपो घत्वं च निपात्यते। पाणिघः। ताडघः। शिल्पिनीति किम्? पाणिघातः। ताडघातः॥ राजघ उपसंख्यानम्॥ राजानं हन्ति राजघः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200823,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हन्तेष्टक् टिलोपो घत्वं च निपात्यते पाणिताडयोरुपपदयोः । पाणिघः । ताडघः । शिल्पिनि किम् । पाणिघातः । ताडघातः ।<! राजघ उपसंख्यानम् !> (वार्तिकम्) ॥ राजनं हन्ति राजघः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200823,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<पाणिघताडघौ शिल्पिनि>> - पाणिघताडघौ । पाणिना हन्तीति पाणिघः । ताडः = ताडनं, तेन हन्तीति ताडघः = मल्लादिः । राजघ उपसङ्ख्यानमिति । राजघशब्दे उक्तनिपातनस्य उपसङ्ख्यानमित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200823,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पाणिघताडघौ` इति। टप्रत्ययो घत्वं टिलोपश्च निपात्यते॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200823,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>पाणिघः स्यात् पाणिघाते शिल्पी तद्वच्च तालघः । राजवश्वोपसंख्यानं राजानं हन्ति राजघः ॥ ८८ ॥</karika>"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200823,
+      "commentary_type": "महाभाष्यम् (सूत्रांशः)",
+      "author": "पतञ्जलिः",
+      "content": "पाणिघताडघौ शिल्पिनि (822) (489 टक्प्रत्ययवत्वादिविधिसूत्रम्॥ 3 । 2 । 1 आ.21) (2046 न्यूनतापरिहारवार्तिकम्॥ 1 ॥) - राजघ उपसंख्यानम्- (भाष्यम्) राजघ उपसंख्यानं कर्तव्यम्। राजघः॥ पाणिघताडघौ ॥ 55 ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200823,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word पाणिघ and ताडघ are irregularly formed when denoting an artificier.\nThese forms are thus evolved. The affix क is employed after the verb हन् in composition with पाणि 'hand' and ताड 'a blow' as object; then the टि portion of हन् i. e. अन् is elided, and ह is changed into घ irregularly. Thus पाणि + हन् + क = पाणि + ड् + अ = पाणिघः 'a drummer' (workman or handicraftsman); ताडघः 'a smith'.\n\nWhy 'when denoting an artificer'? Observe पाणिघातः 'boxing'; ताडघातः 'hammering'.\n\nVart:- The word राजघः should be enumerated in this connection; राजघः 'a regicide'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200823,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word पाणिघ and ताडघ are irregularly formed when denoting an artificier."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200823,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. राजघ उपसंख्यानम् ।"
+    },
+    {
+      "id": 10,
+      "verse_id": 20200823,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "शिल्पिभिः पाणिघैः (भट्टिकाव्यम् 6.113) — `पाणिघ- ताडघौ शिल्पिनि` इति कर्तरि निपातनम्।"
+    }
+  ]
+}

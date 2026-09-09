@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212060,
+    "chapter_id": 7790,
+    "verse_number": "३११",
+    "content_sanskrit": "तर्क्",
+    "padaccheda": "तर्कँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 311,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212060,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ऊहेप्ययमिति मैत्रेयः ' इति मा.धा.वृत्तौ ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211167,
+    "chapter_id": 7782,
+    "verse_number": "२",
+    "content_sanskrit": "हन्",
+    "padaccheda": "हनँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "हिंसागत्योः",
+    "meaning_english": "to kill, to destroy, to go",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211167,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि — मुख से बजाना\nनि — परि\nप्र — ऊपर रखना, प्रहार करना, मारना\nप्रति — विरुद्ध पक्ष का खंडन करना\nवि + आ — प्रतिबन्ध करना, रोकना\nसम् — हिंसा करना, मारना, एकत्र करना\nआ — ठोकना, मारना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211167,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " वधादेशे सेट् ।"
+    }
+  ]
+}

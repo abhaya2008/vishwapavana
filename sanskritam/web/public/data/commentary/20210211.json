@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210211,
+    "chapter_id": 7781,
+    "verse_number": "२१२",
+    "content_sanskrit": "कुञ्च्",
+    "padaccheda": "कुन्चँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतिकौटिल्याल्पीभावयोः",
+    "meaning_english": "to go, to bend, to reduce, to contract, to diminish",
+    "audio_url": null,
+    "display_order": 212,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210211,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — आकुंचित होना, अकड़ जाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210211,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गतेः कौटिल्ये द्रव्यस्याल्पभावे च ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

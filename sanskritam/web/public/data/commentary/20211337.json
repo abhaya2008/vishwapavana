@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211337,
+    "chapter_id": 7784,
+    "verse_number": "६९",
+    "content_sanskrit": "युध्",
+    "padaccheda": "युधँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "सम्प्रहारे",
+    "meaning_english": "to fight",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211337,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सम्प्रहारः = हननम् ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

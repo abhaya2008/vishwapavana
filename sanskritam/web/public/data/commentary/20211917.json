@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211917,
+    "chapter_id": 7790,
+    "verse_number": "१६८",
+    "content_sanskrit": "म्रक्ष्",
+    "padaccheda": "म्रक्षँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "म्लेच्छने",
+    "meaning_english": "to mix, to make impure",
+    "audio_url": null,
+    "display_order": 168,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211917,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " म्लेच्छनम् अपशब्दनम् इति धातुवृत्तिः । ' म्रक्षणेप्ययम् । तच्च तैलादिना अभ्यञ्जनम् ' इति तत्त्वबोधिनी । ' म्लेच्छने म्रक्षयेत् म्रक्षेत् सङ्घाते ' (श्लो. 171) इति देवः ।"
+    }
+  ]
+}

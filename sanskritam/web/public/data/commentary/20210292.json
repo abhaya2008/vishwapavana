@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210292,
+    "chapter_id": 7781,
+    "verse_number": "२९३",
+    "content_sanskrit": "स्फुट्",
+    "padaccheda": "स्फुटँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "विकसने",
+    "meaning_english": "to blow,to blossom,to burst,to break open,to split open",
+    "audio_url": null,
+    "display_order": 293,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210292,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विशरणे ' इति वोपदेवः । ' क्रमाद् विकासे शशपो:, स्फुटति स्फोटते पदे ' (श्लो.70) इति देवः । क्षीरतरङ्गिण्यां धातुरयं न दृश्यते ।"
+    }
+  ]
+}

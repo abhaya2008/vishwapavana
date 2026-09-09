@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212822,
+    "chapter_id": 7794,
+    "verse_number": "२२",
+    "content_sanskrit": "सर्तेरयुः",
+    "padaccheda": "",
+    "anvaya": "अयु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212822,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सरयुर्नदी । अयूरिति पाठान्तरम् । सरयूः ।"
+    }
+  ]
+}

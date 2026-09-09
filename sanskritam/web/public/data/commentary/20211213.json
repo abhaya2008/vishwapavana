@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211213,
+    "chapter_id": 7782,
+    "verse_number": "४८",
+    "content_sanskrit": "श्रा",
+    "padaccheda": "श्रा",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "पाके",
+    "meaning_english": "to cook, to boil, to exude, to sweat",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211213,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ...श्राति श्रायति लुक्शपोः ' (श्लो. 9 ) इति देवः ।"
+    }
+  ]
+}

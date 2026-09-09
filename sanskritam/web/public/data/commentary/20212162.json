@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212162,
+    "chapter_id": 7790,
+    "verse_number": "४१३",
+    "content_sanskrit": "खेट",
+    "padaccheda": "खेट",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भक्षणे",
+    "meaning_english": "to eat",
+    "audio_url": null,
+    "display_order": 413,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212162,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' खोट ' इत्यन्ये । ' खोड ' इति तृतीयान्तं केचित् पठन्ति ।"
+    }
+  ]
+}

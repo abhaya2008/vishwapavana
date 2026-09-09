@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213066,
+    "chapter_id": 7795,
+    "verse_number": "१०६",
+    "content_sanskrit": "कुसेरुम्भोमेदेताः",
+    "padaccheda": "",
+    "anvaya": "उम्भ, उम, ईद, इत",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213066,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुसुम्भम् । कुसुमम् । कुसीदम् । कुसितो जनपदः ।"
+    }
+  ]
+}

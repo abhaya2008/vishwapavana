@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210803,
+    "chapter_id": 7781,
+    "verse_number": "८०४",
+    "content_sanskrit": "मृष्",
+    "padaccheda": "मृषुँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सेचने सहने च",
+    "meaning_english": "to sprinkle, to suffer, to endure, to bear, to tolerate",
+    "audio_url": null,
+    "display_order": 804,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210803,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " हिंसाक्लेशदैन्येषु इत्येते ' इति धातुकाव्यम् । (1.88) “ अत्र काश्यपः - ' मृषु हिंसासंक्लेशनदानेषु ' इत्यादि पपाठ “ इति मा.धा.वृत्तिः । ' स्नेहने ' इति देवसम्मतः पाठः (श्लो. 173) इति ज्ञायते । ' मृष्यते मृष्यतीति स्यात् , स्नेहने शपि मर्षति ' (श्लो. 173) इति देवः ।"
+    }
+  ]
+}

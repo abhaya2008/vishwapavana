@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212651,
+    "chapter_id": 7792,
+    "verse_number": "१३१",
+    "content_sanskrit": "सर्तेरटिः",
+    "padaccheda": "",
+    "anvaya": "अटि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212651,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सरट् स्याद्वातमेघयोः । वेदभाष्ये तु याभिः कृशानुमिति मन्त्रे सरट्भ्यो मधुमक्षिकाभ्य इति व्याख्यातम् ।"
+    }
+  ]
+}

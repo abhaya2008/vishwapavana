@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213446,
+    "chapter_id": 7799,
+    "verse_number": "११२",
+    "content_sanskrit": "षण्डमण्डकरण्डभरण्डवरण्डतुण्डगण्डमुण्डपाषण्डशिखण्डाः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213446,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं षण्डः । "
+    }
+  ]
+}

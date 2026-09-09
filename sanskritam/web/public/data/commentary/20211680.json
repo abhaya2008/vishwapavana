@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211680,
+    "chapter_id": 7789,
+    "verse_number": "२",
+    "content_sanskrit": "प्री",
+    "padaccheda": "प्रीञ्",
+    "anvaya": "U-पदी, गणः 9",
+    "meaning_sanskrit": "तर्पणे कान्तौ च",
+    "meaning_english": "to love, to satisfy, to wish, to desire, to show kindness",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211680,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "कान्तिः = कामना । ' प्रीङ् प्रीतौ प्रीयतेप्रीनात् प्रीणीते तर्पणे ञितः । अणौ यौ ञित्त्वसाफल्यात् प्रीणयेत् प्रयते प्रयेत् ' (श्लो. 19-20) इति देवः ।"
+    }
+  ]
+}

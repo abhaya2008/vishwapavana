@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212696,
+    "chapter_id": 7793,
+    "verse_number": "१९",
+    "content_sanskrit": "शुचेर्दश्च",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212696,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शूद्रः ।"
+    }
+  ]
+}

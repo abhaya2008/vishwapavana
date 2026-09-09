@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211653,
+    "chapter_id": 7787,
+    "verse_number": "१०",
+    "content_sanskrit": "कृत्",
+    "padaccheda": "कृतीँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "वेष्टने",
+    "meaning_english": "to surround, to cover",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211653,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कृणत्ति कृन्ततीत्येते वेष्टने च्छेदने क्रमात् । कीर्तयेदिति संशब्दे ' (श्लो. 95) इति देवः ।"
+    }
+  ]
+}

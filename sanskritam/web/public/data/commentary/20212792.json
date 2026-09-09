@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212792,
+    "chapter_id": 7793,
+    "verse_number": "११५",
+    "content_sanskrit": "जनेरुसिः",
+    "padaccheda": "",
+    "anvaya": "उसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212792,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जनुर्जननम् ।"
+    }
+  ]
+}

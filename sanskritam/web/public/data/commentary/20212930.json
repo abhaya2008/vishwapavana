@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212930,
+    "chapter_id": 7794,
+    "verse_number": "१३०",
+    "content_sanskrit": "भन्देर्नलोपश्च",
+    "padaccheda": "",
+    "anvaya": "झच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212930,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भदन्तः प्रव्रजितः ।"
+    }
+  ]
+}

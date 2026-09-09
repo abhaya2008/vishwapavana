@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211598,
+    "chapter_id": 7786,
+    "verse_number": "१२९",
+    "content_sanskrit": "भृड्",
+    "padaccheda": "भृडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "निमज्जने",
+    "meaning_english": "to sink",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211598,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आत्रेयमैत्रेयादीनां मतेन मा.धा.वृत्तौ सिद्धान्तकौमुद्यां च पठितोयं धातुः । तत्र मा.धा.वृत्ति वृत्तिपर्यालोचनया मैत्रेयः धातुममुं संवरणार्थकमेव पठति इत्यपि ज्ञायते ।"
+    }
+  ]
+}

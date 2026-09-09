@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211619,
+    "chapter_id": 7786,
+    "verse_number": "१५०",
+    "content_sanskrit": "सृज्",
+    "padaccheda": "सृजँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विसर्गे",
+    "meaning_english": "to create, to generate, to produce",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211619,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उद् — छोड देना\nवि — छोड देना\nनि — छोड देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211619,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सर्गे सृज्यते सृजतीति च (श्लो. 62) इति देवः ।"
+    }
+  ]
+}

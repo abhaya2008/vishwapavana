@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210857,
+    "chapter_id": 7781,
+    "verse_number": "८५८",
+    "content_sanskrit": "ध्वंस्",
+    "padaccheda": "ध्वन्सुँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अवस्रंसने गतौ च",
+    "meaning_english": "to fall down,to drop,to slip off,to hang down, to slide, to deteriorate",
+    "audio_url": null,
+    "display_order": 858,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210857,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "ध्वंसु गतौ च ।"
+    }
+  ]
+}

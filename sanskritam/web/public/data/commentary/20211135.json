@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211135,
+    "chapter_id": 7781,
+    "verse_number": "११३६",
+    "content_sanskrit": "नम्",
+    "padaccheda": "णमँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्रह्वत्वे शब्दे च",
+    "meaning_english": "to salute,to greet, to respect, to bend, to sound",
+    "audio_url": null,
+    "display_order": 1136,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211135,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शब्दे च ' इति अर्थः क्षीरस्वामिना न पठ्यते ।"
+    }
+  ]
+}

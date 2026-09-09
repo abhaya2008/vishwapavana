@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211668,
+    "chapter_id": 7787,
+    "verse_number": "२५",
+    "content_sanskrit": "पृच्",
+    "padaccheda": "पृचीँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "सम्पर्के",
+    "meaning_english": "to contact, to touch, to join, to unite",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211668,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पृणाङ्क्ति पृक्ते (पृङ्क्ते) सम्पर्के यौ पर्चयति पर्चति ' (श्लो. 51) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213107,
+    "chapter_id": 7795,
+    "verse_number": "१४७",
+    "content_sanskrit": "हृभृधृसृस्तृशॄभ्य इमनिच्",
+    "padaccheda": "",
+    "anvaya": "इमनिच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 147,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213107,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "हरिमा कालः । भरिमा कुटुम्बम् । धरिमा रूपम् । सरिमा वायुः । स्तरिमा तल्पम् । शरिमा प्रसवः ।"
+    }
+  ]
+}

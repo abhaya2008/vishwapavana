@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212155,
+    "chapter_id": 7790,
+    "verse_number": "४०६",
+    "content_sanskrit": "मह",
+    "padaccheda": "मह",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पूजायाम्",
+    "meaning_english": "to worship, to pray, to honor, to respect",
+    "audio_url": null,
+    "display_order": 406,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212155,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' महयेत् महतीत्येते पूजायां णौ शपि क्रमात् ' (श्लो. 196) - देवः ।"
+    }
+  ]
+}

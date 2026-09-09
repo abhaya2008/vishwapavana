@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210724,
+    "chapter_id": 7781,
+    "verse_number": "७२५",
+    "content_sanskrit": "बर्ह्",
+    "padaccheda": "बर्हँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "प्राधान्ये",
+    "meaning_english": "to be eminent, to be superior",
+    "audio_url": null,
+    "display_order": 725,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210724,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "केचन दन्त्योष्ठ्यादिम् आहुः । अमुं मैत्रेयो न पठति ।"
+    }
+  ]
+}

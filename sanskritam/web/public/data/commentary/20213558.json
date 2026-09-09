@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213558,
+    "chapter_id": 7801,
+    "verse_number": "१२",
+    "content_sanskrit": "अक्षस्यादेवनस्य",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213558,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आदिरुदात्तः । तस्य॒ नाक्षः॑ । देवने तु - अ॒क्षैर्मा दी॑व्यः ॥"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201178,
+    "chapter_id": 7760,
+    "verse_number": "३.४.४६",
+    "content_sanskrit": "कषादिषु यथाविध्यनुप्रयोगः",
+    "padaccheda": "कषादिषु । यथाविधि । अनुप्रयोगः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201178,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<निमूलसमूलयोः०>>[[३.४.३४]] इत्येतदारभ्य कषादयः। एतेषु यथाविध्यनुप्रयोगो भवति। यस्माद् धातोर्णमुल् प्रत्ययो भवति, स एवानुप्रयोक्तव्यः। ननु धातुसंबन्धे प्रत्ययविधानादनुप्रयोगः सिद्ध एव? यथाविधीति नियमार्थं वचनम्? तथात चैवोदाहृतम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201178,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "यस्माण्णमुलुक्तः स एवानुप्रयोक्तव्य इत्यर्थः । तथैवोदाहृतम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201178,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<कषादिषु यथाविध्यनुप्रयोगः>> - तथैवेति ।निमूलकाषं कषती॑त्याद्युदाहृतमित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201178,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एतदादिषु 'उपमाने कर्मणि च' (३-४-४५) इत्यन्तेषु विधिमत एव धातोरनुप्रयोगः कार्यः । निगतमूलं प्राप्तमूलं कषति निमूलकाषं कषति, समूलकाषं कषति । अनुप्रयुक्तस्य क्रियासामान्यपरत्वात् समूलं कषतीत्येवार्थः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201178,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The same verb should be used after the gerunds formed from the verbs कष् 'to rub' etc. as the verb from which the gerund is derived.\nFrom <i>sutra</i> [[3.4.34]] up to <i>sutra</i> [[3.4.45]], a verb from the same root must be employed in the subsequent part, as <i>anuprayoga</i>, from which the gerund in <i>namul</i> was formed. This rule has been illustrated in the examples under the previous aphorisms.\n\nThe present is a restrictive or <i>niyama</i> rule. This chapter deals with affixes employed in denoting syntactical relation between two verbs (धातुसम्बन्धे प्रत्ययाः)। See [[3.4.1]] : so a gerund in <i>namul</i>, would, of course, be followed by some verb as <i>anuprayoga</i>; the present <i>sutra</i> declares that the other verb must be from the same root as the gerund."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201178,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The same verb should be used after the gerunds formed from the verbs कष् 'to rub' etc. as the verb from which the gerund is derived."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201178,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "विलीये नगमूर्धनि (किरातार्जुनीयम् 11.79) — `कषादिषु यथाविध्यनुप्रयोगः` इति यथाविध्यनुप्रयोगः।\nसमूलघातं न्यवधीदरींश्च ॥ (भट्टिकाव्यम् 1.2) — `कषादिषु यथा` इत्यादिना यथाविध्यनुप्रयोगः ।\nतुण्ड-घातमयुध्यत (भट्टिकाव्यम् 5.101) — `कपादिपु यथाविध्यनुप्रयोगः` इति वचनात् अहिंसार्थत्वाच्च तदारम्भस्य यथा पादघातं भूमिं हन्तीति।\nहस्त-वर्तमवीवृतत् (भट्टिकाव्यम् 15.37) — `कषादिषु यथाविध्यनुप्रयोगः` इति अनुप्रयोगः।"
+    }
+  ]
+}

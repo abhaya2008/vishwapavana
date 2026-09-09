@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201370,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१२१",
+    "content_sanskrit": "द्व्यचः",
+    "padaccheda": "द्व्यचः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": "अनुवृत्तिः — अपत्यम् (४.१.९२), तस्य (४.१.९२), स्त्रीभ्यः (४.१.१२०), ढक् (४.१.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201370,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "स्त्रीभ्य इत्येव। द्व्यचः स्त्रीप्रत्ययान्तादपत्ये ढक्  प्रत्ययो भवति। तन्नामिकाणोऽपवादः॥ दत्ताया अपत्यं दात्तेयः। गौपेयः। द्व्यच इति किम् ?  यामुनः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201370,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "द्व्यचः स्त्रीप्रत्ययान्तादपत्ये ढक् । तन्नामिकाणोऽपवादः । दात्तेयः । पार्थः इत्यत्र तु तस्येदम् <{SK1500}> इत्यण् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201370,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<द्व्यचः>> - द्व्यचः । ननुस्त्रीभ्यो ढ॑गित्येव सिद्धे किमर्थमिदमित्यत आह — तन्नामिकेति । दात्तेय इति । दत्ता नाम काचिन्मानुषी, तस्या अपत्यमिति विग्रहः । ननु पृथाया अपत्यं पार्थ इति कथम्, तन्नामिकाऽणं बाधित्वा 'द्व्यचः' इति ढक्प्रसङ्गादित्यत आह — पार्थ इत्यत्रेति । शिवादित्वादपत्य एवाऽणित्यन्ये ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201370,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`तन्नामिकाणोऽपवादः`इति। ये द्व्यचः स्त्रीप्रत्ययान्ता नदीमानुषीनामधेयभूतास्तेभ्यो विशेषविहितत्वात् तन्नामिकाण् भवति। ततस्तद्बाधनार्थं ढग्विधीयते॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201370,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "तन्नामिकाणोऽपवाद इति । अन्यत्र पूर्वेणैव सिद्धत्वात् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201370,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "द्व्यचज्भ्यः स्त्रीशब्देभ्योऽपत्ये ढक् स्यात् । 'अवृद्धाभ्यः–' (४-१-११३) इत्यणोपवादः । दत्ताख्यायाः पुत्रो दात्तेयः । गौप्तेयः । ऐलः पार्थश्च शिवादिः । नदीभ्यस्तु 'द्व्यचा नद्याः' इति शिवादिपाठादणेव । नीलासुतो नैलः । तौङ्गः भाद्रः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201370,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढक् comes in the sense of a descendant after a word ending in a feminine affix and consisting of two vowels.\nThus दत्ताया अपत्यं = दात्तेयः 'son of <i>Datta</i>', गौपेयः \"son of <i>Gopi</i>\". This debars the अण् of [[4.1.113]].\n\nWhy do we say 'having two vowels ?' Observe यामुनः 'son of यमुना', which is a trisyllabic word, and not dissyllabic."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201370,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढक् comes in the sense of a descendant after a word ending in a feminine affix and consisting of two vowels."
+    }
+  ]
+}

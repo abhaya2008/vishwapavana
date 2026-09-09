@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202750,
+    "chapter_id": 7770,
+    "verse_number": "६.२.८८",
+    "content_sanskrit": "मालादीनां च",
+    "padaccheda": "माला-आदीनाम् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), आदिः (६.२.६४), उदात्तः (६.२.६४), प्रस्थे (६.२.८७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202750,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "प्रस्थ इति वर्तते। प्रस्थ। उत्तरपदे मालादीनामादिरुदात्तो भवति। माला॑प्रस्थः। शाला॑प्रस्थः॥ माला। शाला। शोणा। द्राक्षा। क्षौमा। क्षामा। काञ्ची। एक। काम। मालादिः। वृद्धार्थ आरम्भः। एकशोणाशब्दयोः <<एङ्  प्राचां देशे>> [[१.१.७५]] इति वृद्धसंज्ञा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202750,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वृद्धार्थमिदम् । मालाप्रस्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202750,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "माला शाला शोणा द्राक्षा ^३ध्रक्षा क्षाम^४काण्डैक्कामा । एषां प्रस्थे परे आदिरुदात्तः स्यात् । मालाप्रस्थ इत्यादि ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202750,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The first syllable of माला etc. gets the acute accent (उदात्त) when प्रस्थ follows.\nThus मा꣡लाप्रस्थः, शा꣡लाप्रस्थः ॥ This <i>sutra</i> applies even though the first syllables are <i>Vriddhi</i> vowel. In the words एक and शोणा the letters ए and ओ are treated as <i>Vriddhi</i> [[1.1.75]].\n\n1 माला, 2 शाला, 3 शोणा (शोण), 4 द्राक्षा, 5 स्राक्षा, 6 क्षामा, 7 काञ्ची, 8 एक, 9 काम, 10 क्षौमा ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202750,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The first syllable of माला etc. gets the acute accent (उदात्त) when प्रस्थ follows."
+    }
+  ]
+}

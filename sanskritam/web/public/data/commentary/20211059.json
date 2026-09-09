@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211059,
+    "chapter_id": 7781,
+    "verse_number": "१०६०",
+    "content_sanskrit": "खै",
+    "padaccheda": "खै",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "खदने",
+    "meaning_english": "to dig, to irritate, to cause pain, to be steady",
+    "audio_url": null,
+    "display_order": 1060,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211059,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "खदनं स्थैर्यं हिंसा च । ' खे खादने ' इति काशकृत्स्ने धातुपाठे पठ्यते । ' भक्षणार्थत्वं च इति तट्टीकायाम् ' इति क्षीरतरङ्गिणीटीका । ' खनने ' इति शङ्कराचार्याः इति धा. का. व्याख्या ।"
+    }
+  ]
+}

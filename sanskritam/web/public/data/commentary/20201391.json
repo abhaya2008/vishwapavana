@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201391,
+    "chapter_id": 7761,
+    "verse_number": "४.१.१४२",
+    "content_sanskrit": "दुष्कुलाड्ढक्",
+    "padaccheda": "दुष्कुलात् । ढक्",
+    "anvaya": "'तस्य अपत्यम्' (इति)  दुष्कुलात् अन्यतरस्याम् ढक्",
+    "meaning_sanskrit": "'तस्य अपत्यम्' अस्मिन् अर्थे 'दुष्कुल'शब्दात् विकल्पेन 'ढक्' प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 142,
+    "avatarnika": "अनुवृत्तिः — अपत्यम् (४.१.९२), तस्य (४.१.९२), अ-पूर्वपदात् (४.१.१४०), अन्यतरस्याम् (४.१.१४०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201391,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "दुष्कुलशब्दादपत्ये ढक् प्रत्ययो भवति। अन्यतरस्यामित्यनुवृत्तेः खश्च। दौष्कुलेयः। दुष्कुलीनः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201391,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पूर्ववत्पक्षे खः । दौष्कुलेयः - दुष्कुलीनः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201391,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<दुष्कुलाड्ढक्>> - दुष्कुलाड्ढक् । पूर्ववदिति । अन्यतरस्याङ्रग्रहणानुवृत्तेरिति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201391,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वा स्यात् । दौष्कुलेयः । दुष्कुलीनः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201391,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढक् comes optionally in the sense of descendant after the word दुष्कुल।\nThus दौष्कुलेयः ॥ By the force of the word 'optionally' we get ख also. Thus दुष्कुलीनः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201391,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ढक् comes optionally in the sense of descendant after the word दुष्कुल।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201391,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "केनाऽपि दौष्कुलेयेन (भट्टिकाव्यम् 7.88) — `दुष्कुलाड्ढक्` इति दुष्कुलस्यापत्यमिति ढक्।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211147,
+    "chapter_id": 7781,
+    "verse_number": "११४८",
+    "content_sanskrit": "कित्",
+    "padaccheda": "कितँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "निवासे रोगापनयने व्याधिप्रतीकारे निग्रहे अपनयने नाशने संशये च",
+    "meaning_english": "to stay, to cure, to carry out medical examination, to fight disease",
+    "audio_url": null,
+    "display_order": 1148,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211147,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अर्थनिर्देशस्य उपलक्षणत्वात् अर्थान्तरेषु वृत्तिः । ' कितेर्व्याधिप्रतीकारे निग्रहे अपनयने नाशने संशये च ' इति निबद्धेष्वर्थेषु ' गुप्तिज्किद्भ्यः सन् ' इति सन् विहितः ' इति तत्वबोधिनीटीका । ' निवासे तु केतयति ( चुरादौ उक्तः)' इति सि.कौमुदी । आभरणकारः अस्य आत्मनेपदं मनुते । मा.धा.वृत्तौ तत् खण्डितम् ।"
+    }
+  ]
+}

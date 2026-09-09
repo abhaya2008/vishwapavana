@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213197,
+    "chapter_id": 7795,
+    "verse_number": "२३७",
+    "content_sanskrit": "विदिभुजिभ्यां विश्वे",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 237,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213197,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "विश्ववेदाः । विश्वभोजाः ।"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200906,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१३८",
+    "content_sanskrit": "भुवश्च",
+    "padaccheda": "भुवः । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 138,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), इष्णुच् (३.२.१३६), छन्दसि (३.२.१३७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200906,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भवतेर्धातोश्छन्दसि विषये तच्छीलादिष्विष्णुच् प्रत्ययो भवति। भवि॒ष्णुः॑(मै०सं० १.८.१)। योगविभाग उत्तरार्थः। चकारोऽनुक्तसमुच्चयार्थः। भ्राजिष्णुना लोहितचन्दनेन॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200906,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "छन्दसीत्येव । भविष्णुः । कथं तर्हि जगत्प्रभोरप्रभविष्णुः वैष्णवमिति । निरङ्कुशाः कवयः । चकारोऽनुक्तसमुच्चयार्थः । भ्राजिष्णुरिति वृत्तिः । एवं क्षयिष्णुः । नैतद्भाष्ये दृष्टम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200906,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भुवश्च>> - भुवश्च । छन्दसीत्येवेति । भूधातोरिष्णुच् स्यात्तच्छीलादिषु छन्दसीत्यर्थ- । अण्यन्तार्थ आरम्भः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200906,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<भुवश्च>> - नैतदिति । चकारस्याऽनुक्तसमुच्चयार्थत्वमित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200906,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`योगविभाग उत्तरार्थः` इति। उत्तरसूत्रे भवतरेवानुवर्तनं यथा स्यात्; अन्यथा यदि `णिभूभ्याञ्च` इत्येको योगः क्रियते तदा णिग्रहणमप्यनुकृष्येत। `भाजिष्णुना` इत्याद। लौकिकप्रयोगः। तस्योपन्यासो भाषायामपि `भ्राजृ दीप्तौ` (धातुपाठः-181) इत्येतस्मादिष्णुच्प्रदर्शनार्थः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200906,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "भुवश्च॥ च्छन्दसीत्युच्यते, तत्कथम् -'जगत्प्रभोरप्रभविष्णु वैष्णवम्' 'विष्णवे प्रभविष्णवे'  इति? निरंकुशाः कवयः। भ्राजिष्णुनेति। नैतद्भाष्ये समाश्रितम्॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200906,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इष्णुच् in the sense of 'the agent having such a habit etc.' comes in the छन्दस् (Vedas) after the verb भू 'to be' etc.\nThus भविष्णुः 'becoming'.\n\nThe <i>yoga</i>-<i>vibhaga</i> or the division of this <i>sutra</i> from the last, with which it could well have been read, is for the sake of the subsequent <i>sutras</i>.\n\nThe word 'also' indicates the existence of other verbs not included in the above two <i>sutras</i>; as, भ्राजिष्णुना लोहितचन्दनेन ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200906,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इष्णुच् in the sense of 'the agent having such a habit etc.' comes in the छन्दस् (Vedas) after the verb भू 'to be' etc."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200906,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "भ्राजिष्णुना सातिशयं विरेजुः (रघुवंशम् 16.69) — `भुवश्च` इति चकारादिष्णुच्।\nकिङ्कराः प्रभविष्णुषु (कुमारसम्भवम् 6.62) — `भुवश्च` इतीष्णुच्प्रत्ययः।"
+    }
+  ]
+}

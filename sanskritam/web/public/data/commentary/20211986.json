@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211986,
+    "chapter_id": 7790,
+    "verse_number": "२३७",
+    "content_sanskrit": "चर्च्",
+    "padaccheda": "चर्चँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अध्ययने",
+    "meaning_english": "to learn, to study",
+    "audio_url": null,
+    "display_order": 237,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211986,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अध्ययने चर्चयेत् चर्चतीति तु । हिंसायां तर्जने शे तु तथैव परिभाषणे ' (श्लो. 54) इति देवः ।"
+    }
+  ]
+}

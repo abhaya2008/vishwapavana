@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211755,
+    "chapter_id": 7790,
+    "verse_number": "६",
+    "content_sanskrit": "लक्ष्",
+    "padaccheda": "लक्षँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "दर्शनाङ्कनयोः",
+    "meaning_english": "to observe,to see,to look, to mark, to point, to deliberate",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211755,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "उप — एक अर्थ के कहने से दूसरे अर्थ का बोध करना\nसम् — अच्छी तरह जानना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211755,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अङ्कनम् = चिन्हम् ' इति क्षीरस्वामी । ' आलोचनार्थाण्णिचि लक्षयेत, स्याल्लक्षयेल्लक्षयतेङ्कनार्थात् ' (श्लो. 182) इति देवः ।"
+    }
+  ]
+}

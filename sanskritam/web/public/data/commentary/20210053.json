@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210053,
+    "chapter_id": 7781,
+    "verse_number": "५४",
+    "content_sanskrit": "गद्",
+    "padaccheda": "गदँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "व्यक्तायां वाचि",
+    "meaning_english": "to speak, to tell, to explain, to talk",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210053,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — निर्देश करना, भाषण करना, घोषणा करना, बुलाना, बताना, सूचना करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210053,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "णौ देवशब्दे गदयेत् व्यक्तवाचि गदेच्छपि' (श्लो. 110) इति देवः ।"
+    }
+  ]
+}

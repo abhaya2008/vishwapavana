@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203870,
+    "chapter_id": 7779,
+    "verse_number": "८.३.७५",
+    "content_sanskrit": "परिस्कन्दः प्राच्यभरतेषु",
+    "padaccheda": "परिस्कन्दः । प्राच्यभरतेषु",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": "अनुवृत्तिः — सः (८.३.५६), उपसर्गात् (८.३.६५), वा (८.३.७१), स्कन्देः (८.३.७३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203870,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "परिस्कन्द इति मूर्धन्याभावो निपात्यते प्राच्यभरतेषु प्रयोगविषयेषु। पूर्वेण मूर्धन्ये प्राप्ते तदभावो निपात्यते। परिस्कन्दः। अन्यत्र परिष्कन्दः। अचि निपातनम्। अथवा निष्ठातकारस्य लोपः। भरतग्रहणं प्राच्यविशेषणम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203870,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पूर्वेण मूर्धन्ये प्राप्ते तदभावो निपात्यते । परिस्कन्दः । प्राच्येति किम् । परिष्कन्दः । परिस्कन्दः ।परेश्च <{SK2399}> इति विकल्पः । स्तम्भेः <{SK2272}> इति षत्वे प्राप्ते ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203870,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<परिस्कन्दः प्राच्यभरतेषु>> - परिस्कन्दः प्राच्यभरतेषु ।अपदान्तस्य मूर्धन्यः॑ इत्यधिकारे इदं सूत्रम् । पूर्वेणेति ।परेश्चे॑ति पूर्वसूत्रम् । परेः परस्य स्कन्देः सस्य षो वा स्यादिति तदर्थः । तेन षत्वविकल्पे प्राप्त प्राच्यभरतेषु षत्वाऽभावो निपात्यत इत्यर्थः । परिस्कन्द इति । परिपूर्वात् स्कन्देर्निष्ठायास्तकारलोपः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203870,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<परिस्कन्दः प्राच्यभरतेषु>> - परिस्कन्दः । अचि निपातनम् । अथ वा निष्टातकारस्य लोप इति काशिका ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203870,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "पूर्वेण षत्वविकल्पे प्राप्ते तदभावो विधीयते। `परिष्कन्दः` इति। पचाद्यच्। `बह्वच इञः प्राच्यभरतेषु`  [[2.4.66]]  इत्यत्र प्राचांग्रहणेन भरतानां ग्रहणं न भवतीति ज्ञापितमेतत्। अतः प्राच्यत्वेऽपि भरतानां पृथग्ग्रहणम्॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203870,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>परिष्कन्दः परिस्कन्द इति देवालयाभिधा । स परिस्कन्द इत्येव प्राच्येषु भरतेषु च ॥ ४४३ ॥</karika> आक्रम्यत इति परिस्कन्दो भृत्य इत्यन्ये । परिस्कन्दः परिभूत इति शङ्करः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203870,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word परिस्कन्द is used without the cerebral change in the country of Eastern Bharata.\nThis is an anomaly. The ष required by the last <i>sutra</i> is prohibited. The other form is परिष्कन्दः ॥ The word परिस्कन्द is formed by the affix अच् or it is a <i>Nishtha</i>, the त being elided. The word भरत qualifies the word प्राच्य ॥\n\nProf. Bohtlingk translates it \"परिस्कन्द is seen in the usage of the Eastern People and the <i>Bharata</i>\". He bases his construction on the <i>sutras</i> [[2.4.66]], and [[4.2.113]], where प्राच्यभरतेषु means \"the Eastern People and <i>Bharata</i>\"."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203870,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word परिस्कन्द is used without the cerebral change in the country of Eastern Bharata."
+    }
+  ]
+}

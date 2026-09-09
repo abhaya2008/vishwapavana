@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202997,
+    "chapter_id": 7771,
+    "verse_number": "६.३.१३६",
+    "content_sanskrit": "निपातस्य च",
+    "padaccheda": "निपातस्य । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 136,
+    "avatarnika": "अनुवृत्तिः — दीर्घः (६.३.१११), ऋचि (६.३.१३३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202997,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ऋचीत्येव। निपातस्य च ऋग्विषये दीर्घ आदेशो भवति। ए॒वा ते॑ (ऋ० १०.२०.१०)। अच्छा॑ (ऋ० १.२.२)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202997,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एवा हि ते (ए॒वा हि ते॒) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202997,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "एवशब्दश्चादिषु पाठान्निपातः, अच्छ गत्यर्थवदेषु इत्यच्छशब्दः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202997,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "मन्त्रे दीर्घः । एवा हि । अच्छा नः । अथा राजानम् । 'अन्येषापि दृश्यते' (६-३-१३७) इति दीर्घे जलाषाट् । अत्र 'छन्दसि सहः' (३-२-६३) इति ण्विः । 'सहेः साडः सः' (८-३-५६) इति षः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202997,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the ऋग्वेद the final of a particle is lengthened.\nThus एवा ते, अच्छाते, अच्छा जरितारः (<i>Rig</i>. I.2.2)."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202997,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the ऋग्वेद the final of a particle is lengthened."
+    }
+  ]
+}

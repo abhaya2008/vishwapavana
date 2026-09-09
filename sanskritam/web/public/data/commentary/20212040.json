@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212040,
+    "chapter_id": 7790,
+    "verse_number": "२९१",
+    "content_sanskrit": "लङ्घ्",
+    "padaccheda": "लघिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk",
+    "audio_url": null,
+    "display_order": 291,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212040,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अयं धातुः भासार्थकः सकर्मकः इति पारायणम् ' इति क्षीरस्वामी । ' भाषणे लङ्घयेत् शोषे लङ्घेत् गत्यां तु लङ्घते ' इति देवः । (श्लो. 45)"
+    }
+  ]
+}

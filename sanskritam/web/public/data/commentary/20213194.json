@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213194,
+    "chapter_id": 7795,
+    "verse_number": "२३४",
+    "content_sanskrit": "दमेरुनसिः",
+    "padaccheda": "",
+    "anvaya": "उनसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 234,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213194,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सप्तार्चिर्दमुनाः ।"
+    }
+  ]
+}

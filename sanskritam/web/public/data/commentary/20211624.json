@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211624,
+    "chapter_id": 7786,
+    "verse_number": "१५५",
+    "content_sanskrit": "रुश्",
+    "padaccheda": "रुशँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 155,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211624,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तालव्यान्तः ।"
+    }
+  ]
+}

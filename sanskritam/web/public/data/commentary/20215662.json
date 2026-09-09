@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20215662,
+    "chapter_id": 7807,
+    "verse_number": "५५",
+    "content_sanskrit": "अथ सिद्धशब्दस्य कः पदार्थः?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": "शास्त्रस्य धर्मजनकताधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215662,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "सिद्धशब्दस्य नित्यानित्ययोर्दर्शनात्पृच्छति -  <x>अथेति</x> ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20215662,
+      "commentary_type": "उद्द्योतः",
+      "author": "नागेशभट्टः",
+      "content": "भाष्ये - <y>सिद्धशब्दस्य कः पदार्थ इति</y> । अत्र पदार्थशब्दो रूढः । सिद्धशब्दसंबन्धी कः पदार्थः - इत्यर्थः ॥"
+    }
+  ]
+}

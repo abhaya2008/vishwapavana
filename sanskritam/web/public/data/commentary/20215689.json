@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215689,
+    "chapter_id": 7807,
+    "verse_number": "८२",
+    "content_sanskrit": "<v>॥ * ॥ सर्वे देशान्तरे ॥ * ॥</v> सर्वे खल्वप्येते शब्दा देशान्तरेषु प्रयुज्यन्ते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": "शब्दविषयप्रदर्शनाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215689,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "<x>सर्व इति</x> । इदमत्र तात्पर्यम् - यस्य कस्यचिद्वचनात्प्रयोगाप्रयोगौ न व्यवतिष्ठेते, अपि तु शिष्टानामेव वचनात् ॥"
+    }
+  ]
+}

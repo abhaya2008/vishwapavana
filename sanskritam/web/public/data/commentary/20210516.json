@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210516,
+    "chapter_id": 7781,
+    "verse_number": "५१७",
+    "content_sanskrit": "कण्",
+    "padaccheda": "कणँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 517,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210516,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कणेः कणति शब्दार्थे, काणयेण्णौ निमीलने ' (श्लो. 90) इति देवः ।"
+    }
+  ]
+}

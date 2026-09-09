@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213009,
+    "chapter_id": 7795,
+    "verse_number": "४९",
+    "content_sanskrit": "सृवृषिभ्यां कित्",
+    "padaccheda": "",
+    "anvaya": "नि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213009,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सृणिरङ्कुशः । वृष्णिः क्षत्रियमेषयोः ।"
+    }
+  ]
+}

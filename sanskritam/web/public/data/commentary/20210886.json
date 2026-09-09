@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210886,
+    "chapter_id": 7781,
+    "verse_number": "८८७",
+    "content_sanskrit": "हेड्",
+    "padaccheda": "हेडँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "वेष्टने",
+    "meaning_english": "to wrap, to cover, to surround,to clothe",
+    "audio_url": null,
+    "display_order": 887,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210886,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' हेडृ अनादरे इति आत्मनेपदिषु गतः । सः एव उत्सृष्टानुबन्धः अनूद्यते अर्थविशेषे मित्त्वार्थम् । परस्मैपदिभ्यो ज्वरादिभ्यः प्रागेव अनुवादे कर्तव्ये तन्मध्ये अनुवादसामर्थ्यात् परस्मैपदम् ' इति सिद्धान्तकौमुदी । ' हेडतेनादरे हेडर्वेष्टने हिडयेन्मितः ' ( श्लो. 85 ) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212596,
+    "chapter_id": 7792,
+    "verse_number": "७६",
+    "content_sanskrit": "अगारे णिच्च",
+    "padaccheda": "",
+    "anvaya": "तुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212596,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वेश्मभूर्वास्तुरस्त्रियाम् ।"
+    }
+  ]
+}

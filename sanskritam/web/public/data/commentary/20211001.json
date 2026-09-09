@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211001,
+    "chapter_id": 7781,
+    "verse_number": "१००२",
+    "content_sanskrit": "रेट्",
+    "padaccheda": "रेटृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "परिभाषणे",
+    "meaning_english": "to speak,to ask,to request",
+    "audio_url": null,
+    "display_order": 1002,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211001,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " याचने च इति द्रुमे ' इति धा.का. व्याख्यायाम् (2 - 25) ।"
+    }
+  ]
+}

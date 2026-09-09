@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213193,
+    "chapter_id": 7795,
+    "verse_number": "२३३",
+    "content_sanskrit": "उषः कित्",
+    "padaccheda": "",
+    "anvaya": "असि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 233,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213193,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उषः ।"
+    }
+  ]
+}

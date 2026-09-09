@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213150,
+    "chapter_id": 7795,
+    "verse_number": "१९०",
+    "content_sanskrit": "अशेर्देवने युट् च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 190,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213150,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "देवने स्तुतौ । यशः ।"
+    }
+  ]
+}

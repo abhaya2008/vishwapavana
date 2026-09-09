@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212879,
+    "chapter_id": 7794,
+    "verse_number": "७९",
+    "content_sanskrit": "वृतेर्वृद्धिश्च",
+    "padaccheda": "",
+    "anvaya": "काकु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212879,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वार्ताकुः । बाहुलकादुकारस्य अत्वम् । वार्ताकम् ।"
+    }
+  ]
+}

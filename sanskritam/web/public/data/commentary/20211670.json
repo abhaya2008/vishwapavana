@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211670,
+    "chapter_id": 7788,
+    "verse_number": "२",
+    "content_sanskrit": "सन्",
+    "padaccheda": "षणुँ",
+    "anvaya": "U-पदी, गणः 8",
+    "meaning_sanskrit": "दाने",
+    "meaning_english": "to give, to donate",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211670,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " णोपदेशोयम् । ' नान्तोयम् । षकारस्तु लाक्षणिकः । तेन यङ्लुकि संसन्ति संसन्तः इत्यादौ अनुस्वार - परसवर्णौ ' इति तत्त्वबोधिनी । ' दाने सनोति सनुते सम्भक्तौ तु सनेदिति ' (श्लो. 128) इति देवः ।"
+    }
+  ]
+}

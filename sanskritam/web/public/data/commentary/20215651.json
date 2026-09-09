@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215651,
+    "chapter_id": 7807,
+    "verse_number": "४४",
+    "content_sanskrit": "किं पुनरत्र ज्यायः?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "शास्त्रनिर्माणरीतिनिरूपणाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215651,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "<x>किं पुनरिति ।</x> उभयोपदेशाद्गुरोर्द्वावपि प्रशस्यौ, तयोः को ज्यायानित्यर्थः ॥"
+    }
+  ]
+}

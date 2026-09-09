@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210707,
+    "chapter_id": 7781,
+    "verse_number": "७०८",
+    "content_sanskrit": "हेष्",
+    "padaccheda": "हेषृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे",
+    "meaning_english": "to snicker, to sound inarticulately",
+    "audio_url": null,
+    "display_order": 708,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210707,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "स्वभावादयम् अश्वशब्दे वर्तते । ' अव्यक्ते शब्दे ' इति धातुपाठे बहुत्र पठितम् । लोकप्रयोगानुसारेण तेषां प्रतिनियतविषयत्वं बोध्यम् । तथाहि - \" कौक्षे कर्दति, पर्दते गुदरवे, रेषेति वार्के भवेत् । बुक्कोपि श्वरवे भषेति हयजे ह्रेषेति हेषेति च ' इति केशवस्वामी \" इति माधवीये प्रतिपादितम् ।"
+    }
+  ]
+}

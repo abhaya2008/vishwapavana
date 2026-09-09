@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211822,
+    "chapter_id": 7790,
+    "verse_number": "७३",
+    "content_sanskrit": "वण्ट्",
+    "padaccheda": "वटिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "विभाजने",
+    "meaning_english": "to divide, to separate, to isolate, to partition",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211822,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' वडि ' इति केचित् । ' वण्टयेद्वणृतीत्येते णिशपोः स्तां विभाजने ' (श्लो. 77) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20200606,
+    "chapter_id": 7756,
+    "verse_number": "२.४.७३",
+    "content_sanskrit": "बहुलं छन्दसि",
+    "padaccheda": "बहुलम् । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": "अनुवृत्तिः — लुक् (२.४.५८), अदि-प्रभृतिभ्यः (२.४.७२), शपः (२.४.७२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200606,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसि विषये शपो बहुलं लुग् भवति। अदिप्रभृतिभ्य उक्तस्ततो न भवत्यपि। वृ॒त्रं ह॑॑॑नति (ऋ० ८.८९.३)। अहि॑॑ः॑ शयते (ऋ०१.३२.५)। अन्येभ्यश्च भवति — त्राध्वं॑ नो देवाः(ऋ०२.२९.६)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200606,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वृत्रं हनति वृत्रहा । अहिः शयत उप पृक्पृथिव्याः (अहिः॑ शयत उप॒ पृक्पृ॑थि॒व्याः) । अत्र लुङ्ग । अदादिभिन्नेऽपि क्वचिल्लुक् । त्राध्वं नो देवाः (त्राध्वं॑ नो दे॒वाः) । जुहोत्यादिभ्यः श्लुः <{SK2489}> ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200606,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`त्राध्वम्` इति। `त्रैङ पालनै` (धातुपाठः-965) भौवादिकः, लोट, ध्ममादेशः, टेरेत्त्वम्, `सवाभ्यावामौ`  [[3.4.91]]  इत्यमादेशः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200606,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "<karika>'अदिप्रभृतिभ्यः—' (२-४-७२) इत्युक्तः शपो लुग् बहुलं स्यात् । लोकेऽप्ययमशादेशोऽस्त्यन्वादेशे तथापि तु । स्वरमात्रे भिदेत्येतत्सूत्रं छान्दस ईरितम् ॥ ८७१ ॥</karika> वृत्रं हनति वृत्रहेत्यत्र नत्राध्वं नो देवा इति भूवादेरपि स्यात् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200606,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) there is diversely the लुक् elision of the विकरण शप् -- कर्तरि शप् [[3.1.68]].\nThere is elision in other conjugations than <i>Adadi</i>; and there is sometimes even no elision in <i>Adadi</i> verbs. As वृत्रं हनति 'he kills <i>Vritra</i>.' हन् + शप् + ति = हनति instead of हन्ति । So also, अहिः शयते instead of शेते. (<i>Rig</i>.V. I.32.5). In these cases the <i>Vikarana</i> शप् has not been elided.\n\nIn some cases the शप् is elided as त्राध्वम् नो देवाः instead of त्रायध्वम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200606,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) there is diversely the लुक् elision of the विकरण शप् -- कर्तरि शप् [[3.1.68]]."
+    }
+  ]
+}

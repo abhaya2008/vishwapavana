@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210569,
+    "chapter_id": 7781,
+    "verse_number": "५७०",
+    "content_sanskrit": "कल्",
+    "padaccheda": "कलँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दसङ्ख्यानयोः",
+    "meaning_english": "to sound, to count",
+    "audio_url": null,
+    "display_order": 570,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210569,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कलेः कालयति क्षेपे गतिसङ्ख्या नयोर्द्वयोः । कलयेत्, शब्दसङ्ख्यान - विषये कलते शपि ' (श्लो. 155) इति देवः ।"
+    }
+  ]
+}

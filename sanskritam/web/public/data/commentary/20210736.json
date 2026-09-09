@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210736,
+    "chapter_id": 7781,
+    "verse_number": "७३७",
+    "content_sanskrit": "गृह्",
+    "padaccheda": "गृहूँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "ग्रहणे",
+    "meaning_english": "to take,to seize, to accept",
+    "audio_url": null,
+    "display_order": 737,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210736,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ग्लहू ' इति क्षीरस्वामी । ' ण्यन्तस्य ग्रहणे गृहेर्गृहयते, तत्रानदन्ताद् गृहेः, भूवादेः शपि गर्हते श्नि तु परे गृह्णत्यगृह्णीत च । गर्हेर्वा णिचि निन्दनार्थविषये गर्हेत् , तथा गर्हयेद् , भूवादेः शपि कृत्स्ननार्थविषये गर्हेर्भवेद् गर्हते ' ( श्लो. 194) इति देवः ।"
+    }
+  ]
+}

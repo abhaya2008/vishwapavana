@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210405,
+    "chapter_id": 7781,
+    "verse_number": "४०६",
+    "content_sanskrit": "तुड्",
+    "padaccheda": "तुडृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "तोडने",
+    "meaning_english": "to split, to tear, to cut, to break, to hurt, to injure, to kill",
+    "audio_url": null,
+    "display_order": 406,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210405,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तूडृ इत्येके ' इति कौमुदी । ' तूडृ ' इति स्वामिशाकटायनादयः । तोडनम् = दारणम् हिंसनं च । ' तोडनार्थे  तुडेस्तुण्डेः तुडेत् तोडति तुण्डते ' (श्लो. 88 ) इति देवः ।"
+    }
+  ]
+}

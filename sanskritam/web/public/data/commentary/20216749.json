@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216749,
+    "chapter_id": 7843,
+    "verse_number": "१२४",
+    "content_sanskrit": "सादिरनन्तः प्रध्वंशः । उत्पत्त्यनन्तरं कार्यस्य ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": "प्रध्वंसाभावः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216749,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "ध्वंसं लक्षयति सादिरिति । घटादिवारणाय अनन्त इति । आत्मादिवारणाय सादिरिति । उत्पत्तीति । कार्यस्य उत्पत्त्यनन्तरं स्वप्रतियोगिसमवायिकारणवृत्तिः इत्यर्थः । स च ध्वस्तः इति प्रत्ययविषयः ।"
+    }
+  ]
+}

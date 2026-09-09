@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212971,
+    "chapter_id": 7795,
+    "verse_number": "११",
+    "content_sanskrit": "मन्थः",
+    "padaccheda": "",
+    "anvaya": "इनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212971,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मन्थतेरिनिः कित्स्यात् । कित्त्वान्नकारलोपः । मन्थाः मन्थानौ मन्थानः ।"
+    }
+  ]
+}

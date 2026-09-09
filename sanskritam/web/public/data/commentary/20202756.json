@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202756,
+    "chapter_id": 7770,
+    "verse_number": "६.२.९४",
+    "content_sanskrit": "संज्ञायां गिरिनिकाययोः",
+    "padaccheda": "संज्ञायाम् । गिरि-निकाययोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), अन्तः (६.२.९२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202756,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "संज्ञायां विषये गिरि निकाय इत्येतयोरुत्तरपदयोः पूर्वपदमन्तोदात्तं भवति। अ॒ञ्ज॒नागि॑रिः। भ॒ञ्ज॒नागि॑रिः। निकाये — शा॒पि॒ण्डिनि॑कायः। मा॒ैण्डिनि॑कायः। चि॒खि॒ल्लिनि॑कायः। संज्ञायामिति किम्? प॒र॒म॒गि॒रिः। ब्रा॒ह्म॒ण॒नि॒का॒यः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202756,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एतयोः परतः पूर्वमन्तोतरत्तम् । अञ्जनागिरिः । मौण्डिनिकायः । संज्ञायां किम् । परमगिरिः । ब्राह्मणनिकायः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202756,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अञ्जनागिरिः` इत्येवमादयः षष्ठीसमासाः। अञ्जनभञ्जनशब्दयोः `वनगिर्योः संज्ञायाम्`  [[6.3.116]]  इति दीर्घत्वम्। `शापिण्डिमौण्डिशब्दौ` इञन्तौ। `चिखिल्लिशब्दः` मत्वर्थीयेनिप्रत्ययान्तः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202756,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अञ्जनागिरिरिति । वनगिर्योः संज्ञायाम् इति दिर्घत्वम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202756,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "नाम्न्यनयोः परयोः प्राक्पदस्यान्त उदात्तः स्यात् । अञ्जनगिरिः । पाणिनि- निकायः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202756,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The last syllable of the first member before गिरि and निकाय has the acute accent (उदात्त) when the compound is a Name.\nThus अञ्जना꣡गिरिः, भञ्जना꣡गिरिः, The finals of <i>anjana</i> and <i>bhanjana</i> are lengthened by [[6.3.117]]. शापिण्ड꣡निकायः, मौण्डि꣡निकायः, चिखिल्लि꣡निकायः ॥ Why do we say 'when it is a Name'? Observe परमगिरिः꣡, ब्राह्मणनिकायः꣡ ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202756,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The last syllable of the first member before गिरि and निकाय has the acute accent (उदात्त) when the compound is a Name."
+    }
+  ]
+}

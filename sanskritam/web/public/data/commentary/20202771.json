@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202771,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१०९",
+    "content_sanskrit": "नदी बन्धुनि",
+    "padaccheda": "नदी । बन्धुनि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), अन्तः (६.२.९२), बहुव्रीहौ (६.२.१०६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202771,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "बहुब्रीहौ समासे बन्धुन्युत्तरपदे नद्यन्तं पूर्वपदमन्तोदात्तं भवति। गा॒र्गीब॑न्धुः। वा॒त्सीब॑न्धुः। नदीति किम्? ब्रह्म॑बन्धुः। ब्रह्मशब्द आद्युदात्तः। बन्धुनीति किम्? गार्गी॑प्रियः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202771,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "बन्धुशब्दे परे नद्यन्तं पूर्वमन्तोदात्तं बहुव्रीहौ । गार्गीबन्धुः । नदी किम् । ब्रह्मबन्धुः । ब्रह्मशब्द आद्युदात्तः । बन्धुनि किम् । गार्गीप्रियः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202771,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`बन्धुनि` इति। शब्दरूपापेक्षया नपुंसकलिङ्गनिर्देशः, अन्यथा बन्धुशब्दस्य पुंल्लिङ्गत्वात्? `बन्धौ` इति निर्देशं कुर्यात्। `गार्गीबन्धुः, वात्सीबन्धुः` इति। गर्गवत्सशब्दाभ्यां गर्गादित्वात्?  [[4.1.105]]  यञ्? तदन्तात्? `यञश्च`  [[4.1.16]]  इति ङीप्। गार्गीवात्सीशब्दौ ञित्स्वरेणाद्युदात्तौ। `ब्राहृबन्धुः` इति। अत्र प्रकृतिभाव एव भवति पूर्वपदस्य। ब्राहृशब्दश्चायं `मनिन्` (द।उ।6।73) इत्यनुवर्तमाने `बृहेर्नोऽच्च` (द।उ।6।74) इति भनिन्प्रत्ययान्तो व्युत्पाद्यते, तेनाद्युदात्तः। `गार्गीप्रियः` इति। गार्गीशब्दोऽपि प्रकृतिभावेनाद्युदात्त एव भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202771,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "बन्धुनि इति शब्दरुपापेक्षया नपुंसकनिर्देशः, गर्गवत्स शब्दाभ्यां गर्गादियञन्तभ्याम् यञश्चेति ङीप् , गार्गीवात्सीशब्दौ ञित्स्वरेणाद्यौदातौ । ब्रह्मशब्दो बृहेर्मनिन्प्रत्यये निपातितः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202771,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a बहुव्रीहि समास having the word बन्धु as its second member, the first member ending in the feminine affix ई (नदी word) has the ac on its final syllable.\nThus गार्गी꣡बन्धुः, वात्सी꣡बन्धुः ॥ The words गा꣡र्गी and वा꣡त्सी are formed by adding ङीष् [[4.1.16]] to गार्ग्य and वात्स्य ending in यञ् [[4.1.105]], and therefore, they are first acute. By [[6.2.1]] this accent would have been retained, but for the present <i>sutra</i>. Why do we say \"a <i>Nadi</i> (Feminine in ई) word\"? Observe ब्र꣡ह्मबन्धुः, the word ब्रह्म has acute on the first syllable as it is formed by मनिन् (<i>Unadi</i> IV. 146) and it retains that accent [[6.2.1]]. Why do we say \"before बन्धु\"? Observe गा꣡र्गीप्रियः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202771,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a बहुव्रीहि समास having the word बन्धु as its second member, the first member ending in the feminine affix ई (नदी word) has the ac on its final syllable."
+    }
+  ]
+}

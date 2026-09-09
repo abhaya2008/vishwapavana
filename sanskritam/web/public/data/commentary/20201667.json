@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201667,
+    "chapter_id": 7763,
+    "verse_number": "४.३.९५",
+    "content_sanskrit": "भक्तिः",
+    "padaccheda": "भक्तिः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": "अनुवृत्तिः — सः (४.३.८९), अस्य (४.३.८९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201667,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "समर्थविभक्तिः प्रत्ययार्थश्चानुवर्तते। अभिजन इति निवृत्तम्। स इति प्रथमासमर्थादस्येति षष्ठ्यर्थे यथाविहितं प्रत्ययो भवति, यत् प्रथमासमर्थं भक्तिश्चेत् तद् भवति। भज्यते सेव्यत इति भक्तिः। स्रुघ्नो भक्तिरस्य स्रौघ्नः। माथुरः। राष्ट्रियः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201667,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सोऽस्येत्यनुवर्तते । भज्यते सेव्यते इति भक्तिः । स्रुघ्नो भक्तिरस्य स्रौघ्नः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201667,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<भक्तिः>> - भक्तिः । अनुवर्तते इति । सोऽस्य भक्तिरित्यर्थे प्रथमान्तात्प्रत्ययाः स्युरित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201667,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`भज्यते सेव्यत इति भक्तिः` इति। `भज सेवायाम्` (धातुपाठः-998) इत्येतस्मात् कर्मसाधनः क्तिन्॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201667,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कर्मणि क्तिन् । सोऽस्य सेव्य इत्यर्थेऽणादिः । विष्णुर्भक्तिरस्य, वैष्णवः । पाशुपतः । स्त्रैणः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201667,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "An affix -- प्राग्दीव्यतोऽण् [[4.1.83]], comes after a word in the Nominative 1st-Case in construction in the sense of 'this is his object of veneration or love'.\nThe word भक्ति in the <i>sutra</i> means 'serving', 'worshipping' or 'loving'.\n\nThus स्रुघ्नो भक्तिरस्य = स्रौघ्नः 'a person who is loyal to <i>Srughna</i>'. So also माथुरः, राष्ट्रियः &c.\n\nThe <i>anuvritti</i> of the word अभिजनः ceases. The word सः and अस्य should be read into the <i>sutra</i>."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201667,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "An affix -- प्राग्दीव्यतोऽण् [[4.1.83]], comes after a word in the Nominative 1st-Case in construction in the sense of 'this is his object of veneration or love'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201667,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "सौगतानामिवात्मान्यो (शिशुपालवधम् 2.28) — `भक्तिः` इत्यण्प्रत्ययः।"
+    }
+  ]
+}

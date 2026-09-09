@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216696,
+    "chapter_id": 7843,
+    "verse_number": "७१",
+    "content_sanskrit": "निश्चितसाध्यवान् सपक्षः । यथा-तत्रैव महानसम् ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": "सपक्षः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216696,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "निश्चितेति । पक्षेऽतिव्याप्तिवारणाय निश्चितेति । तत्रेवेति । धूमवत्त्वे हेतौ एवेत्यर्थः ।"
+    }
+  ]
+}

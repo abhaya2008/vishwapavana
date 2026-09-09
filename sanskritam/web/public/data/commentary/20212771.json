@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212771,
+    "chapter_id": 7793,
+    "verse_number": "९४",
+    "content_sanskrit": "बहुलमन्यत्रापि",
+    "padaccheda": "",
+    "anvaya": "तृन्, तृच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212771,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मन् । मन्ता । हन् । हन्ता । इत्यादि ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211371,
+    "chapter_id": 7784,
+    "verse_number": "१०३",
+    "content_sanskrit": "क्षम्",
+    "padaccheda": "क्षमूँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "सहने",
+    "meaning_english": "to endure, to suffer, to tolerate, to forgive",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211371,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अषितः क्षाम्यतेः क्षान्तिः क्षमूषः क्षमते क्षमा ' (श्लो. 146) इति देवः ।"
+    }
+  ]
+}

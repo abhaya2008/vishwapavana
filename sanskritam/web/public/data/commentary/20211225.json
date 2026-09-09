@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211225,
+    "chapter_id": 7782,
+    "verse_number": "६०",
+    "content_sanskrit": "अस्",
+    "padaccheda": "असँ",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "भुवि",
+    "meaning_english": "to be, to exist",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211225,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " असतेसति गत्यादौ भुव्यस्ति, क्षेपणेस्यति ' ( 184 ) इति देवः ।"
+    }
+  ]
+}

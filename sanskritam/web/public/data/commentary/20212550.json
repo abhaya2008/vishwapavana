@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212550,
+    "chapter_id": 7792,
+    "verse_number": "३०",
+    "content_sanskrit": "ऊर्णोतेर्नुलोपश्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212550,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ऊरुः सक्थि ।"
+    }
+  ]
+}

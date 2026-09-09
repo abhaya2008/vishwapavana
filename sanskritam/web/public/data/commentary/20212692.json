@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212692,
+    "chapter_id": 7793,
+    "verse_number": "१५",
+    "content_sanskrit": "वौ कसेः",
+    "padaccheda": "",
+    "anvaya": "रक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212692,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "विकुस्रश्चन्द्रः ।"
+    }
+  ]
+}

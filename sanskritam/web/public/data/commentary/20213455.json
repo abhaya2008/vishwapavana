@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213455,
+    "chapter_id": 7799,
+    "verse_number": "१२१",
+    "content_sanskrit": "त्वष्यञौ तद्धितौ",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213455,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शुक्लत्वम् । शौक्ल्यम् । ष्येञः षित्वसामर्थ्यात् पक्षे स्त्रीत्वम् । चातुर्यम् । चातुरी । सामग्र्यम् । सामग्री । औचित्यम् । औचिती । "
+    }
+  ]
+}

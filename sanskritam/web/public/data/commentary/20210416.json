@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210416,
+    "chapter_id": 7781,
+    "verse_number": "४१७",
+    "content_sanskrit": "कड्",
+    "padaccheda": "कडँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "मदे",
+    "meaning_english": "to be drunk, to be intoxicated, to be confused",
+    "audio_url": null,
+    "display_order": 417,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210416,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कडि मदे ' इति पाठान्तरम् ।"
+    }
+  ]
+}

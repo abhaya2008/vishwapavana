@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211346,
+    "chapter_id": 7784,
+    "verse_number": "७८",
+    "content_sanskrit": "व्यध्",
+    "padaccheda": "व्यधँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "ताडने",
+    "meaning_english": "to strike,to hurt,to stab,to pierce, to hit, to cause pain, to pinch",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211346,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' ताडनं - प्रायेण विदारणपर्यन्तम् ' इति धा.का. व्याख्या (2-63) ।"
+    }
+  ]
+}

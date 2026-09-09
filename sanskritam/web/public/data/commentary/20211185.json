@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211185,
+    "chapter_id": 7782,
+    "verse_number": "२०",
+    "content_sanskrit": "पिञ्ज्",
+    "padaccheda": "पिजिँ",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "वर्णे सम्पर्चने अवयवे अव्यक्ते शब्दे च",
+    "meaning_english": "to color, to paint, to make shine, to murmur",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211185,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "यथायथं सकर्मकः अकर्मकः च । ' सम्पर्चने इत्येके । अवयवे इत्यपरे । अव्यक्ते शब्दे इतीतरे ' इति कौमुदी ।  ' वर्णे पिङ्क्ते भवेत् पिञ्जेर्भाषार्थे पिञ्जयेदिति ' (श्लो. 60) इति देवः ।"
+    }
+  ]
+}

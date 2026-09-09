@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212685,
+    "chapter_id": 7793,
+    "verse_number": "८",
+    "content_sanskrit": "अर्तेर्निरि",
+    "padaccheda": "",
+    "anvaya": "थक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212685,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "निर्ऋथं साम ।"
+    }
+  ]
+}

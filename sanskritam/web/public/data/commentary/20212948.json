@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212948,
+    "chapter_id": 7794,
+    "verse_number": "१४८",
+    "content_sanskrit": "इष्यशिभ्यां तकन्",
+    "padaccheda": "",
+    "anvaya": "तकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 148,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212948,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इष्टका । अष्टका ।"
+    }
+  ]
+}

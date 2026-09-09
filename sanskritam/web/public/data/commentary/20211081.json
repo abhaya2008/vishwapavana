@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211081,
+    "chapter_id": 7781,
+    "verse_number": "१०८२",
+    "content_sanskrit": "स्मृ",
+    "padaccheda": "स्मृ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "चिन्तायाम्",
+    "meaning_english": "to remember,to recollect,to memorize",
+    "audio_url": null,
+    "display_order": 1082,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211081,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — भूलना, विस्मृत होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211081,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अयमनेकार्थत्त्वात् विस्मरणे चित्तापदक्रमणे च वर्तते ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210832,
+    "chapter_id": 7781,
+    "verse_number": "८३३",
+    "content_sanskrit": "रंह्",
+    "padaccheda": "रहिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 833,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210832,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' रहयेत् रहति त्यागे गतौ रंहेस्तु रंहति ' ( श्लो. 195 ) इति देवः ।"
+    }
+  ]
+}

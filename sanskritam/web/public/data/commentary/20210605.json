@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210605,
+    "chapter_id": 7781,
+    "verse_number": "६०६",
+    "content_sanskrit": "पूल्",
+    "padaccheda": "पूलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "सङ्घाते",
+    "meaning_english": "to collect,to gather,to heap up,to assemble",
+    "audio_url": null,
+    "display_order": 606,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210605,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " सङ्घाते पूलयेत्पूलेत्पूलेः स्तां णिशपोः क्रमात् ' (श्लो. 156) इति देवः ।"
+    }
+  ]
+}

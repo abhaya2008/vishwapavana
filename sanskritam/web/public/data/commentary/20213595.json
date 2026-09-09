@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213595,
+    "chapter_id": 7803,
+    "verse_number": "४",
+    "content_sanskrit": "धूम्रजानुमुञ्जकेशकालवालस्थालीपाकानामधूजलस्थानाम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213595,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एषां चतुर्ण्णां धूप्रभृतींश्चतुरो वर्जयित्वा शिष्टानि क्रमेणोदात्तानि । धूम्रजानुः । मुञ्जकेशः । कालवालः । स्थालीपाकः ॥"
+    }
+  ]
+}

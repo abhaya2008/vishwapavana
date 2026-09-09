@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211085,
+    "chapter_id": 7781,
+    "verse_number": "१०८६",
+    "content_sanskrit": "ऋ",
+    "padaccheda": "ऋ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतिप्रापणयोः",
+    "meaning_english": "to go, to obtain, to reach",
+    "audio_url": null,
+    "display_order": 1086,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211085,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तत्रेयर्त्यृच्छतीत्यर्तेः श्नि गतौ स्याद् ऋणाति तु ' (श्लो. 30) - देवः ।"
+    }
+  ]
+}

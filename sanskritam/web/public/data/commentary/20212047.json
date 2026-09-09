@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212047,
+    "chapter_id": 7790,
+    "verse_number": "२९८",
+    "content_sanskrit": "घण्ट्",
+    "padaccheda": "घटिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to shine, to glow",
+    "audio_url": null,
+    "display_order": 298,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212047,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " घाटयेद् घण्टयेत् सङ्घभाषयोर्घटते मितः ' (श्लो.70) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211132,
+    "chapter_id": 7781,
+    "verse_number": "११३३",
+    "content_sanskrit": "स्विद्",
+    "padaccheda": "ञिष्विदाँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे",
+    "meaning_english": "to be greedy,to perspire,to be disturbed,to quit",
+    "audio_url": null,
+    "display_order": 1133,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211132,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "मा.धा.वृत्तौ ' ञि क्ष्विदा ' इति पाठः ।"
+    }
+  ]
+}

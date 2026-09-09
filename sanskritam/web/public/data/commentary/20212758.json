@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212758,
+    "chapter_id": 7793,
+    "verse_number": "८१",
+    "content_sanskrit": "भूसूधूभ्रस्जिभ्यश्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "क्युन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212758,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भुवनम् । सुवन आदित्यः । धवनो वह्निः । निधुवनं सुरतम् । भृज्जनमम्बरीषम् ।"
+    }
+  ]
+}

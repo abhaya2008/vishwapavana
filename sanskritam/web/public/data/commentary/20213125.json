@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213125,
+    "chapter_id": 7795,
+    "verse_number": "१६५",
+    "content_sanskrit": "स्त्यायतेर्डट्",
+    "padaccheda": "",
+    "anvaya": "डट्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 165,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213125,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्त्री ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211871,
+    "chapter_id": 7790,
+    "verse_number": "१२२",
+    "content_sanskrit": "रह्",
+    "padaccheda": "रहँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "त्यागे",
+    "meaning_english": "to abandon,to quit, to leave",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211871,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — अलग होना, भिन्न होना"
+    }
+  ]
+}

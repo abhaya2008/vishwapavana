@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202617,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१७८",
+    "content_sanskrit": "ङ्याश्छन्दसि बहुलम्",
+    "padaccheda": "ङ्याः । छन्दसि । बहुलम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 178,
+    "avatarnika": "अनुवृत्तिः — अन्तः (६.१.१५९), उदात्तः (६.१.१५९), विभक्तिः (६.१.१६८), नाम् (६.१.१७७), अन्यतरस्याम् (६.१.१७७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202617,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ङ्यन्ताच्छन्दसि विषये नामुदात्तो भवति बहुलम्। दे॒व॒से॒नाना॑मभिभञ्जती॒नाम् (ऋ० १०.१०३.८)। ब॒ह्वी॒नां पि॒ता (ऋ० ६.७५.५)। न च भवति — न॒दीनां॑ पारे। जय॑न्तीनां म॒रुतः॑(ऋ० १०.१०३.८)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202617,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ङ्याः परो नामुदात्तो वा । देवसेनानामभिभञ्जतीनाम् (दे॒व॒से॒नाना॑मभिभञ्जती॒नाम्) । वेत्युक्तेर्नेह । जयन्तीनां मरुतो यन्तु (जय॑न्तीनां म॒रुतो॑ यन्तु) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202617,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "वेदे ङ्यन्तात्परो नाम् बहुलमुदात्तः स्यात् । देवसेनानामभिभञ्जतीनाम् । वेशो नदीनाम् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202617,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस , the ending नाम् has diversely the acute accent after the feminine affix ई।\nThus देवसमानाम् अभिभञ्जतीना꣡म्, बह्वीना꣡म् पिता ॥ Sometimes it does not take place, as नदी꣡नाम् परि; जयन्तीनाम् मरुतः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202617,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस , the ending नाम् has diversely the acute accent after the feminine affix ई।"
+    }
+  ]
+}

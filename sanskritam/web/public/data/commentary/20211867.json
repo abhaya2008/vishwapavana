@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211867,
+    "chapter_id": 7790,
+    "verse_number": "११८",
+    "content_sanskrit": "ज्ञप्",
+    "padaccheda": "ज्ञपँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "ज्ञाने ज्ञापने च",
+    "meaning_english": "to know, to understand, to teach, to educate, to explain, to clarify, to make happy, to hit, to sharpen",
+    "audio_url": null,
+    "display_order": 118,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211867,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' जानातीति श्नि सिद्ध्येत्, ज्ञपयति तु पुनर्मारणादौ घटादेः णौ (चौ) मित्त्वेपीदमेव ' ज्ञप मिद् ' इति पदं ज्ञापने मारणादौ । तेनार्थाज्ज्ञापनेर्थे ज्ञपयतिपदवज्ज्ञापयेदित्यपि स्याद् उक्तस्योक्ति: ' णिचश्चे ' (1.3.74) त्युदितविहतये ज्ञापयेज्ज्ञा नियोगे ' (श्लो. 8) इति देवः । मित्त्वविषये केचन विशेषांशाः कृदन्तरूपमालायां विवृताः ।"
+    }
+  ]
+}

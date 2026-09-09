@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201619,
+    "chapter_id": 7763,
+    "verse_number": "४.३.४७",
+    "content_sanskrit": "देयमृणे",
+    "padaccheda": "देयम् । ऋणे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.३.२५), कालात् (४.३.४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201619,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तत्रेत्येव, कालादिति च। सप्तमीसमर्थात् कालवाचिनः प्रातिपदिकाद् देयमित्येतस्मिन्नर्थे यथाविहितं प्रत्ययो भवति, यद् देयमृणं चेत् तद् भवति। मासे देयमृणं मासिकम्। आर्धमासिकम्। सांवत्सरिकम्। ऋण इति किम् ? मासे देया भिक्षा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201619,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कालादित्येव । मासे देयमृणं मासिकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201619,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<देयमृणे>> - देयमृणे । कालादित्येवेति । तत्रेत्यप्यनुवर्तते । वुञिति निवृत्तम् । सप्तम्यन्तात्कालवाचिनो देयमित्यर्थे यताविहितं प्रत्ययाः स्युः । तस्मिन्देयद्रव्ये ऋणे सतीत्यर्थः । मासिकमिति ।कालट्ठञ् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201619,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<देयमृणे>> - देयमृणे । ऋणे किम् । मासे देया भिक्षा ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201619,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कालात् तत्र देयमित्यर्थे ऋणे वाच्येऽणादिः । मासिकमृणम् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201619,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a प्रातिपदिक (Nominal Stem) being in the Locative -7th case in construction denoting time, an affix comes in the sense of 'being then due'; provided that the thing due be 'debt'.\nThus मासे देयमृणं = मासिकं 'a debt due in a month'. आर्द्धमासिकम्, सांवत्सरिकम् ॥ Why do we say ऋणे 'it being a debt'. Observe मासेदेया भिक्षा where no affix is added."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201619,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After a प्रातिपदिक (Nominal Stem) being in the Locative -7th case in construction denoting time, an affix comes in the sense of 'being then due'; provided that the thing due be 'debt'."
+    }
+  ]
+}

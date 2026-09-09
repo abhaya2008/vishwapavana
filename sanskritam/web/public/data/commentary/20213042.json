@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213042,
+    "chapter_id": 7795,
+    "verse_number": "८२",
+    "content_sanskrit": "कृकदिकडिकटिभ्योऽम्बच्",
+    "padaccheda": "",
+    "anvaya": "अबच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213042,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "करम्बं व्यामिश्रम् । कदिकडी सौत्रौ । कदम्बो वृक्षभेदः । कडम्बोऽग्रभागः । कटम्बो वादित्रम् ।"
+    }
+  ]
+}

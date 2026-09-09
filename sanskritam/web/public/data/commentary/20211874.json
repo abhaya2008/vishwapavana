@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211874,
+    "chapter_id": 7790,
+    "verse_number": "१२५",
+    "content_sanskrit": "घट्ट्",
+    "padaccheda": "घट्टँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "चलने",
+    "meaning_english": "to go, to change places",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211874,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "परि — फैलाना, घोटना\nवि — मांजना, धोना, बिगाड़ना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211874,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' घट्टयेद् घट्टते द्वे स्तां चलने णौ शपि क्रमात् ' (श्लो. 73) - देवः ।"
+    }
+  ]
+}

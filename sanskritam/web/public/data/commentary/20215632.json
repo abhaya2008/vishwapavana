@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20215632,
+    "chapter_id": 7807,
+    "verse_number": "२५",
+    "content_sanskrit": "क्व पुनरिदं पठितम्?",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": "शास्त्रप्रयोजनाधिकरणम्"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20215632,
+      "commentary_type": "प्रदीपः",
+      "author": "कैयटः",
+      "content": "श्लोकस्यापरिज्ञानात्पृच्छति - <x>क्व पुनरिति</x> । प्रातिपदिकार्थप्रश्ने चात्र तात्पर्यम्, किं तदस्ति यत्रेदं पठितमित्यर्थः । अत एव 'श्लोकाः' इति प्रथमान्तेनोत्तरम् । अन्यथा 'श्लोकेषु' इति वाच्यं स्यात् ॥"
+    }
+  ]
+}

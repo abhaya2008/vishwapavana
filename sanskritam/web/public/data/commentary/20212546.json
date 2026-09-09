@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212546,
+    "chapter_id": 7792,
+    "verse_number": "२६",
+    "content_sanskrit": "रपेरिच्चोपधायाः",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212546,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अनिष्टं रपतीति रिपुः ।"
+    }
+  ]
+}

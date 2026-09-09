@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202307,
+    "chapter_id": 7768,
+    "verse_number": "५.४.२८",
+    "content_sanskrit": "अवेः कः",
+    "padaccheda": "अवेः । कः",
+    "anvaya": "अवेः कः ",
+    "meaning_sanskrit": "'अवि' शब्दात् स्वार्थे 'क' प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202307,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अविशब्दात् स्वार्थे कः प्रत्ययो भवति। अविरेव अविकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202307,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अविरेवाविकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202307,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अवेः कः>> - अवेः कः । अयमपि केवलस्वार्थिकः ।अवयः शैलमेषाऽर्काः॑ इत्यमरः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202307,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अविरेवाविकः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202307,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क comes after अवि without change of sense.\nThus अविकः = अविः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202307,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix क comes after अवि without change of sense."
+    },
+    {
+      "id": 7,
+      "verse_id": 20202307,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'अवि' (रत्नम्, diamond)  शब्दात् स्वार्थे 'क' प्रत्ययः भवति । अविः इत्येव अविकः । diamond इत्यर्थः ।\n<<समर्थानां प्रथमाद्वा>> [[4.1.82]] अनया महाविभाषया प्रत्ययविधानम् विकल्पेन भवति, अतः 'अवि' तथा 'अविक' द्वयोः अपि शब्दयोः प्रयोगः साधु एव ।\n"
+    }
+  ]
+}

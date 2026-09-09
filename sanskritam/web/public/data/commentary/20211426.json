@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211426,
+    "chapter_id": 7784,
+    "verse_number": "१५८",
+    "content_sanskrit": "मिद्",
+    "padaccheda": "ञिमिदाँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "स्नेहने",
+    "meaning_english": "to be greasy,to be soft,to melt",
+    "audio_url": null,
+    "display_order": 158,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211426,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मेदते मेद्यतीत्येते स्नेहने मिन्दयेण्णिचि ' (श्लो. 104) इति देवः ।"
+    }
+  ]
+}

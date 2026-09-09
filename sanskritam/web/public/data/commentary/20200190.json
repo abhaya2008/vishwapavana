@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200190,
+    "chapter_id": 7751,
+    "verse_number": "१.३.४३",
+    "content_sanskrit": "अनुपसर्गाद्वा",
+    "padaccheda": "अनुपसर्गात् । वा",
+    "anvaya": "अनुपसर्गात् क्रमः वा आत्मनेपदम्",
+    "meaning_sanskrit": "उपसर्गरहितात् 'क्रम्' धातोः विकल्पेन आत्मनेपदस्य प्रत्ययाः भवन्ति । ",
+    "meaning_english": "When the verb क्रम् is used without any उपसर्ग, it optionally gets the प्रत्ययाः of आत्मनेपद.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": "अनुवृत्तिः — आत्मनेपदम् (१.३.१२), क्रमः (१.३.३८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200190,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "क्रम इति वर्त्तते। अप्राप्तविभाषेयम्। उपसर्गवियुक्तात्क्रमतेरात्मनेपदं वा भवति। क्रमते। क्रामति। अनुपसर्गादिति किम् ? संक्रामति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200190,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "क्रामति । क्रमते । अप्राप्तविभाषेयम् । वृत्त्यादौ तु नित्यमेव ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200190,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अनुपसर्गाद्वा>> - अनुपसर्गाद्वा ।कर्म आत्मनेपद॑मिति शेषः । अप्राप्तविभाषेयमिति । अनुपसर्गात् क्रमेरात्मनेपदस्य कदाप्यप्राप्तेरिति भावः । वृत्त्यादाविति । वृत्तिसर्गतायनेषु तु पूर्वविप्रतिषेधान्नित्यमेवेत्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200190,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<अनुपसर्गाद्वा>> - वृत्त्यादौ त्विति । न च वृत्त्यादिसूत्रं सोपसर्गे चरितार्थमित्यनुपसर्गात्क्रमेर्वृत्त्याद्यर्थेऽपि विभाषैवाऽस्त्विति वाच्यम्,उपपराभ्या॑मिति नियमस्योक्तत्वात् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200190,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`अप्राप्तविभाषेयम्` इति। वृत्यादीनां निवृत्त्वात्।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200190,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अप्राप्तविभाषेयमिति। ठुपपराभ्याम्ऽ इत्यस्य नियमार्थत्वाद् वृत्यादिसूत्रमनुपसर्गविषयमेवेति न तत्रायं विकल्प इति भावः॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200190,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "क्रमते, क्रामति । सोपसर्गात्तु संक्रामतीत्येव ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200190,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb क्रम् the आत्मनेपद is optionally used, when it is not preceded by any preposition.\nThe root '<i>kram</i>' may always be conjugated as <i>Atmanepadi</i> when not having any <i>upasarga</i>. The <i>upasarga</i> will be defined in [[1.4.59]]. The option allowed by this <i>sutra</i> is an example of what is technically known as <i>aprapta</i> <i>vibhasa</i> viz., an option which is not an alternative limitation to a general rule already found or known.\n\nExamples: क्रमते or क्रामति 'he goes over.' Why do we say 'when it is without any preposition ?' For no option is allowed when it takes preposition. As संक्रामति."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200190,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb क्रम् the आत्मनेपद is optionally used, when it is not preceded by any preposition."
+    },
+    {
+      "id": 10,
+      "verse_id": 20200190,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "क्रममाणश्चकार द्यां (रघुवंशम् 17.32) — `अनुपसर्माद्वा` इति वैकल्पिकमात्मनेपदम्।\nचिक्रंसया कृत्रिमपत्त्रिपङ्क्तेः (शिशुपालवधम् 3.51) — `अनुपसर्गाद्वा` इति वैकल्पिकस्यात्मनेपदनिमित्तत्वम्।\nमारीचं प्रति चक्रमे (भट्टिकाव्यम् 5.30) — `अनुपसर्गाद्वा` इति क्रमे स्तङ्।\nक्रममाणैर्निशाचरैः (भट्टिकाव्यम् 8.25) — `अनुपसर्गाद्वा` इति तङ्।"
+    }
+  ]
+}

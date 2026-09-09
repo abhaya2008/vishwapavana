@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212333,
+    "chapter_id": 7791,
+    "verse_number": "७५",
+    "content_sanskrit": "खल । डाक । कुटुम्ब । शाक । कुण्डलिनी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": "खलादिः (4.2.51)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212333,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "खलादिभ्य इनिर्वक्तव्यः"
+    }
+  ]
+}

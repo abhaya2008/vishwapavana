@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212145,
+    "chapter_id": 7790,
+    "verse_number": "३९६",
+    "content_sanskrit": "रह",
+    "padaccheda": "रह",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "त्यागे",
+    "meaning_english": "to leave, to abandon",
+    "audio_url": null,
+    "display_order": 396,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212145,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — अलग होना, भिन्न होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212145,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' रहयेत् रहति त्यागे गतौ रंहेस्तु रंहति ' (श्लो. 195) - देवः ।"
+    }
+  ]
+}

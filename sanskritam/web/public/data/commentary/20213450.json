@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213450,
+    "chapter_id": 7799,
+    "verse_number": "११६",
+    "content_sanskrit": "पल्लवपल्वलकफरेफकटाहनिर्व्यूहमठमणितरङ्गतुरङ्गगन्धमृदङ्गसङ्गसमुद्गपुङ्खाः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213450,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं पल्लवः इत्यादि ।"
+    }
+  ]
+}

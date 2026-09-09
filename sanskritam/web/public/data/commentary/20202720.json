@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202720,
+    "chapter_id": 7770,
+    "verse_number": "६.२.५८",
+    "content_sanskrit": "आर्यो ब्राह्मणकुमारयोः",
+    "padaccheda": "आर्यः । ब्राह्मण-कुमारयोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": "अनुवृत्तिः — प्रकृत्या (६.२.१), पूर्वपदम् (६.२.१), अन्यतरस्याम् (६.२.५४), कर्मधारये (६.२.५७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202720,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आर्यशब्दः पूर्वपदं ब्राह्मणकुमारशब्दयोः कर्मधारये समासेऽन्यतरस्यां प्रकृतिस्वरं भवति। आ॒॑र्यब्राह्मणः, आ॒र्य॒ब्रा॒ह्म॒णः। आ॒॑र्यकुमारः, आ॒र्य॒कु॒मा॒रः। आर्यशब्दो ण्यदन्तोऽन्तस्वरितः। आर्य इति किम्? प॒र॒म॒ब्रा॒ह्म॒णः। प॒र॒म॒कु॒मा॒रः। ब्राह्मणकुमारयोरिति किम् ? आ॒र्य॒क्ष॒त्रि॒यः। कर्मधारय इत्येव — आर्यस्य ब्राह्मणो आ॒र्य॒ब्रा॒ह्म॒णः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202720,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आर्यकुमारः । आर्यब्राह्मणः । आर्यो ण्यदन्तत्वादन्तस्वरितः । आर्यः किम् । परमब्राह्मणः । ब्राह्मणादीति किम् । आर्यक्षत्रियः । कर्मधारय इत्येव ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202720,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`आर्यब्राआहृणः` इति। आर्यश्चासौ ब्राआहृणश्चेति विशेषणसमासः। `आर्यशब्दो ण्यदन्तः` इति। `ऋहलोण्र्यत्`  [[3.1.124]]  इति ण्यति व्युत्पादितत्वात्। `अन्तस्वरितः` इति। तित्स्वरेण। प्रत्युदाहरणे तु समासान्तोदात्तत्वमेव भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202720,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनयोः परयोरायः कर्मधारये वा प्रकृत्या स्यात् । आर्यब्राह्मणः । आर्यकुमारः । ण्यत्यार्यः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202720,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word आर्य optionally retains its original accent in a कर्मधारय समास before the words ब्राह्मण and कुमार।\nThus आर्य॑ब्राह्मणः or आर्यबाह्मणः꣡, आर्य॑कुमारः or आर्यकुमारः꣡ ॥ The word आर्य is formed by ण्यत् affix and has <i>svarita</i> on the final. Why do we say '<i>Arya</i>'? Observe परमब्राह्मणः꣡, परमकुमारः꣡ ॥ Why do we say before '<i>Brahmana</i>' and '<i>Kumara</i>'? Observe आर्यक्षत्रियः ॥ Why '<i>Karmadharaya</i> ?' Observe आर्यस्य ब्राह्मणः = आर्यब्राह्मणः꣡ ॥ According to the Accentuated Text the accent is आ꣡र्य (Pro. Bohtlingk)."
+    },
+    {
+      "id": 6,
+      "verse_id": 20202720,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word आर्य optionally retains its original accent in a कर्मधारय समास before the words ब्राह्मण and कुमार।"
+    }
+  ]
+}

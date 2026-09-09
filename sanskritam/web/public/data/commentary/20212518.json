@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212518,
+    "chapter_id": 7791,
+    "verse_number": "२६०",
+    "content_sanskrit": "गिरिनदी । गिरिनख । गिरिनद्ध । गिरिनितम्ब । चक्रनदी । चक्रनितम्ब । तर्यमान । माषोन । आर्गयन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 260,
+    "avatarnika": "गिरिनद्यादिः (8.4.10)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212518,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "वाप्रकरणेगिरिनद्यादीनां चोपसंख्यानम्"
+    }
+  ]
+}

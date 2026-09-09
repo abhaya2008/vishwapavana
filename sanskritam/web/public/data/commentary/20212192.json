@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212192,
+    "chapter_id": 7790,
+    "verse_number": "४४३",
+    "content_sanskrit": "कुह",
+    "padaccheda": "कुह",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "विस्मापने",
+    "meaning_english": "to show miracle",
+    "audio_url": null,
+    "display_order": 443,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212192,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । आवर्गीयः ।"
+    }
+  ]
+}

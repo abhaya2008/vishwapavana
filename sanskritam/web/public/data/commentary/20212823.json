@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212823,
+    "chapter_id": 7794,
+    "verse_number": "२३",
+    "content_sanskrit": "पानीविषिभ्यः पः",
+    "padaccheda": "",
+    "anvaya": "प",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212823,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पाति रक्षत्यस्मादात्मानमिति पापम् । तद्योगात्पापः । नेपः पुरोहितः । बाहुलकाद्गुणाभावे नीपो वृक्षविशेषः । वेष्पः पानीयम् ।"
+    }
+  ]
+}

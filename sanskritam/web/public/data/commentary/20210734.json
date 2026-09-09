@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210734,
+    "chapter_id": 7781,
+    "verse_number": "७३५",
+    "content_sanskrit": "ऊह्",
+    "padaccheda": "ऊहँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "वितर्के",
+    "meaning_english": "to conjecture,to infer,to guess, to reason, to imagine, to hypothesize",
+    "audio_url": null,
+    "display_order": 735,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210734,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — इकठ्ठा होना, संघटित होना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210734,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "( वितर्कः - सम्भावना )"
+    }
+  ]
+}

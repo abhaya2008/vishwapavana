@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210383,
+    "chapter_id": 7781,
+    "verse_number": "३८४",
+    "content_sanskrit": "मठ्",
+    "padaccheda": "मठँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "मदनिवासयोः",
+    "meaning_english": "to be egoistic, to stay",
+    "audio_url": null,
+    "display_order": 384,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210383,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मठ निवासे ' इति काशकृत्स्नधातुपाठः इति क्षी. टीका । ' मण्ठते  शपि शोकार्थे मठेन्मदनिवासयोः ' (श्लो.82) इति देवः ।"
+    }
+  ]
+}

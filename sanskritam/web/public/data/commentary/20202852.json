@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202852,
+    "chapter_id": 7770,
+    "verse_number": "६.२.१९०",
+    "content_sanskrit": "पुरुषश्चान्वादिष्टः",
+    "padaccheda": "पुरुषः । च । अन्वादिष्टः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 190,
+    "avatarnika": "अनुवृत्तिः — उपसर्गात् (६.२.१७७)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202852,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पुरुषशब्दोऽन्वादिष्टवाची चानोरुत्तरोऽन्तोदात्तो भवति। अन्वादिष्टः पुरुषः अ॒नु॒पु॒रु॒षः। अन्वादिष्टोऽन्वाचितः कथितानुकथितो वा। अन्वादिष्ट इति किम् ? अनुगतः पुरुषः अनु॑पुरुषः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202852,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अनोः परोऽन्वादिष्टवाची पुरुषोऽन्तोदात्तः । अन्वादिष्ट पुरुषोऽनुपुरुषः । अन्वादिष्टः किम् । अनुगतः पुरुषोऽनुपुरुषः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202852,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`पृ? पालनपूरणयोः` (दा।पा।1489) - अस्मात्? `पुरः कुषन्` (द।उ।9।14) इति कुषन्प्रत्ययः। तेन पुरुषशब्द आद्युदात्तः। `अन्वादिष्टोऽन्वाचितः` इति। अप्रधानशिष्ट इत्यर्थः। यथा भिक्षामट गाञ्यानयेत्यत्र गोरानयनम्, यथा वा - `कर्त्तुः क्यङ्? सलोपश्च`  [[3.1.11]]  इत्यत्र सलोपः। `कथितानुकथितो वा` इति। यः कथितात्? पश्चात्? कथितः स कथितानुकथितः। यो वा किञ्चित्? पाक्? कथयित्वा पश्चात् कथ्यते कथ्यते स कथितानुकथित इत्युच्यते। `अनुगतः पुरुषोऽनुपुरुषः` इति। यः पश्चाद्भवः पुरुष स एवमुच्यते॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202852,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अन्वादिष्टः - अप्रधानशिष्टः, यथा भिक्षामठ गां चानयेति गोरानयनम् । कथितानुकथितो वेति । कस्मिंश्चित्प्राक्कथिते योऽन्यः पश्चात्कथ्यते स कथितानुकथितः । अनुगतः - पश्चाद्गतः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202852,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After अनु the acute accent (उदात्त) falls on the final of पुरुष when it means a man of whom mention was already made.\nThe word अन्वादिष्ट means 'of a secondary importance, inferior', or 'mentioned again after having already been mentioned'. Thus अन्वादिष्टः पुरुषः = अनुपुरुषः꣡; but अनुगतः पुरुषः = अनुपुरुषः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202852,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After अनु the acute accent (उदात्त) falls on the final of पुरुष when it means a man of whom mention was already made."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211258,
+    "chapter_id": 7783,
+    "verse_number": "१६",
+    "content_sanskrit": "हृ",
+    "padaccheda": "हृ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "प्रसह्यकरणे",
+    "meaning_english": "to take forcibly, to rape",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211258,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " छान्दसः । ' प्रसह्यहृत्यां हरणे जिहर्ति हरते हरेत् ' (श्लो. 27) इति देवः ।"
+    }
+  ]
+}

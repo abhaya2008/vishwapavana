@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211639,
+    "chapter_id": 7786,
+    "verse_number": "१७०",
+    "content_sanskrit": "सिच्",
+    "padaccheda": "षिचँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "क्षरणे",
+    "meaning_english": "to sprinkle,to moisten",
+    "audio_url": null,
+    "display_order": 170,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211639,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " षिचि इति केचित् पठन्ति । तत्तु फलाभावात् उपेक्ष्यम् ' इति तत्त्वबोधिनी ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213433,
+    "chapter_id": 7799,
+    "verse_number": "९९",
+    "content_sanskrit": "कंसं चात्प्राणिनि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213433,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कंसोऽस्त्री पानभाजनम् । प्राणिनि तु कंसो नाम कश्चिद्राजा । "
+    }
+  ]
+}

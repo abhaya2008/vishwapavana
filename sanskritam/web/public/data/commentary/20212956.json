@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212956,
+    "chapter_id": 7794,
+    "verse_number": "१५६",
+    "content_sanskrit": "अशेर्नित्",
+    "padaccheda": "",
+    "anvaya": "क्सि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 156,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212956,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अक्षि ।"
+    }
+  ]
+}

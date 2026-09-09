@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216225,
+    "chapter_id": 7825,
+    "verse_number": "३५",
+    "content_sanskrit": "सर्वे विधयश्छन्दसि विकल्प्यन्ते",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216225,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "व्यत्ययो बहुलम् [[3.1.85]] इति सूत्रे भाष्ये बहुलमिति योगविभागेन षष्ठीयुक्तश्छन्दसि [[1.4.9]] इति सूत्रे वेति योगविभागेन चैषा साधिता । तेन 'प्रतीपमन्यः' 'ऊर्मिर्युध्यति' इत्यादि सिद्धम् । युद्ध्यत इति प्राप्नोति ॥"
+    }
+  ]
+}

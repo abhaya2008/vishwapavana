@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210127,
+    "chapter_id": 7781,
+    "verse_number": "१२८",
+    "content_sanskrit": "कख्",
+    "padaccheda": "कखँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "हसने",
+    "meaning_english": "to laugh",
+    "audio_url": null,
+    "display_order": 128,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210127,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " खर्ख हसने ' इति क्षीरस्वामी । ' खक्ख हसने ' इति अन्ये । ' खक्ख ' इति पाठान्तरं कौमुद्यां न दृश्यते ।"
+    }
+  ]
+}

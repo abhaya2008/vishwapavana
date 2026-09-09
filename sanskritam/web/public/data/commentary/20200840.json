@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200840,
+    "chapter_id": 7758,
+    "verse_number": "३.२.७२",
+    "content_sanskrit": "अवे यजः",
+    "padaccheda": "अवे । यजः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), सुपि (३.२.४), अपि (३.२.६१), उपसर्गे (३.२.६१), मन्त्रे (३.२.७१), ण्विन् (३.२.७१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200840,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अव उपपदे यजेर्धातोर्ण्विन् प्रत्ययो भवति मन्त्रे विषये। त्वं॑ यज्ञे॑ व॑रुणस्यावया॑ असि (काठ०सं०३५.६५)। योगविभाग उत्तरार्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200840,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अवयाः । अवयाजौ । अवयाजः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200840,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`योगविभाग उत्तरार्थः`इति। उत्तरसूत्रे यजरेवानुवृत्तिर्यथा स्यात्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200840,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अवे यजः॥ अवया इति। निपातनाद्रुत्वम्। योगविभाग उतरार्थ इति।'पुरोडाशवयजो ण्विन्'  इत्येकयोगे श्वेतवहादीनामप्युतरत्रानुवृत्तिः स्यात्, यजेश्चावपूर्वस्यैवानुवृत्तिः स्यात्, केवलस्यैव चेष्यते, तदर्थो योगविभाग इत्यर्थः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200840,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अवपूर्वाद् यजेः ण्विन् । प्राग्वत् पदत्वे डस् । अवयजन् अवयाः । अवयाजौ । सम्बुद्ध्यादौ प्राग्वत् ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200840,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the मन्त्र literature,the affix णिवन् comes after the verb यज् 'to sacrifice' when in composition the word अव्।\nAs अवयाज्, nom. sing. अवयाः (<i>Rig</i>. <i>Ved</i>. I.173.12) 'name of a Vedic priest'; as त्वं यज्ञे वरुणस्यावया असि 'Thou art the priest of <i>Varuna</i> in the sacrifice'.\n\nThe division of this aphorism from the last in which it could have been included, is for the sake of the subsequent <i>sutras</i> in which the <i>anuvritti</i> of यज only runs. This word is thus declined:-\n\n- 1st. अवयाः, अवयाजौ, अवयाजः\n- 2nd. अवयाजं, अवयाजौ, अवयाजः  \n- 3rd. अवयाजा, अवयोभ्यां, अवयोभिः"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200840,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the मन्त्र literature,the affix णिवन् comes after the verb यज् 'to sacrifice' when in composition the word अव्।"
+    }
+  ]
+}

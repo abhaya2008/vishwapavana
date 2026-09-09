@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213944,
+    "chapter_id": 7805,
+    "verse_number": "१५१",
+    "content_sanskrit": "भावनानुगतादेतदागमादेव जायते । आसत्तिविप्रकर्षाभ्यां आगमस्तु विशिष्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 151,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213944,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "प्रतिभायाश्च शब्द एव मूलमित्याह--\nस चागमः कदाचिदासन्नोऽस्मिन्नेव जन्मन्यवगतः कदाचिज्जन्मान्तर इत्यासत्तिविप्रकर्षाभ्यां शब्द एव प्रतिभाहेतुः ॥"
+    }
+  ]
+}

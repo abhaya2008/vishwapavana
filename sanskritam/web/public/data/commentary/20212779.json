@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212779,
+    "chapter_id": 7793,
+    "verse_number": "१०२",
+    "content_sanskrit": "अर्तिसृधृधम्यश्यवितॄभ्योऽनिः",
+    "padaccheda": "",
+    "anvaya": "अनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212779,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सरणिः । धरणिः । धमनिः । अमनिर्गतिः । अशनिः । अवनिः । तरणिः । बाहुलकात् रजनिः ।"
+    }
+  ]
+}

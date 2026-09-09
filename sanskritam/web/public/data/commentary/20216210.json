@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216210,
+    "chapter_id": 7825,
+    "verse_number": "२०",
+    "content_sanskrit": "भाव्यमानोऽप्युकारः सवर्णान् गृह्णाति",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": "नन्वेवम् 'अदसोऽसेः' इत्यादिना 'अमू' इत्यादौ दीर्घविधानं न स्यादत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216210,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "दिव उत्' 'ऋत उत्' इति तपरकरणमस्या ज्ञपकम्। 'तित्स्वरितम्' इति सूत्रे भाष्ये स्पष्टैषा॥"
+    }
+  ]
+}

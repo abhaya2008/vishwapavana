@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211462,
+    "chapter_id": 7785,
+    "verse_number": "३१",
+    "content_sanskrit": "चम्",
+    "padaccheda": "चमुँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "भक्षणे",
+    "meaning_english": "to eat,to drink",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211462,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "छान्दसः ।"
+    }
+  ]
+}

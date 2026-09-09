@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20203906,
+    "chapter_id": 7779,
+    "verse_number": "८.३.१११",
+    "content_sanskrit": "सात्पदाद्योः",
+    "padaccheda": "सात्-पदाद्योः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": "अनुवृत्तिः — सः (८.३.५६), न (८.३.११०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203906,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "सादित्येतस्य पदादेश्च मूर्धन्यादेशो न भवति। <<विभाषा साति कार्त्स्न्ये>> [[५.४.५२]]। प्रत्ययसकारत्वात् प्राप्तिः, पदादेश्चादेशसकारत्वात्। सात् — अग्निसात्। दधिसात्। मधुसात्। पदादेः — दधि सिञ्चति। मधु सिञ्चति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203906,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सस्य षत्वं न स्यात् । दधि सिञ्चति । कृत्स्नं शस्त्रमग्निः संपद्यतेऽग्निसाद्भवति । अग्नीभवति । महाविभाषया वाक्यमपि । कार्त्स्ये किम् । एकदेशेन शुक्लीभवति पटः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203906,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "सस्य षत्वं न स्यात्। कृत्स्नं शस्त्रमग्निः संपद्यतेऽग्निसाद्भवति। दधि सिञ्चति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203906,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "<<आदेशप्रत्यययोः>> [[8.3.59]]  इति षत्वे प्राप्तेऽयं प्रतिषेध-॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203906,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ठुपसर्गात्ऽ इति प्राप्तिः प्रतिषिध्यते ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203906,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The ष् substitution does not take place in the affix सात् and for that स् which stands at the beginning of a word.\nThus सात् here is the affix ordained by [[5.4.52]], and it would have been changed to ष by [[8.3.59]]. The present <i>sutra</i> prevents that. The <i>Padadi</i> स refers to those verbs which in the <i>Dhatupatha</i> are taught with a ष, and for which a स is substituted. This also is an exception to [[8.3.59]]. Thus अग्निसात् । दधिसात् । मधुसात् ॥ So also with <i>Padadi</i> स as दधि सिञ्चति, मधु सिञ्चति ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203906,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The ष् substitution does not take place in the affix सात् and for that स् which stands at the beginning of a word."
+    },
+    {
+      "id": 8,
+      "verse_id": 20203906,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "विषह्य राक्षसाः क्रुद्धाः (भट्टिकाव्यम् 9.73) — `सात्पदाद्योः` इति प्रतिषेधे प्राप्ते।\nज्योतिःसात्-कुर्वतीं वनम् ॥ (भट्टिकाव्यम् 9.85) — `सात्-पदाद्योः` इति प्रतिषेधः ।"
+    }
+  ]
+}

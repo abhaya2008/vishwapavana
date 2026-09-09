@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212899,
+    "chapter_id": 7794,
+    "verse_number": "९९",
+    "content_sanskrit": "स्तुवः क्सेय्यश्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "क्सेय्य",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212899,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "स्तुषेय्यं पुरुवर्पसम् ।"
+    }
+  ]
+}

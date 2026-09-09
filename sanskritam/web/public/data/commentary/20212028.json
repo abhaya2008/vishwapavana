@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212028,
+    "chapter_id": 7790,
+    "verse_number": "२७९",
+    "content_sanskrit": "ग्रस्",
+    "padaccheda": "ग्रसँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "ग्रहणे",
+    "meaning_english": "to seize, to catch, to steal",
+    "audio_url": null,
+    "display_order": 279,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212028,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' आ स्वदः सकर्मकात् ' (ग.सू. 201) - इत आरभ्य आस्वदीयाः सकर्मकाः ज्ञेयाः इत्यर्थः । ' अस्य धातोः आस्वदीयत्वेन ' आ स्वदः सकर्मकात् ' इति वचनात् कर्मसंज्ञकार्थान्वयबोधकत्वे एव णिच् भवति । अकर्मकत्वे तु न इति बोध्यम् ' इति कृदन्तरूपमाला । ग्रासयति फलम् ।"
+    }
+  ]
+}

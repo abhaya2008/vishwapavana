@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210508,
+    "chapter_id": 7781,
+    "verse_number": "५०९",
+    "content_sanskrit": "भाम्",
+    "padaccheda": "भामँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "क्रोधे",
+    "meaning_english": "to be angry",
+    "audio_url": null,
+    "display_order": 509,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210508,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भामेर्भामयति क्रोधे तत्रैव शपि भामते ' (श्लो. 149) इति देवः ।"
+    }
+  ]
+}

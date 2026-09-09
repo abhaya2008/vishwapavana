@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203058,
+    "chapter_id": 7772,
+    "verse_number": "६.४.५८",
+    "content_sanskrit": "युप्लुवोर्दीर्घश्छन्दसि",
+    "padaccheda": "यु-प्लुवोः । दीर्घः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": "अनुवृत्तिः — ल्यपि (६.४.५६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203058,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "यु प्लु इत्येतयोर्ल्यपि परतश्छन्दसि विषये दीर्घो भवति। दान्त्य॑नुपू॒र्वं वि॒यूय॑ (ऋ० १०.१३.१.२)। यत्रापो दक्षिणा परिप्लूय (काठ० सं० २५.३) छन्दसीति किम्? संयुत्य। आप्लुत्य॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203058,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ल्यपीत्यनुवर्तते । वियूय । विप्लूय । आडजादीनाम् <{SK2254}> ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203058,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`यु मिश्रणे` (धातुपाठः-1033) [मिश्रणेऽमिश्रणे च -धातुपाठः-] `प्लुङः गतौ` (धातुपाठः-958) अनयोर्धात्वोस्तुकि प्राप्ते दीर्घाथं वचनम्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203058,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनयोल्र्यपि दीर्घः स्यात् । अनुपूर्वं वियूय । आपो दक्षिणाः परिप्लूय ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203058,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In यु and प्लु , long is substituted for उ in the छन्दस् (Vedas).\nThus दान्त्यनुपूर्वं वियूय; यत्रा यो दक्षिणा परिप्लूय ॥ Why do we say 'in the <i>Chhandas</i>'? Observe संपुत्य, आप्लुत्य in the secular literature."
+    },
+    {
+      "id": 6,
+      "verse_id": 20203058,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In यु and प्लु , long is substituted for उ in the छन्दस् (Vedas)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212686,
+    "chapter_id": 7793,
+    "verse_number": "९",
+    "content_sanskrit": "निशीथगोपीथावगथाः",
+    "padaccheda": "",
+    "anvaya": "थक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212686,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "निशीथोऽर्धरात्रः रात्रिमात्रं च । गोपीथं तीर्थम् । अवगथः प्रातःस्नातः ।"
+    }
+  ]
+}

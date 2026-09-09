@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20210055,
+    "chapter_id": 7781,
+    "verse_number": "५६",
+    "content_sanskrit": "नद्",
+    "padaccheda": "णदँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अव्यक्ते शब्दे",
+    "meaning_english": "to thunder, to roar, to make a loud sound",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210055,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — घण्टा या पशु के समान शब्द करना\nसम् + उद् — घण्टा या पशु के समान शब्द करना\nवि + अनु — निनादित करना,शब्दों से भर देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20210055,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "नदत्यव्यक्तशब्दार्थे, भाषार्थे नादयेदिति' (श्लो.110) इति देवः ।"
+    }
+  ]
+}

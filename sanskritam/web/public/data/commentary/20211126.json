@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211126,
+    "chapter_id": 7781,
+    "verse_number": "११२७",
+    "content_sanskrit": "मान्",
+    "padaccheda": "मानँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "पूजायाम् जिज्ञासायां च",
+    "meaning_english": "to worship, to investigate,to examine,to wish to know",
+    "audio_url": null,
+    "display_order": 1127,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211126,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ( विचारार्थे सन् ) ' पूजायां मानयेन्माने द्यौ मीमांसेत तङ्सनोः ' (श्लो. 126) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211442,
+    "chapter_id": 7785,
+    "verse_number": "११",
+    "content_sanskrit": "दु",
+    "padaccheda": "टुदु",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "उपतापे",
+    "meaning_english": "to give pain,to burn,to heat, to set on fire",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211442,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " दुनोति दूयते तापे दवतीति गतौ पदम् ' (श्लो. 22) इति देवः ।"
+    }
+  ]
+}

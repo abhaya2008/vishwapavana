@@ -1,0 +1,87 @@
+{
+  "verse": {
+    "id": 20200229,
+    "chapter_id": 7751,
+    "verse_number": "१.३.८२",
+    "content_sanskrit": "परेर्मृषः",
+    "padaccheda": "परेः । मृषः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": "अनुवृत्तिः — कर्तरि (१.३.१४), कर्तरि (१.३.७८), परस्मैपदम् (१.३.७८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200229,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "<<मृष तितिक्षायाम्>> (धा० पा० ११६५) स्वरितेत्। ततस्तथैवात्मनेपदे प्राप्ते परस्मैपदं विधीयते। परिपूर्वाद् मृष्यतेः परस्मैपदं भवति। परिमृष्यति, परिमृष्यतः, परिमृष्यन्ति। परेरिति किम्? आमृष्यते। वहतिमपि केचिदत्रानुवर्तयन्ति — परिवहति॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200229,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "परिमृष्यति । भौवादिकस्य तु परिमर्षति । इह परेरिति योगं विभज्य वहेरपीति केचित् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200229,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "परिमृष्यति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200229,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<परेर्मृषः>> - परेर्मृषः ।परस्मैपद॑मिति शेषः ।मृष तितक्षाया॑मिति दैवादिकस्य स्वरितेत्त्वात्पदद्वये प्राप्तेऽयं विदिः । तदाह — परिमृष्यतीति । चौरादिकस्याऽपिआधृषाद्वे॑ति णिजभावे स्वरितेत्त्वेऽपि परस्मैपदमेव- परिमर्षतीति । भौवादिकस्य त्विति ।मृषु सहने सेचने चे॑ति भौवादिकस्यतु परस्मैपदित्वात्परिमर्षतीत्येव रूपं सिद्धम् । अतोऽमिन् सूत्रे तस्य न ग्रहणमिति भावः । इहेति । 'परे' रिति योगो विभज्यते । 'वह' इत्यनुवर्तते । परेर्वहः परस्मैपदमित्यर्थः । परिवहति । 'मृष' इति योगान्तरम् । तत्र परेरित्यनुवर्तते, परेर्मृषः पर्समैपदमित्युक्तोऽर्थ इति केचिदाहुरित्यर्थः । भाष्ये त्वयं योगविभागो न दृश्यते । व्याङ्परिभ्यो रमः ।१.३.८३ ।व्याङ्परिभ्यो रमः ।परस्मैपद॑मिति शेषः । रमेरनुदात्तेत्त्वाद्विधिरयम् । विरमतीति । आरमति, परिरमतीत्यप्युदाहार्यम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200229,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<परेर्मृषः>> - स्वरित्वात्पदद्वये प्राप्तेऽयमारम्भः । परिमर्षतीति ।आ धृषाद्वे॑ति ति वैकल्पिकत्वाण्णिजभावः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200229,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`परिमृष्यति` इति। दिवादित्वाच्छ्यन्॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200229,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "परिमृष्यति । वहेरपि । परिवहति । परिमृषिरसूयार्थ इत्याह भट्टिः । क्षिपादीनां स्वरितेत्त्वान्न्नित्यार्थमुक्तिः ।"
+    },
+    {
+      "id": 8,
+      "verse_id": 20200229,
+      "commentary_type": "सुधा",
+      "author": "",
+      "content": "<w>परेर्मृष इति ।</w> परिपूर्वाद् मृषतेः परस्मैपदम्भवति । <w>परिमृषति ।</w> मृषतितिक्षायां स्वरितेत् । ततस्तथैवात्मनेपदे प्राप्ते <<परेर्मृषः>> इति परस्मैपदं विधीयते ।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200229,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb मृष् 'to bear', preceded by परि , परस्मैपद is used when the fruit of the action accrues to the agent.\nThe root मृष \"to suffer\" is <i>svaritet</i>, and by <i>sutra</i> [[1.3.72]] it would have taken <i>Atmanepada</i> termination when the fruit of the action accrued to the agent. This ordains <i>parasmaipada</i> instead. As परमृष्यति 'he endures or he becomes angry.' When not preceded by this preposition, it takes <i>Atmanepada</i> termination. As आमृष्यते.\n\nAccording to some authors, the root वह of the last aphorism is said to be understood in this, so that वह preceded by परि will also take <i>parasmaipada</i> terminations; as परिवहति"
+    },
+    {
+      "id": 10,
+      "verse_id": 20200229,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the verb मृष् 'to bear', preceded by परि , परस्मैपद is used when the fruit of the action accrues to the agent."
+    }
+  ]
+}

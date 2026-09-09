@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210854,
+    "chapter_id": 7781,
+    "verse_number": "८५५",
+    "content_sanskrit": "नभ्",
+    "padaccheda": "णभँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "हिंसायाम् अभावे च",
+    "meaning_english": "to kill, to destroy",
+    "audio_url": null,
+    "display_order": 855,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210854,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "नभ्येत् नभ्नाति नभते हिंसायां तन्नुभेः समम् ' ( श्लो. 145) इति देवः । ' णभिरयमभावेपि वर्तते । नभन्तामन्यके समे ' इत्यत्र , ' मा भूवन् अन्यके सर्वे ' इति निरुक्तम् (5.23) ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

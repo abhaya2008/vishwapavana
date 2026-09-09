@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211154,
+    "chapter_id": 7781,
+    "verse_number": "११५५",
+    "content_sanskrit": "शप्",
+    "padaccheda": "शपँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "आक्रोशे",
+    "meaning_english": "to swear, to take oath, to pledge, to curse, to abuse",
+    "audio_url": null,
+    "display_order": 1155,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211154,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आक्रोशे शप्यते शप्येत्, शपते शपतीति च । उपालम्भे शपेर्वाक्यात्तङि स्यात् शपते पदम् ' (श्लो. 132) इति देवः । ' आक्रोशे विरुद्धानुध्यायम् ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

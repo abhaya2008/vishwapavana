@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213516,
+    "chapter_id": 7799,
+    "verse_number": "१८२",
+    "content_sanskrit": "गृहमेहदेहपट्टपटहाष्टापदाम्बुदककुदाश्च ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 182,
+    "avatarnika": "पुंनपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213516,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इति पुंनपुंसकाधिकारः ॥"
+    }
+  ]
+}

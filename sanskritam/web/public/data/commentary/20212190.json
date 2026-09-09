@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212190,
+    "chapter_id": 7790,
+    "verse_number": "४४१",
+    "content_sanskrit": "गृह",
+    "padaccheda": "गृह",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "ग्रहणे",
+    "meaning_english": "to take, to accept",
+    "audio_url": null,
+    "display_order": 441,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212190,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । आवर्गीयः । ' ण्यन्तस्य ग्रहणे गृहेर्गृहयते, तत्रानदन्ताद् गृहेः भूवादेः शपि गर्हते, श्नि तु पदे गृह्णात्यगृह्णीत च । गर्हेर्वा णिचि निन्दनार्थविषये गर्हेत् तथा गर्हयेद् भूवादेः शपि कुत्सनार्थविषये गर्हेर्भवेद् गर्हते ' (श्लो. 194) इति देवः ।"
+    }
+  ]
+}

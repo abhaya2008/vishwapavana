@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211220,
+    "chapter_id": 7782,
+    "verse_number": "५५",
+    "content_sanskrit": "ख्या",
+    "padaccheda": "ख्या",
+    "anvaya": "P-पदी, गणः 2",
+    "meaning_sanskrit": "प्रकथने",
+    "meaning_english": "to explain, to make famous, to elocute",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211220,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अभि — चमकना\nआ — कीर्तिमान होना\nवि — प्रख्यात होना\nसु — पसन्द होना\nप्रति + आ — खण्डन करना\nसम् — गिनना\nसम् + आ — संज्ञा देना, नाम रखना"
+    }
+  ]
+}

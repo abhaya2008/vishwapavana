@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211421,
+    "chapter_id": 7784,
+    "verse_number": "१५३",
+    "content_sanskrit": "लुभ्",
+    "padaccheda": "लुभँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "गार्द्ध्ये",
+    "meaning_english": "to long for, to wish, to be greedy, to desire",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211421,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्र — लुभाना, आकर्षण करना, अपने तरफ आकर्षित करना\nसम् — लुभाना, आकर्षण करना, अपने तरफ आकर्षित करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211421,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भूवादेरवृत्कृतत्वात् लोभते इति भवति इति आत्रेयः ' इति मा.धा. वृत्तिरिह अनुसन्धेया । ' गार्ध्यम् = आकाङ्क्षा ' इति च तत्र वृत्तिः । ' गार्ध्ये लुभ्यति मोहार्थे तुदादेर्लुभतीति शे (श्लो. 141) इति देवः ।"
+    }
+  ]
+}

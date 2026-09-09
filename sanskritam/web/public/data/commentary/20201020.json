@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201020,
+    "chapter_id": 7759,
+    "verse_number": "३.३.६४",
+    "content_sanskrit": "नौ गदनदपठस्वनः",
+    "padaccheda": "नौ । गद-नद-पठ-स्वनः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), अनुपसर्गे (३.३.६१), वा (३.३.६२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201020,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अबित्येव। निशब्द उपपदे गद नद पठ स्वन इत्येतेभ्यो धातुभ्यो वा अप् प्रत्ययो भवति। घञोऽपवादः। निगदः, निगादः। निनदः, निनादः। निपठः, निपाठः। निस्वनः, निस्वानः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201020,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अप् वा स्यात् । निगदः । निगादः । निनदः । निनादः । निपठः । निपाठः । निस्वनः । निस्वानः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201020,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अप् वा स्यात् । निगदः निगादः इत्यादि ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201020,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes optionally after the verbs 1. गद् 'to speak' 2. नद् 'to sound' 3. पठ् 'to read' 4. स्वन् 'to sound' when the उपसर्ग नि is in composition with them.\nThis debars घञ्. Thus निगदः or निगादः 'recitation';  निनदः or निनादः 'noise'; निपठः or निपाठः 'reading'; निस्वनः or निस्वानः 'a noise'."
+    },
+    {
+      "id": 5,
+      "verse_id": 20201020,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes optionally after the verbs 1. गद् 'to speak' 2. नद् 'to sound' 3. पठ् 'to read' 4. स्वन् 'to sound' when the उपसर्ग नि is in composition with them."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201020,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "प्रतीयीरे श्रोत्र-सुखैर्निनादैः (भट्टिकाव्यम् 2.18) — `नौ गढ़` इत्यादिना घञ्।\nनिनादं परिदेविनी (भट्टिकाव्यम् 5.53) — `नौ गद-नद` इति विकल्पनात् पक्षे घञ्।\nसंयाम-वन्तो यति-वन्निगदानपरेऽमुचन् (भट्टिकाव्यम् 7.57) — `नौ गढ़` इत्यादिना विकल्पेनापो विधानात् घञ्।"
+    }
+  ]
+}

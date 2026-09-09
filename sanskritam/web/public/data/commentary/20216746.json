@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216746,
+    "chapter_id": 7843,
+    "verse_number": "१२१",
+    "content_sanskrit": "नित्यद्रव्यवृत्तयो व्यावर्तका विशेषाः ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": "विशेषः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216746,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "नित्येति । घटत्वादिवारणाय नित्यद्रव्यवृत्तय इति । आत्मत्वमनस्त्ववारणाय आत्मत्वमनस्त्वभिन्ना इत्यपि बोध्यम् ।"
+    }
+  ]
+}

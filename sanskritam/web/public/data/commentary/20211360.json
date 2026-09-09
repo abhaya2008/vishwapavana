@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211360,
+    "chapter_id": 7784,
+    "verse_number": "९२",
+    "content_sanskrit": "तृप्",
+    "padaccheda": "तृपँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "प्रीणने",
+    "meaning_english": "to satisfy, to be satisfied, to please, to be pleased",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211360,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रीणनम् = तृप्तिः , तर्पणं च । आद्येकर्मकः , द्वितीये सकर्मकः । ' तृप्नोति तृप्येतीत्येते प्रीणने श्नौ श्यनि क्रमात् । तृप्तावन्यतरस्यां णौ स्यातां तर्पति तर्पयेत् ' (श्लो. 133) इति देवः ।"
+    }
+  ]
+}

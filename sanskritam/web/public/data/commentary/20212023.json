@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20212023,
+    "chapter_id": 7790,
+    "verse_number": "२७४",
+    "content_sanskrit": "चर्",
+    "padaccheda": "चरँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "संशये",
+    "meaning_english": "to doubt",
+    "audio_url": null,
+    "display_order": 274,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212023,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "वि — विचार करना\nउद् — उच्चारण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20212023,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " संशये चारयेत् गत्यां चरति ' (श्लो. 153) इति देवः ।"
+    }
+  ]
+}

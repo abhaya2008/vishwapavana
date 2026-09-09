@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211783,
+    "chapter_id": 7790,
+    "verse_number": "३४",
+    "content_sanskrit": "कुट्ट्",
+    "padaccheda": "कुट्टँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "छेदनभर्त्सनयोः",
+    "meaning_english": "to cut, to criticise, to blame",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211783,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पूरणे ' इत्येके ।"
+    }
+  ]
+}

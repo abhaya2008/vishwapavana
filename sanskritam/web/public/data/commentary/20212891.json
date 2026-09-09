@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212891,
+    "chapter_id": 7794,
+    "verse_number": "९१",
+    "content_sanskrit": "जेर्मुट् चोदात्तः",
+    "padaccheda": "",
+    "anvaya": "क्त",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212891,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जीमूतः ।"
+    }
+  ]
+}

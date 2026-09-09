@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200754,
+    "chapter_id": 7757,
+    "verse_number": "३.१.१३६",
+    "content_sanskrit": "आतश्चोपसर्गे",
+    "padaccheda": "आतः । च । उपसर्गे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 136,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), कः (३.१.१३५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200754,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आकारान्तेभ्यो धातुभ्य उपसर्ग उपपदे कप्रत्ययो भवति। णस्यापवादः। प्रस्थः। सुग्लः। सुम्लः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200754,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कः स्यात् ।श्याद्व्यधा - <{SK2903}> इति णस्यापवादः । सुग्लः । प्रज्ञः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200754,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "प्रज्ञः। सुग्लः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200754,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<आतश्चोपसर्गे>> - आतश्चोपसर्गे । कः स्यादिति । शेषपूरणम् । उपसर्गे उपपदे आदन्ताद्धातोः कः स्यादिति फलति । णस्यापवाद इति । तस्य उपसर्गेऽनुपसर्गे च आदन्तसामान्यविहितत्वादिति भावः । सुग्ल इति । ग्लैधातोः 'आदेचः' इत्यात्वे कृते कप्रत्यये आतो लोप इति भावः । प्रज्ञ इति । ज्ञाधातोरातो लोपः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200754,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`णप्रत्ययस्यापवादः` इति। `श्याद्व्यध`  [[3.1.141]]  इत्यादिना प्राप्तस्य। `सुग्लः` इति। `ग्लै म्लै हर्षक्षये` (धातुपाठः-903,904)॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200754,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "सोपसर्गादादन्तात् कः स्यात् । सुदः । सुयः । ‘कविषये (सर्वत्र) प्रसारिणिभ्यो डो वाच्यः’ (वा० ३-२-३) । आह्वा अ ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200754,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Also after a verb ending in long आ when there is a preposition along with it, the affix क is placed.\nThis is an <i>apavada</i> of  [[3.1.40]], and debars the affix ण. Thus प्रस्था + क = प्रस्थ + अ = प्रस्थः [[6.4.64]]. सुग्लै + क = सुग्ल + अ = सुग्लः 'very weary' (आ substituted for ऐ by (VI.I.45.)) सुम्लै + क = सुम्ला + अ = सुम्लः 'very languid'.\n\nThe final आ is dropped before the affix क by rule [[6.4.64]]. There is elision of long आ when an <i>ardhadhatuka</i> affix follows beginning with a vowel and having an indicatory क or ङ."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200754,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Also after a verb ending in long आ when there is a preposition along with it, the affix क is placed."
+    },
+    {
+      "id": 9,
+      "verse_id": 20200754,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "वन्यामेवास्य संविधाम् (रघुवंशम् 1.94) — `आतश्चोपसर्गे` इति कप्रत्ययः।\nमरुत्प्रयुक्ताश्च मरुत्सखाभं (रघुवंशम् 2.10) — `आतश्चोपसर्गे` इति कप्रत्ययः।\nअथ नयनसमुत्थं ज्योतिरत्रेरिव द्यौः (रघुवंशम् 2.75) — `आतश्चोपसर्गे` इति कप्रत्ययः।\nदरीमुखोत्थेन समीरणेन (कुमारसम्भवम् 1.8) — `आतश्चोपसर्गे` इति कप्रत्ययः।\nकुलप्रतिष्ठां प्रणमय्य माता (कुमारसम्भवम् 7.27) — `आतश्चोपसर्गे` इति कः प्रत्ययः।\nकेकय्युपज्ञं बत बह्वनर्थम् (भट्टिकाव्यम् 3.31) — `आतश्चोपसर्गे` इति खियामङ्।\nकपि-विश्वं-भराऽधिपम् (भट्टिकाव्यम् 6.107) — `आतश्चोपसर्गे` इति कः प्रत्ययः।"
+    }
+  ]
+}

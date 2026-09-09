@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216282,
+    "chapter_id": 7825,
+    "verse_number": "९२",
+    "content_sanskrit": "प्रकृतिग्रहणे ण्यधिकस्यापि ग्रहणम्",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": "ननु 'प्रजिघायिषती'त्यादौ <<हेरचङि>> [[7.3.56]] इति विधीयमानं कुत्वं न स्यादत आह —"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216282,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "'अचङी'ति प्रतिषेध एवास्या ज्ञापकः । इयं च कुत्वविषयैव । 'हेरचङि' इति सूत्रे भाष्ये स्पष्टेयम् ॥"
+    }
+  ]
+}

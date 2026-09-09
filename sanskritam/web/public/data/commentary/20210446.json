@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210446,
+    "chapter_id": 7781,
+    "verse_number": "४४७",
+    "content_sanskrit": "रेभ्",
+    "padaccheda": "रेभृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 447,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210446,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' अभीरथी क्वचित् पठ्येते । अम्भते, रम्भते ' इति कौमुदी ।"
+    }
+  ]
+}

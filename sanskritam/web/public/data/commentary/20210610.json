@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210610,
+    "chapter_id": 7781,
+    "verse_number": "६११",
+    "content_sanskrit": "चिल्ल्",
+    "padaccheda": "चिल्लँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शैथिल्ये भावकरणे च",
+    "meaning_english": "to loosen, to express, to speak out",
+    "audio_url": null,
+    "display_order": 611,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210610,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "भावकरणम् = अभिप्रायाविष्कारः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212920,
+    "chapter_id": 7794,
+    "verse_number": "१२०",
+    "content_sanskrit": "वयश्च",
+    "padaccheda": "",
+    "anvaya": "असच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212920,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वय गतौ । वायसः काकः ।"
+    }
+  ]
+}

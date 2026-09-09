@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213225,
+    "chapter_id": 7796,
+    "verse_number": "२७",
+    "content_sanskrit": "स्पृशेः श्वण्शुनौ पृ च",
+    "padaccheda": "",
+    "anvaya": "श्वण् , शुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213225,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्वण्शुनौ प्रत्ययौ पृ इत्यादेशः । पार्श्वोऽस्त्री कक्षयोरधः । पर्शुरायुधम् ।"
+    }
+  ]
+}

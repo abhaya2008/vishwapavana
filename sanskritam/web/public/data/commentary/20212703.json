@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212703,
+    "chapter_id": 7793,
+    "verse_number": "२६",
+    "content_sanskrit": "शुसिचिमीनां दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "क्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212703,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शुः सौत्रः । शूरः । सीरम् । चीरम् । भीरः समुद्रः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213138,
+    "chapter_id": 7795,
+    "verse_number": "१७८",
+    "content_sanskrit": "रुचिभुजिभ्यां किष्यन्",
+    "padaccheda": "",
+    "anvaya": "किष्यन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 178,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213138,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रुचिष्यमिष्टम् । भुजिष्यो दासः ।"
+    }
+  ]
+}

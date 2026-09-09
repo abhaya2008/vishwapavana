@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213175,
+    "chapter_id": 7795,
+    "verse_number": "२१५",
+    "content_sanskrit": "अञ्च्यञ्जियुजिभृजिभ्यः कुञ्च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 215,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213175,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एभ्योऽसुन् कवर्गश्चान्तादेशः । अङ्कश्चिह्नशरीरयोः । अङ्गः पक्षी । योगः समाधिः । भर्गस्तेजः ।"
+    }
+  ]
+}

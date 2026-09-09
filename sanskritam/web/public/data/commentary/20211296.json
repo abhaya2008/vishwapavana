@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211296,
+    "chapter_id": 7784,
+    "verse_number": "२८",
+    "content_sanskrit": "दू",
+    "padaccheda": "दूङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "परितापे",
+    "meaning_english": "to feel sad",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211296,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " परितापः = खेदः । ' दुनोति दूयते तापे, दवतीति गतौ पदम् ' (श्लो. 22) इति देवः ।"
+    }
+  ]
+}

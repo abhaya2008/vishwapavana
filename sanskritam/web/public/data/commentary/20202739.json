@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20202739,
+    "chapter_id": 7770,
+    "verse_number": "६.२.७७",
+    "content_sanskrit": "संज्ञायां च",
+    "padaccheda": "संज्ञायाम् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), उदात्तः (६.२.६४), आदिः (६.२.६४), अणि (६.२.७५), च (६.२.७६), अकृञः (६.२.७६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202739,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "संज्ञायां विषयेऽणन्त उत्तरपदेऽकृञः पूर्वपदमाद्युदात्तं भवति। तन्तु॑वायो नाम कीटः। वाल॑वायो नाम पर्वतः। अकृञ इत्येव — र॒थ॒का॒रो नाम ब्राह्मणः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202739,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अण्णन्ते परे । तन्तुवायो नाम कृमिः । अकृञ इत्येव । रथकारो नाम ब्राह्मणः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202739,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अकृञ्यणन्ते परे नाम्नि प्राक्पदमाद्युदात्तं स्यात् । तन्तुवायः इत्यूर्ण- नाभिनामा ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202739,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Also when such an उपपद compound ending in अण् -affix denotes a Name, the acute accent (उदात्त) falls on the first syllable but not when the second term is कार।\nThus त꣡न्तुवायः 'a kind of insect, spider'. वा꣡लवायः 'the hill <i>Valavaya</i>'. But not so अण् with कृ; as रथकारः꣡ 'the name of a <i>Brahmana</i> caste'."
+    },
+    {
+      "id": 5,
+      "verse_id": 20202739,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Also when such an उपपद compound ending in अण् -affix denotes a Name, the acute accent (उदात्त) falls on the first syllable but not when the second term is कार।"
+    }
+  ]
+}

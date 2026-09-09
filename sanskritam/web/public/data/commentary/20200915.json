@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20200915,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१४७",
+    "content_sanskrit": "देविक्रुशोश्चोपसर्गे",
+    "padaccheda": "देवि-क्रुशोः । च । उपसर्गे",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 147,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200915,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "देवयतेः क्रुशेश्चोपसर्ग उपपदे वुञ् प्रत्ययो भवति। आदेवकः। परिदेवकः। आक्रोशकः। परिक्रोशकः। उपसर्ग इति किम्? देवयिता। क्रोष्टा॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200915,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आदेवकः । आक्रोशकः । उपसर्गे किम् । देवयिता । क्रोष्टा ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200915,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<देविक्रुशोश्चोपसर्गे>> - देवीक्रुशोः । देवीति चुरादिण्यन्तस्य,दिवु क्रीडा॑इत्यस्य च ग्रहणम् । उपसर्गे उपपदे देवयतेः क्रुशेश्च तच्छीलादिषु वुञ् स्यादित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200915,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<देविक्रुशोश्चोपसर्गे>> - देविक्रुशोः । दीव्यतेर्हेतुमण्ण्यन्तस्य, दिवु कूजने इति चुरादिण्यन्तस्य च ग्रहणम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200915,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "देविक्रुशोश्चोपसर्गे॥ देवयतेरिति। दीव्यतेर्हेतुमण्णिजन्तस्य,'दिवि कूजने'  इत्यस्य चुरादिण्यन्तस्य च॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200915,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्रदेवयितुं शीलमस्येति प्रवेशकः आक्रोशकः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200915,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes after the verbs देवि 'to lament' and क्रुश 'to cry' when an उपसर्ग is in composition with them.\nAs आदेवकः 'one who sports or laments'; आक्रोशकः 'vociferous, a reviler'; परिदेवकः 'one who laments'; परिक्रोशकः 'a reviler'.\n\nWhy do we say 'when in composition with an <i>upasarga</i>'? Observe देवयिता and क्रोष्ठा formed by तृन् [[3.2.135]]."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200915,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix वुञ् comes after the verbs देवि 'to lament' and क्रुश 'to cry' when an उपसर्ग is in composition with them."
+    }
+  ]
+}

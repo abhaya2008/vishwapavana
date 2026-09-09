@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212536,
+    "chapter_id": 7792,
+    "verse_number": "१६",
+    "content_sanskrit": "कृतेराद्यन्तविपर्ययश्च",
+    "padaccheda": "",
+    "anvaya": "उ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212536,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "ककारतकारयोर्विनिमयः । तर्कुः सूत्रवेष्टनम् ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201859,
+    "chapter_id": 7764,
+    "verse_number": "४.४.११९",
+    "content_sanskrit": "बर्हिषि दत्तम्",
+    "padaccheda": "बर्हिषि । दत्तम्",
+    "anvaya": "'तत्र दत्तम्' इति बर्हिषि छन्दसि संज्ञायात् यत्",
+    "meaning_sanskrit": "'दत्तम्' अस्मिन् अर्थे सप्तमीसमर्थात् 'बर्हिस्' शब्दात् वेदेषु संज्ञायाः विषये यत्-प्रत्ययः कृतः दृश्यते । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 119,
+    "avatarnika": "अनुवृत्तिः — तत्र (४.४.९८), छन्दसि (४.४.११०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201859,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "भव इति निवृत्तम्। बर्हिःशब्दात् सप्तमीसमर्थाद् दत्तमित्येतस्मिन्नर्थे यत् प्रत्ययो भवति। बर्हि॒ष्ये॑षु नि॒धिषु॑ पि्॒रयेषु॑ (ऋ०१०.१५.५)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201859,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "प्राग्घिताद्यत् <{SK1626}> इत्येव । बर्हिष्येषु निधिषु प्रियेषु (ब॒र्हि॒ष्येषु॑ नि॒धिषु॑ प्रि॒येषु॑) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201859,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "'बृहेर्नलोपश्च'  इतीसिप्रत्ययः, बर्हिः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201859,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अस्मिन्नर्थे यत् । बर्हिष्येषु निधिषु ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201859,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् comes in the sense of 'given' after the word बर्हिष् in the Locative -7th case in construction, in the छन्दस् (Vedas).\nThe <i>anuvritti</i> of तत्र भवः ceases. Thus बर्हिष्येषु॑ निधिषु प्रियेषु ॥ <i>R</i>. <i>V</i>. 1.15 5"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201859,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix यत् comes in the sense of 'given' after the word बर्हिष् in the Locative -7th case in construction, in the छन्दस् (Vedas)."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201859,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'बर्हिस्' (अग्निः) अस्मात् शब्दात् सप्तमीसमर्थात् दत्तमस्मिन् अर्थे वेदेषु संज्ञायाः विषये यत्-प्रत्ययः कृतः दृश्यते ।\nबर्हिषि दत्तम्\n= बर्हिस् + यत्\n→ बर्हिष्य [<<आदेशप्रत्यययोः>> [[8.3.59]] इति षत्वम्]\nयथा - ऋग्वेदः 10.15.5 - उप॑हूताः पि॒तर॑: सो॒म्यासो॑ बर्हि॒ष्ये॑षु नि॒धिषु॑ प्रि॒येषु॑  ।\n"
+    }
+  ]
+}

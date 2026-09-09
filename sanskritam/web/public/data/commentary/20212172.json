@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212172,
+    "chapter_id": 7790,
+    "verse_number": "४२३",
+    "content_sanskrit": "पल्पूल",
+    "padaccheda": "पल्पूल",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "लवनवपनयोः",
+    "meaning_english": "to cut, to purify, to cleanse, to drop",
+    "audio_url": null,
+    "display_order": 423,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212172,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । \" पल्पूलनं शोधनद्रव्यम् ' इति ' नास्य पल्पूलनेन वासः पल्पूलयेयुः \" इति भाष्यम् इति मा.धा.वृत्तिः । ' पल्यूल ' इति केचित् ।"
+    }
+  ]
+}

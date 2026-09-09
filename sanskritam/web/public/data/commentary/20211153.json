@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211153,
+    "chapter_id": 7781,
+    "verse_number": "११५४",
+    "content_sanskrit": "रञ्ज्",
+    "padaccheda": "रन्जँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "रागे",
+    "meaning_english": "to paint, to color",
+    "audio_url": null,
+    "display_order": 1154,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211153,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अनु — किसी वस्तु में अनुरक्त होना, मोहित होना\nवि — अप"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211153,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " रजते रजतीत्येव रज्यते रज्यतीत्यपि । रागार्थे शप्श्यनोर्द्वे द्वे ' (श्लो. 57,58) इति देवः ।"
+    }
+  ]
+}

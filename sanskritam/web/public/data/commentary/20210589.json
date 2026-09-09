@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210589,
+    "chapter_id": 7781,
+    "verse_number": "५९०",
+    "content_sanskrit": "शुच्य्",
+    "padaccheda": "शुच्यँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अभिषवे",
+    "meaning_english": "to bathe, to give bath, to extract, to churn, to print",
+    "audio_url": null,
+    "display_order": 590,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210589,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चुच्य इत्येके ' इति कौमुदी । अभिषवः नाम अवयवानां शिथिलीकरणं सुरायाः सन्धानं च । अभिषवः स्नानम् इति चन्द्रः ।"
+    }
+  ]
+}

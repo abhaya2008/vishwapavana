@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213581,
+    "chapter_id": 7802,
+    "verse_number": "९",
+    "content_sanskrit": "छन्दसि च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213581,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अमकराद्यर्थ आरम्भः । लक्ष्यानुसारादादिर्द्वितीयं चोदात्तं ज्ञेयम् ॥"
+    }
+  ]
+}

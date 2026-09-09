@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210090,
+    "chapter_id": 7781,
+    "verse_number": "९१",
+    "content_sanskrit": "शङ्क्",
+    "padaccheda": "शकिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "शङ्कायाम्",
+    "meaning_english": "to doubt,to suspect",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210090,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शङ्कते शकि शङ्कायां शक्तौ शक्नोति मर्षणे ' (श्लो. 43) इति देवः ।"
+    }
+  ]
+}

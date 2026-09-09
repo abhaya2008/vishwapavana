@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210345,
+    "chapter_id": 7781,
+    "verse_number": "३४६",
+    "content_sanskrit": "खट्",
+    "padaccheda": "खटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "काङ्क्षायाम्",
+    "meaning_english": "to wish, to desire",
+    "audio_url": null,
+    "display_order": 346,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210345,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "खटः = तृणविशेषः ।"
+    }
+  ]
+}

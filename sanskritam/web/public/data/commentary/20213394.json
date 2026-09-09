@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213394,
+    "chapter_id": 7799,
+    "verse_number": "६०",
+    "content_sanskrit": "प्रागरश्मेरकारान्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213394,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रश्मिर्दिवसाभिधानमिति वक्ष्यति । प्रागेतस्मादकारान्त इत्यधिक्रियते ।"
+    }
+  ]
+}

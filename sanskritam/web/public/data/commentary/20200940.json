@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20200940,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१७२",
+    "content_sanskrit": "स्वपितृषोर्नजिङ्",
+    "padaccheda": "स्वपि-तृषोः । नजिङ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 172,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200940,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसीति निवृत्तम्। स्वपेस्तृषेश्च तच्छीलादिषु कर्तृषु नजिङ् प्रत्ययो भवति। स्वप् — स्वप्नक् । तृष्णक् ॥ धृषेश्चेति वक्तव्यम्॥ धृष्णक् ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200940,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "स्वप्नक् । तृष्णक् । तृष्णजौ । तृष्णजः । धृषेश्चेति वाच्यमिति काशिकादौ । धृष्णक् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200940,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<स्वपितृषोर्नजिङ्>> - स्वपितृषोर्नजिङ् । पञ्चम्यर्थे षष्ठी । स्वपेर्नजिङ् स्यात्तच्छलादिष्वित्यर्थः । जकारादिकार उच्चारणार्थः । ङकार इत् । स्वप्नगिति । स्वपनशील इत्यर्थ- । स्वप्नजौ स्वप्नजः । एवं तृष्णक् । तर्षणशीलः इत्यर्थः । धृषेश्चेति ।नजि॑ङिति शेषः । काशिकादाविति । भाष्ये तु न दृश्यते इति भावः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200940,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`स्वप्नक, तृष्णक्` इति। `ञिष्वप शये` (धातुपाठः-1068), `ञितृषा पिपासायाम्` (धातुपाठः-1228), <<चोः कुः>> [[8.2.30]]  इति कुत्वम् -  गकारः। तस्य <<वाऽवसाने>> [[8.4.56]]  इति चर्त्वम् -  ककारः। नजिङो ङकारस्तृषेश्च गुणप्रतिषेधार्थः, इकार उच्चारणार्थः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200940,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "स्वप्नज् । पदत्वे स्वप्नक् स्वापशीलः । ङित्त्वादगुणः णत्वम् । तृष्णक् ।<!धृषेश्च वाच्यम्!> (वा० ३-२-१७२) । धृष्णक् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200940,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix नजिङ् comes, in the sense of 'agent having such a habit etc.' after the verbs स्वप् 'to sleep' and तृष् 'to be thirsty'.\nThe affix नजिङ् comes, in the sense of 'the agents having such a habit &c', after the verbs स्वप् 'to sleep' and तृष 'to be thirsty'.\n\nAs स्वप् + नजिङ् = स्वप्नज् Ist. sing. स्वप्नक् 'sleeping, drowsy'; तृष्णज् Ist. sing. तृष्णक् 'covetous, thirsty'.\n\nVart:- So also after the verb धृष् 'to insult, be bold'; as, धृष्णज् Ist. sing. धृष्णक् 'bold, impudent'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20200940,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix नजिङ् comes, in the sense of 'agent having such a habit etc.' after the verbs स्वप् 'to sleep' and तृष् 'to be thirsty'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20200940,
+      "commentary_type": "वार्तिकम्",
+      "author": "कात्यायनः",
+      "content": "१. धृषेश्चेति वाच्यम् ।"
+    },
+    {
+      "id": 9,
+      "verse_id": 20200940,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अहं स्वप्नक्प्रसादेन तव वन्दारुभिः सह (भट्टिकाव्यम् 7.25) — `स्वपि- तृषोर्नजिङ्` इति नजिङ् प्रत्ययः।"
+    }
+  ]
+}

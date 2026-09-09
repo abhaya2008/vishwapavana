@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212873,
+    "chapter_id": 7794,
+    "verse_number": "७३",
+    "content_sanskrit": "कृधूमधिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "सर",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212873,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "बाहुलकान्न षत्वम् । कृसरः स्यात्तिलौदनम् । धूसरः । मत्सरः । मत्सरा मक्षिका ज्ञेया भम्भराली च सा मता ।"
+    }
+  ]
+}

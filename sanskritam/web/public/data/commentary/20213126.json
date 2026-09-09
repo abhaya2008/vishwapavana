@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213126,
+    "chapter_id": 7795,
+    "verse_number": "१६६",
+    "content_sanskrit": "गुधृवीपचिवचियमिसदिक्षदिभ्यस्त्रः",
+    "padaccheda": "",
+    "anvaya": "त्र",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 166,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213126,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "गोत्रं स्यान्नामवंशयोः । गोत्रा प्रुथिवी । धर्त्रं गृहम् । वेत्रम् । पक्त्रम् । वक्त्रम् । यन्त्रम् । सन्त्रम् । क्षन्त्रम् ।"
+    }
+  ]
+}

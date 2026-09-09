@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212945,
+    "chapter_id": 7794,
+    "verse_number": "१४५",
+    "content_sanskrit": "विटपपिष्टपविशिपोलपाः",
+    "padaccheda": "",
+    "anvaya": "कप",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212945,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चत्वारोऽमी कपन् प्रत्ययान्ताः । विट शब्दे । विटपः । विशतेरादेः पः । प्रत्ययस्य तुट् । षत्वम् । पिष्टपं भुवनम् । विशतेः प्रत्ययादेरित्वम् । विशिपं मन्दिरम् । वलतेः संप्रसारणम् । उलपं कोमलं तृणम् ।"
+    }
+  ]
+}

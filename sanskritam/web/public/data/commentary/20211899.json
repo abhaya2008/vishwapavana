@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211899,
+    "chapter_id": 7790,
+    "verse_number": "१५०",
+    "content_sanskrit": "मार्ज्",
+    "padaccheda": "मार्जँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "शब्दार्थे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211899,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शौचालङ्कारयोर्वा णौ मृजेर्मार्जति मार्जयेत् । मार्ष्टि शुद्धौ तथा मार्जे: शब्दार्थाद् मार्जयेण्णिचि ' (श्लो. 60 - 61) इति देवः ।"
+    }
+  ]
+}

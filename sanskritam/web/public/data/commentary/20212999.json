@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212999,
+    "chapter_id": 7795,
+    "verse_number": "३९",
+    "content_sanskrit": "मॄकणिभ्यामूकोकणौ",
+    "padaccheda": "",
+    "anvaya": "ऊक, ऊकण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212999,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मरूंको मृगः । काणूकः काकः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213938,
+    "chapter_id": 7805,
+    "verse_number": "१४५",
+    "content_sanskrit": "उपश्लेषं इवार्थानां सा करोत्यविचारिता । सार्वरूप्यं इवापन्ना विषयत्वेन वर्तते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213938,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "किं स्वभावाऽसावित्याह--\nअसंसृष्टानां पदर्थानामसावुपश्लेषं मेलनं करोति, सर्वरूपेव वाक्ये पदार्थानां वासौ विषयत्वेन वर्तते, तन्निष्ठास्ते साफल्यं भजन्त इति ॥"
+    }
+  ]
+}

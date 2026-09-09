@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211960,
+    "chapter_id": 7790,
+    "verse_number": "२११",
+    "content_sanskrit": "कूण्",
+    "padaccheda": "कूणँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "सङ्कोचे",
+    "meaning_english": "to constrict, to contract",
+    "audio_url": null,
+    "display_order": 211,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211960,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अन्ये कुणेति ह्रस्वोपधं पठन्ति । वयं तु कुणेत्यादिदर्शनान्मैत्रेयाद्युक्तं दीर्घोपधमेव बहु मन्यामहे ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

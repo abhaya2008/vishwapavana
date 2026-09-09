@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212147,
+    "chapter_id": 7790,
+    "verse_number": "३९८",
+    "content_sanskrit": "स्तन",
+    "padaccheda": "स्तन",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "देवशब्दे",
+    "meaning_english": "to have thunderstorm, to have cloud collision",
+    "audio_url": null,
+    "display_order": 398,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212147,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । देवशब्दः पर्जन्यगर्जनम् । ' शब्दे च देवशब्दे च स्तनति स्तनयेत्क्रमात् ' (श्लो. 127) - देवः ।"
+    }
+  ]
+}

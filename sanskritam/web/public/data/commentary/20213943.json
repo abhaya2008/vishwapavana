@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213943,
+    "chapter_id": 7805,
+    "verse_number": "१५०",
+    "content_sanskrit": "आहारप्रीत्यपद्वेष- प्लवनादिक्रियासु कः । जात्यन्वयप्रसिद्धासु प्रयोक्ता मृगपक्षिणाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 150,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213943,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "एवदेव स्फुटयितुमाह--\nप्रतिप्रण्याहारादिक्रिया नियताऽनादिप्रतिभावशादेवेति प्रसिद्धम् ॥"
+    }
+  ]
+}

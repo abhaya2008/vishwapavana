@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210050,
+    "chapter_id": 7781,
+    "verse_number": "५१",
+    "content_sanskrit": "खाद्",
+    "padaccheda": "खादृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "भक्षणे",
+    "meaning_english": "to eat,to consume",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210050,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — संपूर्ण रूप से खाना, मिलकर खाना"
+    }
+  ]
+}

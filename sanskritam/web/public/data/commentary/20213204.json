@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213204,
+    "chapter_id": 7796,
+    "verse_number": "६",
+    "content_sanskrit": "वातेर्नित्",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213204,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वातिरादित्यसोमयोः ।"
+    }
+  ]
+}

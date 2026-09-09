@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201030,
+    "chapter_id": 7759,
+    "verse_number": "३.३.७४",
+    "content_sanskrit": "निपानमाहावः",
+    "padaccheda": "निपानम् । आहावः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), ह्वः (३.३.७२), सम्प्रसारणम् (३.३.७२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201030,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "आङ्पूर्वस्य ह्वयतेर्धातोः संप्रसारणमप् प्रत्ययो वृद्धिश्च निपात्यते, निपानं चेदभिधेयं भवति। निपिबन्त्यस्मिन्निति निपानमुदकाधार उच्यते। आहावः पशूनाम्। कूपोपसरेषु य उदकाधारस्तत्र हि पानाय पशव आहूयन्ते। निपानमिति किम्? आह्वायः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201030,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "आङ्पूर्वस्य ह्वयतेः सम्प्रसारणमप् वृद्धिश्चोदकाधारश्चेद्वाच्यः । आहावस्तु निपानं स्यादुपकूपजलाशये ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201030,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "निपिबन्ति तस्मिन्निति निपानमित्यधिकरणे  [[3.3.117]]  ल्युट्। कस्मादाहावशब्द उदकाधारे वर्तत इत्याह -  `तत्र हि` इत्यादि। एतेनाहावशब्दस्योदकाधारे प्रवृत्तनिमित्तं दर्शयति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201030,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "आहाव इति रूपं तु जुहोतेरेव सिद्धम्, अनेकार्थत्वाद्धातूनाम् । अर्थभेदोऽप्यकिञ्चित्करः । इदं तु वचनं ह्वयतेर्घञि आह्वाय इति रूपं मा भूदिति । आहाव इत्यधिकरणे निपातनमित्याह - तत्र हीति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201030,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "गवादयः पानार्थमाहूयन्तेऽत्रेति शिलागर्तमाहावः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201030,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word आहाव is irregularly formed when meaning 'a trough'.\nThe word आहावः is irregularly formed from ह्वे by the prefix आ, then <i>samprasarana</i>, and the <i>vriddhi</i> of the vowel. Thus आ + ह्वे + अप् = आहु + अ = आहौ + अ = आहावः 'a trough near a well for watering cattle'. Otherwise आह्वायः 'calling'. Even in the word आहावः the sense of calling is understood. It is that place near a well, containing water, where cattle are called or invited to drink water."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201030,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word आहाव is irregularly formed when meaning 'a trough'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201030,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "आहावमुपलिप्सवः (भट्टिकाव्यम् 7.60) — `निपानमाहावः` इति घनि संप्रसारणं निपात्यते वृद्धिरस्त्येव।"
+    }
+  ]
+}

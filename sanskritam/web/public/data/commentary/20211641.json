@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211641,
+    "chapter_id": 7786,
+    "verse_number": "१७२",
+    "content_sanskrit": "खिद्",
+    "padaccheda": "खिदँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "परिघाते",
+    "meaning_english": "to distress, to irritate",
+    "audio_url": null,
+    "display_order": 172,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211641,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " परितापे ' इति क्षीरस्वामी । ' दैन्यैर्थे खिद्यते खिन्ते, परितापे (घाते ) तु खिन्दति ' (श्लो. 112) इति देवः ।"
+    }
+  ]
+}

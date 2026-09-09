@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211428,
+    "chapter_id": 7784,
+    "verse_number": "१६०",
+    "content_sanskrit": "ऋध्",
+    "padaccheda": "ऋधुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "वृद्धौ",
+    "meaning_english": "to increase,to prosper,to grow",
+    "audio_url": null,
+    "display_order": 160,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211428,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ऋध्नोतीति भवेद्वृद्धौ ऋध्यतीत्यत्र तु श्यनि ' (श्लो. 122) इति देवः ।"
+    }
+  ]
+}

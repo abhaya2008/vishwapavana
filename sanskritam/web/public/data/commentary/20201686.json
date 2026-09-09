@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201686,
+    "chapter_id": 7763,
+    "verse_number": "४.३.११४",
+    "content_sanskrit": "उरसो यच्च",
+    "padaccheda": "उरसः । यत् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": "अनुवृत्तिः — एकदिक् (४.३.११२), तेन (४.३.११२), तसिः (४.३.११३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201686,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "उरःशब्दाद् यत् प्रत्ययो भवति, चकारात् तसिश्च, तेनैकदिगित्येतस्मिन् विषये। अणोऽपवादः। उरसैकदिग् उरस्यः। उरस्तः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201686,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "चात्तसिः । अणोऽपवादः । उरसा एतदिक् उरस्यः । उरस्तः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201686,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<उरसो यच्च>> - उरसो यच्च । उरसा एकदिगित्यर्थे तृतीयान्तादित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201686,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "तसिश्च स्यात् । उरस्यो वर्णः । उरस्तः । वर्णस्यान्तर्भवत्वादुरोभवत्वं नास्तीत्येकदिक्त्वमेव ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201686,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes यत् and तसि come in the sense of 'in the same direction with that' after the word उरस।\nThus उरसा एकदिग् = उरस्थ or उरस्तः ॥ The तसि is read into the <i>sutra</i> by force of the word च ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201686,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affixes यत् and तसि come in the sense of 'in the same direction with that' after the word उरस।"
+    }
+  ]
+}

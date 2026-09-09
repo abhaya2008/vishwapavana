@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202740,
+    "chapter_id": 7770,
+    "verse_number": "६.२.७८",
+    "content_sanskrit": "गोतन्तियवं पाले",
+    "padaccheda": "गो-तन्ति-यवम् । पाले",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), आदिः (६.२.६४), उदात्तः (६.२.६४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202740,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "गो तन्ति यव इत्येतानि पूर्वपदानि पालशब्द उत्तरपद आद्युदात्तानि भवन्ति। गोपा॑लः। तन्ति॑पालः। यव॑पालः। अनियुक्त ार्थ आरम्भः। गोतन्तियवमिति किम्? व॒त्स॒पा॒लः। पाल इति किम्? गो॒र॒क्षः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202740,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "गोपालः । तन्तिपालः । यवपालः । अनियुक्तार्थो योगः । गो इति किम् । वत्सपालः । पाले इति किम् । गोरक्षः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202740,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`गोपालः` इति। `पा रक्षणे` (धातुपाठः-1056), पूर्ववदण्। `अनियुक्तार्थ आरम्भः` इति। नियुक्ते <<अणि नियुक्ते>> [[6.2.75]]  इत्यनेनैव सिद्धत्वात्। `गोरक्षः` इति। `रक्ष पालने` (धातुपाठः-658)॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202740,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "तनु विस्तारे , क्तिच्, तन्तिः - वत्सानां बन्धनरज्जुः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202740,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "पाले परे एतान्याद्युदात्तानि स्युः । गोपालः । तन्ति¹र्वत्संबन्धनरज्जुः । तन्तिपालः । यवपालः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202740,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words 1. गो 2. तन्ति and 3. यव get the acute accent (उदात्त) on the first syllable when followed by पाल।\nThus गो꣡पालः, त꣡न्तिपालः, य꣡वपालः ॥ The word तन्ति is the rope with which calves are tied. (तनु विस्तारे + क्तिच्). This applies to words not denoting a functionary, which would be governed by [[6.2.75]]. Why do we say गो &c? Observe वत्सपालः꣡ ॥ Why do we say 'followed by पाल'? Observe गोरक्षः꣡ ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202740,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The words 1. गो 2. तन्ति and 3. यव get the acute accent (उदात्त) on the first syllable when followed by पाल।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213502,
+    "chapter_id": 7799,
+    "verse_number": "१६८",
+    "content_sanskrit": "धान्याज्यसस्यरूप्यपण्यवर्ण्यधृष्यहव्यकव्यकाव्यसत्यापत्यमूल्यशिक्यकुड्यमद्यहर्म्यतूर्यसैन्यानि",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 168,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213502,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इदं धान्यमित्यादि"
+    }
+  ]
+}

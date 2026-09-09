@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212746,
+    "chapter_id": 7793,
+    "verse_number": "६९",
+    "content_sanskrit": "भ्रमेश्च डूः",
+    "padaccheda": "",
+    "anvaya": "डू",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212746,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भ्रूः । चाद्गमेः । अग्रेगूः ।"
+    }
+  ]
+}

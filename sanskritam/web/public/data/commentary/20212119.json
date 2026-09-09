@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212119,
+    "chapter_id": 7790,
+    "verse_number": "३७०",
+    "content_sanskrit": "छद्",
+    "padaccheda": "छदँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अपवारणे",
+    "meaning_english": "to remove, to get rid of, to hide, to keep out of sight",
+    "audio_url": null,
+    "display_order": 370,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212119,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "स्वरितेत् । ' बलीभवति प्राणीभवति अपवारयति वा इत्यर्थः ' - कौमुदी । ' यौ वा णावपवारणे छदत इत्येकं , द्वितीयं छदेत्, (छदन्) अन्यत् छादयति, छदेदिति पुनः स्यादूर्जनेर्थे मितः । यस्तु च्छन्दयतीति णौ नुमि पदं तत् संवृताविष्यते ' (श्लो. 113) इति देवः ।"
+    }
+  ]
+}

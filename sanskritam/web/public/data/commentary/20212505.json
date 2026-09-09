@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212505,
+    "chapter_id": 7791,
+    "verse_number": "२४७",
+    "content_sanskrit": "क्षिपका । ध्रुवका । चरका । सेवका । करका । चटका । अवका । लहका । अलका । कन्यका । ध्रुवका । एडका ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 247,
+    "avatarnika": "क्षिपकादिः (7.3.45)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212505,
+      "commentary_type": "वार्तिकम्",
+      "author": "",
+      "content": "क्षिपकादीनां चोपसंख्यानम्"
+    }
+  ]
+}

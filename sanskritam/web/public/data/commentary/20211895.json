@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211895,
+    "chapter_id": 7790,
+    "verse_number": "१४६",
+    "content_sanskrit": "शुठ्",
+    "padaccheda": "शुठँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आलस्ये",
+    "meaning_english": "to be lazy",
+    "audio_url": null,
+    "display_order": 146,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211895,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " आलस्ये ' शोठयेदिति (श्लो. 80) इति देवः ।"
+    }
+  ]
+}

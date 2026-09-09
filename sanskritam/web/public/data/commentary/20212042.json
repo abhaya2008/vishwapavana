@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212042,
+    "chapter_id": 7790,
+    "verse_number": "२९३",
+    "content_sanskrit": "पिंस्",
+    "padaccheda": "पिसिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "भाषायाम्",
+    "meaning_english": "to speak, to talk, to shine, to glow",
+    "audio_url": null,
+    "display_order": 293,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212042,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' णौ पिंसयति भाषार्थे गत्यां तु शपि पेसति' (श्लो.192) - देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200954,
+    "chapter_id": 7758,
+    "verse_number": "३.२.१८६",
+    "content_sanskrit": "कर्तरि चर्षिदेवतयोः",
+    "padaccheda": "कर्तरि । च । ऋषि-देवतयोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 186,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), करणे (३.२.१८२), इत्रः (३.२.१८४), पुवः (३.२.१८५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200954,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पुव इति वर्तते। पुवः करणे कर्तरि चेत्रप्रत्ययो भवति। ऋषिदेवतयोर्यथासंख्यं संबन्धः। ऋषौ करणे, देवतायां कर्तरि। पूयतेऽनेनेति पवित्रोऽयमृषिः। देवतायाम् — अग्निःपवित्रं स मा पुनातु। वायुः सोमः सूर्य इन्द्रः पवित्रं ते मा पुनन्तु (निरु० ५.६)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200954,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "पुव इत्रः स्यात् ऋषौ करणे देवतायां कर्तरि । ऋषिर्वेदमन्त्रः । तदुक्तमृषिणेति दर्शनात् । पूयतेऽनेनेति पवित्रम् ॥ देवतायां त्वग्निः पवित्रं स मा पुनातु ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200954,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कर्तरि चर्षिदेवतयोः>> - कर्तरि च । पवित्रमिति । पावमान्यादिसूक्तम् । अग्निः पवित्रमिति । पुनातीत्यर्थः । सामान्याभिप्रायमेकवचनं, नपुंसकत्वं च । इति पूर्वकृदन्तम्॥॥ इति बालमनोरमायाम् पूर्वकृदन्तम्॥अथ रुधादयः ।अथ श्नम्विकरणा धातवो निरूप्यन्ते ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200954,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<कर्तरि चर्षिदेवतयोः>> - कर्तरि चर्षि । इत्रः स्यादिति । करणे कर्तरि चेत्यर्थः । काशिकानुसारेण यतासङ्ख्यं व्याचष्टे —  ऋषौ करणे इति ।कर्तरि कृ॑दिति सूत्रस्थभाष्यकैयटयोस्तु यथासङ्ख्यं नेति गम्यत इति शब्दकौस्तुभे स्थितम् । इति पूर्वकृदन्तम् ।अथ उणादिप्रकरणम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200954,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कर्तरि चर्षिदेवतयोः॥ ऋषौ करणे इति। ऋषिःऊवेदमन्त्रः,'तदुक्तमृषिणा'  इति दर्शनादित्याहुः॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200954,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इत्र comes after the verb पू 'to purify' with the sense of the agent or instrument when it is respectively used in connection with a sage or a deity.\nThat is to say, when applied to a <i>Rishi</i> the force is that of an instrument, and when applied to a <i>Devata</i> the force is that of an agent. As, पवित्रोऽयमृषिः 'this sage is sacred' (through whose instrumentality one is sanctified); अग्निः पवित्रं स मा पुनातु 'the God <i>Agni</i> is sacred' (one that purifies), 'let him purify me'. So also, वायुः सोमः सूर्य इन्द्रः पवित्रं ते मा पुनन्तु ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200954,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix इत्र comes after the verb पू 'to purify' with the sense of the agent or instrument when it is respectively used in connection with a sage or a deity."
+    }
+  ]
+}

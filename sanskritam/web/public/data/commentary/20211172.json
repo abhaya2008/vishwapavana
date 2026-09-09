@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211172,
+    "chapter_id": 7782,
+    "verse_number": "७",
+    "content_sanskrit": "चक्ष्",
+    "padaccheda": "चक्षिङ्",
+    "anvaya": "A-पदी, गणः 2",
+    "meaning_sanskrit": "व्यक्तायां वाचि",
+    "meaning_english": "to articulate, to speak clearly",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211172,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "ख्याञादेशे तु अनिट् । \" अयं दर्शनकर्मा च ; यथा - ' विश्वा रूपाभिचष्टे शचीभिः ' इति प्रायेण अयम् आङपूर्वः \"  इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

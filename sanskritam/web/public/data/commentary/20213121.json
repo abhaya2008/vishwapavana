@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213121,
+    "chapter_id": 7795,
+    "verse_number": "१६१",
+    "content_sanskrit": "उषिखनिभ्यां कित्",
+    "padaccheda": "",
+    "anvaya": "ष्ट्रन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 161,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213121,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उष्ट्रः । खात्रं खनित्रं जलाधारश्च ।"
+    }
+  ]
+}

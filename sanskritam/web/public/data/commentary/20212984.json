@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212984,
+    "chapter_id": 7795,
+    "verse_number": "२४",
+    "content_sanskrit": "मृडः कीकच्कङ्कणौ",
+    "padaccheda": "",
+    "anvaya": "कीकच्, कङ्कण",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212984,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मृडीको मृगः । मृडङ्कणः शिशुः ।"
+    }
+  ]
+}

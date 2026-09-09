@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210124,
+    "chapter_id": 7781,
+    "verse_number": "१२५",
+    "content_sanskrit": "तङ्क्",
+    "padaccheda": "तकिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "कृच्छ्रजीवने",
+    "meaning_english": "to live in distress",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210124,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " तकेत् तङ्केद् यथासंख्यं हसने कृच्छ्रजीवने ' (श्लो.43) इति देवः ।"
+    }
+  ]
+}

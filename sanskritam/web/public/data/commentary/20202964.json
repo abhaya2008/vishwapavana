@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202964,
+    "chapter_id": 7771,
+    "verse_number": "६.३.१०३",
+    "content_sanskrit": "तृणे च जातौ",
+    "padaccheda": "तृणे । च । जातौ",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": "अनुवृत्तिः — कत् (६.३.१०१), कोः (६.३.१०१)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202964,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तृणशब्द उत्तरपदे जातावभिधेयायां  कोः कदित्यादेशो भवति। कत्तृणा नाम जातिः। जाताविति किम्? कुत्सितानि तृणानि कुतृणानि॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202964,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "कत्तृणम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202964,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<तृणे च जातौ>> - तृणे च जातौ । तृणशब्दे कोः कत्स्याज्जातौ वाच्यायाम् । कत्तृणमिति । तृणजातिविशेषोऽयम् ।अस्त्री कुशं कुथो दर्भः पवित्रमथः कत्तृण॑मित्यमरः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202964,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कत्तृणम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202964,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "कत् is substituted for कु when तृण follows denoting a species.\nAs कत्तृणा नाम जातिः ॥ But कुत्सितानि तृणानि = कुतृणानि ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202964,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "कत् is substituted for कु when तृण follows denoting a species."
+    }
+  ]
+}

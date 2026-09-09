@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211760,
+    "chapter_id": 7790,
+    "verse_number": "११",
+    "content_sanskrit": "मिन्द्",
+    "padaccheda": "मिदिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "स्नेहने",
+    "meaning_english": "to soften, to melt, to become greasy, to love",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211760,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " मेदते मेद्यतीत्येते स्नेहने मिन्दयेण्णिचि ' (श्लो. 104) इति देवः ।"
+    }
+  ]
+}

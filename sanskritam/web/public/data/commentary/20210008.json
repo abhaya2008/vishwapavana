@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210008,
+    "chapter_id": 7781,
+    "verse_number": "९",
+    "content_sanskrit": "स्कुन्द्",
+    "padaccheda": "स्कुदिँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "आप्रवणे",
+    "meaning_english": "to jump, to raise, to lift up",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210008,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आप्रवणम् उत्प्लवनम् उत्प्लुत्य गमनं वा ' इति क्षीरतरङ्गिणी । ' उद्धरणम् इति भोजः ' इति धातुवृतौ ।"
+    }
+  ]
+}

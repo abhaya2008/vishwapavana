@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212884,
+    "chapter_id": 7794,
+    "verse_number": "८४",
+    "content_sanskrit": "उल्मुकदर्विहोमिनः",
+    "padaccheda": "",
+    "anvaya": "मुक्, अवि, मिन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212884,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उष दाहे । षस्य लः मुकप्रत्ययश्च । उल्मुकं ज्वलदङ्गारम् । दृणातेर्विः । दर्विः । जुहोतेर्मिनिः । होमी ।"
+    }
+  ]
+}

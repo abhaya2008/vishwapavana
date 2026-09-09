@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213402,
+    "chapter_id": 7799,
+    "verse_number": "६८",
+    "content_sanskrit": "ऋणलवणपर्वतोरणरणोष्णानि नपुंसके",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213402,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पूर्वसूत्रापवादः ।"
+    }
+  ]
+}

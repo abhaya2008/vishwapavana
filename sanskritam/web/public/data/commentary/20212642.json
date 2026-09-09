@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212642,
+    "chapter_id": 7792,
+    "verse_number": "१२२",
+    "content_sanskrit": "भृञः किन्नुट् च",
+    "padaccheda": "",
+    "anvaya": "गन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212642,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भृञः गन् कित्स्यात्तस्य नुत् च । भृङ्गाः षिड्गालिधूम्याटाः ।"
+    }
+  ]
+}

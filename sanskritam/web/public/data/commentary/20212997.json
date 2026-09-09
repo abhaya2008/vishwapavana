@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212997,
+    "chapter_id": 7795,
+    "verse_number": "३७",
+    "content_sanskrit": "पच एलिमच्",
+    "padaccheda": "",
+    "anvaya": "एलिमच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212997,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "पचेलिमो वह्निरव्योः ।"
+    }
+  ]
+}

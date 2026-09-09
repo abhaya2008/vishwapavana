@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213223,
+    "chapter_id": 7796,
+    "verse_number": "२५",
+    "content_sanskrit": "माङ ऊखो मय् च",
+    "padaccheda": "",
+    "anvaya": "ऊख",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213223,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मयूखः ।"
+    }
+  ]
+}

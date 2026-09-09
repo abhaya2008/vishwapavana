@@ -1,0 +1,52 @@
+{
+  "verse": {
+    "id": 20201592,
+    "chapter_id": 7763,
+    "verse_number": "४.३.२०",
+    "content_sanskrit": "वसन्ताच्च",
+    "padaccheda": "वसन्तात् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": "अनुवृत्तिः — कालात् (४.३.११), छन्दसि (४.३.१९), ठञ् (४.३.१९)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201592,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "छन्दसीत्येव। वसन्तशब्दाच् छन्दसि विषये ठञ् प्रत्ययो भवति शैषिकः। ऋत्वणोऽपवादः। मधु॑श्च॒ माध॑वश्च॒ वास॑न्तिकावृ॒तू (तै०सं० ४.४.११.१)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201592,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ठञ् स्यात् छन्दसि । वासन्तिकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201592,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ठञ् स्यात् । वासन्तिकावृतू ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201592,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas), the affix ठञ् comes in the remaining senses after the word वसन्त।\nThis debars अण् [[4.3.16]]. Thus मधुश्च माधवश्च वासन्तिकावृतू ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201592,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas), the affix ठञ् comes in the remaining senses after the word वसन्त।"
+    }
+  ]
+}

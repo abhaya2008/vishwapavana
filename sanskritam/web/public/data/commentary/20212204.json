@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212204,
+    "chapter_id": 7790,
+    "verse_number": "४५५",
+    "content_sanskrit": "पुट",
+    "padaccheda": "पुट",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "संसर्गे",
+    "meaning_english": "to come in contact, to embrace, to hug, to join, to lock in",
+    "audio_url": null,
+    "display_order": 455,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212204,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' भाषासंसर्गसंश्लेषे पोटयेत् पुटयेत् पुटेत् ' (श्लो. 75) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211771,
+    "chapter_id": 7790,
+    "verse_number": "२२",
+    "content_sanskrit": "पॄ",
+    "padaccheda": "पॄ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "पूरणे",
+    "meaning_english": "to fill, to complete",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211771,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " पृणाति पूरणे श्लौ तु पिपर्ति णिचि पारयेत् ' (श्लो.36) इति देवः ।"
+    }
+  ]
+}

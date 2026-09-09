@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212811,
+    "chapter_id": 7794,
+    "verse_number": "११",
+    "content_sanskrit": "धेट इच्च",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212811,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "धेनः सिन्धुर्नदी धेना ।"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20203099,
+    "chapter_id": 7772,
+    "verse_number": "६.४.९९",
+    "content_sanskrit": "तनिपत्योश्छन्दसि",
+    "padaccheda": "तनि-पत्योः । छन्दसि",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": "अनुवृत्तिः — अचि (६.४.७७), उपधायाः (६.४.८९), लोपः (६.४.९८), क्ङिति (६.४.९८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203099,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तनि पति इत्येतयोश्छन्दसि विषय उपधाया लोपो भवत्यजादौ क्ङिति प्रत्यये परतः। वित॑त्निरे क॒वयः॑ (ऋ० १.१६४.५)। श॒कु॒ना इ॑व पप्तिम (ऋ० ९.१०७.२०)। छन्दसीति किम्? वितेनिरे। पेतिम॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203099,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एतयोरुपधालोपः क्ङिति प्रत्यये । वितत्निरे कवयः (वित॑त्निरे क॒वयः॑) । शकुना इव पप्तिम (शकु॒ना इ॑व पप्तिम) ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203099,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`वितत्निरे` इति। अत्र यद्युपधालोपस्यासिद्धत्वम्? तथापि लोपविधानसामर्थ्यात्? `अत एकहल्मध्ये`  [[6.4.120]]  इत्यादिनैत्वाभ्यासलोपौ न भवतः। `पप्तिमा` इति। लिट्? क्रादिनियमादिट्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203099,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "वितत्निर इति । लोपविधानसामर्थ्यादसिद्धत्वेऽपि तस्य अत एकहल्मध्ये इत्येत्वाभ्यासलोपौ न भवतः । पप्तिमेति । लिट्, मस्, इट् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203099,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "अनयारजादौ क्ङिति परे उपधालोपः स्यात् । वितत्निरे कवय ओ तवै शकुना इव पप्तिम ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203099,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the root-vowel of तन् and पत् is elided before an affix beginning with a vowel, when it has an indicatory क् or ङ् ।\nAs वितत्निरे कवयः, शकुना इव पप्तिमः ॥ In secular language वितेनिरे, पेतिम् ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20203099,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas) the root-vowel of तन् and पत् is elided before an affix beginning with a vowel, when it has an indicatory क् or ङ् ।"
+    }
+  ]
+}

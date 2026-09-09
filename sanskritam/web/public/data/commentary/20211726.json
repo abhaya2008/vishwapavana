@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211726,
+    "chapter_id": 7789,
+    "verse_number": "४८",
+    "content_sanskrit": "श्रन्थ्",
+    "padaccheda": "श्रन्थँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "सन्दर्भे",
+    "meaning_english": "to arrange, to put in sequence",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211726,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "(अर्थभेदात् पुनः पाठः) ' दौर्बल्ये श्रथयेत् प्रयत्नविषये स्याच्छ्राथयेत् मोक्षणे । यौ तु श्राथयति श्रथत्यपि च वा णौ श्रन्थयेत् श्रन्थति । सन्दर्भे श्नि विमोचनार्थविषये श्रथ्नात्यथ श्रन्थते, शैथिल्ये.. ' (श्लो. 101) इति देवः ।"
+    }
+  ]
+}

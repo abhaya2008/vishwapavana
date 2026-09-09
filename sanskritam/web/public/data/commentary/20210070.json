@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210070,
+    "chapter_id": 7781,
+    "verse_number": "७१",
+    "content_sanskrit": "चन्द्",
+    "padaccheda": "चदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आह्लादे दीप्तौ च",
+    "meaning_english": "to be glad, to shine",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210070,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आह्लादने सकर्मकः । दीप्तौ अकर्मकः ।"
+    }
+  ]
+}

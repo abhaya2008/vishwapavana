@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211023,
+    "chapter_id": 7781,
+    "verse_number": "१०२४",
+    "content_sanskrit": "व्यय्",
+    "padaccheda": "व्ययँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "वित्तत्यागे गतौ च",
+    "meaning_english": "to spend, to do an expense, to go",
+    "audio_url": null,
+    "display_order": 1024,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211023,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अयं वित्तत्यागे नित्यमात्मनेपदी । ' वित्तत्यागे व्यययति व्ययति गतौ ' (श्लो. 150) इति देवः ।"
+    }
+  ]
+}

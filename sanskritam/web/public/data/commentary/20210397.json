@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210397,
+    "chapter_id": 7781,
+    "verse_number": "३९८",
+    "content_sanskrit": "लुण्ठ्",
+    "padaccheda": "लुठिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आलस्ये प्रतिघाते च",
+    "meaning_english": "to be lazy, to combat, to resist",
+    "audio_url": null,
+    "display_order": 398,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210397,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्लेषालस्योपघातेषु प्रतिघाते क्रमाल्लुठेत् । लुण्ठेत्, लोठति लोठेत किन्तु गत्यां च लुण्ठति ' (श्लो. 78)इति देवः । अत्र क्षीरतरङ्गिण्याम् तु ' रुठि आलस्ये गतिप्रतिघाते च ' इत्येव दृश्यते । अन्यत्र सर्वेषु कोशेषु ' लुठि ' इत्येव दृश्यते ।"
+    }
+  ]
+}

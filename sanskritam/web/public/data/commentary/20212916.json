@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212916,
+    "chapter_id": 7794,
+    "verse_number": "११६",
+    "content_sanskrit": "उपसर्गे वसेः",
+    "padaccheda": "",
+    "anvaya": "अथ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212916,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आवसथो गृहम् । संवसथो ग्रामः ।"
+    }
+  ]
+}

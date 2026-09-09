@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212881,
+    "chapter_id": 7794,
+    "verse_number": "८१",
+    "content_sanskrit": "सृयुवचिभ्योऽन्युजागूजक्नुचः",
+    "padaccheda": "",
+    "anvaya": "अन्युच्, आगूच्, अक्नुच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212881,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अन्युच् आगूच् अक्नुच् एते क्रमात्स्युः सरण्युर्मेघवातयोः । यवागूः । वचक्नुर्विप्रवाग्मिनोः ।"
+    }
+  ]
+}

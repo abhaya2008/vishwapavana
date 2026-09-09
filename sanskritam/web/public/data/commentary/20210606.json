@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210606,
+    "chapter_id": 7781,
+    "verse_number": "६०७",
+    "content_sanskrit": "मूल्",
+    "padaccheda": "मूलँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्रतिष्ठायाम्",
+    "meaning_english": "to root, to be firm, to establish",
+    "audio_url": null,
+    "display_order": 607,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210606,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' मूलेः प्रतिष्ठितौ मूलेद् रोहणे मूलयेदिति ' (श्लो. 157) इति देवः । ' मुल इति नन्दी ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211614,
+    "chapter_id": 7786,
+    "verse_number": "१४५",
+    "content_sanskrit": "कॄ",
+    "padaccheda": "कॄ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "विक्षेपे",
+    "meaning_english": "to discard, to throw away",
+    "audio_url": null,
+    "display_order": 145,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211614,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — अलग करना\nअव — फेंकना\nआ — मरना\nप्रति — दुःख देना, हिंसा करना\nवि — विरल करना\nसम् — एकत्र करना\nअभि — उलांघना, नष्ट होना\nउप — छेदन करना, हिंसा करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211614,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कृणन् कृणीते हिंसायां विक्षेपे किरतीति शे ' (श्लो.39) - देवः ।"
+    }
+  ]
+}

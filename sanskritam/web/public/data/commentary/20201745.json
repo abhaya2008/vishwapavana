@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20201745,
+    "chapter_id": 7764,
+    "verse_number": "४.४.५",
+    "content_sanskrit": "तरति",
+    "padaccheda": "तरति",
+    "anvaya": "'तेन तरति' (इति) समर्थानाम् प्रथमात् परः ठक् ",
+    "meaning_sanskrit": "'तरति' अस्मिन् अर्थे तृतीयासमर्थात् ठक्-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": "अनुवृत्तिः — तेन (४.४.२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201745,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तेनेति तृतीयासमर्थात् तरतीत्येतस्मिन्नर्थे ठक्  प्रत्ययो भवति। तरति प्लवत इत्यर्थः। काण्डप्लवेन तरति काण्डप्लविकः। औडुपिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201745,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "उडुपेन तरति औडुपिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201745,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "तेनेत्येव। उडुपेन तरति औडुपिकः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201745,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "तेन तरतीत्यर्थे ठक् । उडुपेन तरन्नौडुपिकः ।<!दोषष्ठस्य को वाच्यः!> (वा० ७-३-५१) । नत्विकः । दोष्णा तरन् दौष्कः । उणादिसत्वात् षः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201745,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes after a word in the Instrumental -3rd case in construction, in the sense of 'he crosses thereby over the waters'.\nThus काण्डप्लवेनतरति = काण्डप्लविकः, औडुपिकः 'who crosses with a raft'."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201745,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes after a word in the Instrumental -3rd case in construction, in the sense of 'he crosses thereby over the waters'."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201745,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "यः तरति (= प्लवति) तस्य निर्देशः तरणस्य साधनेन कर्तुम् साधनवाचिशब्दात् ठक्-प्रत्ययः भवति । यथा -\n1. काण्डप्लवेन तरति सः काण्डप्लविकः ।\n2. उडुपेन तरति सः औडुपिकः ।\nप्रक्रियायाः उदाहरणम्  -\nउडुप + ठक्\n→ उडुप + इक [<<ठस्येकः>> [[7.3.50]] इति इक्-आदेशः]\n→ औडुप + इक [<<किति च>> [[7.2.118]] इति आदिवृद्धिः]\n→ औडुप् + इक [<<यस्येति च>> [[6.4.148]] इति अकारलोपः]\n→ औडुपिक\n"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210235,
+    "chapter_id": 7781,
+    "verse_number": "२३६",
+    "content_sanskrit": "वाञ्छ्",
+    "padaccheda": "वाछिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "इच्छायाम्",
+    "meaning_english": "to want, to wish, to desire",
+    "audio_url": null,
+    "display_order": 236,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210235,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' कामे ' इति वोपदेवः ।"
+    }
+  ]
+}

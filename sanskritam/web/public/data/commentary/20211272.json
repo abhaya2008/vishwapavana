@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211272,
+    "chapter_id": 7784,
+    "verse_number": "४",
+    "content_sanskrit": "ष्ठिव्",
+    "padaccheda": "ष्ठिवुँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "निरसने",
+    "meaning_english": "to spit, to rinse the mouth",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211272,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' केचिदिहामुं न पठन्ति ' - कौमुदी ।"
+    }
+  ]
+}

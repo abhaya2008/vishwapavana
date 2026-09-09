@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210394,
+    "chapter_id": 7781,
+    "verse_number": "३९५",
+    "content_sanskrit": "शुठ्",
+    "padaccheda": "शुठँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "प्रतिघाते गतिप्रतिघाते च",
+    "meaning_english": "to stop, to hinder, to restrain, to oppose",
+    "audio_url": null,
+    "display_order": 395,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210394,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतिप्रतिहतौ शोठति, आलस्ये शोठयेदिति ' (श्लो. 80 ) इति देवः । ' प्रतिघाते ' इत्येव धनापालः । ' शूठ ' इति क्षीरस्वामी इति पुरुषकारे उक्तम् । क्षीरतरङ्गिण्याम् तु ' शुठि ' इत्येव दृश्यते ।"
+    }
+  ]
+}

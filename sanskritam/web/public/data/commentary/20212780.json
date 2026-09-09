@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212780,
+    "chapter_id": 7793,
+    "verse_number": "१०३",
+    "content_sanskrit": "आङि शुषेः सनश्छन्दसि",
+    "padaccheda": "",
+    "anvaya": "अनि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212780,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "आशुशुक्षणिरग्निर्वातश्च ।"
+    }
+  ]
+}

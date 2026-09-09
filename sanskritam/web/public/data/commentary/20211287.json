@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211287,
+    "chapter_id": 7784,
+    "verse_number": "१९",
+    "content_sanskrit": "स्तिम्",
+    "padaccheda": "ष्टिमँ",
+    "anvaya": "P-पदी, गणः 4",
+    "meaning_sanskrit": "आर्द्रीभावे",
+    "meaning_english": "to be wet,to be moist",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211287,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " स्तिम ' इति माधावादयः । ' निश्चलीभावे ' इति च केचित् । ' क्लेदे ' इति परे ।"
+    }
+  ]
+}

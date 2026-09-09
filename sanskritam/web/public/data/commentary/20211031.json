@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211031,
+    "chapter_id": 7781,
+    "verse_number": "१०३२",
+    "content_sanskrit": "स्पश्",
+    "padaccheda": "स्पशँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "बाधनस्पर्शनयोः",
+    "meaning_english": "to obstruct,to stop, to hinder, to touch, to collect",
+    "audio_url": null,
+    "display_order": 1032,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211031,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " बाधने स्पर्शने चार्थे हिक्कादौ स्पशते स्पशेत् ' (श्लो. 166) इति देवः । ' बाधनस्पाशनयोः ' । स्पाशनं - ग्रन्थनम् ' इति स्वामी । ' ग्रन्थ - बाधनयोः ' इति वोपदेवः । ' बाधनस्पर्शनयोः ' पषेत्येके । पषेत्यन्ये । हिंसार्थम् दोषसूचनं स्पश (र्श) नम् ' इति धा.का. व्याख्या ( 2 - 27) ।"
+    }
+  ]
+}

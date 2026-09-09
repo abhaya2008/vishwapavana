@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210528,
+    "chapter_id": 7781,
+    "verse_number": "५२९",
+    "content_sanskrit": "ध्रण्",
+    "padaccheda": "ध्रणँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शब्दे",
+    "meaning_english": "to sound",
+    "audio_url": null,
+    "display_order": 529,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210528,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " उपदेशे नान्तोयम् । रषाभ्याम्... इति णत्वम् ।  नोपदेशफलं यङ्लुकि । बणेत्यपि केचित् । बणति ' इति कौमुदी । क्षीरस्वामी अमुं न पठति ।"
+    }
+  ]
+}

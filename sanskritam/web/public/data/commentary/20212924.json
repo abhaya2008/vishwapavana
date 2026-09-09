@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212924,
+    "chapter_id": 7794,
+    "verse_number": "१२४",
+    "content_sanskrit": "रुषेर्निलुष् च",
+    "padaccheda": "",
+    "anvaya": "अभच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212924,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रुष हिंसायाम् । अस्मादभच् नित्कित्स्यात लुषादेशश्च । लुषभो मत्तदन्तिनि ।"
+    }
+  ]
+}

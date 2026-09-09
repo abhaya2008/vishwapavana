@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212185,
+    "chapter_id": 7790,
+    "verse_number": "४३६",
+    "content_sanskrit": "गुण",
+    "padaccheda": "गुण",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आमन्त्रणे",
+    "meaning_english": "to invite, to call, to sign,  to speak intelligently",
+    "audio_url": null,
+    "display_order": 436,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212185,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । पाठान्तरम् - केत श्रावणे निमन्त्रणे च । केतयति । निकेतयति । कुण गुण च आमन्त्रणे । चकारात् केतति - कौमुदी ।"
+    }
+  ]
+}

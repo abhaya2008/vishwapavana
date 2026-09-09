@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212803,
+    "chapter_id": 7794,
+    "verse_number": "३",
+    "content_sanskrit": "फेनमीनौ",
+    "padaccheda": "",
+    "anvaya": "नक्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212803,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एतौ निपात्येते । स्फायतेः फेनः । मीनः ।"
+    }
+  ]
+}

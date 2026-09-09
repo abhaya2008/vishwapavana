@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211597,
+    "chapter_id": 7786,
+    "verse_number": "१२८",
+    "content_sanskrit": "क्रुड्",
+    "padaccheda": "क्रुडँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "निमज्जने",
+    "meaning_english": "to sink",
+    "audio_url": null,
+    "display_order": 128,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211597,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अग्रिमटिप्पणी अत्रापि अन्वेति ।"
+    }
+  ]
+}

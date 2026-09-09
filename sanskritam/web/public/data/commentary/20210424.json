@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210424,
+    "chapter_id": 7781,
+    "verse_number": "४२५",
+    "content_sanskrit": "वेप्",
+    "padaccheda": "टुवेपृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कम्पने",
+    "meaning_english": "to tremble,to shake",
+    "audio_url": null,
+    "display_order": 425,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210424,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चलने ' इति जैन - कातन्त्र - शाकटायन - हेमादयः ।"
+    }
+  ]
+}

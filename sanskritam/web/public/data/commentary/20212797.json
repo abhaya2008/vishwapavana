@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212797,
+    "chapter_id": 7793,
+    "verse_number": "१२०",
+    "content_sanskrit": "मुहेः किच्च",
+    "padaccheda": "",
+    "anvaya": "उसि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212797,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मुहुरव्ययम् ।"
+    }
+  ]
+}

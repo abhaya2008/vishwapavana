@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211078,
+    "chapter_id": 7781,
+    "verse_number": "१०७९",
+    "content_sanskrit": "दा",
+    "padaccheda": "दाण्",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "दाने",
+    "meaning_english": "to give",
+    "audio_url": null,
+    "display_order": 1079,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211078,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — लेना, अंगीकार करना\nपरि — देना, सौंपना\nप्र — देना\nवि + आ — उधारना, खोलना\nसम् + आ — पसन्द करके लेना"
+    }
+  ]
+}

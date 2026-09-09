@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20202745,
+    "chapter_id": 7770,
+    "verse_number": "६.२.८३",
+    "content_sanskrit": "अन्त्यात् पूर्वं बह्वचः",
+    "padaccheda": "अन्त्यात् । पूर्वम् । बह्वचः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), आदिः (६.२.६४), उदात्तः (६.२.६४), जे (६.२.८२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202745,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "ज उत्तरपदे बह्वचः पूर्वपदस्यान्त्यात् पूर्वमुदात्तं भवति। उ॒प॒सर॑जः। म॒न्दुर॑जः। आ॒म॒लकी॑जः। व॒डवा॑जः। बह्वच इति किम्? द॒ग्ध॒जा॑नि तृणानि॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202745,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "बह्वचः पूर्वस्यान्त्यात्पूर्वपदमुदात्तं जे उत्तरपदे । उपसरजः । आमलकीजः । बह्वचः किम् । दग्धजानि तृणानि ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202745,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "अयमपि कृत्स्वरपबादो योगः।`दग्धजानि` इति। अत्र कृत्स्वर एव भवति॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202745,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "आमलकीज इति । दीर्घान्तेऽपि बह्वचि परत्वादयमेव स्वरो भवति ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202745,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "जे परे बह्वचः प्राक् पदस्यान्त्यात् पूर्वमुदात्तं स्यात् । आमलकीजः ।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202745,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a word consisting of more than two syllables followed by ज , the acute accent (उदात्त) falls on the syllable before the last.\nThus उपस꣡रजः, मन्दु꣡रजः, आमल꣡कीजः, and वड꣡वाजः (though the last two words have <i>upapadas</i> ending in long vowel, the accent is governed by this <i>sutra</i> and not the last). Why do we say \"a Polysyllabic first member\"? Observe दग्धजानि तृणानि ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202745,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In a word consisting of more than two syllables followed by ज , the acute accent (उदात्त) falls on the syllable before the last."
+    }
+  ]
+}

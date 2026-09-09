@@ -1,0 +1,66 @@
+{
+  "verse": {
+    "id": 20200394,
+    "chapter_id": 7753,
+    "verse_number": "२.१.४४",
+    "content_sanskrit": "संज्ञायाम्",
+    "padaccheda": "संज्ञायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "अनुवृत्तिः — सप्तमी (२.१.४०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20200394,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "संज्ञायां विषये सप्तम्यन्तं सुपा सह समस्यते, तत्पुरुषश्च समासो भवति। संज्ञा समुदायोपाधिः। तेन नित्यसमास एवायम्, नहि वाक्येन संज्ञा गम्यते। अरण्येतिलकाः। अरण्येमाषाः। वनेकिंशुकाः। वनेबिल्वकाः। कूपेपिशाचकाः। <<हलदन्तात् सप्तम्याः संज्ञायाम्>> [[६.३.९]] इत्यलुक्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20200394,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "सप्तम्यन्तं सुपा प्राग्वत् संज्ञायाम् । वाक्येन संज्ञानवगमान्नित्यसमासोऽयम् । अरण्येतिलकाः । वनेकसेरुकाः । हलदन्तात्सप्तम्या <{SK966}> इत्यलुक् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20200394,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<संज्ञायाम्>> - संज्ञायाम् ।सप्तमी॑त्यनुवर्तते । तदाह — सप्तम्यन्तमित्यादि । 'अरण्येतिलका' इति 'वनेकशेरुका' इति च संज्ञाशब्दौ ।हलदन्तात्सप्तम्याः॑ इत्यलुक् ।क्तेनाहो । अहोरात्रयोरवयवा इति विग्रहः । सप्तमीत्यनुवर्तते । क्तेनेति तदन्तग्रहणं । तदाह — अह्नो रात्रेश्चेति । अहरवयवस्योदाहरति — पूर्वाह्णकृतमिति । रात्र्यवयवस्योदाहरति — अपररात्रकृतमिति ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20200394,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`समुदायोपाधिः` इति। `संज्ञायाम्` इति नेदं पूर्वपदस्योत्तरपदस्य वा विशेषणम्, किं तर्हि? समुदायस्य -  समुदायेन चेत्संज्ञा गम्यत इति। किमेवं सति सिध्यतीत्यत आह -  `तेन` इत्यादि। अत्रैवोपपत्तिमाह -  `न हि` इत्यादि॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20200394,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "त्वचिसारो वेणुः । अरण्येतिलकः वनेकिंशुकश्च तरुभेदः । 'हलदन्तात्—' (६–३–९) इत्यलुक् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20200394,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A word ending with the Locative -7th-case-affix is invariably compounded with a word ending in a case-affix, when the compound thus formed is used as an appellative and the resulting compound is तत्-पुरुष ।\nA <i>sanjña</i> is expressed by the complete word, hence it is an invariable (<i>nitya</i>) compound; for we cannot express an appellative by a sentence.\n\nAs, अरण्ये तिलकाः 'wild sesamum' yielding no oil; anything which does not answer to one's expectation. So also अरण्ये माषाः, वने किंशुकाः' anything found unexpectedly.' So also वने बिल्वकाः, कूपे पिशाचकाः.\n\nThe case-affix is not elided, in this case, in accordance to <i>sútra</i> [[6.3.9]] (The 7th case-affix is not elided after words ending in consonants or in short अ when the compound denotes appellative.)"
+    },
+    {
+      "id": 7,
+      "verse_id": 20200394,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "A word ending with the Locative -7th-case-affix is invariably compounded with a word ending in a case-affix, when the compound thus formed is used as an appellative and the resulting compound is तत्-पुरुष ।"
+    }
+  ]
+}

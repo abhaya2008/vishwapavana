@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212564,
+    "chapter_id": 7792,
+    "verse_number": "४४",
+    "content_sanskrit": "शावशेराप्तौ",
+    "padaccheda": "",
+    "anvaya": "उरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212564,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "शु इति आश्वर्थे । श्वशुरः । पतिपत्न्योः प्रसूः श्वश्रूः श्वशुरस्तु पिता तयोरित्यमरः ।"
+    }
+  ]
+}

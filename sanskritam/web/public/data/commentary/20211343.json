@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211343,
+    "chapter_id": 7784,
+    "verse_number": "७५",
+    "content_sanskrit": "सृज्",
+    "padaccheda": "सृजँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "विसर्गे",
+    "meaning_english": "to discharge, to let loose, to let off",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211343,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "सम् — मिलाप करना या होना\nउद् — छोड देना\nवि — छोड देना\nनि — छोड देना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211343,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " विसर्गः = सम्बन्धः । ' सर्गे सृज्यते सृजतीति च ' (श्लो. 62) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20203555,
+    "chapter_id": 7776,
+    "verse_number": "७.४.३९",
+    "content_sanskrit": "कव्यध्वरपृतनस्यर्चि लोपः",
+    "padaccheda": "कव्यध्वरपृतनस्य । ऋचि । लोपः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": "अनुवृत्तिः — क्यचि (७.४.३३), छन्दसि (७.४.३५)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20203555,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कवि अध्वर पृतना इत्येतेषामङ्गानां क्यचि परतो लोपो भवति ऋचि विषये। कव्यन्तः सुमनसः। अध्वर अध्वर्यन्तः। पृतना पृतन्यन्तः तिष्ठन्ति।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20203555,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "एषामन्त्यस्य लोपः स्यात् क्यचि ऋग्विषये । सपूर्वया निविदा कव्यतायोः (सपूर्व॑या नि॒विदा॑ क॒व्यता॒योः) । अध्वर्युं वा मधुपाणिम् । दमयन्तं पृतन्युम् (द॒मय॑न्तं पृत॒न्युम्) । दधातेर्हि <{SK3076}> । जहातेश्च क्त्वि <{SK3331}> ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20203555,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`काव्यन्तः` इति। <<अलोऽन्त्यस्य>> [[1.1.52]]  लोपः। क्यजन्ताच्छतृप्रत्ययः, तदन्ताज्जस॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20203555,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "एषामृचि क्यच्यन्तलोपः स्यात् । कव्यतायोः । अध्वर्यन्तः पृतन्यति ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20203555,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the ऋग् वेद the final of 1. कवि 2. अध्वर and 3. पृतना is dropped before the Denominative affix क्यच् ।\nAs कव्यन्तः सुमनसः (not in the <i>Rig</i> <i>Veda</i>), अध्वर्यन्तः (not in this case in the <i>Rig</i> <i>Veda</i>), पृतन्यन्तस्तिष्ठन्ति (not in this connection in the <i>Rig</i>. <i>Veda</i>). The examples given above are of <i>Kasika</i> : according to Pro. Bohtlingk none of them are from the <i>Rig</i> <i>Veda</i>. The following are given by <i>Bhattoji</i> <i>Dikshita</i> in his <i>Siddhanta </i><i>Kaumudi</i>: स पूर्वया निविदा कव्यतायोः (<i>Rig</i> I.96.2). अध्वर्युं वा मधुपाणिम् (<i>Rig</i> X. 41.3), दमयन्तं पृतन्युम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20203555,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the ऋग् वेद the final of 1. कवि 2. अध्वर and 3. पृतना is dropped before the Denominative affix क्यच् ।"
+    }
+  ]
+}

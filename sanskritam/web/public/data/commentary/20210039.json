@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210039,
+    "chapter_id": 7781,
+    "verse_number": "४०",
+    "content_sanskrit": "च्युत्",
+    "padaccheda": "च्युतिँर्",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आसेचने",
+    "meaning_english": "to sprinkle, to flow,to trickle, to fall, to deviate",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210039,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आसेचनम् ईषत्सेकः । आसमन्तात् सेको वा । 'सेचनम् आर्द्रीकरणम्' इति कौमुदी ।"
+    }
+  ]
+}

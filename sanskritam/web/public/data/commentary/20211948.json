@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211948,
+    "chapter_id": 7790,
+    "verse_number": "१९९",
+    "content_sanskrit": "मन्त्र्",
+    "padaccheda": "मत्रिँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "गुप्तपरिभाषणे",
+    "meaning_english": "to consult, to advise, to discuss privately",
+    "audio_url": null,
+    "display_order": 199,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211948,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "आ — सत्कार करना, सम्मान करना\nनि — आमंत्रण करना, बुलाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211948,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' गुप्तभाषणे ' इत्येव प्रायशः पाठः । ' मन्त्रि ' इति कुत्रचित् दृष्टः पाठः ।"
+    }
+  ]
+}

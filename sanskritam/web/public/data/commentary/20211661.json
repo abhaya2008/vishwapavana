@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211661,
+    "chapter_id": 7787,
+    "verse_number": "१८",
+    "content_sanskrit": "तृह्",
+    "padaccheda": "तृहँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill to destroy, to give pain",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211661,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' श्ने तृणेढीति हिंसायां तृहतीत्यूदितस्तृहेः ' (श्लो. 195) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201773,
+    "chapter_id": 7764,
+    "verse_number": "४.४.३३",
+    "content_sanskrit": "रक्षति",
+    "padaccheda": "रक्षति",
+    "anvaya": "'तत् रक्षति' (इति) समर्थानाम् प्रथमात् परः ठक् प्रत्ययः ",
+    "meaning_sanskrit": "'रक्षति' अस्मिन् अर्थे द्वितीयासमर्थात् ठक् प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": "अनुवृत्तिः — तत् (४.४.२८), प्रति-अनुपूर्वम् (४.४.२८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201773,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "तदिति द्वितीयासमर्थाद् रक्षतीत्येतस्मिन्नर्थे ठक् प्रत्ययो भवति। समाजं रक्षति सामाजिकः। सांनिवेशिकः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201773,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "समाजं रक्षति सामाजिकः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201773,
+      "commentary_type": "लघुसिद्धान्तकौमुदी",
+      "author": "वरदराजः",
+      "content": "समाजं रक्षति सामाजिकः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201773,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "सामाजिक इति। समजन्ति अस्मिन्निति समाजः=समूहः।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201773,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "सामाजिक इति । समाजः उ समूहः, समजत्यस्मिन्निति कृत्वा, एवं सन्निवेशः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201773,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "तद् रक्षतीत्यर्थे ठक् । मण्डलं रक्षन् माण्डलिकः ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201773,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes after a word in the Accusative -2nd case in construction when the sense is 'he aids or protects that'.\nThus समाजं रक्षति = सामाजिकः 'a spectator', lit. 'who aids an assembly by his presence'. So also सांनिवेशिकः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20201773,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes after a word in the Accusative -2nd case in construction when the sense is 'he aids or protects that'."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201773,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'रक्षति' इत्युक्ते रक्षणं करोति । 'रक्ष्' धातोः लट्लकारस्य प्रथमपुरुषैकवचनस्य रूपम् इदम् । 'यः रक्षति'  तस्य निर्देशं कर्तुम् 'यस्य रक्षणं क्रियते' तस्मात् द्वितीयासमर्थात् अनेन सूत्रेण ठक्-प्रत्ययः विधीयते । यथा -\n1. समाजं रक्षति सः  सामाजिकः । समाज + ठक् → सामाजिक ।\n2. सन्निवेशं रक्षति सः सान्निवेशिकः । सन्निवेश + ठक् → सान्निवेशिक ।\n"
+    }
+  ]
+}

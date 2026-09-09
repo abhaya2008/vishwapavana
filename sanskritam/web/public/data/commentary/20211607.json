@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211607,
+    "chapter_id": 7786,
+    "verse_number": "१३८",
+    "content_sanskrit": "पृ",
+    "padaccheda": "पृङ्",
+    "anvaya": "A-पदी, गणः 6",
+    "meaning_sanskrit": "व्यायामे",
+    "meaning_english": "to try, to put effort",
+    "audio_url": null,
+    "display_order": 138,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211607,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रायेण व्याङ्पूर्वः । ' व्यायामः = उद्योगः । स च प्रवृत्तिमात्रम् । इति धा.का. (2.83) ' प्रीतौ पृणोत्यृदन्तस्य व्यायामे प्रियते पृङः ' (श्लो. 34) इति देवः ।"
+    }
+  ]
+}

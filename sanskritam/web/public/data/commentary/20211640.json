@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211640,
+    "chapter_id": 7786,
+    "verse_number": "१७१",
+    "content_sanskrit": "कृत्",
+    "padaccheda": "कृतीँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "छेदने",
+    "meaning_english": "to cut, to break, to slice",
+    "audio_url": null,
+    "display_order": 171,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211640,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " कृणत्ति कृन्ततीत्येते वेष्टने च्छेदने क्रमात् । कीर्तयेदिति संशब्दे ' (श्लो. 95) इति देवः ।"
+    }
+  ]
+}

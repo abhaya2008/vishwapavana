@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213454,
+    "chapter_id": 7799,
+    "verse_number": "१२०",
+    "content_sanskrit": "निष्ठा च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": "नपुंसकाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213454,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "भावे या निष्ठा तदन्तं क्लीबन्तं स्यात् । हसितम् । गीतम् । "
+    }
+  ]
+}

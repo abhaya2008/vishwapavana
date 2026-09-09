@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212608,
+    "chapter_id": 7792,
+    "verse_number": "८८",
+    "content_sanskrit": "के श्र एरङ् चास्य",
+    "padaccheda": "",
+    "anvaya": "ऊ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212608,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कशब्दे उपपदे शृणातेरूः स्यादेरङ् आदेशः । कशेरूस्तृणकन्दे स्त्री । बाहुलकादुप्रत्यये कशेरुः क्लीबे पुंसि च ।"
+    }
+  ]
+}

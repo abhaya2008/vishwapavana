@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201744,
+    "chapter_id": 7764,
+    "verse_number": "४.४.४",
+    "content_sanskrit": "कुलत्थकोपधादण्",
+    "padaccheda": "कुलत्थ-क-उपधात् । अण्",
+    "anvaya": "'तेन संस्कृतम्' (इति) कुलत्थ-कोपधात् अण्",
+    "meaning_sanskrit": "'संस्कृतम्' अस्मिन् अर्थे तृतीयासमर्थात् कुलत्थशब्दात् तथा ककारोपधशब्दात् अण्-प्रत्ययः भवति । ",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": "अनुवृत्तिः — तेन (४.४.२), संस्कृतम् (४.४.३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201744,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कुलत्थशब्दात् ककारोपधाच् छब्दाच् च प्रातिपदिकादण् प्रत्ययो भवति संस्कृतमित्येतस्मिन् विषये। ठकोऽपवादः। कुलत्थैः संस्कृतं कौलत्थम्। ककारोपधात् — तैत्तिडीकम्। दार्दभकम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201744,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ठकोऽपवादः । कुलत्थैः संस्कृतं कौलत्थम् । तैत्तिडीकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201744,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<कुलत्थकोपधादण्>> - कुलत्थकोपधादण् ।संस्कृतमित्यर्थे तृतीयान्ता॑दिति शेषः । तैन्तिणीकमिति । तिन्तिणीकेन संस्कृतमित्यर्थः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201744,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "कुले तिष्ठति कुलत्थः, अस्मादेव निपातनात्सकारस्य तकारः । केचित्पुनः सकारमेवाधीयते ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201744,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कुलत्थां मुद्गभेदाः । तैः संस्कृतं कौलत्थं जलम् । कोपधात्, जौरकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201744,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word कुलत्थ and after the words having a penultimate क् , the affix अण् is added in the sense of 'refined or prepared therewith'.\nThis debars ठक् ॥ Thus कौलत्यम्, तैत्तिडीकम्, दार्दभकम्, the two latter being examples of words ending in क ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201744,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "After the word कुलत्थ and after the words having a penultimate क् , the affix अण् is added in the sense of 'refined or prepared therewith'."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201744,
+      "commentary_type": "सूत्रार्थ-विवरणम्",
+      "author": "",
+      "content": "'संस्कृतम्' अस्मिन् अर्थे <<प्राग्वहतेष्ठक्>> [[4.4.1]] इत्यनेन सर्वेभ्यः प्रातिपदिकेभ्यः औत्सर्गिकरूपेण  ठक्-प्रत्यये प्राप्ते  कुलत्थशब्दात् तथा ककारोपधेभ्यः शब्देभ्यः अपवादत्वेन अण्-प्रत्ययः भवति । यथा -\n1. कुलत्थेन संस्कृतम् कौलत्थम् ।\n2. (ककारोपधस्य उदाहरणम् -) तित्तिडिकेन संस्कृतम् तैत्तिडिकम् । "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213173,
+    "chapter_id": 7795,
+    "verse_number": "२१३",
+    "content_sanskrit": "रमेश्च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 213,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213173,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रंहः ।"
+    }
+  ]
+}

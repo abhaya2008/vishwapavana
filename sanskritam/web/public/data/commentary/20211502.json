@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211502,
+    "chapter_id": 7786,
+    "verse_number": "३३",
+    "content_sanskrit": "तुम्प्",
+    "padaccheda": "तुन्पँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to injure, to destroy",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211502,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  शपि तोपति हिंसायां तत्रैव तुपतीति शे । तत्रैव शशपोस्तुम्पेद् अर्दने तुम्पयेण्णिचि ' (श्लो. 138 - 9) इति देवः ।"
+    }
+  ]
+}

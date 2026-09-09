@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211999,
+    "chapter_id": 7790,
+    "verse_number": "२५०",
+    "content_sanskrit": "अर्ज्",
+    "padaccheda": "अर्जँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रतियत्ने",
+    "meaning_english": "to earn, to do business, to prepare",
+    "audio_url": null,
+    "display_order": 250,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211999,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अति — जाने देना, दूर करना\nअनु — मुक्त करना\nउद् — चलाना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211999,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "प्रतियत्नः = गुणाधानम् - तत्त्वबोधिनी । ' अयमर्थान्तरेपि । द्रव्यमर्जयति ' इति कौमुदी । ' प्रतियत्नेर्जयेदर्जेरर्जतीत्यर्जने पदम् ' (श्लो. 63) इति देवः ।"
+    }
+  ]
+}

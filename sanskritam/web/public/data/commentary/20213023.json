@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213023,
+    "chapter_id": 7795,
+    "verse_number": "६३",
+    "content_sanskrit": "रमेर्नित्",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213023,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "रमतिः कालकामयोः ।"
+    }
+  ]
+}

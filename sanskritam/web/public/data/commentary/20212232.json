@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212232,
+    "chapter_id": 7790,
+    "verse_number": "४८३",
+    "content_sanskrit": "व्रण",
+    "padaccheda": "व्रण",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "गात्रविचूर्णने",
+    "meaning_english": "to attack, to hurt, to damage someone, to wound",
+    "audio_url": null,
+    "display_order": 483,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212232,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अदन्तः । ' व्रणेच्छब्दार्थविषये व्रणयेद् गात्रचूर्णने ' (श्लो. 93) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212819,
+    "chapter_id": 7794,
+    "verse_number": "१९",
+    "content_sanskrit": "श्लिषेरच्चोपधायाः",
+    "padaccheda": "",
+    "anvaya": "क्स्न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212819,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "श्लक्ष्णम् ।"
+    }
+  ]
+}

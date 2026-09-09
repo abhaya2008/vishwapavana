@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210622,
+    "chapter_id": 7781,
+    "verse_number": "६२३",
+    "content_sanskrit": "शेल्",
+    "padaccheda": "शेलृँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go, walk",
+    "audio_url": null,
+    "display_order": 623,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210622,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " चलने ' इति चन्द्रः । ' चलगत्योः ' इति वोपदेवः । अयं धातुः काशकृत्स्नीयपाठे नोपलभ्यते । केचित् ' सेलृ ' इति पठन्ति । ' षेलृ इत्येके ' इति कौमुदी ।"
+    }
+  ]
+}

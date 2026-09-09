@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212085,
+    "chapter_id": 7790,
+    "verse_number": "३३६",
+    "content_sanskrit": "स्वद्",
+    "padaccheda": "ष्वदँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आस्वादने",
+    "meaning_english": "to taste",
+    "audio_url": null,
+    "display_order": 336,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212085,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' स्वाद इत्येके ' इति कौमुदी । ' संवरणे ' इति क्षीरस्वामिधनपालशाकटायनादयः । ' आस्वादनेर्थे स्वदते स्वादयेदिति शब्णिचोः ' (श्लो. 193) - देवः ।"
+    }
+  ]
+}

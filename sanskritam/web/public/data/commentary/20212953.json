@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212953,
+    "chapter_id": 7794,
+    "verse_number": "१५३",
+    "content_sanskrit": "इणः कित्",
+    "padaccheda": "",
+    "anvaya": "भन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 153,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212953,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इभः ।"
+    }
+  ]
+}

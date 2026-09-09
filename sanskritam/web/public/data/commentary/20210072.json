@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210072,
+    "chapter_id": 7781,
+    "verse_number": "७३",
+    "content_sanskrit": "कन्द्",
+    "padaccheda": "कदिँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "आह्वाने रोदने च",
+    "meaning_english": "to call out,to cry,to cry out continually,to lament,to grieve, to shed tears",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210072,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "आह्वाने सकर्मकः, अन्यत्र अकर्मकः । 'आह्वाने रोदने क्रन्देः कन्देः क्रन्दति कन्दति । वैक्लव्ये तु तयोर्धात्वोः क्रन्दते कन्दते मितोः' (श्लो. 105) इति देवः । ( घटादिपाठः धा. सं. - 772 इत्यत्र ।)"
+    }
+  ]
+}

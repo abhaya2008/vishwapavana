@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201316,
+    "chapter_id": 7761,
+    "verse_number": "४.१.६७",
+    "content_sanskrit": "बाह्वन्तात् संज्ञायाम्",
+    "padaccheda": "बाह्व-अन्तात् । संज्ञायाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": "अनुवृत्तिः — अनुपसर्जनात् (४.१.१४), ऊङ् (४.१.६६)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201316,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "बाहुशब्दान्तात् प्रातिपदिकात् संज्ञायां विषये स्त्रियामूङ् प्रत्ययो भवति। भद्रबाहूः। जालबाहूः। संज्ञायामिति किम्? वृत्तौ बाहू अस्याः वृत्तबाहुः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201316,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "स्त्रियामूङ् स्यात् । भद्रबाहूः । संज्ञायां किम् ? वृत्तबाहुः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201316,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<बाह्वन्तात् संज्ञायाम्>> - बाह्वन्तात्संज्ञायाम् । 'ऊङुत' इत्यत ऊङित्यनुवर्तते, स्त्रियामित्यधिकृतं, प्रातिपदिकादिति च । तदाह — स्त्रियामूङ् स्यादिति । भद्रबाहूरिति । कस्याश्चित्संज्ञा । संज्ञायां किमिति । संज्ञायामित्येतत्किमर्थमिति प्रश्नः । वृत्तबहुरिति । वृत्तौ बाहू यस्या इति विग्रहः । स्त्रियामपि नोङ् ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201316,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "ऊङ् स्यात् । मद्रबाहूः काचित् ।।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201316,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The feminine affix ऊङ् comes in denoting a Name after a प्रातिपदिक (Nominal Stem) ending with the word बाहु।\nThus भद्रबाहूः '<i>Bhadrabahu</i>'; जालबाहूः &c. Why do we say in \"expressing a Name\"? Observe वृत्तबाहूः 'a woman having rounded hand' which is an attributive word. In other words, when the compound is a name, बाहु takes long ऊ in the feminine."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201316,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The feminine affix ऊङ् comes in denoting a Name after a प्रातिपदिक (Nominal Stem) ending with the word बाहु।"
+    }
+  ]
+}

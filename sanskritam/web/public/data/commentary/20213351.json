@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213351,
+    "chapter_id": 7799,
+    "verse_number": "१७",
+    "content_sanskrit": "तलन्तः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": "स्त्र्यधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213351,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अयं स्त्रियां स्यात् । शुक्लस्य भावः शुक्लता । ब्राह्मणस्य कर्म ब्राह्मणता । ग्रामस्य समूहो ग्रामता । देव एव देवता ।"
+    }
+  ]
+}

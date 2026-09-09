@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211251,
+    "chapter_id": 7783,
+    "verse_number": "९",
+    "content_sanskrit": "हा",
+    "padaccheda": "ओँहाक्",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "त्यागे",
+    "meaning_english": "to abandon,to leave,to desert,to omit,to neglect",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211251,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  ' गतौ त्यागे यथासङ्ख्यं जिहीते च जहाति च ' (श्लो. 11) - देवः ।"
+    }
+  ]
+}

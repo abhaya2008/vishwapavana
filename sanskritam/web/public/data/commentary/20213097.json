@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213097,
+    "chapter_id": 7795,
+    "verse_number": "१३७",
+    "content_sanskrit": "आङि श्रिहनिभ्यां ह्रस्वश्च",
+    "padaccheda": "",
+    "anvaya": "इण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 137,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213097,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "इण् स्यात्स च डित् आङो ह्रस्वश्च । स्त्रियः पाल्यश्रिकोटयः । सर्पे वृत्रासुरेऽप्यहिः ।"
+    }
+  ]
+}

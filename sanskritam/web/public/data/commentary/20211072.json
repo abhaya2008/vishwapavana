@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211072,
+    "chapter_id": 7781,
+    "verse_number": "१०७३",
+    "content_sanskrit": "दै",
+    "padaccheda": "दैप्",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "शोधने",
+    "meaning_english": "to purify,to cleanse",
+    "audio_url": null,
+    "display_order": 1073,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211072,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' दाति दायति दाप् दैपोः दयते रक्षणे डितः ' (श्लो. 4) इति देवः ।"
+    }
+  ]
+}

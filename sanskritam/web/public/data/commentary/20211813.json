@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211813,
+    "chapter_id": 7790,
+    "verse_number": "६४",
+    "content_sanskrit": "तड्",
+    "padaccheda": "तडँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "आघाते",
+    "meaning_english": "to strike,to beat, to hit",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211813,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " शोभार्थाश्च द्रुमे ' इति धा.का.व्याख्या । (3.18)"
+    }
+  ]
+}

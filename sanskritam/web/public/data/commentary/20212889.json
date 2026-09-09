@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212889,
+    "chapter_id": 7794,
+    "verse_number": "८९",
+    "content_sanskrit": "अञ्जिघृसिभ्यः क्तः",
+    "padaccheda": "",
+    "anvaya": "क्त",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212889,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अक्तम् । घृतम् । सितम् ।"
+    }
+  ]
+}

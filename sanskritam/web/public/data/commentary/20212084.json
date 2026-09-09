@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212084,
+    "chapter_id": 7790,
+    "verse_number": "३३५",
+    "content_sanskrit": "रुज्",
+    "padaccheda": "रुजँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "हिंसायाम्",
+    "meaning_english": "to kill, to destroy, to cause pain",
+    "audio_url": null,
+    "display_order": 335,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212084,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' भङ्गे रुजति हिंसायां रोजयेदिति णौ रुजेः ' (श्लो.69) - देवः ।"
+    }
+  ]
+}

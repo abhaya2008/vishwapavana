@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211794,
+    "chapter_id": 7790,
+    "verse_number": "४५",
+    "content_sanskrit": "तुञ्ज्",
+    "padaccheda": "तुजिँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "हिंसाबलादाननिकेतनेषु",
+    "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211794,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अभिहिते त्वर्थे पदं तुञ्जयेत् ' (श्लो.66) इति देवः । ' अभिहितोर्थः- भाषणरूपः ' इति पुरुषकारः । केचिदमुम् ' तुज ' इति पठन्ति ।"
+    }
+  ]
+}

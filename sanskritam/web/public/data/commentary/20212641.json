@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212641,
+    "chapter_id": 7792,
+    "verse_number": "१२१",
+    "content_sanskrit": "छापूखडिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "गन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 121,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212641,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "छागः । पूगः । खड्गः । बाहुलकात् षिट अनादरे गन्सत्वाभावश्च । षिड्गः तरलः । षिड्गैरगद्यत ससंभ्रममेवमेकेति माघः ।"
+    }
+  ]
+}

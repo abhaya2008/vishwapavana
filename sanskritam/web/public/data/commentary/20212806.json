@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212806,
+    "chapter_id": 7794,
+    "verse_number": "६",
+    "content_sanskrit": "धापॄवस्यज्यतिभ्यो नः",
+    "padaccheda": "",
+    "anvaya": "न",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212806,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "धाना भ्रष्टयवे स्त्रियः । पर्णं पत्रम् । पर्णः किंशुकः । वस्नो मूल्ये वेतने च । अजेर्वी । वेनः । अत्न आदित्यः । बाहुलकात् । शृणोतेः श्रोणः पङ्गुः ।"
+    }
+  ]
+}

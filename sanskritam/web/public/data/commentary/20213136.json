@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213136,
+    "chapter_id": 7795,
+    "verse_number": "१७६",
+    "content_sanskrit": "सूचेः स्मन्",
+    "padaccheda": "",
+    "anvaya": "स्मन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 176,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213136,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "सूक्ष्मम् ।"
+    }
+  ]
+}

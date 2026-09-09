@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211638,
+    "chapter_id": 7786,
+    "verse_number": "१६९",
+    "content_sanskrit": "लिप्",
+    "padaccheda": "लिपँ",
+    "anvaya": "U-पदी, गणः 6",
+    "meaning_sanskrit": "उपदेहे",
+    "meaning_english": "to anoint,to besmear,to cover,to spread over,to stain",
+    "audio_url": null,
+    "display_order": 169,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211638,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उपदेहः - वृद्धिः इति क्षीरस्वामी । ' अस्य दाहनार्थकत्वमपि आह शङ्कराचार्यः ' इति धातुकाव्यव्याख्यायाम् । (2.58) ' उपदाहे ' इति मैत्रेयः । न्यासकारोपि (3.1.138) एवमेव ।"
+    }
+  ]
+}

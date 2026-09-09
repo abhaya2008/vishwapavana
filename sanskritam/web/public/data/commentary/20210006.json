@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210006,
+    "chapter_id": 7781,
+    "verse_number": "७",
+    "content_sanskrit": "नाथ्",
+    "padaccheda": "नाथृँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "याच्ञोपतापैश्वर्याशीष्षु",
+    "meaning_english": "to seek help, to beg, to irritate, to bless, to master",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210006,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "उपतापः- ज्वरप्रयुक्ता पीडा । ऐश्वर्यम् - सम्पत्तिः । आशीः - आशासनम् । 'आशिषि नाथः ' इति वार्तिकेन आशीरर्थे आत्मनेपदम् । याञ्चोपतापैश्वर्यार्थेषु परस्मैपदम् । द्विकर्मकोयं याञ्चार्थे ।"
+    }
+  ]
+}

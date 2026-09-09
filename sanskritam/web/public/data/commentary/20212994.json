@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212994,
+    "chapter_id": 7795,
+    "verse_number": "३४",
+    "content_sanskrit": "घसेः किश्च",
+    "padaccheda": "",
+    "anvaya": "ईरन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212994,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "क्षीरम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210389,
+    "chapter_id": 7781,
+    "verse_number": "३९०",
+    "content_sanskrit": "लुठ्",
+    "padaccheda": "लुठँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "उपघाते",
+    "meaning_english": "to hit, to push down, to throw down, to knock down",
+    "audio_url": null,
+    "display_order": 390,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210389,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " श्लेषालस्योपघातेषु प्रतिघाते क्रमाल्लुठेत् । लुण्ठेत्, लोठति लोठेत किन्तु गत्यां च लुण्ठति ' (श्लो. 78)इति देवः । ' अत्र मैत्रेयः ' उठेत्यप्येके ' इति ( लुण्ड इत्येके इति च ) धनपालशाकटायनौ रुठ - लुठेत्येव पेठतुः । क्षीरस्वामी तु उठि पठित्वा ' रुठ लुठ इत्यपि दौर्गाः इत्याह ' इति मा.धा.वृत्तिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213538,
+    "chapter_id": 7800,
+    "verse_number": "१५",
+    "content_sanskrit": "पृष्ठस्य च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213538,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "छन्दस्यन्त उदात्तः स्याद्वा भाषायाम् । पृष्ठम् ॥"
+    }
+  ]
+}

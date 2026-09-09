@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213228,
+    "chapter_id": 7796,
+    "verse_number": "३०",
+    "content_sanskrit": "जनेष्टन् लोपश्च",
+    "padaccheda": "",
+    "anvaya": "टन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213228,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जटा ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211739,
+    "chapter_id": 7789,
+    "verse_number": "६१",
+    "content_sanskrit": "इष्",
+    "padaccheda": "इषँ",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "आभीक्ष्ण्ये",
+    "meaning_english": "to repeat",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211739,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "पौनःपुन्यं भृशार्थः वा आभीक्ष्ण्यम् । ' इष्णात्याभीक्ष्ण्य इच्छायामिच्छेद् गत्यर्थ इष्यति ' (श्लो. 168) इति देवः ।"
+    }
+  ]
+}

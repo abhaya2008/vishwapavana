@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213165,
+    "chapter_id": 7795,
+    "verse_number": "२०५",
+    "content_sanskrit": "अदेर्नुम् धौ च",
+    "padaccheda": "",
+    "anvaya": "असुन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 205,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213165,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अदेर्भक्ते वाच्येऽसुन् नुमागमो धादेशश्च । अन्धोऽन्नम् ।"
+    }
+  ]
+}

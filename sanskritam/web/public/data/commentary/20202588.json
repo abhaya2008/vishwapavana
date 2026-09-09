@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20202588,
+    "chapter_id": 7769,
+    "verse_number": "६.१.१४९",
+    "content_sanskrit": "अपस्करो रथाङ्गम्",
+    "padaccheda": "अपस्करः । रथाङ्गम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 149,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202588,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "अपस्कर इति निपात्यते रथाङ्गं चेद् भवति। अपपूर्वात् किरतेः <<ॠदोरप्>> [[३.३.५७]] इत्यप्, निपातनात् सुट्। अपस्करो रथावयवः। रथाङ्गमिति किम् ? अपकरः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202588,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "अपकरोऽन्यः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202588,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<अपस्करो रथाङ्गम्>> - अपस्करो ।स्याद्रथाङ्गमपस्करः॑ इत्यमरः ।चक्रं रथाङ्गमि॑ति च ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202588,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`रथावयवः` इति। अनेनादिशब्दस्थावयववचनमाचष्टे॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202588,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "अत्र सूत्रे तृतीय उपसर्गः, पूर्वत्र षष्ठः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202588,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "चक्रादन्ये रथावयवा एवमुच्यन्ते ।"
+    },
+    {
+      "id": 7,
+      "verse_id": 20202588,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अपस्कर is formed by सुट् meaning 'the part of a chariot'.\nThis word is also derived from कृ with the proposition अप and the affix अप् [[3.3.57]] and सुट् augment. When not having this meaning, we have अपकरः ॥"
+    },
+    {
+      "id": 8,
+      "verse_id": 20202588,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The word अपस्कर is formed by सुट् meaning 'the part of a chariot'."
+    }
+  ]
+}

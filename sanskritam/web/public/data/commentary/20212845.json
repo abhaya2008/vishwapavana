@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212845,
+    "chapter_id": 7794,
+    "verse_number": "४५",
+    "content_sanskrit": "नौ सदेर्डिच्च",
+    "padaccheda": "",
+    "anvaya": "कन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212845,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "निष्कोऽस्त्री हेम्नि तत्पले ।"
+    }
+  ]
+}

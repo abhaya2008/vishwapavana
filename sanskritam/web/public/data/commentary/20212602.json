@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212602,
+    "chapter_id": 7792,
+    "verse_number": "८२",
+    "content_sanskrit": "मृजेर्गुणश्च",
+    "padaccheda": "",
+    "anvaya": "ऊ",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212602,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मर्जूः शुद्धिकृत् ।"
+    }
+  ]
+}

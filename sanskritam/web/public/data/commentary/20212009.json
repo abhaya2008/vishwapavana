@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212009,
+    "chapter_id": 7790,
+    "verse_number": "२६०",
+    "content_sanskrit": "शृध्",
+    "padaccheda": "शृधुँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "प्रहसने प्रसहने च",
+    "meaning_english": "to tolerate, to insert, to disrespect, to defeat",
+    "audio_url": null,
+    "display_order": 260,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212009,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "\" शृध अप्रहसने । अप्रहसनम् = अमर्षः । प्रहसने = अभिभवे इत्येके \" इति स्वामी । ' प्रहसनम् = विद्रावः इति गोविन्दभट्ट: ' इति शब्दकल्पद्रुमे । ' प्रहसने ' इति शाकटायनकाशकृत्स्नौ । ' प्रहसनम् = अभिभवः ' इति धातुकाव्यव्याख्या । (3.40) ' हिक्कादौ शर्धयत्यस्य शृधेः प्रहसने णिचि ' (श्लो. 118) इति देवः ।"
+    }
+  ]
+}

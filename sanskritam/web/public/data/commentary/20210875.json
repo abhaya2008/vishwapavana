@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210875,
+    "chapter_id": 7781,
+    "verse_number": "८७६",
+    "content_sanskrit": "क्रप्",
+    "padaccheda": "क्रपँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "कृपायां गतौ च",
+    "meaning_english": "to pitty, to do favor, to go",
+    "audio_url": null,
+    "display_order": 876,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210875,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अस्येह पाठः मित्त्वार्थः , न तु षित्त्वार्थः । यतः ' क्रपेः सम्प्रसारणं च ' इति भिदादिपाठात् तत्फलम् अङ् सिद्धयति कृपा इति ' इति मा.धा. वृत्तिः ।"
+    }
+  ]
+}

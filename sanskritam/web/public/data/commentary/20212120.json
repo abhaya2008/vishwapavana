@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212120,
+    "chapter_id": 7790,
+    "verse_number": "३७१",
+    "content_sanskrit": "जुष्",
+    "padaccheda": "जुषँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "परितर्कणे परितर्पणे च",
+    "meaning_english": "to think, to wish, to kill, to destroy, to guess, to make happy, to satisfy, to be satisfied",
+    "audio_url": null,
+    "display_order": 371,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212120,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " परितर्कणम् ऊहः हिंसा वा । ' परितर्पणे ' इत्यन्ये । परितर्पणं परितृप्तिक्रिया । ' जोषयेज्जोषतीत्येते युजादेः परितर्कणे । प्रीतिसेवनयोः इष्टं तुदादेर्जुषते पदम् ' (श्लो. 180 - 181) इति देवः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213445,
+    "chapter_id": 7799,
+    "verse_number": "१११",
+    "content_sanskrit": "हस्तकुन्तान्तव्रातवातदूतधूतसूतचूतमुहूर्ताः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213445,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "एते पुंसि । अमरस्तु मुहुर्तोऽस्त्रियामित्याह ।"
+    }
+  ]
+}

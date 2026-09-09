@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211648,
+    "chapter_id": 7787,
+    "verse_number": "५",
+    "content_sanskrit": "विच्",
+    "padaccheda": "विचिँर्",
+    "anvaya": "U-पदी, गणः 7",
+    "meaning_sanskrit": "पृथग्भावे",
+    "meaning_english": "to divide,to separate,to remove from",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211648,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " अयं पाठः सर्वसम्मतः । धातुवृत्तौ तु ' विजिर् ' इति दृश्यते ।"
+    }
+  ]
+}

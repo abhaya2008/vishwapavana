@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211665,
+    "chapter_id": 7787,
+    "verse_number": "२२",
+    "content_sanskrit": "तञ्च्",
+    "padaccheda": "तन्चूँ",
+    "anvaya": "P-पदी, गणः 7",
+    "meaning_sanskrit": "सङ्कोचने",
+    "meaning_english": "to contract, to reduce, to constrict",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211665,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " नोपधः । कृतपरसवर्णनिर्देशः । ' तञ्जू ' इति क्षीरस्वामिसम्मतः पाठः । जकारान्तमध्ये पाठात् एवमेव न्याय्यम् इति तदाशयः ।"
+    }
+  ]
+}

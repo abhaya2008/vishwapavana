@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210019,
+    "chapter_id": 7781,
+    "verse_number": "२०",
+    "content_sanskrit": "ऊर्द्",
+    "padaccheda": "उर्दँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "माने क्रीडायां आस्वादने च",
+    "meaning_english": "to measure,to leap, to jump, to taste,to grant,to be cheerful",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210019,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' चकारात् आस्वादने च ' इति माधवीयधातुवृत्तिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213430,
+    "chapter_id": 7799,
+    "verse_number": "९६",
+    "content_sanskrit": "सोपधः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213430,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "वत्सः । वायसः । महानसः । "
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213074,
+    "chapter_id": 7795,
+    "verse_number": "११४",
+    "content_sanskrit": "ध्याप्योः संप्रसारणं च",
+    "padaccheda": "",
+    "anvaya": "क्वनिप्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 114,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213074,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "धीवा कर्मकरः । पीवा स्थूलः ।"
+    }
+  ]
+}

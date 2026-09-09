@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211025,
+    "chapter_id": 7781,
+    "verse_number": "१०२६",
+    "content_sanskrit": "भेष्",
+    "padaccheda": "भेषृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "भये",
+    "meaning_english": "to fear",
+    "audio_url": null,
+    "display_order": 1026,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211025,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " गतौ ' इति मैत्रेयः । ' अगतौ इत्येके ' इति धा.का. (2 - 27) ।"
+    }
+  ]
+}

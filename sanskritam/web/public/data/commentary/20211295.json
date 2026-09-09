@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211295,
+    "chapter_id": 7784,
+    "verse_number": "२७",
+    "content_sanskrit": "सू",
+    "padaccheda": "षूङ्",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "प्राणिप्रसवे",
+    "meaning_english": "to procreate, to conceive, to give birth",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211295,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अत्र प्राणिग्रहणमतन्त्रम् । तेन ' प्रसूनास्तरवः इति भवति ' इति माधवः ।"
+    }
+  ]
+}

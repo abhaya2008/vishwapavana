@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20202761,
+    "chapter_id": 7770,
+    "verse_number": "६.२.९९",
+    "content_sanskrit": "पुरे प्राचाम्",
+    "padaccheda": "पुरे । प्राचाम्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": "अनुवृत्तिः — पूर्वपदम् (६.२.१), अन्तः (६.२.९२)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20202761,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "पुरशब्द उत्तरपदे प्राचां देशे पूर्वपदमन्तोदात्तं भवति। ल॒ला॒टपु॑रम्। का॒ञ्चीपु॑रम्। शि॒व॒द॒त्तपु॑रम्। का॒र्णिपु॑रम्। ना॒र्मपु॑रम्। प्राचामिति किम्? शि॒व॒पु॒रम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20202761,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "देवदत्तपुरम् । नान्दीपुरम् । प्राचां किम् । शिवपुरम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20202761,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`ललाटपुरम्` इत्येवमादयः षष्टीसमासाः॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20202761,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "प्राग्देशजे पुरे प्राक्पदमन्तोदात्तं स्यात् । लालाट्यपुरम् ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20202761,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Before the word पुर , when the compound denotes a city of the Eastern People, the final of the final of the first member as the acute accent (उदात्त).\nThus ललाट꣡पुरम्, कांची꣡पुरम्, शिवदत्त꣡पुरम्, काणि꣡पुरम्, नामपुरम् ॥ Why do we say 'of the Eastern people'? Observe शिवपुरम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20202761,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "Before the word पुर , when the compound denotes a city of the Eastern People, the final of the final of the first member as the acute accent (उदात्त)."
+    }
+  ]
+}

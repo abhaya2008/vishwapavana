@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201696,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१२४",
+    "content_sanskrit": "हलसीराट्ठक्",
+    "padaccheda": "हल-सीरात् । ठक्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 124,
+    "avatarnika": "अनुवृत्तिः — तस्य (४.३.१२०), इदम् (४.३.१२०)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201696,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "हलसीरशब्दाभ्यां ठक् प्रत्ययो भवति तस्येदमित्येतस्मिन् विषये। अणोऽपवादः। हलस्येदं हालिकम्। सैरिकम्॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201696,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "हालिकम् । सैरिकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201696,
+      "commentary_type": "बालमनोरमा",
+      "author": "वासुदेवदीक्षितः",
+      "content": "<<हलसीराट्ठक्>> - हलसीराट्ठक् । तस्येदमित्येव । हालिकं सैरिकमिति । हलस्येदं, सीरस्येगदमिति विग्रहः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201696,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "हलस्येदं, हालिकम् । सैरिकम् ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201696,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes in the sense of 'this is his' after the words 1. हल and 2. सीर।\nThus हलस्येदम् = हालिकम्, सैरिकम् ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201696,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix ठक् comes in the sense of 'this is his' after the words 1. हल and 2. सीर।"
+    }
+  ]
+}

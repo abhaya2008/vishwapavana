@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211981,
+    "chapter_id": 7790,
+    "verse_number": "२३२",
+    "content_sanskrit": "विद्",
+    "padaccheda": "विदँ",
+    "anvaya": "A-पदी, गणः 10",
+    "meaning_sanskrit": "चेतनाख्याननिवासेषु",
+    "meaning_english": "to improve body, to know, to understand",
+    "audio_url": null,
+    "display_order": 232,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211981,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "नि — समझके रहना\nवि — समझके रहना\nनिर् — समझके रहना\nप्रति — देना, अर्पण करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211981,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' विवादेषु ' इति क्षीरस्वामी । ' वेदने ' इत्येके । ' विद - वेदनाख्यान - परिवादनेषु ' इति न्यासे पाठः । ' निपातनेषु इति धनपालशाकटायनौ ' इति पुरुषकारः । ' विन्दते विन्दतीत्येवं लाभे, वेदयते णिचि ' (श्लो. 111) इति देवः ।"
+    }
+  ]
+}

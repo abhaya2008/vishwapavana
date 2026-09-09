@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211137,
+    "chapter_id": 7781,
+    "verse_number": "११३८",
+    "content_sanskrit": "सृप्",
+    "padaccheda": "सृपॢँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 1138,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211137,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — हटना\nउद् — उल्लंघन करना\nउप — समीप आना"
+    }
+  ]
+}

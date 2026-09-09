@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210349,
+    "chapter_id": 7781,
+    "verse_number": "३५०",
+    "content_sanskrit": "सट्",
+    "padaccheda": "षटँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अवयवे",
+    "meaning_english": "to be a part",
+    "audio_url": null,
+    "display_order": 350,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210349,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "तत्त्वबोधिनीयुक्तायां कौमुद्यां ' शट ' इति दृश्यते ।"
+    }
+  ]
+}

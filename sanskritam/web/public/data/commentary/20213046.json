@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213046,
+    "chapter_id": 7795,
+    "verse_number": "८६",
+    "content_sanskrit": "कुपेर्वा वश्च",
+    "padaccheda": "",
+    "anvaya": "किन्दच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213046,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कुपिन्दकुविन्दौ तन्तुवाये ।"
+    }
+  ]
+}

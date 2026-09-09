@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210838,
+    "chapter_id": 7781,
+    "verse_number": "८३९",
+    "content_sanskrit": "दुह्",
+    "padaccheda": "दुहिँर्",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अर्दने",
+    "meaning_english": "to hurt,to kill,to pain, to kill",
+    "audio_url": null,
+    "display_order": 839,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210838,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अमुं क्षीरस्वामी न पठति । ' प्रपूरणे दोग्धि दुग्धे दोहतीत्यर्दने दुहेः ' ( श्लो. 193) इति देवः ।"
+    }
+  ]
+}

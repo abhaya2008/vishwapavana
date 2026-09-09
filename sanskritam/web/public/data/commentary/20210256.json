@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210256,
+    "chapter_id": 7781,
+    "verse_number": "२५७",
+    "content_sanskrit": "सर्ज्",
+    "padaccheda": "षर्जँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "अर्जने",
+    "meaning_english": "to procure,to earn, to obtain",
+    "audio_url": null,
+    "display_order": 257,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210256,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  ' सर्ज ' इति क्षीरस्वामी ।"
+    }
+  ]
+}

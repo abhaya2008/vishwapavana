@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212799,
+    "chapter_id": 7793,
+    "verse_number": "१२२",
+    "content_sanskrit": "कॄगॄशॄवृञ्चतिभ्यः ष्वरच्",
+    "padaccheda": "",
+    "anvaya": "ष्वरच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212799,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कर्वरो व्याघ्ररक्षसोः । गर्वरोऽहंकारी । शर्वरी रात्रिः । वर्वरः प्राकृतो जनः । चत्वरम् ।"
+    }
+  ]
+}

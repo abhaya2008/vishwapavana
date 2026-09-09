@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212749,
+    "chapter_id": 7793,
+    "verse_number": "७२",
+    "content_sanskrit": "वशेः कित्",
+    "padaccheda": "",
+    "anvaya": "इजि",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212749,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "उशिगग्नौ घृतेपि च ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213205,
+    "chapter_id": 7796,
+    "verse_number": "७",
+    "content_sanskrit": "अर्तेश्च",
+    "padaccheda": "",
+    "anvaya": "अति",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213205,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "अरतिरुद्वेगः ।"
+    }
+  ]
+}

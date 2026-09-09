@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212926,
+    "chapter_id": 7794,
+    "verse_number": "१२६",
+    "content_sanskrit": "जॄविशिभ्यां झच्",
+    "padaccheda": "",
+    "anvaya": "झच्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212926,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "जरन्तो महिषः । वेशन्तः पल्वलम् ।"
+    }
+  ]
+}

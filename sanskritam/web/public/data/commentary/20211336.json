@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211336,
+    "chapter_id": 7784,
+    "verse_number": "६८",
+    "content_sanskrit": "बुध्",
+    "padaccheda": "बुधँ",
+    "anvaya": "A-पदी, गणः 4",
+    "meaning_sanskrit": "अवगमने",
+    "meaning_english": "to know, to understand",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211336,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "प्रति — जागना\nसम् — अच्छी तरह जानना\nअव — जानना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211336,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' बुध्यते बोधतीत्येवं बुधेरवगमे द्वयम् ' (श्लो. 119) - देवः ।"
+    }
+  ]
+}

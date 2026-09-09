@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212720,
+    "chapter_id": 7793,
+    "verse_number": "४३",
+    "content_sanskrit": "मुषेर्दीर्घश्च",
+    "padaccheda": "",
+    "anvaya": "किकन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212720,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मूषिक आखुः ।"
+    }
+  ]
+}

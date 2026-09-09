@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210564,
+    "chapter_id": 7781,
+    "verse_number": "५६५",
+    "content_sanskrit": "वल्ल्",
+    "padaccheda": "वल्लँ",
+    "anvaya": "A-पदी, गणः 1",
+    "meaning_sanskrit": "संवरणे सञ्चरणे च",
+    "meaning_english": "to cover, to hide, to go",
+    "audio_url": null,
+    "display_order": 565,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210564,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अमुं धातुं क्षीरस्वामी न पठति । '  चलने च ' इति कातन्त्रः । ' सौत्रोयं धातुः ' इति द. उ. वृत्त्याम् ।  (1.52) काषकृत्स्नीये ' संवरणे ' इति पठित्वा इतः पूर्वं ( भ्वादौ ) ' वल्ल निष्पत्तौ ' इत्यपि पृथक् पठितः ।"
+    }
+  ]
+}

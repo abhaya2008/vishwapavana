@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211714,
+    "chapter_id": 7789,
+    "verse_number": "३६",
+    "content_sanskrit": "ली",
+    "padaccheda": "ली",
+    "anvaya": "P-पदी, गणः 9",
+    "meaning_sanskrit": "श्लेषणे",
+    "meaning_english": "to adhere to, to be absorbed,to get dissolved",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211714,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' यौ द्रवीकरणेनात्वे लीनयेत् लाययेत् लयेत् । लापयेल्लालयेदात्वे श्लेषणे लीयतेलिनात् ' (श्लो. 17-18) इति देवः ।"
+    }
+  ]
+}

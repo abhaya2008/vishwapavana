@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20210465,
+    "chapter_id": 7781,
+    "verse_number": "४६६",
+    "content_sanskrit": "सप्",
+    "padaccheda": "षपँ",
+    "anvaya": "P-पदी, गणः 1",
+    "meaning_sanskrit": "समवाये",
+    "meaning_english": "to connect, to join, to understand completely",
+    "audio_url": null,
+    "display_order": 466,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20210465,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "समवायः सम्बन्धः, सम्यगवबोधो वा ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211563,
+    "chapter_id": 7786,
+    "verse_number": "९४",
+    "content_sanskrit": "पुट्",
+    "padaccheda": "पुटँ",
+    "anvaya": "P-पदी, गणः 6",
+    "meaning_sanskrit": "संश्लेषणे",
+    "meaning_english": "to hug, to embrace",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211563,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " भाषासंसर्गसंश्लेषे पोटयेत् पुटयेत् पुटेत् ' (श्लो.75) इति देवः ।"
+    }
+  ]
+}

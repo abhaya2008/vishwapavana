@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211012,
+    "chapter_id": 7781,
+    "verse_number": "१०१३",
+    "content_sanskrit": "नेद्",
+    "padaccheda": "णेदृँ",
+    "anvaya": "U-पदी, गणः 1",
+    "meaning_sanskrit": "कुत्सासन्निकर्षयोः",
+    "meaning_english": "to ridicule, to insult, to reach, to go closer",
+    "audio_url": null,
+    "display_order": 1013,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211012,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "  ' प्रत्येकं निदिनेद्योः स्तां नेदते नेदतीत्युभे । कुत्सायां सन्निकर्षे वा , कूत्सामात्रे तु निन्दति ' (श्लो. 114) इति देवः ।"
+    }
+  ]
+}

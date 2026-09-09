@@ -1,0 +1,59 @@
+{
+  "verse": {
+    "id": 20201591,
+    "chapter_id": 7763,
+    "verse_number": "४.३.१९",
+    "content_sanskrit": "छन्दसि ठञ्",
+    "padaccheda": "छन्दसि । ठञ्",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": "अनुवृत्तिः — कालात् (४.३.११), वर्षाभ्यः (४.३.१८)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201591,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "वर्षाशब्दाच् छन्दसि विषये ठञ् प्रत्ययो भवति शैषिकः। ठकोऽपवादः। स्वरे भेदः। नभ॑श्च नभ॒स्य॑श्च॒ वार्षि॑कावृ॒तू (तै० सं० ४.४.११.१)॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201591,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "वर्षाभ्यष्ठकोऽपवादः । स्वरे भेदः । वार्षिकम् ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201591,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "नभश्च नभस्यश्च वार्षिकावृत् इति ।'तस्येदम्'  इत्यत्रार्थे प्रत्ययः, ऋतुशब्दश्च ऋत्ववयवयोर्मासयोर्वर्तते, वर्षर्तोरेतौ मासाववयवावित्यर्थः ॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201591,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "शेषे जाताद्यर्थे वर्षाभ्यष्ठञ् स्यात् । नभश्च नभस्यश्च वार्षिकावृतू । वर्षासु भवौ मासावित्यर्थः ।"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201591,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas), the word वर्षा takes the affix ठञ् , in the remaining senses.\nThis debars ठक्. The form will be the same, but there will be difference in accent. As नभश्च नभस्यश्च वार्षिकावृतू ॥ The word ऋतु here means \"month,\" i. e. <i>Nabha</i> and <i>Navasya</i> are two rainy months."
+    },
+    {
+      "id": 6,
+      "verse_id": 20201591,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "In the छन्दस् (Vedas), the word वर्षा takes the affix ठञ् , in the remaining senses."
+    }
+  ]
+}

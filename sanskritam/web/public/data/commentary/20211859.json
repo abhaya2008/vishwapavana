@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211859,
+    "chapter_id": 7790,
+    "verse_number": "११०",
+    "content_sanskrit": "शुल्क्",
+    "padaccheda": "शुल्कँ",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "अतिस्पर्शने",
+    "meaning_english": "to tax, to pay tax, to produce goods",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211859,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " ' सर्जने ' इति स्वामी । ' भाषणे ' इति काशकृत्स्नः । किं च अन्यत्र चुरादौ ' शुक्ल सर्जने ' इति च तत्र दृश्यते । ' अतिसर्जने ' इति केचित् । ' सर्जने , वर्जने (वर्णने) इति वोपदेवः । ' सर्जनम् = आर्जनम् । वर्जनभाषणयोश्च द्रुमे इति धा.का.व्याख्या ।(3 - 23)"
+    }
+  ]
+}

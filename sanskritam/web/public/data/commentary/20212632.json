@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212632,
+    "chapter_id": 7792,
+    "verse_number": "११२",
+    "content_sanskrit": "क्वादिभ्यः कित्",
+    "padaccheda": "",
+    "anvaya": "ड",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212632,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "कवर्गादिभ्यो डः कित्स्यात् । कुण्डम् । काण्डम् । गुङ् । गुडः । घुण भ्रमणे । घुण्डो भ्रमरः ।"
+    }
+  ]
+}

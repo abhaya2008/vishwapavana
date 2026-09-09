@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20213407,
+    "chapter_id": 7799,
+    "verse_number": "७३",
+    "content_sanskrit": "तीर्थप्रोथयूथगाथानि नपुंसके च",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": "पुंलिङ्गाधिकारः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20213407,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "चात्पुंसि । अयं तीर्थः । इदं तीर्थम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211264,
+    "chapter_id": 7783,
+    "verse_number": "२२",
+    "content_sanskrit": "तुर्",
+    "padaccheda": "तुरँ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "त्वरणे",
+    "meaning_english": "to make haste,to be quick",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211264,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "छान्दसः।"
+    }
+  ]
+}

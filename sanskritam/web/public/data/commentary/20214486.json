@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20214486,
+    "chapter_id": 7806,
+    "verse_number": "२०३",
+    "content_sanskrit": "न शाबलेयस्यास्तित्वं बाहुलेयस्य बाधकम् । न शाबलेयो नास्तीति बाहुलेयः प्रकल्पते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 203,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20214486,
+      "commentary_type": "स्वोपज्ञवृत्तिः",
+      "author": "",
+      "content": "एतदेव दृष्टान्तेन द्रढयति - \n पृथग्भूतयोर्भावयोरसंबन्धयोर्यथा परस्परस्य सत्तासत्ते न प्रयोजिके तथा भावाभावयोरपि तथाभूतयोः स्यादित्यर्थः ॥"
+    }
+  ]
+}

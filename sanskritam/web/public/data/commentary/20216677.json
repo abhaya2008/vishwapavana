@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20216677,
+    "chapter_id": 7843,
+    "verse_number": "५२",
+    "content_sanskrit": "चक्षुषा घटप्रत्यक्षजनने संयोगः सन्निकर्षः ।",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": "संयोगः"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20216677,
+      "commentary_type": "टीका",
+      "author": "",
+      "content": "संयोगमुदाहरति चक्षुषेति । तथा च द्रव्यचाक्षुषत्वाचमानसेषु संयोग एव सन्निकर्ष इति भावः ।"
+    }
+  ]
+}

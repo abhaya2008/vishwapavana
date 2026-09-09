@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212544,
+    "chapter_id": 7792,
+    "verse_number": "२४",
+    "content_sanskrit": "कृग्रोरुच्च",
+    "padaccheda": "",
+    "anvaya": "कु",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212544,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "करोतीति कुरुः । गृणाति गुरुः ।"
+    }
+  ]
+}

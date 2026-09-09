@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20211449,
+    "chapter_id": 7785,
+    "verse_number": "१८",
+    "content_sanskrit": "राध्",
+    "padaccheda": "राधँ",
+    "anvaya": "P-पदी, गणः 5",
+    "meaning_sanskrit": "संसिद्धौ",
+    "meaning_english": "to accomplish, to attain, to fulfill, to achieve",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211449,
+      "commentary_type": "उपसर्गार्थाः",
+      "author": "",
+      "content": "अप — अपराध करना\nआ — आराधना करना, उपासना करना\nसम् — सिद्ध करना"
+    },
+    {
+      "id": 2,
+      "verse_id": 20211449,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": " राध्नोति संसिद्ध्यर्थे श्नौ राध्येत् वृद्धावकर्मकात् ' (श्लो. 122) इति देवः ।"
+    }
+  ]
+}

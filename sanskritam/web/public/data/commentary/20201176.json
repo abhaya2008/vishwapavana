@@ -1,0 +1,73 @@
+{
+  "verse": {
+    "id": 20201176,
+    "chapter_id": 7760,
+    "verse_number": "३.४.४४",
+    "content_sanskrit": "ऊर्ध्वे शुषिपूरोः",
+    "padaccheda": "ऊर्ध्वे । शुषि-पूरोः",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), णमुल् (३.४.२६), कर्त्रोः (३.४.४३)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201176,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "कर्तृग्रहणमनुवर्तते। ऊर्ध्वशब्दे कर्तृवाचिन्युपपदे शुषिपूरोर्धात्वोर्णमुल् प्रत्ययो भवति। ऊर्ध्वशोषं शुष्यति। ऊर्ध्वं शुष्यतीत्यर्थः। ऊर्ध्वपूरं पूर्यते। ऊर्ध्वं पूर्यत इत्यर्थः॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201176,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "ऊर्ध्वे कर्तरि । ऊर्ध्वशोषं शुष्यति । वृक्षादिरूर्ध्व एव तिष्ठन् शुष्यतीत्यर्थः । ऊर्ध्वपूरं पूर्यते । ऊर्ध्वमुख एव घटादिर्वर्षोदकादिना पूर्णो भवतीत्यर्थः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201176,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`ऊध्र्वं पूर्यते` इति। ऊध्र्वं पूरितो भवतीत्यर्थः। अनुदात्तेत्त्वादात्मनेपदम्, दिवादित्वच्छ्यन्॥`घृतनिधायम्` इति। पूर्ववद् युक्॥"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201176,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "ऊर्ध्वशोषं शुष्यतीति । वृक्षादिरूर्ध्व एव तिष्ठन् शुष्यतीत्यर्थः । ऊर्ध्वः पूर्यत इत्यर्थ इति । ऊर्ध्वमुख एव सन् घटादिर्वर्षोदकादिना पूर्णो भवतीत्यर्थः ॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201176,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "कर्तर्यूर्ध्वशब्दे पूर्वेऽनयोर्णमुल् ।। ऊर्ध्वः सन् शुष्यतीत्यूर्ध्वशोषं शुष्यति पादपः । ऊर्ध्वः सन् पूर्यते कुम्भ ऊर्ध्वपूरं प्रपूर्यते ।। १७९ ।। पूरेः श्यनि रूपम् ।।"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201176,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the roots शुष् 'to dry' and पूर् 'to fill' when the word ऊर्ध्व denoting an agent is in composition with them.\nThus ऊर्ध्वशोषं शुष्यति वृक्षः = ऊर्ध्वे शुष्यति 'the tree is dried up while it is still standing'. Compare यद्वोर्ध्वशोषतृणवद्विशुष्कः 'or wither like the up-heaved grass drying up' (<i>Bhatti</i>. III.14); ऊर्ध्वपूरं पूर्यते 'is filled full to the brim'. Rule [[3.4.46]] applies here also."
+    },
+    {
+      "id": 7,
+      "verse_id": 20201176,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix णमुल् comes after the roots शुष् 'to dry' and पूर् 'to fill' when the word ऊर्ध्व denoting an agent is in composition with them."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201176,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "यद्वोर्ध्व-शोषं तृण-वद्विशुष्कः (भट्टिकाव्यम् 3.14) — `ऊर्ध्वे शुपि-` इत्यादिना णमुल्।\nप्रागूर्ध्व-शोषं परिशुष्यमाणाः (भट्टिकाव्यम् 11.40) — `ऊर्ध्वं शुपि` इति णमुल्।"
+    }
+  ]
+}

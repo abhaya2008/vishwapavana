@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20211260,
+    "chapter_id": 7783,
+    "verse_number": "१८",
+    "content_sanskrit": "सृ",
+    "padaccheda": "सृ",
+    "anvaya": "P-पदी, गणः 3",
+    "meaning_sanskrit": "गतौ",
+    "meaning_english": "to go",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20211260,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "छान्दसः । ' आ गणान्तात् परस्मैपदिनः छन्दसाश्च ' इति कौमुदी । ' यद्दीप्तौ क्षरणे जिघर्ति तदिदं केचिद्विदुश्छान्दसम् ' (श्लो. 33) इति देवः । क्षरणं = स्रवणम् इति क्षीरस्वामी ।"
+    }
+  ]
+}

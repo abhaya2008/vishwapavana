@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212522,
+    "chapter_id": 7792,
+    "verse_number": "२",
+    "content_sanskrit": "छन्दसीणः",
+    "padaccheda": "",
+    "anvaya": "उण्",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212522,
+      "commentary_type": "विवरणम्",
+      "author": "",
+      "content": "मा न आयौ ।"
+    }
+  ]
+}

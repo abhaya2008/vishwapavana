@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20212165,
+    "chapter_id": 7790,
+    "verse_number": "४१६",
+    "content_sanskrit": "क्षोट",
+    "padaccheda": "क्षोट",
+    "anvaya": "U-पदी, गणः 10",
+    "meaning_sanskrit": "क्षेपे",
+    "meaning_english": "to project, to throw",
+    "audio_url": null,
+    "display_order": 416,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20212165,
+      "commentary_type": "धातुरूपनन्दिनी",
+      "author": "",
+      "content": "अदन्तः । ' क्षये ' इति धातुकाव्ये (3.55) पाठः ।"
+    }
+  ]
+}

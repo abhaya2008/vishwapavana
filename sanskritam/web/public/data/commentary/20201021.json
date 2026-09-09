@@ -1,0 +1,80 @@
+{
+  "verse": {
+    "id": 20201021,
+    "chapter_id": 7759,
+    "verse_number": "३.३.६५",
+    "content_sanskrit": "क्वणो वीणायां च",
+    "padaccheda": "क्वणः । वीणायाम् । च",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": "अनुवृत्तिः — कृत् (३.१.९३), अप् (३.३.५७), अनुपसर्गे (३.३.६१), वा (३.३.६२), नौ (३.३.६४)"
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20201021,
+      "commentary_type": "काशिकावृत्तिः",
+      "author": "वामन-जयादित्यौ",
+      "content": "नौ वानुपसर्ग इति वर्तते। क्वणतेर्धातोर्निपूर्वादनुपसर्गाच्च वीणायां वाप् प्रत्ययो भवति। घञोऽपवादः। सोपसर्गार्थं वीणाया ग्रहणम्। निक्वणः, निक्वाणः। अनुपसर्गात् — क्वणः, क्वाणः। वीणायां खल्वपि — कल्याणप्रक्वणा वीणा। एतेष्विति किम्? अतिक्वाणो वर्तते॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20201021,
+      "commentary_type": "सिद्धान्तकौमुदी",
+      "author": "भट्टोजिदीक्षितः",
+      "content": "नावनुपसर्गे च वीणाविषयाच्च क्वणतेरप् वा स्यात् । वीणाग्रहणं प्राद्यर्थम् । निक्वणः । निक्वाणः । क्वणः । क्वाणः । वीणायां तु । प्रक्वणः । प्रक्वाणः ॥"
+    },
+    {
+      "id": 3,
+      "verse_id": 20201021,
+      "commentary_type": "तत्त्वबोधिनी",
+      "author": "ज्ञानेन्द्रसरस्वती",
+      "content": "<<क्वणो वीणायां च>> - क्वणो ।निक्वाणो निक्वणः क्वाणः क्वणः क्वणनमित्यपि । वीणायाः क्वणिते प्रादेः प्रक्वाणप्रक्वणादयः॑ इत्यमरः ।"
+    },
+    {
+      "id": 4,
+      "verse_id": 20201021,
+      "commentary_type": "न्यासः (काशिकाविवरणपञ्जिका)",
+      "author": "जिनेन्द्रबुद्धिः",
+      "content": "`सोपसर्गार्थं वीणाया ग्रहणम्` इति। यदि वीणाविषयेऽप्यनुसर्गादेव स्यात्, वीणाग्रहणमनर्थकं स्यात्। अनुपसर्गात् सामान्येन विधानाद्वीणायामपि प्रत्ययः सिद्धः॥"
+    },
+    {
+      "id": 5,
+      "verse_id": 20201021,
+      "commentary_type": "पदमञ्जरी",
+      "author": "हरदत्तः",
+      "content": "सोपसर्गार्थमिदं वीणाग्रहणमिति । निव्यतिरिक्तोपसर्गार्थमिदं द्रष्टव्यम्; निपूर्वादनुपसर्गाच्च सामान्येन विधानात् । कल्याणप्रक्वाणेति बहुव्रीहिः ॥"
+    },
+    {
+      "id": 6,
+      "verse_id": 20201021,
+      "commentary_type": "प्रक्रियासर्वस्वम्",
+      "author": "नारायणभट्टः",
+      "content": "निपूर्वादनुपसर्गाच्च क्वणेरप् वा । वीणाविषये तु सोपसर्गादप्यप् वा स्यात्। निक्कणः निक्वाणः । क्वणः क्वाणः । वीणायां तु प्रक्वणः प्रक्वाणः इत्यादि ॥"
+    },
+    {
+      "id": 7,
+      "verse_id": 20201021,
+      "commentary_type": "English Commentary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes optionally after the verb क्वन् 'to jingle' when नि is in composition with it, as well as when it is without any उपसर्ग or when 'flute' is meant.\nThis debars the affix घञ्. Thus निक्वणः or निक्वाणः 'a musical tone'. क्वणः or क्वाणः 'sound'. When it refers to 'flute', it must have some <i>upasarga</i> not necessarily नि; as कल्याणप्रक्वणा वीणा.\n\nBut not so here, अतिक्वाणो वर्तते, where the <i>upasarga</i> being अति and the word not referring to 'a flute', no option is allowed. When flute is not meant the <i>upasarga</i> must be नि or no <i>upasarga</i> at all, for the optional application of the affix अप्. To sum up, क्वण् takes अप् optionally under three conditions:- Ist when preceded by नि, or 2ndly when having no <i>upasarga</i>, or 3rdly when it refers to 'flute', and then it must have some <i>upasarga</i>."
+    },
+    {
+      "id": 8,
+      "verse_id": 20201021,
+      "commentary_type": "English Summary (S.C. Vasu)",
+      "author": "S.C. Vasu",
+      "content": "The affix अप् comes optionally after the verb क्वन् 'to jingle' when नि is in composition with it, as well as when it is without any उपसर्ग or when 'flute' is meant."
+    },
+    {
+      "id": 9,
+      "verse_id": 20201021,
+      "commentary_type": "काव्यप्रयोगाः",
+      "author": "",
+      "content": "अथ क्लमाद-निःक्वाणा (भट्टिकाव्यम् 7.58) — `कणो वीणायां च` इत्यपो विकल्पेन घञ्।"
+    }
+  ]
+}
