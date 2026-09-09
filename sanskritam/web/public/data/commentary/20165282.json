@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165282,
+    "chapter_id": 7061,
+    "verse_number": "9.109",
+    "content_sanskrit": "कः कृत्वा रावणाऽऽमर्ष-प्रकोपणमवद्य-धीः । शक्तो जगति शाक्रोऽपि कर्तुमायुः-प्रगोपणम् ॥",
+    "padaccheda": "कः । कृत्वा । रावणामर्षप्रकोपणम् । अवद्यधीः । शक्तः । जगति । शाक्रः । अपि । कर्तुम् । आयुःप्रगोपणम्",
+    "anvaya": "कः अवद्य-धीः जगति रावण-आमर्ष-प्रकोपणम् कृत्वा शाक्रः अपि आयुः-प्रगोपणम् कर्तुम् शक्तः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"What wicked person in this world, even if he were Indra himself, would be able to protect his own life after inciting the wrath of Rāvaṇa?\"",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165282,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कः कृत्वेत्यादि - अवद्यधीः योऽबुद्धिः रावणामर्षस्य प्रकोपणमभिवृद्धिं कृत्वा आयुः प्रगोपणं कर्तुं शक्रोऽपि कः शक्तः । २८३७ हलश्चैजुपधात्(पा.१८|४|३)|' इति णत्वम् । कुपगुपयोर्हलन्तयोरिगुपधत्वात् ॥"
+    }
+  ]
+}

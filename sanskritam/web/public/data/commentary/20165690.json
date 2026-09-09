@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165690,
+    "chapter_id": 7066,
+    "verse_number": "14.42",
+    "content_sanskrit": "राघवो न दयांचक्रे दधुर्धैर्यं न केचन । मम्रे पतङ्गवद्वीरैर्हाहेति च विचुक्रुशे ॥",
+    "padaccheda": "राघवः । न । दयांचक्रे । दधुः । धैर्यम् । न । केचन । मम्रे । पतङ्ग-वत् । वीरैः । हा । हा । इति । च । विचुक्रुशे",
+    "anvaya": "राघवः न दयांचक्रे, केचन धैर्यं न दधुः । वीरैः पतङ्ग-वत् मम्रे, हा हा इति च विचुक्रुशे ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāghava showed no mercy in the fight. None of the enemies could maintain their courage; they perished like moths before the heroes. A great cry of \"Ha! Ha!\" resounded everywhere.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165690,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "राघव इत्यादि - राघवो न दयांचक्रे न दयां कृतवान् । पूर्ववदाम् । न केचन न केचित् धैयं दधुः धारितवन्तः । सर्व एव अहमहमिकया प्रवृत्ताः । यदि वा न केचन केचिद्वैयं न दधुः अपि तु दधुरेव । पतङ्गवत्पतङ्गैरिव वीरमंत्रे मृतम् । भावे लिट् । हाहेति च विचुक्रुशे रुदितम् ॥"
+    }
+  ]
+}

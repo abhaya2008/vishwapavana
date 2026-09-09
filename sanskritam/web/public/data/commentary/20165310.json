@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165310,
+    "chapter_id": 7061,
+    "verse_number": "9.137",
+    "content_sanskrit": "अन्वयाऽऽदि-विभिन्नानां यथा सख्यमनीप्सितम् । नैषीर्विरोधमप्येवं सार्धं पुरुष-वानरैः ॥",
+    "padaccheda": "अन्वय-आदि-विभिन्नानाम् । यथा । सख्यम् । अनीप्सितम् । न । एषीः । विरोधम् । अपि । एवम् । सार्धम् । पुरुष-वानरैः",
+    "anvaya": "यथा अन्वय-आदि-विभिन्नानाम् सख्यम् अनीप्सितम्, एवम् पुरुष-वानरैः सार्धम् विरोधम् अपि न एषीः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as friendship is not desired among those who differ in lineage and traits, you should likewise not have sought enmity with humans and monkeys.",
+    "audio_url": null,
+    "display_order": 137,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165310,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अन्वयेत्यादि - यथा नरादीनां अन्वयादिभिर्दूरविभिन्नत्वात् सख्यमनी - प्सितं आत्मनिष्टं, एवं पुरुपवानरैः सार्धं विग्रहमपि नैपीः नेष्टवानसि ॥"
+    }
+  ]
+}

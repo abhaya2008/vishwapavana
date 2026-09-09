@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166180,
+    "chapter_id": 7074,
+    "verse_number": "22.10",
+    "content_sanskrit": "ततः परं भरद्वाजो भवता दर्शिता मुनिः । द्रष्टारश्च जनाः पुन्या यामुनाऽम्बुक्षतांऽहसः ॥",
+    "padaccheda": "ततः । परम् । भवता । भरद्वाजः । मुनिः । दर्शिता । यामुना-अम्बु-क्षत-अंहसः । पुण्याः । जनाः । च । द्रष्टारः",
+    "anvaya": "ततः परम् भवता भरद्वाजः मुनिः दर्शिता । यामुना-अम्बु-क्षत-अंहसः पुण्याः जनाः च द्रष्टारः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "After that, the sage Bharadvāja will be seen by you, along with holy people whose sins have been washed away by the waters of the Yamunā.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166180,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि - ततः चित्रकूटात्परं गच्छता भवता भरद्वाजो मुनिर्दर्शिता द्रष्टव्यः । जनाश्च पुण्याः यामुनाम्बुक्षतांहसः यमुनाजलस्य स्नानात्पानाच्च क्षपि- • तपापा: द्रष्टारो द्रष्टव्या वा । चिण्वदिट् च ॥"
+    }
+  ]
+}

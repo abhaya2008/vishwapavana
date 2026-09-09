@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165024,
+    "chapter_id": 7059,
+    "verse_number": "7.94",
+    "content_sanskrit": "नाऽयमुद्विजितुं कालः स्वामि-कार्याद्भवादृशाम् । हृत-भार्ये च्युते राज्याद्रामो पर्युत्सुके भृशम् ॥",
+    "padaccheda": "हृत-भार्ये । राज्यात् । च्युते । रामे । भृशम् । पर्युत्सुके । भवादृशाम् । स्वामि-कार्यात् । उद्विजितुम् । अयम् । कालः । न",
+    "anvaya": "हृत-भार्ये राज्यात् च्युते रामे भृशम् पर्युत्सुके (सति) भवादृशाम् स्वामि-कार्यात् उद्विजितुम् अयम् कालः न ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This is not the time for ones like you to shrink from your master's work, especially when Rāma is deeply distressed, his wife stolen and his kingdom lost.",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165024,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "नायमित्यादि - भवादृशां युष्मद्विधानां स्वामिकार्यादुद्विजितुं नायं कालः । विजः-(पा.११|२|२) इति ङित्त्वम् । किमिति न भवतीति चेदाह - राज्या- च्युते भ्रष्टे रामे निर्वासितत्वात् । तत्रापि हृतभार्ये भृशमत्यर्थ पर्युत्सुके सीतायाम् ॥"
+    }
+  ]
+}

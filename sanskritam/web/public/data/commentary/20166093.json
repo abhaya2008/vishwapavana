@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166093,
+    "chapter_id": 7071,
+    "verse_number": "19.13",
+    "content_sanskrit": "यज्ञ-पात्राणि गोत्रेषु चिनुयाच्च यथा-विधि । जुहुयाच्च हविर्वह्नौ गायेयुः साम सामगाः।\" ॥",
+    "padaccheda": "यज्ञ-पात्राणि । गोत्रेषु । चिनुयात् । च । यथा-विधि । जुहुयात् । च । हविः । वह्नौ । गायेयुः । साम । साम-गाः",
+    "anvaya": "यथा-विधि गोत्रेषु यज्ञ-पात्राणि चिनुयात् च । वह्नौ हविः जुहुयात् च साम-गाः साम गायेयुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Arrange the sacrificial vessels in the specified places according to rite. Offer oblations into the fire, and let the Sāman-singers chant the hymns.\"",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166093,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "जुहुयाच् च हविर् वह्नौ, गायेयुः साम सामगाः. १३ यज्ञपात्राणीत्यादि —सं एव यथाविधि यथाक्रमं यज्ञस्य पात्राणि स्रुगा- दीनि गात्रेषु विचिनुयात् । हविराज्यं वह्नौ जुहुयात् । सामगाः छन्दोगाः साम च गायेयुः । सर्वत्र विधौ लिङ् ॥"
+    }
+  ]
+}

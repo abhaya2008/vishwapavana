@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166187,
+    "chapter_id": 7074,
+    "verse_number": "22.17",
+    "content_sanskrit": "गते त्वयि पथाऽनेन वयमप्यंहितास्महे । लब्धाहेऽहं धृतिं प्राप्ते भूयो भवति सम्मुखे ॥",
+    "padaccheda": "त्वयि । अनेन । पथा । गते । वयम् । अपि । अंहितास्महे । भूयः । भवति । सम्मुखे । प्राप्ते । अहम् । धृतिम् । लब्धाहे",
+    "anvaya": "त्वयि अनेन पथा गते वयम् अपि अंहितास्महे । भूयः भवति सम्मुखे प्राप्ते अहम् धृतिम् लब्धाहे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Once you have gone by this path, we too shall set out. When you appear before me again, I shall obtain peace of mind.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166187,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "गत इत्यादि - त्वयि पथा अनेन मयाभिहितेन गते वयमपि अंहितास्महे प्रयातास्मः । 'अहि गतौ' । भूयश्च पुनरपि भवति त्वयि सम्मुखे प्राप्ते धृतिमहं लब्धाहे प्राप्तोस्मि । '२२५० ह एति(पा.७|४|५२) इति तासि सकारस्य हकारः ॥"
+    }
+  ]
+}

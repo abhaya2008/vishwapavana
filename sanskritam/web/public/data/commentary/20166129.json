@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166129,
+    "chapter_id": 7072,
+    "verse_number": "20.19",
+    "content_sanskrit": "अनुष्ठाय यथाऽऽदिष्टं नियोगं जनकाऽऽत्मजा । ममारूढवती यानं पट्टांऽशुक-वृताऽऽनना ॥",
+    "padaccheda": "अनुष्ठाय । यथा-आदिष्टम् । नियोगम् । जनक-आत्मजा । आरूढवती । यानम् । पट्ट-अंशुक-वृत-आनना",
+    "anvaya": "जनकात्मजा यथा-आदिष्टम् नियोगम् अनुष्ठाय, पट्ट-अंशुक-वृत-आनना यानम् आरूढवती ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having performed the command as directed, the daughter of Janaka (Sītā), with her face veiled by a silken cloth, mounted the vehicle.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166129,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अनुष्ठायेत्यादि - श्लोकत्रयं एवमुक्ता भर्तुर्यथोद्दिष्टं नियोगं स्नानादिकम- नुष्ठाय कृत्वा जनकात्मजा मां कश्चिन्माद्राक्षीदिति पट्टांशुकवृतानना यानं शिबि- कामारूढवती पत्युरन्तिकं च गत्वा यानादवतीर्येत्यर्थात् ॥"
+    }
+  ]
+}

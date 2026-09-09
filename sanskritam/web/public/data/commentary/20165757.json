@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165757,
+    "chapter_id": 7066,
+    "verse_number": "14.109",
+    "content_sanskrit": "संदुधुक्षे तयोः कोपः पस्फाये शस्त्र-लाघवम् । नुनोद शाखिनं नील आवव्रे मुसली तरुम् ॥",
+    "padaccheda": "संदुधुक्षे । तयोः । कोपः । पस्फाये । शस्त्र-लाघवम् । नुनोद । शाखिनम् । नीलः । आवव्रे । मुसली । तरुम्",
+    "anvaya": "तयोः कोपः संदुधुक्षे, शस्त्र-लाघवम् पस्फाये । नीलः शाखिनम् नुनोद, मुसली तरुम् आवव्रे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The anger of both warriors was kindled, and their skill and speed with weapons increased. Nīla hurled a tree, while the mace-bearing Prahasta warded it off.",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165757,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सन्दुधुक्ष इत्यादि — तयोर्नीलप्रहस्तयोः कोपः संदुधुक्ष वृद्धिं गतः । अस्त्र- लाघवमस्त्रकौशलं पस्फाये वृद्धिं गतम् । नुनोद शाखिनं प्रेरितवान् । मुसली ग्रहस्तः तरुमावत्रे मुसलेनावृतवान् ॥"
+    }
+  ]
+}

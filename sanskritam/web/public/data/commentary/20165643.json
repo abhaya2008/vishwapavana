@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165643,
+    "chapter_id": 7065,
+    "verse_number": "13.55",
+    "content_sanskrit": "गुरु-पणव-वेणु-गुञ्जा- भेरी-पेलोरु-झल्लरी-भीम-रवम् । ढक्का-घण्टा-तुमुलं सन्नद्धं पर-बलं रणाऽऽयास-सहम् ॥",
+    "padaccheda": "गुरु-पणव-वेणु-गुञ्जा-भेरी-पेलु-उरु-झल्लरी-भीम-रवम् । ढक्का-घण्टा-तुमुलम् । सन्नद्धम् । पर-बलम् । रण-आयास-सहम्",
+    "anvaya": "गुरु-पणव-वेणु-गुञ्जा-भेरी-पेलु-उरु-झल्लरी-भीम-रवम् ढक्का-घण्टा-तुमुलम् सन्नद्धम् पर-बलम् रण-आयास-सहम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The enemy's army was prepared for battle, capable of enduring the fatigue of war. It resounded with the terrifying noises of large drums (paṇava), flutes, kettledrums (bherī), large cymbals (jhallarī), and the tumultuous sound of ḍhakkā drums and bells.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165643,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "गुर्वित्यादि - गुरुपणवादीनां भीमो रवो यस्मिन् परवले तत्र । गुरुपणवो महान् पणवः । पेला वाद्यविशेषः । उरुझल्लरी महती झल्लरी । ढक्काघण्टयो- स्तुमुलः संमूर्छितः शब्दो यत्रेति । रणायाससहं रणक्केशसहम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166101,
+    "chapter_id": 7071,
+    "verse_number": "19.21",
+    "content_sanskrit": "स भवान्भ्रातृ-वद्रक्षेद्यथावदखिलं जनम् । न भवान्संप्रमुह्येच्चेदाश्वस्युश्च निशाचराः ॥",
+    "padaccheda": "सः । भवान् । अखिलम् । जनम् । भ्रातृवत् । यथावत् । रक्षेत् । चेत् । भवान् । न । संप्रमुह्येत् । निशाचराः । च । आश्वस्युः",
+    "anvaya": "सः भवान् अखिलम् जनम् भ्रातृ-वत् यथावत् रक्षेत्। चेत् भवान् न संप्रमुह्येत्, निशाचराः च आश्वस्युः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You should protect all people properly, like a brother. If you do not become deluded, the niśācaras will also find comfort and confidence.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166101,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "स इत्यादि - चेद्यदि भवान्न सम्प्रमुह्येत् मोहं न गच्छेत् तदा स भवान् भ्रातृवत् यथा भ्रात्रा जनो रक्ष्यते तद्वत् अखिलं जनं यथावत् सम्यक् रक्षेत् । एते च निशाचरा आश्वस्युराश्वासं गच्छेयुः । हेतुहेतुमतोर्लिङ् |३|३|"
+    }
+  ]
+}

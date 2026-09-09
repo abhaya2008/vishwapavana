@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165179,
+    "chapter_id": 7061,
+    "verse_number": "9.6",
+    "content_sanskrit": "कपिनाऽम्भोधि-धीरेण समगंसत राक्षसाः । वर्षासूद्धत-तोयौघाः समुद्रेणेव सिन्धवः ॥",
+    "padaccheda": "कपिना । अम्भोधि-धीरेण । समगंसत । राक्षसाः । वर्षासु । उद्धत-तोय-ओघाः । समुद्रेण । इव । सिन्धवः",
+    "anvaya": "अम्भोधि-धीरेण कपिना राक्षसाः समगंसत वर्षासु उद्धत-तोय-ओघाः सिन्धवः समुद्रेण इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Rākṣasas clashed with the monkey, who was firm like the ocean, just as rivers with swollen waters merge into the sea during the rainy season.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165179,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कपिनेत्यादि — कपिना अम्भोधिधीरेणाक्षोभ्यत्वात् । राक्षसः समगंसत संगताः । ‘समो गम्यृच्छि (पा.१|३|२९) इत्यादिना तङ् लुङ् । यथा सिन्धवो नद्यः उद्घततोयौघाः उद्रिक्तजलपूराः समुद्रेण सङ्गच्छन्ते ॥"
+    }
+  ]
+}

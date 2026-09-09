@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165594,
+    "chapter_id": 7065,
+    "verse_number": "13.6",
+    "content_sanskrit": "चञ्चल-तरु-हरिण-गणं बहु-कुसुमाऽऽबन्ध-बद्ध-रामाऽऽवासम् । हरि-पल्लव-तरु-जालं तुङ्गोरु-समिद्ध-तरु-वर-हिम-च्छायम् ॥",
+    "padaccheda": "चञ्चल-तरु-हरिण-गणं । बहु-कुसुम-आबन्ध-बद्ध-राम-आवासम् । हरि-पल्लव-तरु-जालं । तुङ्ग-उरु-समिद्ध-तरु-वर-हिम-च्छायम्",
+    "anvaya": "चञ्चल-तरु-हरिण-गणम् बहु-कुसुम-आबन्ध-बद्ध-राम-आवासम् हरि-पल्लव-तरु-जालम् तुङ्ग-उरु-समिद्ध-तरु-वर-हिम-च्छायम् (तीरम् आरूढः)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He reached the shore which was filled with herds of restless deer and trees, where Rāma resided amidst many blossoms, and which was shaded by tall, excellent trees with green foliage.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165594,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "चञ्चलेत्यादि — चञ्चलश्चपलः तरुहरिणानां वानराणां गणो यत्र जलतीरे । बहुकुसुमानां वृक्षाणामाबन्धेन परस्परसंश्लेपेण वद्धो घटितो रामावासो यत्र । हरिपल्लवानि तरुजालानि यत्र । तुङ्गा उरवः परिमण्डलाः समिद्धा उज्वला ये तरुवरास्तैर्हिमा शीतला छाया यत्र तज्जलतीरम् ॥"
+    }
+  ]
+}

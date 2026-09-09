@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165603,
+    "chapter_id": 7065,
+    "verse_number": "13.15",
+    "content_sanskrit": "हर-हास-रुद्ध-विगमं पर-कण्ठ-गणं महाऽऽहव-समारम्भे । छिन्दन्तु राम-बाणा गम्भीरे मे जले महा-गिरि-बद्धे ॥",
+    "padaccheda": "हर-हास-रुद्ध-विगमं । पर-कण्ठ-गणं । महा-आहव-समारम्भे । छिन्दन्तु । राम-बाणा । गम्भीरे । मे । जले । महा-गिरि-बद्धे",
+    "anvaya": "महा-आहव-समारम्भे हर-हास-रुद्ध-विगमम् पर-कण्ठ-गणम् मे गम्भीरे जले महा-गिरि-बद्धे (सेतौ) राम-बाणाः छिन्दन्तु।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"In the great battle, let the arrows of Rāma sever the necks of enemies—white as the laughter of Hara—upon the bridge made of great mountains over my deep waters.\"",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165603,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "हरेत्यादि - मे मम जले गम्भीरे अगाधे महागिरिभिर्वद्धे सति यो महाहवस्य समारम्भः प्रवर्तनं तस्मिन् परस्य शत्रोः कण्ठगणं ग्रीवासमूहं हरस्य तुष्टत्वात् यो हासः तेन रुद्धो विगमश्छेदो यस्य तं रामशरारिछन्दन्तु । आशिपि लोट् ॥"
+    }
+  ]
+}

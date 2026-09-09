@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20122442,
+    "chapter_id": 6953,
+    "verse_number": "1.21",
+    "content_sanskrit": "मन्दानिलव्यतिकरच्युतपल्लवेषु मन्दारमूललवलीगृहमण्डपेषु । पुष्पाणि वेणिवलयेषु गलन्ति तस्यां साह्यं वहन्ति सुरवासकसज्जिकानाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20122442,
+      "commentary_type": "विस्तारः",
+      "author": "",
+      "content": "प्रियागमनवेलाया मण्डयन्ती मुहुर्मुहुः । केळीगृहं तथात्मानं सा स्याद्वासकसज्जिका ॥"
+    }
+  ]
+}

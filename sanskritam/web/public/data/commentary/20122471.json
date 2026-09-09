@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20122471,
+    "chapter_id": 6953,
+    "verse_number": "1.50",
+    "content_sanskrit": "भीमं भीमेन तस्याथ सैन्यं सैन्येन विद्विषाम् । समगच्छत कल्पान्ते सागरेणेव सागरः",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20122471,
+      "commentary_type": "विस्तारः",
+      "author": "",
+      "content": "समगच्छत 'समो गम्युच्छिभ्याम् ' इत्यात्मनेपदम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164970,
+    "chapter_id": 7059,
+    "verse_number": "7.40",
+    "content_sanskrit": "संस्तावमिव शृण्वन्तश्छन्दोगानां महाध्वरे । शिञ्जितं मधु-लेहानां पुष्प-प्रस्तार-शायिनाम् ॥",
+    "padaccheda": "संस्तावम् । इव । शृण्वन्तः । छन्दोगानाम् । महा-ध्वरे । शिञ्जितम् । मधु-लेहानाम् । पुष्प-प्रस्तार-शायिनाम्",
+    "anvaya": "महा-ध्वरे छन्दोगानाम् संस्तावम् इव पुष्प-प्रस्तार-शायिनाम् मधु-लेहानाम् शिञ्जितम् शृण्वन्तः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Listening to the buzzing of bees lying on flower beds, which sounds like the collective chanting of Sāmaveda singers at a great sacrifice.\"",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164970,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "संस्तावमित्यादि - मधुलेहानां भ्रमराणां पुष्पप्रस्तारशायिनाम् । प्रेस्त्रो ऽयज्ञे (पा.३|३|३२) इति घन् । शिक्षितं शृण्वन्तः यूयं यात । छन्दोगानां महाध्वरे संस्तावमिव सम्भूय स्तवनमिव पाठध्वनिविशेषमिव वा । यज्ञे समि स्तुवः (पा.३|३|३१) इति घञ् ॥"
+    }
+  ]
+}

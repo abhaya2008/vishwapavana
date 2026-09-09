@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166010,
+    "chapter_id": 7069,
+    "verse_number": "17.84",
+    "content_sanskrit": "मण्डलान्याटतां चित्रमच्छित्तां शस्त्र-संहतीः । जगद्विस्मापयेतां तौ न च वीरावसीदताम् ॥",
+    "padaccheda": "मण्डलानि । आटताम् । चित्रम् । अच्छित्ताम् । शस्त्र-संहतीः । जगत् । विस्मापयेताम् । तौ । न । च । वीरौ । अवसीदताम्",
+    "anvaya": "मण्डलानि आटताम् चित्रम् शस्त्र-संहतीः अच्छित्ताम् तौ जगत् विस्मापयेताम् वीरौ न च अवसीदताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Moving in wondrous circular orbits and slicing through masses of weapons, the two warriors amazed the world, neither showing any sign of exhaustion.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166010,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मण्डलानीत्यादि — चित्रमाश्चर्य मण्डलान्याटतां चक्रवद् भ्रान्तौ । शस्त्र - संहती: अच्छित्तां च्छिन्नवन्तौ । जगत् विस्मापयेतां विस्मापितवन्तौ । नित्यं स्मयतेः (पा.६|१|५७) इत्यात्वम् । न च तौ वीरौ असीदतां अवसन्नौ । पा घ्रा (पा.७|३|७८) इति सीदादेशः ॥"
+    }
+  ]
+}

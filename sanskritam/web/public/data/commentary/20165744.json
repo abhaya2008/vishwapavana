@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165744,
+    "chapter_id": 7066,
+    "verse_number": "14.96",
+    "content_sanskrit": "आजघ्नुस्तूर्य-जातानि तुष्टुवुश्चाऽनुजीविनः । रजः प्रववृधे घोरं घोषश्च व्यानशे दिशः ॥",
+    "padaccheda": "आजघ्नुः । तूर्य-जातानि । तुष्टुवुः । च । अनुजीविनः । रजः । प्रववृधे । घोरम् । घोषः । च । व्यानशे । दिशः",
+    "anvaya": "तूर्य-जातानि आजघ्नुः अनुजीविनः तुष्टुवुः च। घोरम् रजः प्रववृधे घोषः च दिशः व्यानशे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They struck various musical instruments, and the followers chanted praises. A terrible dust rose up, and the roar filled the directions.",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165744,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आजघ्नुरित्यादि - तूर्यजातानि वाद्यसमूहान् आजघ्नुः ताडितवन्तः । तन्नियुक्ता इत्यर्थात् । आङो यमहनः (पा.१|३|२८) इति तङ् न भवति सकर्मकत्वात् । अनुजीविनश्च तुष्टुवुः । 'जय जीव' इति स्तुवन्ति स्म । पदक्षोभा- घोरं रजः प्रववृधे वर्धते स्म । घोषश्च कलकलशब्दः दिशो व्यानशे व्याप्तवान् ॥"
+    }
+  ]
+}

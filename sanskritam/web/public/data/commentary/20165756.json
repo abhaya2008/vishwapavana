@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165756,
+    "chapter_id": 7066,
+    "verse_number": "14.108",
+    "content_sanskrit": "सेहे कपी रथाऽश्वांश्च रिपोस्ततर्ह शाखिना । धरित्रीं मुसली तेये प्रहस्तश्चिखिदे न च ॥",
+    "padaccheda": "सेहे । कपी । रथ-अश्वान् । च । रिपोः । ततर्ह । शाखिना । धरित्रीम् । मुसली । तेये । प्रहस्तः । चिखिदे । न । च",
+    "anvaya": "कपी रिपोः रथ-अश्वान् च सेहे, शाखिना ततर्ह । मुसली प्रहस्तः धरित्रीम् तेये, न चिखिदे च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The monkey endured the onslaught of the enemy's chariot and horses and crushed them with a tree. Armed with a mace, Prahasta reached the ground but showed no sign of exhaustion.",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165756,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सेह इत्यादि - कपिर्नीलो बाणान् सेहे सोढवान् । रथानश्वांश्च रिपोः ग्रह- स्तस्य शाखिना तरुणा ततर्ह हतवान् । तृह हिसि हिंसायाम् ।' हृतरथाश्वश्च ग्रहस्तो मुसली गृहीतमुसलः धरित्रीं तेये गतवान् ।"
+    }
+  ]
+}

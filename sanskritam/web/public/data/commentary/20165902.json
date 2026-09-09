@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165902,
+    "chapter_id": 7068,
+    "verse_number": "16.18",
+    "content_sanskrit": "कुम्भकर्णो रणे पुंसा क्रुद्धः परिभविष्यते । संभावितानि नैतानि कदाचित्केनचिज्जने ॥",
+    "padaccheda": "क्रुद्धः । कुम्भकर्णः । रणे । पुंसा । परिभविष्यते । एतानि । कदाचित् । केनचित् । जने । न । संभावितानि",
+    "anvaya": "क्रुद्धः कुम्भकर्णः रणे पुंसा परिभविष्यते (इति) एतानि कदाचित् केनचित् जने न संभावितानि ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "That the enraged Kumbhakarṇa would be defeated in battle by a mere man—these things were never imagined by anyone among people.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165902,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कुम्भकर्ण इत्यादि - कुम्भकर्णो रणे क्रुद्धः सन् पुंसा परिभविष्यते । कर्मणि लुट् । एतानि भानुपतनादीनि कुम्भकर्णपरिभवान्तानि जने लोके केनचित् न- संभावितानि न चिन्तितानि ॥"
+    }
+  ]
+}

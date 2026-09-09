@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164675,
+    "chapter_id": 7057,
+    "verse_number": "5.9",
+    "content_sanskrit": "करिष्यमाणं विज्ञेयं कार्यं किं नु कृतं परैः ।अपकारे कृतेऽप्यज्ञो विजिगीषुर्न वा भवान् ॥",
+    "padaccheda": "करिष्यमाणम् । विज्ञेयम् । कार्यम् । किम् । नु । कृतम् । परैः । अपकारे । कृते । अपि । अज्ञः । विजिगीषुः । न । वा । भवान्",
+    "anvaya": "परैः कृतम् कार्यम् किम् नु करिष्यमाणम् विज्ञेयम् । अपकारे कृते अपि अज्ञः भवान् विजिगीषुः न वा ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "One should know what the enemies have done and what they intend to do. Even after an injury has been inflicted, are you ignorant or no longer desirous of victory?",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164675,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "करिष्यमाणमित्यादि - परैः शत्रुभिरपचयचिकीर्षया करिष्यमाणं कार्यं विज्ञेयम् । किं नु कृतमेव यत्तदवश्यमेव विज्ञेयमित्यर्थः । त्वं पुनः परैरपकृतो- ऽपि अज्ञोऽविदितस्वरूपः । अतो विजिगीषुर्न वा भवान् । अतो न राज्यं संभावयतीत्यर्थः ॥"
+    }
+  ]
+}

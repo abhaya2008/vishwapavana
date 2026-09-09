@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165983,
+    "chapter_id": 7069,
+    "verse_number": "17.57",
+    "content_sanskrit": "आसीद्द्वारेषु संघट्टो रथाऽश्व-द्विपरक्षसाम् । समहान-निमित्तैश्च समभूयत भीषणैः ॥",
+    "padaccheda": "आसीत् । द्वारेषु । संघट्टः । रथ-अश्व-द्विप-रक्षसाम् । स-महान-निमित्तैः । च । समभूयत । भीषणैः",
+    "anvaya": "द्वारेषु रथ-अश्व-द्विप-रक्षसाम् संघट्टः आसीत् । भीषणैः स-महान-निमित्तैः च समभूयत ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "There was a massive congestion of chariots, horses, elephants, and Rākṣasas at the gates. Terrifying and great ill-omens occurred simultaneously.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165983,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आसीदित्यादि - रथादीनां निर्गच्छतां लङ्काद्वारेषु संघट्टः सुमहानासीत् । जनभूयस्तया संघर्षो ऽभूत् । अस्तिसिचोऽपृक्ते (पा.७|३|९६) इतीट् । अनिमित्तैः भीषणैर्भयंकरैर्महद्भिः समभूयत क्षयकरैर्निमित्तैर्भूतम् । भावे । लङ् ॥"
+    }
+  ]
+}

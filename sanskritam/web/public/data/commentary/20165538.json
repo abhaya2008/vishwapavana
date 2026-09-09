@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165538,
+    "chapter_id": 7064,
+    "verse_number": "12.37",
+    "content_sanskrit": "एकेन वाली निहतः शरेण सुहृत्-तमस्ते रचितश्च राजा । यदैव सुग्रीव-कपिः परेण तदैव कार्यं भवतो विनष्टम् ॥",
+    "padaccheda": "एकेन । वाली । निहतः । सुहृत्-तमः । ते । रचितः । च । राजा । यदा । एव । सुग्रीव-कपिः । परेण । तदा । एव । कार्यम् । भवतः । विनष्टम्",
+    "anvaya": "यदा एव एकेन शरेण वाली निहतः ते सुहृत्-तमः च राजा रचितः परेण सुग्रीव-कपिः तदा एव भवतः कार्यम् विनष्टम् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The moment Vāli was killed with a single arrow and the monkey Sugrīva was made king—who is now your enemy's greatest friend—at that very moment your cause was lost.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165538,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "एकेनेत्यादि - तव सुहृत्तमो वाली यदैव परेण रामेण कर्त्रा शरेणैकेन निहतः, सुग्रीवश्च कपिस्त्वच्छत्रू राजा रचितः स्थापितः तदैव विनष्टमिति ॥ ३१८ भट्टिकाव्ये - तृतीये प्रसन्न -काण्डे लक्षण-रूपे तृतीयो वर्गः, अथ प्रतापवतो मम कथं कार्य विनश्यति प्रतापादेव शत्रवो नश्यन्तीति चेदाह-"
+    }
+  ]
+}

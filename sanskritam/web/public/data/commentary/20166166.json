@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166166,
+    "chapter_id": 7073,
+    "verse_number": "21.19",
+    "content_sanskrit": "तातं प्रसाद्य कैयेय्या भरताय प्रपीडितम् । सहस्र-चक्षुषं रामो निनंसुः परिदृष्टवान् ॥",
+    "padaccheda": "तातम् । प्रसाद्य । कैकेय्या । भरताय । प्रपीडितम् । सहस्रचक्षुषम् । रामः । निनंसुः । परिदृष्टवान्",
+    "anvaya": "कैकेय्या भरताय प्रपीडितम् तातम् प्रसाद्य, निनंसुः रामः सहस्र-चक्षुषं परिदृष्टवान् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having pacified his father, who had been distressed by Kaikeyī for the sake of Bharata, Rāma, wishing to offer salutations, beheld the thousand-eyed Indra.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166166,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तातमित्यादि - तातं दशरथं कैकेय्या प्रपीडितं सन्तापितं भरताय भरतार्थ राज्येऽभिषिच्यतामिति प्रसाद्य तद्विषये चित्तकालुष्यं त्याजयित्वा रामः सहस्रचक्षुषं इन्द्रं परिदृष्टवान् संदृष्टवान् । निनंसुः नन्तुमिच्छुः ॥"
+    }
+  ]
+}

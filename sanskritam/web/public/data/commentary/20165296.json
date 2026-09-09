@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165296,
+    "chapter_id": 7061,
+    "verse_number": "9.123",
+    "content_sanskrit": "ततः क्रोधाऽनिलाऽऽपात- कम्प्राऽऽस्याऽम्भोज-संहतिः । महा-ह्रद इव क्षुभ्यन्कपिमाह स्म रावणः ॥",
+    "padaccheda": "ततः । क्रोध-अनिल-आपात-कम्प्रा-आस्य-अम्भोज-संहतिः । महा-ह्रदः । इव । क्षुभ्यन् । कपिम् । आह । स्म । रावणः",
+    "anvaya": "ततः क्रोध-अनिल-आपात-कम्प्रा-आस्य-अम्भोज-संहतिः महा-ह्रदः इव क्षुभ्यन् रावणः कपिम् आह स्म ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rāvaṇa, his collection of lotus-like faces trembling from the blast of the wind of his anger, agitated like a great lake, spoke to the monkey.",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165296,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि - ततः कपिवाक्यानन्तरं क्रोधोऽनिल इव तस्यापातेन संश्ले• पेण कम्प्रा कम्पनशीला आस्याम्भोजानां मुखपद्मानां संहतिर्यस्य स एवं महा- हृद इव क्षुभ्यन् चलन् । दिवादित्वाच्छ्यन् ॥"
+    }
+  ]
+}

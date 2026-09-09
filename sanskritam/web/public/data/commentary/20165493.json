@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165493,
+    "chapter_id": 7063,
+    "verse_number": "11.39",
+    "content_sanskrit": "शैलेन्द्र-शृङ्गेभ्य इव प्रवृत्ता वेगाज्जलौघाः पुर-मन्दिरेभ्यः ।आपूर्य रथ्याः सरितो जनौघा राजाऽङ्गनाऽम्भोधिमपूरयन्त ॥",
+    "padaccheda": "शैलेन्द्र-शृङ्गेभ्यः । इव । प्रवृत्ताः । वेगात् । जल-ओघाः । पुर-मन्दिरेभ्यः । आपूर्य । रथ्याः । सरितः । जन-ओघाः । राज-अङ्गण-अम्भोधिम् । अपूरयन्त",
+    "anvaya": "शैलेन्द्र-शृङ्गेभ्यः वेगात् प्रवृत्ताः जल-ओघाः इव पुर-मन्दिरेभ्यः जन-ओघाः रथ्याः सरितः आपूर्य राज-अङ्गण-अम्भोधिम् अपूरयन्त ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Like torrents of water rushing from the peaks of great mountains, the crowds of people pouring out from the city mansions filled the street-rivers and flooded the ocean-like courtyard of the King.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165493,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "शैलेन्द्रशृङ्गेभ्य इत्यादि – यथा जलानां पूराः शैलेन्द्रशृङ्गात् प्रवर्तन्ते तद्वत्पुरमन्दिरेभ्यः प्रवृत्ता जनौघाः रथ्याः सरित इवापूर्य राजाङ्गनमम्भोधिमि- वापूरयन्त पूरितवन्तः ॥"
+    }
+  ]
+}

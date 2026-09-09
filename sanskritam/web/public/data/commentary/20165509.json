@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165509,
+    "chapter_id": 7064,
+    "verse_number": "12.8",
+    "content_sanskrit": "दूरात्प्रतीहार-नतः स वार्तां पृच्छन्ननावेदित-संप्रविष्टः । स-गौरवं दत्त-पथो निशाटै- रैक्षिष्ट शैलाऽग्रमिवेन्द्रशत्रुम् ॥",
+    "padaccheda": "दूरात् । प्रतीहार-नतः । सः । वार्तां । पृच्छन् । अनावेदित-संप्रविष्टः । स-गौरवं । दत्त-पथः । निशाटैः । ऐक्षिष्ट । शैल-अग्रम् । इव । इन्द्र-शत्रुम्",
+    "anvaya": "प्रतीहार-नतः सः दूरात् वार्तां पृच्छन् अनावेदित-संप्रविष्टः निशाटैः स-गौरवं दत्त-पथः शैल-अग्रम् इव इन्द्र-शत्रुम् ऐक्षिष्ट ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Saluted by the gatekeepers from afar, he entered unannounced while inquiring about the news. With a path respectfully cleared by the demons, he beheld the enemy of Indra, Rāvaṇa, appearing like a mountain peak.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165509,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "दूरादित्यादि - स विभीषणः दूरादेव प्रतीहारेण नतः स्वामिनीव तत्र गौरवात् । वार्ता पृच्छन् कुशली महाराज इति विभीषणो द्वारि तिष्ठतीति राज्ञे अनावेदित एव संप्रविष्टो निशारैः सगौरवं च सविनयं दत्तपथो दत्तमार्गः । इन्द्रशत्रुं रावणमैक्षिष्ट दृष्टवान् । शैलाग्रमिव सिंहासनारूढस्य तस्योच्चत्वात् ॥"
+    }
+  ]
+}

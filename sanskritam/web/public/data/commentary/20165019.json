@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165019,
+    "chapter_id": 7059,
+    "verse_number": "7.89",
+    "content_sanskrit": "शङ्का-धवित्र-वचनं प्रत्यूचुर्वानराः खगम् । \"वयं शत्रु-लवित्रेषोर्दूता रामस्य भू-पतेः ॥",
+    "padaccheda": "वानराः । शङ्का-धवित्र-वचनम् । खगम् । प्रत्यूचुः । वयम् । शत्रु-लवित्रेषोः । भू-पतेः । रामस्य । दूताः",
+    "anvaya": "वानराः शङ्का-धवित्र-वचनम् खगम् प्रत्यूचुः - 'वयम् शत्रु-लवित्रेषोः भू-पतेः रामस्य दूताः ।'",
+    "meaning_sanskrit": "",
+    "meaning_english": "The monkeys replied to the bird, whose words fanned away their doubts: 'We are the messengers of King Rāma, whose arrows cut down his enemies like a sickle.'",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165019,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "शङ्केत्यादि - धुनोत्यपनयत्यनेनेति धवित्रम् । अर्ति-लू-धू |३२|- ' इत्यादिना करणे इत्रः । किमयं करिष्यतीति शङ्काधवित्रं वचनं यस्य तं खगं वानराः प्रत्यूचुः । शत्रुलवित्रा इपवो वाणा यस्य रामस्य भूपतेस्तस्य वयं दूताः । पूर्ववदित्रं कृत्वा सः ॥"
+    }
+  ]
+}

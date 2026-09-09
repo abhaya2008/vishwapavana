@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166040,
+    "chapter_id": 7070,
+    "verse_number": "18.2",
+    "content_sanskrit": "\"भूमौ शेते दश-ग्रीवो महार्ह-शयनोचितः । नेक्षते विह्वलं मां च न मे वाचं प्रयच्छति ॥",
+    "padaccheda": "भूमौ । शेते । दश-ग्रीवः । महार्ह-शयनोचितः । न । ईक्षते । विह्वलम् । माम् । च । न । मे । वाचम् । प्रयच्छति",
+    "anvaya": "महार्ह-शयन-उचितः दश-ग्रीवः भूमौ शेते । च विह्वलं माम् न ईक्षते, मे वाचम् न प्रयच्छति ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The ten-necked one, accustomed to luxurious beds, now lies on the bare ground. He does not even look at me in my distress, nor does he grant me a single word.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166040,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "भूमावित्यादि - महार्हशयने उचितोः य स भूमौ शेते । शोकाद्विह्वलं च मां नेक्षते । मे वाचं प्रतिवचनं न प्रयच्छति न ददाति । दाणू दाने' । पाघ्रा (पा.७|३|७८) इत्यादिना यच्छादेशः ॥"
+    }
+  ]
+}

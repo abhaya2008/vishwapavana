@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165728,
+    "chapter_id": 7066,
+    "verse_number": "14.80",
+    "content_sanskrit": "रणे चिक्रीड धूम्राक्षस्तं ततर्जाऽनिलाऽऽत्मजः ।आददे च शिलां साऽश्वं पिपेषाऽस्य रथं तया ॥",
+    "padaccheda": "रणे । चिक्रीड । धूम्राक्षः । तम् । ततर्ज । अनिल-आत्मजः । आददे । च । शिलाम् । स-अश्वम् । पिपेषा । अस्य । रथम् । तया",
+    "anvaya": "रणे धूम्राक्षः चिक्रीड अनिल-आत्मजः तम् ततर्ज। शिलाम् आददे च तया साश्वम् अस्य रथम् पिपेषा।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Dhūmrākṣa sported in the battle, and Hanumān rebuked him. He took up a rock and crushed Dhūmrākṣa's chariot along with the horses.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165728,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "रण इत्यादि - धूम्राक्षो रणे चिक्रीड क्रीडति स्म, तमनिलात्मजो हनूमान् ततर्ज भत्सितवान्, शिलामाददे च गृहीतवान् तया शिलया अस्यं धूम्राक्षस्य सावं रथं पिपेप चूर्णितवान् ॥ ,"
+    }
+  ]
+}

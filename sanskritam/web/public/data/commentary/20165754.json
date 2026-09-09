@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165754,
+    "chapter_id": 7066,
+    "verse_number": "14.106",
+    "content_sanskrit": "एवं विजिग्ये तां सेनां प्रहस्तोऽतिददर्प च । शशाम न च संक्रुद्धो निर्जुगोप निशाचरान् ॥",
+    "padaccheda": "एवम् । विजिग्ये । ताम् । सेनाम् । प्रहस्तः । अति-ददर्प । च । शशाम । न । च । संक्रुद्धः । निर्जुगोप । निशा-चरान्",
+    "anvaya": "एवम् प्रहस्तः ताम् सेनाम् विजिग्ये अति-ददर्प च । संक्रुद्धः न शशाम, निशा-चरान् निर्जुगोप च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus Prahasta conquered that army and grew immensely arrogant. Filled with rage, he did not find peace but continued to protect the night-wandering rākṣasas.",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165754,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "एवमित्यादि — एवमुक्तेन प्रकारेण प्रहस्तस्तां सेनां विजिग्ये जितवान् । विपराभ्यां जेः (पा.१|३|१९) इति तङ् । सँल्लिटोर्जेः (पा.७|३|५७) इति कुत्वम् । अतिददर्प च सुष्ठु हृष्टवान् । हप हर्षविमोचनयोः ' । न च शशाम न च शमं गतः । निशाचरान् स्त्रीयानमात्यान् निर्जुगोप रक्षित- वान् । आयाभावपक्षे रूपम् ॥"
+    }
+  ]
+}

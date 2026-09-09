@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165007,
+    "chapter_id": 7059,
+    "verse_number": "7.77",
+    "content_sanskrit": "उवाच मारुतिर्वृद्धे संन्यासिन्यत्र वानरात् । \"अहं पर्यायसंप्राप्तां कुर्वे प्रायोपवेशिकाम् ॥",
+    "padaccheda": "मारुतिः । वृद्धे । अत्र । वानरात् । संन्यासिनि । उवाच । अहम् । पर्याय-संप्राप्ताम् । प्रायोपवेशिकाम् । कुर्वे",
+    "anvaya": "मारुतिः वृद्धे अत्र वानरात् संन्यासिनि उवाच अहम् पर्याय-संप्राप्ताम् प्रायोपवेशिकाम् कुर्वे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Māruti spoke to the elder Jāmbavān and the prince who had turned ascetic: \"I too shall undertake this fast unto death, as it has now come to my turn.\"",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165007,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उवाचेत्यादि - मारुतिर्वानरानुवाच वृद्धे जाम्बवति संन्यासिनि अनशन- वति अहमप्यत्र शैले पर्यायेण परिपाव्या संप्राप्तां प्रायोपवेशिकां अनशनं कुर्वे । पर्यायार्हण (पा.३|३|१११) इत्यादिना ण्वुल् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165556,
+    "chapter_id": 7064,
+    "verse_number": "12.55",
+    "content_sanskrit": "विभीषणोक्तं बहु मन्यमानः प्रोन्नम्य देहं परिणाम-नम्रम् । स्खलद्-वलिर्वार्धक-कम्प्र-मूर्धा मातामहो रावणमित्युवाच ॥",
+    "padaccheda": "विभीषण-उक्तम् । बहु । मन्यमानः । प्रोन्नम्य । देहम् । परिणाम-नम्रम् । स्खलत्-वलिः । वार्धक-कम्प्र-मूर्धा । मातामहः । रावणम् । इति । उवाच",
+    "anvaya": "विभीषण-उक्तं बहु मन्यमानः परिणाम-नम्रम् देहम् प्रोन्नम्य स्खलत्-वलिः वार्धक-कम्प्र-मूर्धा मातामहः रावणम् इति उवाच ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Deeply respecting Vibhīṣaṇa’s words, the maternal grandfather, whose body was bent by age, whose skin was wrinkled, and whose head trembled with senility, straightened himself and spoke to Rāvaṇa.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165556,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "विभीषणोक्तमित्यादि - बहु मन्यमानः श्लाघमानो मातामहो मातुः पिता माल्यवान्नाम । देहं परिणामननं वयसः परिणामान्नमनशीलं प्रोन्नम्योत्क्षिप्य । अत एव स्खलइलिः । वार्धकेन वृद्धभावेन । मनोज्ञादित्वात् वुञ् । कम्प्रः कम्पनशीलो मूर्धा यस्य सः । रावणमिति वक्ष्यमाणमुवाच ॥"
+    }
+  ]
+}

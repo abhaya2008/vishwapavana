@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165909,
+    "chapter_id": 7068,
+    "verse_number": "16.25",
+    "content_sanskrit": "याः सुहृत्सु विपन्नेषु मामुपैष्यन्ति संपदः । ताः किं मन्यु-क्षताऽऽभोगा न विपत्सु विपत्तयः ॥",
+    "padaccheda": "सुहृत्सु । विपन्नेषु । याः । संपदः । माम् । उपैष्यन्ति । मन्यु-क्षत-आभोगाः । ताः । विपत्सु । विपत्तयः । किम् । न",
+    "anvaya": "सुहृत्सु विपन्नेषु याः संपदः माम् उपैष्यन्ति, मन्यु-क्षत-आभोगाः ताः विपत्सु विपत्तयः किम् न?",
+    "meaning_sanskrit": "",
+    "meaning_english": "The riches that come to me while my friends have perished, their beauty marred by my grief—are they not merely calamities amidst calamities?",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165909,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "या इत्यादि - सुहृत्सु स्निग्धेषु विपन्नेषु या: सम्पदो विभूतयः समुपैष्यन्ति निष्पत्स्यन्ते ताः मन्युक्षयाभोगाः शोकैः खण्डिताभोगाः किं विपत्सु न विपत्तयः क्षतक्षारसंस्थानीया भवन्तीति ॥"
+    }
+  ]
+}

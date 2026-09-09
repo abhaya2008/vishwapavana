@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166075,
+    "chapter_id": 7070,
+    "verse_number": "18.37",
+    "content_sanskrit": "अन्तःपुराणि पौलस्त्यं पौराश्च भृश-दुःखिताः । संश्रुत्य स्माऽभिधावन्ति हतं रामेण संयुगे ॥",
+    "padaccheda": "अन्तःपुराणि । पौलस्त्यम् । पौराः । च । भृश-दुःखिताः । संश्रुत्य । स्म । अभिधावन्ति । हतम् । रामेण । संयुगे",
+    "anvaya": "अन्तःपुराणि पौराः च संयुगे रामेण हतम् पौलस्त्यम् संश्रुत्य भृश-दुःखिताः अभिधावन्ति स्म ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hearing that the son of Pulastya (Rāvaṇa) had been killed by Rāma in battle, the women of the inner apartments and the citizens ran toward him, deeply grieved.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166075,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अन्तःपुराणीत्यादि - अनन्तरं पौलस्त्यं रामेण हतं संश्रुत्य अन्तःपुराणि पौराश्च दुःखिताः अभिधावन्ति स्म ढौकन्ते स्म लट् स्मे (पा.३|२|११८)ा ' इति भूतानद्यतनपरोक्षे लट् ॥"
+    }
+  ]
+}

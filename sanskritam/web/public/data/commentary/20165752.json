@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165752,
+    "chapter_id": 7066,
+    "verse_number": "14.104",
+    "content_sanskrit": "आससञ्ज भयं तेषां दिद्युते च यथा रविः । नाऽऽययास द्विषद्-देहैर्जगाहे च दिशो दश ॥",
+    "padaccheda": "आससञ्ज । भयम् । तेषाम् । दिद्युते । च । यथा । रविः । न । आययास । द्विषद्-देहैः । जगाहे । च । दिशः । दश",
+    "anvaya": "सः तेषाम् भयम् आससञ्ज यथा रविः दिद्युते च । द्विषद्-देहैः न आययास दश दिशः जगाहे च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He struck terror into them and blazed like the sun. He did not grow weary despite the heap of enemy bodies and his presence pervaded all ten directions.",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165752,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आससञ्जेत्यादि - तेषां योधानां युयुत्सूनां भयमाससञ्ज आलग्नम् । पक्ष सङ्गे' इत्यकर्मकः । प्रहस्तश्च रविरिव दिद्युते द्योतते स्म । द्युति-स्थाप्योः सम्प्रसारणम् (पा.७|४|६७) इत्यभ्यासस्य सम्प्रसारणम् । नाययास युध्यमानो नायस्यति स्म । यसु प्रयले । द्विपद्देहैश्व शत्रुकायैः करणभूतैः दश दिशो जगाहे अवष्टब्धवान् ॥"
+    }
+  ]
+}

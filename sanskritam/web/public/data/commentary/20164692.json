@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164692,
+    "chapter_id": 7057,
+    "verse_number": "5.26",
+    "content_sanskrit": "कृत्वा लङ्काद्रुमाऽऽलानमहमैरावतं गजम् । बन्धनेऽनुपयोगि-त्वान्नतं तृण-वदत्यजम् ॥",
+    "padaccheda": "कृत्वा । लङ्का-द्रुम-आलानम् । अहम् । ऐरावतम् । गजम् । बन्धने । अनुपयोगि-त्वात् । नतम् । तृण-वत् । अत्यजम्",
+    "anvaya": "अहम् लङ्का-द्रुम-आलानम् कृत्वा ऐरावतम् गजम् बन्धने अनुपयोगि-त्वात् नतम् तृण-वत् अत्यजम् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having used the trees of Laṅkā as tying posts, I released the elephant Airāvata, who was bowed down, like a blade of grass, because he was useless to be bound.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164692,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कृत्वेत्यादि - एष्वालीयतं इत्यालानम् । अधिकरणे ल्युट् । वि- भाषा लीयतेः (पा.६|१|५१) इत्यात्वम् । लङ्काडुमा आलानानि यस्यैरावताख्यस्य गजस्य तं कृत्वा । नतं नम्रमुखम् । तृणमिव मत्वा । सोऽहमत्यजं त्यक्तवान् । बन्धनेऽनुपयोगित्वात् प्रयोजनाभावात् ॥ ।"
+    }
+  ]
+}

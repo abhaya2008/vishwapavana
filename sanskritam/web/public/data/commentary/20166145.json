@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166145,
+    "chapter_id": 7072,
+    "verse_number": "20.35",
+    "content_sanskrit": "राघवस्य मतेनाऽथ लक्ष्मणेनाऽऽचितां चिताम् । दृष्ट्वा प्रदक्षिणीकृत्य रामं प्रगदिता वचः ॥",
+    "padaccheda": "राघवस्य । मतेन । अथ । लक्ष्मणेन । आचिताम् । चिताम् । दृष्ट्वा । प्रदक्षिणीकृत्य । रामम् । प्रगदिता । वचः",
+    "anvaya": "अथ राघवस्य मतेन लक्ष्मणेन आचिताम् चिताम् दृष्ट्वा रामम् प्रदक्षिणीकृत्य वचः प्रगदिता।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, seeing the pyre piled by Lakṣmaṇa at the behest of Rāghava, and circumambulating Rāma, she spoke these words.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166145,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "राघवस्येत्यादि - अथ राघवस्य मंतेनानुज्ञातेन क्तस्य च वर्तमाने"
+    }
+  ]
+}

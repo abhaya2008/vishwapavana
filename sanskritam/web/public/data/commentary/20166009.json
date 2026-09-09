@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166009,
+    "chapter_id": 7069,
+    "verse_number": "17.83",
+    "content_sanskrit": "अपौहद्बाण-वर्षं तद्भल्लै रामो निराकुलः । प्रत्यस्कुनोद्दष-ग्रीवं शरैराशी-विषोपमैः ॥",
+    "padaccheda": "अपौहत् । बाण-वर्षम् । तत् । भल्लैः । रामः । निराकुलः । प्रत्यस्कुनोत् । दश-ग्रीवम् । शरैः । आशी-विष-उपमैः",
+    "anvaya": "निराकुलः रामः भल्लैः तत् बाण-वर्षम् अपौहत् आशी-विष-उपमैः शरैः दश-ग्रीवम् प्रत्यस्कुनोत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The unperturbed Rāma warded off that shower of arrows with his crescent-headed shafts and countered the ten-necked Rāvaṇa with arrows as deadly as venomous serpents.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166009,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अपौहदित्यादि - तद्वाणवर्षं रामो निराकुलः सन् भल्लैरपोहत् अपनीत- वान् । 'उपसर्गादस्यत्यूह्योर्वा' इति पक्षे तिप् । दशग्रीवं बाणैराशीविषोपमैः दुःसहत्वात्प्रत्यस्कुनोत् । प्रतीपं छादितवान् अत्र भुप्रत्ययः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165209,
+    "chapter_id": 7061,
+    "verse_number": "9.36",
+    "content_sanskrit": "संयुयूषुं दिशो बाणैरक्षं यियविषुर्द्रुमैः । कपिर्मायामिवाऽकार्षीद्दर्शयन्विक्रमं रणे ॥",
+    "padaccheda": "संयुयूषुम् । दिशः । बाणैः । अक्षम् । यियविषुः । द्रुमैः । कपिः । मायाम् । इव । अकार्षीत् । दर्शयन् । विक्रमम् । रणे",
+    "anvaya": "संयुयूषुम् दिशः बाणैः अक्षम् यियविषुः द्रुमैः कपिः मायाम् इव अकार्षीत् दर्शयन् विक्रमम् रणे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While Akṣa wished to join the directions with arrows, the monkey, wishing to ward them off with trees, displayed such valor in battle that it seemed like an illusion.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165209,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "संयुयूषुमित्यादि - वाणैर्दिशः संयुयूषु॑ मिश्रयितुमिच्छ्रं अक्षं कपिः द्रुमै- र्यियविपुः योतुमिच्छुर्मायामिवेन्द्रजालमिवाकार्यांत् कृतवान् रणे । विक्रमं दर्श- यन् । यौतेः सन् । सनीवन्त (पा.७|२|२९) इति विभाषेट् । '२५७७ ओ: पु- यण्-ज्यपरे(पा.७|४|८०) इतीत्वम् । अज्झन-गमां सनि (पा.६|४|१६) इति दीर्घः ॥"
+    }
+  ]
+}

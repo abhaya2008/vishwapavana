@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165021,
+    "chapter_id": 7059,
+    "verse_number": "7.91",
+    "content_sanskrit": "त्रिंशत्तममहर्यातं मत्वा प्रत्यागमाऽवधिम् ।अ-कृताऽर्था विशीदन्तः पर-लोकमुपास्महे ॥",
+    "padaccheda": "प्रत्यागम-अवधिम् । त्रिंशत्तमम् । अहः । यातम् । मत्वा । अ-कृत-ार्थाः । विशीदन्तः । पर-लोकम् । उपास्महे",
+    "anvaya": "प्रत्यागम-अवधिम् त्रिंशत्तमम् अहः यातम् मत्वा अ-कृत-ार्थाः विशीदन्तः पर-लोकम् उपास्महे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Knowing that the thirtieth day—the deadline for our return—has passed, we, having failed in our mission, are grieving and preparing for death.",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165021,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "त्रिंशदित्यादि - त्रिंशतः पूरणम् । १८५६ । विंशत्यादिभ्यः - |५|२|५६।' इति तमट् । त्रिंशत्तमं यदहः तत् प्रत्यागमावधिं प्रत्यागमनस्यावधिं यातं अती- तं मत्वा अकृतार्था अनिष्पादितप्रयोजना विपीदन्तो विपादं गच्छन्तो वयं पर- लोकमुपास्महे प्रायोपवेशनेन त्रियामहे ॥"
+    }
+  ]
+}

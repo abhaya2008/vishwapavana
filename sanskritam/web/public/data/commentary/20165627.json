@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165627,
+    "chapter_id": 7065,
+    "verse_number": "13.39",
+    "content_sanskrit": "गिरि-पङ्क-चारु-देहं कक्कोल-लवङ्ग-बध-सुरभि-परिमलम् । बहु-बहलोरु-तरङ्गं परिसरसारूढमुद्धरं लवण-जलम् ॥",
+    "padaccheda": "गिरि-पङ्क-चारु-देहम् । कक्कोल-लवङ्ग-बध-सुरभि-परिमलम् । बहु-बहल-उरु-तरङ्गम् । परिसर-आरूढम् । उद्धरम् । लवण-जलम्",
+    "anvaya": "(लवण-जलम्) गिरि-पङ्क-चारु-देहम् कक्कोल-लवङ्ग-बध-सुरभि-परिमलम् बहु-बहल-उरु-तरङ्गम् परिसर-आरूढम् उद्धरम् लवण-जलम् (आसीत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The salt ocean appeared with its body beautified by mountain mud, fragrant with the scent of crushed kakkola and cloves, possessing many thick and large waves, overflowing its shores and surging upwards.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165627,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "गिरीत्यादि - गिरीणां प्रक्षिप्यमाणानां यः पङ्कः गैरिकादिधातुकर्दमः तेन चारुदेहम् । कक्कोललवङ्गाभ्यां बद्धः सुरभिः परिमलो गन्धो यस्मिन् । बहव: प्रभूता बहलाः स्थूला उरवः उच्चास्तरङ्गा यस्य तदीदृशं लवणजलम् । उद्धरम् उद्धृतं कर्तृभूतम् । परिसरं तटमारूढं सेतुना निवारितगतित्वात् ॥"
+    }
+  ]
+}

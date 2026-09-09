@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20100268,
+    "chapter_id": 6715,
+    "verse_number": "1.111",
+    "content_sanskrit": "एतत्कृत्वा प्रियमनुचितप्रार्थनावर्त्मनो मे सौहार्दाद्वा विधुर इति वा मय्यनुक्रोशबुद्ध्या । इष्टान्देशान्विचर जलद प्रावृषा संभृतश्रीर्मा भूदेवं क्षणमपि च ते विद्युता विप्रयोगः ॥",
+    "padaccheda": "एतत् । कृत्वा । प्रियम् । अनुचितप्रार्थनावर्त्मनः । मे । सौहार्दात् । वा । विधुरः । इति । वा । मयि । अनुक्रोशबुद्ध्या । इष्टान् । देशान् । विचर । जलद । प्रावृषा । संभृतश्रीः । मा । भूत् । एवम् । क्षणम् । अपि । च । ते । विद्युता । विप्रयोगः",
+    "anvaya": "अनुचित-प्रार्थना-वर्त्मनः मे एतत् प्रियम् कृत्वा, सौहार्दात् वा विधुरः इति मयि अनुक्रोश-बुद्ध्या वा, जलद! प्रावृषा सम्भृत-श्रीः इष्टान् देशान् विचर; ते विद्युता क्षणम् अपि विप्रयोगः मा भूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having made this unusual request, the Yakṣa asks the cloud to fulfill it out of friendship or compassion for his suffering. He then bids the cloud to travel through desired lands, adorned with the beauty of the rainy season, and offers a final blessing: may the cloud never be separated from its lightning-consort, even for a single moment.",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20100268,
+      "commentary_type": "वल्लभदेवः",
+      "author": "",
+      "content": "हे जलधरानुचितप्रार्थनावर्त्मनोऽननुरूपयाच्ञामार्गस्य ममैतत्संदेशहरणलक्षणं प्रियं विधाय ततस्त्वं वर्षाकालेऽर्जितदेहोन्नतिरभिमतं स्थानं वचर भ्रम । कुतो विधाय । स्नेहेन प्रीत्या । स्नेहाभावश्चेद्विधुरो दुःखितोऽयमिति मयि कृपाधिया वा । किं बहुना । एवमनेन प्रकारेण मद्वत्तवापि निमेषमपि तडित्प्रियया विरहो मा भूदिति भद्रम् ॥"
+    }
+  ]
+}

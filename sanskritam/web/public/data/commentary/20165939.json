@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165939,
+    "chapter_id": 7069,
+    "verse_number": "17.13",
+    "content_sanskrit": "आस्यन्प्लवङ्गमा वृक्षानधुन्वन्भू-धरैर्भृशम् ।अहिंसन्मुष्टिभिः क्रोघाददशन्दशनैरपि ॥",
+    "padaccheda": "आस्यन् । प्लवङ्गमाः । वृक्षान् । अधुन्वन् । भू-धरैः । भृशम् । अहिंसन् । मुष्टिभिः । क्रोधात् । अदशन् । दशनैः । अपि",
+    "anvaya": "प्लवङ्गमाः वृक्षान् आस्यन्, भू-धरैः भृशम् अधुन्वन्, क्रोधात् मुष्टिभिः अहिंसन्, दशनैः अपि अदशन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The monkeys hurled trees, struck violently with mountains, hit with their fists in rage, and even bit with their teeth.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165939,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आस्यन्नित्यादि - लवङ्गमा अपि वृक्षानास्यन् क्षिप्तवन्तः । असु 'क्षेपणे' । तथा भूधरैः पर्वतैरधुन्वन् हतवन्तः । 'अधूर्वन्' इति पाठान्तरम् । तत्र"
+    }
+  ]
+}

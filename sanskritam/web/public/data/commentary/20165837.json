@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165837,
+    "chapter_id": 7067,
+    "verse_number": "15.76",
+    "content_sanskrit": "तैरजेषत सैन्यानि द्विषोऽकारिषताऽऽकुलाः । पर्वतानिव ते भूमावचैषुर्वानरोत्तमान् ॥",
+    "padaccheda": "तैः । अजेषत । सैन्यानि । द्विषः । अकारिषत । आकुलाः । पर्वतान् । इव । ते । भूमौ । अचैषुः । वानरोत्तमान्",
+    "anvaya": "तैः सैन्यानि अजेषत, द्विषः आकुलाः अकारिषत। ते भूमौ वानर-उत्तमान् पर्वतान् इव अचैषुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They defeated the armies and threw the enemies into confusion. They piled up the best of the monkeys on the ground like heaps of mountains.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165837,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तैरित्यादि - तैः राक्षसैः सैन्यानि अजेपत जितानि । कर्मणि लुङ् । अचि- ण्वद्भावपक्षे रूपम् । द्विप आकुला अकारिपत । ते राक्षसा वानरोत्तमान् वान- राणां प्रधानभूतान् पर्वतानिव भूमौ अचैपुः पुञ्जीकृतवन्तः । 'चिन् चयने ' ॥"
+    }
+  ]
+}

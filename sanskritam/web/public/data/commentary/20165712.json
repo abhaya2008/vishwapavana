@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165712,
+    "chapter_id": 7066,
+    "verse_number": "14.64",
+    "content_sanskrit": "आदिदेश स किष्किन्धां राघवौ नेतुमङ्गदम् । प्रतिजज्ञे स्वयं चैव सुग्रीवो रक्षसा वधम् ॥",
+    "padaccheda": "आदिदेश । सः । किष्किन्धाम् । राघवौ । नेतुम् । अङ्गदम् । प्रतिजज्ञे । स्वयम् । च । एव । सुग्रीवः । रक्षसाम् । वधम्",
+    "anvaya": "सः राघवौ किष्किन्धाम् नेतुम् अङ्गदम् आदिदेश। सुग्रीवः च स्वयम् एव रक्षसाम् वधम् प्रतिजज्ञे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He commanded Aṅgada to escort the two Rāghava princes to Kiṣkindhā. However, Sugrīva himself vowed to slay the demons.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165712,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आदिदेशेत्यादि - सुग्रीवो राघवौ किष्किन्धां नेतुमङ्गदमादिदेश, स्वयं च रक्षसां विनाशं प्रतिजज्ञे अहमेव व्यापादयामीति । संप्रतिभ्याम् (पा.१|३|४६) इति तङ् । सकर्मकार्थं वचनम् ॥"
+    }
+  ]
+}

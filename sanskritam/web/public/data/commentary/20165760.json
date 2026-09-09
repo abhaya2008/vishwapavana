@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165760,
+    "chapter_id": 7066,
+    "verse_number": "14.112",
+    "content_sanskrit": "तुतुषुर्वानराः सर्वे नेशुश्चित्रा निशा-चराः । जेरुराशा दशास्यस्य सैन्यं नीलं नुनाव च ॥",
+    "padaccheda": "तुतुषुः । वानराः । सर्वे । नेशुः । चित्राः । निशा-चराः । जेरुः । आशाः । दशास्यस्य । सैन्यम् । नीलम् । नुनाव । च",
+    "anvaya": "सर्वे वानराः तुतुषुः, चित्राः निशा-चराः नेशुः । दशास्यस्य आशाः जेरुः, सैन्यम् नीलम् नुनाव च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "All the vānaras rejoiced, while the various night-wandering rākṣasas perished. The hopes of Daśāsya were shattered, and the monkey army praised Nīla for his victory.",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165760,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तुतुषुरित्यादि - वानराः सर्वे तुतुषुः तुष्टाः । निशाचरा नेशुः पलायिताः । विचित्राः नानाप्रकाराः दशास्यस्य आशाः मनोरथा जेरुः जीर्णाः । वा जृ-भ्रमु-नसाम् (पा.६|४|१२४) इत्येत्वम् । सैन्यं च कर्तृ नीलं नुनाव स्तौति स्म ॥"
+    }
+  ]
+}

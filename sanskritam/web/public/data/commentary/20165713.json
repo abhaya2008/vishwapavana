@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165713,
+    "chapter_id": 7066,
+    "verse_number": "14.65",
+    "content_sanskrit": "\"नागाऽस्त्रमिदमेतस्य विपक्षस्तार्क्ष्य-संस्मृतिः\" । विभीषणादिति श्रुत्वा तं निदध्यौ रघूत्तमः ॥",
+    "padaccheda": "नागास्त्रम् । इदम् । एतस्य । विपक्षः । तार्क्ष्यसंस्मृतिः । विभीषणात् । इति । श्रुत्वा । तम् । निदध्यौ । रघूत्तमः",
+    "anvaya": "\"इदम् नाग-अस्त्रम् एतस्य विपक्षः तार्क्ष्य-संस्मृतिः\" इति विभीषणात् श्रुत्वा रघूत्तमः तम् निदध्यौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hearing from Vibhīṣaṇa that this was the serpent-missile and its remedy was the remembrance of Garuḍa, the best of the Raghus meditated upon him.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165713,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "नागास्त्रमित्यादि - नागास्त्रमिदं न शराः, एतस्य च विपक्षः शत्रुस्तार्क्ष्य- संस्मृतिः गरुडसंस्मरणं यत्संस्मरणादेवास्य शान्तिरिति । एवं विभीषणाच्छ्रुत्वा रघूत्तमो राघवस्ताक्ष्यं दध्यौ ध्यातवान् ॥"
+    }
+  ]
+}

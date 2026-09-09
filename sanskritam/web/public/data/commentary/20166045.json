@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166045,
+    "chapter_id": 7070,
+    "verse_number": "18.7",
+    "content_sanskrit": "लेढि भेषज-वन्नित्यं यः पथ्यानि कटून्यपि । तदर्थं सेवते चाऽऽप्तान्कदाचिन्न स सीदति ॥",
+    "padaccheda": "लेढि । भेषज-वत् । नित्यम् । यः । पथ्यानि । कटूनि । अपि । तद्-अर्थम् । सेवते । च । आप्तान् । कदाचित् । न । सः । सीदति",
+    "anvaya": "यः नित्यम् भेषज-वत् कटूनि अपि पथ्यानि लेढि, तद्-अर्थम् आप्तान् सेवते च, सः कदाचित् न सीदति ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "He who always accepts beneficial advice, even if it is bitter like medicine, and consults trusted well-wishers for that purpose, never perishes.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166045,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "लेढीत्यादि - यस्तु स्वामी आदौ कटून्यपि पथ्यानि परिणामसुखानि भेषजवदौपधमिव नित्यं लेढि श्रोत्रेन्द्रियेणानुभवति तदर्थं चाप्तानविसंवादिनः सेवते स कदाचिन्नावसीदति इह च परत्र चावसन्नो न भवति ॥"
+    }
+  ]
+}

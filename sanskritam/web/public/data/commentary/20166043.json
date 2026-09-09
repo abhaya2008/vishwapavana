@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166043,
+    "chapter_id": 7070,
+    "verse_number": "18.5",
+    "content_sanskrit": "अ-पथ्यमायतौ लोभादामनन्त्यनुजीविनः । प्रियं शृणोति यस्तेभ्यस्तमृच्छन्ति न सम्पदः ॥",
+    "padaccheda": "अ-पथ्यम् । आयतौ । लोभात् । आमनन्ति । अनुजीविनः । प्रियम् । शृणोति । यः । तेभ्यः । तम् । ऋच्छन्ति । न । सम्पदः",
+    "anvaya": "अनुजीविनः लोभात् आयतौ अ-पथ्यम् आमनन्ति । यः तेभ्यः प्रियम् शृणोति, तम् सम्पदः न ऋच्छन्ति ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Followers, driven by greed, suggest what is harmful in the long run. Prosperity does not come to one who only listens to pleasant words from them.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166043,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अपथ्यमित्यादि - प्रायेण ह्यनुजीविनः प्रहस्तादिसदृशाः । आयतावागा- मिनि काले वृद्धावस्थायामपथ्यमनिष्टं फलं लोभेन तृष्णया वा प्रियमामनन्ति उपदिशन्ति 'साधु इदम्' इति । तेभ्यो यः शृणोति तं सम्पदो न ऋच्छन्ति । अर्ते ऋच्छादेशः ॥"
+    }
+  ]
+}

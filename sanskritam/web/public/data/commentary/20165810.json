@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165810,
+    "chapter_id": 7067,
+    "verse_number": "15.49",
+    "content_sanskrit": "न योद्धुमशकन्केचिन्नाऽढौकिषत केचन । प्राणशन्नासिकाभ्यां च वक्त्रेण च वनौकसः ॥",
+    "padaccheda": "न । योद्धुम् । अशकन् । केचित् । न । अढौकिषत । केचन । प्राणशन् । नासिकाभ्याम् । च । वक्त्रेण । च । वनौकसः",
+    "anvaya": "केचित् योद्धुम् न अशकन्, केचन न अधौकिषत । वनौकसः नासिकाभ्याम् च वक्त्रेण च प्राणशन् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Some could not fight, and others dared not approach. The forest-dwellers who were swallowed managed to escape through his nostrils and his mouth.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165810,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "न योद्धुमित्यादि - तेषां मध्ये केचिद्वनौकसो वानरा योद्धुं नाशकन् न शक्ता अभवन् । लुढ़ित्त्वादङ् । केचिन्नाढौकिपत न ढौकन्ते स्म । ये तु तेन पदेन क्षिप्तास्ते नासिकाभ्यां नासिकाविवराभ्यां वक्रेण च प्राणशन् प्रनष्टाः निःसृता इत्यर्थः । नशेः पुषादित्वादङ् । उपसर्गात् (पा.८|४|१४) इत्यादिना णत्वम् ॥"
+    }
+  ]
+}

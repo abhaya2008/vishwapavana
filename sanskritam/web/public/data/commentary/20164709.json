@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164709,
+    "chapter_id": 7057,
+    "verse_number": "5.43",
+    "content_sanskrit": "वन-तापस-के वीरौ विपक्षे गलिताऽऽदरौ । किं चित्रं यदि साऽवज्ञौ मम्रतुः खर-दूषणौ ॥",
+    "padaccheda": "विपक्षे । गलिता-आदरौ । वन-तापस-के । वीरौ । सा-अवज्ञौ । खर-दूषणौ । मम्रतुः । यदि । किम् । चित्रम्",
+    "anvaya": "विपक्षे गलिता-आदरौ वन-तापस-के वीरौ सा-अवज्ञौ खर-दूषणौ मम्रतुः यदि, किम् चित्रम्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāvaṇa argues it is no surprise that the two brave forest ascetics killed Khara and Dūṣaṇa, who were overconfident and lacked respect for their foes.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164709,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "वनेत्यादि - वने तापसो वनतापसः । कुत्सायां कन् । तस्मिन् वनतापसके रामे सावज्ञत्वाद्गलितादरौ विपक्षे किमयं करिष्यतीत्यश्रद्धयैव योधितवन्तौ खरदूपणौ वीरौ यदि मम्रतुः मृतौ को दोपः किं चित्रम् | त्रियतेलु• इलिङोश्च (पा.१|३|६१) इति नियमात् लिट्यात्मनेपदं न भवति ॥"
+    }
+  ]
+}

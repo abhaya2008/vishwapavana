@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165835,
+    "chapter_id": 7067,
+    "verse_number": "15.74",
+    "content_sanskrit": "देवान्तकोऽतिकायश्च त्रिशिराः स नरान्तकः । ते चांऽऽहिषत संग्रामं बलिनो रावणाऽऽत्मजाः ॥",
+    "padaccheda": "देवान्तकः । अतिकायः । च । त्रिशिराः । सः । नरान्तकः । ते । च । आंऽहिषत । संग्रामम् । बलिनः । रावणात्मजाः",
+    "anvaya": "देवान्तकः अतिकायः च त्रिशिराः सः नरान्तकः। ते बलिनः रावण-आत्मजाः संग्रामम् आंऽहिषत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Devāntaka, Atikāya, Triśiras, and Narāntaka—those powerful sons of Rāvaṇa—hurried to the battlefield.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165835,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "देवान्तक इत्यादि - ते च रावणात्मजाः संग्राममांहिषत गतवन्तः । '६७८ अहि गतौ' किंनामानः । देवान्तकः अतिकायः त्रिशिराः नरान्तक इति ॥"
+    }
+  ]
+}

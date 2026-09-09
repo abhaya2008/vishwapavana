@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165829,
+    "chapter_id": 7067,
+    "verse_number": "15.68",
+    "content_sanskrit": "स-वृक्षमच्छिदत्तस्य शक्राऽस्त्रेण करं नृपः । जङ्घे चाऽशीशतद्बाणैरप्रासीदिषुभिर्मुखम् ॥",
+    "padaccheda": "सवृक्षम् । अच्छिदत् । तस्य । शक्रास्त्रेण । करम् । नृपः । जङ्घे । च । अशीशतत् । बाणैः । अप्रासीत् । इषुभिः । मुखम्",
+    "anvaya": "नृपः अस्य स-वृक्षम् करम् शक्र-अस्त्रेण अच्छिदत्। जङ्घे च बाणैः अशीशतत्, इषुभिः मुखम् अप्रासीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The king Rāma cut off his other hand, along with the tree, using the Śakra weapon. He shredded the demon's shanks with arrows and filled his mouth with shafts.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165829,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सवृक्षमित्यादि - तस्य सवृक्षमपि करं नृपः शक्रास्त्रेणाच्छिदत् । ‘इरितो वा (पा.३|१|५७) इत्यङ् । जङ्घे चान्यैर्बाणैरशीशतत् । गमनासमर्थे कृत- वान् । शदेणौं शदेरगतौ (पा.७|३|४२) इति तत्वम् । मुखं चेषुभिरप्रा- सीत् पूरितवान् । प्रा पूरणे' ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165634,
+    "chapter_id": 7065,
+    "verse_number": "13.46",
+    "content_sanskrit": "तुङ्ग-मणि-किरण-जालं गिरि-जल-संघट्ट-बद्ध-गम्भीर-रवम् । चारु-गुहा-विवर-सभं सुर-पुर-समममर-चारण-सुसंरावम् ॥",
+    "padaccheda": "तुङ्ग-मणि-किरण-जालम् । गिरि-जल-संघट्ट-बद्ध-गम्भीर-रवम् । चारु-गुहा-विवर-सभम् । सुर-पुर-समम् । अमर-चारण-सु-संरावम्",
+    "anvaya": "तुङ्ग-मणि-किरण-जालम् गिरि-जल-संघट्ट-बद्ध-गम्भीर-रवम् चारु-गुहा-विवर-सभम् सुर-पुर-समम् अमर-चारण-सु-संरावम् (सुवेलम् आरूढम्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They reached the mountain, which possessed tall clusters of gem-rays, produced a deep sound from the collision of mountain water, had beautiful cave assemblies, resembled the city of gods, and was filled with the sweet songs of immortals and bards.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165634,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तुङ्गेत्यादि - तुङ्गमणीनां किरणजालं यत्रेति । गिरिजलानि निर्झरजलानि तेषां यः संघट्टः परस्परसंश्लेपस्तेन बद्धो गम्भीरो रवो यत्र । चारुगुहाविवरमेव सभा शाला यत्र । अमरचारणानां गन्धर्वाणां गायतां शोभनः संरावो यत्र । अत एवामरपुरसमम् ॥"
+    }
+  ]
+}

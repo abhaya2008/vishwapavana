@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166084,
+    "chapter_id": 7071,
+    "verse_number": "19.4",
+    "content_sanskrit": "स एव घारयेत्प्राणानीदृशे बन्धु-विप्लवे । भवेदाश्वासको यस्य सुहृच्छक्तो भवादृशः ॥",
+    "padaccheda": "सः । एव । धारयेत् । प्राणान् । ईदृशे । बन्धु-विप्लवे । भवेत् । आश्वासकः । यस्य । सुहृत् । शक्तः । भवादृशः",
+    "anvaya": "सः एव ईदृशे बन्धु-विप्लवे प्राणान् धारयेत् यस्य भवादृशः शक्तः सुहृत् आश्वासकः भवेत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Only he can sustain life in such a disaster involving kinsmen, who has a powerful friend like Rāma as a comforter.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166084,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "स एवेत्यादि — ईदृशे बन्धुविप्लवे वन्धुविनाशेऽपि स एव प्राणान् धारयेत् नियोगतो विभृयात् । निमन्त्रणे नियोगकरणे लिङ् । यस्य भवादृशः सुहृन्मित्रं शक्त आश्वासकः सान्त्वयिता । भवेत् सम्भावनायां लिङ् ॥"
+    }
+  ]
+}

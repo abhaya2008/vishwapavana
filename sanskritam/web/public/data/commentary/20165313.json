@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165313,
+    "chapter_id": 7061,
+    "verse_number": "9.140",
+    "content_sanskrit": "अन्याऽऽसक्तस्य यद्वीर्यं न त्वं स्मरसि वालिनः । मूर्च्छा-वान्नमतः संध्यां ध्रुवं तद्बाहु-पीडितः ॥",
+    "padaccheda": "अन्य-आसक्तस्य । यत् । वीर्यम् । न । त्वम् । स्मरसि । वालिनः । मूर्च्छा-वान् । नमन् । सन्ध्याम् । ध्रुवम् । तद्-बाहु-पीडितः",
+    "anvaya": "अन्य-आसक्तस्य वालिनः यत् वीर्यम् त्वम् न स्मरसि? ध्रुवम् तद्-बाहु-पीडितः सन् सन्ध्याम् नमन् मूर्च्छा-वान् अभूः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Do you not remember the prowess of Vālin while he was occupied with another? Surely, squeezed by his arms while you were performing evening prayers, you had fainted.",
+    "audio_url": null,
+    "display_order": 140,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165313,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मूर्च्छा-वान् नमतः संध्यां ध्रुवं तद् बाहु-पीडितः. १३५ अन्येत्यादि-संध्यां देवतां नमतः अन्यासक्तस्य वालिनो यद्वीर्यं सामर्थ्य तत् ध्रुवमवश्यं त्वं न स्मरसि न चेतयसि । कुतः बाहुपीडितः सन् मूर्च्छावान् जातः । अत एव न स्मरसि येनैवमुक्तवानसि 'निजघानान्यसंस- क्तम्' इति ॥"
+    }
+  ]
+}

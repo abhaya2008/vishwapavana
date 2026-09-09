@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165303,
+    "chapter_id": 7061,
+    "verse_number": "9.130",
+    "content_sanskrit": "मन्-नियोगाच्च मारीचः पलायन-परायणः । युयुत्सा-रहितो रामं ममाराऽपहरन्वने ॥",
+    "padaccheda": "मम । नियोगात् । च । मारीचः । पलायन-परायणः । युयुत्सा-रहितः । रामम् । ममार । अपहरन् । वने",
+    "anvaya": "मम नियोगात् च पलायन-परायणः युयुत्सा-रहितः मारीचः वने अपहरन् रामम् ममार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And Mārīca, acting on my command, was intent only on fleeing and had no desire to fight; he died in the forest while merely luring Rāma away.",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165303,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मन्नियोगादित्यादि — मारीचस्तु यतो राममपहरन् ममार । मन्नियोगा- दादेशात् । पलायनपरायणः अपसर्पणनिष्ठः सन् । पलायनपरायण इति परस्य नामरूपत्वादनुपसर्गत्वान्न लत्वम् । युयुत्सारहितः योद्धुमिच्छारहितः । मन्नियो- गादिति प्रत्ययोत्तरपदयोश्च (पा.७|२|९८) इति अस्मदो मदादेशः ॥"
+    }
+  ]
+}

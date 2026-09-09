@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165295,
+    "chapter_id": 7061,
+    "verse_number": "9.122",
+    "content_sanskrit": "खराऽऽदि-निधनं चाऽपि मा मंस्था वैर-कारणम् ।आत्मानं रक्षितुं यस्मात्कृतं तन्न जिगीषया\" ॥",
+    "padaccheda": "खर-आदि-निधनम् । च । अपि । मा । मंस्थाः । वैर-कारणम् । आत्मानम् । रक्षितुम् । यस्मात् । कृतम् । तत् । न । जिगीषया",
+    "anvaya": "खरा-आदि-निधनम् च अपि वैर-कारणम् मा मंस्थाः, यस्मात् तत् आत्मानम् रक्षितुम् कृतम् न जिगीषया ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Do not consider the death of Khara and others as a cause for enmity, because that was done for self-preservation and not out of a desire for conquest.\"",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165295,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "खरेत्यादि - खरादिनिधनं चापि वैरकारणं मा मंस्थाः मा ज्ञासीः । लुङि रूपम् । यस्मादात्मानं संरक्षितुम् तत् खरादिनिधनं कृतं न तु जिगीपया विजेतुमिच्छया ॥"
+    }
+  ]
+}

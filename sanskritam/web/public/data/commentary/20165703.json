@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165703,
+    "chapter_id": 7066,
+    "verse_number": "14.55",
+    "content_sanskrit": "प्राणा दध्वंसिरे गात्रं तस्तम्भे च प्रिये हते ।उच्छश्वास चिराद्दीना रुरोदाऽसौ ररास च ॥",
+    "padaccheda": "प्राणाः । दध्वंसिरे । गात्रम् । तस्तम्भे । च । प्रिये । हते । उच्छश्वास । चिरात् । दीना । रुरोद । असौ । ररास । च",
+    "anvaya": "प्रिये हते (सति) प्राणाः दध्वंसिरे, गात्रं च तस्तम्भे । दीना असौ चिरात् उच्छश्वास, रुरोद, ररास च ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Believing her beloved killed, her breath seemed to fail and her body became paralyzed. After a long time, the miserable Sītā sighed, wept bitterly, and shrieked.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165703,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्राणा इत्यादि - प्रिये रामे हते प्राणा वायवः दध्वंसिरे ध्वस्ताः, गात्रं च तस्तम्भे काष्ठवन् निश्चलमभूत् । 'टभि स्कभि प्रतिबन्धे ।' चिरादुच्छश्वास उच्छ्वसितवती, असौ लब्धसंज्ञा दीना दुःखिता रुरोद रुदितवती, ररास च वक्ष्यमाणं च विलापं कृतवती ॥"
+    }
+  ]
+}

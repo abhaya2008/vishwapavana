@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165551,
+    "chapter_id": 7064,
+    "verse_number": "12.50",
+    "content_sanskrit": "कृताऽभिषेको युवराज-राज्ये सुग्रीव-राजेन सुताऽविशेषम् । तारा-विधेयेन कथं विकारं तारा-सुतो यास्यति राक्षसाऽर्थम् ॥",
+    "padaccheda": "कृत-अभिषेकः । युवराज-राज्ये । सुग्रीव-राजेन । सुत-अविशेषम् । तारा-विधेयेन । कथम् । विकारम् । तारा-सुतः । यास्यति । राक्षस-अर्थम्",
+    "anvaya": "सुग्रीव-राजेन युवराज-राज्ये सुत-अविशेषम् कृत-अभिषेकः तारा-विधेयेन तारा-सुतः राक्षसा-अर्थम् कथं विकारं यास्यति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Crowned as the prince regent by King Sugrīva, who treats him no differently from a son, how would the son of Tārā, who is devoted to Tārā, ever turn treacherous for the sake of the Rākṣasas?",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165551,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कृतेत्यादि — सुग्रीवराजेन ताराविधेयेन ताराचित्तानुवर्तिना । तारासुतो. ङ्गदः यौवराज्ये कृताभिषेकः सुताविशेषमिति क्रियाविशेषणम् । सुतनिर्विशेषं ममैवायं सुतो न वालिन इति । तत्कथं राक्षसार्थं विकारं भेदं यास्यति । नैवेत्यर्थः ॥"
+    }
+  ]
+}

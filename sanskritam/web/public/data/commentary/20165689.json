@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165689,
+    "chapter_id": 7066,
+    "verse_number": "14.41",
+    "content_sanskrit": "कृत्तैरपि दृढ-क्रोधो वीर-वक्त्रैर्न तत्यजे । पलायांचक्रिरे शेषा जिह्रियुः शूर-मानिनः ॥",
+    "padaccheda": "कृत्तैः । अपि । दृढ-क्रोधः । वीर-वक्त्रैः । न । तत्यजे । पलायांचक्रिरे । शेषाः । जिह्रियुः । शूर-मानिनः",
+    "anvaya": "कृत्तैः अपि वीर-वक्त्रैः दृढ-क्रोधः न तत्यजे । शेषाः पलायांचक्रिरे, शूर-मानिनः जिह्रियुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even with their heads severed, the fierce anger of the warriors did not vanish. The remaining soldiers fled the battlefield, while those who prided themselves on their bravery were filled with shame.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165689,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कृत्तैरित्यादि - वीरवत्रैः शूरमुखैः कृत्तेरपि छिन्नैरपि दृढो घनः क्रोधो न तत्यजे न त्यक्तः । दष्टौष्ठभ्रकुव्यादीनां तथावस्थानात् । कर्मणि लिट् । पला- यांचक्रिरे पलायिताः । दयायासश्च (पा.३|१|३७) इत्याम् । उपसर्गस्यायतौ (पा.८|२|१९) इति लत्वम् । शेषा ये न पलायिताः ते शूरमा- निन: । मनः (पा.३|२|०२) इति णिनिः । जिहियुः लज्जन्ते स्म ॥"
+    }
+  ]
+}

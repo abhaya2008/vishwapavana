@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165923,
+    "chapter_id": 7068,
+    "verse_number": "16.39",
+    "content_sanskrit": "सह-भृत्यः सुराऽऽवासे भयं भूयो विधास्यसि । प्रणंस्यत्यद्य देवेन्द्रस्त्वां वक्ष्यति स सन्नतिम् ॥",
+    "padaccheda": "सह-भृत्यः । सुर-आवासे । भयम् । भूयः । विधास्यसि । प्रणंस्यति । अद्य । देव-इन्द्रः । त्वाम् । वक्ष्यति । सः । सन्नतिम्",
+    "anvaya": "सुरा-आवासे सह-भृत्यः भूयः भयम् विधास्यसि। अद्य देव-इन्द्रः त्वाम् प्रणंस्यति, सः सन्नतिम् वक्ष्यति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'You shall again strike terror in the abode of the gods along with your attendants. Today Indra shall bow to you and offer words of submission.'",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165923,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सहेत्यादि - भृत्यैः सह सुरावासे स्वर्गे भूयो भयं विधास्यसि करिष्यसि । देवेन्द्रश्च त्वां प्रणंस्यति 'त्वदीयो ऽहम्' इति निवेदयिष्यति । वक्ष्यति च सन्नतिं भणिष्यति च नमस्कारम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165652,
+    "chapter_id": 7066,
+    "verse_number": "14.4",
+    "content_sanskrit": "मृदङ्गा धीरमास्वेनुर्हतैर्स्वेने च गोमुखैः । घण्टाः शिशिञ्जिरे दीर्घं जह्रादे पटहैर्भृशम् ॥",
+    "padaccheda": "मृदङ्गाः । धीरम् । आस्वेनुः । हतैः । गोमुखैः । स्वेने । घण्टाः । दीर्घम् । शिशिञ्जिरे । पटहैः । भृशम् । जह्रादे",
+    "anvaya": "मृदङ्गाः धीरम् आस्वेनुः हतैः गोमुखैः स्वेने घण्टाः दीर्घम् शिशिञ्जिरे पटहैः भृशम् जह्रादे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The mṛdaṅga drums resonated deeply, the struck gomukha instruments sounded, the bells chimed long notes, and the kettledrums produced a great roar.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165652,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मृदङ्गा इत्यादि - मृदङ्गा मुरजाः धीरं आस्वेनुः गम्भीरं ध्वनिताः । एत्व- पक्षे रूपम् । गोमुखैर्वाद्यविशेपैः हतैः स्वेने शब्दितम् । भावे लिट् । घण्टाः दीर्घं शिशिञ्जिरे उच्चैः शब्दितवत्यः । पटहैर्भृशमत्यर्थ । जहादे शब्दितम् । भावे लिट् ॥"
+    }
+  ]
+}

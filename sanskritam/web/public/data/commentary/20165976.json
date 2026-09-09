@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165976,
+    "chapter_id": 7069,
+    "verse_number": "17.50",
+    "content_sanskrit": "आस्फायताऽस्य वीरत्वममर्षश्चाऽप्यतायत । रावणस्य ततः सैन्यं समस्तमयुयुत्सयत् ॥",
+    "padaccheda": "आस्फायत । अस्य । वीरत्वम् । अमर्षः । च । अपि । आयत । रावणस्य । ततः । सैन्यम् । समस्तम् । अयुयुत्सयत्",
+    "anvaya": "अस्य वीरत्वम् आस्फायत अमर्षः च अपि आयत । रावणः ततः समस्तम् सैन्यम् अयुयुत्सयत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāvaṇa's heroism flared up and his indignation grew. Consequently, he prepared his entire army for battle.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165976,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आस्फायतेत्यादि - अथ निरुद्धशोकस्य रावणस्य वीरत्वं शौर्य आस्फायत वृद्धिं गतम् । अमर्पश्च क्रोधः अतायत विस्तारं गतः । ततः स रावणः समस्तं सैन्यं अयुयुत्सयत् युयुत्समानं प्रयोजितवान् ॥"
+    }
+  ]
+}

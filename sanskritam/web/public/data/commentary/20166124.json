@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166124,
+    "chapter_id": 7072,
+    "verse_number": "20.14",
+    "content_sanskrit": "दीक्षस्व सह रामेण त्वरितं तुरगाऽध्वरे । दृश्यस्व पत्या प्रीतेन प्रीत्या प्रेक्षस्व राघवम् ॥",
+    "padaccheda": "दीक्षस्व । सह । रामेण । त्वरितम् । तुरग-अध्वरे । दृश्यस्व । पत्या । प्रीतेन । प्रीत्या । प्रेक्षस्व । राघवम्",
+    "anvaya": "रामेण सह त्वरितम् तुरग-अध्वरे दीक्षस्व । प्रीतेन पत्या दृश्यस्व, प्रीत्या राघवम् प्रेक्षस्व ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Promptly undergo initiation with Rāma for the Horse Sacrifice (Aśvamedha). Be beheld by your gratified husband and gaze upon Rāghava with love.\"",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166124,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "दीक्षस्वेत्यादि - तुरगाध्वरे अश्वमेधे रामेण सह त्वरितं दीक्षस्व दीक्षिता भूयाः । आशिषि लोट् । प्रीतेन पत्या दृश्यस्व दृष्टा भव । इहापि कर्मणि लोट् । प्रीता च सती राघवं त्वं प्रेक्षस्व ॥"
+    }
+  ]
+}

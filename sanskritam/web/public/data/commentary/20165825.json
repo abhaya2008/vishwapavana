@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165825,
+    "chapter_id": 7067,
+    "verse_number": "15.64",
+    "content_sanskrit": "संत्रस्तानांअपाहारि सत्त्वं च वन-वासिनाम् ।अच्छेदि लक्ष्मणेनाऽस्य किरीटं कवचं तथा ॥",
+    "padaccheda": "संत्रस्तानाम् । अपाहारि । सत्त्वम् । च । वनवासिनाम् । अच्छेदि । लक्ष्मणेन । अस्य । किरीटम् । कवचम् । तथा",
+    "anvaya": "संत्रस्तानाम् वन-वासिनाम् सत्त्वम् च अपाहारि। लक्ष्मणेन अस्य किरीटम् तथा कवचम् अच्छेदि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The courage of the terrified forest-dwellers was snatched away. Lakṣmaṇa then cut off the demon's crown and his armor.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165825,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "संत्रस्तानामित्यादि - तेन सत्त्वमपाहारि अपहृतम् । सर्वेषां त्रस्तत्वात् । कर्मणि लुङ् । लक्ष्मणेन अस्य किरीटं मुकुटं तथा कवचमच्छेदि छिन्नम् । कर्मणि लुङ् ॥ युग्मम्-"
+    }
+  ]
+}

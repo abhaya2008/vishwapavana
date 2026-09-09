@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166185,
+    "chapter_id": 7074,
+    "verse_number": "22.15",
+    "content_sanskrit": "आख्यातासि हतं शत्रुमभिषिक्तं विभीषणम् । सुग्रीवं चाऽर्जितं मित्रं सर्वांश्चाऽऽगामुकान्द्रुतम् ॥",
+    "padaccheda": "शत्रुम् । हतम् । विभीषणम् । अभिषिक्तम् । सुग्रीवम् । मित्रम् । च । अर्जितम् । सर्वान् । आगामुकान् । च । द्रुतम् । आख्यातासि",
+    "anvaya": "शत्रुम् हतम् विभीषणम् अभिषिक्तम् सुग्रीवम् मित्रम् च अर्जितम् सर्वान् आगामुकान् च द्रुतम् आख्यातासि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You shall quickly report that the enemy is slain, Vibhīṣaṇa is consecrated, Sugrīva is won as an ally, and that everyone is returning home soon.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166185,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आख्यातासीत्यादि - हतं शत्रुं रावणं लङ्कायामभिषिक्तं विभीषणं अर्जितं मित्रं च सुग्रीवं विशिष्टमाख्यातासि कथयितासि । सर्वांश्चास्मान् द्रुतमागामु- कानू आगमनशीलान् ॥"
+    }
+  ]
+}

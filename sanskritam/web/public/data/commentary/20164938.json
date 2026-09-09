@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164938,
+    "chapter_id": 7059,
+    "verse_number": "7.8",
+    "content_sanskrit": "संसर्गी परिदाहीव शीतोऽप्याभाति शीकरः । सोढुमाक्रीडिनोऽशक्याः शिखिनः परिवादिनः ॥",
+    "padaccheda": "संसर्गी । परिदाही । इव । शीतः । अपि । आभाति । शीकरः । सोढुम् । आक्रीडिनः । अशक्याः । शिखिनः । परिवादिनः",
+    "anvaya": "शीतः अपि शीकरः परिदाही इव संसर्गी आभाति, आक्रीडिनः परिवादिनः शिखिनः सोढुम् अशक्याः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The cool spray of water feels like it is burning upon contact; the playing and noisy peacocks have become impossible to endure.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164938,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "संसर्गीत्यादि — संसर्गी संसर्जनशीलः । शीतोऽपि शीकरो बिन्दुः । परि- दाहीव परिदहनशील इवाभाति । शिखिनश्च मयूराः सोढुमशक्या । आक्री- डिनो नर्तनशीलाः । परिवादिनः परिवदनशीला इव । इवशब्दश्चात्र लुप्तो द्रष्टव्यः । पूर्ववद् घिनुण् ॥"
+    }
+  ]
+}

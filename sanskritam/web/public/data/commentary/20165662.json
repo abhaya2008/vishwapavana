@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165662,
+    "chapter_id": 7066,
+    "verse_number": "14.14",
+    "content_sanskrit": "मृगाः प्रदक्षिणं सस्रुः शिवाः सम्यग्ववाशिरे ।अ-वामैः पुस्फुरे देहैः प्रसेदे चित्त-वृत्तिभिः ॥",
+    "padaccheda": "मृगाः । प्रदक्षिणम् । सस्रुः । शिवाः । सम्यक् । ववाशिरे । अ-वामैः । देहैः । पुस्फुरे । चित्त-वृत्तिभिः । प्रसेदे",
+    "anvaya": "मृगाः प्रदक्षिणम् सस्रुः शिवाः सम्यक् ववाशिरे अ-वामैः देहैः पुस्फुरे चित्त-वृत्तिभिः प्रसेदे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The deer moved to the right, the she-jackals howled auspiciously, the favorable right sides of their bodies throbbed, and their minds became calm with confidence.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165662,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मृगा इत्यादि - एवं संनह्य चलतां मृगाः दक्षिणपार्श्वेन गताः । सम्यग्व- वाशिरे । वामपार्श्वस्थाः शिवाः शब्दितवत्य इत्यर्थः । 'चाव शब्दे ।' अवामैर्दक्षि- णैर्देहैर्भुजादिभिः पुस्फुरे स्फुरितम् । भावे लिट् । चित्तवृत्तिभिर्मनोवृत्तिभिः प्रसेदे प्रसन्नम् । पूर्ववत्सदेर्भावे लिट् ॥"
+    }
+  ]
+}

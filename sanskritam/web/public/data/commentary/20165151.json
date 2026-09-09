@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165151,
+    "chapter_id": 7060,
+    "verse_number": "8.111",
+    "content_sanskrit": "पृथङ्नभस्वतश्चण्डाद्वैनतेयेन वा विना । गन्तुमुत्सहते नेह कश्चित्किमुत वानरः ॥",
+    "padaccheda": "पृथक् । नभस्वतः । चण्डाद् । वैनतेयेन । वा । विना । गन्तुम् । उत्सहते । न । इह । कश्चित् । किम्-उत । वानरः",
+    "anvaya": "चण्डाद् नभस्वतः पृथक् वा वैनतेयेन विना कश्चित् इह गन्तुम् न उत्सहते, किम्-उत वानरः?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Except for the fierce Wind or Vainateya (Garuḍa), no one dares to come here; how then could a monkey reach this place?\"",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165151,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "पृथगित्यादि - नभस्वतो वातात् चण्डात् पृथक् वायुं त्यक्त्वा । वैनतेयेन वा विना गरुडं वा वर्जयित्वा । पृथग्विना (पा.२|३|३२) इत्यादिना तृती- यापञ्चम्यौ । इह लङ्कायां कश्चित् गन्तुं नोत्सहते किमुत वानरः ॥"
+    }
+  ]
+}

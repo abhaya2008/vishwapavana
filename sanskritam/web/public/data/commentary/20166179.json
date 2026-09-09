@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166179,
+    "chapter_id": 7074,
+    "verse_number": "22.9",
+    "content_sanskrit": "अतिक्रान्ता त्वया रम्यं दुःखमत्रेस्तपो-वनम् । पवित्र-चित्रकूटेऽद्रौ त्वं स्थातासि कुतूहलात् ॥",
+    "padaccheda": "अतिक्रान्ता । त्वया । रम्यम् । दुःखम् । अत्रेः । तपोवनम् । पवित्रचित्रकूटे । अद्रौ । त्वम् । स्थातासि । कुतूहलात्",
+    "anvaya": "त्वया अत्रेः रम्यम् तपो-वनम् दुःखम् अतिक्रान्ता । पवित्र-चित्रकूटे अद्रौ त्वम् कुतूहलात् स्थातासि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You will cross the beautiful penance-grove of Atri with difficulty, and you will stay upon the sacred Citrakūṭa mountain out of curiosity.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166179,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अतिक्रान्तेत्यादि - अत्रेश्च तपोवनं रम्यत्वात् त्वया दुःखमतिक्रान्ता अति- क्रमितव्यम् । चित्रकूटे चाद्रौ पवित्रे पुण्ये कुतूहलात् त्वं स्थातासि ॥"
+    }
+  ]
+}

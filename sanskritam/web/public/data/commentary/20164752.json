@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164752,
+    "chapter_id": 7057,
+    "verse_number": "5.86",
+    "content_sanskrit": "मत्-पराक्रम-संक्षिप्त-राज्य-भोग-परिच्छदः । युक्तं ममैव किं वक्तुं दरिद्राति यथा हरिः ॥",
+    "padaccheda": "मत्-पराक्रम-संक्षिप्त-राज्य-भोग-परिच्छदः । युक्तम् । मम । एव । किम् । वक्तुम् । दरिद्राति । यथा । हरिः",
+    "anvaya": "मत्-पराक्रम-संक्षिप्त-राज्य-भोग-परिच्छदः यथा हरिः दरिद्राति, (तत्) वक्तुम् मम एव किम् युक्तम्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "My prowess has stripped him of his kingdom, enjoyments, and retinue. Is it even fitting for me to describe how even Hari (Indra) now lives like a pauper because of me?",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164752,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मत्परेत्यादि — राज्यभोगादयः परिच्छदो हस्त्यश्वादिः स मत्पराक्रमेण संक्षिप्तो ऽपहृतो यस्व हरेरिन्द्रस्य स यथा दरिद्राति निरर्थको भवति तन्ममैव किं वक्तुं युक्तमात्मगुणवादस्य लज्जाकरत्वात् । दरिद्रातेरादादिकत्वाच्छपो लुक् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165978,
+    "chapter_id": 7069,
+    "verse_number": "17.52",
+    "content_sanskrit": "परितः पर्यवाद्वायुराज्य-गन्धिर्मनो-रमः ।अश्रूयत स पुण्याहः स्वस्ति-घोषः समुच्चरन् ॥",
+    "padaccheda": "परितः । पर्यवात् । वायुः । आज्य-गन्धिः । मनः-रमः । अश्रूयत । सः । पुण्याहः । स्वस्ति-घोषः । समुच्चरन्",
+    "anvaya": "परितः आज्य-गन्धिः मनः-रमः वायुः पर्यवात् । समुच्चरन् सः पुण्याहः स्वस्ति-घोषः अश्रूयत ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "A pleasant breeze scented with clarified butter blew all around. The sacred chanting of \"Auspicious Day\" and \"Peace\" was heard rising high.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165978,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "परित इत्यादि - अग्निसन्तर्पणादाज्यगन्धिः आज्यस्य गन्धो यस्मिन्वायौ स वायुर्मनोरमः परितः सर्ववेश्मसु पर्यवात् वाति स्म । स्वस्तिघोपश्च सपुण्याहः पुण्याहशब्देन सह समुच्चरन्नश्रूयत श्रूयते स्म । कर्मणि लङ् ॥"
+    }
+  ]
+}

@@ -53,6 +53,10 @@ export default function CategoryPage() {
         );
     }
 
+    // texts includes both this category's own texts and its sub-categories' texts
+    // (see getTextsByCategory); only the former belong in this page's own "ग्रन्थाः" section.
+    const directTexts = texts.filter(t => String(t.category_id) === String(id));
+
     const breadcrumbItems = parentCategory ? [
         { label: parentCategory.name_sanskrit, path: `/category/${parentCategory.id}` },
         { label: category.name_sanskrit, path: `/category/${id}` }
@@ -95,8 +99,8 @@ export default function CategoryPage() {
                         <h1 className="page-title">॥ {category.name_sanskrit} ॥</h1>
                     </section>
 
-                    {/* Case A: Show ONLY Sub-categories (Upavargas) when they exist */}
-                    {subCategories.length > 0 ? (
+                    {/* Sub-categories (Upavargas), when they exist */}
+                    {subCategories.length > 0 && (
                         <section className="mt-md">
                             <h2 className="sanskrit-title mb-lg text-center">उप-वर्गाः</h2>
                             <div className="cards-grid">
@@ -105,18 +109,20 @@ export default function CategoryPage() {
                                 ))}
                             </div>
                         </section>
-                    ) : (
-                        /* Case B: Show ONLY Specific Texts (Granthas) when viewing a specific Upavarga / leaf category */
-                        texts.length > 0 && (
-                            <section className="mt-md">
-                                <h2 className="sanskrit-title mb-lg text-center">ग्रन्थाः</h2>
-                                <div className="cards-grid">
-                                    {texts.map(text => (
-                                        <TextCard key={text.id} text={text} />
-                                    ))}
-                                </div>
-                            </section>
-                        )
+                    )}
+
+                    {/* Texts (Granthas) placed directly on this category — shown alongside
+                        sub-categories too, so a text kept at this level (e.g. मणिमञ्जरी on
+                        साहित्यम्) isn't hidden once sibling sub-categories exist. */}
+                    {directTexts.length > 0 && (
+                        <section className="mt-md">
+                            <h2 className="sanskrit-title mb-lg text-center">ग्रन्थाः</h2>
+                            <div className="cards-grid">
+                                {directTexts.map(text => (
+                                    <TextCard key={text.id} text={text} />
+                                ))}
+                            </div>
+                        </section>
                     )}
 
                     {/* Tools (not text/chapter/verse content) — currently only Sandhi Practice */}
@@ -132,7 +138,7 @@ export default function CategoryPage() {
                         </section>
                     )}
 
-                    {subCategories.length === 0 && texts.length === 0 && id !== VYAKARANAM_CATEGORY_ID && (
+                    {subCategories.length === 0 && directTexts.length === 0 && id !== VYAKARANAM_CATEGORY_ID && (
                         <div className="text-center mt-md">
                             <p className="sanskrit" style={{ color: 'var(--color-text-light)' }}>
                                 अत्र ग्रन्थाः उपलब्धाः न सन्ति।

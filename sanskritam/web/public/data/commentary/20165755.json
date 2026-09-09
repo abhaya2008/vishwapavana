@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165755,
+    "chapter_id": 7066,
+    "verse_number": "14.107",
+    "content_sanskrit": "चुक्रुधे तत्र नीलेन तरुश्चोच्चिक्षिपे महान् । प्रहस्तोऽभिहतस्तेन बाणान्विससृजे बहून् ॥",
+    "padaccheda": "चुक्रुधे । तत्र । नीलेन । तरुः । च । उच्चिक्षिपे । महान् । प्रहस्तः । अभिहतः । तेन । बाणान् । विससृजे । बहून्",
+    "anvaya": "तत्र नीलेन चुक्रुधे, महान् तरुः च उच्चिक्षिपे । तेन अभिहतः प्रहस्तः बहून् बाणान् विससृजे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, Nīla became enraged and hurled a massive tree. Struck by the tree, Prahasta responded by discharging a multitude of arrows.",
+    "audio_url": null,
+    "display_order": 107,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165755,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "चुक्रुध इत्यादि - तत्र तस्मिन् संग्रामे नीलेन चुक्रुधे क्रुद्धम् । भावे लिट् । तरुश्वोच्चिक्षिपे उत्क्षिप्तः । कर्मणि लिट् । तेन तरुणा उन्मूलितेनाभिहतः सन् प्रहस्तो बाणान् विससृजे क्षिप्तवान् । सृज विसर्गे' इति दैवा- दिको ऽनुदात्तेत् ॥"
+    }
+  ]
+}

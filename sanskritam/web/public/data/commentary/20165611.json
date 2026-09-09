@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165611,
+    "chapter_id": 7065,
+    "verse_number": "13.23",
+    "content_sanskrit": "अरविन्द-रेणु-पिञ्जर- सारस-रव-हारि-विमल-बहु-चारु-जलम् । रवि-मणि-संभव-हिम-हर- समागमाऽऽबद्ध-बहुल-सुर-तरु-धूपम् ॥",
+    "padaccheda": "अरविन्द-रेणु-पिञ्जर-सारस-रव-हारि-विमल-बहु-चारु-जलम् । रवि-मणि-सम्भव-हिम-हर-समागम-आबद्ध-बहुल-सुर-तरु-धूपम्",
+    "anvaya": "अरविन्द-रेणु-पिञ्जर-सारस-रव-हारि-विमल-बहु-चारु-जलम् रवि-मणि-सम्भव-हिम-हर-समागम-आबद्ध-बहुल-सुर-तरु-धूपम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They explored mountains with clear waters tawny with lotus pollen and charming with the cries of cranes, where the heat of sun-stones met the fragrant smoke of celestial trees.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165611,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अरविन्देत्यादि - अरविन्दरेणुभिः पिञ्जराः पिङ्गला ये सारसास्तेषां रवेण हारि मनोहारि विमलं बहु चारु जलं यन्त्रेति । रविमणिसंभवः सूर्यकान्तमणिस म्भवः यो हिमहरः अग्निः तेन यः समागमः संश्लेषस्तेनाबद्धो जनितो बहुल: सुरतरुधूपो यत्र ॥"
+    }
+  ]
+}

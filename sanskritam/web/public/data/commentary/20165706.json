@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165706,
+    "chapter_id": 7066,
+    "verse_number": "14.58",
+    "content_sanskrit": "न जिजीवाऽसुखी तातः प्राणता रहितस्त्वया । मृतेऽपि त्वयि जीवन्त्या किं मयाऽणकभार्यया।\" ॥",
+    "padaccheda": "न । जिजीव । असुखी । तातः । रहितः । त्वया । मृते । अपि । त्वयि । जीवन्त्या । किम् । मया । अणकभार्यया",
+    "anvaya": "तातः असुखी (सन्) त्वया रहितः न जिजीव । मृते अपि त्वयि जीवन्त्या मया अणक-भार्यया किम् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Your father, overcome by sorrow, did not survive without you. What is the use of me, a worthless wife, continuing to live while you are dead?\"",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165706,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "न जिजीवेत्यादि - त्वया प्राणता जीवता । अन प्राणने' । रहितो विमुक्तस्तातो दशरथो न जिजीव न जीवितः । त्वयि मृते ऽपि जीवन्त्या मया न किंचित्प्रयोजनम् । अणकभार्यया । पापाणके (पा.२|१|५४) इति सः ॥"
+    }
+  ]
+}

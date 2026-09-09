@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166048,
+    "chapter_id": 7070,
+    "verse_number": "18.10",
+    "content_sanskrit": "समाश्वसिमि केनाऽहं कथं प्राणिमि दुर्-गतः । लोक-त्रय-पतिर्भ्राता यस्य मे स्वपिति क्षितौ ॥",
+    "padaccheda": "समाश्वसिमि । केन । अहम् । कथम् । प्राणिमि । दुर्-गतः । लोक-त्रय-पतिः । भ्राता । यस्य । मे । स्वपिति । क्षितौ",
+    "anvaya": "यस्य मे लोक-त्रय-पतिः भ्राता क्षितौ स्वपिति, अहम् केन समाश्वसिमि, कथम् दुर्-गतः प्राणिमि ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Since my brother, the lord of the three worlds, lies sleeping on the earth, how shall I be consoled? How can I, fallen into such misery, continue to live?",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166048,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "समाश्वसिमीत्यादि -यस्य मम भ्राता लोकत्रयपतिः क्षितौ स्वपिति सोऽहं केनोपायेन समाश्वसिमि शोकं त्यजामि । रुदादिभ्यः (पा.७|२|७६) इतीट् । दुर्गतो दुःखितः कथं केन प्रकारेण प्राणिमि जीवामि ॥"
+    }
+  ]
+}

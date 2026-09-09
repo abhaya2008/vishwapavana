@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166192,
+    "chapter_id": 7074,
+    "verse_number": "22.22",
+    "content_sanskrit": "उत्कवन्तौ ततो रामं वचः पौलस्त्य-वानरौ ।अनुग्रहोऽयं काकुत्स्थ ! गन्तास्वो यत्त्वया सह ॥",
+    "padaccheda": "ततः । पौलस्त्य-वानरौ । रामम् । वचः । उक्तवन्तौ । हे । काकुत्स्थ । यत् । त्वया । सह । गन्तास्वः । अयम् । अनुग्रहः",
+    "anvaya": "ततः पौलस्त्य-वानरौ रामम् वचः उत्कवन्तौ - हे काकुत्स्थ! यत् त्वया सह गन्ता स्वः, अयम् अनुग्रहः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Vibhīṣaṇa and the Monkey Sugrīva spoke to Rāma: \"O Kakutstha! It is a great favor that we shall go along with you.\"",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166192,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उक्तवन्तावित्यादि - ततो ऽनन्तरं पौलस्त्यवानरौ विभीषणसुग्रीवौ रामं वच उक्तवन्तौ । हे काकुत्स्थ ! त्वया सह यदावां गन्तास्वः गमिष्यावः अयम- नुग्रहः प्रसाद इति ॥"
+    }
+  ]
+}

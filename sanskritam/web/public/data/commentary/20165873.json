@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165873,
+    "chapter_id": 7067,
+    "verse_number": "15.112",
+    "content_sanskrit": "कुम्भकर्ण-सुतौ तत्र समनद्धां महा-बलौ । निकुम्भश्चैव कुम्भश्च प्रापतां तौ प्लवङ्गमान् ॥",
+    "padaccheda": "कुम्भकर्ण-सुतौ । तत्र । समनद्धाम् । महा-बलौ । निकुम्भः । च । एव । कुम्भः । च । प्रापताम् । तौ । प्लवङ्गमान्",
+    "anvaya": "तत्र कुम्भकर्ण-सुतौ महा-बलौ निकुम्भः च एव कुम्भः च समनद्धाम्। तौ प्लवङ्गमान् प्रापताम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the two mighty sons of Kumbhakarṇa, Nikumbha and Kumbha, geared up for battle and attacked the monkeys.",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165873,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कुम्भकर्णेत्यादि — कुम्भश्चैव निकुम्भश्च कुम्भकर्णसुतौ महाबलौ तत्र सैन्ये समनद्धां सन्नद्धौ । तौ च प्लवङ्गमान् प्रापतां प्राप्तवन्तौ । लुदित्वादङ् ॥"
+    }
+  ]
+}

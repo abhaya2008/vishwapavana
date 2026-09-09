@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165279,
+    "chapter_id": 7061,
+    "verse_number": "9.106",
+    "content_sanskrit": "प्राघानिषत रक्षांसि येनाऽऽप्तानि वने मम । न प्रहण्मः कथं पापं वद पूर्वाऽपकारिणम् ॥",
+    "padaccheda": "प्राघानिषत । रक्षांसि । येन । आप्तानि । वने । मम । न । प्रहण्मः । कथम् । पापम् । वद । पूर्वापकारिणम्",
+    "anvaya": "येन मम वने आप्तानि रक्षांसि प्राघानिषत, वद पूर्वा-अपकारिणम् पापम् कथम् न प्रहण्मः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Since he has killed my trusted demons in the forest, tell me why we should not slay this sinful creature who has committed such prior offenses?\"",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165279,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्राधानिषतेत्यादि - मम आप्तानि अक्षप्रभृतीनि येन वने प्राघानिषत मारितानि । कर्मणि लुङ् । चिण्वदिट् । हो हन्तेः (पा.७|३|५४) इति वत्वम् । तपरपरिच्छिन्नाकारपूर्वस्य नकारस्य ' हन्तेरत्पूर्वस्य' इति णत्वं न भवति । तं पूर्वापकारिणं पापं कथं न ग्रहण्मः मारयाम इति वद कथय । वमोर्चा (पा.८|४|२३) इति णत्वम् ॥"
+    }
+  ]
+}

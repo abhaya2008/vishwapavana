@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165682,
+    "chapter_id": 7066,
+    "verse_number": "14.34",
+    "content_sanskrit": "वज्रमुष्टेर्विशिश्लेष मैन्देनाऽभिहतं शिरः । नीलश्चकर्त चक्रेण निकुम्भस्य शिरः स्फुरत् ॥",
+    "padaccheda": "वज्रमुष्टेः । विशिश्लेष । मैन्देन । अभिहतम् । शिरः । नीलः । चकर्त । चक्रेण । निकुम्भस्य । शिरः । स्फुरत्",
+    "anvaya": "मैन्देन अभिहतम् वज्रमुष्टेः शिरः विशिश्लेष । नीलः चकर्त चक्रेण निकुम्भस्य शिरः स्फुरत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Struck by Mainda, the head of Vajramuṣṭi was severed. Nīla cut off the throbbing head of Nikumbha with a disc.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165682,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "वज्रमुष्टेरित्यादि — वज्रमुष्टे राक्षसस्य शिरो मैन्देन वानरेण अभिहतं सत् विशिश्लेष विश्लिष्टम् । निकुम्भस्य शिरः स्फुरत् चलत् । नीलो वानरश्चक्रेण चकर्त छिन्नवान् ॥"
+    }
+  ]
+}

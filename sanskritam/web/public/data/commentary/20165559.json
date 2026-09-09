@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165559,
+    "chapter_id": 7064,
+    "verse_number": "12.58",
+    "content_sanskrit": "वज्राऽभिघातैर-विरुग्ण-मूर्तेः फेणैर्जलानामसुरस्य मूर्ध्नः । चकार भेदं मृदुभिर्महेन्द्रो यथा तथैतत्किमपीति बोध्यम् ॥",
+    "padaccheda": "वज्र-अभिघातैः । अ-विरुग्ण-मूर्तेः । फेणैः । जलानाम् । असुरस्य । मूर्ध्नः । चकार । भेदम् । मृदुभिः । महेन्द्रः । यथा । तथा । एतत् । किम् । अपि । इति । बोध्यम्",
+    "anvaya": "यथा महेन्द्रः वज्र-अभिघातैः अ-विरुग्ण-मूर्तेः असुरस्य मूर्ध्नः मृदुभिः जलानाम् फेणैः भेदं चकार तथा एतत् किम् अपि इति बोध्यम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as Mahendra split the head of the demon Namuci—which was not shattered even by thunderbolt strikes—using only soft foam of the waters, so should this mysterious event be understood.",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165559,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "वज्राभिघातैरित्यादि - असुरस्य नमुचेः वज्राभिघातैरपि अविरुग्णमूर्तेः अचूर्णितशरीरस्य संबन्धिनो मूर्ध्नो जलफेणैर्मृदुभिः भेदं चकार यथा तथेदमपि शमे स्थितानामपि देवानां नराकृति वस्तु किमपीति बोद्धव्यम् ॥ अन्यथा कथं फेणपिण्डैर्विनाश इत्याह--"
+    }
+  ]
+}

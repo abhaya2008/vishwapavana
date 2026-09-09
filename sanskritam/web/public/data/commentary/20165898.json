@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165898,
+    "chapter_id": 7068,
+    "verse_number": "16.14",
+    "content_sanskrit": "स्मेष्यन्ते मुनयो देवाः कथयिष्यन्ति चाऽनिशम् । \"दश-ग्रीवस्य दुर्-नीतेर्विनष्टं रक्षसां कुलम्।\" ॥",
+    "padaccheda": "स्मेष्यन्ते । मुनयः । देवाः । कथयिष्यन्ति । च । अनिशम् । दश-ग्रीवस्य । दुर्-नीतेः । विनष्टम् । रक्षसाम् । कुलम्",
+    "anvaya": "मुनयः देवाः च स्मेष्यन्ते अनिशम् कथयिष्यन्ति - \"दश-ग्रीवस्य दुर्-नीतेः रक्षसाम् कुलम् विनष्टम्\" ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Sages and gods will smile and constantly say: \"Due to the misconduct of Daśagrīva, the race of Rākṣasas has been destroyed.\"",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165898,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "स्मेष्यन्त इत्यादि - मुनयो हर्पात् स्मेप्यन्ते हसिष्यन्ति । ङित्त्वात्तङ् । देवा अनिशं कथयिष्यन्ति । यथा दशग्रीवस्य दुर्नीतेर्दुर्नयात् रक्षसां कुलं विनष्टम् ॥"
+    }
+  ]
+}

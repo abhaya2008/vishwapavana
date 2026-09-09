@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166056,
+    "chapter_id": 7070,
+    "verse_number": "18.18",
+    "content_sanskrit": "त्वं स्म वेत्थ महाराज ! यत्स्माऽऽह न विभीषनः। । पुरा त्यजति यत्क्रुद्दो मां निराकृत्य संसदि ॥",
+    "padaccheda": "त्वम् । स्म । वेत्थ । महाराज । यत् । स्म । आह । विभीषणः । पुरा । त्यजति । यत् । क्रुद्धः । माम् । निराकृत्य । संसदि",
+    "anvaya": "महाराज ! विभीषणः यत् स्म आह, संसदि माम् निराकृत्य क्रुद्धः यत् पुरा त्यजति, तत् त्वम् स्म वेत्थ ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "O Great King! You now know the truth of what Vibhīṣaṇa said, whom you angrily insulted and abandoned in the assembly long ago.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166056,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "त्वमित्यादि - हे महाराज ! विभीषणो यदाह स्म उक्तवान् तत्त्वं न वेत्थ स्म न विदितवानसि । किमेतेन हितमुक्तं न वेति । उभयत्र अप- रोक्षे च (पा.३|२|११९) इति लट् । तत्र पूर्वस्मिन् विदो लटो वा"
+    }
+  ]
+}

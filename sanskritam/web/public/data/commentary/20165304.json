@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165304,
+    "chapter_id": 7061,
+    "verse_number": "9.131",
+    "content_sanskrit": "निजघानाऽन्य-संसक्तं सत्यं रामो लता-मृगम् । त्वमेव ब्रूहि संचिन्त्य युक्तं तन्महतां यदि ॥",
+    "padaccheda": "निजघान । अन्य-संसक्तम् । सत्यम् । रामः । लता-मृगम् । त्वम् । एव । ब्रूहि । संचिन्त्य । युक्तम् । तत् । महताम् । यदि",
+    "anvaya": "रामः अन्य-संसक्तम् लता-मृगम् निजघान, सत्यम्। तत् महताम् युक्तम् यदि त्वम् एव संचिन्त्य ब्रूहि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It is true that Rāma killed the monkey Vālin while he was preoccupied with someone else. You yourself reflect and say if such an act is appropriate for the great.",
+    "audio_url": null,
+    "display_order": 131,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165304,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "निघानत्यादि - रामो लतामृगं वानरं वालिनं निजघानेति सत्यमेतत् । किंतु अन्यसंसक्तं सुग्रीवेण सह युध्यमानं हतवान् । तच्च त्वमेव संचिन्त्य ब्रूहि युक्तं तन्महतां यदि ॥"
+    }
+  ]
+}

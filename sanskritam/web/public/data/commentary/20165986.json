@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165986,
+    "chapter_id": 7069,
+    "verse_number": "17.60",
+    "content_sanskrit": "प्रावर्धत रजो भौमं तद्व्याश्नुत दिशो दश । पराऽऽत्मीय-विवेकं च प्रामुष्णात्कपि-रक्षसाम् ॥",
+    "padaccheda": "प्रावर्धत । रजः । भौमम् । तत् । व्याश्नुत । दिशः । दश । पर-आत्मीय-विवेकम् । च । प्रामुष्णात् । कपि-रक्षसाम्",
+    "anvaya": "भौमम् रजः प्रावर्धत तत् दश दिशः व्याश्नुत । कपि-रक्षसाम् पर-आत्मीय-विवेकम् च प्रामुष्णात् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Dust rose from the earth and spread across the ten directions. It stole away the ability of the monkeys and Rākṣasas to distinguish between friend and foe.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165986,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्रावर्धतेत्यादि — बलद्वयप्रक्षोभात् भौमं रजः प्रावर्धत प्रवृद्धम् । तद्वजो दश दिशो व्याभुत व्याप्नोत् । अयं परो ऽयं चात्मीय इति यो विवेकस्तं च प्रामु- ष्णात् अपनीतवत् । मुप स्तेये' ऋयादिः ॥"
+    }
+  ]
+}

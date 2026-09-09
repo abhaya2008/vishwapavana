@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165990,
+    "chapter_id": 7069,
+    "verse_number": "17.64",
+    "content_sanskrit": "ततोऽचित्रीयताऽस्त्रौघैर्धनुश्चाऽधूनयन्महत् । रामः समीहितं तस्य नाऽचेतन्स्वे न चाऽपरे ॥",
+    "padaccheda": "ततः । अचित्रीयत । अस्त्र-ओघैः । धनुः । च । अधूनयत् । महत् । रामः । समीहितम् । तस्य । न । अचेतन् । स्वे । न । च । अपरे",
+    "anvaya": "ततः अस्त्र-ओघैः अचित्रीयत, महत् धनुः च अधूनयत्, रामः तस्य समीहितम् स्वे न च अचेतन् अपरे न च।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rāma performed wonders with his multitude of weapons and brandished his great bow; neither his own side nor the enemy could perceive his intended movements.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165990,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि - ततो ऽनन्तरं रामः शस्त्रौघैरचित्रीयत आश्चर्यीभूतः । नमो - वरिवः (पा.१३|१|१९) इति 'चित्रङ् आश्चर्ये' । ङित्त्वात्तङ् । धनुश्च महदधूनयत् विधूनितवान् । 'धून्- प्रीजोर्लुग्वक्तव्यः' । तस्य रामस्य समीहित- मभिप्रेतं स्व आत्मीयाः वानराः न च अपरे परकीया नाचेतन् न ज्ञातवन्तः ॥"
+    }
+  ]
+}

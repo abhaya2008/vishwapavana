@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166060,
+    "chapter_id": 7070,
+    "verse_number": "18.22",
+    "content_sanskrit": "श्रीर्निष्कुष्यति लङ्कायां विरज्यन्ति समृद्धयः । न वेद तन्न यस्याऽस्ति मृते त्वयि विपर्ययः ॥",
+    "padaccheda": "श्रीः । निष्कुष्यति । लङ्कायाम् । विरज्यन्ति । समृद्धयः । न । वेद । तत् । न । यस्य । अस्ति । मृते । त्वयि । विपर्ययः",
+    "anvaya": "लङ्कायां श्रीः निष्कुष्यति । समृद्धयः विरज्यन्ति । त्वयि मृते यस्य विपर्ययः अस्ति तत् न वेद न ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Prosperity is departing from Laṅkā, and riches are fading away. There is no one who does not perceive the reversal of fortune that has occurred upon your death.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166060,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "श्रीरित्यादि - लङ्कायां पुर्यां अधुना श्रीर्निष्कुप्यति । 'कुप रोपे' ।कुपि-रजोः प्राचां श्यन् परस्मैपदं च (पा.३|१|१०) । समृद्धयश्च विरज्यन्ति अप- यान्ति । सर्वथा तद्वस्तु न वेद न वेद्मि । विदो लटो वा (पा.३|४|८३) इति मिपो ल् । यस्य त्वयि मृते न विपर्ययः नान्यथाभावः ॥"
+    }
+  ]
+}

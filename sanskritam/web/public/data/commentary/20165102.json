@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165102,
+    "chapter_id": 7060,
+    "verse_number": "8.62",
+    "content_sanskrit": "ज्योत्स्नाऽमृतं शशी वस्यां वापीर्विकसितोत्पलाः ।अपाययत संपूर्णः सदा दश-मुखाऽऽज्ञया ॥",
+    "padaccheda": "ज्योत्स्ना-अमृतं । शशी । यस्यां । वापीः । विकसित-उत्पलाः । अपाययत । संपूर्णः । सदा । दश-मुख-आज्ञया",
+    "anvaya": "यस्यां संपूर्णः शशी दश-मुख-आज्ञया विकसित-उत्पलाः वापीः सदा ज्योत्स्ना-अमृतं अपाययत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In that place, by the command of the ten-faced Rāvaṇa, the full moon constantly nourished the ponds filled with blooming lotuses with the nectar of its moonlight.",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165102,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "ज्योत्स्नेत्यादि -यस्यां रावणाज्ञया शशी सदा संपूर्णः सन् ज्योत्स्नामृतं वापीरपाययत पायितवान् । निगरणार्थत्वात्तिपि प्राप्ते न पादमीत्यादिना प्रति- पिद्धे णिचश्चेति तङ् ॥"
+    }
+  ]
+}

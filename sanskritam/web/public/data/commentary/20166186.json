@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166186,
+    "chapter_id": 7074,
+    "verse_number": "22.16",
+    "content_sanskrit": "गन्तारः परमां प्रीतिं पौराः ष्रुत्वा वचस्तव । ज्ञात्वैतत्सम्मुखीनश्च समेता भरतो ध्रुवम् ॥",
+    "padaccheda": "तव । वचः । श्रुत्वा । पौराः । परमाम् । प्रीतिम् । गन्तारः । एतत् । ज्ञात्वा । भरतः । ध्रुवम् । सम्मुखीनः । च । समेता",
+    "anvaya": "तव वचः श्रुत्वा पौराः परमाम् प्रीतिम् गन्तारः । एतत् ज्ञात्वा भरतः ध्रुवम् सम्मुखीनः च समेता ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Upon hearing your words, the citizens will attain great joy. Having known this, Bharata will certainly come forward to meet us.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166186,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "गन्तार इत्यादि - त्वद्वचनं श्रुत्वा पौराः पौरजनाः परमां प्रीतिं गन्तारो गमिष्यन्ति । एतन्मदागमनवृत्तान्तं श्रुत्वा सम्सुखीनः प्रतिविम्वाश्रय इव सम्मुखो भूत्वा मामेवागमिष्यति भरतो ध्रुवमसंशयम् ॥"
+    }
+  ]
+}

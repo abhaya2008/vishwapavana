@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165991,
+    "chapter_id": 7069,
+    "verse_number": "17.65",
+    "content_sanskrit": "छिन्नानैक्षन्त भिन्नांश्च समन्ताद्राम-सायुकैः। । क्रुष्टं हाहेति चाऽशृण्वन्न च रामं न्यरूपयन् ॥",
+    "padaccheda": "छिन्नान् । ऐक्षन्त । भिन्नान् । च । समन्तात् । राम-सायुकैः । क्रुष्टम् । हा-हा । इति । च । अशृण्वन् । न । च । रामम् । न्यरूपयन्",
+    "anvaya": "राम-सायुकैः समन्तात् छिन्नान् भिन्नान् च ऐक्षन्त, हा-हा इति क्रुष्टम् च अश्ृण्वन्, रामम् च न न्यरूपयन्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They saw the mangled and split bodies everywhere pierced by Rāma's arrows and heard the cries of \"Alas! Alas!\", yet they could not spot Rāma himself.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165991,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "छिन्नानित्यादि - रामसायकैश्छिन्नान् भिन्नांश्च समन्तादैक्षन्त । हा हेति च क्रुष्टं शब्दमन्योन्यस्य चाशृण्वन् । न च नैव रामं न्यरूपयन् राम इति च न निश्चितवन्तः । ' रूप व्याक्रियायाम्' इति चौरादिकः ॥"
+    }
+  ]
+}
