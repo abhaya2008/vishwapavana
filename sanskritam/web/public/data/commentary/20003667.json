@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003667,
+    "chapter_id": 6595,
+    "verse_number": "19.6",
+    "content_sanskrit": "इन्द्रियार्थपरिशून्यमक्षमः सोढुमेकमपि स क्षणान्तरम् । अन्तरेव विहरन्दिवानिशं न व्यपैक्षत समुत्सुकाः प्रजाः ॥",
+    "padaccheda": "इन्द्रियार्थपरिशून्यम् । अक्षमः । सोढुम् । एकम् । अपि । सः । क्षणान्तरम् । अन्तः । एव । विहरन् । दिवानिशम् । न । व्यपैक्षत । समुत्सुकाः । प्रजाः",
+    "anvaya": "सः इन्द्रिय-अर्थ-परिशून्यम् एकम् क्षण-अन्तरम् अपि सोढुम् अक्षमः (सन्) दिवानिशम् अन्तः एव विहरन् समुत्सुकाः प्रजाः न व्यपैक्षत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Unable to endure even a single moment devoid of sensual pleasures, he sported day and night only inside the palace and paid no heed to his subjects, who were eager to see him.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003667,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इन्द्रियेति॥ इन्द्रियार्थपरिशून्यं शब्दादिविषयरहितमेकमपि क्षणान्तरं क्षणभेदं सोढुमक्षमोऽशक्तः सोऽग्निवर्णो दिवानिशमन्तरेव विहरन् समुत्सुका दर्शनाकाङ्क्षिणीः प्रजा न व्यपैक्षत नापेक्षितवान् ॥"
+    }
+  ]
+}

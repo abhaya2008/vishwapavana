@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002429,
+    "chapter_id": 6580,
+    "verse_number": "4.40",
+    "content_sanskrit": "प्रतिजग्राह कालिङ्गस्तमस्त्त्रैर्गजसाधनः । पक्षच्छेदोद्यतं शक्रं शिलावर्षीव पर्वतः ॥",
+    "padaccheda": "प्रतिजग्राह । कालिङ्गः । तम् । अस्त्रैः । गजसाधनः । पक्षच्छेदोद्यतम् । शक्रम् । शिलावर्षी । इव । पर्वतः",
+    "anvaya": "गज-साधनः कालिङ्गः, शिला-वर्षी पर्वतः पक्ष-च्छेद-उद्यतम् शक्रम् इव, तम् अस्त्रैः प्रतिजग्राह ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The king of Kalinga, whose main force was his elephants, countered Raghu with missiles, just as a mountain, showering rocks, would counter Indra who was ready to clip its wings.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002429,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रतीति॥ गजसाधनः सन् कालिङ्गः कलिङ्गानां राजा। `द्व्यञ्मगधकलिङ्ग-` (पा.4।1।170)इत्यादिनाण्प्रत्ययः। अस्त्त्रैरायुधैस्तं रघुम्। पक्षाणां धेद उद्यतमुद्युक्तं शक्रं शिलावर्षी पर्वत इव। प्रतिजग्राह प्रत्यभियुक्तवान् ॥"
+    }
+  ]
+}

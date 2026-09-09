@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004044,
+    "chapter_id": 6600,
+    "verse_number": "5.80",
+    "content_sanskrit": "असंपदस्तस्य वृषेण गच्छतः प्रभिन्नदिग्वारणवाहनो वृषा । करोति पादावुपगम्य मौलिना विनिद्रमन्दाररजोरुणाङ्गुली ॥",
+    "padaccheda": "असंपदः । तस्य । वृषेण । गच्छतः । प्रभिन्नदिग्वारणवाहनः । वृषा । करोति । पादौ । उपगम्य । मौलिना । विनिद्रमन्दाररजोरुणाङ्गुली",
+    "anvaya": "प्रभिन्नदिग्वारणवाहनः वृषा (इन्द्रः), वृषेण गच्छतः असंपदः तस्य (शिवस्य) पादौ उपगम्य, मौलिना विनिद्रमन्दाररजोरुणाङ्गुली करोति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra, whose vehicle is the mighty elephant of the quarters (Airavata), approaches the \"possessionless\" Shiva who rides a bull, and with his crown, makes Shiva's feet—whose toes are already reddened by the pollen of ever-blooming Mandara flowers—even redder.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004044,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असंपद इति । प्रभिन्नो मदस्रावी दिग्वारणो दिग्गजो वाहनं यस्य सः । ऐरावतेनोढ इत्यर्थः । वृषा देवेन्द्रोऽसंपदो दरिद्रस्य वृषेण गच्छतो वृषभारूढस्य तस्येश्वरस्य पादौ मौलिना मुकुटेनोपगम्य प्रणम्येत्यर्थः । विनिद्राणां विकसितानां मन्दाराणां कल्पतरुकुसुमानां रजोभिः परागैररुणा अङ्गुलयो ययोस्तौ तथोक्तौ करोति । दिग्गजारोहिणामिन्द्रादीनामपि वन्द्यस्येन्दुमौलेः किं संपदा, वृषारोहणे वा को दोष इत्यर्थः"
+    }
+  ]
+}

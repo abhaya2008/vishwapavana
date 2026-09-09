@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005709,
+    "chapter_id": 6628,
+    "verse_number": "16.31",
+    "content_sanskrit": "तिरोहितेन्दोरथ शम्भुमूर्ध्नः प्रणम्यमानं तपसां निवासैः । सुमेरुशृङ्गादिव बिम्बमार्कं पिशङ्गमुच्चैरुदियाय तेजः ॥",
+    "padaccheda": "तिरोहितेन्दोः । अथ । शम्भुमूर्ध्नः । प्रणम्यमानम् । तपसाम् । निवासैः । सुमेरुशृङ्गात् । इव । बिम्बम् । आर्कम् । पिशङ्गम् । उच्चैः । उदियाय । तेजः",
+    "anvaya": "अथ तिरोहितेन्दोः शम्भुमूर्ध्नः, तपसां निवासैः प्रणम्यमानं, पिशङ्गं तेजः, सुमेरुशृङ्गात् आर्कं बिम्बम् इव, उच्चैः उदियाय।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, from the head of Shiva, whose crescent moon was hidden, a tawny radiance, worshipped by the sages (abodes of penance), rose high, like the orb of the sun rising from the peak of Mount Sumeru.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005709,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तिरोहितेति ॥ अथ तिरोहितेन्दोः किरातमायया छन्नचन्द्राच्छंभुमूर्घ्न: सकाशात्। सुमेरुशृङ्गादर्कसंबन्धि बिम्वमिव । तपसां निवासैस्तापसैः प्रणम्यमानमभिवन्द्यमानं पिशङ्गं तेज उच्चैरूर्ध्वमुदियाय प्रकटीबभूव । तच्च न चान्द्रमिति भावः ॥"
+    }
+  ]
+}

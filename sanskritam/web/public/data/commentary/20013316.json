@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013316,
+    "chapter_id": 6699,
+    "verse_number": "7.102",
+    "content_sanskrit": "भाष्यं प्रणीतं भवतेति योगि- न्नाकर्ण्य तत्रापि विधाय वृत्तिं । यशोऽधिगच्छेयमिति स्म वाञ्छा स्थिता पुरा संप्रति किं तदुक्त्या ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013316,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "ननु शाबरभाष्यवदस्मद्भाष्येऽपि त्वया वार्तिकं कर्तव्यं स्थितमिति चेत्तत्राऽऽह ।"
+    }
+  ]
+}

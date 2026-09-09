@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003435,
+    "chapter_id": 6591,
+    "verse_number": "15.99",
+    "content_sanskrit": "जगृहुस्तस्य चित्तज्ञाः पदवीं हरिराक्षसाः । कदम्बमुकुलस्थूलैरभिवृष्टां प्रजाश्रुभिः ॥",
+    "padaccheda": "जगृहुः । तस्य । चित्तज्ञाः । पदवीम् । हरिराक्षसाः । कदम्बमुकुलस्थूलैः । अभिवृष्टाम् । प्रजाश्रुभिः",
+    "anvaya": "चित्तज्ञाः हरिराक्षसाः कदम्बमुकुलस्थूलैः प्रजाश्रुभिः अभिवृष्टाम् तस्य पदवीम् जगृहुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The monkeys and demons who knew his intentions followed his path, which was drenched by the tears of the subjects, tears as large as Kadamba flower buds.",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003435,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जगृहुरिति॥ चित्तज्ञा हरिराक्षसाः कदम्बमुकुलस्थूलैः प्रजाश्रुभिरभिवृष्टां तस्य रामस्य पदवीं मार्गं जगृहुः। तेऽप्यनुजग्मुरित्यर्थः ॥"
+    }
+  ]
+}

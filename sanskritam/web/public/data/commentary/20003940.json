@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003940,
+    "chapter_id": 6599,
+    "verse_number": "4.22",
+    "content_sanskrit": "क्रियतां कथमन्त्यमण्डनं परलोकान्तरितस्य ते मया । सममेव गतोऽस्यतर्कितां गतिमङ्गेन च जीवितेन च ॥",
+    "padaccheda": "क्रियताम् । कथम् । अन्त्यमण्डनम् । परलोकान्तरितस्य । ते । मया । समम् । एव । गतः । असि । अतर्किताम् । गतिम् । अङ्गेन । च । जीवितेन । च",
+    "anvaya": "परलोक-अन्तरितस्य ते अन्त्यमण्डनम् मया कथम् क्रियताम्? (त्वम्) अङ्गेन च जीवितेन च समम् एव अतर्किताम् गतिम् गतः असि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rati asks, \"How can I perform the final funeral rites for you who have departed to the other world? You have reached an unforeseen state, having departed at once with both your body and your life.\"",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003940,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "क्रियतामिति । परलोकेऽन्तरितस्य व्यवहितस्य । मृतस्येत्यर्थः । ते तव मयान्त्यमण्डनं कथं केन प्रकारेण क्रियताम् । क्रियातामित्यत्र कामचारे लोट् बोध्यः । द्रुतदग्धस्य ते यथेच्छमण्डनमपि न संभवतीत्यर्थः । कुतः । अङ्गेन च जीवितेन च समं सहैवातर्कितामविचारितां गतिं गतोऽसि । इह मृतशरीरमपि नास्ति कस्य मण्डनमिति भावः"
+    }
+  ]
+}

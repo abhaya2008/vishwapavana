@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004387,
+    "chapter_id": 6605,
+    "verse_number": "10.4",
+    "content_sanskrit": "स विलक्ष्यमुखैर्देवैर्वीक्ष्यमाणः क्षणं क्षणम् । उपाविशत्सुरेन्द्रेणादिष्टं सादरमासनम् ॥",
+    "padaccheda": "सः । विलक्ष्यमुखैः । देवैः । वीक्ष्यमाणः । क्षणम् । क्षणम् । उपाविशत् । सुरेन्द्रेण । आदिष्टम् । सादरम् । आसनम्",
+    "anvaya": "सः क्षणम् क्षणम् विलक्ष्यमुखैः देवैः वीक्ष्यमाणः सुरेन्द्रेण सादरम् आदिष्टम् आसनम् उपाविशत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While being observed moment after moment by the gods with perplexed faces, Agni sat down on the seat respectfully offered by Indra.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004387,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति । सोऽग्निर्विलक्ष्यमुखैर्म्लानमुखैर्देवैः क्षणं क्षणं प्रतिक्षणं वीक्ष्यमाणो दृश्यमानः सन् । सुरेन्द्रेण सादरमादिष्टमासनमुपाविशत्"
+    }
+  ]
+}

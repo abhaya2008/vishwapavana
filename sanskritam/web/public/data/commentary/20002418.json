@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002418,
+    "chapter_id": 6580,
+    "verse_number": "4.29",
+    "content_sanskrit": "रजोभिः स्यन्दनोद्धूतैर्गजैश्च घनसंनिभैः । भुवस्तलमिव व्योम कुर्वन्व्योमेव भूतलम् ॥",
+    "padaccheda": "रजोभिः । स्यन्दनोद्धूतैः । गजैः । च । घनसंनिभैः । भुवस्तलम् । इव । व्योम । कुर्वन् । व्योम । इव । भूतलम्",
+    "anvaya": "स्यन्दन-उद्धूतैः रजोभिः घन-संनिभैः गजैः च भुवः तलम् व्योम इव, व्योम भू-तलम् इव कुर्वन् (सः ययौ) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Making the surface of the earth seem like the sky with the dust raised by his chariots, and making the sky seem like the earth with his cloud-like elephants, he marched on.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002418,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रजोभिरिति॥ किं कुर्वन्? स्यन्दनोद्धूतै रजोभिर्घनसंनिभैर्वर्णतः क्रियातःपरिमाणताश्च मेघतुल्यैर्गजैश्च यथाक्रमं व्योमाकाशं भुवस्तलमिव भूतलं च व्योमेव कुर्वन्। `ययौ`इति पूर्वेण संबन्धः॥"
+    }
+  ]
+}

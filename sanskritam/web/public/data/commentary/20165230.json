@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165230,
+    "chapter_id": 7061,
+    "verse_number": "9.57",
+    "content_sanskrit": "आश्वसीदिव चाऽऽयाति तद्वेग-पवनाऽऽहतम् । विचित्र-स्तबकोद्भासि वनं लुलित-पल्लवम् ॥",
+    "padaccheda": "आश्वसीत् । इव । च । आयाति । तद्-वेग-पवन-आहतम् । विचित्र-स्तबक-उद्भासि । वनम् । लुलित-पल्लवम्",
+    "anvaya": "तद्-वेग-पवन-आहतम् विचित्र-स्तबक-उद्भासि लुलित-पल्लवम् वनम् तस्मिन् आयाति (सति) आश्वसीत् इव च।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Struck by the wind of his speed, the forest, shining with various clusters of flowers and shaken leaves, seemed to sigh as he approached.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165230,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आश्वसीदित्यादि - तस्मिन्नायाति वनं तद्वेगपवनाहतं सत् आश्वसीदिव संजीवितमिव । लङि रूपम् । यतो विचित्रस्तबकोद्भासि लुलितपल्लवं च जात- म् । पूर्ववदिद ॥"
+    }
+  ]
+}

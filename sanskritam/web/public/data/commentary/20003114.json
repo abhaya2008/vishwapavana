@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003114,
+    "chapter_id": 6588,
+    "verse_number": "12.48",
+    "content_sanskrit": "तैस्त्रयाणां शितैर्बाणैर्यथापूर्वविशुद्धिभिः । आयुर्देहातिगैः पीतं रुधिरं तु पतत्रिभिः ॥",
+    "padaccheda": "तैः । त्रयाणाम् । शितैः । बाणैः । यथापूर्वविशुद्धिभिः । आयुः । देहातिगैः । पीतम् । रुधिरम् । तु । पतत्रिभिः",
+    "anvaya": "तैः त्रयाणां शितैः बाणैः यथा-पूर्व-विशुद्धिभिः आयुः देह-अतिगैः पतत्रिभिः तु रुधिरं पीतम् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sharp arrows, which remained as pure as before even after passing through the bodies of the three demons, took away their lives, while the feathered parts (or the birds following them) drank their blood.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003114,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तैरिति॥ देहमतीत्य भित्त्वा गच्छन्तीति देहातिगाः। तैर्यथास्थिता पूर्वशुद्धिर्येषां तैः। अतिवेगत्वेन देहभेदात्प्रागिव रुधिरलेपरहितैरित्यर्थः। शितैस्तीक्ष्णैस्तैर्बाणैस्त्रयाणां खरादीनामायुः पीतम्। रुधिरं तु पतत्रिभिः पीतम् ॥"
+    }
+  ]
+}

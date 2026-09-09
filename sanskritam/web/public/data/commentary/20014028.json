@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014028,
+    "chapter_id": 6706,
+    "verse_number": "14.99",
+    "content_sanskrit": "संतोषयेद्वेदविदं द्विजं यः संतोषयत्येष स सर्वदेवान् । तद्वेदविप्रे निवसन्ति देवा इति स्म साक्षाच्छ्रुतिरेव वक्ति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014028,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "किंच यो वेदविदं विप्रं संतोषयेत्स एष सर्वान्देवान्संतोषयति । तद्वेदविप्रे वेदविदि ब्राह्मणे ॥ ९९ ॥"
+    }
+  ]
+}

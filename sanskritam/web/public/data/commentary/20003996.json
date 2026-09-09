@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003996,
+    "chapter_id": 6600,
+    "verse_number": "5.32",
+    "content_sanskrit": "विधिप्रयुक्तां परिगृह्य सत्क्रियां परिश्रमं नाम विनीय च क्षणम् । उमां स पश्यन्न् ऋजुनैव चक्षुषा प्रचक्रमे वक्तुमनुज्झितक्रमः ॥",
+    "padaccheda": "विधिप्रयुक्ताम् । परिगृह्य । सत्क्रियाम् । परिश्रमम् । नाम । विनीय । च । क्षणम् । उमाम् । सः । पश्यन् । ऋजुना । एव । चक्षुषा । प्रचक्रमे । वक्तुम् । अनुज्झितक्रमः",
+    "anvaya": "सः अनुज्झित-क्रमः विधि-प्रयुक्ताम् सत्क्रियाम् परिगृह्य, क्षणम् परिश्रमम् विनीय च, ऋजुना एव चक्षुषा उमाम् पश्यन् वक्तुम् प्रचक्रमे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That ascetic, who followed proper etiquette, accepted the hospitality offered according to rites. After resting for a moment to remove his fatigue, he looked at Uma with a direct gaze and began to speak.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003996,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विधीति । स ब्रह्मचारी विधिना प्रयुक्तामनुष्ठितां सत्क्रियां पूजां परिगृह्य स्वीकृत्य क्षणं परिश्रमं च विश्रामं च विनीय नामेत्यपरमार्थे । अथोमामृजुनैव विलासरहितेनैव चक्षुषा पश्यन्ननुज्झितक्रमोऽत्यक्तोचितपरिपाटीकः सन् । वक्तुं प्रचक्रमे प्रारेभे"
+    }
+  ]
+}

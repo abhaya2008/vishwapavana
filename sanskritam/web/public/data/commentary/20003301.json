@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003301,
+    "chapter_id": 6590,
+    "verse_number": "14.52",
+    "content_sanskrit": "रथात्स यन्त्रा निगृहीतवाहात्तां भ्रातृजायां पुलिनेऽवतार्य । गङ्गां निषादाहृतनौविशेषस्ततार संधामिव सत्यसंधः ॥",
+    "padaccheda": "रथात् । सः । यन्त्रा । निगृहीतवाहात् । तां । भ्रातृजायां । पुलिने । अवतार्य । गङ्गां । निषादाहृतनौविशेषः । ततार । संधाम् । इव । सत्यसंधः",
+    "anvaya": "सत्य-सन्धः सः यन्त्रा निगृहीत-वाहात् रथात् ताम् भ्रातृ-जायाम् पुलिने अवतार्य, निषाद-आहृत-नौ-विशेषः सन् सन्धाम् इव गङ्गाम् ततार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He, Lakshmana, true to his promise, helped his brother's wife dismount on the river bank from the chariot whose horses were restrained by the charioteer. Then, using a special boat brought by the Nishada chief, he crossed the Ganga, just as one fulfills a promise.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003301,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रथादिति॥ सत्यसंधः सत्यप्रतिज्ञः स लक्ष्मणो यन्त्रा सारथिना निगृहीतवाहाद्रुद्धाश्वाद्रथाद्भ्रातृजायां पुलिनेऽवतार्यारोप्य निषादेन किरातेनाहृतनौविशेष आनीतदृढनौकः सन् गङ्गां भागीरथीम्। संधां प्रतिज्ञामिव ततार। `संधा प्रतिज्ञा मर्यादा` इत्यमरः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002981,
+    "chapter_id": 6587,
+    "verse_number": "11.8",
+    "content_sanskrit": "वीचिलोलभुजयोस्तयोर्गतं शैशवाञ्चपलमप्यशोभत । तोयदागम इवोद्ध्यभिद्ययोर्नामधेयसदृशं विचेष्टितम् ॥",
+    "padaccheda": "वीचिलोलभुजयोः । तयोः । गतम् । शैशवात् । चपलम् । अपि । अशोभत । तोयदागमे । इव । उद्ध्यभिद्ययोः । नामधेयसदृशम् । विचेष्टितम्",
+    "anvaya": "वीचिलोलभुजयोः तयोः शैशवात् चपलं अपि गतम् तोयदागमे उद्ध्यभिद्ययोः नामधेयसदृशं विचेष्टितम् इव अशोभत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The gait of the two brothers, though unsteady due to their childhood, looked beautiful with their arms swaying like waves. Their movement resembled the behavior of the rivers Uddhya and Abhidya during the monsoon, which act according to their names (breaking and rising).",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002981,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वीचीति॥ विचिलोलभुजयोस्तरङ्गचञ्चलबाह्वोः। इदं विशेषणं नदोपमानसिद्ध्यर्थं वेदितव्यम्। तयोश्चपलं चञ्चलमपि गतं गतिः शैशवाद्धेतोरशोभत। किमिव? तोयदागमे वर्षासमये। उज्झत्युदकमित्युद्ध्यः। भिनत्ति कूलमिति भिद्यः, `भिद्योद्ध्यौ नदे` (पा.3।1।115) इति क्यबन्दौ निपातितौ। उद्ध्यभिद्ययोर्नदविशेषयोर्नामधेयसदृशं नामानुरूपं विचेष्टितमिव उदकोज्झन-कूलभेदनरूपव्यापार इव। समयोत्पन्नं चापलमपि शोभत इति भावः ॥"
+    }
+  ]
+}

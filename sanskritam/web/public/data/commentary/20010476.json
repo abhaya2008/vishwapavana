@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010476,
+    "chapter_id": 6674,
+    "verse_number": "2.56",
+    "content_sanskrit": "रत्नाकरे स आस्थाने पल्यङ्के शेषपाण्डरे । शंखचक्राङ्कितकरो निषसादांबुजेक्षणः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010476,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उपमाश्लेषसङ्करोयम् । पाण्डर इत्युपमा । रत्नाकर इत्यादि श्लेषः ॥"
+    }
+  ]
+}

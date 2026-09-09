@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002695,
+    "chapter_id": 6583,
+    "verse_number": "7.56",
+    "content_sanskrit": "रथी निषङ्गी कवची धनुष्मान्दृप्तः स राजन्यकमेकवीरः । निवारयामास महावराहः कल्पक्षयोद्वृत्तमिवार्णवाम्भः ॥",
+    "padaccheda": "रथी । निषङ्गी । कवची । धनुष्मान् । दृप्तः । सः । राजन्यकम् । एकवीरः । निवारयामास । महावराहः । कल्पक्षयोद्वृत्तम् । इव । अर्णवाम्भः",
+    "anvaya": "रथी, निषङ्गी, कवची, धनुष्मान्, दृप्तः, एकवीरः सः (अजः) राजन्यकम् निवारयामास, महावराहः कल्पक्षय-उद्वृत्तम् अर्णव-अम्भः इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That proud, sole hero Aja—equipped with a chariot, quiver, armor, and bow—single-handedly held back the host of kings, just as the great cosmic boar (Vishnu's incarnation) held back the waters of the ocean swelling at the end of an eon.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002695,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रथीति॥ रथी रथारूढो निषङ्गी तूणीरवान्। `तूणोपासङ्गतूणीरनिषङ्गा इषुधिर्द्वयोः` इत्यमरः (अ.को.2|8|88)। कवची वर्मधरो धनुष्मान् धनुर्धरो दृप्तो रणदृप्त एकवीरोऽसहायशूरः सोऽजो राजन्यकं राजसमूहम्। `गोत्रोक्ष-` (पा.4।2।39) इत्यादिना वुञ्प्रत्ययः। महावराहो वराहावतारो विष्णुः कल्पक्षये कल्पान्तकाल उद्वृत्तमुद्वेलमर्णवाम्भ इव। निवारयामास ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011959,
+    "chapter_id": 6687,
+    "verse_number": "15.56",
+    "content_sanskrit": "अद्य मे खाण्डवप्रस्थप्रस्थानेनोत्सुकं मनः । स्वजने कः स्वदेशे च चिरदृष्टे न विक्लबः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011959,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रस्थानेनोत्सुकमिति । “प्रसितोत्सुकाभ्यां तृतीया च” (पा.२|३|४४) इति तृतीया ॥ चकारात् सप्तमी च ॥"
+    }
+  ]
+}

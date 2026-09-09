@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003879,
+    "chapter_id": 6598,
+    "verse_number": "3.37",
+    "content_sanskrit": "ददौ रसात्पङ्कजरेणुगन्धि गजाय गण्डूषजलं करेणुः । अर्धोपभुक्तेन बिसेन जायां संभावयामास रथाङ्गनामा ॥",
+    "padaccheda": "ददौ । रसात् । पङ्कजरेणुगन्धि । गजाय । गण्डूषजलम् । करेणुः । अर्धोपभुक्तेन । बिसेन । जायाम् । संभावयामास । रथाङ्गनामा",
+    "anvaya": "करेणुः रसात् गजाय पङ्कज-रेणु-गन्धि गण्डूष-जलम् ददौ । रथाङ्ग-नामा अर्ध-उपभुक्तेन बिसेन जायाम् संभावयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The female elephant affectionately gave a mouthful of water, fragrant with lotus pollen, to the male elephant. The Chakravaka bird honored his mate with a lotus stalk that he himself had half-eaten.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003879,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ददाविति । रसादतिरागात्करेणुः करिणी । `करेणुरिभ्यां स्त्री नेभे` इत्यमरः (अ.को.3|3|59) । पङ्काज्जायत इति पङ्कजं तस्य रेणुः पङ्कजरेणुस्तस्य गन्धोऽस्यास्तीति पङ्कजेरणुगन्धि गण्डूषजलं मुखान्तर्धृतजलं गजाय ददौ । रथाङ्गनामा चक्रवाकोऽर्धं यथातथोपभुक्तेनार्द्धजग्धेन बिसेन जायां संभावयामास । स्वजग्धशेषं ददावित्यर्थः"
+    }
+  ]
+}

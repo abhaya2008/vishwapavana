@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004067,
+    "chapter_id": 6601,
+    "verse_number": "6.17",
+    "content_sanskrit": "यदध्यक्षेण जगतां वयमारोपितास्त्वया । मनोरथस्याविषयं मनोविषयमात्मनः ॥",
+    "padaccheda": "यत् । अध्यक्षेण । जगताम् । वयम् । आरोपिताः । त्वया । मनोरथस्य । अविषयम् । मनोविषयम् । आत्मनः",
+    "anvaya": "यत् जगताम् अध्यक्षेण त्वया वयम् आत्मनः मनोरथस्य अविषयम् मनः-विषयम् आरोपिताः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Because we have been raised by you, the overseer of the worlds, to a state that is the object of your mind, a state that was beyond the scope of our own wishful thinking.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004067,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यदिति । यद्यस्मात्कारणाज्जगतामध्यक्षेणाधिपेन त्वया वयं मनोरथस्याभिलाषस्याविषयमगोचरमात्मनः स्वस्य मनोविषयं मनोदेशमारोपिताः प्रापिताः । तस्माद्विपक्वं फलमिति पूर्वेण संबन्धः । `सकलजगदन्वेष्टव्यस्य भगवतोऽपि वयमन्वेष्या भवाम; इति परमोत्कृष्टा वयमिति भावः"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014303,
+    "chapter_id": 6708,
+    "verse_number": "16.23",
+    "content_sanskrit": "पितृकृता जनिरस्य शरीरिणः समवनं गदहारिषु तिष्ठति । जनितमप्यफलं भिषजं विना भिषगसौ हरिरेव तनूभृतः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014303,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "जनिर्जन्मावनं पालनं तस्मादसौ वैद्यः शरीरभृतो विष्णुरेव तद्वदुपासनीय इत्यर्थः ॥ २५ ॥ ॥ २५ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014303,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "जनितमपीति । शरीरमित्यार्थिकम्"
+    }
+  ]
+}

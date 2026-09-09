@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003358,
+    "chapter_id": 6591,
+    "verse_number": "15.22",
+    "content_sanskrit": "ऐन्द्रमस्त्रमुपादाय शत्रुघ्नेन स ताडितः । सिकतात्वादपि परां प्रपेदे परमाणुताम् ॥",
+    "padaccheda": "ऐन्द्रम् । अस्त्रम् । उपादाय । शत्रुघ्नेन । स । ताडितः । सिकतात्वात् । अपि । पराम् । प्रपेदे । परमाणुताम्",
+    "anvaya": "शत्रुघ्नेन ऐन्द्रम् अस्त्रम् उपादाय ताडितः सः (उपलः) सिकतात्वात् अपि पराम् परमाणुताम् प्रपेदे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Struck by the missile of Indra, which Shatrughna had taken up, that rock attained a state of atomic dust, even finer than sand.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003358,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ऐन्द्रमिति॥ स महोपलः शत्रुघ्नेनैन्द्रमिन्द्रदेवताकमस्त्रमुपादाय ताडितोऽभिहतः सन्। सिकतात्वात्सिकताभावादपि परां परमाणुतां प्रपेदे। यतोऽणुर्नास्ति स परमाणिरित्याहुः ॥"
+    }
+  ]
+}

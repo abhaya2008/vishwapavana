@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011879,
+    "chapter_id": 6686,
+    "verse_number": "14.103",
+    "content_sanskrit": "पनायन्तः प्रियैस्सूक्तैरन्वीयुस्तं सुरर्षयः । सर्वेऽनुसस्रुर्गीर्वाणास्सूर्यवैश्वानरादयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011879,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पनायन्तः स्तुवन्तः । प्रियैस्सूक्तैः । याजातीयादिभिः अन्वीयुः अनुसस्रुः । 'दीर्घ इणः किति (पा.७|४|६९) चेत्यभ्यासस्य दीर्घः ॥"
+    }
+  ]
+}

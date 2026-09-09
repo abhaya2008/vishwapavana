@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002387,
+    "chapter_id": 6579,
+    "verse_number": "3.68",
+    "content_sanskrit": "तमभ्यनन्दत्प्रथमं प्रबोधितः प्रजेश्वरः शासनहारिणा हरेः । परामृशन्हर्षजडेन पाणिना तदीयमङ्गं कुलिशव्रणाङ्कितम् ॥",
+    "padaccheda": "तम् । अभ्यनन्दत् । प्रथमम् । प्रबोधितः । प्रजेश्वरः । शासनहारिणा । हरेः । परामृशन् । हर्षजडेन । पाणिना । तदीयम् । अङ्गम् । कुलिशव्रणाङ्कितम्",
+    "anvaya": "हरेः शासन-हारिणा प्रथमम् प्रबोधितः प्रजा-ईश्वरः, हर्ष-जडेन पाणिना तदीयम् कुलिश-व्रण-अङ्कितम् अङ्गम् परामृशन् तम् अभ्यनन्दत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lord of subjects (King Dilipa), having been first informed by Indra's messenger, congratulated him (Raghu). He did so while stroking with a hand numb with joy Raghu's body, which was marked with the wound from the thunderbolt.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002387,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ हरेरिन्द्रस्य शासनहारिणा पुरुषेण प्रथमं प्रबोधितो ज्ञापितः। वृत्तान्तमिति शेषः। प्रजेश्वरो दिलीपो हर्षजडेन हर्षजडेन हर्षशिशिरेण पाणिना कुलिशव्रणाङ्कितम्। तस्य रघोरिदं तदीयम्। अङ्गं शरीरं परामृशन्, तं रघुमभ्यनन्दत् ॥"
+    }
+  ]
+}

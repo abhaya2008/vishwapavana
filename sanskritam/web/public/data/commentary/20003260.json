@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003260,
+    "chapter_id": 6590,
+    "verse_number": "14.11",
+    "content_sanskrit": "सौमित्रिणा सावरजेन मन्दमाधूतबालव्यजनो रथस्थः । धृतातपत्रो भरतेन साक्षादुपायसंघात इव प्रवृद्धः ॥",
+    "padaccheda": "सौमित्रिणा । सावरजेन । मन्दम् । आधूतबालव्यजनः । रथस्थः । धृतातपत्रः । भरतेन । साक्षात् । उपायसंघातः । इव । प्रवृद्धः",
+    "anvaya": "स-अवरजेन सौमित्रिणा मन्दम् आधूत-बालव्यजनः, भरतेन धृत-आतपत्रः, रथ-स्थः (रामः) साक्षात् प्रवृद्धः उपाय-संघातः इव (बभौ)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Seated in his chariot, with Lakshmana (accompanied by Shatrughna) gently waving the chowrie fan and Bharata holding the royal umbrella, Rama appeared like the personification of the four political expedients (Sama, Dana, Bheda, Danda) fully augmented and working in concert.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003260,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सौमित्रिणेति॥ सावरजेन शश्रुघ्नयुक्तेन सौमित्रिणा लक्ष्मणेन मन्दमाधूते बालव्यजने चामरे यस्य स रथस्थो भरतेन धृतातपत्र एवं चतुर्व्यीहो रामः प्रवृद्धः साक्षादुपायानां सामादीनां संघातः समष्टिरिव। `विवेश`इति पूर्वेण संबन्धः ॥"
+    }
+  ]
+}

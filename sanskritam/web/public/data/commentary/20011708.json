@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011708,
+    "chapter_id": 6685,
+    "verse_number": "13.44",
+    "content_sanskrit": "सखापि ते पुराणोऽहं मायया प्रावृतस्त्वया । पुरस्तादस्मरन्न त्वां स्मृतवांस्त्वद्य बोधितः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011708,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पुरस्तात् पूर्वस्मिन् काले । अस्मरं न त्वामिति । कर्मत्वविवक्षायां द्वितीया ॥"
+    }
+  ]
+}

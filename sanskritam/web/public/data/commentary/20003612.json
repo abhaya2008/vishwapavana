@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003612,
+    "chapter_id": 6594,
+    "verse_number": "18.4",
+    "content_sanskrit": "पौत्रः कुशस्यापि कुशेशयाक्षः ससागरां सागरधीरचेताः । एकातपत्रां भुवमेकवीरः पुरार्गलादीर्घभुजो बुभोज ॥",
+    "padaccheda": "पौत्रः । कुशस्य । अपि । कुशेशयाक्षः । ससागराम् । सागरधीरचेताः । एकातपत्रां । भुवम् । एकवीरः । पुरार्गलादीर्घभुजः । बुभोज",
+    "anvaya": "कुशस्य पौत्रः अपि, कुशेशयाक्षः, सागरधीरचेताः, पुरार्गलादीर्घभुजः, एकवीरः (सः) ससागरां एकातपत्रां भुवम् बुभोज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Nishadha, the grandson of Kusha, who was lotus-eyed, whose mind was as steady as the ocean, whose long arms resembled city gate-bars, and who was the sole hero, ruled the entire earth with its oceans under a single royal umbrella.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003612,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पौत्र इति॥ कुशेशयाक्षः शतपत्रलोचनः। `शतपत्रं कुशेशयम्` इत्यमरः (अ.को.1|10|40)। सागरधीरचेताः समुद्रगम्भीरचित्त एकवीरोऽसहायशूरः। पुरस्यार्गला कपाटविष्कम्भः। `तद्विष्कम्भोऽर्गलं न ना` इत्यमरः (अ.को.2|2|18)। तद्वद्दीर्घभुजः कुशस्य पौत्रो निषधोऽपि ससागरामेकातपत्रां भुवं बुभोज पालयामास। `भुजोऽनवने` (पा.1।3।66) इति नियमात् परस्मैपदम् ॥"
+    }
+  ]
+}

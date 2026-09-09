@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003343,
+    "chapter_id": 6591,
+    "verse_number": "15.7",
+    "content_sanskrit": "यः कश्चन रघूणां हि परमेकः परंतपः । अपवाद इवोत्सर्गं व्यावर्तयितुमीश्वरः ॥",
+    "padaccheda": "यः । कः । चन । रघूणाम् । हि । परम् । एकः । परंतपः । अपवादः । इव । उत्सर्गम् । व्यावर्तयितुम् । ईश्वरः",
+    "anvaya": "हि रघूणाम् यः कः चन एकः परंतपः परम् अस्ति, सः अपवादः उत्सर्गम् इव व्यावर्तयितुम् ईश्वरः अस्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For any single one of the Raghus who is a scorcher of foes is capable of superseding all others, just as a single grammatical exception (apavada) is capable of setting aside a general rule (utsarga).",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003343,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "य इति॥ हि यस्मात्। पराञ्छत्रूंस्तापयतीति परंतपः। `द्विषत्परयोस्तापेः` (पा.3।2।39) इति खच्प्रत्ययः। `खचि ह्रस्वः` (पा.6।4।94) इति ह्रस्वः। रघूणां मध्ये यः कश्चनैकः। अपवादो विशेषशास्त्रमुत्सर्गं सामान्यशास्त्रमिव। परं शत्रुं व्यावर्तयितुं बाधितुमीश्वरः समर्थः। अतः शत्रुघअनमेवादिदेशेति पूर्वेणान्वयः ॥"
+    }
+  ]
+}

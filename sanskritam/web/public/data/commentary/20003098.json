@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003098,
+    "chapter_id": 6588,
+    "verse_number": "12.32",
+    "content_sanskrit": "रावणावरजा तत्र राघवं मदनातुरा । अभिपेदे निदाघार्ता व्यालीव मलयद्रुमम् ॥",
+    "padaccheda": "रावणावरजा । तत्र । राघवम् । मदनातुरा । अभिपेदे । निदाघार्ता । व्याली । इव । मलयद्रुमम्",
+    "anvaya": "तत्र मदनातुरा रावणावरजा निदाघार्ता व्याली मलयद्रुमम् इव राघवम् अभिपेदे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, Ravana's younger sister, Surpanakha, overcome with lust, approached Rama just as a female serpent distressed by summer heat seeks refuge in a sandalwood tree of the Malaya mountains.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003098,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रावणावरजेति॥ तत्र पञ्चवट्यां मदनातुरा रावणावरजा शूर्पणखा। `पूर्वपदात्संज्ञायामगः` (पा.8।4।3)इति णत्वम्। राघवम्। निदाघार्ता घर्मतप्ता व्याकुला व्याली भुजंगी मलयद्रुमं चन्दनद्रुममिव। अभिपेदे प्राप ॥"
+    }
+  ]
+}

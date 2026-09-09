@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002832,
+    "chapter_id": 6585,
+    "verse_number": "9.27",
+    "content_sanskrit": "नयगुणोपचितामिव भूपतेः सदुपकारफलां श्रियभर्थिनः । अभिययुः सरसो मधुसंभृतां कमलिनीमलिनीरपतत्रिणः ॥",
+    "padaccheda": "नयगुणोपचिताम् । इव । भूपतेः । सदुपकारफलां । श्रियम् । अर्थिनः । अभिययुः । सरसः । मधुसंभृतां । कमलिनीम् । अलिनीरपतत्रिणः",
+    "anvaya": "अर्थिनः भूपतेः नयगुणोपचितां सदुपकारफलां श्रियम् इव, अलिनीरपतत्रिणः सरसः मधुसंभृतां कमलिनीम् अभिययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as supplicants approach the prosperity of a king, which is enhanced by virtues like good policy and yields the fruit of good deeds, so did bees and water-birds approach the lotus plant of the lake, which was filled with nectar.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002832,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नयेति॥ नयो नीतिरेव गुणः। तेन। अथवा, -नयेन गुणैः शौर्यादिभिश्चोपगचिताम्। सतामुपकारः फलं यस्यास्तां सदुपकारफलां भूपतेर्दशरथस्य श्रियमर्थिन इव। मधुना वसन्तेन संभृतां सम्यक्पुष्टां सरसः संबन्धिनीं कमलिनीं पद्मिनीमलिनीरपतत्रिणः । अलयो मृङ्गान्। नीरपतत्रिणो जलपतत्रिणो हंसादयस्च। अभिययुः ॥"
+    }
+  ]
+}

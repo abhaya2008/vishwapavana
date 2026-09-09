@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003057,
+    "chapter_id": 6587,
+    "verse_number": "11.84",
+    "content_sanskrit": "न प्रहर्तुमलमस्मि निर्दयं विप्र इत्यभिभवत्यपि त्वयि । शंस किं गतिमनेन पत्रिणा हन्मि लोकमुत ते मखार्जितम् ॥",
+    "padaccheda": "न । प्रहर्तुम् । अलम् । अस्मि । निर्दयम् । विप्रः । इति । अभिभवति । अपि । त्वयि । शंस । किम् । गतिम् । अनेन । पत्रिणा । हन्मि । लोकम् । उत । ते । मखार्जितम्",
+    "anvaya": "त्वयि अभिभवति अपि, (त्वम्) विप्रः इति (हेतोः) निर्दयम् प्रहर्तुम् अलम् न अस्मि । शंस, अनेन पत्रिणा किम् ते गतिम् हन्मि उत मखार्जितम् लोकम् (हन्मि) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama said, \"Even though you assail me, I am not able to strike you mercilessly, because you are a Brahmin. Tell me, with this arrow, shall I destroy your power of movement, or the heavenly realms you have earned through sacrifices?\"",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003057,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति॥ अभिभवत्यपि त्वयि। विप्र इति हेतोः। निर्दयं प्रहर्तुमलं शक्तो नास्मि। किं त्वनेन पत्रिणा शरेण ते गतिं गमनं हन्मि, उत मखार्जितं लोकं स्वर्गं हन्मि शंस ब्रूहि ॥"
+    }
+  ]
+}

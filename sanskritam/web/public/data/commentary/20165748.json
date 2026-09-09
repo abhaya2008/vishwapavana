@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165748,
+    "chapter_id": 7066,
+    "verse_number": "14.100",
+    "content_sanskrit": "मिमेह रक्तं हस्त्यश्वं राक्षसाश्च नितिष्ठिवुः । ततः शुशुभतुः सेने निर्-दयं च प्रजह्रतुः ॥",
+    "padaccheda": "मिमेह । रक्तम् । हस्ति-अश्वम् । राक्षसाः । च । नितिष्ठिवुः । ततः । शुशुभतुः । सेने । निर्-दयम् । च । प्रजह्रतुः",
+    "anvaya": "हस्ति-अश्वम् रक्तम् मिमेह राक्षसाः च नितिष्ठिवुः। ततः सेने शुशुभतुः निर्-दयम् प्रजह्रतुः च।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The elephants and horses passed blood, and the demons spat repeatedly. Then the two armies looked splendid and struck each other mercilessly.",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165748,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मिमेहेत्यादि - हस्त्यश्वं कर्तृ रक्तं मिमेह मूत्रितवदित्यर्थः । ‘१०६१ । मिह सेचने ।' राक्षसाश्च स्वरक्तं नितिष्ठिवुः निरस्तवन्तः । ततो दुर्निमित्तादनन्तरं ते सेने सन्नद्धे शुशुभतुः शोभितवत्यौ । निर्दयं प्रजहृतुः प्रहृतवत्यौ ॥"
+    }
+  ]
+}

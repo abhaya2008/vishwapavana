@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003165,
+    "chapter_id": 6588,
+    "verse_number": "12.99",
+    "content_sanskrit": "तेन मन्त्रप्रयुक्तेन निमेषार्धादपातयत् । स रावणशिरःपङ्क्तिमज्ञातव्रणवेदनाम् ॥",
+    "padaccheda": "तेन । मन्त्रप्रयुक्तेन । निमेषार्धात् । अपातयत् । सः । रावणशिरःपङ्क्तिम् । अज्ञातव्रणवेदनाम्",
+    "anvaya": "सः मन्त्रप्रयुक्तेन तेन अज्ञातव्रणवेदनाम् रावणशिरःपङ्क्तिम् निमेषार्धात् अपातयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With that weapon empowered by sacred mantras, Rama struck down the entire row of Ravana's heads in less than half a blink of an eye, so swiftly that the heads fell before they could even register the pain of the fatal wound.",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003165,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तेनेति॥ स रामो मन्त्रप्रयुक्तेन तेनास्त्रेणाज्ञातव्रणवेदनामतिशैघ्र्यादननुभूतव्रणदुःखां रावणशिरःपङ्क्तिं निमेषार्धादपातयत् पातयामास ॥"
+    }
+  ]
+}

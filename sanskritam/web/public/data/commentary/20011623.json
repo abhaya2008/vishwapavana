@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011623,
+    "chapter_id": 6684,
+    "verse_number": "12.75",
+    "content_sanskrit": "स्वेदोदबिन्दवश्श्यामं पार्थस्याऽविभ्रजन्नुरः । शरद्गलितजीमूतमन्तरिक्षमिव ग्रहाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011623,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अविभ्रजन्निति ह्रस्वपक्षः ॥"
+    }
+  ]
+}

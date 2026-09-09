@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166057,
+    "chapter_id": 7070,
+    "verse_number": "18.19",
+    "content_sanskrit": "हविर्जक्षिति निःशङ्को मखेषु मधवानसौ । प्रवाति स्वेच्छया वायुरुद्गच्छति च भास्करः ॥",
+    "padaccheda": "हविः । जक्षिति । निःशङ्कः । मखेषु । मघवान् । असौ । प्रवाति । स्व-इच्छया । वायुः । उद्गच्छति । च । भास्करः",
+    "anvaya": "असौ मघवान् मखेषु निःशङ्कः हविः जक्षिति । वायुः स्व-इच्छया प्रवाति, भास्करः च उद्गच्छति ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Now, Indra eats the sacrificial offerings in rituals without fear. The wind blows at its own will, and the Sun rises freely.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166057,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "हविरित्यादि - असौ मघवान् इन्द्रः मखेषु यज्ञेषु हविराज्यादिकमधुना जक्षिति भक्षयति । रुदादिभ्यः ' इतीट् । वायुश्च स्वेच्छया प्रवाति गच्छति । 'पवते' इति पाठान्तरं पवित्रीकरोतीत्यर्थः । भास्करश्च यथे- टमुद्गच्छति उदेति ॥"
+    }
+  ]
+}

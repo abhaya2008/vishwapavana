@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002312,
+    "chapter_id": 6578,
+    "verse_number": "2.68",
+    "content_sanskrit": "तस्याः प्रसन्नेन्दुमुखः प्रसादं गुरुर्नृपाणां गुरवे निवेद्य । प्रहर्षचिह्नानुमितं प्रियायै शशंस वाचा पुनरुक्तयेव ॥",
+    "padaccheda": "तस्याः । प्रसन्नेन्दुमुखः । प्रसादम् । गुरुः । नृपाणाम् । गुरवे । निवेद्य । प्रहर्षचिह्नानुमितं । प्रियायै । शशंस । वाचा । पुनरुक्तयेव",
+    "anvaya": "नृपाणाम् गुरुः प्रसन्न-इन्दु-मुखः (सन्) तस्याः प्रहर्ष-चिह्न-अनुमितम् प्रसादम् गुरवे निवेद्य, पुनरुक्तया इव वाचा प्रियायै शशंस ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The great king, his face radiant like a clear moon, reported to his guru Vasishtha the cow's favor, which he had inferred from signs of her great joy. He then conveyed the same news to his beloved wife, Sudakshina, with words that seemed almost redundant, as his joy was already evident.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002312,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्या इति॥ प्रसन्नेन्दुरिव मुखं यस्य स नृपाणां गुरुर्दिलीपः प्रहर्षचिह्नैर्मुखरागादिभिरनुमितमभ्यूहितं तस्या धेनोः प्रसादमनुग्रहं प्रहर्षचिह्नैरेव ज्ञातत्वात्पुनरुक्तयेव वाचा गुरवे निवेद्य विज्ञाप्य पश्चात्प्रियायै शशंस । कथितस्यैव कथनं पुनरुक्तिः, न चेह तदस्ति। किंतु चिह्नैः कथितप्रायत्वात्पुनरुक्तयेव स्थितयेवेत्युत्प्रेक्षा ॥"
+    }
+  ]
+}

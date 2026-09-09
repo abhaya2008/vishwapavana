@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004197,
+    "chapter_id": 6602,
+    "verse_number": "7.52",
+    "content_sanskrit": "तम् ऋद्धिमद्बन्धुजनाधिरूढैर्वृन्दैर्गजानां गिरिचक्रवर्ती । प्रत्युज्जगामागमनप्रतीतः प्रफुल्लवृक्षैः कटकैरिव स्वैः ॥",
+    "padaccheda": "तम् । ऋद्धिमत्-बन्धु-जन-अधिरूढैः । वृन्दैः । गजानाम् । गिरि-चक्रवर्ती । प्रति-उज्जगाम । आगमन-प्रतीतः । प्रफुल्ल-वृक्षैः । कटकैः । इव । स्वैः",
+    "anvaya": "आगमन-प्रतीतः गिरि-चक्रवर्ती, ऋद्धिमत्-बन्धु-जन-अधिरूढैः गजानाम् वृन्दैः, प्रफुल्ल-वृक्षैः स्वैः कटकैः इव, तम् प्रति-उज्जगाम।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The emperor of mountains (Himalaya), delighted by his arrival, went forth to receive him. He was accompanied by herds of elephants mounted by his prosperous relatives, appearing like his own mountain slopes adorned with blossoming trees.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004197,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति । आगमनेन शिवागमनेन प्रतीतो हृष्टो गिरिचक्रवर्ती पर्वताधिराजो हिमवानृद्धिमता वस्त्रालङ्कारादिसमृद्धेन बन्धुजनेनाधिरुढैः । अनेन बन्धूनां समसाम्यं सूचितम् । गजानां वृन्दैः प्रफुल्ला विकसितकुसुमा वृक्षा येषु तैः स्वैः स्वकीयैः कटकैर्नितम्बैरिव तं हरं प्रत्युज्जगामाभिययौ । `कटकोऽस्त्री नितम्बोऽद्रेः` इत्यमरः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003516,
+    "chapter_id": 6592,
+    "verse_number": "16.77",
+    "content_sanskrit": "ततः स कृत्वा धनुराततज्यं धनुर्धरः कोपविलोहिताक्षः । गारुत्मतं तीरगतस्तरस्वी भुजंगनाशाय समाददेऽस्त्रम् ॥",
+    "padaccheda": "ततः । सः । कृत्वा । धनुः । आततज्यम् । धनुर्धरः । कोपविलोहिताक्षः । गारुत्मतम् । तीरगतः । तरस्वी । भुजंगनाशाय । समाददे । अस्त्रम्",
+    "anvaya": "ततः तरस्वी धनुर्धरः कोप-विलोहित-अक्षः सः तीर-गतः (सन्) धनुः आतत-ज्यम् कृत्वा भुजंग-नाशाय गारुत्मतम् अस्त्रम् समाददे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the powerful archer Kusha, standing on the riverbank with his eyes red with anger, strung his bow and took up the Garuda missile for the destruction of the serpent.",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003516,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततो धनुर्धरः कोपविलोहिताक्षस्तरस्वी बलवान् स कुशस्तीरगतः सन् धनुराततज्यमधिज्यं कृत्वा भुजंगस्य कुमुदस्य नाशाय गारुत्मतं गरुत्मद्देवताकमस्त्रं समाददे ॥"
+    }
+  ]
+}

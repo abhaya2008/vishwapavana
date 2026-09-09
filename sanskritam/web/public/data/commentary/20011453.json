@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011453,
+    "chapter_id": 6683,
+    "verse_number": "11.30",
+    "content_sanskrit": "प्रविश्यतामिमां तूर्णं यावदीक्षामहे वयम् । रत्नैर्विरचितां त्वष्ट्रा नाकलोकादुपाहुतैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011453,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यावदीक्षामहे इति । 'यावत्पुरानिपात्योर्लट्' (पा.३|३|४) इति भविष्यति लट् । रत्नैर्विरचितत्वं द्रष्टव्यताहेतुः ॥"
+    }
+  ]
+}

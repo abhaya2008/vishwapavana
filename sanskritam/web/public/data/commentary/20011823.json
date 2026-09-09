@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011823,
+    "chapter_id": 6686,
+    "verse_number": "14.47",
+    "content_sanskrit": "यावन्न विजना फेणुर्ह्रीताः कान्तैर्हृतांशुकाः । कान्तास्तावत् परिष्वज्य कान्तास्ताः पफणू रतिम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011823,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "फेणुः पफणुरिति पूर्ववत् । कान्ता इति पदं पूर्वं स्त्रीलिङ्गं परं पुल्लिङ्गम् । फण गतौ ॥ (फणाञ्च सप्तानाम्) (पा.६|४|१२५)"
+    }
+  ]
+}

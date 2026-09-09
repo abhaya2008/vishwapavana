@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004133,
+    "chapter_id": 6601,
+    "verse_number": "6.83",
+    "content_sanskrit": "अस्तोतुः स्तूयमानस्य वन्द्यस्यानन्यवन्दिनः । सुतासंबन्धविधिना भव विश्वगुरोर्गुरुः ॥",
+    "padaccheda": "अस्तोतुः । स्तूयमानस्य । वन्द्यस्य । अनन्यवन्दिनः । सुतासंबन्धविधिना । भव । विश्वगुरोः । गुरुः",
+    "anvaya": "(त्वम्) अस्तोतुः, स्तूयमानस्य, वन्द्यस्य, अनन्य-वन्दिनः विश्व-गुरोः सुता-संबन्ध-विधिना गुरुः भव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Through the sacred bond of your daughter's marriage, become the elder (father-in-law) to the Teacher of the Universe—He who praises none, is praised by all, is worthy of veneration, and venerates no other.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004133,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अस्तोतुरिति । स्वयमन्यस्तोता न भवतीत्यस्तोतुः, किंतु स्तूयमानस्य सर्वस्तुत्यस्य, वन्द्यस्य, जगद्वन्द्यस्य स्वयमन्यं न वन्दत इत्यनन्यवन्दिनो विश्वगुरोर्देवस्य सुतासंबन्धविधिना यौवनसंबन्धाचरणेन गुरुर्भव । यो नान्यं स्तौति न वन्दते तस्यापि त्वं स्तुत्यो वन्द्यश्चेत्यहो तव भाग्यवत्तेत्यर्थः"
+    }
+  ]
+}

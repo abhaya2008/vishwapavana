@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165306,
+    "chapter_id": 7061,
+    "verse_number": "9.133",
+    "content_sanskrit": "कपिर्जगाद-\"दूतोऽहमुपायं तव दर्शने । द्रुम-राक्षस-विध्वंसमकार्षं बुद्धि-पूर्वकम् ॥",
+    "padaccheda": "कपिः । जगाद । दूतः । अहम् । उपायम् । तव । दर्शने । द्रुम-राक्षस-विध्वंसम् । अकार्षम् । बुद्धि-पूर्वकम्",
+    "anvaya": "कपिः जगाद- अहम् दूतः। तव दर्शने उपायम् द्रुम-राक्षस-विध्वंसम् बुद्धि-पूर्वकम् अकार्षम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The monkey Hanumān replied: I am a messenger. I deliberately carried out the destruction of the trees and the Rākṣasas as a calculated means to secure an audience with you.",
+    "audio_url": null,
+    "display_order": 133,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165306,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कपिरित्यादि - तव दर्शने अन्य उपायो नास्तीति बुद्धिपूर्वकं निरूप्य द्रुम-. भङ्गं राक्षसविनाशं च उपायमकार्षं कृतवानस्मीति कपिर्जगाद । अन्यथा दूतो- ऽहमागत इति मदावलिप्तः को मां गणयेत् ? । अतः सदृशमेव मया कृतमिति ॥"
+    }
+  ]
+}

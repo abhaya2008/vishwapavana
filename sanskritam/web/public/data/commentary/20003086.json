@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003086,
+    "chapter_id": 6588,
+    "verse_number": "12.20",
+    "content_sanskrit": "रामोऽपि सह वैदेह्या वने वन्येन वर्तयन् । चचार सानुजः शान्तो वृद्धेक्ष्वाकुव्रतं युवा ॥",
+    "padaccheda": "रामः । अपि । सह । वैदेह्या । वने । वन्येन । वर्तयन् । चचार । सानुजः । शान्तः । वृद्धेक्ष्वाकुव्रतं । युवा",
+    "anvaya": "रामोऽपि सह वैदेह्या वने वन्येन वर्तयन् सानुजः शान्तः युवा वृद्धेक्ष्वाकुव्रतं चचार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama, though a young man, lived calmly in the forest with Sita and his younger brother Lakshmana. Subsisting on forest produce, he practiced the ascetic vows usually reserved for the aged kings of the Ikshvaku lineage.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003086,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राम इति॥ सानुजः शान्तो रामोऽपि वैदेह्या सह वने वन्येन वनभवेन कन्दमूलादिना वर्तयन् वृत्तिं कुर्वञ्जीवन् वृद्धेक्ष्वाकूणां व्रतं वनवासात्मकं युवा यौवनस्थ एव चचार ॥"
+    }
+  ]
+}

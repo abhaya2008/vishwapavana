@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003302,
+    "chapter_id": 6590,
+    "verse_number": "14.53",
+    "content_sanskrit": "अथ व्यवस्थापितवाक्कथंचित्सौमित्रिरन्तर्गतबाष्पकण्ठः । औत्पातिकं मेघ इवाश्मवर्षं महीपतेः शासनमुज्जगार ॥",
+    "padaccheda": "अथ । व्यवस्थापितवाक् । कथंचित् । सौमित्रिः । अन्तर्गतबाष्पकण्ठः । औत्पातिकं । मेघः । इव । अश्मवर्षं । महीपतेः । शासनम् । उज्जगार",
+    "anvaya": "अथ अन्तर्गत-बाष्प-कण्ठः सौमित्रिः कथंचित् व्यवस्थापित-वाक् सन्, मेघः औत्पातिकम् अश्म-वर्षम् इव, महीपतेः शासनम् उज्जगार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Lakshmana, son of Sumitra, his throat choked with suppressed tears, somehow composing his speech, uttered the king's command, just as a portentous cloud releases a shower of stones.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003302,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ कथंचिद्व्यवस्थआपिता प्रकृतिमापादिता वाग्येन सः अन्तर्गतबाष्पः कण्ठो यस्य सः। कण्ठस्तम्भिताश्रुरित्यर्थः। सौमित्रिर्महीपतेः शासनम्। मेघ उत्पाते भवमौत्पातिकमश्मवर्षं शिलावर्षमिव। उज्जगारोद्गीर्णवान्। दारुणत्वेनावाच्यत्वात् `उज्जगार` इत्युक्तम् ॥"
+    }
+  ]
+}

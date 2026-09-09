@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005681,
+    "chapter_id": 6628,
+    "verse_number": "16.3",
+    "content_sanskrit": "विचित्रया चित्रयतेव भिन्नां रुचं रवेः केतनरत्नभासा । महारथौघेन न संनिरुद्धाः पयोदमन्द्रध्वनिना धरित्री ॥",
+    "padaccheda": "विचित्रया । चित्रयता । इव । भिन्नाम् । रुचम् । रवेः । केतनरत्नभासा । महारथौघेन । न । संनिरुद्धा । पयोदमन्द्रध्वनिना । धरित्री",
+    "anvaya": "विचित्रया केतनरत्नभासा रवेः रुचम् भिन्नाम् चित्रयता इव, पयोदमन्द्रध्वनिना महारथौघेन धरित्री न संनिरुद्धा ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The earth is not blocked by a multitude of great chariots, which have a deep rumble like clouds and whose banners, with the lustre of their gems, seem to paint the sun's light with varied colors. (Arjuna notes the absence of a chariot division).",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005681,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तेज इति ॥ पुनश्च । परैररिभिरहार्यमभेद्यं निजं स्वकीयं महत्तेजो वीर्यं मित्रमिव समाश्रित्य । अतएव भीमे भयानकेऽरिरेव दुर्गं तस्मिन्नरिदुर्गे शत्रुसंकटेऽस्खलितस्वभावमचलशीलमुरु महद्धैर्यं भुजालम्बमिव हस्तावष्टम्भमिवासादयन्प्राप्नुवन् । ईदृशे संकटेऽपि महावीरत्वाद्धैर्यमत्यजन्नित्यर्थः ॥ वंशोचितत्वादभिमानवत्या संप्राप्तया सं प्रियतामसुभ्यः । समक्षमादित्सितया परेण वध्वेव कीर्त्या परितप्यमानः"
+    }
+  ]
+}

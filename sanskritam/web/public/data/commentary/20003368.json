@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003368,
+    "chapter_id": 6591,
+    "verse_number": "15.32",
+    "content_sanskrit": "स तौ कुशलवोन्मृष्टगर्भक्लेदौ तदाख्यया । कविः कुळलवावेव चकार किल नामतः ॥",
+    "padaccheda": "सः । तौ । कुशलवोन्मृष्टगर्भक्लेदौ । तदाख्यया । कविः । कुशलवौ । एव । चकार । किल । नामतः",
+    "anvaya": "कविः सः कुश-लव-उन्मृष्ट-गर्भ-क्लेदौ तौ तत्-आख्यया नामतः कुश-लवौ एव चकार किल ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "It is said that the poet Valmiki named the two boys Kusha and Lava, after the Kusha grass and its tip (lava) with which he had wiped away the impurities of their birth.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003368,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स कविर्वाल्मीकिः कुशैर्दर्भैर्लवैर्गोपुच्छलोमभिः। `लवो लवणकिञ्जल्कपक्ष्मगोपुच्छलोमसु` इति वैजयन्ती। उन्मृष्टो गर्भक्लेदो गर्भोपद्रवो ययोस्तौ कुशलवोन्मृष्टगर्भक्लेदौ तौ मैथिलेयौ तेषां कुशानां च लवानां चाख्यया नामतो नाम्ना यथासंख्यं कुशलवावेव चकार किल। कुशोन्मृष्टः कुशः। लवोन्मृष्टो लवः ॥"
+    }
+  ]
+}

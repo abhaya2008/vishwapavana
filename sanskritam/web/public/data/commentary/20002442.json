@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002442,
+    "chapter_id": 6580,
+    "verse_number": "4.53",
+    "content_sanskrit": "तस्यानीकैर्विसर्पद्भिरपरान्तजयोद्यतैः । रामास्त्त्रोत्सारितोऽप्यासीत्सह्यलग्न इवार्णवः ॥",
+    "padaccheda": "तस्य । अनीकैः । विसर्पद्भिः । अपरान्त-जय-उद्यतैः । राम-अस्त्र-उत्सारितः । अपि । आसीत् । सह्य-लग्नः । इव । अर्णवः",
+    "anvaya": "अपरान्त-जय-उद्यतैः विसर्पद्भिः तस्य अनीकैः राम-अस्त्र-उत्सारितः अपि अर्णवः सह्य-लग्नः इव आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With his armies spreading out, intent on conquering the Aparanta region, the ocean—though once driven back by Parashurama's arrow—seemed to cling to the Sahya mountain again, as if pushed back by Raghu's forces.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002442,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ अपरान्तानां पाश्चात्त्यानां जय उद्यतैरुद्युक्तैः। `अपरान्तास्तु पाश्चात्त्यास्ते च सूर्यरिकादयः` इति यादवः। विसर्पद्भिर्गच्छद्भिस्तस्य रघोरनीकैः सैन्यैः। `अनीकं तु रणे सैन्ये` इति विश्वः। अर्णवो रामस्य जामदग्न्यस्यास्त्त्रैरुत्सारितः परिसारितोऽपि सह्यलग्न इवासीत्। सैन्यं द्वितीयोऽर्णव इवादृश्यतेति भावः ॥"
+    }
+  ]
+}

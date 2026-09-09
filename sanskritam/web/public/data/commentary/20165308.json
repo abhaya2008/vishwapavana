@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165308,
+    "chapter_id": 7061,
+    "verse_number": "9.135",
+    "content_sanskrit": "अभिमान-फलं प्रोक्तं यत्त्वया राम-विग्रहे । विनेशुस्तेन शत-शः कुलान्यसुर-रक्षसाम् ॥",
+    "padaccheda": "अभिमान-फलम् । प्रोक्तम् । यत् । त्वया । राम-विग्रहे । विनेशुः । तेन । शत-शः । कुलानि । असुर-रक्षसाम्",
+    "anvaya": "यत् त्वया राम-विग्रहे अभिमान-फलम् प्रोक्तम्, तेन शतशः असुर-रक्षसाम् कुलानि विनेशुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Regarding what you said about the fruit of war with Rāma being prestige, it is because of that very pride that hundreds of clans of Asuras and Rākṣasas have already perished.",
+    "audio_url": null,
+    "display_order": 135,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165308,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अभीत्यादि - ' मा भूद्रामविग्रहे रत्नादिलाभः अभिमानफलं महत्त्वमस्ति' इति यत्त्वया प्रोक्तं तेन निमित्तेन शतशो ऽनेकशः असुररक्षसां कुलानि विनेशुः विनष्टानि ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010786,
+    "chapter_id": 6677,
+    "verse_number": "5.26",
+    "content_sanskrit": "मुनयो न शपन्तेत्र निग्राहस्ते भवत्विति । कञ्चिदत्यपराधेषि समग्रं दधतो दमम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010786,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निग्राह इति । 'आक्रोशेऽवन्योर्ग्रहः' (पा.३|३|४५) इति घञ् ।"
+    }
+  ]
+}

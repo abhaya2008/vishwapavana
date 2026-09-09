@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005602,
+    "chapter_id": 6626,
+    "verse_number": "14.42",
+    "content_sanskrit": "गुरुक्रियारम्भफलैरलंकृतं गतिं प्रतापस्य जगत्प्रमाथिनः । गणाः समासेदुरनीलवाजिनं तपात्यये तोयघना घना इव ॥",
+    "padaccheda": "गुरुक्रियारम्भफलैः । अलंकृतम् । गतिम् । प्रतापस्य । जगत्प्रमाथिनः । गणाः । समासेदुः । अनीलवाजिनम् । तपात्यये । तोयघनाः । घनाः । इव",
+    "anvaya": "तपात्यये तोयघनाः घनाः अनीलवाजिनम् इव, गणाः गुरुक्रियारम्भफलैः अलंकृतं जगत्प्रमाथिनः प्रतापस्य गतिं (तम्) समासेदुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Ganas approached Arjuna, who was the very embodiment of world-scorching valor, adorned with the fruits of his great ascetic undertakings. They gathered around him just as water-laden clouds, at the end of summer, gather around the fire-god Agni.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005602,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "गुर्विति ॥ गुरुभिः क्रियारम्भाणां फलैरलंकृतम् । सफलकर्मारम्भमित्यर्थः । जगत्प्रमाथिनो जगद्विजयिनः प्रतापस्य तेजसो गतिं स्थानम् । अतोऽस्य बहूनामेकलक्ष्यत्वं च युज्यत इति संदर्भाभिप्रायः । पूर्वोक्तविशेषणविशिष्टमनीलवाजिनं श्वेताश्वमर्जुनं गणाः प्रमथास्तपात्यये तोयघनास्तोयभरिताः । वार्षिका इत्यर्थः। घना मेघा इव । महाचलमिति शेषः । समासेदुः । अवापुरित्यर्थः ।।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003184,
+    "chapter_id": 6589,
+    "verse_number": "13.14",
+    "content_sanskrit": "प्रवृत्तमात्रेण पयांसि पातुमावर्तवेगाद्भ्रमता घनेन । आभाति भूयिष्ठमयं समुद्रः प्रमध्यमानो गिरिणेव भूयः ॥",
+    "padaccheda": "प्रवृत्त-मात्रेण । पयांसि । पातुम् । आवर्त-वेगात् । भ्रमता । घनेन । आभाति । भूयिष्ठम् । अयम् । समुद्रः । प्रमध्यमानः । गिरिणा । इव । भूयः",
+    "anvaya": "पयांसि पातुम् प्रवृत्त-मात्रेण आवर्त-वेगात् भ्रमता घनेन अयम् समुद्रः, भूयः गिरिणा प्रमध्यमानः इव, भूयिष्ठम् आभाति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"As a cloud, just beginning to drink water, whirls with the force of a vortex, this ocean appears exceedingly brilliant, as if it is being churned once again by Mount Mandara.\"",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003184,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रवृत्तेति॥ पयांसि पातुं प्रवृत्त एव प्रवृत्तमात्रो न तु पीतवान्, तेन आवर्तवेगात्। `स्यादावर्तोऽम्भसां भ्रमः` इत्यमरः (अ.को.1|10|6)। भ्रमता घनेनायं समुद्रो भूयः पुनरपि गिरिणा मन्दरेण प्रमथ्यमान इव भूयिष्ठमत्यन्तमाभाति ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002373,
+    "chapter_id": 6579,
+    "verse_number": "3.54",
+    "content_sanskrit": "दिलीपसूनोः स बृहद्भुजान्तरं प्रविश्य भीमासुरशोणितोचितः । पपावनास्वादितपूर्वमाशुगः कुतूहलेनेव मनुष्यशोणितम् ॥",
+    "padaccheda": "दिलीपसूनोः । सः । बृहद्भुजान्तरम् । प्रविश्य । भीमासुरशोणितोचितः । पपौ । अनास्वादितपूर्वम् । आशुगः । कुतूहलेन । इव । मनुष्यशोणितम्",
+    "anvaya": "सः भीमासुरशोणितोचितः आशुगः दिलीपसूनोः बृहत्-भुज-अन्तरम् प्रविश्य, अनास्वादितपूर्वम् मनुष्यशोणितम् कुतूहलेन इव पपौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That arrow, accustomed to the blood of fearsome demons, entered the broad chest of Dilipa's son. It drank the human blood, which it had never tasted before, as if out of curiosity.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002373,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दिलीपेति॥ भीमानां भयंकराणामसुराणां शोणिते रुधिरे उचितः परिचितः स इन्द्गमुक्त आशुगः सायको दिलीपसूनो रघोर्बृहद्विशालं भुजान्तरं वक्षः प्रविश्य अनास्वादितपूर्वं पूर्वमनास्वादितम्। सुप्सुपेति समासः। मनुष्यशोणितं कुतूहलेनेव पपौ ॥"
+    }
+  ]
+}

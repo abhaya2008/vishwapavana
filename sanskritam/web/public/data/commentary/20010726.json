@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010726,
+    "chapter_id": 6676,
+    "verse_number": "4.72",
+    "content_sanskrit": "सद्गुच्चित्तास्तमैक्षन्त गात्रैश्शोकेन शद्रुभिः । सेरुर्मनोगुणैः पौरा दारुमर्थानभीप्सितान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010726,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पूर्ववद् रुः । सद्गु सदनशीलं चित्तं येषां ते । शोकेन शीयमानैर्गात्रैरुपलक्षिताः गुणैर्मनस्सेरुः । अभीप्सितानर्थान् दारुं दातारम् ॥"
+    }
+  ]
+}

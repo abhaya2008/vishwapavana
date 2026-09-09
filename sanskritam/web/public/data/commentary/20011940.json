@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011940,
+    "chapter_id": 6687,
+    "verse_number": "15.37",
+    "content_sanskrit": "ऐश्वर्यमतुलं प्राप्य स्मेष्यते न सुहृज्जनैः । पूर्णैःस्मयिष्यते कामैर्ज्ञातिसंबन्धिभिस्तथा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011940,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अजन्तस्य स्मयतेश्रिण्वद्भावाभावपक्षौ ॥"
+    }
+  ]
+}

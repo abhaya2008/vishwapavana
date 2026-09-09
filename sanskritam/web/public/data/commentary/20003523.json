@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003523,
+    "chapter_id": 6592,
+    "verse_number": "16.84",
+    "content_sanskrit": "तदेतदाजानुविलम्बिना ते ज्याघातरेखाकिणलाञ्छनेन । भुजेन रक्षापरिघेण भूमेरुपैतु योगं पुनरंसलेन ॥",
+    "padaccheda": "तत् । एतत् । आजानुविलम्बिना । ते । ज्याघातरेखाकिणलाञ्छनेन । भुजेन । रक्षापरिघेण । भूमेः । उपैतु । योगम् । पुनः । अंसलेन",
+    "anvaya": "तत् एतत् (आभरणम्) ते आजानु-विलम्बिना, ज्या-घात-रेखा-किण-लाञ्छनेन, भूमेः रक्षा-परिघेण, अंसलेन भुजेन पुनः योगम् उपैतु ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Let this ornament again be united with your strong, muscular arm—an arm that reaches down to your knee, is marked with the scar from the bowstring's constant striking, and serves as a protective bolt for the earth.\"",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003523,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥ तदेतदाभरणमाजानुविलम्बिना दीर्घेण। ज्याघातेन या रेखा रेखाकारा ग्रन्थयस्तासां किणं चिह्नं तदेव लाञ्छनं यस्य तेन। भूमे रक्षायाः परिघेण रक्षार्गलेन। `परिघो योगभेदास्त्रमुद्गरेऽर्गलघातयोः` इत्यमरः। अंसलेन बलवता ते भुजेन पुनर्योगं संगतिमुपैतु। एतैर्विशषणैर्महाभाग्यशौर्यधुरंधरत्वबलवत्त्वादि गम्यते ॥"
+    }
+  ]
+}

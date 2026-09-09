@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003666,
+    "chapter_id": 6595,
+    "verse_number": "19.5",
+    "content_sanskrit": "कामिनीसहचरस्य कामिनस्तस्य वेश्मसु मृदङ्गनादिषु । ऋद्धिमन्तमधिकर्द्धिरुत्तरः पूर्वमुत्सवमपोहदुत्सवः ॥",
+    "padaccheda": "कामिनीसहचरस्य । कामिनः । तस्य । वेश्मसु । मृदङ्गनादिषु । ऋद्धिमान् । अधिकर्द्धिः । उत्तरः । पूर्वम् । उत्सवम् । अपोहत् । उत्सवः",
+    "anvaya": "कामिनी-सहचरस्य कामिनः तस्य वेश्मसु मृदङ्ग-नादिषु (सत्सु), अधिक-ऋद्धिः उत्तरः उत्सवः पूर्वम् ऋद्धिमान् तम् उत्सवम् अपोहत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the palaces of that lustful king, who was always in the company of women, amidst the sounds of mṛdaṅga drums, each succeeding festival, being more splendid, eclipsed the previous magnificent one.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003666,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कामिनीति॥ कामिनीसहचरस्य कामिनस्तस्य मृदङ्गनादिषु मृदङ्गनादवत्सु वेश्मस्वधिकर्द्धिः पूर्वस्मादधिकसंभारः उत्तर उत्सवः। ऋद्धिमन्तं साधनसंपन्नं पूर्वमुत्सवमपोहदपानुदत्। उत्तरोत्तराधिका तस्योत्सवपरम्परा वृत्तेत्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010983,
+    "chapter_id": 6678,
+    "verse_number": "6.104",
+    "content_sanskrit": "सुगन्धम्मदसेकेनदलितं वनदन्तिनाम् । सल्लकीपल्लवच्छेद्युतमेतन्महीतलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010983,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दलितमिति प्रत्यवसानार्थस्याधिकरणे क्तः । दल अदने ॥"
+    }
+  ]
+}

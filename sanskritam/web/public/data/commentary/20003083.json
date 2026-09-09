@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003083,
+    "chapter_id": 6588,
+    "verse_number": "12.17",
+    "content_sanskrit": "तमशक्यमपाक्रष्टुं निदेशात्स्वर्गिणः पितुः । ययाचे पादुके पश्चात्कर्तुं राज्याधिदेवते ॥",
+    "padaccheda": "तम् । अशक्यम् । अपाक्रष्टुं । निदेशात् । स्वर्गिणः । पितुः । ययाचे । पादुके । पश्चात् । कर्तुं । राज्याधिदेवते",
+    "anvaya": "स्वर्गिणः पितुः निदेशात् अपाक्रष्टुम् अशक्यम् तम् पश्चात् राज्याधिदेवते कर्तुम् पादुके ययाचे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When it proved impossible to divert Rama from following the command of their deceased father, Bharata finally begged for Rama's sandals to serve as the presiding deities of the kingdom during his absence.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003083,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ स्वर्गिणः पितुर्निदेशादपाक्रष्टुं निवर्तयितुमशक्यं तं रामं पश्चाद्राज्याधिदेवते स्वामिन्यौ कर्तुं पादुके ययाचे याचितवान् ॥"
+    }
+  ]
+}

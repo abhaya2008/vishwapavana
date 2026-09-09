@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002818,
+    "chapter_id": 6585,
+    "verse_number": "9.13",
+    "content_sanskrit": "चरणयोर्नखरागसमृद्धिभिर्मुकुटरन्तमरीचिभिरस्पृशन् । नृपतयः शतशो मरुतो यथा शतमखं तमखण्डितपौरुषम् ॥",
+    "padaccheda": "चरणयोः । नखरागसमृद्धिभिः । मुकुटरत्नमरीचिभिः । अस्पृशन् । नृपतयः । शतशः । मरुतः । यथा । शतमखम् । तम् । अखण्डितपौरुषम्",
+    "anvaya": "यथा मरुतः शतमखम् (नमन्ति), तथा शतशः नृपतयः मुकुटरत्नमरीचिभिः (तस्य) चरणयोः नखरागसमृद्धिभिः (मिलित्वा) अखण्डितपौरुषं तं (दशरथम्) अस्पृशन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as the Maruts bow to Indra, so did hundreds of kings touch him (Dasharatha) of unbroken valor, the rays from their crown-jewels mingling with the rich redness of his toenails as they bowed at his feet.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002818,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चरणयोरिति॥ शतशो नृपतयोऽखण्डितपौरुषं तं दशरथम्। मरुतो देवाः शतमखं यथा शतक्रतुमिव। नखरागेण चरणनखकान्त्या समृद्धिभिः संपादितर्द्धिभिर्मुकुटरत्नमरीचिभिश्चरणयोरस्पृशन्। तं प्रणेमुरित्यर्थः॥"
+    }
+  ]
+}

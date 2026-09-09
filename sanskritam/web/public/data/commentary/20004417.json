@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004417,
+    "chapter_id": 6605,
+    "verse_number": "10.34",
+    "content_sanskrit": "कल्लोलैरुद्गतैरर्वाचीनं तटमभिद्रुतैः । प्रीतेव तमभीयाय स्वर्धुनी जातवेदसम् ॥",
+    "padaccheda": "कल्लोलैः । उद्गतैः । अर्वाचीनम् । तटम् । अभिद्रुतैः । प्रीता । इव । तम् । अभीयाय । स्वर्धुनी । जातवेदसम्",
+    "anvaya": "स्वर्धुनी उद्गतैः अर्वाचीनम् तटम् अभिद्रुतैः कल्लोलैः प्रीता इव तम् जातवेदसम् अभीयाय ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The celestial river Gaṅgā approached Agni as if she were pleased, with her rising waves rushing towards the nearby bank.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004417,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कल्लोलैरिति । स्वर्धुनी गङ्गा प्रीता सती । उद्गतैरानन्दादुद्वेलैरत एवार्वाचीनमर्वागभवं तटमभिद्रुतैः पलायितैः कल्लोलैः कृत्वा तं जातवेदसमभीयायेव संमुखीबभूवेव"
+    }
+  ]
+}

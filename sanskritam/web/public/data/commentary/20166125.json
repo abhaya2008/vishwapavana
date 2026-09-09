@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166125,
+    "chapter_id": 7072,
+    "verse_number": "20.15",
+    "content_sanskrit": "अयं नियोगः पत्युस्ते कार्या नाऽत्र विचारणा । भूषयाऽङ्गं प्रमाणं चेद्रामं गन्तुं यतस्व च ॥",
+    "padaccheda": "अयम् । नियोगः । पत्युः । ते । कार्या । न । अत्र । विचारणा । भूषय । अङ्गम् । प्रमाणम् । चेत् । रामम् । गन्तुम् । यतस्व । च",
+    "anvaya": "अयम् ते पत्युः नियोगः, अत्र विचारणा न कार्या । चेत् रामम् प्रमाणम्, अङ्गम् भूषय गन्तुम् च यतस्व ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"This is the command of your husband; there should be no hesitation here. If Rāma is your authority, adorn your body and strive to go to him.\"",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166125,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अयमित्यादि - तव पत्युरयं नियोगः यत्कृतः स्नानादिव्यापारः । अन वस्तुनि विचारणा न कार्या किमेवं न वेति । एतत्प्रमाणं चेत् भूपयाङ्गं स्नानादि- पूर्वकमलङ्कुरु । रामं गन्तुं यतस्व ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005061,
+    "chapter_id": 6617,
+    "verse_number": "5.44",
+    "content_sanskrit": "स्नपितनवलतातरुप्रवालैरमृतलवस्रुतिशालिभिर्मयूखैः । सततमसितयामिनीषु शम्भो अमलयतीह वनान्तमिन्दुलेखा ॥",
+    "padaccheda": "स्नपितनवलतातरुप्रवालैः । अमृतलवस्रुतिशालिभिः । मयूखैः । सततम् । असितयामिनीषु । शम्भोः । अमलयति । इह । वनान्तम् । इन्दुलेखा",
+    "anvaya": "इह शम्भोः इन्दुलेखा अमृतलवस्रुतिशालिभिः स्नपितनवलतातरुप्रवालैः मयूखैः असितयामिनीषु सततं वनान्तम् अमलयति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Here, on dark nights, the crescent moon on Shiva's head constantly purifies the forest region with its rays. These rays, which flow with drops of nectar, seem to bathe the fresh sprouts of the creepers and trees.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005061,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स्नपितेति ॥ इहाद्रौ शंभोरिन्दुलेखा । स्वपितानि सिक्तानि नवानि लतानां तरूणां  च प्रवालानि यैस्तैः । अमृतलवस्रुत्यामृतबिन्दुनिःस्यन्देन शालन्ते ये तैर्मयूखैः सततं सर्वकालमसितयामिनीषु कृष्णपक्षरात्रिष्वपि वनान्तममलयति धवलयति । अन्यत्र नैतदस्तीति व्यतिरेको व्यज्यते ॥"
+    }
+  ]
+}

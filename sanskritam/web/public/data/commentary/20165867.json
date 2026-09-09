@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165867,
+    "chapter_id": 7067,
+    "verse_number": "15.106",
+    "content_sanskrit": "प्रोदपाति नभस्तेन स च प्रापि महा-गिरिः । यस्मिन्नज्वलिषू रात्रौ महौषध्यः सहस्र-शः ॥",
+    "padaccheda": "प्रोदपाति । नभः । तेन । सः । च । प्रापि । महा-गिरिः । यस्मिन् । अज्वलिषुः । रात्रौ । महा-ओषध्यः । सहस्र-शः",
+    "anvaya": "तेन नभः प्रोदपाति सः महा-गिरिः च प्रापि, यस्मिन् रात्रौ सहस्र-शः महा-ओषध्यः अज्वलिषुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He flew into the sky and reached the great mountain where thousands of potent medicinal herbs glowed brightly during the night.",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165867,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्रोदपातीत्यादि - तेन हनूमता नभः प्रोदपाति उत्पतितम् । स च महा- गिरिस्तेन प्रापि प्राप्तः । कर्मणि लुङ् । यस्मिन् गिरौ महौषध्यः सहस्रशोऽनेकधा रात्रावज्वलिपुः दीप्यन्ते स्म । अतो लान्तस्य |७|२२|' इति वृद्धिः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002780,
+    "chapter_id": 6584,
+    "verse_number": "8.70",
+    "content_sanskrit": "विलपन्निति कोसलाधिपः करुणार्थग्रथितं प्रियां प्रति । अकरोत्पृथिवीरुहानपि स्रुतशाखारसबाष्पदूषितान् ॥",
+    "padaccheda": "विलपन् । इति । कोसलाधिपः । करुणार्थग्रथितम् । प्रियाम् । प्रति । अकरोत् । पृथिवीरुहान् । अपि । स्रुतशाखारसबाष्पदूषितान्",
+    "anvaya": "इति प्रियाम् प्रति करुणार्थग्रथितम् विलपन् कोसलाधिपः पृथिवीरुहान् अपि स्रुतशाखारसबाष्पदूषितान् अकरोत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Lamenting thus towards his beloved with words woven with pathos, the lord of Kosala made even the trees stained with tears, which were the sap flowing from their branches.\"",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002780,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विलपन्निति॥ कोसलानामधिपोऽज इति करुणः शोकरसः स एवार्थस्तेन ग्रथितं संबद्धं यथा तथा प्रियां प्रतीन्दुमतीमुद्दिश्य विलपन्, पृथिवीरुहान् वृक्षानपि स्रुताः शाखारसा मकरन्दा एव बाष्पास्तैर्दूषितानकरोत्। अचेतनानप्यरोदयदित्यर्थः ॥"
+    }
+  ]
+}

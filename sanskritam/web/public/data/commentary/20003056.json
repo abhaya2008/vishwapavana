@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003056,
+    "chapter_id": 6587,
+    "verse_number": "11.83",
+    "content_sanskrit": "तं कृपामृदुरवेक्ष्य भार्गवं राघवः स्खलितवीर्यमात्मनि । स्वं च संहितममोघमाशुगं व्याजहार हरसूनुसंनिभः ॥",
+    "padaccheda": "तम् । कृपामृदुः । अवेक्ष्य । भार्गवम् । राघवः । स्खलितवीर्यम् । आत्मनि । स्वम् । च । संहितम् । अमोघम् । आशुगम् । व्याजहार । हरसूनुसंनिभः",
+    "anvaya": "हरसूनुसंनिभः राघवः आत्मनि स्खलितवीर्यम् तम् भार्गवम् कृपामृदुः अवेक्ष्य, स्वम् संहितम् अमोघम् आशुगम् च (उद्दिश्य) व्याजहार ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Raghava, who resembled Kartikeya, looked with compassion upon Bhargava, whose power had faltered within him. Then, referring to his own unfailing arrow fitted on the bow, he spoke.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003056,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ हरसूनुसंनिभः स्कन्दसमः कृपामृदू राघवः। आत्मनि विषये स्खलितवीर्यं कुण्ठिताशक्तिं तं भार्गवं स्वं स्वकीयं संहितममोघमाशुगं बाणं चावेक्ष्य। व्याजहार बभाषे ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003155,
+    "chapter_id": 6588,
+    "verse_number": "12.89",
+    "content_sanskrit": "जेतारं लोकपालानां स्वमुखैरर्चितेश्वरम् । रामस्तुलितकैलासमरातिं बह्वमन्यत ॥",
+    "padaccheda": "जेतारं । लोकपालानां । स्वमुखैः । अर्चितेश्वरम् । रामः । तुलितकैलासम् । अरातिं । बहु । अमन्यत",
+    "anvaya": "रामः लोकपालानां जेतारं स्वमुखैः अर्चितेश्वरं तुलितकैलासं तम् अरातिं बह्वमन्यत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama highly esteemed his enemy Ravana, acknowledging him as the conqueror of the world-guardians, the one who had worshipped Lord Shiva with his own heads, and the one who had once lifted Mount Kailasa.",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003155,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जेतारमिति॥ लोकपालानामिन्द्रादीनां जेतारम्। `कर्तृकर्मणोः कृति`कैलासमुत्क्षिप्तरुद्रादिं तमेवं शौर्यवीर्यसत्त्वसंपन्नं महावीर्यमरातिं शत्रुं रामो गुणग्राहित्वाज्जेतव्योत्कर्षस्य जेतुः स्वोत्कर्षहेतुत्वाञ्च बह्वमन्यत। साधु मद्विक्रमस्यायं पर्याप्तो विषय इति बहुमानमकरोदित्यर्थः। बह्विति क्रियाविशेषणम् ॥"
+    }
+  ]
+}

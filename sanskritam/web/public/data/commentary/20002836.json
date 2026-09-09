@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002836,
+    "chapter_id": 6585,
+    "verse_number": "9.31",
+    "content_sanskrit": "उपहितं शिशिरापगमश्रिया मुकुलजालमशोभत किंशुके । प्रणयिनीव नखक्षतमण्डनं प्रमदया मदयापितलज्जया ॥",
+    "padaccheda": "उपहितं । शिशिरापगमश्रिया । मुकुलजालम् । अशोभत । किंशुके । प्रणयिनि । इव । नखक्षतमण्डनं । प्रमदया । मदयापितलज्जया",
+    "anvaya": "शिशिरापगमश्रिया किंशुके उपहितं मुकुलजालं, मदयापितलज्जया प्रमदया (उपहितं) प्रणयिनि नखक्षतमण्डनम् इव, अशोभत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The cluster of buds placed upon the Kimshuka tree by the beauty of spring shone brightly, like the decorative nail marks inflicted upon a beloved by a passionate young woman whose shyness has been cast away by intoxication.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002836,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उपहितमिति॥ शिशिरापगमश्रिया वसन्तलक्ष्म्या किंशुके पलाशवृक्षे। `पलाशः किंशुकः पर्णः` इत्यमरः। उपहितं दत्तं मुकुलजालं कुड्यलसंहतिः। मदेन यापितलज्जयाऽपसारितत्रपया प्रमदया प्रणयिनी प्रियतम उपहितं नखक्षतमेव मण्डनं तदिव॥ अशोभत॥"
+    }
+  ]
+}

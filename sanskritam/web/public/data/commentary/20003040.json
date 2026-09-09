@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003040,
+    "chapter_id": 6587,
+    "verse_number": "11.67",
+    "content_sanskrit": "तं पितुर्वधभवेन मन्युना राजवंशनिधनाय दीक्षितम् । बालसूनुरवलोक्य भार्गवं स्वां दशां च विषसाद पार्थिवः ॥",
+    "padaccheda": "बालसूनुः । पार्थिवः । पितुः । वधभवेन । मन्युना । राजवंशनिधनाय । दीक्षितम् । तम् । भार्गवम् । स्वाम् । दशाम् । च । अवलोक्य । विषसाद",
+    "anvaya": "बालसूनुः पार्थिवः पितुः वधभवेन मन्युना राजवंशनिधनाय दीक्षितम् तं भार्गवं स्वां दशां च अवलोक्य विषसाद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "King Daśaratha, the young son of Aja, became deeply despondent upon seeing Paraśurāma. He observed Paraśurāma consecrated by the vow of destroying the entire royal race, driven by the intense anger arising from his father's murder. Comparing his own vulnerable condition and the formidable presence of the sage-warrior, the king felt a profound sense of despair for his sons and his lineage.",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003040,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ पितुर्जमदग्नेर्वधभवेन क्षत्रियकर्तृकवधोद्भवेन मन्युना कोपेन राजवंशानां निधनाय नाशार्थम्। `निधनं स्यात्कुले नाशे` इति विश्वः। दीक्षितम्। प्रवृत्तमित्यर्थः। तं भार्गवं स्वां दशां चावलोक्य बालाः सूनवो यस्य स पार्थिवो विषसाद। स्वस्यातिदौर्बल्याच्छत्रोश्चातिक्रोधात् कांदिशीकोऽभवदित्यर्थः ॥"
+    }
+  ]
+}

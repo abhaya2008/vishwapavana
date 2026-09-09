@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003087,
+    "chapter_id": 6588,
+    "verse_number": "12.21",
+    "content_sanskrit": "प्रभावस्तम्भितच्छायमाश्रितः स वनस्पतिम् । कदाचिदङ्के सीतायाः शिश्ये किंचिदिव श्रमात् ॥",
+    "padaccheda": "प्रभावस्तम्भितच्छायम् । आश्रितः । सः । वनस्पतिम् । कदाचित् । अङ्के । सीतायाः । शिश्ये । किंचित् । इव । श्रमात्",
+    "anvaya": "सः कदाचित् प्रभाव-स्तम्भित-च्छायम् वनस्पतिम् आश्रितः श्रमात् किंचित् इव सीतायाः अङ्के शिश्ये ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Once, Rama, having taken shelter under a large tree whose shade was made stationary by his divine power, slept for a while on Sita's lap as if slightly exhausted from fatigue.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003087,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रभावेति॥ स रामः कदाचित् प्रभावेण स्वमहिम्ना स्तम्भिता स्थिरीकृता छाया यस्य तं वनस्पतिमाश्रितः सन्। किंचिदीषच्छ्रमादिव सीताया अङ्के शिश्ये सुष्वाप ॥"
+    }
+  ]
+}

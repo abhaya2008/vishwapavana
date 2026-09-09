@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011511,
+    "chapter_id": 6683,
+    "verse_number": "11.88",
+    "content_sanskrit": "इन्द्राणीवरुणानीभ्यां भवान्या च समा मुहुः । अर्याण्यः क्षत्रियाण्यस्तं प्रेक्षन्ते स्म स्फुटादराः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011511,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अर्याण्यः क्षत्रियाण्य इति ' अर्यक्षत्रियाभ्यां वा स्वार्थे' इति ङीषानुकौ ॥"
+    }
+  ]
+}

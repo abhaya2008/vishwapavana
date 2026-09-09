@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002972,
+    "chapter_id": 6586,
+    "verse_number": "10.85",
+    "content_sanskrit": "गुणैराराधयामासुस्ते गुरुं गुरुवत्सलाः । तमेव चतुरन्तेशं रत्नैरिव महार्णवाः ॥",
+    "padaccheda": "गुणैः । आराधयामासुः । ते । गुरुं । गुरुवत्सलाः । तम् । एव । चतुरन्तेशम् । रत्नैः । इव । महार्णवाः",
+    "anvaya": "गुरुवत्सलाः ते रत्नैः महार्णवाः इव गुणैः तम् चतुरन्तेशम् एव गुरुं आराधयामासुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Those princes, who were deeply affectionate toward their father, propitiated King Daśaratha—the lord of the earth bounded by four oceans—with their virtues, just as the great oceans honor the lord with jewels.",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002972,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गुणैरिति॥ गुरुवत्सलाः पितृभक्तास्ते कुमारा गुणैर्विनयादिभिर्गुरुं पितरम्। चतुर्णामन्तानां दिगन्तानामीशं चतुरन्तेशम्। `तद्धितार्थ-` (पा.2।1।51) इत्यादिनोत्तरपदसमासः। तं दशरथमेव महार्णवाश्चत्वारो रत्नैरिव। आराधयामासुरानन्दयामासुः ॥"
+    }
+  ]
+}

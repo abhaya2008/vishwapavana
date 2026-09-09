@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011113,
+    "chapter_id": 6679,
+    "verse_number": "7.123",
+    "content_sanskrit": "पालाशस्कन्धकल्पोथ पार्थः पुष्पोपहारवत् । पेशलं पृथिवीशस्य प्रविवेश निवेशनम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 123,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011113,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पालाशेति । 'पलाशादिभ्यो वा' (पा.४|३|१४१) इत्यञ् । सोप्यवयवे, पलाशस्य वृक्षत्वात् । पेशलं चारु । 'चारौ दक्षे च पेशलम्' इत्यमरः ॥"
+    }
+  ]
+}

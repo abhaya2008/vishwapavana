@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010524,
+    "chapter_id": 6674,
+    "verse_number": "2.104",
+    "content_sanskrit": "गृहेषूत्तेपिरे दीपास्तारा दिवि वितेपिरे । समन्धकारेपि बभुर्मणयश्च चराचराः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010524,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उत्तेपिरे वितेपिरे इति । वभासिरे इत्यर्थः । 'उद्विभ्यां तपः' (पा.१|३|२७) इत्यकर्मकात्तपेरात्मनेपदम् । चराचरा इति चराश्च खद्योतादयोऽचराश्च स्फटिकादयः ॥"
+    }
+  ]
+}

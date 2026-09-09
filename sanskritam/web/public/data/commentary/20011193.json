@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011193,
+    "chapter_id": 6680,
+    "verse_number": "8.79",
+    "content_sanskrit": "कार्णवेष्टकिकैः कर्णैर्नैष्किर्कैश्चारुभिर्गलैः । त्वालसन् सहाभीकैर्वालयिक्यं पुराङ्गनाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011193,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मणिमञ्जीरिकादिषु 'संपादिनि' (पा.५|१|९९) इति ठञ् । मणिमञ्जीरादिभिस्संपादिभिः शोभनैर्भूषितैरित्यर्थः ॥"
+    }
+  ]
+}

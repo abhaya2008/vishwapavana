@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165846,
+    "chapter_id": 7067,
+    "verse_number": "15.85",
+    "content_sanskrit": "मत्तेनाऽमारि संप्राप्य शरभाऽस्तां महा-गदाम् । सहस्र-हरिणाऽक्रीडीदतिकायस्ततो रणे ॥",
+    "padaccheda": "मत्तेन । अमारि । संप्राप्य । शरभास्ताम् । महागदाम् । सहस्रहरिणा । अक्रीडीत् । अतिकायः । ततः । रणे",
+    "anvaya": "मत्तेन (महोदरेण) शरभ-आस्तां महा-गदाम् संप्राप्य अमारि । ततः अतिकायः रणे सहस्र-हरिणा अक्रीडीत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The intoxicated Mahodara was killed after being struck by the great mace thrown by Śarabha. Subsequently, Atikāya began to sport in the battle with a chariot drawn by a thousand horses.",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165846,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मत्तेनेत्यादि - शरभेण वानरेणास्तां क्षिप्तां महागदां प्राप्य मत्तेन सुतानां रक्षार्थं प्रेषितेन राक्षसेनामारि मृतम् । भावे लुङ् । ततो ऽनन्तरं अतिकायो राजपुत्रो रणे अक्रीडीत् विहरति स्म । रथेनेति वक्ष्यति । सहस्रं हरयो ऽश्वा यस्य रथस्य ॥"
+    }
+  ]
+}

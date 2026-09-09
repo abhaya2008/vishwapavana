@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002356,
+    "chapter_id": 6579,
+    "verse_number": "3.37",
+    "content_sanskrit": "विभावसुः सारथिनेव वायुना घनव्यपायेन गभस्तिमानिव । बभूव तेनातितरां सुदुःसहः कटप्रभेदेन करीव पार्थिवः ॥",
+    "padaccheda": "विभावसुः । सारथिना । इव । वायुना । घनव्यपायेन । गभस्तिमान् । इव । बभूव । तेन । अतितराम् । सुदुःसहः । कटप्रभेदेन । करी । इव । पार्थिवः",
+    "anvaya": "पार्थिवः तेन, वायुना सारथिना विभावसुः इव, घनव्यपायेन गभस्तिमान् इव, कटप्रभेदेन करी इव, अतितराम् सुदुःसहः बभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With Raghu by his side, King Dilipa became exceedingly formidable, like fire aided by its charioteer, the wind; like the sun after the clouds have passed; and like an elephant in rut with ichor flowing from its temples.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002356,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विभावसुरिति॥ सारथिना सहायभूतेन। एतद्विशेषणमुत्तरवाक्येष्वप्यनुषञ्जनीयम्। वायुना वाभावसुर्वह्रिरिव। `सूर्यवर्नी विभावसू` इत्यमरः। घनव्यपायेन शरत्समयेन सारथिना गभस्तिमान् सूर्य इव। कटो गण्डः। `गण्डः कटो मदोदानम्` इत्यमरः। तस्य प्रभेदः स्फुटनम्। मदोदय इत्यर्थः। तेन करीव। पार्थिवो दिलीपः। तेन रघुणाऽतितरामत्यन्तं सुदुःसहः सुष्ठ्वसह्यो बभूव ॥"
+    }
+  ]
+}

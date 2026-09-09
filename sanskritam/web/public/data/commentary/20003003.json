@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003003,
+    "chapter_id": 6587,
+    "verse_number": "11.30",
+    "content_sanskrit": "इत्यपास्तमखविघ्नयोस्तयोः सांयुगीनमभिनन्द्य विक्रमम् । ऋत्विजः कुलपतेर्यथाक्रमं वाग्यतस्य निरवर्तयन्क्रियाः ॥",
+    "padaccheda": "इति । अपास्तमखविघ्नयोः । तयोः । सांयुगीनम् । अभिनन्द्य । विक्रमम् । ऋत्विजः । कुलपतेः । यथाक्रमम् । वाग्यतस्य । निरवर्तयन् । क्रियाः",
+    "anvaya": "इति अपास्तमखविघ्नयोः तयोः सांयुगीनम् विक्रमम् अभिनन्द्य कुलपतेः ऋत्विजः यथाक्रमम् वाग्यतस्य क्रियाः निरवर्तयन्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having praised the martial prowess of the two princes who had removed all obstacles to the sacrifice, the priests of Sage Viśvāmitra completed the remaining sacrificial rites in the proper order while the Sage remained silent in his vow.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003003,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इत्यपास्तमखविघ्नयोस्तयो राघवयोः। संयुगे रणे साधुः सांयुगीनस्तम्। `प्रतिजनादिभ्यः खञ्` (पा.4।4।99)इति खञ्प्रत्ययः। `सांयुगीनो रणे साधुः` इत्यमरः (अ.को.2|8|77)। विक्रममभिनन्द्य ऋत्विजो याजकाः। वाचि यतो वाग्यतो मौनी तस्य कुलपतेर्मुनिकुलेश्वरस्य क्रियाः क्रतुक्रिया यथाक्रमं निरवर्तयन् निषअपादितवन्तः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011845,
+    "chapter_id": 6686,
+    "verse_number": "14.69",
+    "content_sanskrit": "प्रससत्थ ततो मेऽरिन्नयनञ्च वितेरिथ । चक्रचुञ्चुरहञ्चक्रे तदाद्यमुमुचोऽसुरान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011845,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रससत्थ प्रसीदसि स्म । ‘उपदेशेऽत्वत’ इतीट् (पा.७|२|६२) प्रतिषेधः । वितेरिथ ददासि स्म । तॄ फलभजत्रपश्चेति (पा.६|४|१२२) थलि नित्यमेत्वादि ।"
+    }
+  ]
+}

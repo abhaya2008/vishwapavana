@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014014,
+    "chapter_id": 6706,
+    "verse_number": "14.85",
+    "content_sanskrit": "मनोरथानां न समाप्तिरिष्यते पुनः पुनः संतनुते मनोरथान् । दारानभीप्सुर्यतते दिवानिशं तान्प्राप्य तेभ्यस्तनयानभीप्सति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014014,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "कामवशस्य तु दुःखमेवेत्याह मनोरथानामितिद्वाभ्याम् । तेभ्यो दारेभ्यः॥ ८५ ॥"
+    }
+  ]
+}

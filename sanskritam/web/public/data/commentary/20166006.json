@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166006,
+    "chapter_id": 7069,
+    "verse_number": "17.80",
+    "content_sanskrit": "ततोऽकुष्णाद्दशग्रीवः क्रुद्धः प्राणान्वनौकसाम् ।अगोपायच्च रक्षांसि दिशश्चाऽरीनभाजयत् ॥",
+    "padaccheda": "ततः । अकुष्णात् । दशग्रीवः । क्रुद्धः । प्राणान् । वन-ओकसाम् । अगोपायत् । च । रक्षांसि । दिशः । च । अरीन् । अभाजयत्",
+    "anvaya": "ततः क्रुद्धः दशग्रीवः वन-ओकसाम् प्राणान् अकुष्णात्, रक्षांसि अगोपायत् च, अरीन दिशः अभाजयत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the infuriated Daśagrīva took the lives of the forest-dwellers, protected the Rākṣasas, and made the enemies flee to different directions.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166006,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि - ततो दशग्रीवः क्रुद्धः वनौकसां वानराणां प्राणानकुष्णात् । कुष्टवान् । कुप निष्कर्पे' । रक्षांसि च राक्षसांश्चागोपायत् रक्षितवान् । . गुप्-धूप (पा.३|१|२८) इत्यादिना आयप्रत्ययः । अरींश्च दिशोऽभाजयत् प्रहितवान् ॥"
+    }
+  ]
+}

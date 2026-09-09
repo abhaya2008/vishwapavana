@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166030,
+    "chapter_id": 7069,
+    "verse_number": "17.104",
+    "content_sanskrit": "उभावकृन्ततां केतूनाव्यथेतामुभौ न तौ ।अदीप्येतामुभौ धृष्णू प्रायुञ्जातां च नैपुणम् ॥",
+    "padaccheda": "उभौ । केतून् । अकृन्तताम् । तौ । उभौ । न । अव्यथेताम् । धृष्णू । उभौ । अदीप्येताम् । च । नैपुणम् । प्रायुञ्जाताम्",
+    "anvaya": "उभौ केतून् अकृन्तताम् तौ उभौ न अव्यथेताम् । धृष्णू उभौ अदीप्येताम् च नैपुणम् प्रायुञ्जाताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Both sliced through each other’s banners, yet neither felt any pain. These two bold warriors shone brilliantly and displayed great skill in combat.",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166030,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उभावित्यादि - तावुभौ रामरावणौ केतून् ध्वजानकृन्ततां छिन्नवन्तौ । तावुभौ नाव्यथेतां न व्यथितवन्तौ । उभावदीप्येतां शोभितवन्तौ । धृष्णू च प्रगल्भौ नैपुणं कौशलं प्रायुञ्जतां प्रयुक्तवन्तौ ॥"
+    }
+  ]
+}

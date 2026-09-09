@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002218,
+    "chapter_id": 6577,
+    "verse_number": "1.69",
+    "content_sanskrit": "लोकान्तरसुखं पुण्यं तपोदानसमुद्भवम् । संततिः शुद्धवंश्या हि परत्रेह च शर्मणे ॥",
+    "padaccheda": "लोकान्तरसुखम् । पुण्यम् । तपोदानसमुद्भवम् । सन्ततिः । शुद्धवंश्या । हि । परत्र । इह । च । शर्मणे",
+    "anvaya": "तपः-दान-समुद्भवम् पुण्यं लोक-अन्तर-सुखम् (भवति), शुद्ध-वंश्या संततिः हि इह च परत्र च शर्मणे (भवति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Merit born of penance and charity brings happiness in the next world, but pure-bred progeny brings happiness both in this world and the next.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002218,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लोकान्तरेति॥ समुद्भवत्यस्मादिति समुद्भवः कारणम्। तपोदाने समुद्भवो यस्य तत् तपोदानसमुद्भवं यत्पुण्यं तल्लोकान्तरे परलोके सुखं सुखकरम्। शुद्धवंशे भवा शुद्धवंश्या संततिर्हि परत्र परलोक इह च लोके शर्मणे सुखाय। `शर्मशातसुखानि च` इत्यमरः (अ.को.1|4|26)। भवतीति शेषः॥"
+    }
+  ]
+}

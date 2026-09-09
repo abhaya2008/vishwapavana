@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004434,
+    "chapter_id": 6605,
+    "verse_number": "10.51",
+    "content_sanskrit": "सौभाग्यैः खलु सुप्रापां मोक्षप्रतिभुवं सतीम् । भक्त्यात्र तुष्टुवुस्तां ताः श्रद्दधाना दिवोधुनीम् ॥",
+    "padaccheda": "सौभाग्यैः । खलु । सुप्रापाम् । मोक्षप्रतिभुवम् । सतीम् । भक्त्या । अत्र । तुष्टुवुः । ताम् । ताः । श्रद्दधानाः । दिवोधुनीम्",
+    "anvaya": "ताः खलु श्रद्दधानाः सौभाग्यैः सुप्रापां मोक्षप्रतिभुवं सतीं तां दिवोधुनीं भक्त्या अत्र तुष्टुवुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Kṛttikās, filled with faith and devotion, praised the celestial river Gaṅgā, who is a surety for liberation and easily reached only through great fortunes.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004434,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सौभाग्यैरिति । अत्र ताः कृतिकाः श्रद्दधानाः सत्यः सौभाग्यैः शौभनभाग्यैः सुखेन प्राप्तुं शक्यां मोक्षस्य प्रतिभुवं लग्नकां सतीं पतिव्रतां तां दिवोधुनीं गङ्गां भक्त्या निमित्तेन तुष्टुवुः । भक्तिनिमित्तं स्तवनमित्यर्थः"
+    }
+  ]
+}

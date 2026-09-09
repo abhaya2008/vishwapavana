@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013877,
+    "chapter_id": 6705,
+    "verse_number": "13.23",
+    "content_sanskrit": "यतः करस्थामलकाविशेषं जानाति सिद्धान्तमसावशेषम् । अतोऽह्यमुष्मै भवतैव पूर्व- मदापि हस्तामलकाभिधानम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013877,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "यतः करस्थामलकसदृशं सर्वं सिद्धान्तमेष जानाति । अत एवामुष्मै भवतैव हस्तामलकाभिधानमदायि । उपजातिवृत्तम् ॥ २३ ॥"
+    }
+  ]
+}

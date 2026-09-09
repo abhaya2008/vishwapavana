@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003139,
+    "chapter_id": 6588,
+    "verse_number": "12.73",
+    "content_sanskrit": "पादपाविद्धपरिघः शिलानिष्पिष्टमुद्गरः । अतिशस्त्रनखन्यासः शैलरुग्णमतंगजः ॥",
+    "padaccheda": "पादपाविद्धपरिघः । शिलानिष्पिष्टमुद्गरः । अतिशस्त्रनखन्यासः । शैलरुग्णमतंगजः",
+    "anvaya": "पादपाविद्धपरिघः शिलानिष्पिष्टमुद्गरः अतिशस्त्रनखन्यासः शैलरुग्णमतंगजः (रणः प्रववृते) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The battle was one where iron clubs were struck down by trees, mallets were crushed by rocks, the use of claws surpassed conventional weapons, and war elephants were crushed by mountain peaks.",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003139,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पादपेति॥ किविधो रणः? पादपैर्वृक्षैराविद्धा भग्नाः परिघा लोहबद्धकाष्ठानि यस्मिन्स तथोक्तः। `परिघः परिघातनः` इत्यमरः (अ.को.2|8|91)। शिलाभिर्निष्पिष्टाश्चूर्णिता मुद्गरा अयोघना यस्मिन्स तथोक्तः। `द्रुघणो मुद्गरघनौ` इत्यमरः (अ.को.2|8|91)। अतिशस्त्राः शस्त्राण्यतिक्रान्ता नखान्यासा यस्मिन्स तथोक्तः। शैलै रुग्णा भग्ना मतंगजा यस्मिन्स तथोक्तः ॥"
+    }
+  ]
+}

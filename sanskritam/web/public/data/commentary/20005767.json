@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005767,
+    "chapter_id": 6629,
+    "verse_number": "17.25",
+    "content_sanskrit": "सव्यापसव्यध्वनितोग्रचापं पार्थः किराताधिपमाशशङ्के । पर्यायसम्पादितकर्णतालं यन्ता गजं व्यालमिवापराद्धः ॥",
+    "padaccheda": "सव्यापसव्यध्वनितोग्रचापम् । पार्थः । किराताधिपम् । आशशङ्के । पर्यायसम्पादितकर्णतालम् । यन्ता । गजम् । व्यालम् । इव । अपराद्धः",
+    "anvaya": "अपराद्धः यन्ता व्यालम् गजम् इव, पार्थः सव्यापसव्यध्वनितोग्रचापम् पर्यायसम्पादितकर्णतालम् किराताधिपम् आशशङ्के ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as a mahout who has provoked a rogue elephant apprehends it, Partha (Arjuna) apprehended the Kirata lord, whose fierce bow resounded as he drew it alternately with his left and right hands, producing a sound that reached the ear in turns.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005767,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "सव्येति ॥ पार्थः सव्यापसव्याभ्यां वामदक्षिणगतिभ्यां ध्वनितं नादितमुग्रचापं येन तं किराताधिपम् । अपराद्धः प्रमत्तो यन्ता पर्यायेणायौगपद्येन संपादितः कर्णयोस्ताल आस्फालनं येन तं व्यालं दुष्टम् । `भेद्यलिङ्गःशठे व्यालः` इत्यमरः । गजमिवाशशङ्के । तच्चापचातुर्यदर्शनाद्दुर्जयः कोऽप्ययमनर्थकरश्चेति शङ्कित्तवानित्यर्थः ॥"
+    }
+  ]
+}

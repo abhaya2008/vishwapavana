@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011013,
+    "chapter_id": 6679,
+    "verse_number": "7.23",
+    "content_sanskrit": "आनन्दनमशेषाणां पावनञ्च शरीरिणाम् । सर्वावदातं गंभीरं भागीरथ्या इव ह्रदम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011013,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "श्लेषोलङ्कारः ॥"
+    }
+  ]
+}

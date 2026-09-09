@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166044,
+    "chapter_id": 7070,
+    "verse_number": "18.6",
+    "content_sanskrit": "प्राज्ञास्तेजस्विनः सम्यक्पश्यन्ति च वदन्ति च । तेऽवज्ञाता महाराज ! क्लाम्यन्ति विरमन्ति च ॥",
+    "padaccheda": "प्राज्ञाः । तेजस्विनः । सम्यक् । पश्यन्ति । च । वदन्ति । च । ते । अवज्ञाताः । महाराज । क्लाम्यन्ति । विरमन्ति । च",
+    "anvaya": "प्राज्ञाः तेजस्विनः सम्यक् पश्यन्ति च वदन्ति च । महाराज ! ते अवज्ञाताः क्लाम्यन्ति विरमन्ति च ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The wise and brilliant see things clearly and speak the truth. O Great King! When they are disrespected, they become weary and cease to offer counsel.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166044,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्राज्ञा इत्यादि - ये प्राज्ञाः तेजस्विनः अस्मद्विधाः सम्यगविपरीतं शास्त्र- चक्षुपा पश्यन्ति वदन्ति च सम्यक् । हे महाराज ! अवज्ञातास्ते तिरस्कृताः क्लाम्य- न्ति खिद्यन्ते विरमन्ति च विमुखा भवन्ति । 'तदवज्ञानफलमेतत्' इति भावः ॥"
+    }
+  ]
+}

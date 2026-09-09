@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003039,
+    "chapter_id": 6587,
+    "verse_number": "11.66",
+    "content_sanskrit": "अक्षबीजवलयेन निर्बभौ दक्षिणश्रवणसंस्थितेन यः । क्षत्रियान्तकरणैकविंशतेर्व्याजपूर्वगणनामिवोद्वहन् ॥",
+    "padaccheda": "यः । दक्षिणश्रवणसंस्थितेन । अक्षबीजवलयेन । क्षत्रियान्तकरणैकविंशतेः । व्याजपूर्वगणनम् । इव । उद्वहन् । निर्बभौ",
+    "anvaya": "यः दक्षिणश्रवणसंस्थितेन अक्षबीजवलयेन क्षत्रियान्तकरणैकविंशतेः व्याजपूर्वगणनम् इव उद्वहन् निर्बभौ ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "He shone, wearing a rosary of seeds on his right ear, as if he were performing a preliminary count on a pretext for the twenty-one times he had destroyed the Kṣatriyas.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003039,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अक्षेति॥ यो भार्गवो दक्षिणश्रवणे संस्थितेनाऽक्षबीजवलयेनाक्षमालया क्षत्रियान्तकरणानां क्षत्रियवधानामेकविंशतेरेकविंशतिसंख्याया व्याजोऽक्षमालारूपः पूर्वो यस्यास्तां गणनामुद्वहन्निव निर्बभौ ॥"
+    }
+  ]
+}

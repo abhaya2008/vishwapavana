@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002430,
+    "chapter_id": 6580,
+    "verse_number": "4.41",
+    "content_sanskrit": "द्विषां विषह्य काकुत्स्थस्तत्र नाराचदुर्दिनम् । सन्मङ्गलस्नात इव प्रतिपेदे जयश्रियम् ॥",
+    "padaccheda": "काकुत्स्थः । तत्र । द्विषाम् । नाराचदुर्दिनम् । विषह्य । सत्-मङ्गल-स्नातः । इव । जयश्रियम् । प्रतिपेदे",
+    "anvaya": "काकुत्स्थः तत्र द्विषाम् नाराचदुर्दिनम् विषह्य सत् मङ्गल स्नातः इव जयश्रियम् प्रतिपेदे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having endured the shower of iron arrows from his enemies, Raghu (Kakutstha) attained the glory of victory, as if he had just taken a sacred, auspicious bath after a sacrifice.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002430,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "द्विषामिति॥ काकुत्स्थो रघुस्तत्र महेन्द्राद्रौ द्विषां नाराचदुर्दिनं नाराचानां बाणाविशेषाणां दुर्दिनम्। लक्षणया वर्षमुच्यते। विषह्य सहित्वा सद्यथाशास्त्त्रं मङ्गलस्नात इव विजयमङ्गलार्थमभिषिक्त इव जयश्रियं प्रतिपेदे प्राप। `यत्तु सर्वौषधिस्नानं तन्माङ्गल्यमुदीरितम्`इति यादवः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002379,
+    "chapter_id": 6579,
+    "verse_number": "3.60",
+    "content_sanskrit": "स चापमुत्सृज्य विवृद्धमत्सरः प्रणाशनाय प्रबलस्य विद्विषः । महीध्रपक्षव्यपरोपणोचितं स्फुरत्प्रभामण्डलमस्त्त्रमाददे ॥",
+    "padaccheda": "सः । च । चापम् । उत्सृज्य । विवृद्धमत्सरः । प्रणाशनाय । प्रबलस्य । विद्विषः । महीध्रपक्षव्यपरोपणोचितम् । स्फुरत्प्रभामण्डलम् । अस्त्रम् । आददे",
+    "anvaya": "सः च विवृद्ध-मत्सरः (सन्) चापम् उत्सृज्य, प्रबलस्य विद्विषः प्रणाशनाय महीध्र-पक्ष-व्यपरोपण-उचितम् स्फुरत्-प्रभा-मण्डलम् अस्त्रम् आददे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And he (Indra), with his jealousy greatly inflamed, threw away his bow. For the destruction of his powerful enemy, he took up the missile (Vajra) with its throbbing halo of light, the one fit for severing the wings of mountains.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002379,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ विवृद्धमत्सरः प्रवृद्धवैरः स इन्द्रश्चापमुत्सृज्य प्रबलस्य विद्विषः शत्रोः प्रणाशनाय वधाय। महीं धारयन्तीति महीध्राः पर्वताः। मूलविभुजादित्वात्कप्रत्ययः। तेषां पक्षव्यपरोपणे पक्षच्छेद उचितं स्फुरत्प्रभामण्डलमस्त्त्रं वज्रायुधमाददे जग्राह ॥"
+    }
+  ]
+}

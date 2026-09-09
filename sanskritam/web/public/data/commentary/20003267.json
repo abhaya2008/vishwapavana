@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003267,
+    "chapter_id": 6590,
+    "verse_number": "14.18",
+    "content_sanskrit": "सभाजनायोपगतान्स दिव्यान्मुनीन्पुरस्कृत्य हतस्य शत्रोः । शुश्राव तेभ्यः प्रभवादि वृत्तं स्वविक्रमे गौरवमादधानम् ॥",
+    "padaccheda": "सभाजनाय । उपगतान् । सः । दिव्यान् । मुनीन् । पुरस्कृत्य । हतस्य । शत्रोः । शुश्राव । तेभ्यः । प्रभवादि । वृत्तं । स्वविक्रमे । गौरवम् । आदधानम्",
+    "anvaya": "सः (रामः) सभाजनाय उपगतान् दिव्यान् मुनीन् पुरस्कृत्य, तेभ्यः हतस्य शत्रोः स्व-विक्रमे गौरवम् आदधानं प्रभव-आदि वृत्तं शुश्राव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Honoring the divine sages who had come to congratulate him, Rama listened as they recounted the history of his slain enemy, Ravana, from his origin onwards—a tale that instilled even greater pride in his own valor.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003267,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सभाजनायेति॥ स रामः सभाजनायाभिवन्दनायोपगतान्। दिविभवान्मुनीनगस्त्यादीन्पुरस्कृत्य हतस्य शत्रो रावणस्य प्रभवादि जन्मादिकं स्वविक्रमे गौरवमुत्कर्षमादधानं वृत्तं तेभ्यो मुनिभ्यः शुश्राव श्रुतवान्। विजितोत्कर्षाज्जेतुरुत्कर्ष इत्यर्थः ॥"
+    }
+  ]
+}

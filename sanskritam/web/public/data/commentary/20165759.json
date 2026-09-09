@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165759,
+    "chapter_id": 7066,
+    "verse_number": "14.111",
+    "content_sanskrit": "समीरयांचकाराऽथ राक्षसस्य कपिः शिलाम् । क्षतस्तया ममाराऽसावाशिश्राय च भू-तलम् ॥",
+    "padaccheda": "समीरयांचकार । अथ । राक्षसस्य । कपिः । शिलाम् । क्षतः । तया । ममार । असौ । आशिश्राय । च । भू-तलम्",
+    "anvaya": "अथ कपिः राक्षसस्य शिलाम् समीरयांचकार । तया क्षतः असौ ममार, भू-तलम् आशिश्राय च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the monkey hurled a massive rock at the rākṣasa. Struck by that stone, he died and fell prostrate upon the surface of the earth.",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165759,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "समीरयामित्यादि - अथानन्तरं कपिः राक्षसस्य शिलां समीरयांचकार क्षिप्तवान् । ईर क्षेपे' इति चौरादिक उदात्तेत् । असौ राक्षसस्तया शिलया हतः सन् ममार मृतवान् । भूतलं च आशिवाय आश्रितवान् । पतित इत्यर्थः ॥"
+    }
+  ]
+}

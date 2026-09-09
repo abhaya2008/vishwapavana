@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002703,
+    "chapter_id": 6583,
+    "verse_number": "7.64",
+    "content_sanskrit": "शङ्खस्वनाभिज्ञतया निवृत्तास्तं सन्नशत्रुं ददृशुः स्वयोधाः । निमीलितानामिव पङ्कजानां मध्ये स्फुरन्तं प्रतिमाशशाङ्कम् ॥",
+    "padaccheda": "शङ्खस्वनाभिज्ञतया । निवृत्ताः । तम् । सन्नशत्रुम् । ददृशुः । स्वयोधाः । निमीलितानाम् । इव । पङ्कजानाम् । मध्ये । स्फुरन्तम् । प्रतिमाशशाङ्कम्",
+    "anvaya": "शङ्ख-स्वन-अभिज्ञतया निवृत्ताः स्व-योधाः, निमीलितानाम् पङ्कजानाम् मध्ये स्फुरन्तम् प्रतिमा-शशाङ्कम् इव, सन्न-शत्रुम् तम् ददृशुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His own warriors, who had retreated, recognized the sound of his conch and saw him standing with his enemies subdued. He appeared like the reflection of the moon shining amidst a cluster of closed lotuses.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002703,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शङ्खेति॥ शङ्खस्वनस्याजशङ्खध्वनेरभिज्ञतया प्रत्यभिज्ञातत्वान्निवृत्ताः प्रक्पलाय्य संप्रति प्रत्यागताः स्वयोधाः सन्नशत्रुं निद्राणशत्रुं तमजम्। निमीलितानां मुकुलितानां पङ्कजानां मध्ये स्फुरन्तं प्रतिमा चासौ शशाङ्कश्च तं प्रतिमाशशाङ्कं प्रतिबिम्बचन्द्रमिव ददृशुः ॥"
+    }
+  ]
+}

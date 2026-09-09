@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004119,
+    "chapter_id": 6601,
+    "verse_number": "6.69",
+    "content_sanskrit": "अच्छिन्नामलसंतानाः समुद्रोर्म्यनिवारिताः । पुनन्ति लोकान्पुण्यत्वात्कीर्तयः सरितश्च ते ॥",
+    "padaccheda": "अच्छिन्नामलसंतानाः । समुद्रोर्म्यनिवारिताः । पुनन्ति । लोकान् । पुण्यत्वात् । कीर्तयः । सरितः । च । ते",
+    "anvaya": "ते अच्छिन्नामलसंतानाः समुद्रोर्मि-अनिवारिताः कीर्तयः सरितः च पुण्यत्वात् लोकान् पुनन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Your glories and your rivers, both having unbroken and pure streams and being unimpeded even by the ocean's waves, purify all the worlds by virtue of their inherent sanctity.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004119,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अच्छिन्नेति । अच्छिन्ना अविच्छिन्ना अमलाश्च संतानाः प्रबन्धाः प्रवाहाश्च यासां तस्तथोक्ताः समुद्रोर्मिभिरनिवारिताः । पारगमनादन्तःप्रवेशाच्चेति भावः । ते तव कीर्तयः सरितश्च गङ्गादयः पुण्यत्वात्पवित्रत्वाल्लोकान्पुनन्ति पावयन्ति । लोकपावनाः खलु पुण्यश्लोका इति भावः । केवलप्रकृतविषयस्तुल्ययोगितालङ्कारः"
+    }
+  ]
+}

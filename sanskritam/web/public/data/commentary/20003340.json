@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003340,
+    "chapter_id": 6591,
+    "verse_number": "15.4",
+    "content_sanskrit": "प्रतिशुश्राव काकुत्स्थस्तेभ्यो विघ्नप्रतिक्रियाम् । धर्मसंरक्षणार्थैव प्रवृत्तिर्भुवि शार्ङ्गिणः ॥",
+    "padaccheda": "प्रतिशुश्राव । काकुत्स्थः । तेभ्यः । विघ्नप्रतिक्रियाम् । धर्मसंरक्षणार्था । एव । प्रवृत्तिः । भुवि । शार्ङ्गिणः",
+    "anvaya": "काकुत्स्थः तेभ्यः विघ्नप्रतिक्रियाम् प्रतिशुश्राव। शार्ङ्गिणः प्रवृत्तिः भुवि धर्मसंरक्षणार्था एव भवति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama, the descendant of Kakutstha, promised them a remedy for their troubles. Indeed, the very purpose of the activity of Vishnu (the wielder of the Sharanga bow) on earth is the protection of Dharma.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003340,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रतीति॥ काकुत्स्थो रामस्तेभ्यो मुनिभ्यो विघ्नप्रतिक्रियां लवणवधरूपां प्रतिशुश्राव प्रतिजज्ञे। तथा हि-भुवि शार्ङ्गिणो विष्णोः प्रवृत्ती रामरूपेणावतरणं धर्मसंरक्षणमेवार्थः प्रयोजनं यस्याः सा तथैव ॥"
+    }
+  ]
+}

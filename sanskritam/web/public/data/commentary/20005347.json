@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005347,
+    "chapter_id": 6622,
+    "verse_number": "10.56",
+    "content_sanskrit": "इति विषमितचक्षुषाभिधाय स्फुरदधरोष्ठमसूयया कयाचित् । अगणितगुरुमानलज्जयासौ स्वयमुरसि श्रवणोत्पलेन जघ्ने ॥",
+    "padaccheda": "इति । विषमितचक्षुषा । अभिधाय । स्फुरदधरोष्ठम् । असूयया । कयाचित् । अगणितगुरुमानलज्जया । असौ । स्वयम् । उरसि । श्रवणोत्पलेन । जघ्ने",
+    "anvaya": "इति असूयया विषमित-चक्षुषा स्फुरत्-अधर-ओष्ठम् अभिधाय, कयाचित् अगणित-गुरु-मान-लज्जया असौ स्वयम् उरसि श्रवण-उत्पलेन जघ्ने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having spoken thus with a jealous, sidelong glance that made her lower lip throb, he (Arjuna) was struck on the chest with a lotus from her ear by a certain woman who had cast aside all regard for elders, pride, and shame.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005347,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति ॥ इतीत्थमसूयया मत्सरेण स्फुरन्नधरोष्ठो यस्मिन्कर्मणि तद्यथा तथाभिधायोक्त्वा विषमितचक्षुषा कुटिलीकृतदृष्ट्यागणिता गुरव आचार्यादयो मानोऽभिमानो लज्जा च यया तया कयाचिदसौ मुनिरुरसि स्वयं स्वहस्तेनैव श्रवणोत्पलेन जघ्ने हतः।"
+    }
+  ]
+}

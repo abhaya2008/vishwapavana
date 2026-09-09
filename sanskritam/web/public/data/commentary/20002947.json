@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002947,
+    "chapter_id": 6586,
+    "verse_number": "10.60",
+    "content_sanskrit": "गुप्तं ददृशुरात्मानं सर्वाः स्वप्नेषु वामनैः । जलजासिगदाशार्ङ्गचक्रलाञ्छितमूर्तिभिः ॥",
+    "padaccheda": "गुप्तम् । ददृशुः । आत्मानम् । सर्वाः । स्वप्नेषु । वामनैः । जलजासिगदाशार्ङ्गचक्रलाञ्छितमूर्तिभिः",
+    "anvaya": "सर्वाः स्वप्नेषु जलज-असि-गदा-शार्ङ्ग-चक्र-लाञ्छित-मूर्तिभिः वामनैः आत्मानं गुप्तं ददृशुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In their dreams, all the queens saw themselves being guarded by dwarfs whose forms were marked with the emblems of Vishnu: the lotus, sword, mace, Sharanga bow, and discus.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002947,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गुतमिति॥ सर्वास्ताः स्वप्नेषु। जलजः शङ्खः। जलजासिगदाशार्ङ्गतचक्रैर्लाञ्छिता मूर्तयो येषां तैर्वामनैर्ह्रस्वैः पुरुषैर्गुप्तं रक्षितमात्मानं स्वरूपं ददृशुः ॥"
+    }
+  ]
+}

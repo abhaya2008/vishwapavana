@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002911,
+    "chapter_id": 6586,
+    "verse_number": "10.24",
+    "content_sanskrit": "अजस्य गृह्णतो जन्म निरीहस्य हतद्विपः । स्वपतो जागरूकस्य याथार्थ्यं वेद कस्तव? ॥",
+    "padaccheda": "अजस्य । गृह्णतः । जन्म । निरीहस्य । हतद्विषः । स्वपतः । जागरूकस्य । याथार्थ्यम् । वेद । कः । तव",
+    "anvaya": "(हे) हतद्विषः, अजस्य, जन्म गृह्णतः, निरीहस्य, स्वपतः, जागरूकस्य च तव याथार्थ्यम् कः वेद?",
+    "meaning_sanskrit": "",
+    "meaning_english": "O You who have destroyed Your enemies! Who can truly comprehend the real nature of You, who are unborn yet take birth, inactive yet perform actions, seemingly asleep yet ever-wakeful?",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002911,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अजस्येति॥ न जायत इत्यजः। `अन्येष्वपि दृश्यते` (पा.3।2।101) इति डप्रत्ययः। तस्याजस्य जन्मशून्यस्यापि जन्म गृह्णतः मत्स्यादिरूपेण जायमानस्य। निरीहस्य चेष्टारहितस्यापि हतद्विषः शत्रुघातिनो जागरूकस्य सर्वसाक्षितया नित्यप्रबुद्धस्यापि स्वपतो योगनिद्रामनुभवतः। इत्थं विरुद्धचेष्टस्य तव याथार्थअयं को वेद वेत्ति? `विदो लटो वा` (पा.3।4।84)इति णलादेशः ॥"
+    }
+  ]
+}

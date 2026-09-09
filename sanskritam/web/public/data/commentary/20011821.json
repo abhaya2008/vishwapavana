@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011821,
+    "chapter_id": 6686,
+    "verse_number": "14.45",
+    "content_sanskrit": "त्रेसुरालोक्य शार्दूलानद्रिकुञ्जेषु योषितः । तत्रसुश्च हरी'न्दृष्ट्वा गाढश्श्वाऽऽशिश्लिषुः प्रियान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011821,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तेसुस्तत्रसुरिति पूर्ववद्विकल्पः ॥"
+    }
+  ]
+}

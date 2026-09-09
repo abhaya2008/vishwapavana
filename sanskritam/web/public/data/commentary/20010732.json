@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010732,
+    "chapter_id": 6676,
+    "verse_number": "4.78",
+    "content_sanskrit": "तं यान्तं दन्दशूकारिञ्जञ्जपूकजनद्विषम् । अनुजग्मुरतिप्रेम्णा यायजूका द्विजातयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010732,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दन्दशूकजञ्जपूकयोर्भावगर्हायां यङ् । यायजूकेति क्रियासमभिहारे । 'यजजपदशां यङः' (पा.३|२|१६६) इत्यूकः । अतोलोपयलोपौ ॥"
+    }
+  ]
+}

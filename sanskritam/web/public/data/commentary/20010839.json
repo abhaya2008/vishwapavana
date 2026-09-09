@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010839,
+    "chapter_id": 6677,
+    "verse_number": "5.79",
+    "content_sanskrit": "कच्चित् प्रजा न बाधन्ते रोगाः प्रच्छर्दिकादयः । राष्ट्रे चतुर्णां भ्रातृणां कुशलं तव कच्चन ? ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010839,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रच्छर्दिकादय इति । 'रोगाख्यायां ण्वुल् बहुलम्' (पा.३|३|१०८) इति ण्वुल् । अकादेशे टापि च 'प्रत्ययस्था'दिति (पा.७|३|४४) इत्वम् ॥"
+    }
+  ]
+}

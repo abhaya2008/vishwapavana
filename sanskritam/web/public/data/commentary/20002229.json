@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002229,
+    "chapter_id": 6577,
+    "verse_number": "1.80",
+    "content_sanskrit": "हविषे दीर्घसत्रस्य सा चेदानीं प्रचेतसः । भुजङ्गपिहितद्वारं पातालमधितिष्टति ॥",
+    "padaccheda": "हविषे । दीर्घसत्रस्य । सा । च । इदानीम् । प्रचेतसः । भुजङ्गपिहितद्वारम् । पातालम् । अधितिष्ठति",
+    "anvaya": "सा च इदानीं प्रचेतसः दीर्घ-सत्रस्य हविषे भुजङ्ग-पिहित-द्वारं पातालम् अधितिष्ठति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "She is currently staying in the netherworld, whose entrance is guarded by serpents, to provide oblations for the long sacrifice of Varuṇa.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002229,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हविष इति॥ सा च सुरभिरिदानीं दीर्घं सत्रं चिरकालसाध्यो यागविशेषो यस्य तस्य प्रचेतसो हविषे दध्याज्यादिहविरर्थं भुजङ्गपिहितद्वारं भुजंगावरुद्धद्वारं ततो दुष्प्रवेशं पातालमधितिष्टति। पाताले तिष्ठतीत्यर्थः। `अधिशीङ्स्थासां कर्म` (पा.1।4।46) इति कर्मत्वम् ॥"
+    }
+  ]
+}

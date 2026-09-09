@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165610,
+    "chapter_id": 7065,
+    "verse_number": "13.22",
+    "content_sanskrit": "अलि-गण-विलोल-कुसुमं स-कमल-जल-मत्त-कुरर-कारण्डव-गणम् । फणि-संकुल-भीम-गुहं करि-दन्त-समूढ-स-रस-वसुधा-खण्डम् ॥",
+    "padaccheda": "अलि-गण-विलोल-कुसुमं । स-कमल-जल-मत्त-कुरर-कारण्डव-गणम् । फणि-सङ्कुल-भीम-गुहं । करि-दन्त-समूढ-स-रस-वसुधा-खण्डम्",
+    "anvaya": "अलि-गण-विलोल-कुसुमम् स-कमल-जल-मत्त-कुरर-कारण्डव-गणम् फणि-सङ्कुल-भीम-गुहम् करि-दन्त-समूढ-स-रस-वसुधा-खण्डम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They traversed mountains where bees hovered over flowers, and lotuses bloomed amidst intoxicated ospreys and ducks; mountains with caves full of serpents and earth torn up by the tusks of elephants.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165610,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अलिगणेत्यादि - अलिगणैर्विलोलानि कुसुमानि यत्र । सकमलेषु जलेपु मत्ताः कुरराणां कारण्डवानां च गणा यत्र । फणिभिः संकुला व्याप्ताः सत्यो भीमा गुहा यत्र । करिदन्तैः समुत्क्षिप्तं सरसं सान्द्रं वसुधायाः खण्डं यत्र ॥"
+    }
+  ]
+}

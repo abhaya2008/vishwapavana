@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011728,
+    "chapter_id": 6685,
+    "verse_number": "13.64",
+    "content_sanskrit": "नत्वा चिरं विरम्याऽथ निषण्णो मणिभूतले । आर्चयत्तं यथाशास्त्रमभाषत च भूपतिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011728,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यथाशास्त्रं भिक्षुपूजाशास्त्रानुसारेण ॥"
+    }
+  ]
+}

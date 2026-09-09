@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165080,
+    "chapter_id": 7060,
+    "verse_number": "8.40",
+    "content_sanskrit": "संक्ष्णुवान इवोत्कण्ठामुपाभुङ्क्त सुरामलम् । ज्योत्स्नायां विगलन्-मानस्तरुणो रक्षसां गणः ॥",
+    "padaccheda": "संक्ष्णुवानः । इव । उत्कण्ठाम् । उपाभुङ्क्त । सुराम् । अलम् । ज्योत्स्नायाम् । विगलन्-मानः । तरुणः । रक्षसाम् । गणः",
+    "anvaya": "ज्योत्स्नायां विगलन्-मानः तरुणः रक्षसां गणः उत्कण्ठां सं-क्ष्णुवानः इव अलम् सुराम् उपा-भुङ्क्त ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Under the moonlight, young demons abandon their pride and drink wine copiously, their longing intensified by the romantic atmosphere.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165080,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "संक्ष्णुवान इत्यादि - रक्षसां तरुणो गणः उत्कण्ठां प्रियासु संस्मरणं संक्ष्णुवान इव समुत्तेजयन्निव । समः क्ष्णुवः (पा.१|३|६५) इति तङ् । ज्योत्स्नायां सुरां अलं पर्याप्तमुपाभुङ्क्त अभ्याहृतवान् । भुजो ऽनवने (पा.१|३|६६) इति तङ् । विगलन्मानः ॥"
+    }
+  ]
+}

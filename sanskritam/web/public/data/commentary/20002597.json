@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002597,
+    "chapter_id": 6582,
+    "verse_number": "6.44",
+    "content_sanskrit": "तस्याः प्रकामं प्रियदर्शनोऽपि न स क्षितीशो रुचये बभूव । शरत्प्रमृष्टाम्बुधरोपरोधः शशीव पर्याप्तकलो नलिन्याः ॥",
+    "padaccheda": "तस्याः । प्रकामम् । प्रियदर्शनः । अपि । न । सः । क्षितीशः । रुचये । बभूव । शरत्प्रमृष्टाम्बुधरोपरोधः । शशी । इव । पर्याप्तकलः । नलिन्याः",
+    "anvaya": "प्रकामं प्रियदर्शनः अपि सः क्षितीशः तस्याः रुचये न बभूव, शरत्प्रमृष्टाम्बुधरोपरोधः पर्याप्तकलः शशी नलिन्याः (रुचये न भवति) इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although that king was very handsome, he was not to her liking, just as the full moon, unobstructed by clouds in autumn, is not pleasing to the day-blooming lotus.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002597,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्या इति॥ प्रकामं प्रियं प्रीतिकरं दर्शनं यस्य सोऽपि। दर्शनीयोऽपीकत्यर्थः। स क्षितीशः। शरदा प्रमृष्टाम्बुधरोपरोधो निरस्तमेघावरणः पर्याप्तरुचिं नाजीजनदित्यर्थः। लोको भिन्नरुचिरिति भावः ॥"
+    }
+  ]
+}

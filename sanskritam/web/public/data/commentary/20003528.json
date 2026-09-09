@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003528,
+    "chapter_id": 6593,
+    "verse_number": "17.1",
+    "content_sanskrit": "अतिथिं नाम काकुत्स्थात्पुत्रं प्राप कुमुद्वती । पश्चिमाद्यामिनीयामात्प्रसादमिव चेतना ॥",
+    "padaccheda": "अतिथिम् । नाम । काकुत्स्थात् । पुत्रम् । प्राप । कुमुद्वती । पश्चिमात् । यामिनीयामात् । प्रसादमिव । चेतना",
+    "anvaya": "कुमुद्वती काकुत्स्थात् अतिथिम् नाम पुत्रम् प्राप, चेतना पश्चिमात् यामिनी-यामात् प्रसादम् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kumudvati obtained from Kusha (a descendant of Kakutstha) a son named Atithi, just as consciousness gains clarity and serenity from the last watch of the night.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003528,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अतिथिमिति॥ कुमुद्वती काकुत्स्थात्कुशात्। अतिथिं नाम पुत्रम्। चेतना बुद्धिः पश्चिमादन्तिमाद्यामिन्या रात्रेर्यामात्प्रहरात्। `द्वौ यामप्रहरौ समौ` इत्यमरः (अ.को.1|4|7)। प्रसादं वैशद्यमिव। प्राप। ब्राह्मे मुहूर्ते सर्वेषां बुद्धिवैशद्यं भवतीति प्रसिद्धिः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004733,
+    "chapter_id": 6611,
+    "verse_number": "16.25",
+    "content_sanskrit": "अपारेऽसृक्सरित्पूरे रथेषूच्चैस्तरेष्वपि । रथिनोऽभिरिपुं क्रुद्धा हुङ्कृतैर्व्यसृजञ्शरान् ॥",
+    "padaccheda": "अपारे । असृक्सरित्पूरे । रथेषु । उच्चैस्तरेषु । अपि । रथिनः । अभिरिपुम् । क्रुद्धाः । हुङ्कृतैः । व्यसृजन् । शरान्",
+    "anvaya": "अपारे असृक्सरित्पूरे उच्चैस्तरेषु रथेषु अपि रथिनः क्रुद्धाः हुङ्कृतैः अभिरिपुं शरान् व्यसृजन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even in the shoreless flood of the river of blood, enraged charioteers standing in their high chariots discharged arrows toward the enemy with fierce roars.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004733,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अपार इति । उच्चैस्तरेष्वपि रथेष्वपारेऽगाधेऽसृक्सरित्पूरे रुधिरनदीप्रवाहे मज्जत्सु सत्सु रथिनो रथारोहाः क्रद्धाः । अत एव हुंकृतैः । भीषयन्त इति शेषः । अभिरिपुं शत्रुसंमुखं शरान्व्यसृजंस्तत्यजुः"
+    }
+  ]
+}

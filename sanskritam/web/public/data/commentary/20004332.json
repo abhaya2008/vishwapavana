@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004332,
+    "chapter_id": 6604,
+    "verse_number": "9.1",
+    "content_sanskrit": "तथाविधेऽनङ्गरसप्रसङ्गे मुखारविन्दे मधुपः प्रियायाः । सम्भोगवेश्म प्रविशन्तमन्तर्ददर्श पारावतमेकमीशः ॥",
+    "padaccheda": "तथाविधे । अनङ्गरसप्रसङ्गे । मुखारविन्दे । मधुपः । प्रियायाः । सम्भोगवेश्म । प्रविशन्तम् । अन्तर् । ददर्श । पारावतम् । एकम् । ईशः",
+    "anvaya": "तथाविधे अनङ्गरसप्रसङ्गे प्रियायाः मुखारविन्दे सम्भोगवेश्म अन्तर् प्रविशन्तम् एकम् पारावतम् ईशः ददर्श।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the midst of such amorous passion, Lord Śiva, while enjoying the lotus-like face of his beloved Pārvatī like a bee, saw a single pigeon entering the inner apartment of enjoyment.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004332,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तथाविध इति । प्रियायाः पार्वत्याः संबन्धिनि मुखारविन्दे वदनकमले मधुपो भ्रमरभूत ईशः शिवस्तथाविधे पूर्वोक्तप्रकारेऽनङ्गरसप्रसङ्गे कामरसावसरे संभोगस्य वेश्म गृहमन्तः प्रविशन्तमेकं पारावतं कपोतं ददर्श दृष्टवान् । सर्गेऽस्मिवृत्तमुपजातिः"
+    }
+  ]
+}

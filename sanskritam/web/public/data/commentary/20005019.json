@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005019,
+    "chapter_id": 6617,
+    "verse_number": "5.2",
+    "content_sanskrit": "तपनमण्डलदीतितमेकतः सततनैशतमोवृतमन्यतः । हसितभिन्नतमिस्रचयं पुरः शिवमिवानुगतं गजचर्मणा ॥",
+    "padaccheda": "तपनमण्डलदीतितम् । एकतः । सततनैशतमोवृतम् । अन्यतः । हसितभिन्नतमिस्रचयं । पुरः । शिवम् । इव । अनुगतम् । गजचर्मणा",
+    "anvaya": "एकतः तपनमण्डलदीतितम्, अन्यतः सततनैशतमोवृतम्, पुरः हसितभिन्नतमिस्रचयम्, गजचर्मणा अनुगतम् शिवम् इव (स्थितम् हिमाचलम् अभिययौ)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(He approached the Himalaya which was) illuminated by the sun's orb on one side and enveloped in perpetual nocturnal darkness on the other. In front, its mass of darkness was dispelled by the whiteness of its snow, resembling Lord Shiva accompanied by his elephant hide.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005019,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तपनेति ॥पुनः। एकत एकस्मिन्भागे। सार्वविभक्तिकस्तसिः। तपनमण्डलेन दीपितं प्रकाशितम् । अन्यतोऽन्यस्मिन्भागे सततेनानिषिद्धेन नैशेन निशिभवेन तमसा वृतम् । एकत्राह्लारात्र्या चान्यत्र संगतमित्यर्थः । अतएव पुरोऽग्रे हसितेनाट्टहासेन भिन्नतमिस्रचयं निरस्ततमस्तोमं तथा गजचर्मणानुगतं पश्चाद्व्याप्तम् । `पश्चात्सादृश्ययोरनु` इत्यमरः (अ.को.3|3|263) । शिवमिव स्थितम् । तपनतेजःप्रसारोऽप्यस्य कण इव कुत्रचित्परिसमाप्यत इति महत्त्वातिशयोक्तिः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002599,
+    "chapter_id": 6582,
+    "verse_number": "6.46",
+    "content_sanskrit": "नीपान्वयः पार्थिव एष यज्वा गुणैर्यमाश्रित्य परस्परेण । सिद्धाश्रमं शान्तमिवैत्य सत्त्वैर्नैसर्गिकोऽप्युत्ससृजे विरोधः ॥",
+    "padaccheda": "नीपान्वयः । पार्थिवः । एषः । यज्वा । गुणैः । यम् । आश्रित्य । परस्परेण । सिद्धाश्रमम् । शान्तम् । इव । एत्य । सत्त्वैः । नैसर्गिकः । अपि । उत्ससृजे । विरोधः",
+    "anvaya": "एषः नीपान्वयः यज्वा पार्थिवः (अस्ति)। यं गुणैः आश्रित्य सत्त्वैः शान्तं सिद्धाश्रमम् एत्य इव नैसर्गिकः अपि विरोधः परस्परेण उत्ससृजे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This king, Sushena, is a performer of sacrifices from the Nipa dynasty. Taking refuge in his virtues, even creatures with natural enmity towards each other have given up their hostility, as if they had entered a peaceful hermitage of sages.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002599,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नीपेति॥ यज्वा विधइवदिष्टवान्। `सुयजोर्ङ्वनिप्` (पा.3।2।103)इति ङ्वनिप्प्रत्ययः। एष पार्तिवः। नीपो नामान्वयोऽस्येति नीपान्वयो नीपवंशजः। यं सुषेणमाश्रित्य गुणैर्ज्ञानमौनादिभिः। शान्तं प्रसन्नं सिद्धाश्रममृष्याश्रममेत्य प्राप्य सत्त्वैर्गजसिंहादिभिः प्राणिभिरिव। नैसर्गिकः स्वाभाविकोऽपि परस्परेण विरोध उत्ससृजे त्यक्तः ॥"
+    }
+  ]
+}

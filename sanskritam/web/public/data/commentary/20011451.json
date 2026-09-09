@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011451,
+    "chapter_id": 6683,
+    "verse_number": "11.28",
+    "content_sanskrit": "तथा किमन्नसम्पन्नमिति पृष्टाः स्वभर्तृभिः । काले वदन्ति गेहिन्यो यस्यां सम्पद्यते न्विति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011451,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तेनैव तत्र नुशब्दप्रयोगे लट् । पदिर्दिवादिरात्मनेपदी ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005507,
+    "chapter_id": 6625,
+    "verse_number": "13.18",
+    "content_sanskrit": "विचकर्ष च संहितेषुरुच्चैश्चरणास्कन्दननामिताचलेन्द्रः । धनुरायतभोगवासुकिज्यावदनग्रन्थिविमुक्तवह्नि शम्भुः ॥",
+    "padaccheda": "विचकर्ष । च । संहित-इषुः । उच्चैः । चरण-आस्कन्दन-नामित-अचलेन्द्रः । धनुः । आयत-भोग-वासुकि-ज्या-वदन-ग्रन्थि-विमुक्त-वह्नि । शम्भुः",
+    "anvaya": "च चरण-आस्कन्दन-नामित-अचलेन्द्रः संहित-इषुः शम्भुः आयत-भोग-वासुकि-ज्या-वदन-ग्रन्थि-विमुक्त-वह्नि धनुः उच्चैः विचकर्ष।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And Shambhu (Shiva), who had fitted an arrow and bent the king of mountains with the stamping of his feet, forcefully drew his bow, from the knot of whose bowstring—the mouth of the long-bodied Vasuki—fire was being released.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005507,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विचकर्षेति ॥ अथ शंभुश्च संहितेषुः सन् । उच्चैर्भृशं चरणास्कन्दनेन पदविष्टम्भेन नामितोऽधो नीतोऽचलेन्द्रो येन स तथोक्तः आयतभोग आकृष्टकायो वासुकिरेव ज्या तस्य वदनमेव ग्रन्थिस्तेन विमुक्त उत्सृष्टो वह्निर्यस्य तद्धनुर्विचकर्षेति स्वभावोक्तिः ॥"
+    }
+  ]
+}

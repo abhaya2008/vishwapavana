@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011910,
+    "chapter_id": 6687,
+    "verse_number": "15.7",
+    "content_sanskrit": "कदाऽहमवलोकिष्ये महाराजं युधिष्ठिरम् । मुकुलीकृतराजन्यकराब्जस्मितचन्द्रिकम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011910,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "युयुत्समानानामागतानां राज्ञां युद्धायोद्यतान पाणीन् मन्दस्मितेन मुकुलीकुर्वन्तमित्यर्थः । स्मितचन्द्रिकाग्रहणं मुखस्य चन्द्रसादृश्यद्योतनार्थम् ॥"
+    }
+  ]
+}

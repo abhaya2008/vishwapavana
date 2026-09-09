@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165288,
+    "chapter_id": 7061,
+    "verse_number": "9.115",
+    "content_sanskrit": "\"दूतमेकं कपिं बद्धमानीतं वेश्म पश्यतः । लोक-त्रय-पतेः क्रोधः कथं तृण-लघुस्तव ॥",
+    "padaccheda": "दूतम् । एकम् । कपिम् । बद्धम् । आनीतम् । वेश्म । पश्यतः । लोक-त्रय-पतेः । क्रोधः । कथम् । तृण-लघुः । तव",
+    "anvaya": "लोक-त्रय-पतेः तव वेश्म बद्धम् आनीतम् एकम् कपिम् पश्यतः क्रोधः कथम् तृण-लघुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Lord of the three worlds, why is your anger, upon seeing a single bound monkey brought to your palace, as disproportionate as if directed at a trivial blade of grass?\"",
+    "audio_url": null,
+    "display_order": 115,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165288,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "दूतमित्यादि - दूतं संदेशस्य हारकं एकमद्वितीयं बद्धं अस्वतन्त्रीकृतं वेश्मा- नीतं पश्यत इति सर्वमेतन्न रोपकारणम् । अतो लोकत्रयपतेस्तवायं तृणवल्लघुर: सारः कथं कोपः ॥"
+    }
+  ]
+}

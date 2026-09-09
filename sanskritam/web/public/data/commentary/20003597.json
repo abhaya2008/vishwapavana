@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003597,
+    "chapter_id": 6593,
+    "verse_number": "17.70",
+    "content_sanskrit": "प्रायः प्रतापभग्नत्वादरीणां तस्य दुर्लभः । रणो गन्धद्विपस्येव गन्धभिन्नान्यदन्तिनः ॥",
+    "padaccheda": "प्रायः । प्रतापभग्नत्वात् । अरीणाम् । तस्य । दुर्लभः । रणः । गन्धद्विपस्य । इव । गन्धभिन्नान्यदन्तिनः",
+    "anvaya": "अरीणाम् प्रतापभग्नत्वात् तस्य रणः प्रायः दुर्लभः (आसीत्), गन्धभिन्नान्यदन्तिनः गन्धद्विपस्य इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "King Atithi rarely had to engage in battle, as his enemies were already subdued by his sheer majesty and power. This was similar to a mighty elephant in rut, whose potent scent alone is enough to make other elephants flee, making a physical fight unnecessary.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003597,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्राय इति॥ अरीणां सर्वेषामपि प्रतापेनातितेजसैव भग्नत्वात्तस्य राज्ञः। गन्धेन मदगन्धेनैव भिन्ना भग्ना अन्ये दन्तिनो येन तस्य गन्धद्विपस्येव। प्रायः प्रायेण रणो दुर्लभः। खलर्थयोगेऽपि शेषविवक्षायां षष्ठीमिच्छन्तीत्युक्तम् ॥"
+    }
+  ]
+}

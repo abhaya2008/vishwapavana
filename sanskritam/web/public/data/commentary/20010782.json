@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010782,
+    "chapter_id": 6677,
+    "verse_number": "5.22",
+    "content_sanskrit": "तदाश्रमपदं दृष्ट्वा सन्तुष्टः पाकशासनः । सुहृन्निकायमालोक्य प्रविशन्निदमब्रवीत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010782,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सुहृदां महर्षीणां निकायमिति 'संघे चानौत्तराधर्ये' (पा.३|३|४२) इति चिनोतेर्घञादिकत्वञ्च ॥"
+    }
+  ]
+}

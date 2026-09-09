@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011334,
+    "chapter_id": 6681,
+    "verse_number": "9.86",
+    "content_sanskrit": "धृतावतंसं सन्न धृतसन्तमसा दिशः । ध्वस्तान्धतमसं चित्तं पितुर्दीप्तं चकार सः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011334,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अवतमसादयो 'अवसमन्धेभ्यस्तमस' (पा.५|४|७९) इत्यच्समासान्ताः ।"
+    }
+  ]
+}

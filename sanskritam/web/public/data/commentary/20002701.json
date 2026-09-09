@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002701,
+    "chapter_id": 6583,
+    "verse_number": "7.62",
+    "content_sanskrit": "ततो धनुष्कर्षणमूढहस्तमेकांसपर्यस्तशिरस्त्रजालम् । तस्थौ ध्वजस्तम्भनिषण्णदेहं निद्राविधेयं नरदेवसैन्यम् ॥",
+    "padaccheda": "ततः । धनुष्कर्षणमूढहस्तम् । एकांसपर्यस्तशिरस्त्रजालम् । तस्थौ । ध्वजस्तम्भनिषण्णदेहम् । निद्राविधेयम् । नरदेवसैन्यम्",
+    "anvaya": "ततः निद्रा-विधेयम् नरदेव-सैन्यम् धनुः-कर्षण-मूढ-हस्तम्, एक-अंस-पर्यस्त-शिरस्त्र-जालम्, ध्वज-स्तम्भ-निषण्ण-देहम् (सत्) तस्थौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the army of the kings, overcome by sleep, stood still. Their hands were paralyzed in the act of drawing their bows, their helmets had slipped down onto one shoulder, and their bodies were leaning against their flagstaffs.",
+    "audio_url": null,
+    "display_order": 62,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002701,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततो धनुष्कर्षणे चापकर्षणे मूढहस्तमव्यापृतहस्तम्। एकस्मिन्नंसे पर्यस्तं स्रस्तं शिरस्त्राणां शीर्षण्यानां जालं समूहो यस्य तत्। ध्वजस्तम्भेषु निषण्णा अवष्टब्धा देहा यस्य तत्। नरदेवानां राज्ञां सेनैव सैन्यम्। चतुर्वर्ण्यादित्वात्स्वार्थे ष्यञ्प्रत्ययः। निद्राविधेयं निद्रापरतन्त्रं तस्थौ ॥"
+    }
+  ]
+}

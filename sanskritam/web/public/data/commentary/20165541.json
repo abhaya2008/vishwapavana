@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165541,
+    "chapter_id": 7064,
+    "verse_number": "12.40",
+    "content_sanskrit": "रामोऽपि दाराऽऽहरणेन तप्तो वयं हतैर्बन्धुभिरात्म-तुल्यैः । तप्तस्य तप्तेन यथाऽऽयसो नः संधिः परेणाऽस्तु विमुञ्च सीताम् ॥",
+    "padaccheda": "रामः । अपि । दारा-आहरणेन । तप्तः । वयम् । हतैः । बन्धुभिः । आत्म-तुल्यैः । तप्तस्य । तप्तेन । यथा । आयसः । नः । सन्धिः । परेण । अस्तु । विमुञ्च । सीताम्",
+    "anvaya": "रामः अपि दारा-आहरणेन तप्तः वयम् आत्म-तुल्यैः हतैः बन्धुभिः तप्तस्य तप्तेन यथा आयसः नः परेण सन्धिः अस्तु सीताम् विमुञ्च ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāma is pained by the abduction of his wife, and we are pained by the death of our kinsmen who were like our very selves. Just as hot iron joins with hot iron, let there be peace between us and the enemy; release Sītā.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165541,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तप्तस्य तप्तेन यथा ssयसो नः संधिः परेणा ऽस्तु, विमुञ्च सीताम् ॥ ४० ॥ राम इत्याद्रि - यथा तप्तेनायसा तप्तस्यायसः संधिर्घटते तद्वदस्माकं तप्तानां तप्तेन रामेण संधिरस्तु । अतो मुञ्च सीतां संधिनिमित्तम् ॥ यदि च तेन तप्तेनापि सता ज्यायसा न संधानं तदा सर्वे वयं न जीवामः तव तेजसो विनाशकत्वादिति दर्शयन्नाह--"
+    }
+  ]
+}

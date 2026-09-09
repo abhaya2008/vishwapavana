@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003770,
+    "chapter_id": 6596,
+    "verse_number": "1.52",
+    "content_sanskrit": "अयाचितारं न हि देवदेवमद्रिः सुतां ग्राहयितुं शशाक । अभ्यर्थनाभङ्गभयेन साधुर्माध्यस्थ्यमिष्टेऽप्यवलम्बतेऽर्थे ॥",
+    "padaccheda": "अयाचितारम् । न । हि । देवदेवम् । अद्रिः । सुताम् । ग्राहयितुम् । शशाक । अभ्यर्थनाभङ्गभयेन । साधुः । माध्यस्थ्यम् । इष्टे । अपि । अवलम्बते । अर्थे",
+    "anvaya": "अद्रिः अयाचितारम् देवदेवम् सुताम् ग्राहयितुम् न शशाक हि। साधुः इष्टे अर्थे अपि अभ्यर्थनाभङ्गभयेन माध्यस्थ्यम् अवलम्बते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The mountain king Himalaya could not bring himself to offer his daughter to the God of gods, who had not asked for her. For a good person, out of fear that their request might be rejected, often adopts a neutral stance even in a matter they deeply desire.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003770,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अयाचितारमिति । अद्रिर्हिमवानयाचितारमयाचमानं देवदेवं महादेवं सुतां पार्वतीं ग्राहयितुं स्वयमाहूय परिग्राहयितुं न शशाक नोत्सेहे । तथाहि साधुः सज्जनः । `साधुर्वार्धुषिके चारौ सज्जने चाभिधेयवत्` इति विश्वः । अभ्यर्थनाभङ्गभयेन याच्ञावैफल्यभीत्येष्टेऽप्यर्थे विषये माध्यस्थ्यमौदासीन्यमवलम्बते"
+    }
+  ]
+}

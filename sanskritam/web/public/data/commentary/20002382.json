@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002382,
+    "chapter_id": 6579,
+    "verse_number": "3.63",
+    "content_sanskrit": "असङ्गमद्रिष्वपि सारवत्तया न मे त्वदन्येन विसोढमायुधम् । अवेहि मां प्रीतमृते तुरंगमात्किमिच्छसीति स्फुटमाह वासवः ॥",
+    "padaccheda": "असङ्गम् । अद्रिषु । अपि । सारवत्तया । न । मे । त्वदन्येन । विसोढम् । आयुधम् । अवेहि । माम् । प्रीतम् । ऋते । तुरंगमात् । किम् । इच्छसि । इति । स्फुटम् । आह । वासवः",
+    "anvaya": "वासवः स्फुटम् आह - सारवत्तया अद्रिषु अपि असङ्गम् मे आयुधम् त्वत्-अन्येन न विसोढम् । माम् प्रीतम् अवेहि । तुरंगमात् ऋते किम् इच्छसि इति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra said clearly: \"My weapon (the Vajra), which moves unobstructed even through hard mountains, has not been withstood by anyone other than you. Know that I am pleased. Except for the horse, what do you wish for?\"",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002382,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असङ्गमिति॥ सारवत्तयाऽद्रिष्वसङ्गमप्रतिबन्धं मे आयुधं वज्रं त्वदन्येन न विसोढम्। अतो मां प्रीतं संतुष्टमवेहि। तुरंगमादृते दुरंगं वर्जयित्वा। `अन्यारादितरर्ते-` (पा.2।3।29) इति पञ्चमी। किमिच्छसीति स्फुटं वासव आह। तुरंगमादन्यददेयं नास्तीति भावः॥"
+    }
+  ]
+}

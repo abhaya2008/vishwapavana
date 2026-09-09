@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012039,
+    "chapter_id": 6688,
+    "verse_number": "16.46",
+    "content_sanskrit": "प्रथिषीरन् गुणास्सर्वे तव दाशरथेरिव । सर्वैरर्चयिषीष्ठास्त्वं रत्नपुष्पचयैर्नृपैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012039,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रथिषीरन् । झस्य रन् (पा.३|४|१०५) । लोपो व्योर्वलि (पा.६|१|६६) । अर्चयिषीष्ठा इति कर्मणि लिङ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003111,
+    "chapter_id": 6588,
+    "verse_number": "12.45",
+    "content_sanskrit": "एको दाशरथिः कामं यातुधानाः सहस्रशः । ते तु यावन्त एवाजौ तावांश्च ददृशे स तैः ॥",
+    "padaccheda": "एकः । दाशरथिः । कामम् । यातुधानाः । सहस्रशः । ते । तु । यावन्तः । एव । आजौ । तावान् । च । ददृशे । सः । तैः",
+    "anvaya": "दाशरथिः एकः कामं यातुधानाः सहस्रशः तु आजौ ते यावन्तः एव तैः सः तावान् च ददृशे ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Admittedly, Rama was alone while the demons were in their thousands; however, in the battle, as many demons as there were, each one of them saw Rama standing right in front of him.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003111,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एक इति॥ दाशरथी राम एकोऽद्वितीयः। यातुधानाः कामं सहस्रशः। सन्तीति शेषः। तैर्यातुधानैस्तु स राम आजौ ते यातुधाना यावन्तो वावत्संख्याका एव तावांस्तावत्संख्याकश्च ददृशे ॥"
+    }
+  ]
+}

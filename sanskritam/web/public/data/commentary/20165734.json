@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165734,
+    "chapter_id": 7066,
+    "verse_number": "14.86",
+    "content_sanskrit": "यमायाऽकम्पनं तेन निरुवाप महा-पशुम् । बभ्रज्ज निहते तस्मिन्शोको रावणमग्निवत् ॥",
+    "padaccheda": "यमाय । अकम्पनम् । तेन । निरुवाप । महा-पशुम् । बभ्रज्ज । निहते । तस्मिन् । शोकः । रावणम् । अग्नि-वत्",
+    "anvaya": "तेन यमाय महा-पशुम् अकम्पनम् निरुवाप। तस्मिन् निहते शोकः रावणम् अग्नि-वत् बभ्रज्ज।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With that tree, he offered Akampana like a great sacrificial animal to Yama. When he was slain, grief scorched Rāvaṇa like fire.",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165734,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "यमायेत्यादि - तेन तालेन स चाकम्पनं महापशुमिव यमाय निरुवाप दत्तवान् । निष्पूर्वी वपिर्दाने वर्तते । तत्र धातोर्यजादित्वात् सम्प्रसारणं न भवति अकित्त्वात् । अभ्यासस्य लिटि भवत्येव । तस्मिन्निहते शोको ऽग्निरिव रावणं वभ्रज दग्धवान् ॥"
+    }
+  ]
+}

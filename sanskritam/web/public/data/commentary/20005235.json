@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005235,
+    "chapter_id": 6621,
+    "verse_number": "9.22",
+    "content_sanskrit": "लेखया विमलविद्रुमभासा संततं तिमिरमिन्दुरुदासे । दंष्ट्रया कनकटङ्कपिशङ्ग्या मण्डलं भुव इवादिवराहः ॥",
+    "padaccheda": "लेखया । विमलविद्रुमभासा । संततं । तिमिरम् । इन्दुः । उदासे । दंष्ट्रया । कनकटङ्कपिशङ्ग्या । मण्डलं । भुवः । इव । आदिवराहः",
+    "anvaya": "इन्दुः विमल-विद्रुम-भासा लेखया संततम् तिमिरम् उदासे, आदि-वराहः कनक-टङ्क-पिशङ्ग्या दंष्ट्रया भुवः मण्डलम् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The moon, with its crescent which had the splendor of pure coral, lifted up the widespread darkness, just as the primeval Boar (Varaha) lifted up the orb of the earth with his tusk, which was tawny like a golden chisel.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005235,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "लेखयेति ॥ इन्दुर्विमलविद्रुमंभासा स्वच्छप्रवालसवर्णया लेखया कलयासंततं सान्द्रं तिमिरमादिवराहः कनकस्य टङ्कः शिलाभेदकं शस्त्रम्।`टङ्कः पाषाणदारणः`इत्यमरः (अ.को.2|10|34)। तद्वत्पिशङ्ग्या लोहितवर्णया । `पिशङ्गादुपसंख्यानम्` इति डीप् । दंष्ट्रया भुवा मण्डलमिव । उदास उञ्चिक्षिपे । अस्यतेः कर्तरि लिट् । सोपसर्गादस्यतेरात्मनेपदं विकल्पात् ॥"
+    }
+  ]
+}

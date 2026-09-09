@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012040,
+    "chapter_id": 6688,
+    "verse_number": "16.47",
+    "content_sanskrit": "चिराय सङ्गंसीयास्थां त्वञ्चेयञ्च वधूस्तव । सर्वैश्च सङ्गसीयास्थाञ्चित्तेन प्रेप्सितैस्सुखैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012040,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सङ्गंसीयास्थां, सङ्गसीयास्थामिति 'वा गमः' (पा.१|२|१३) इति लिङ । कित्वेऽनुदात्तोपदेशादिना (पा.६|४|३७) अनुनासिकलोपः ॥"
+    }
+  ]
+}

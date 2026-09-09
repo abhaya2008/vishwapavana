@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004543,
+    "chapter_id": 6607,
+    "verse_number": "12.50",
+    "content_sanskrit": "त्रैलोक्यलक्ष्मीहृदयैकशल्यं समूलमुत्खाय महासुरं तम् । अस्माकमेषां पुरतो भवन्स दुःखापहारं युधि यो विधत्ते ॥",
+    "padaccheda": "त्रैलोक्यलक्ष्मीहृदयैकशल्यम् । समूलम् । उत्खाय । महासुरम् । तम् । अस्माकम् । एषाम् । पुरतः । भवन् । सः । दुःखापहारम् । युधि । यः । विधत्ते",
+    "anvaya": "यः युधि त्रैलोक्यलक्ष्मीहृदयैकशल्यम् तम् महासुरम् समूलम् उत्खाय पुरतः भवन् अस्माकम् एषाम् दुःखापहारम् विधत्ते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra emphasizes that Śiva's son, by leading them in battle, will uproot that great demon who is like a thorn in the heart of the three worlds' prosperity. By doing so, he will finally bring about the complete removal of the gods' sorrows.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004543,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त्रैलोक्येति । यो भवन्नन्दनस्त्रैलोक्यस्य लक्ष्म्या हृदय एक मद्वितीयं शल्यं तद्वद्दुर्धर्ष तं महासुरं तारकं युधि संगर एषामस्माकं पुरतोऽग्रे भवन्सन् । अग्रेभूत्वेत्यर्थः । समूलं सकुटुम्बपरिवारमुत्खाय निहत्य दुःखापहारं दुःखविनाशं विधत्ते कुरुते । त्वन्नन्दनं विनास्माकं दुःखसमूहः केन निवार्यत इति भावः"
+    }
+  ]
+}

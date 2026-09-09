@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165968,
+    "chapter_id": 7069,
+    "verse_number": "17.42",
+    "content_sanskrit": "सागरथिं चाऽलुनाद्बाणैरभनक्स्यन्दनं तथा । सौमित्रिमकिरद्बाणैः परितो रावणिस्ततः ॥",
+    "padaccheda": "स-सारथिम् । च । अलुनात् । बाणैः । अभनक् । स्यन्दनम् । तथा । सौमित्रिम् । अकिरत् । बाणैः । परितः । रावणिः । ततः",
+    "anvaya": "स-सारथिम् च स्यन्दनम् बाणैः अलुनात् तथा अभनक् । ततः रावणिः बाणैः सौमित्रिम् परितः अकिरत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Lakṣmaṇa cut down the charioteer and shattered the chariot with his arrows. Then, Indrajit showered Lakṣmaṇa from all sides with a volley of arrows.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165968,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सारथिमित्यादि - तस्य रावणेः सारथिं चालुनात् छिन्नवान् । '२५५८/- वादीनां ह्रस्वः(पा.७|३|८०) | तथा स्यन्दनमभनक् भग्नवान् । भञ्जो आमर्दने' इति रुधादिः । ततोऽनन्तरं रावणिः सौमित्रिं परितः समन्तात् वाणैरकिरत् छादितवान् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011937,
+    "chapter_id": 6687,
+    "verse_number": "15.34",
+    "content_sanskrit": "ज्वलत्किरीटकेयूरा विराटद्रुपदादयः । भोजयिष्यन्ति भूदेवांस्तत्र पात्रभृतस्वयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011937,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भोजयिष्यन्ति । 'णिचश्चे'त्यात्मनेपदस्य (पा.१|३|७४) कर्त्रभिप्राये विधानात् तदविवक्षायां परस्मैपदम् ॥"
+    }
+  ]
+}

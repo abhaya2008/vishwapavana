@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004538,
+    "chapter_id": 6607,
+    "verse_number": "12.45",
+    "content_sanskrit": "दुर्वारदोरुद्यमदुःसहेन यत्तारकेणामरघस्मरेण । तदीशतामाप्तवता निरस्ता वयं दिवोऽमी वद किं न वेत्सि ॥",
+    "padaccheda": "दुर्वारदोरुद्यमदुःसहेन । यत् । तारकेण । अमरघस्मरेण । तदीशताम् । आप्तवता । निरस्ताः । वयम् । दिवः । अमी । वद । किम् । न । वेत्सि",
+    "anvaya": "अमरघस्मरेण ईशताम् आप्तवता दुर्वारदोरुद्यमदुःसहेन यत् तारकेणामी वयम् दिवः निरस्ताः तत् वद किम् न वेत्सि?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra asks Śiva if he is not aware that they have been expelled from heaven by Tāraka. He describes the demon as a devourer of gods who attained lordship through the unbearable strength and unstoppable effort of his arms.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004538,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दुर्वारेति । हे भगवन् दुर्वारो दुर्धर्षणीयो यो दोरुद्यमो भुजदण्डबलं तेन कारणेन दुःसहेनात एवामराणां देवानां घस्मरेण वधकेन । `घस्मरो वधकेऽपि च' इति मेदिनी । `सृघस्यदः क्मरच' इति क्मरच्प्रत्ययः ईशतां स्वर्गाधीशतामाप्तवता तारकेणामी वयं दिवः स्वर्गसकाशाद्यन्निरस्ता निष्क्रामितास्तन्न वेत्सि किम् ? अपितु वेत्स्येव । वद । वाक्यार्थः कर्म"
+    }
+  ]
+}

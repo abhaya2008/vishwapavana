@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003108,
+    "chapter_id": 6588,
+    "verse_number": "12.42",
+    "content_sanskrit": "प्राप्य चाशु जनस्थानं खरादिभ्यस्तथाविधम् । रामोपक्रममाचख्यौ रक्षःपरिभवं नवम् ॥",
+    "padaccheda": "प्राप्य । च । आशु । जनस्थानम् । खरादिभ्यः । तथाविधम् । रामोपक्रमम् । आचख्यौ । रक्षःपरिभवम् । नवम्",
+    "anvaya": "सा आशु जनस्थानं प्राप्य खरादिभ्यः तथाविधं राम-उपक्रमं नवं रक्षः-परिभवं आचख्यौ ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Quickly reaching Janasthana, she reported to Khara and the other demons the recent humiliation of the Rakshasas, which had been initiated by Rama and was of a terrible nature.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003108,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्राप्येति॥ साशु जनस्थानं प्राप्य खरादिभ्यो राक्षसेभ्यस्तथाविधं स्वाङअगच्छेदात्मकम्। उपक्रम्यत इत्युपक्रमः। कर्मणि घञ्प्रत्ययः। रामस्य कर्तुरुपक्रमः रामोपक्रमम्। रामेणादावुपक्रान्तमित्यर्थः। `उपज्ञोपक्रमं तदाद्याचिख्यासायाम्` (पा.2।4।21)इति क्लीबत्वम्। तन्नवं रक्षसां कर्मभूतानां परिभवमाचख्यौ च ॥"
+    }
+  ]
+}

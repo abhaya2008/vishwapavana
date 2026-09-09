@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011532,
+    "chapter_id": 6683,
+    "verse_number": "11.109",
+    "content_sanskrit": "यदैष शार्ङ्ग्ज्याशब्दं शुश्रावयिषति द्विषः । तदाऽमुं वैनतेयस्तान् पुप्रावयिषति द्रुतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011532,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पूर्ववदभ्यासस्योवडन्तस्येत्वविकल्पः । पुप्रावयिषतीति प्रूङ् गतौ । यथासौ तान् समीपस्थान् ज्याशब्दं श्रावयेत् ॥"
+    }
+  ]
+}

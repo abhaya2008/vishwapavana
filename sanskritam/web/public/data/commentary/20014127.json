@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014127,
+    "chapter_id": 6707,
+    "verse_number": "15.23",
+    "content_sanskrit": "तदनु क्रकचो हतान्स्वकीयानरुजांश्च द्विजपुंगवानुदीक्ष्य । अतिमात्रविदूयमानचेता यतिराजस्य समीपमाप भूयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014127,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अतिमात्रमत्यन्तं विदूयमानं पीड्यमानं चित्तं यस्य सः ॥ २३ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002524,
+    "chapter_id": 6581,
+    "verse_number": "5.47",
+    "content_sanskrit": "तस्यैकनागस्य कपोलभित्त्योर्जलावगाहक्षणमात्रशान्ता । वन्येतरानेकपदर्शनेन पुनर्दिदीपे मददुर्दिनश्रीः ॥",
+    "padaccheda": "तस्य । एकनागस्य । कपोलभित्त्योः । जलावगाहक्षणमात्रशान्ता । वन्येतरानेकपदर्शनेन । पुनः । दिदीपे । मददुर्दिनश्रीः",
+    "anvaya": "जल-अवगाह-क्षण-मात्र-शान्ता तस्य एक-नागस्य मद-दुर्दिन-श्रीः वन्य-इतर-अनेक-प-दर्शनेन पुनः दिदीपे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The flow of ichor from the temples of that lone elephant, which had subsided for a moment due to its immersion in water, flared up again at the sight of the many tame elephants of the army.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002524,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ तस्यैकनागस्यैकाकिनो गजस्य कपोलभित्त्योर्जलावगाहेन क्षणमात्रं शान्ता निवृत्ता मददुर्दिनश्रीर्मदवर्षलक्ष्मीर्वन्येतरेषां ग्राम्याणामनेकपानां द्विपानां दर्शनेन पुनर्दिदीपे ववृधे ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010628,
+    "chapter_id": 6675,
+    "verse_number": "3.70",
+    "content_sanskrit": "क्लेशपहं यदुद्यानं नीरन्ध्रशिशिरद्रुमम् । तमोपहाश्च नानारुक्मरश्मिजालैर्यदालयाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010628,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्लेशापहं यदिति । क्लेशापहतमोपहा इति “अपे क्लेशतमसो”रिति (पा.३|२|५०) हन्तेरपोपसृष्टात् डः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165946,
+    "chapter_id": 7069,
+    "verse_number": "17.20",
+    "content_sanskrit": "ततो माया-मयीं सीतां घ्नन्खड्गेन वियद्-गतः ।अदृश्यतेन्द्रजिद्वाक्यमवदत्तं मरुत्-सुतः ॥",
+    "padaccheda": "ततः । माया-मयीम् । सीताम् । घ्नन् । खड्गेन । वियद्-गतः । अदृश्यत । इन्द्रजित् । वाक्यम् । अवदत् । तम् । मरुत्-सुतः",
+    "anvaya": "ततः वियत्-गतः इन्द्रजित् खड्गेन माया-मयीम् सीताम् घ्नन् अदृश्यत, मरुत्-सुतः तम् वाक्यम् अवदत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Indrajit, moving through the sky, was seen striking an illusory Sītā with a sword; Hanumān (Marut-suta) spoke these words to him.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165946,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि -- ततो ऽनन्तरं इन्द्रजित् वियद्गतः आकाशगतः सीतां माया- नयीं मायानिर्मितां खड्गेन घ्नन् व्यापादयन्नदृश्यत दृष्टः । कर्मणि लङ् । तथाभूतं राक्षसं मरुत्सुतो हनूमान् वाक्यमवदत् भापितवान् ॥"
+    }
+  ]
+}

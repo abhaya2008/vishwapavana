@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165049,
+    "chapter_id": 7060,
+    "verse_number": "8.9",
+    "content_sanskrit": "खं पराजयमानोऽसावुन्नत्य पवनाऽत्मजम् । जगादाऽद्रिर् \"विजेषीष्ठा मयि विश्रम्य वैरिणम् ॥",
+    "padaccheda": "खम् । पराजयमानः । असौ । उन्नत्य । पवनात्मजम् । जगाद । अद्रिः । विजेषीष्ठाः । मयि । विश्रम्य । वैरिणम्",
+    "anvaya": "असौ अद्रिः उन्नत्य खं पराजयमानः पवन-आत्मजम् जगाद विजेषीष्ठाः मयि विश्रम्य वैरिणम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rising high and appearing to conquer the sky, the mountain said to the son of the Wind: \"Rest upon me and then conquer your enemy.\"",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165049,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "खमित्यादि - असावद्रिः उन्नत्या उन्नततया खं पराजयमानोऽभिभवन् पव- नात्मजं जगाद । मयि विश्रम्य स्थित्वा वैरिणं शत्रुं विजेषीष्ठाः त्वमभिभूयाः । आशिपि लिङ् । उभयत्रापिवि- पराभ्यां जेः (पा.१|३|१९) इति तङ् ॥"
+    }
+  ]
+}

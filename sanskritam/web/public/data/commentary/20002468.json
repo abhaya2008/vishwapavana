@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002468,
+    "chapter_id": 6580,
+    "verse_number": "4.79",
+    "content_sanskrit": "परस्परेण विज्ञातस्तेषूपायनपाणिषु । राज्ञा हिमवतः सारो राज्ञः सारो हिमाद्रिणा ॥",
+    "padaccheda": "परस्परेण । विज्ञातः । तेषु । उपायनपाणिषु । राज्ञा । हिमवतः । सारः । राज्ञः । सारः । हिमाद्रिणा",
+    "anvaya": "तेषु उपायनपाणिषु (सत्सु), राज्ञा हिमवतः सारः विज्ञातः, हिमाद्रिणा राज्ञः सारः (च) परस्परेण विज्ञातः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the mountain tribes stood with tribute in their hands, the king recognized the strength of the Himalaya, and the Himalaya, in turn, recognized the strength of the king. Thus, their respective powers were mutually acknowledged.",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002468,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "परस्परेति॥ तेषु गणेषूपायनयुक्ताः पाणयो येषां तेषु सत्सु परस्परेणान्योन्यं राज्ञा हिमवतः सारो धनरूपो विज्ञातः। हिमाद्रिणाऽपि राज्ञः सारो बलरूपो विज्ञातः। एतेन तत्रत्यवस्तूनामनर्ध्यत्वं गणानामभूतपूर्वश्च पराजय इति ध्वन्यते ॥"
+    }
+  ]
+}

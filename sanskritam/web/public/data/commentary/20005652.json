@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005652,
+    "chapter_id": 6627,
+    "verse_number": "15.27",
+    "content_sanskrit": "ससत्त्वरतिदे नित्यं सदरामर्षनाशिनि । त्वराधिककसन्नादे रमकत्वमकर्षति ॥",
+    "padaccheda": "ससत्त्वरतिदे । नित्यम् । सदरामर्षनाशिनि । त्वराधिककसन्नादे । रमकत्वम् । अकर्षति",
+    "anvaya": "स-सत्त्व-रति-दे स-दरा-अमर्ष-नाशिनि त्वत्-अधिक-क-सन्नादे (रणे) नित्यम् रमकत्वम् अकर्षति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This complex verse describes the battle: 'In this battle, which gives delight to the brave, which destroys fear and anger, and where the joyous clamor is greater than any from you, it always attracts the quality of being captivating.'",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005652,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "ससत्वेति ॥ ससत्त्वानां सत्त्ववतां रतिदे रागप्रदे नित्यं सदराणां सभयानाममर्षनाशिनि क्रोधहारिणि त्वरयोत्साहेनाधिकं कसन्तो विकसन्तो नादा यत्र तस्मिन् रमयतीति रकमः। रमधातोर्वुञ्। तस्याकादेशः । तद्भावो रमकत्वम् । रणकर्मणा पररञ्जकत्वमकर्षत्यनुदति । वीराणां परस्परमुत्साहं रणकर्मणा स्फोरयतीत्यर्थः । अर्धभ्रमकः ॥"
+    }
+  ]
+}

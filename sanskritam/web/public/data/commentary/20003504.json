@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003504,
+    "chapter_id": 6592,
+    "verse_number": "16.65",
+    "content_sanskrit": "संदष्टवस्त्रेष्वबलानितम्बेष्विन्दुप्रकाशान्तरितोडुतुल्याः । अमी जलापूरितसूत्रमार्गा मौनं भजन्ते रशनाकलापाः ॥",
+    "padaccheda": "संदष्ट-वस्त्रेषु । अबला-नितम्बेषु । इन्दु-प्रकाश-अन्तरित-उडु-तुल्याः । अमी । जल-आपूरित-सूत्र-मार्गाः । मौनम् । भजन्ते । रशना-कलापाः",
+    "anvaya": "संदष्ट-वस्त्रेषु अबला-नितम्बेषु जल-आपूरित-सूत्र-मार्गाः इन्दु-प्रकाश-अन्तरित-उडु-तुल्याः अमी रशना-कलापाः मौनम् भजन्ते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"On the women's hips, to which wet garments cling, these girdles have become silent. Their string-holes are filled with water, making them resemble stars whose twinkle is obscured by the bright light of the moon.\"",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003504,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संदष्टेति॥ संदष्टवस्त्रेषु जलसेकात्संश्लिष्टवस्त्रेष्वबलानां नितम्बेष्वधिकरणेषु। इन्दुप्रकाशेन ज्योत्स्नयाऽन्तरितान्यावृत्तानि यान्युडूनि नक्षत्राणि तत्तुल्याः। मुक्तामयत्वादिति भूषाः। `कलापो भूषणे बर्हे` इत्यमरः (अ.को.3|3|136)। मौरम्। निःशब्दतामित्यर्थः। भजन्ते ॥"
+    }
+  ]
+}

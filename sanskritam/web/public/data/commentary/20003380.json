@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003380,
+    "chapter_id": 6591,
+    "verse_number": "15.44",
+    "content_sanskrit": "श्रुत्वा तस्य शुचो हेतुं गोप्ता जिह्नाय राघवः । न ह्यकालभवो मृत्युरिक्ष्वाकुपदमस्पृशत् ॥",
+    "padaccheda": "श्रुत्वा । तस्य । शुचः । हेतुम् । गोप्ता । जिह्नाय । राघवः । न । हि । अकालभवः । मृत्युः । इक्ष्वाकुपदम् । अस्पृशत्",
+    "anvaya": "तस्य शुचः हेतुम् श्रुत्वा गोप्ता राघवः जिह्नाय। हि अकालभवः मृत्युः इक्ष्वाकुपदम् न अस्पृशत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hearing the cause of the brahmin's grief, the protector Rama felt ashamed, for indeed, untimely death had never before touched the kingdom of the Ikshvakus.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003380,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "श्रुत्वेति॥ गोप्ता रक्षको राघवस्तस्य विप्रस्य शुचः शोकस्य हेतुं पुत्रमरणरूपं श्रुत्वा जिह्नाय लज्जितः। कुतः? हि यस्मादकालभवो मृत्युरिक्ष्वाकूणां पदं राष्ट्रं नास्पृशत्। वृद्धे जीवति यवीयान्न म्रियत इत्यर्थः ॥"
+    }
+  ]
+}

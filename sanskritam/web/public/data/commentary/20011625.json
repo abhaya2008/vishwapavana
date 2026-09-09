@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011625,
+    "chapter_id": 6684,
+    "verse_number": "12.77",
+    "content_sanskrit": "दृशावुदमीमीलत्सा पश्यन्ती पाण्डवं यथा । तां पश्यन्न परिस्पन्दे तथा सोऽप्युदमीमिलत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011625,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उदमीमिलदिति ह्रस्वाभावो उदमीमीलदिति ह्रस्वश्च ॥"
+    }
+  ]
+}

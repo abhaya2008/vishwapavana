@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003157,
+    "chapter_id": 6588,
+    "verse_number": "12.91",
+    "content_sanskrit": "रावणस्यापि रामास्तो भित्त्वा हृदयमाशुगः । विवेश भुवमाख्यातुमुरगेभ्य इव प्रियम् ॥",
+    "padaccheda": "रावणस्य । अपि । रामास्तः । भित्त्वा । हृदयम् । आशुगः । विवेश । भुवम् । आख्यातुम् । उरगेभ्यः । इव । प्रियम्",
+    "anvaya": "रामास्तः रावणस्य हृदयम् अपि भित्त्वा उरगेभ्यः प्रियम् आख्यातुम् इव आशुगः भुवम् विवेश ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama's arrow, after piercing through Ravana's heart, swiftly entered the earth as if to deliver the pleasant news of the demon king's impending fall to the residents of the underworld (the serpents).",
+    "audio_url": null,
+    "display_order": 91,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003157,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रावणस्येति॥ रामेणास्तः क्षिप्त आशुगो बाणः। विश्रवसोऽपत्यं पुमान् रावणः। `विश्रवः`शब्दादपत्येऽर्थेऽण्प्रत्यये सति `विश्रवसो विश्रवणरवणौ`इति रावणादेशः। तस्य रावणस्यापि हृदयं वक्षो भित्त्वा विदीर्य। उरगेभ्यः पातालवासिभ्यः प्रियमाख्यातुमिव। भुवं विवेश ॥"
+    }
+  ]
+}

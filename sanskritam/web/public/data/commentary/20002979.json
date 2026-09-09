@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002979,
+    "chapter_id": 6587,
+    "verse_number": "11.6",
+    "content_sanskrit": "लक्ष्मणानुचरमेव राघवं नेतुमैच्छदृषिरित्यसौ नृपः । आशिषं प्रयुयुजे न वाहिनीं सा हि रक्षणविधौ तयोः क्षमा ॥",
+    "padaccheda": "लक्ष्मणानुचरम् । एव । राघवं । नेतुम् । ऐच्छत् । ऋषिः । इति । असौ । नृपः । आशिषं । प्रयुयुजे । न । वाहिनीं । सा । हि । रक्षणविधौ । तयोः । क्षमा",
+    "anvaya": "असौ नृपः ऋषिः लक्ष्मणानुचरम् एव राघवं नेतुम् ऐच्छत् इति आशिषं प्रयुयुजे वाहिनीं न । सा हि तयोः रक्षणविधौ क्षमा ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Knowing the sage desired only Rāma followed by Lakṣmaṇa, the king offered only his blessings and not an army. Indeed, his blessing alone was sufficient for their protection.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002979,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लक्ष्मणेति॥ ऋषिर्लक्ष्मणानुचरमेव लक्ष्मणमात्रानुगं तं राघवं नेतुमैच्छदिति हेतोः, असौ नृप आशिषं प्रयुयुजे प्रयुक्तवान्। वाहिनीं सेनां न प्रयुयुजे न प्रेषितवान्। हि यस्मात् साऽऽशीरेव तयोः कुमारयो रक्षणविधौ क्षमा शक्ता ॥"
+    }
+  ]
+}

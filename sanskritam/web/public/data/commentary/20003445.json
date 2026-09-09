@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003445,
+    "chapter_id": 6592,
+    "verse_number": "16.6",
+    "content_sanskrit": "अथानपोढार्गलमप्यगारं छायामिवादर्शतलं प्रविष्टाम् । सविस्मयो दाशरथेस्तनूजः प्रोवाच पूर्वार्धविसृष्टतल्पः ॥",
+    "padaccheda": "अथ । अनपोढार्गलम् । अपि । अगारम् । छायाम् । इव । आदर्शतलम् । प्रविष्टाम् । सविस्मयः । दाशरथेः । तनूजः । प्रोवाच । पूर्वार्धविसृष्टतल्पः",
+    "anvaya": "अथ दाशरथेः तनूजः कुशः, पूर्वार्धविसृष्टतल्पः सविस्मयः (सन्), अनपोढार्गलम् अपि अगारम् आदर्शतलम् छायाम् इव प्रविष्टाम् (तां वनिताम्) प्रोवाच।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Dasharatha's descendant, Kusha, filled with astonishment, sat up on his couch and spoke to the woman who had entered the chamber like a reflection entering a mirror, even though its doors were still bolted.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003445,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ सविस्मयः पूर्वार्धेन शरीरपूर्वभागेन विसृष्टतल्पस्त्यक्तशय्यो दाशरथेस्तनूजः कुशः। अनपोढार्गलमनुद्धाटितविष्कम्भमपि। `तद्विष्कम्भोऽर्गलं न ना` इत्यमरः (अ.को.2|2|18)। अगारम्। आदर्शतलं छायामिव। प्रविष्टां तां वनितां प्रोवाचावदत् ॥"
+    }
+  ]
+}

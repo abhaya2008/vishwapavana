@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003803,
+    "chapter_id": 6597,
+    "verse_number": "2.25",
+    "content_sanskrit": "पर्याकुलत्वान्मरुतां वेगभङ्गोऽनुमीयते । अम्भसामोघसंरोधः प्रतीपगमनादिव ॥",
+    "padaccheda": "पर्याकुलत्वात् । मरुताम् । वेगभङ्गः । अनुमीयते । अम्भसाम् । ओघसंरोधः । प्रतीपगमनात् । इव",
+    "anvaya": "मरुताम् पर्याकुलत्वात् वेग-भङ्गः, अम्भसाम् प्रतीप-गमनात् इव ओघ-संरोधः, अनुमीयते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"From the agitation of the Maruts, a breaking of their speed is inferred. It is as if the checking of a water current is inferred from its backward flow.\" Brahma deduces that the wind-gods are also in disarray and have lost their power.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003803,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पर्याकुलेति ॥ मरुतां वायूनाम् । सप्तसप्तानामिति शेषः । पर्याकुलत्वात्स्खलितगतित्वाद्धेतोर्वेगस्य भङ्गोऽम्भसां जलानां प्रतीपगमनात् । उत्तानावरोहादित्यर्थः । ओघस्य संरोधः प्रवाहप्रतिबन्ध इवानुमीयते"
+    }
+  ]
+}

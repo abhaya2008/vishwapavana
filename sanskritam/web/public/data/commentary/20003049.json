@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003049,
+    "chapter_id": 6587,
+    "verse_number": "11.76",
+    "content_sanskrit": "विद्धि चात्तबलमोजसा हरेरैश्वरं धनुरभाजि यत्त्वया । खातमूलमनिलो नदीरयैः पातयत्यपि मृदुस्तटद्रुमम् ॥",
+    "padaccheda": "विद्धि । च । आत्तबलम् । ओजसा । हरेः । ऐश्वरम् । धनुः । यत् । त्वया । अभाजि । खातमूलम् । अनिलः । नदीरयैः । पातयति । अपि । मृदुः । तटद्रुमम्",
+    "anvaya": "हरेः ओजसा आत्तबलम् ऐश्वरं धनुः यत् त्वया अभाजि तत् विद्धि । मृदुः अनिलः अपि नदीरयैः खातमूलम् तटद्रुमम् पातयति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Paraśurāma told Rāma that the bow of Śiva he broke had already been weakened by the power of Viṣṇu. He used an analogy to diminish Rāma's feat: even a gentle breeze can topple a massive tree on a riverbank if its roots have already been undermined by the river's current. Thus, he suggested that Rāma's breaking of the bow was not a true testament to his strength, but rather the result of the weapon's prior depletion.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003049,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विद्धीति॥ किंच ऐश्वरं धनुर्हरेर्विष्णोरोजसा बलेनात्तबलं हृतसारं च, विद्धि। यद्धनुस्त्वयाऽभाज्यभञ्जि। `भञ्जेश्च चिणि` (पा.6।4।36) इति विभाषया नलोपः। तथा हि-नदीरयैः खातमूलमवदारितपादं तटद्रुमं मृदुरप्यनिलः पातयति। ततः शिशुरपि रौद्रं धनुरभाङ्क्षमिति मा गर्वीरिति भावः ॥"
+    }
+  ]
+}

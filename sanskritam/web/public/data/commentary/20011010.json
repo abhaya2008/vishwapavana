@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011010,
+    "chapter_id": 6679,
+    "verse_number": "7.20",
+    "content_sanskrit": "जटालं जलदश्यामं कृष्णकृत्स्न्युपवीतिनम् । सनीवारं सशैवालं समृणालमिव ह्रदम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011010,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जटालम् । 'प्राणिस्थादातो लजन्यतरस्या'मिति (पा.५|२|९६) मत्वर्थीयो लच् । उपमालङ्कारः ॥"
+    }
+  ]
+}

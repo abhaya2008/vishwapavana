@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003455,
+    "chapter_id": 6592,
+    "verse_number": "16.16",
+    "content_sanskrit": "चित्रद्विपाः पद्मवनावतीर्णाः करेणुभिर्दत्तमृणालभङ्गाः । नखाङ्कुशाघातविभिन्नकुम्भाः संरब्धसिंहप्रहृतं वहन्ति ॥",
+    "padaccheda": "चित्रद्विपाः । पद्मवनावतीर्णाः । करेणुभिः । दत्तमृणालभङ्गाः । नखाङ्कुशाघातविभिन्नकुम्भाः । संरब्धसिंहप्रहृतं । वहन्ति",
+    "anvaya": "पद्म-वन-अवतीर्णाः, करेणुभिः दत्त-मृणाल-भङ्गाः, नख-अङ्कुश-आघात-विभिन्न-कुम्भाः चित्र-द्विपाः संरब्ध-सिंह-प्रहृतम् वहन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The painted elephants on the walls, depicted as entering lotus ponds and being offered lotus stalks by female elephants, now bear the marks of attacks from enraged lions, their painted foreheads shattered by claw-strikes that resemble goads.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003455,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चित्रेति॥ पद्मवनमवतीर्णाः प्रविष्टाः। तथा लिखिता इत्यर्थः। करेणुभिः करिणीभिः। चित्रगताभिरेव। `करेणुरिभ्यां स्त्री नेमे` इत्यमरः (अ.को.3|3|59)। दत्तमृणालभङ्गाश्चित्रद्विपा आलेख्यमातङ्गाः। नखा एवाङ्कुशास्तेषामाघातैर्विभिन्नकुम्भाः सन्तः संरब्धसिंहप्रहृतं कुपितसिंहप्रहारं वहन्ति ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005173,
+    "chapter_id": 6620,
+    "verse_number": "8.17",
+    "content_sanskrit": "कलत्रभारेण विलोलनीविना गलद्दुकूलस्तनशालिनोरसा । बलिव्यपायस्फुटरोमराजिना निरायतत्वादुदरेण ताम्यता ॥",
+    "padaccheda": "कलत्रभारेण । विलोलनीविना । गलद्दुकूलस्तनशालिना । उरसा । बलिव्यपायस्फुटरोमराजिना । निरायतत्त्वात् । उदरेण । ताम्यता",
+    "anvaya": "(कयाचित्) विलोलनीविना कलत्रभारेण, गलद्दुकूलस्तनशालिना उरसा, बलिव्यपायस्फुटरोमराजिना निरायतत्त्वात् ताम्यता उदरेण (मनः समाददे) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This verse describes a woman's state: strained by the weight of her hips with their loosened waist-knot; her chest adorned with breasts from which the silk garment was slipping; and her abdomen, stretched and strained, revealing the fine line of hair as the skin-folds disappeared. (This description continues in the next verse).",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005173,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "कलत्रेति ॥विलोलनीविनागात्रोन्नमनाद्विश्लिष्टवस्त्रग्रन्थिना कलत्रभारेण श्रोणिभारेण। `कलत्रं श्रोणिभार्ययोः` इत्यमरः (अ.को.3|3|187) । तथा गलत्स्रंसमानं दुकूलं याभ्यां ताभ्यां स्तनाभ्यां शालत इति तथोक्तेनोरसा तथा बलिव्यपायेन भङ्गिनिवृत्त्या स्फुटा रोमराजिर्यस्मिम्स्तेन निरायत्वादप्रसारितत्वात्ताम्यता तनुभवतोदरेण चोपलक्षितया । स्वभावोक्तिरलंकारः॥"
+    }
+  ]
+}

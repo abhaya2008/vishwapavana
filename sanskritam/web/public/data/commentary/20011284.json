@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011284,
+    "chapter_id": 6681,
+    "verse_number": "9.36",
+    "content_sanskrit": "अनंशुकाभ्यां पुरतोऽर्जुनस्य किमत्र वा तिष्ठसि किं स्तनाभ्याम् । इत्यब्रवीत् कापि सखीं स्वयन्तु तथा न तस्थे किल फल्गुनाय ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011284,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तिष्ठसि किं कुत्सितं तिष्ठसि । 'तिङश्चे'ति (पा.५|३|५६) तिङन्तस्य प्राक् टेरकच ॥"
+    }
+  ]
+}

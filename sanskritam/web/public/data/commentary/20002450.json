@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002450,
+    "chapter_id": 6580,
+    "verse_number": "4.61",
+    "content_sanskrit": "यवनीमुखपद्मानां सेहे मधुमदं न सः । बालातपमिवाब्जानामकालजलदोदयः ॥",
+    "padaccheda": "यवनीमुखपद्मानाम् । सेहे । मधुमदम् । न । सः । बालातपम् । इव । अब्जानाम् । अकालजलदोदयः",
+    "anvaya": "सः अकालजलदोदयः अब्जानाम् बालातपम् इव यवनीमुखपद्मानाम् मधुमदम् न सेहे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Raghu) could not bear the intoxication from wine on the lotus-like faces of the Yavana women, just as the rise of an untimely cloud cannot tolerate the morning sunlight on lotuses.",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002450,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यवनीति॥ स रघुर्यवनीनां यवनस्त्त्रीणाम्। `जातेरस्त्त्रीविषयादयोपधात्` (पा.4।1।63)इति ङीष्। मुखानि पद्मानीव मुखपद्मानि। उपमितसमासः। तेषां मधुना मद्येन यो मदो मदरागः। कार्यकारणभावयोरभेदेन निर्देशः। तं न सेहे। कमिव? अकाले प्रावृड्व्यतिरिक्ते काले जलदोदयः। प्रायेण प्रावृषि पद्मविकाशस्याप्रसक्तत्वादब्जानां संबन्धिनं बालातपमिव। अब्जहितत्वादब्जसंबन्धित्वं सौरातपस्य ॥"
+    }
+  ]
+}

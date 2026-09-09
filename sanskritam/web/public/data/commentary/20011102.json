@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011102,
+    "chapter_id": 6679,
+    "verse_number": "7.112",
+    "content_sanskrit": "यान्तमान्तरगारिक्यस्तरुण्यस्तं व्यलोकयन् । पूर्णवातायनच्छिद्रैरौपकर्ण्यविलोचनैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011102,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आन्तरगारिक्य इति 'अन्तः इति पूर्वपदाट्ठञ्' इति (पा.४|३|६०) ठञ् । औपकर्ण्यैरिति 'अव्ययीभावाच्च' (पा.४|३|५९) इति ञ्यः ॥"
+    }
+  ]
+}

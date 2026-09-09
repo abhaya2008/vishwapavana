@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005446,
+    "chapter_id": 6624,
+    "verse_number": "12.11",
+    "content_sanskrit": "परिकीर्णमुद्यतभुजस्य भुवनविवरे दुरासदम् । ज्योतिरुपरि शिरसो विततं जगृहे निजान्मुनिदिवौकसां पथः ॥",
+    "padaccheda": "परिकीर्णम् । उद्यतभुजस्य । भुवनविवरे । दुरासदम् । ज्योतिः । उपरि । शिरसः । विततम् । जगृहे । निजात् । मुनिदिवौकसाम् । पथः",
+    "anvaya": "उद्यतभुजस्य तस्य शिरसः उपरि विततम्, भुवनविवरे परिकीर्णम्, दुरासदम् ज्योतिः, मुनिदिवौकसाम् निजात् पथः जगृहे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A brilliant, unapproachable light, spreading above the head of Arjuna who had his arms raised, and diffused in the space of the universe, seized the paths of the sages and celestial beings from their own possession.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005446,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "परिकीर्णमिति ॥ उद्यतभुजस्योर्ध्ववाहोस्तस्य शिरस उपरि । `षष्ठ्यतसर्थप्रत्ययेन` (पा.2।3।30) इति षष्ठी । विततं विस्तृतं भुवनयोर्विवरे द्यावापृथिव्योरन्तराले परिकीर्णं व्याप्तं दुरासदं दुर्धर्षं ज्योतिस्तेजो मुनीनां दिवौकसां च निजान्नियतात्पथो मार्गाज्जगृहे जग्राह । प्रतिबबन्धेत्यर्थः॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004092,
+    "chapter_id": 6601,
+    "verse_number": "6.42",
+    "content_sanskrit": "यत्र स्फटिकहर्म्येषु नक्तमापानभूमिषु । ज्योतिषां प्रतिबिम्बानि प्राप्नुवन्त्युपहारताम् ॥",
+    "padaccheda": "यत्र । स्फटिकहर्म्येषु । नक्तम् । आपानभूमिषु । ज्योतिषां । प्रतिबिम्बानि । प्राप्नुवन्ति । उपहारताम्",
+    "anvaya": "यत्र नक्तम् आपानभूमिषु स्फटिकहर्म्येषु ज्योतिषां प्रतिबिम्बानि उपहारतां प्राप्नुवन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, at night, in the crystal palaces used as drinking pavilions, the reflections of the stars serve the purpose of decorative offerings, like scattered flowers.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004092,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यत्रेति । यत्र पुरे नक्तं रात्रौ स्फटिकहर्म्येष्वापानभूमिषु पानगोष्ठीप्रदेशेषु ज्योतिषां नक्षत्राणां प्रतिबिम्बान्युपहारतां पुष्पोपहारत्वं मौक्तिकोपहारत्वं वा प्राप्नुवन्ति"
+    }
+  ]
+}

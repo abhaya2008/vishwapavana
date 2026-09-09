@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004054,
+    "chapter_id": 6601,
+    "verse_number": "6.4",
+    "content_sanskrit": "ते प्रभामण्डलैर्व्योम द्योतयन्तस्तपोधनाः । सारुन्धतीकाः सपदि प्रादुरासन्पुरः प्रभोः ॥",
+    "padaccheda": "ते । प्रभामण्डलैः । व्योम । द्योतयन्तः । तपोधनाः । सारुन्धतीकाः । सपदि । प्रादुरासन् । पुरः । प्रभोः",
+    "anvaya": "ते तपोधनाः सारुन्धतीकाः प्रभामण्डलैः व्योम द्योतयन्तः सपदि प्रभोः पुरः प्रादुरासन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Those sages, whose wealth was their austerity, accompanied by Arundhati, instantly appeared before the Lord, illuminating the sky with their halos of light.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004054,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति । ते तप एव धनं येषां ते तपोधनाः सप्तर्षयः प्रभामण्डलैस्तेजःपुञ्जैर्व्योमाकाशं द्योतयन्तः प्रकाशयन्तः । अरुन्धत्या सह वर्तन्त इति सारुन्धतीकाः सन्तः । `नद्युतश्च` इति कप् । सपदि प्रभौरीश्वरस्य पुरः पुरोभागे प्रादुरासन्प्रत्यक्षा बभूवुः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011740,
+    "chapter_id": 6685,
+    "verse_number": "13.76",
+    "content_sanskrit": "मन्दिरे नन्दगोपस्य शश्वत्तस्याऽऽज्ञयाऽवसत् । सञ्चचूर्णयिषुबालं शौंरिं शकट'दानवः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011740,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शश्वच्चिरमवसत् । शश्वतालँङ् चेति (पा.३|२|११६) लङ् ॥"
+    }
+  ]
+}

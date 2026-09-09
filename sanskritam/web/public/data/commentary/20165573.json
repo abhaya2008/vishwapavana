@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165573,
+    "chapter_id": 7064,
+    "verse_number": "12.72",
+    "content_sanskrit": "मांसं हतानामिव राक्षसाना- माशंसवः क्रूर-गिरो रुवन्तः । क्रव्याऽशिनो दीप्त-कृशानु-वक्त्रा भ्राम्यन्त्य-भीताः परितः पुरं नः ॥",
+    "padaccheda": "हतानाम् । राक्षसानाम् । मांसम् । इव । आशंसवः । क्रूर-गिरः । रुवन्तः । दीप्त-कृशानु-वक्त्राः । क्रव्य-अशिनः । अ-भीताः । नः । पुरम् । परितः । भ्राम्यन्ति",
+    "anvaya": "हतानाम् राक्षसानाम् मांसम् इव आशंसवः क्रूर-गिरः रुवन्तः दीप्त-कृशानु-वक्त्राः क्रव्य-अशिनः अ-भीताः नः पुरम् परितः भ्राम्यन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Carnivorous beasts, craving the flesh of slaughtered Rākṣasas, wander fearlessly around our city, howling with cruel voices and possessing mouths that glow like blazing fire.",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165573,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "मांसमित्यादि - राक्षसानां हतानामिव मांसमाशंसवः आशंसनशीलाः सनाशंसभिक्ष उः (पा.३|२|१६८) मांसभुजः शृगालादयः क्रूरगिरः परुषस्वनाः कृशानुवक्त्राः ज्वलनसदृशवदनाः निर्भयाः परितो भ्रमन्ति ॥"
+    }
+  ]
+}

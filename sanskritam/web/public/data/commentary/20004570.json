@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004570,
+    "chapter_id": 6608,
+    "verse_number": "13.17",
+    "content_sanskrit": "इत्यन्धकारातिसुतस्य दैत्यवधाय युद्धोत्सुकमानसस्य । सर्वं शुचिस्मेरमुखारविन्दं गीर्वाणवृन्दं वचसा ननन्द ॥",
+    "padaccheda": "इति । अन्धकारातिसुतस्य । दैत्यवधाय । युद्धोत्सुकमानसस्य । सर्वम् । शुचिस्मेरमुखारविन्दम् । गीर्वाणवृन्दम् । वचसा । ननन्द",
+    "anvaya": "इति दैत्यवधाय युद्धोत्सुकमानसस्य अन्धकारातिसुतस्य वचसा शुचिस्मेरमुखारविन्दम् गीर्वाणवृन्दम् सर्वम् ननन्द",
+    "meaning_sanskrit": "",
+    "meaning_english": "Upon hearing the words of Kumāra (the son of Śiva), who was eager for battle to slay the demon, the entire host of gods rejoiced. Their faces, once clouded with fear, now blossomed like lotuses with pure smiles of relief and hope.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004570,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति । देत्यवधाय दैत्यवधं कर्तुं युद्ध उत्सुकमानसस्योत्कण्ठितचेतसोऽन्धकारातिसुतस्य शिवपुत्रस्य कुमारस्य सम्बन्धिना । इति पूर्वोक्तेन वचसा सर्वं गीर्वाणवृन्दं देवसमूहः शुचि शुद्धं स्मेरं समन्दहासं मुखारबिन्दं मुखकमलं यस्य तथाभूतं सन् ननन्द जहर्ष"
+    }
+  ]
+}

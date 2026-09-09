@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165213,
+    "chapter_id": 7061,
+    "verse_number": "9.40",
+    "content_sanskrit": "पवितोऽनुगुणैर्वातैः शीतैः पूत्वा पयो-निधौ । बभञ्जाऽध्युषितं भुयः क्षुधित्वा पत्रिभिर्वनम् ॥",
+    "padaccheda": "पवितः । अनुगुणैः । वातैः । शीतैः । पूत्वा । पयो-निधौ । बभञ्ज । अध्युषितम् । भूयः । क्षुधित्वा । पत्रिभिः । वनम्",
+    "anvaya": "पवितः अनुगुणैः वातैः शीतैः पूत्वा पयो-निधौ बभञ्ज अध्युषितम् भूयः क्षुधित्वा पत्रिभिः वनम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Purified by favorable cool winds and having cleansed himself in the ocean, the monkey, being hungry, again devastated the forest inhabited by birds.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165213,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "पवित इत्यादि — कपिरपि पयोनिधौ पूत्वा स्नात्वा अनुगुणैरनुकूलैः शीतै- वतैः पवितः पवित्रीकृतः । पूङश्च १७/२/५११' इति विभाषेट् । भूयः पुनर्वनं बभञ्ज । कीदृशम् । पत्रिभिः पक्षिभिः क्षुधितैर्भूत्वा । अध्युषितं कृत- निवासम् | वसति क्षुधोः - १७२५२१' इतीट् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165302,
+    "chapter_id": 7061,
+    "verse_number": "9.129",
+    "content_sanskrit": "एको द्वाभ्यां विराधस्तु जिताभ्याम-विवक्षितः । हतश्छलेन मूढोऽयं तेनाऽपि तव कः ? स्मयः ॥",
+    "padaccheda": "एकः । द्वाभ्याम् । विराधः । तु । जिताभ्याम् । अविवक्षितः । हतः । छलेन । मूढः । अयम् । तेन । अपि । तव । कः । स्मयः",
+    "anvaya": "द्वाभ्याम् जिताभ्याम् एकः विराधः तु अविवक्षितः। अयम् मूढः छलेन हतः। तेन अपि तव कः स्मयः?",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lone Virādha, though defeated by the two brothers, is not even worth mentioning. That fool was killed through deceit. Even so, why do you take pride in that?",
+    "audio_url": null,
+    "display_order": 129,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165302,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "एक इत्यादि - एकेनापि विराधेन प्रथमं द्वावपि जितौ ताभ्यां पश्चाद्धतः । तत्रापि न प्रकाशं अपि तु छलेन । यतो ऽसौ मूढो ऽल्पबुद्धिः । तथाप्यविव- क्षितः शौर्यान्न प्रतीतः । तेनापि हतेन तव विस्मयो जातः ॥"
+    }
+  ]
+}

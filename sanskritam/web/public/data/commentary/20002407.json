@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002407,
+    "chapter_id": 6580,
+    "verse_number": "4.18",
+    "content_sanskrit": "प्रसादसुमुखे तस्मिंश्चन्द्रे च विशदप्रभे । तदा चक्षुष्मतां प्रीतिरासीत्समरसा द्वयोः ॥",
+    "padaccheda": "प्रसादसुमुखे । तस्मिन् । चन्द्रे । च । विशदप्रभे । तदा । चक्षुष्मताम् । प्रीतिः । आसीत् । समरसा । द्वयोः",
+    "anvaya": "तदा प्रसादसुमुखे तस्मिन् विशदप्रभे चन्द्रे च, द्वयोः (विषये) चक्षुष्मताम् प्रीतिः समरसा आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that time, the delight of the people was equally intense towards both: towards King Raghu, whose face was radiant with grace, and towards the moon, which was brilliant with clear light.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002407,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रसादेति॥ प्रसादेन सुमुखे तस्मिन् रघौ विशदप्रभे निर्मलकान्तौ चन्द्रे च द्वयोर्विषये तदा चक्षुष्मतां प्रीतिरनुरागः समरसा समस्वादा। तुल्यभोगेति यावत्। `रसो गन्धे रसः स्वादे` इति विश्वः। आसीत्॥"
+    }
+  ]
+}

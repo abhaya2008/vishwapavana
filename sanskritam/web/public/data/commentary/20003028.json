@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003028,
+    "chapter_id": 6587,
+    "verse_number": "11.55",
+    "content_sanskrit": "ते चतुर्थसहितास्त्रयो बभुः सूनवो नववधूपरिग्रहाः । सामदानविधिभेदनिग्रहाः सिद्धिमन्त इव तस्य भूपतेः ॥",
+    "padaccheda": "ते । चतुर्थसहिताः । त्रयः । बभुः । सूनवः । नववधूपरिग्रहाः । सामदानविधिभेदनिग्रहाः । सिद्धिमन्तः । इव । तस्य । भूपतेः",
+    "anvaya": "चतुर्थसहिताः ते त्रयः सूनवः नववधूपरिग्रहाः तस्य भूपतेः सिद्धिमन्तः सामदानविधिभेदनिग्रहाः इव बभुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The four sons of King Daśaratha, having accepted their new brides, shone brilliantly. They appeared like the four successful means of royal policy—conciliation, gift-giving, sowing dissension, and force—personified for the king.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003028,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति॥ ते चतुर्थसहितास्त्रयः। चत्वार इत्यर्थः। वृत्तानुसारादेवमुक्तम्। सूनवो नववधूपरिग्रहाः सिद्धिमन्तः फलसिद्धियुक्तास्तस्य भूपतेर्दशरथस्यसामदानविधिमेदनिग्रहाश्चत्वार उपाया इव बभुः। विधीयत इति विधिः। दानमेव विधिः। निग्रहो दण्डः। सूनूनामुपायैर्वधूनां सिद्धिभिश्चौपम्यमित्यनुसंधेयम् ॥"
+    }
+  ]
+}

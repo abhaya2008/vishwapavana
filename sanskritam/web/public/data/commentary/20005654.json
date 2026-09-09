@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005654,
+    "chapter_id": 6627,
+    "verse_number": "15.29",
+    "content_sanskrit": "इति शासति सेनान्यां गच्छतस्ताननेकधा । निषिध्य हसता किंचित्तत्र तस्थेऽन्धकारिणा ॥",
+    "padaccheda": "इति । शासति । सेनान्याम् । गच्छतः । तान् । अनेकधा । निषिध्य । हसता । किञ्चित् । तत्र । तस्थे । अन्धकारिणा",
+    "anvaya": "सेनान्याम् इति शासति (सति), अनेकधा गच्छतः तान् निषिध्य, अन्धकारिणा हसता किञ्चित् तत्र तस्थे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While the commander of the army (Shiva) was thus instructing, he, the enemy of Andhaka, forbade his Ganas who were leaving in various directions, and stood there, smiling a little.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005654,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति ॥ इतीत्थं सेनान्यां स्कन्दे शासत्याज्ञापयत्यनेकधा गच्छतः पलायमानांस्तान्गणान्निषिध्य निवार्यान्धकारिणा हरेण किंचिद्धसता तस्थे स्थितम् । भावे लिट् । निरौष्ठ्यः ॥ मुनीषुदहनातप्ताँल्लज्जया निविवृत्स्यतः । शिवः प्रह्लादयामास तान्निषेधहिमाम्बुना"
+    }
+  ]
+}

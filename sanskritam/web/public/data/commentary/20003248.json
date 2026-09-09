@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003248,
+    "chapter_id": 6589,
+    "verse_number": "13.78",
+    "content_sanskrit": "लङ्केश्वरप्रणतिभङ्गदृढव्रतं त- द्वन्द्यं युगं चरणयोर्जनकात्मजायाः । ज्येष्ठानुवृत्तिजटिलं च शिरोऽस्य साधो- रन्योन्यपावनमभूदुभयं समेत्य ॥",
+    "padaccheda": "लङ्केश्वरप्रणतिभङ्गदृढव्रतम् । तत् । वन्द्यम् । युगम् । चरणयोः । जनकात्मजायाः । ज्येष्ठानुवृत्तिजटिलम् । च । शिरः । अस्य । साधोः । अन्योन्यपावनम् । अभूत् । उभयम् । समेत्य",
+    "anvaya": "जनक-आत्मजायाः लङ्केश्वर-प्रणति-भङ्ग-दृढ-व्रतम् तत् वन्द्यम् चरणयोः युगम्, अस्य साधोः ज्येष्ठ-अनुवृत्ति-जटिलम् शिरः च, उभयम् समेत्य अन्योन्य-पावनम् अभूत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That venerable pair of Sita's feet, which held the firm vow of spurning Ravana's salutation, and the head of the virtuous Bharata, matted from his ascetic life following his elder brother—both, upon coming together, became mutually purifying.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003248,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लङ्केश्वरप्रणतीति॥ लङ्केश्वरस्य रावणस्य प्रणतीनां भङ्गेन निरासेन दृढव्रतमखण्डितपातिव्रत्यमत एव वन्द्यं तज्जनकात्मजायाश्चरणयोर्युगं ज्येष्ठानुवृत्त्या जटिलं जटायुक्तं साधोः सज्जनस्यास्य भरतस्य शिरश्चेत्युभयं समेत्य मिलित्वाऽन्योन्यस्य पावनं शोधकमभूत् ॥"
+    }
+  ]
+}

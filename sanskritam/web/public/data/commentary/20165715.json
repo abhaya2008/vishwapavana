@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165715,
+    "chapter_id": 7066,
+    "verse_number": "14.67",
+    "content_sanskrit": "जगाहिरेऽम्बुधिं नागा ववौ वायुर्मनो-रमः । तेजांसि शंशमांचक्रुः शर-बन्धा विशिश्लिषुः ॥",
+    "padaccheda": "जगाहिरे । अम्बुधिम् । नागाः । ववौ । वायुः । मनोरमः । तेजांसि । शंशमांचक्रुः । शरबन्धाः । विशिश्लिषुः",
+    "anvaya": "नागाः अम्बुधिम् जगाहिरे मनः-रमः वायुः ववौ। तेजांसि शंशमाञ्चक्रुः शर-बन्धाः विशिश्लिषुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The serpents plunged into the ocean, and a pleasant wind blew. The fierce lights subsided, and the bonds of the arrow-serpents began to loosen.",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165715,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "जगाहिरे इत्यादि - नागा भयादम्बुधिं जगाहिरे प्रविष्टाः, वायुस्तत्प्रभवो ववौ वाति स्म, तेजांसि रत्नादीनां शंशमांचक्रुः अत्यर्थं प्रशान्तानि । शमेर्यङ्लु- गन्तस्य रूपम् । एवं च कृत्वा अनुप्रयोगे परस्मैपदम् । शरबन्धा विशिश्लिषु- विश्लिष्टाः । दूरत एव तत्प्रभावात् ॥"
+    }
+  ]
+}

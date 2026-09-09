@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005666,
+    "chapter_id": 6627,
+    "verse_number": "15.41",
+    "content_sanskrit": "शरवृष्टिं विधूयोर्वीमुदस्तां सव्यसाचिना । रुरोध मार्गणैर्मार्गं तपनस्य त्रिलोचनः ॥",
+    "padaccheda": "शरवृष्टिम् । विधूय । उर्वीम् । उदस्ताम् । सव्यसाचिना । रुरोध । मार्गणैः । मार्गम् । तपनस्य । त्रिलोचनः",
+    "anvaya": "त्रिलोचनः सव्यसाचिना उदस्ताम् उर्वीम् शरवृष्टिम् विधूय, मार्गणैः तपनस्य मार्गम् रुरोध ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The three-eyed Shiva, having shaken off the vast shower of arrows hurled by Arjuna, obstructed the path of the sun with his own arrows, making the sky dark.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005666,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "शरेति ॥ त्रिलोचनः शिवः। सव्येन सचते समवैतीति तेन सव्यसाचिनार्जुनेनोद्स्तांक्षिप्तामुर्वीं महतीं शरवृष्टिं मार्गणैः शरैर्विधूय निरस्य तपनस्य रवेर्मार्गं रुरोधावव्रे॥"
+    }
+  ]
+}

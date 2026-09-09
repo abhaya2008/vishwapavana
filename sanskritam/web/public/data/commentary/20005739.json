@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005739,
+    "chapter_id": 6628,
+    "verse_number": "16.61",
+    "content_sanskrit": "उपैत्यनन्तद्युतिरप्यसंशयं विभिन्नमूलोऽनुदयाय संक्षयम् । तथा हि तोयौघविभिन्नसंहतिः स हव्यवाहः प्रययौ पराभवम् ॥",
+    "padaccheda": "उपैति । अनन्तद्युतिः । अपि । असंशयम् । विभिन्नमूलः । अनुदयाय । संक्षयम् । तथा । हि । तोयौघविभिन्नसंहतिः । सः । हव्यवाहः । प्रययौ । पराभवम्",
+    "anvaya": "अनन्त-द्युतिः अपि विभिन्न-मूलः (सन्) अनुदयाय संक्षयम् असंशयम् उपैति। तथा हि तोय-ओघ-विभिन्न-संहतिः सः हव्यवाहः पराभवम् प्रययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indeed, even one of infinite splendor, if their foundation is destroyed, undoubtedly goes to ruin, never to rise again. Thus, the fire, its cohesive form shattered by the flood of water, met its defeat.",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005739,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "उपैतीति । अनन्तद्युतिर्महातेजा अपि विभिन्नमूलो नष्टमूलोऽसंशयं यथा तथानुदयाय पुनरनुत्थानाय संक्षयं नाशमुपैति । तथा हि । तोयौघैर्विभिन्ना संहतिः संघातो यस्य स तथोक्तः स हव्यवाहोऽग्निः पराभवं नाशं प्रययौ । विशेषेण सामान्यसमर्थनरूपोऽर्थान्तरन्यासः ॥"
+    }
+  ]
+}

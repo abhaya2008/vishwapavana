@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166070,
+    "chapter_id": 7070,
+    "verse_number": "18.32",
+    "content_sanskrit": "त्वयाऽपि नाम रहिताः कार्याणि तनुमो वयम् । कुर्मश्च जीविते बुद्धिं धिक्तृष्णां कृत-नाशिनीम् ॥",
+    "padaccheda": "त्वया । अपि । नाम । रहिताः । कार्याणि । तनुमः । वयम् । कुर्मः । च । जीविते । बुद्धिम् । धिक् । तृष्णाम् । कृत-नाशिनीम्",
+    "anvaya": "वयम् त्वया अपि नाम रहिताः कार्याणि तनुमः । जीविते बुद्धिम् कुर्मः च । कृत-नाशिनीम् तृष्णाम् धिक् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even though we are separated from you, we continue our activities and set our minds on living. Fie upon this desire for life that destroys all that has been done!",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166070,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "त्वयेत्यादि - यद्वयं त्वया विना कार्याणि राज्याङ्गानि तनुमः प्रसारयि- प्यामः । जीविते च बुद्धिं कुर्मः । तदिमां कार्ये जीविते च तृष्णां कृतनाशिनीं धिक् । गर्हायां लडपि जात्वोः (पा.३|३|१४२) इति भविष्यति लट् ॥"
+    }
+  ]
+}

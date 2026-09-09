@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003130,
+    "chapter_id": 6588,
+    "verse_number": "12.64",
+    "content_sanskrit": "प्रत्यभिज्ञानरत्नं च रामायादर्शयत्कृती । हृदयं स्वयमायातं वैदेह्या इव मूर्तिमत् ॥",
+    "padaccheda": "प्रत्यभिज्ञानरत्नम् । च । रामाय । अदर्शयत् । कृती । हृदयम् । स्वयम् । आयातम् । वैदेह्याः । इव । मूर्तिमत्",
+    "anvaya": "कृती रामाय प्रत्यभिज्ञानरत्नं च अदर्शयत् । वैदेह्याः मूर्तिमत् स्वयम् आयातम् हृदयं इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The successful Hanuman showed Rama the jewel of recognition (Chudamani). It was as if Sita's own heart had arrived in personified form.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003130,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रत्यभिज्ञेति॥ कृती कृतकृत्यः कपिः स्वयमायातं मूर्तिमद्वैदेह्या हृदयमिव स्थितं तस्या एव प्रत्यभिज्ञानरत्नं च रामायादर्शयत् ॥"
+    }
+  ]
+}

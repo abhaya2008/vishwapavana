@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003112,
+    "chapter_id": 6588,
+    "verse_number": "12.46",
+    "content_sanskrit": "असज्जनेन काकुत्स्थः प्रयुक्तमथ दूषणम् । न चक्षमे शुभाचारः स दूषणमिवात्मनः ॥",
+    "padaccheda": "असज्जनेन । काकुत्स्थः । प्रयुक्तम् । अथ । दूषणम् । न । चक्षमे । शुभाचारः । सः । दूषणम् । इव । आत्मनः",
+    "anvaya": "अथ शुभाचारः सः काकुत्स्थः असज्जनेन प्रयुक्तं दूषणं आत्मनः दूषणं इव न चक्षमे ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rama, who was of righteous conduct, did not tolerate the demon Dushana sent by the wicked, just as he would not tolerate a stain upon his own character.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003112,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असदिति॥ अथ शुभाचारो रणे साधुचारि सद्वृत्तश्च स काकुत्स्थोऽसज्जनेन दुर्जनेन रक्षोजनेन च प्रयुक्तं प्रेषितमुञ्चारितं च दूषणं दूषणाख्यं राक्षसमात्मनो दूषणं दोषमिव न चक्षमे न सेहे। प्रतिकर्तुं प्रवृत्त इत्यर्थः॥"
+    }
+  ]
+}

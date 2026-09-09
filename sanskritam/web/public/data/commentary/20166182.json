@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166182,
+    "chapter_id": 7074,
+    "verse_number": "22.12",
+    "content_sanskrit": "तमसाया महा-नील-पाषाण-सदृश-त्विषः । वनाऽन्तात्बहु मन्तासे नागराऽऽक्रीड-शाखिनः ॥",
+    "padaccheda": "महा-नील-पाषाण-सदृश-त्विषः । तमसायाः । वन-अन्तात् । नागरा-आक्रीड-शाखिनः । बहु । मन्तासे",
+    "anvaya": "महा-नील-पाषाण-सदृश-त्विषः तमसायाः वन-अन्तात् नागरा-आक्रीड-शाखिनः बहु मन्तासे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "From the edge of the forest of the Tamasā river, which has the luster of a great sapphire, you will highly admire the trees used by city-dwellers for recreation.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166182,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तमसाया इत्यादि - तमसायाश्च नद्याः वनान्तान् वनोपकण्ठान् महानी- लमणेस्तुल्यत्विषोऽतिनीलत्वात् । नागराणां आक्रीडो रन्तव्यं तत्साक्षिणः बहु मन्तासे श्लाघितासे ॥"
+    }
+  ]
+}

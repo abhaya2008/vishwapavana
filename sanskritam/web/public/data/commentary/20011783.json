@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011783,
+    "chapter_id": 6686,
+    "verse_number": "14.7",
+    "content_sanskrit": "सा कटाक्षेन्धनैस्तस्य संधुक्ष्य मदनाननलम् । जुहवामास तत्र खामाज्यधारामिव स्मितिम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011783,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "संधुक्ष्य सन्दीप्त्य । तत्र स्वां स्मितिं आज्यधारामिव जुहवामास जुहाव । सस्नेहं ज्वलयामासेत्यर्थः ॥"
+    }
+  ]
+}

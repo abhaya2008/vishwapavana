@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005336,
+    "chapter_id": 6622,
+    "verse_number": "10.45",
+    "content_sanskrit": "अभिमुनि सहसा हृते परस्या घनमरुता जघनांशुकैकदेशे । चकितमवसनोरु सत्रपायाः प्रतियुवतीरपि विस्मयं निनाय ॥",
+    "padaccheda": "अभिमुनि । सहसा । हृते । परस्याः । घनमरुता । जघनांशुकैकदेशे । चकितम् । अवसनोरु । सत्रपायाः । प्रतियुवतीः । अपि । विस्मयम् । निनाय",
+    "anvaya": "अभिमुनि परस्याः जघनांशुकैकदेशे घनमरुता सहसा हृते सति, सत्रपायाः चकितम् अवसनोरु प्रतियुवतीः अपि विस्मयं निनाय।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As one woman looked towards the sage, a strong wind suddenly carried away a part of the garment covering her hips. The sight of the bashful woman's startled, uncovered thigh caused astonishment even in her rival nymphs.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005336,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अभिमुनीति ॥ अभिमुनि मुनिसमक्षं घनेन मरुता जघनांशुकस्यैकदेशे सहसा हृते सति सत्रपायाः सलज्जायाः परस्याः संबन्ध्यवसनौ निरावरणावूरू यस्मिम्स्तच्चकितं भयसंभ्रमः प्रतियुवतीरपि सपत्नीरपि विस्मयं निनाय । किमुतान्यजनमित्यपिशव्दार्थः। न तु मुनिमित्याशयः॥"
+    }
+  ]
+}

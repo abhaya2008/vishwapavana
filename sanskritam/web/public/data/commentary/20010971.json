@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010971,
+    "chapter_id": 6678,
+    "verse_number": "6.92",
+    "content_sanskrit": "अनुगन्तुं यतीर्मातॄर्मृगैस्त्र स्तनन्धयैः । स्नेहेन चलितं भाव्यं युष्माकं तेषु दृष्टिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010971,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'स्नेहेन चलितं भाव्य'मिति भावे ॥"
+    }
+  ]
+}

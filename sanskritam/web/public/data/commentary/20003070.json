@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003070,
+    "chapter_id": 6588,
+    "verse_number": "12.4",
+    "content_sanskrit": "तस्याभिषेकसंभारं कल्पितं क्रूरनिश्चया । दूषयामास कैकेयी शोकोष्णैः पार्थिवाश्रुभिः ॥",
+    "padaccheda": "तस्य । अभिषेकसंभारं । कल्पितं । क्रूरनिश्चया । दूषयामास । कैकेयी । शोकोष्णैः । पार्थिवाश्रुभिः",
+    "anvaya": "क्रूरनिश्चया कैकेयी तस्य कल्पितम् अभिषेकसंभारं शोकोष्णैः पार्थिवाश्रुभिः दूषयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kaikeyi, fixed in her cruel determination, ruined the elaborate preparations made for Rama's coronation by causing the King to shed tears hot with grief. Her demands turned a festive occasion into a tragedy for the King.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003070,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ क्रूरनिश्चया कैकेयी तस्य रामस्य कल्पितं संभृतमभिषेकस्य संभारमुपकरणं शोकोष्णैः पार्थिवाश्रुभिर्दूषयामास। स्वदुःखमूलेन राजशोकेन प्रतिबबन्धेत्यर्थः ॥"
+    }
+  ]
+}

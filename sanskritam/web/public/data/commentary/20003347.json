@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003347,
+    "chapter_id": 6591,
+    "verse_number": "15.11",
+    "content_sanskrit": "तस्य मार्गवशादेका बभूव वसतिर्यतः । रथस्वनोत्कण्ठमृगे वाल्मीकीये तपोवने ॥",
+    "padaccheda": "तस्य । मार्गवशात् । एका । बभूव । वसतिः । यतः । रथस्वनोत्कण्ठमृगे । वाल्मीकीये । तपोवने",
+    "anvaya": "मार्गवशात् तस्य एका वसतिः रथस्वन-उत्कण्ठ-मृगे वाल्मीकीये तपोवने बभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the course of his journey, he made a one-night halt in the hermitage of Valmiki, where the deer grew anxious upon hearing the sound of his chariot.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003347,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ यतो गच्छतः। इण्धातोः शदृप्रत्ययः। तस्य शत्रुघ्नस्य मार्गवशाद्रथस्वन उत्कण्ठा उद्गीवा मृगा यस्मिंस्तस्मिन्वाल्मीकीये वाल्मीकिसंबन्धिनि। `वृद्धाच्छः` (पा.4।2।114) इति छप्रत्ययः। तपोवन एका वसती रात्रिर्बभूव। तत्रैकां रात्रिमुषित इत्यर्थः। `वसती रात्रिवेश्मनोः` इत्यमरः (अ.को.3|3|74)॥"
+    }
+  ]
+}

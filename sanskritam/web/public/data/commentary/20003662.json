@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003662,
+    "chapter_id": 6595,
+    "verse_number": "19.1",
+    "content_sanskrit": "अग्निवर्णमभिषिच्य राघवः स्वे पदे तनयमग्नितेजसम् । शिश्रिये श्रुतवतामपश्चिमः पश्चिमे वयसि नैमिषं वशी ॥",
+    "padaccheda": "अग्निवर्णम् । अभिषिच्य । राघवः । स्वे । पदे । तनयम् । अग्नितेजसम् । शिश्रिये । श्रुतवताम् । अपश्चिमः । पश्चिमे । वयसि । नैमिषम् । वशी",
+    "anvaya": "श्रुतवताम् अपश्चिमः वशी राघवः, अग्नि-तेजसम् तनयम् अग्निवर्णम् स्वे पदे अभिषिच्य, पश्चिमे वयसि नैमिषम् शिश्रिये।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Sudarśana (Rāghava), the self-controlled one and foremost among the learned, having consecrated his son Agnivarṇa, who possessed the brilliance of fire, to his own throne, resorted to the Naimiṣa forest in his old age.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003662,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अग्निवर्णमिति॥ श्रुतवतां श्रुतसंपन्नानामपश्चिमः प्रथमो वशी जितेन्द्रियो राघवः सुदर्शनः पश्चिमे वयसि वार्द्धके स्वे पदे स्थानेऽग्नितेजसं तनयमग्निवर्णमभिषिच्य नैमिषं नैमिषारण्यं शिश्रिये श्रितवान् ॥"
+    }
+  ]
+}

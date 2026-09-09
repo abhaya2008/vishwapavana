@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011445,
+    "chapter_id": 6683,
+    "verse_number": "11.22",
+    "content_sanskrit": "दृष्ट्वा द्वारवतीं पार्थः प्रीतिकौतूहलाकुलः । दूरादेवेति वक्ति स्म सुहृदो द्विजपुङ्गवान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011445,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दृष्ट्वेत्यादि । पूर्ववल्लट् । वचिरादादिकः ।"
+    }
+  ]
+}

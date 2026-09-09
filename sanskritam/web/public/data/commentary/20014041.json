@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014041,
+    "chapter_id": 6706,
+    "verse_number": "14.112",
+    "content_sanskrit": "इत्युक्त्वा तैर्मातुलं मस्करीशः शिष्यैर्हृष्यन्सेतुमेष प्रतस्थे । प्रस्थातुः श्रीपद्मपादस्य जातं कष्टं चैष्यत्सूचनायै निमित्तम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014041,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "भविष्यत्सूचनाय कष्टं निमित्तं जातम् ॥ १२ ॥"
+    }
+  ]
+}

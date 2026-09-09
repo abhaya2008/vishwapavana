@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003390,
+    "chapter_id": 6591,
+    "verse_number": "15.54",
+    "content_sanskrit": "रघुनाथोऽप्यगस्त्येन मार्गसंदर्शितात्मना । महौजसा संयुयुजे शरत्काल इवेन्दुना ॥",
+    "padaccheda": "रघुनाथः । अपि । अगस्त्येन । मार्गसंदर्शितात्मना । महौजसा । संयुयुजे । शरत्कालः । इव । इन्दुना",
+    "anvaya": "मार्ग-संदर्शित-आत्मना रघुनाथः अपि महौजसा अगस्त्येन, शरत्-कालः इन्दुना इव, संयुयुजे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Raghunatha (Rama), to whom the path was shown, was united with the greatly splendid Agastya, just as the autumn season is united with the moon.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003390,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रघुनाथ इति॥ रघुनाथोऽपि मार्गसंदर्शितात्मना महौजसाऽगस्त्येन। इन्दुना शरत्काल इव संयुयुजे संगतः। इन्दावपि विशेषणं योज्यम्‌। `रघुनाथ` इत्यत्र क्षुभ्रादित्वाण्णत्वाभावः ॥"
+    }
+  ]
+}

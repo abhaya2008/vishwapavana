@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002682,
+    "chapter_id": 6583,
+    "verse_number": "7.43",
+    "content_sanskrit": "स च्छिन्नमूलः क्षतजेन रेणुस्तस्योपरिष्टात्पवनावधूतः । अङ्गारशेषस्य हुताशनस्य पूर्वोत्थितो धूम इवाबभासे ॥",
+    "padaccheda": "सः । छिन्न-मूलः । क्षतजेन । रेणुः । तस्य । उपरिष्टात् । पवन-अवधूतः । अङ्गार-शेषस्य । हुत-अशनस्य । पूर्व-उत्थितः । धूमः । इव । अवबभासे",
+    "anvaya": "क्षतजेन छिन्न-मूलः सः रेणुः, तस्य उपरिष्टात् पवन-अवधूतः (सन्), अङ्गार-शेषस्य हुत-अशनस्य पूर्व-उत्थितः धूमः इव अवबभासे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That dust, settled at its source by the blood, being stirred up by the wind above it, appeared like the smoke that had previously risen from a fire now reduced to embers.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002682,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ क्षतजेन रुधइरेण छिन्नमूलः। त्याजितभूतलसंबन्ध इत्यर्थः। तस्य क्षतजस्योपरिष्टात् पवनावधूतो वाताहतः स रेणुः। अङ्गारशेषस्य हुताशनस्याग्नेः पूर्वोत्थितो धूम इव। आबभासे दिदीपे ॥"
+    }
+  ]
+}

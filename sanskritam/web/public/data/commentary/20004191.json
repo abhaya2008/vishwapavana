@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004191,
+    "chapter_id": 6602,
+    "verse_number": "7.46",
+    "content_sanskrit": "कम्पेन मूर्ध्नः शतपत्रयोनिं वाचा हरिं वृत्रहणं स्मितेन । आलोकमात्रेण सुरानशेषान्संभावयामास यथाप्रधानम् ॥",
+    "padaccheda": "कम्पेन । मूर्ध्नः । शतपत्रयोनिम् । वाचा । हरिम् । वृत्रहणम् । स्मितेन । आलोक-मात्रेण । सुरान् । अशेषान् । संभावयामास । यथा-प्रधानम्",
+    "anvaya": "सः मूर्ध्नः कम्पेन शतपत्रयोनिम्, वाचा हरिम्, स्मितेन वृत्रहणम्, आलोक-मात्रेण अशेषान् सुरान् यथा-प्रधानम् संभावयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Shiva) honored them according to their rank: Brahma, the lotus-born, with a nod of his head; Vishnu with a word; Indra, the slayer of Vritra, with a smile; and all the remaining gods with a mere glance.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004191,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कम्पेनेति । स देवः शतपत्रयोनिं चतुर्मुखं मूर्ध्नः कम्पेन, तथा हरिं वाचा संभाषणेन, वृत्रं हतवन्तं वृत्रहणमिन्द्रम् । `ब्रह्मभ्रूणवृत्रेषु क्विप्` (पा.3|2|87) इति क्विप् । स्मितेन मन्दहासेनाशेषान्सुरानालोकमात्रेण दृष्टिमात्रेणेत्थं यथाप्रधानं यथार्हं संभावयामास"
+    }
+  ]
+}

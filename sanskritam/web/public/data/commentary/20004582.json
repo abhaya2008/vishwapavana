@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004582,
+    "chapter_id": 6608,
+    "verse_number": "13.29",
+    "content_sanskrit": "ननन्द सद्यश्चिरकालदृष्टां विलोक्य शक्रः सुरदीर्घिकां ताम् । अदर्शयत्सादरमद्रिपुत्रीमहेशपुत्राय ततः पुरोगः ॥",
+    "padaccheda": "ननन्द । सद्यः । चिरकालदृष्टाम् । विलोक्य । शक्रः । सुरदीर्घिकाम् । ताम् । अदर्शयत् । सादरम् । अद्रिपुत्रीमहेशपुत्राय । ततः । पुरोगः",
+    "anvaya": "शक्रः चिरकालदृष्टाम् ताम् सुरदीर्घिकाम् विलोक्य सद्यः ननन्द ततः पुरोगः अद्रिपुत्रीमहेशपुत्राय सादरम् अदर्शयत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra rejoiced instantly upon seeing the celestial river, which he had not seen for a long time. Then, walking ahead as a guide, he respectfully showed the river to Kārttikeya, the son of Pārvatī and Śiva.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004582,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ननन्देति । शक्र इन्द्रश्चिरकालेन बहुकालेन दृष्टां तां सुरदीर्घिकां मन्दाकिनीं विलोक्य सद्यो झटिति ननन्द जहर्ष । अतिरमणीयं वस्तु चिरकालदृष्टं सद्वहुप्रीतिजनकं भवतीति भावः । ततोऽनन्तरमद्रिपुत्रीमहेशयोः पुत्राय कुमाराय सादरं यथा तथा पुरोगः सन्नदर्शयत्"
+    }
+  ]
+}

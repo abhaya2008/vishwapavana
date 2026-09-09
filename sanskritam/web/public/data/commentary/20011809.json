@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011809,
+    "chapter_id": 6686,
+    "verse_number": "14.33",
+    "content_sanskrit": "अथाऽनङ्गद्विषो लिङ्गं द्वैप्यमभ्यर्चितुं ययुः । द्वीपं वृष्ण्यन्धकास्सर्वे तरन्तो नौभिरर्णवम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011809,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "द्वैप्यं द्वीपे भवम् । “द्वीपादनुसमुद्रं यञि\"ति (पा.४|३|१०) शैषिको यञ् ॥"
+    }
+  ]
+}

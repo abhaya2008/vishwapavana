@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004447,
+    "chapter_id": 6606,
+    "verse_number": "11.4",
+    "content_sanskrit": "अत्रान्तरे पर्वतराजपुत्र्या समं शिवः स्वैरविहारहेतोः । नभो विमानेन विगाहमानो मनोतिवेगेन जगाम तत्र ॥",
+    "padaccheda": "अत्रान्तरे । पर्वतराजपुत्र्या । समम् । शिवः । स्वैरविहारहेतोः । नभः । विमानेन । विगाहमानः । मनोतिवेगेन । जगाम । तत्र",
+    "anvaya": "अत्रान्तरे शिवः पर्वतराजपुत्र्या समं नभः विमानेन विगाहमानः मनोतिवेगेन स्वैरविहारहेतोः तत्र जगाम ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Meanwhile, Lord Śiva, traversing the sky in a celestial chariot with the daughter of the Mountain King (Pārvatī) for a pleasure trip, arrived at that spot with a speed surpassing that of the mind.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004447,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अत्रान्तर इति । अत्रान्तरे कलहावसरे शिवः पर्वतराजपुत्र्या पार्वत्या समं सह स्वैरविहारो यथेच्छविहारस्तस्माद्धेतोः कारणान्मनोतिवेगेन चेतसोऽप्यतिशयजवेन विमानेन नभोऽन्तरिक्षं विगाहमानोऽवलोडयंस्तत्र कलहस्थाने जगाम प्राप"
+    }
+  ]
+}

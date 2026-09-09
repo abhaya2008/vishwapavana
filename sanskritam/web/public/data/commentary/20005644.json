@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005644,
+    "chapter_id": 6627,
+    "verse_number": "15.19",
+    "content_sanskrit": "अयं वः क्लैब्यमापन्नान्दृष्टपृष्ठानरातिना । इच्छतीशश्च्युताचारान्दारानिव निगोपितुम् ॥",
+    "padaccheda": "अयम् । वः । क्लैब्यम् । आपन्नान् । दृष्टपृष्ठान् । अरातिना । इच्छति । ईशः । च्युताचारान् । दारान् । इव । निगोपितुम्",
+    "anvaya": "अयम् ईशः अरातिना दृष्ट-पृष्ठान् क्लैब्यम् आपन्नान् च्युत-आचारान् वः दारान् इव निगोपितुम् इच्छति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This Lord (Shiva) wishes to conceal you—who have shown your backs to the enemy, resorted to cowardice, and deviated from proper conduct—just as one would wish to hide wives who have fallen from good conduct.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005644,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अयमिति ॥ अयमीशः स्वामी शिवः क्लैब्यं निष्पौरुषत्वमापन्नान्प्राप्तांस्तथारातिना दृष्टपृष्ठान् । पलायमानानित्यर्थः। वो युष्मांश्च्युताचारान्स्खलितव्रतान्दारान्कलत्राणीव। `अथ पूंभूम्नि दाराः` इत्यमरः । निगोपितुं गोप्तुम् । ऊदित्त्वादिङ्विकल्पः। दारदोषं भर्तेव स्वमहिम्ना युष्मद्दोषं संवरितुमिच्छति। अतः कुत्रो युष्माकमनर्थ इत्यर्थः॥"
+    }
+  ]
+}

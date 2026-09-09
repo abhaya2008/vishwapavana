@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004750,
+    "chapter_id": 6611,
+    "verse_number": "16.42",
+    "content_sanskrit": "द्विषा प्रासहृतप्राणो वाजिपृष्ठदृढासनः । हस्तोद्धृतमहाप्रासो भुवि जीवन्निवाभ्रमत् ॥",
+    "padaccheda": "द्विषा । प्रासहृतप्राणः । वाजिपृष्ठदृढासनः । हस्तोद्धृतमहाप्रासः । भुवि । जीवन् । इव । अभ्रमत्",
+    "anvaya": "द्विषा प्रास-हृत-प्राणः वाजि-पृष्ठ-दृढ-आसनः हस्त-उद्धृत-महा-प्रासः भुवि जीवन् इव अभ्रमत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "A warrior, whose life had been taken by an enemy's spear, remained firmly seated on his horse with a large spear still raised in his hand. He moved about the battlefield appearing as if he were still alive.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004750,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "द्विषिते । द्विषा शत्रुणा कृत्वा हृतप्राणो मारितः । तथा वाजिपृष्ठेऽश्वपृष्ठभागे दृढासनः प्रग्दृढासनत्वान्मृतत्वे दृढत्वं युक्तम् । तथा हस्त उद्धृतो महाप्रासो येन तथाभूतः कश्चिज्जीवन्निव भुव्यभ्रमत् । अश्वभ्रमणवशाद्भमञ्शवोऽशव इव लक्षित इति भावः"
+    }
+  ]
+}

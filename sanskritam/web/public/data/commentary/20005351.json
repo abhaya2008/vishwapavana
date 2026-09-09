@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005351,
+    "chapter_id": 6622,
+    "verse_number": "10.60",
+    "content_sanskrit": "अलसपदमनोरमं प्रकृत्या जितकलहंसवधूगति प्रयातम् । स्थितमुरुजघनस्थलातिभारादुदितपरिश्रमजिह्मितेक्षणं वा ॥",
+    "padaccheda": "अलसपदमनोरमम् । प्रकृत्या । जितकलहंसवधूगति । प्रयातम् । स्थितम् । उरुजघनस्थलातिभारात् । उदितपरिश्रमजिह्मितेक्षणम् । वा",
+    "anvaya": "प्रकृत्या अलस-पद-मनोरमं जित-कलहंस-वधू-गति प्रयातम्, वा उरु-जघन-स्थल-अतिभारात् उदित-परिश्रम-जिह्मित-ईक्षणं स्थितम् (तासु भूषाम् इयाय) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Their walking, naturally charming with languid steps and surpassing the gait of a female swan, or their standing posture, with eyes drooping from the fatigue caused by the weight of their ample hips, also became their adornments.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005351,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अलसेति॥ वधूनां संबन्धि प्रकृत्यालसैः पदैर्मनोरमं मनोज्ञमत एव जिता कलहंसबधूनां गतिर्येन तत्प्रयातं गमनम् । भावे क्तः। तथोरुणोऽतिविपुलस्य जघनस्थलस्यातिभारादतिगौरवादुदितपरिश्रमेणोद्गतश्रमेण जिह्मिते धूर्णिते ईक्षणे यस्मिम्स्तत्स्थितं वा स्थितिश्च । सर्वत्र वाशब्दः समुच्चये ॥"
+    }
+  ]
+}

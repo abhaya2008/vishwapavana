@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011454,
+    "chapter_id": 6683,
+    "verse_number": "11.31",
+    "content_sanskrit": "कदाऽऽलोकामहे कृष्णं कर्हि वीक्षामहे बलम् । इत्थं द्वाःस्थैर्नृपा रुद्धा वदन्त्यस्यां बहिः स्थिताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011454,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कदाऽलोकामहे कृष्णं कर्हि वीक्षामहे इति 'विभाषाकदाकर्ह्यो'रिति (पा.३|३|५) भविष्यति लट् ॥"
+    }
+  ]
+}

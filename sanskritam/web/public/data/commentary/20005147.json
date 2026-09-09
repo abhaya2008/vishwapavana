@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005147,
+    "chapter_id": 6619,
+    "verse_number": "7.31",
+    "content_sanskrit": "प्रस्थानश्रमजनितां विहाय निद्रामामुक्ते गजपतिना सदानपङ्के । शय्यान्ते कुलमलिनां क्षणं विलीनं संरम्भच्युतमिव शृङ्खलं चकाशे ॥",
+    "padaccheda": "प्रस्थान । श्रम । जनितां । विहाय । निद्राम् । आमुक्ते । गजपतिना । सदानपङ्के । शय्यान्ते । कुलम् । अलिनां । क्षणं । विलीनं । संरम्भच्युतम् । इव । शृङ्खलं । चकाशे",
+    "anvaya": "गजपतिना प्रस्थान-श्रम-जनिताम् निद्राम् विहाय स-दान-पङ्के आमुक्ते सति, शय्या-अन्ते क्षणम् विलीनम् अलिनाम् कुलम्, संरम्भ-च्युतम् शृङ्खलम् इव चकाशे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When the lordly elephant, smeared with the mud of its rut-fluid, shook off the sleep induced by the journey's fatigue and was unleashed, a swarm of bees that had momentarily settled near its resting place appeared like an iron chain that had fallen off during a furious struggle.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005147,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " प्रस्थानेति ॥ गजपतिना प्रस्थानश्रमेण गमनक्लेशेनजनितां निद्रां विहायामुक्तेऽतएव सदानपङ्के गजमदयुक्ते शय्यान्ते शयनीयप्रदेशे क्षणं विलीनं लग्नमलिनां कुलं संरम्भेणोत्थानसंभ्रमेण च्युतं भ्रष्टं शृङ्खलं निगडमिवेत्युत्प्रेक्षा । `अथ शृङ्खले । अन्दुको निगडोऽस्त्री स्यात्` इत्यमरः (अ.को.2|8|41) । चकाशे शुशुभे ॥"
+    }
+  ]
+}

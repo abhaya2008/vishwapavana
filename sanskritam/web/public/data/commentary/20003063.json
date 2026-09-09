@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003063,
+    "chapter_id": 6587,
+    "verse_number": "11.90",
+    "content_sanskrit": "राजसत्वमवधूय मातृकं पित्र्यमस्मि गमितः शमं यदा । नन्वनिन्दितफलो मम त्वया निग्रहोऽप्ययमनुग्रहीकृतः ॥",
+    "padaccheda": "राजसत्वम् । अवधूय । मातृकम् । पित्र्यम् । अस्मि । गमितः । शमम् । यदा । ननु । अनिन्दितफलः । मम । त्वया । निग्रहः । अपि । अयम् । अनुग्रहीकृतः",
+    "anvaya": "यदा मातृकम् राजसत्वम् अवधूय पित्र्यम् शमम् गमितः अस्मि, ननु त्वया मम अयम् निग्रहः अपि अनिन्दितफलः अनुग्रहीकृतः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Parashurama said: \"Since I have been made to shake off the quality of Rajas inherited from my mother and attain the tranquility inherited from my father, indeed, even this subjugation of me by you has been turned into a favor with a praiseworthy result.\"",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003063,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राजसत्वमिति॥ मातुरागतं मातृकं राजसत्वं रजोगुणप्रधानत्वमवधूयपितुरागतं पित्र्यं शमं यदा गमितोऽस्मि। तदा त्वया ममापेक्षितत्वादनिन्दितमगर्हितं फलं स्वर्गहानिलक्षणं यस्य सोऽयं निग्रहोऽपकारोऽप्यनुग्रहीकृतो ननूपकारीकृतः खलु ॥"
+    }
+  ]
+}

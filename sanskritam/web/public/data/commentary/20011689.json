@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011689,
+    "chapter_id": 6685,
+    "verse_number": "13.25",
+    "content_sanskrit": "अकरोत्सर्वकर्माणि कृतकृत्योऽपि केशवः । कर्म कर्तव्यमर्त्येभ्यः पुरुषानिति बोधयन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011689,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अकरोदिति पूर्ववदुः । आर्धधातुके सार्वधातुके च गुणः ॥ [सार्वधातुकार्धधातुकयोः (पा.७|३|८४)]"
+    }
+  ]
+}

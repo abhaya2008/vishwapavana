@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003917,
+    "chapter_id": 6598,
+    "verse_number": "3.75",
+    "content_sanskrit": "शैलात्मजापि पितुरुच्छिरसोऽभिलाषं व्यर्थं समर्थ्य ललितं वपुरात्मनश्च । सख्योः समक्षमिति चाधिकजातलज्जा शून्या जगाम भवनाभिमुखी कथं चित् ॥",
+    "padaccheda": "शैलात्मजा । अपि । पितुः । उच्छिरसः । अभिलाषम् । व्यर्थम् । समर्थ्य । ललितम् । वपुः । आत्मनः । च । सख्योः । समक्षम् । इति । च । अधिकजातलज्जा । शून्या । जगाम । भवनाभिमुखी । कथं चित्",
+    "anvaya": "शैल-आत्मजा अपि उत्-शिरसः पितुः अभिलाषम् आत्मनः ललितम् वपुः च व्यर्थम् समर्थ्य, सख्योः समक्षम् इति च अधिक-जात-लज्जा शून्या भवन-अभिमुखी कथम् चित् जगाम।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The daughter of the mountain (Parvati), considering her proud father's wish and her own lovely body to be in vain, and feeling exceedingly ashamed because this happened in front of her friends, somehow, dejectedly, turned towards her home and departed.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003917,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शैलात्मजा पार्वत्यप्युच्छिरस उन्नतशिरसो महतः पितुरभिलाषं हरोवरोऽस्त्विति मनोरथं ललितं सुन्दरमात्मनो वपुश्च व्यर्थ निष्फलं समर्थ्य विचार्य सख्योः समक्षं पुर इति च हेतुनाधिकं जातलज्जा । समानजनसमक्षमवमानस्य अतिदःसहत्वादिति भावः । शून्या निरुत्साहा सती कथञ्चित्कृच्छ्रेण भवनस्याभिमुखी जगाम"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003581,
+    "chapter_id": 6593,
+    "verse_number": "17.54",
+    "content_sanskrit": "अपथेन प्रववृते न जातूपचितोऽपि सः । वृद्धौ नदीमुखेनैव प्रस्थानं लवणाम्भसः ॥",
+    "padaccheda": "अपथेन । प्रववृते । न । जातु । उपचितः । अपि । सः । वृद्धौ । नदीमुखेन । एव । प्रस्थानम् । लवणाम्भसः",
+    "anvaya": "उपचितः अपि सः जातु अपथेन न प्र-ववृते । वृद्धौ लवण-अम्भसः प्र-स्थानम् नदी-मुखेन एव (भवति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even when he became powerful, he never proceeded on a wrong path. During high tide, the movement of the ocean is only through the river's mouth (it does not overflow its banks).",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003581,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अपथेनेति॥ सोऽतिथिरुपचितोऽपि वृद्धिं गतोऽपि सन्। जातु कदाचिदप्यपथेन कुमार्गेण न प्रववृते न प्रवृत्तः। मर्यादां न जहावित्यर्थः। तथा हि-लवणाम्भसो लवणसागरस्य वृद्धौ पूरोत्पीडे सत्यां नदीमुखेनैव नदीप्रवेशमार्गेणैव प्रस्थानं निःसरणम्, न त्वन्यथेत्यर्थः ॥"
+    }
+  ]
+}

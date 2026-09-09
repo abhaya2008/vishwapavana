@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012633,
+    "chapter_id": 6693,
+    "verse_number": "1.78",
+    "content_sanskrit": "श्रुत्वा तदद्भुतं कर्म द्विजा दिग्भ्यः समाययुः । घनघोषमिवाऽऽकर्ण्य निकुञ्जेभ्यः शिखावलाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012633,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "घनघोषं मेघगर्जितं निकुञ्जेभ्यो लतादिपिहितोदरेभ्यः शिखावला मयूराः ॥७८॥"
+    }
+  ]
+}

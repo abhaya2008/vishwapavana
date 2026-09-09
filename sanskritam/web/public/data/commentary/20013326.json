@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013326,
+    "chapter_id": 6699,
+    "verse_number": "7.112",
+    "content_sanskrit": "सदा वदन्योगपदं च सांप्रतं स विश्वरूपः प्रथितो महीतले । महागृही वैदिककर्मतत्परः प्रवृत्तिशास्त्रे निरतः सुकर्मठः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013326,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "सदा योगस्य कर्मयोगस्य पदं मार्गं सांप्रतं न्याय्यं वदन्स विश्वरूपो भूतले प्रथितः । उपजातिवृत्तम् ॥ १४ ॥"
+    }
+  ]
+}

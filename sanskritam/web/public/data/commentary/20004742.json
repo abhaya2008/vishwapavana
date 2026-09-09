@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004742,
+    "chapter_id": 6611,
+    "verse_number": "16.34",
+    "content_sanskrit": "उत्क्षिप्य करिभिर्दूरान्मुक्तानां योधिनां दिवि । प्रापि जीवात्मभिर्दिव्या गतिर्वा विग्रहैर्मही ॥",
+    "padaccheda": "उत्क्षिप्य । करिभिः । दूरात् । मुक्तानाम् । योधिनाम् । दिवि । प्रापि । जीवात्मभिः । दिव्या । गतिः । वा । विग्रहैः । मही",
+    "anvaya": "करिभिः उत्क्षिप्य दूरात् मुक्तानाम् योधिनाम् जीवात्मभिः दिवि दिव्या गतिः प्रापि वा विग्रहैः मही प्रापि ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Warriors tossed and released from afar by elephants attained a divine state in heaven via their souls, while their physical bodies reached the earth.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004742,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उत्क्षिप्येति । करिभिरुत्क्षिप्योत्थाप्य दिवि दूरान्मुक्तानां जीवात्मभिर्जिवैः प्राणैरिति यावत् । दिव्या स्वर्गिया गतिः प्रापि । विग्रहैर्देहैर्मही वा प्रापि प्राप्ता । कर्मणि लुङ्"
+    }
+  ]
+}

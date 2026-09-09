@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010437,
+    "chapter_id": 6674,
+    "verse_number": "2.17",
+    "content_sanskrit": "राज्ञा कृपायमाणेन सुमुखेनावलोकिताः । कृतसस्मितसल्लापमहर्षायन्त भूभुजः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010437,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कृपाहर्षशब्दौ भृशादौ (पा.३|१|१२) । कृपायतेश्शानच् । हर्षायतेर्लङो झः ॥"
+    }
+  ]
+}

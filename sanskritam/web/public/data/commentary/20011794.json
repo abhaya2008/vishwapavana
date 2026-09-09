@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011794,
+    "chapter_id": 6686,
+    "verse_number": "14.18",
+    "content_sanskrit": "दूर्वाप्रवालसंसृष्टं सितप्रसवशेखरम् । तमालवननीलेन धम्मिल्लेन बभार सा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011794,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सा धम्मिल्लेन केशहस्तेन दूर्वाप्रवालसंसृष्टं सितकुसुमापीडं बभार । तमालवने नवकिसलयशबलं सितकुसुमसञ्चयमित्यर्थः ।"
+    }
+  ]
+}

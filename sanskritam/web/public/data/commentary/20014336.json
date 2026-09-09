@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014336,
+    "chapter_id": 6708,
+    "verse_number": "16.56",
+    "content_sanskrit": "वार्तामुपश्रुत्य स दाक्षिणात्यो मानं तदीयं परिमातुमिच्छन् । काश्मीरदेशाय जगाम हृष्टः श्रीशंकरो द्वारमपावरीतुम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014336,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तस्या वार्ताया इदं प्रमाणं मातुमिदं मानं न वेति निश्चेतुमिच्छंस्तद्द्वारमुद्घाटयितुं काश्मीरदेशाय जगाम ॥ ५८ ॥"
+    }
+  ]
+}

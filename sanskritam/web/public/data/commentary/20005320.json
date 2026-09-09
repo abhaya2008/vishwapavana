@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005320,
+    "chapter_id": 6622,
+    "verse_number": "10.29",
+    "content_sanskrit": "निचयिनि लवलीलताविकासे जनयति लोध्रसमीरणे च हर्षम् । विकृतिमुपययौ न पाण्डुसूनुश्चलति नयान्न जिगीषतां हि चेतः ॥",
+    "padaccheda": "निचयिनि । लवलीलताविकासे । जनयति । लोध्रसमीरणे । च । हर्षम् । विकृतिम् । उपययौ । न । पाण्डुसूनुः । चलति । नयात् । न । जिगीषताम् । हि । चेतः",
+    "anvaya": "लवलीलताविकासे निचयिनि सति लोध्रसमीरणे च हर्षं जनयति सति, पाण्डुसूनुः विकृतिं न उपययौ। हि जिगीषतां चेतः नयात् न चलति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even when the abundant blooming of Lavali creepers and the breeze from Lodhra trees were causing delight, the son of Pandu (Arjuna) did not undergo any mental agitation. For indeed, the mind of those who wish to conquer does not swerve from the path of policy.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005320,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "निचयिनीति ॥ निचयिन्युपचयवति लवलीलतानां विकासे पुष्पविजृम्भणे तथा लोध्रसमीरणे हर्षं चोत्कण्ठां जनयति सति पाण्डुसूनुर्विकृति नोपययौ । कुतः । हि यस्माज्जिगीषतां जेतुमिच्छतां चेतो नयान्नीतेर्न चलति । न हि क्रोधाक्रान्ते चेतसि शृङ्गारस्यावकाशः । तद्विरुद्धत्वाद्रोषस्येति भावः ॥"
+    }
+  ]
+}

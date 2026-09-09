@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013309,
+    "chapter_id": 6699,
+    "verse_number": "7.95",
+    "content_sanskrit": "विपक्षपाठी बलवान्द्विजातिः प्रत्याददद्दर्शनमस्मदीयम् । उच्चाटनीयः कथमप्युपायै- नैतादृशः स्थापयितुं हि योग्यः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013309,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "दर्शनं शास्त्रम् । उपजातिवृत्तम् ॥ ९६ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013309,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "विपक्षेति । विपक्षः सन्पठतीति तथा"
+    }
+  ]
+}

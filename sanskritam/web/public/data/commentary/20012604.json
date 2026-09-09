@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012604,
+    "chapter_id": 6693,
+    "verse_number": "1.49",
+    "content_sanskrit": "तद्रक्षणे रक्षितं स्यात्सकलं जगतीतलम् । तदधीनत्वतो वर्णाश्रमधर्मततेस्ततः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012604,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तेषां द्विजानां रक्षणे सति समस्तं जगतीतलं रक्षितं स्यात् । वर्णाश्रमधर्माणां ततेः संततेस्तदधीनत्वतो द्विजाधीनत्वात् । तत इत्युत्तरान्वयि ॥ ४९ ॥"
+    }
+  ]
+}

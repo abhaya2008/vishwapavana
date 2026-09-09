@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165695,
+    "chapter_id": 7066,
+    "verse_number": "14.47",
+    "content_sanskrit": "आचिक्याते च भूयोऽपि राघवौ तेन पन्नगैः । तौ मुमुहतुरुद्विग्नौ वसुधायां च पेततुः ॥",
+    "padaccheda": "आचिक्याते । च । भूयः । अपि । राघवौ । तेन । पन्नगैः । तौ । मुमुहतुः । उद्विग्नौ । वसुधायाम् । च । पेततुः",
+    "anvaya": "तेन पन्नगैः राघवौ भूयः अपि आचिक्याते । तौ उद्विग्नौ मुमुहतुः, वसुधायां च पेततुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The two Rāghavas were once again bound by him with serpents. Overwhelmed and distressed, they lost consciousness and fell to the ground.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165695,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आचिक्यात इत्यादि - तेनेन्द्रजिता भूयो ऽपि राघवावाचिक्याते छन्नौ । कर्मणि लिट् । तौ पाशबद्धौ मुमुहतुः मोहं गतौ । उद्विग्नौ समीहिता निष्पत्तेः । वसुधायां च पेततुः पतितौ । बन्धपरवशीकृतत्वात् ॥"
+    }
+  ]
+}

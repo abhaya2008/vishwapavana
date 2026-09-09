@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165868,
+    "chapter_id": 7067,
+    "verse_number": "15.107",
+    "content_sanskrit": "निरचायि यदा भेदो नौषधीनां हनू-मता । सर्व एव समाहारि तदा शैलः महौषधिः ॥",
+    "padaccheda": "निरचायि । यदा । भेदः । न । ओषधीनाम् । हनू-मता । सर्वः । एव । समाहारि । तदा । शैलः । महा-ओषधिः",
+    "anvaya": "यदा हनू-मता ओषधीनां भेदः न निरचायि, तदा सर्वः एव महा-ओषधिः शैलः समाहारि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When Hanūmān could not distinguish the specific medicinal herbs, he carried away the entire mountain containing the potent plants.",
+    "audio_url": null,
+    "display_order": 107,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165868,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "निरचायीत्यादि - यदा हनूमता ओषधीनां भेदो न निरचायि विशेषतो न निश्चितः तदा कृत्स्न एव शैलः सहौषधिरोपधिसहितः समाहारि समानीतः ॥"
+    }
+  ]
+}

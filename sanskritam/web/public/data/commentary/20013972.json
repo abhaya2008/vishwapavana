@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013972,
+    "chapter_id": 6706,
+    "verse_number": "14.43",
+    "content_sanskrit": "ततः शरच्चन्द्रमरीचिरोचि- र्विचित्रपारिप्लवकेतनाढ्यम् । विमानमादाय मनोज्ञरूपं प्रादुर्बभूवुः किल विष्णुदूताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013972,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "विचित्रैः कम्पमानैर्ध्वजैराढ्यम् । उपजातिवृत्तम् ॥ ४३ ॥"
+    }
+  ]
+}

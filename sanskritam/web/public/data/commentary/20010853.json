@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010853,
+    "chapter_id": 6677,
+    "verse_number": "5.93",
+    "content_sanskrit": "इध्मप्रव्रश्चनाः कच्चित् कुठारास्तोषयन्ति वः । ईषत्परुषपाषाणपर्यन्तकृततेजनाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010853,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "इध्मप्रव्रश्चना इति 'करणाधिकरणयोश्च' (पा.३|३|११७) इति करणे ल्युट् ॥"
+    }
+  ]
+}

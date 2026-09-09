@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002928,
+    "chapter_id": 6586,
+    "verse_number": "10.41",
+    "content_sanskrit": "स्वासिधारापरिहृतः कामं चक्रस्य तेन मे । स्थापितो दशमो मूर्धा लभ्यांश इव रक्षसा ॥",
+    "padaccheda": "स्व-असि-धारा-परिहृतः । कामम् । चक्रस्य । तेन । मे । स्थापितः । दशमः । मूर्धा । लभ्यः । अंशः । इव । रक्षसा",
+    "anvaya": "तेन रक्षसा स्व-असि-धारा-परिहृतः दशमः मूर्धा, मे चक्रस्य लभ्यः अंशः इव, कामम् स्थापितः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That Rakshasa (Ravana), having spared his tenth head from the edge of his own sword during his penance, has effectively left it as a rightful share to be taken by my discus.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002928,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वेति॥ स्वासिधारया स्वखङ्गधारया परिहृतः। अच्छिन्न इत्यर्थः। दशमो मूर्धा मे मम चक्रस्य कामं पर्याप्तो लभ्यांशः प्राप्तव्यभाग इव तेन रक्षसा स्थापितः। तत्सर्वथा तमहं हनिष्यामीत्यर्थः ॥"
+    }
+  ]
+}

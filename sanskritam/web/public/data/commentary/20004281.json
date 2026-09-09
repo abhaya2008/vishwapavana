@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004281,
+    "chapter_id": 6603,
+    "verse_number": "8.41",
+    "content_sanskrit": "सामभिः सहचराः सहस्रशः स्यन्दनाश्वहृदयङ्गमस्वरैः । भानुमग्निपरिकीर्णतेजसं संस्तुवन्ति किरणोष्मपायिनः ॥",
+    "padaccheda": "सामभिः । सहचराः । सहस्रशः । स्यन्दनाश्वहृदयङ्गमस्वरैः । भानुम् । अग्निपरिकीर्णतेजसम् । संस्तुवन्ति । किरणोष्मपायिनः",
+    "anvaya": "किरणोष्मपायिनः सहचराः सहस्रशः स्यन्दनाश्वहृदयङ्गमस्वरैः सामभिः अग्निपरिकीर्णतेजसम् भानुम् संस्तुवन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'His companions, the Valakhilya sages who subsist on the sun's heat, praise the sun in their thousands with Sama hymns. Their voices are as pleasing as the neighing of his chariot-horses, and they praise the sun whose splendor is now infused with the glow of fire.'",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004281,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सामभिरिति । किरणोष्मपायिनः किरणोष्माणं पिबन्तीति तथोक्ताः । तथाहारा इत्यर्थः । चरन्तीति चराः । पचाद्यच् । सहभूताश्चराः सहचरा बालखिल्यप्रभृतयो महर्षयोऽग्नौ परिकीर्ण तेजोस्य तत्तथोक्तम् ।[अग्निर्वादित्यः सायं प्रसवति] इति श्रुतेः । भानुम् । हृदयं गच्छन्तीति हृदयंगमा मनोरमाः । गमेः सुपीति वक्तव्यात्खच् । स्यन्दनाश्वानां हृदयंगमाः स्वना येषां तैः सामभिः सामवेदैः सहस्रशः संस्तुवन्ति । [सामवेदेनास्तमये गीयते] इति श्रुतेः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005664,
+    "chapter_id": 6627,
+    "verse_number": "15.39",
+    "content_sanskrit": "स्फुरत्पिशङ्गमौर्वीकं धुनानः स बृहद्धनुः । धृतोल्कानलयोगेन तुल्यमंशुमता बभौ ॥",
+    "padaccheda": "स्फुरत्पिशङ्गमौर्वीकम् । धुनानः । सः । बृहद्धनुः । धृतोल्कानलयोगेन । तुल्यम् । अंशुमता । बभौ",
+    "anvaya": "सः स्फुरत्-पिशङ्ग-मौर्वीकम् बृहत्-धनुः धुनानः धृत-उल्का-अनल-योगेन अंशुमता तुल्यम् बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Arjuna), shaking his great bow which had a glittering tawny string, shone like the sun, his weapon appearing like a held firebrand.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005664,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स्फुरदिति। स मुनिरर्जुनः स्फुरन्ती पिशङ्गी पिशङ्गवर्णा मौर्वी ज्या यस्य तत्तथोक्तम्। `नधृतश्च` इति कण्प्रत्ययः । बृहद्धनुर्गाण्डीवं धुनानः कम्पयन् । उल्कैवानलस्तेन धृतो योगो येन तेनांशुमतार्केण सूर्येण तुल्यं बभौ । उपमा ॥"
+    }
+  ]
+}

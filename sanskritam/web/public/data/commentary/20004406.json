@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004406,
+    "chapter_id": 6605,
+    "verse_number": "10.23",
+    "content_sanskrit": "अमीषां सुरसङ्घानां त्वमेकोऽर्थसमर्थने । विपत्तिरपि संश्लाघ्योपकारव्रतिनोऽनल ॥",
+    "padaccheda": "अमीषाम् । सुरसङ्घानाम् । त्वम् । एकः । अर्थसमर्थने । विपत्तिः । अपि । संश्लाघ्य-उपकार-व्रतिनः । अनल",
+    "anvaya": "अनल अमीषाम् सुरसङ्घानाम् अर्थसमर्थने त्वम् एकः संश्लाघ्य-उपकार-व्रतिनः विपत्तिः अपि",
+    "meaning_sanskrit": "",
+    "meaning_english": "O Agni, you alone are capable of fulfilling the objective of these hosts of gods. For one like you, whose life-vow is to perform praiseworthy service for others, even facing destruction or adversity in the process is honorable.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004406,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमीषामीति । भो अनल, अमोषां सुरसंघानां देवसमूहानामस्मदादीनामर्थसमर्थने कार्यसाधने विषयेत्वमेक एव समर्थोऽसि । एवंविधोऽप्यहं विपन्नः किं करोमीत्याहःविपत्तिरिति । उपकारेषु परहितेषु व्रतिनो नियमवतः पुरुषस्य विपत्तिरपु सम्यक् श्लाध्या भवति । अथोविपन्नोऽपि स्तूयस इति भावः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002830,
+    "chapter_id": 6585,
+    "verse_number": "9.25",
+    "content_sanskrit": "जिगमिषुर्धनदाध्युषितां दिशं रथयुजा परिवर्तितवाहनः । दिनमुखानि रविर्हिमनिग्रहैर्विमलयन्मलयं नगमत्यजत् ॥",
+    "padaccheda": "जिगमिषुः । धनदाध्युषितां । दिशं । रथयुजा । परिवर्तितवाहनः । दिनमुखानि । रविः । हिमनिग्रहैः । विमलयन् । मलयं । नगम् । अत्यजत्",
+    "anvaya": "हिमनिग्रहैः दिनमुखानि विमलयन्, रथयुजा परिवर्तितवाहनः (सन्) धनदाध्युषितां दिशं जिगमिषुः रविः मलयं नगम् अत्यजत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sun, wishing to go to the northern direction inhabited by Kubera, had his horses changed by his charioteer. While making the mornings clear of frost, he departed from the Malaya mountain.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002830,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जिगमिषुरिति॥ धनदाध्युषितां कुबेराधिष्ठितां दिशं जिगमिषुर्गन्तुमिच्छुः। रथयुजा सारथिनारुणेन परिवर्तितवाहनो निवर्तिताश्वो रविः। हिमस्य निग्रहैर्निराकरणैर्दिनमुखानि प्रभातानि विमलयन्विशदयन् मलयं नगं मलयाचलमत्यजत्। दक्षिणां दिशमत्याक्षीदित्यर्थः ॥"
+    }
+  ]
+}

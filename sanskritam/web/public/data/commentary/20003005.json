@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003005,
+    "chapter_id": 6587,
+    "verse_number": "11.32",
+    "content_sanskrit": "तं न्यमन्त्रयत संभृतक्रतुर्मैथिलः स मिथिलां व्रजन्वशी । राघवावपि निनाय बिभ्रतौ तद्धनुःश्रवणजं कुतूहलम् ॥",
+    "padaccheda": "तम् । न्यमन्त्रयत । संभृतक्रतुः । मैथिलः । सः । मिथिलाम् । व्रजन् । वशी । राघवावपि । निनाय । बिभ्रतौ । तद्धनुःश्रवणजम् । कुतूहलम्",
+    "anvaya": "संभृतक्रतुः वशी सः मैथिलः तम् न्यमन्त्रयत। मिथिलाम् व्रजन् राघवावपि तत्धनुःश्रवणजम् कुतूहलम् बिभ्रतौ निनाय।",
+    "meaning_sanskrit": "",
+    "meaning_english": "King Janaka of Mithilā, who was preparing a sacrifice, invited Sage Viśvāmitra. The Sage, while proceeding to Mithilā, took the two Raghava princes along, as they were filled with curiosity after hearing about the famous bow of Śiva.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003005,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ संभृतक्रतुः संकल्पितसंभारो मिथिलायां भवो मैथिलो जनकस्तं विश्वामित्रं न्यमन्त्रयताहूतवान्। वशी स मुनिर्मिथिलां जनकनगरीं व्रजन्, तस्य जनकस्य यद्धनुस्तच्छ्रवणजं कुतूहलं बिभ्रतौ राघवावपि निनाय नीतवान् ॥"
+    }
+  ]
+}

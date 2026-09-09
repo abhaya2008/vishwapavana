@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010533,
+    "chapter_id": 6674,
+    "verse_number": "2.113",
+    "content_sanskrit": "अशुभन्नैन्दवाभीशुन्यतिषिक्ततमश्रयाः । स्फटिकेन्द्रमणिग्रावघटिता इव भूमयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 113,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010533,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अशुभन्निति लङ् । शुभतिस्तुदादिः । शुभ शुंभ शोभार्थे इति धातुः ॥"
+    }
+  ]
+}

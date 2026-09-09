@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003383,
+    "chapter_id": 6591,
+    "verse_number": "15.47",
+    "content_sanskrit": "राजन्! प्रजासु ते कश्चिदपचारः प्रवर्तते । तमन्विष्य प्रशमयेर्भवितासि ततः कृती ॥",
+    "padaccheda": "राजन् । प्रजासु । ते । कश्चित् । अपचारः । प्रवर्तते । तम् । अन्विष्य । प्रशमयेः । भवितासि । ततः । कृती",
+    "anvaya": "राजन्! ते प्रजासु कश्चित् अपचारः प्रवर्तते। तम् अन्विष्य प्रशमयेः। ततः कृती भवितासि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The divine voice said: \"O King, some transgression is occurring among your subjects. Investigate and quell it. Then you will be successful (in reviving the boy).\"",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003383,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राजन्निति॥ हे राजन्! ते प्रजासु कश्चिदपचारो वर्णधर्मव्यतिकरः प्रवर्तते। तमपचारमन्विष्य प्रशमयेः। ततः कृती कृतकृत्यो भवितासि भविष्यसि ॥"
+    }
+  ]
+}

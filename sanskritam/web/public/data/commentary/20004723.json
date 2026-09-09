@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004723,
+    "chapter_id": 6611,
+    "verse_number": "16.15",
+    "content_sanskrit": "खड्गाः शोणितसन्दिग्धा नृत्यन्तो वीरपाणिषु । रजोघने रणेऽनन्ते विद्युतां वैभवं दधुः ॥",
+    "padaccheda": "खड्गाः । शोणितसन्दिग्धाः । नृत्यन्तः । वीरपाणिषु । रजोघने । रणे । अनन्ते । विद्युताम् । वैभवम् । दधुः",
+    "anvaya": "अनन्ते रजोघने रणे वीर-पाणिषु नृत्यन्तः शोणित-सन्दिग्धाः खड्गाः विद्युताम् वैभवम् दधुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Smeared with blood and dancing in the hands of warriors, the swords displayed the splendor of flashes of lightning amidst the vast battlefield thick with clouds of dust.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004723,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "खड्गा इति । शोणितेसन्दिग्धा रुधिरसंलिप्ताः । तथा वीरपाणिषु नृत्यन्तः खड्गाः । रजसा घने सान्द्रे । तथानन्तेऽपारे रणे विद्युतां वैभवं दधुः । तद्वच्छुशुभर इत्यर्थः । अत्र पदार्थवृत्तिनिदर्शनालङ्कारः"
+    }
+  ]
+}

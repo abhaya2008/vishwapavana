@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003412,
+    "chapter_id": 6591,
+    "verse_number": "15.76",
+    "content_sanskrit": "स्वरसंस्कारवत्यासौ पुत्राभ्यामथ सीतया । क्रचेवोदर्चिषं सूर्यं रामं मुनिरुपस्थितः ॥",
+    "padaccheda": "स्वरसंस्कारवत्या । असौ । पुत्राभ्याम् । अथ । सीतया । क्रचा । इव । उदर्चिषम् । सूर्यम् । रामम् । मुनिः । उपस्थितः",
+    "anvaya": "अथ असौ मुनिः स्वरसंस्कारवत्या सीतया पुत्राभ्याम् (सह) क्रचा उदर्चिषम् सूर्यम् इव रामम् उपस्थितः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then that sage (Valmiki), accompanied by Sita who possessed a voice refined by training and by her two sons, approached Rama, who was like the radiant sun, just as the star Alcor approaches the sun.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003412,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वरेति॥ अथ स्वर उदात्तादिः। संस्कारः शब्दशुद्धिः। तद्वत्या ऋचा सावित्र्योदर्चिषं सूर्यमिव। पुत्राभ्यामुपलक्षितया सीतया करणेनोदर्चिषं राममसौ मुनिरुपस्थित उपतस्थे ॥"
+    }
+  ]
+}

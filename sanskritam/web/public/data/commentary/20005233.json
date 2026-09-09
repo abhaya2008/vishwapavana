@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005233,
+    "chapter_id": 6621,
+    "verse_number": "9.20",
+    "content_sanskrit": "द्यां निरुन्धदतिनीलघनाभं ध्वान्तमुद्यतकरेण पुरस्तात् । क्षिप्यमाणमसितेतरभासा शम्भुनेव करिचर्म चकासे ॥",
+    "padaccheda": "द्यां । निरुन्धत् । अतिनीलघनाभं । ध्वान्तम् । उद्यतकरेण । पुरस्तात् । क्षिप्यमाणम् । असितेतरभासा । शम्भुना । इव । करिचर्म । चकासे",
+    "anvaya": "पुरस्तात् द्याम् निरुन्धत् अति-नील-घन-आभम् ध्वान्तम् उद्यत-करेण असित-इतर-भासा (चन्द्रेण) क्षिप्यमाणम् (सत्) शम्भुना करि-चर्म इव चकासे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The darkness, which was covering the sky in the east and resembled a very dark cloud, being dispelled by the white-rayed moon with its raised rays, appeared like the elephant hide being thrown by Shiva.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005233,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "द्यामिति ॥ द्यां निरुन्धदाकाशमावृण्वदतिनीलघनाभं मेचकम् । उद्यताः करा अंशवो हस्ताश्च यस्य तेन । असिताभ्य इतराः शुभ्रा भासो यस्य तेन चन्द्रेण पुरस्तात्प्राच्यामग्रे च क्षिप्यमाणं नुद्यमानं ध्वान्तं शंभुना क्षिप्यमाणं करिचर्मेव चकासे । उपमानेऽपि विशेषणानि योज्यानि ॥"
+    }
+  ]
+}

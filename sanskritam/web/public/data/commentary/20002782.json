@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002782,
+    "chapter_id": 6584,
+    "verse_number": "8.72",
+    "content_sanskrit": "प्रमदामनु संस्थितः शुचा नृपतिः सन्निति वाच्यदर्शनात् । न चकार शरीरमग्निसात्सह देव्या न तु जीविताशया ॥",
+    "padaccheda": "प्रमदाम् । अनु । संस्थितः । शुचा । नृपतिः । सन् । इति । वाच्यदर्शनात् । न । चकार । शरीरम् । अग्निसात् । सह । देव्या । न । तु । जीविताशया",
+    "anvaya": "शुचा प्रमदाम् अनु संस्थितः सन् नृपतिः, इति वाच्यदर्शनात्, देव्या सह शरीरम् अग्निसात् न चकार, तु जीविताशया न ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"The king, though prepared to follow his beloved in death out of grief, did not consign his body to the flames along with the queen. This was due to the fear of public censure, not out of a desire to live.\"",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002782,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रमदामिति॥ नृपतिरजः सन्नपि विद्धानपि शुचा शोकेन प्रमदामनुप्रमदया सह संस्थितो मृत इति वाच्यदर्शनान्निन्दादर्शनाद्देव्येन्दुमत्या सह शरीरमग्निसादग्न्यधीनं न चकार। `तदधीनवचने` (पा.5।4।54) इति सातिप्रत्ययः। जीविताशया प्राणेच्छया तु नेति ॥"
+    }
+  ]
+}

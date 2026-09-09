@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004386,
+    "chapter_id": 6605,
+    "verse_number": "10.3",
+    "content_sanskrit": "दृष्ट्वा तथाविधं वह्निमिन्द्रः क्षुब्धेन चेतसा । व्यचिन्तयच्चिरं किञ्चित्कन्दर्पद्वेषिरोषजम् ॥",
+    "padaccheda": "दृष्ट्वा । तथाविधम् । वह्निम् । इन्द्रः । क्षुब्धेन । चेतसा । व्यचिन्तयत् । चिरम् । किञ्चित् । कन्दर्पद्वेषिरोषजम्",
+    "anvaya": "इन्द्रः तथाविधम् वह्निम् दृष्ट्वा क्षुब्धेन चेतसा कन्दर्पद्वेषिरोषजम् किञ्चित् चिरम् व्यचिन्तयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Upon seeing Agni in such a state, Indra’s mind became disturbed, and he pondered for a long time about the consequences arising from Śiva’s wrath.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004386,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दृष्ट्वेति । इन्द्रो वह्निं तथाविधं दृष्ट्वा क्षुब्धेन संचलितेन चेतसा कन्दर्पद्वेषिणो हरस्य रोषाज्जातं किंचिदपराधलक्षणं चिरं व्यचिन्तयत् षष 10.3 ।।"
+    }
+  ]
+}

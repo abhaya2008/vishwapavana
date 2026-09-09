@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010959,
+    "chapter_id": 6678,
+    "verse_number": "6.80",
+    "content_sanskrit": "मुखतो भूयतामेवं ब्रुवाणां रहसि प्रियाम् । सस्वजे मुखतोभूत्वा स दयार्द्रोपि निर्दयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010959,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मुखतोभावमित्यादिषु तेनैव भुवः क्त्वाणमुलौ । दयार्द्रोपि निर्दयमिति विराधालङ्कारः । गाढमित्यर्थः ॥"
+    }
+  ]
+}

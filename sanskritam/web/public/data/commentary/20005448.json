@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005448,
+    "chapter_id": 6624,
+    "verse_number": "12.13",
+    "content_sanskrit": "महता मयूखनिचयेन शमितरुचि जिष्णुजन्मना । ह्रीतमिव नभसि वीतमले न विराजते स्म वपुरंशुमालिनः ॥",
+    "padaccheda": "महता । मयूखनिचयेन । शमितरुचि । जिष्णुजन्मना । ह्रीतम् । इव । नभसि । वीतमले । न । विराजते । स्म । वपुः । अंशुमालिनः",
+    "anvaya": "जिष्णुजन्मना महता मयूखनिचयेन शमितरुचि अंशुमालिनः वपुः, ह्रीतम् इव, वीतमले नभसि न विराजते स्म ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The body of the sun (Anshumalin), its brilliance dimmed by the great mass of rays emanating from Arjuna (born of Jishnu/Indra), did not shine in the clear sky, as if abashed.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005448,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "महतेति ॥ जिष्णोरर्जुनाज्जन्म यस्य तेन । जन्मोत्तरपदत्वाद्यधिकरणो बहुव्रीहिः। महता मयूखनिचयेन बहुकिरणसमूहेन शमितरुचि हतप्रभमंशुमालिनो वपुरर्कबिम्बं ह्रीतं जितत्वाल्लज्जितमिवेत्युत्प्रेक्षा । वीतमले विमले । मेघनीहाराद्यावरणरहितेऽपीत्यर्थः । नभसि न विराजते स्म ॥"
+    }
+  ]
+}

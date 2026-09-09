@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003947,
+    "chapter_id": 6599,
+    "verse_number": "4.29",
+    "content_sanskrit": "अमुना ननु पार्श्ववर्तिना जगदाज्ञां ससुरासुरं तव । बिसतन्तुगुणस्य कारितं धनुषः पेलवपुष्पपत्रिणः ॥",
+    "padaccheda": "अमुना । ननु । पार्श्ववर्तिना । जगत् । आज्ञाम् । ससुरासुरम् । तव । बिसतन्तुगुणस्य । कारितम् । धनुषः । पेलवपुष्पपत्रिणः",
+    "anvaya": "ननु पार्श्ववर्तिना अमुना, बिसतन्तुगुणस्य पेलवपुष्पपत्रिणः तव धनुषः, ससुरासुरम् जगत् आज्ञाम् कारितम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Surely, by this friend (Madhava) standing beside you, the entire world, including gods and demons, was made to obey the command of your bow, which has a lotus-fiber for a string and delicate flowers for arrows.\"",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003947,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमुनेति । ननु मदन पार्श्ववर्तिना सहचरेणामुना वसन्तेन ससुरासुरं सुरासुरसहितं जगद्विसतन्दुगुणस्य मृणालसूत्रमौर्वीकस्य पेलवानि कोमलानि पुष्पाण्येव पत्रिणो बाणा यस्य तस्य तव धनुष आज्ञां कारितम् । जगदाज्ञा कारितेत्यर्थः । `हृक्रोरन्यतरस्याम्` (पा.1|4|53) इति जगतः कर्मत्वम्"
+    }
+  ]
+}

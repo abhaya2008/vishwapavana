@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010682,
+    "chapter_id": 6676,
+    "verse_number": "4.28",
+    "content_sanskrit": "अथवा भवितुं नायमर्थस्सांशयिकोऽर्हति । क्षत्रियाणां परं कार्यपालनं हि द्विजन्मनाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010682,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सांशयिक इति । संशयमापन्न इति (पा.५|१|७३) । प्राग्वहतीषष्ठञ् । अथवायमर्थः । संशयमापन्नो (पा.५|१|७३) भवितुं नार्हति । कुत इत्यत्राह क्षत्रियाणामित्यादि ॥"
+    }
+  ]
+}

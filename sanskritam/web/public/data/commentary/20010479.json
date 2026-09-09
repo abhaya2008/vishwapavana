@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010479,
+    "chapter_id": 6674,
+    "verse_number": "2.59",
+    "content_sanskrit": "राजश्रीकनकालानद्रुमावूरू शुशुंभतुः । तस्य श्यामलकौशेयच्छदसंश्रयसंवृतौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010479,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "राजश्रीकरिणीकनकालानद्रुमावित्यर्थः । व्यस्तरूपकमिदम् । श्यामलेत्यादिसमस्तरूपकम् ॥"
+    }
+  ]
+}

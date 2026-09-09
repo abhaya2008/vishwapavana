@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003338,
+    "chapter_id": 6591,
+    "verse_number": "15.2",
+    "content_sanskrit": "लवणेन विलुप्तेज्यास्तामिस्नेण तमभ्ययुः । मुनयो यमुनाभाजः शरण्यं शरणार्थिनः ॥",
+    "padaccheda": "लवणेन । विलुप्तेज्याः । तामिस्नेण । तम् । अभ्ययुः । मुनयः । यमुनाभाजः । शरण्यम् । शरणार्थिनः",
+    "anvaya": "लवणेन तामिस्रेण विलुप्त-इज्याः यमुनाभाजः शरणार्थिनः मुनयः शरण्यं तम् अभ्ययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Sages dwelling on the banks of the Yamuna, whose sacrifices were being destroyed by the demon Lavana, approached Rama, the giver of refuge, seeking his protection.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003338,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लवणेनेति॥ लवणेन लवणाख्येन तामिस्रेण तमिस्राचारिणा। रक्षसेत्यर्थः। विलुप्तेज्या लुप्तयागक्रिया अत एव शरणार्थिनो रक्षणार्थिनो यमुनाभाजो यमुनातीरवासिनो मुनयः शरण्यं शरणार्हं रक्षणसमर्थं तं रामं रक्षितारमभ्ययुः प्राप्ताः। यातेर्लङ् ॥"
+    }
+  ]
+}

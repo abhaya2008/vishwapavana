@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003529,
+    "chapter_id": 6593,
+    "verse_number": "17.2",
+    "content_sanskrit": "स पितुः पितृमान्वंशं मातुश्चानुपमद्युतिः । अपुनात्सवितेवोभौ मार्गावुत्तरदक्षिणौ ॥",
+    "padaccheda": "सः । पितुः । पितृमान् । वंशम् । मातुः । च । अनुपमद्युतिः । अपुनात् । सवितेव । उभौ । मार्गौ । उत्तरदक्षिणौ",
+    "anvaya": "पितृमान् अनुपम-द्युतिः सः, सविता उत्तर-दक्षिणौ उभौ मार्गौ इव, पितुः मातुः च वंशम् अपुनात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That prince, possessing a worthy father and of unequalled splendor, purified the lineages of both his father and his mother, just as the sun purifies both the northern and southern paths with its light.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003529,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ पितृमान्। प्रशंसार्थे मतुप्। सुशिक्षित इत्यर्थः। अनुपमद्युतिः सवितुश्चेदं विशेषणम्। सोऽतिथिः पितुः कुशस्य मातुः कुमुद्वत्याश्च वंशम्। सविता। उत्तरदक्षिणावुभौ मार्गाविव। अपुनात् पवित्रीकृतवान् ॥"
+    }
+  ]
+}

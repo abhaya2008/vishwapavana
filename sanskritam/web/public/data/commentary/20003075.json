@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003075,
+    "chapter_id": 6588,
+    "verse_number": "12.9",
+    "content_sanskrit": "स सीतालक्ष्मणसखेः सत्याद्गुरुमलोपयन् । विवेश दण्डकारण्यं प्रत्येकं च सतां मनः ॥",
+    "padaccheda": "सः । सीतालक्ष्मणसखः । सत्यात् । गुरुम् । अलोपयन् । विवेश । दण्डकारण्यं । प्रत्येकं । च । सतां । मनः",
+    "anvaya": "सः सीतालक्ष्मणसखेः सत्यात् गुरुम् अलोपयन् दण्डकारण्यं सतां मनः च प्रत्येकं विवेश ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Accompanied by Sita and Lakshmana, Rama entered the Dandaka forest to ensure his father did not deviate from his truthful promise. In doing so, he simultaneously entered the hearts of all virtuous people, who were moved by his righteousness.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003075,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स रामो गुरुं पितरं सत्याद्वरदानरूपात्। अलोपयन्नभ्रंशयन्। सीतालक्ष्मणयोः सखेति विग्रहः। ताभ्यां सहितः सन् दण्डकारण्यं विवेश। सतां मनः प्रत्येकं विवेश। पितृभक्त्या सर्वे सन्तः संतुष्टा इति भावः ॥"
+    }
+  ]
+}

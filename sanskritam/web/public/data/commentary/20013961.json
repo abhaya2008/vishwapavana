@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013961,
+    "chapter_id": 6706,
+    "verse_number": "14.32",
+    "content_sanskrit": "दृष्ट्वा चिरात्पुत्रमनामयं सा हृष्टान्तरात्मा निजगाद मन्दम् । अस्यां दशायां कुशली मया त्वं दिष्ट्याऽसि दृष्टः किमतोऽस्ति कृत्यम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013961,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "आमयरहितं पुत्रं चिराद्दृष्ट्वा । इन्द्रवज्रा वृत्तम् ॥ ३२ ॥"
+    }
+  ]
+}

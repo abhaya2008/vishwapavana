@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002809,
+    "chapter_id": 6585,
+    "verse_number": "9.4",
+    "content_sanskrit": "जनपदे न गदः पदमादधावभिभवः कुत एव सपत्नजः । क्षितिरभूत्फलवत्यजनन्दने शमरतेऽमरतेजसि पार्थिवे ॥",
+    "padaccheda": "जनपदे । न । गदः । पदम् । आदधौ । अभिभवः । कुतः । एव । सपत्न-जः । क्षितिः । अभूत् । फलवती । अज-नन्दने । शम-रते । अमर-तेजसि । पार्थिवे",
+    "anvaya": "शम-रते अमर-तेजसि अज-नन्दने पार्थिवे (सति), जनपदे गदः पदम् न आदधौ । सपत्न-जः अभिभवः कुतः एव (स्यात्)? क्षितिः फलवती अभूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While the son of Aja (Dasharatha), who was devoted to peace and possessed god-like splendor, was king, disease found no foothold in the kingdom. How then could there be any oppression from enemies? The earth became abundantly fruitful.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002809,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जनपद इति॥ शमरते शान्तिपरेऽमरतेजस्यजनन्दने दशरथे पार्थिवे पृथिव्या ईश्वरे सति। `तस्येश्वरः` (पा5।1।42)इत्यण्प्रत्ययः। जनपदे देशे गदो व्याघिः। `उपतापरोगव्याधिगदामयाः` इत्यमरः (अ.को.2|6|51)। पदं नादधौ। नाचक्रामेत्यर्थः। सपत्नजः शत्रुजन्योऽभिभवः कुत एव? असंभावित एवेत्यर्थः। क्षितिः फलवत्यभूञ्च ॥"
+    }
+  ]
+}

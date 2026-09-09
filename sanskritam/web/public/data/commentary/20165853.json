@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165853,
+    "chapter_id": 7067,
+    "verse_number": "15.92",
+    "content_sanskrit": "सौर्याऽऽग्नेये व्यकारिष्टामस्त्रे राक्षस-लक्ष्मणौ । ते चोपागमता नाशं समासाद्य परस्परम् ॥",
+    "padaccheda": "सौर्याग्नेये । व्यकारिष्टाम् । अस्त्रे । राक्षसलक्ष्मणौ । ते । च । उपागमताम् । नाशम् । समासाद्य । परस्परम्",
+    "anvaya": "राक्षस-लक्ष्मणौ सौर्य-आग्नेये अस्त्रे व्यकारिष्टाम् । ते च परस्परम् समासाद्य नाशम् उपागमताम् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Rākṣasa and Lakṣmaṇa employed the solar and fire missiles. Upon meeting each other, those weapons were neutralized and destroyed.",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165853,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सौर्याग्नये इत्यादि - राक्षसः सौर्यमस्त्रं व्यकारीत् विक्षिप्तवान् कॄ विक्षेपे ।' लक्ष्मणो ऽप्याग्नेयं इत्येवं तौ व्यकारिष्टाम् । ते चास्त्रे परस्परमा- साद्य प्राप्य नाशमुपागमताम् । लुदित्वादङ् ॥"
+    }
+  ]
+}

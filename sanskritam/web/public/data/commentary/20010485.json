@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010485,
+    "chapter_id": 6674,
+    "verse_number": "2.65",
+    "content_sanskrit": "श्रीकान्तिदीप्तिनिर्धूतपद्मसोमार्कमण्डलम् । युधिष्ठिरमुखं रेजे युधिष्ठिरमुखं यथा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010485,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनुपमनामायमलङ्कारः ॥"
+    }
+  ]
+}

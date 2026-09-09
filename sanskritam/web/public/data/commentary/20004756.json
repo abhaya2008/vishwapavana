@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004756,
+    "chapter_id": 6611,
+    "verse_number": "16.48",
+    "content_sanskrit": "अन्योन्यं रथिनौ कौचिद्गतप्राणौ दिवं गतौ । एकामप्सरसं प्राप्य युयुधाते वरायुधौ ॥",
+    "padaccheda": "अन्योन्यम् । रथिनौ । कौचित् । गतप्राणौ । दिवम् । गतौ । एकाम् । अप्सरसम् । प्राप्य । युयुधाते । वरायुधौ",
+    "anvaya": "कौचित् रथिनौ अन्योन्यं गत-प्राणौ दिवं गतौ वर-आयुधौ एकाम् अप्सरसं प्राप्य युयुधाते",
+    "meaning_sanskrit": "",
+    "meaning_english": "Two chariot warriors killed each other and ascended to heaven. Even there, finding themselves competing for the same celestial nymph, they took up their excellent weapons and continued their duel.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004756,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अन्योन्यमिति । वरायुधौ श्रेष्ठायुधौ कौचिद्रथिनावन्योन्यं परस्परेण कृत्वा गतप्राणौ गमितासू अत एव दिवं गतावेकामप्सरसं प्राप्य युयुधाते । अहमेतां ग्रहीष्यामि, अहमेतां ग्रहीष्यामीति वदन्तौ कलहं चक्रतुरित्यर्थः"
+    }
+  ]
+}

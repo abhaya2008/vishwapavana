@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002361,
+    "chapter_id": 6579,
+    "verse_number": "3.42",
+    "content_sanskrit": "स पूर्वतः पर्वतपक्षशातनं ददर्श देवं नरदेवसंभवः । पुनः पुनः सूतनिषिद्धचापलं हरन्तमश्वं रथरश्मिसंयतम् ॥",
+    "padaccheda": "सः । पूर्वतः । पर्वतपक्षशातनम् । ददर्श । देवम् । नरदेवसंभवः । पुनः । पुनः । सूतनिषिद्धचापलम् । हरन्तम् । अश्वम् । रथरश्मिसंयतम्",
+    "anvaya": "नरदेवसंभवः सः पूर्वतः, सूतनिषिद्धचापलम् रथरश्मिसंयतम् अश्वम् पुनः पुनः हरन्तम्, पर्वतपक्षशातनम् देवम् ददर्श।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Raghu, the son of the king, looked to the east and saw the god Indra, the cutter of the mountains' wings. Indra was leading away the horse, which was controlled by the chariot's reins, its restiveness repeatedly checked by his charioteer.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002361,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ नरदेवसंभवः स रघुः पुनः पुनः सूतेन निषिद्धचापलं निवारितौद्धत्यं रथस्य रश्मिभिः प्रग्रहैः। `किरणप्रग्रहौ रश्मी` इत्यमरः (अ.को.3|3|146)। संयतं बद्धमश्वं हरन्तं पर्वतपक्षाणां शातनं छेदकं देवमिन्द्रं पूर्वतः पूर्वस्यां दिशि ददर्श ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014012,
+    "chapter_id": 6706,
+    "verse_number": "14.83",
+    "content_sanskrit": "यथा हि पुष्पाण्यभिगम्य षट्पदाः संगृह्य सारं रसमेव भुञ्जते । तथा यतिः सारमवाप्नुवन्सुखं गृहाद्गृहादोदनमेव भिक्षते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014012,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तत्रापि तत्तद्गृहे यतेर्गमनं भ्रमरवत्पीडाकरं न भवतीत्याह । यथेति । सुखं यथा स्यात्तथा । उपजातिवृत्तम् ॥ ८३ ॥"
+    }
+  ]
+}

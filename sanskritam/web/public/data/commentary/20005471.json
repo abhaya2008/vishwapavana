@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005471,
+    "chapter_id": 6624,
+    "verse_number": "12.36",
+    "content_sanskrit": "सुरकृत्यमेतदवगम्य निपुणमिति मूकदानवः । हन्तुमभिपतति पाण्डुसुतं त्वरया तदत्र सह गम्यतां मया ॥",
+    "padaccheda": "सुरकृत्यम् । एतत् । अवगम्य । निपुणम् । इति । मूकदानवः । हन्तुम् । अभिपतति । पाण्डुसुतम् । त्वरया । तत् । अत्र । सह । गम्यताम् । मया",
+    "anvaya": "मूकदानवः एतत् निपुणम् सुरकृत्यम् इति अवगम्य, पाण्डुसुतम् हन्तुम् त्वरया अभिपतति। तत् अत्र मया सह गम्यताम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"The demon Muka, having skillfully understood that this is the work of the gods, is rushing with haste to kill the son of Pandu. Therefore, let us go there together.\"",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005471,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "सुरेति॥ मूकदानवो मूकाख्यः कश्चिदसुर एतत्पाण्डवकृत्यं सुरकृत्यमिति निपुणमवगम्य साधु निश्चित्य पाण्डुसुतमर्जुनं हन्तुमभिपतति । तत्तस्मात्कारणादत्रार्जुनाश्रमे विषये । आश्रमं प्रतीत्यर्थः । मया सह त्वरया गम्यताम् । द्रष्टुमिति शेषः ॥"
+    }
+  ]
+}

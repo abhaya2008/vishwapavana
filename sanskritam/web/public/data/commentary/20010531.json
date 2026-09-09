@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010531,
+    "chapter_id": 6674,
+    "verse_number": "2.111",
+    "content_sanskrit": "रोदसी पूरयामासुः क्रमेणेन्दोर्मरीचयः । प्रलयोड्डीयमानस्य क्षीरोदस्येव वीचयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 111,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010531,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अतिशयोक्तिरलङ्कारः । उड्डीयमानस्येति । 'डीङ् विहायसा गतौ'। दिवादिः ॥"
+    }
+  ]
+}

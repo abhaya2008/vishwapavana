@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165585,
+    "chapter_id": 7064,
+    "verse_number": "12.84",
+    "content_sanskrit": "क्रीडन्भुजङ्गेन गृहाऽनुपातं कश्चिद्यथा जीवति संशय-स्थः । संसेवमानो नृ-पतिं प्र-मूढं तथैव यज्जीवति सोऽस्य लाभः ॥",
+    "padaccheda": "यथा । कश्चित् । भुजङ्गेन । क्रीडन् । गृह-अनुपातं । संशय-स्थः । जीवति । तथा । एव । प्र-मूढं । नृ-पतिं । संसेवमानः । यत् । जीवति । सः । अस्य । लाभः",
+    "anvaya": "यथा कश्चित् भुजङ्गेन क्रीडन् गृह-अनुपातं संशय-स्थः जीवति, तथा एव प्र-मूढं नृ-पतिं संसेवमानः यत् जीवति, सः अस्य लाभः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as someone playing with a serpent while following it into a house lives in constant peril, so too if one survives while serving an utterly foolish king, that survival itself is considered a gain.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165585,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "क्रीडन्नित्यादि - यथा कश्चित् सर्पग्राही गृहानुपातं गृहं गृहमनुपत्य । '३३७८ विशि - पति -(पा.३|४|५६) इत्यादिना णमुल् । भुजङ्गेन सह क्रीडन् जीवति संशयस्थः संदेहे वर्तमानः किमयं खादिष्यति न वेति । तथैव प्रमूढं मूर्खमधि- पतिं संसेवमानो यज्जीवति सो ऽस्य लाभः । आस्तामन्यो लाभ इति ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003019,
+    "chapter_id": 6587,
+    "verse_number": "11.46",
+    "content_sanskrit": "भज्यमानमतिमात्रकर्षणात्तेन वज्रपरुषस्वनं धनुः । भार्गवाय दृढमन्यवे पुनः क्षत्रमुद्यतमिव न्यवेदयत् ॥",
+    "padaccheda": "भज्यमानम् । अतिमात्रकर्षणात् । तेन । वज्रपरुषस्वनं । धनुः । भार्गवाय । दृढमन्यवे । पुनः । क्षत्रम् । उद्यतम् । इव । न्यवेदयत्",
+    "anvaya": "अतिमात्रकर्षणात् तेन भज्यमानं वज्रपरुषस्वनं धनुः दृढमन्यवे भार्गवाय क्षत्रम् पुनः उद्यतम् इव न्यवेदयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the bow broke due to excessive pulling, it made a sound as harsh as a thunderbolt, as if announcing to the deeply resentful Parashurama that the warrior race had risen once again.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003019,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भज्यमानमिति॥ तेन रामेण। अतिमात्रकर्षणाद्भज्यमानम्, अत एव वज्रपरुषस्वनं। वज्रमिव परुषः स्वनो यस्य तत्। धनुः कर्तृ। दृढमन्यवे दृढक्रोधाय। `मन्युः क्रोधे क्रतौ दैन्ये` इति विश्वः। भार्गवाय क्षत्रं क्षत्रकुलं पुनरुद्यतमिति न्यवेदयदिव ज्ञापयामासेव ॥"
+    }
+  ]
+}

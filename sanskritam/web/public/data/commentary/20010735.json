@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010735,
+    "chapter_id": 6676,
+    "verse_number": "4.81",
+    "content_sanskrit": "आशंसवश्शिवं तस्य सर्वे नगरवासिनः । चक्रुर्मङ्गलकर्माणि कुन्ती कृष्णा च किं पुनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010735,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आशंसव इत्याङ् । शंसु इच्छायामित्यस्मात् पूर्ववदुः ॥"
+    }
+  ]
+}

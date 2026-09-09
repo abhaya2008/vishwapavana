@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004711,
+    "chapter_id": 6611,
+    "verse_number": "16.3",
+    "content_sanskrit": "युद्धाय धावतां धीरं वीराणामितरेतरम् । वैतालिकाः कुलाधीशा नामान्यलमुदाहरन् ॥",
+    "padaccheda": "युद्धाय । धावताम् । धीरम् । वीराणाम् । इतरेतरम् । वैतालिकाः । कुलाधीशाः । नामानि । अलम् । उदाहरन्",
+    "anvaya": "युद्धाय इतरेतरम् धीरं धावतां वीराणां कुलाधीशाः वैतालिकाः नामानि अलम् उदाहरन् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the brave warriors rushed toward each other steadily for combat, the chief bards of their respective lineages clearly proclaimed their names and titles to announce their presence on the field.",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004711,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "युद्धायेति । इतरेतरं परस्परं युद्धाय कर्तुं धीरं गम्भीरं यथा तथा धावतां विद्रवतां वीराणां योद्धॄणां नामानि कुलाधीशाः कुलस्वामिनः । कुलप्रदीपा इति यावत् । अनेन स्वात्मविद्यायामतिप्रावीण्यं व्यज्यते । वैतालिका बन्दिनः । अलं भूषणम् । शोमेति यावत् । यथा स्यात्तथोदाहरन्नूचुः । अयममुकसंज्ञको वीरो घावति, अयममुकसंज्ञको वीरो धावतीत्येवंभूतं जगदुरित्यर्थः, आत्मपरावबोधार्थमिति भावः"
+    }
+  ]
+}

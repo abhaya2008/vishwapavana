@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003185,
+    "chapter_id": 6589,
+    "verse_number": "13.15",
+    "content_sanskrit": "दूरादयश्चक्रनिभस्य तन्वी तमालतालीवनराजिनीला । आभाति वेला लवणाम्बुराशेर्धारानिबद्धेव कलङ्करेखा ॥",
+    "padaccheda": "दूरात् । अयः-चक्र-निभस्य । तन्वी । तमाल-ताली-वन-राजि-नीला । आभाति । वेला । लवण-अम्बु-राशेः । धारा-निबद्धा । इव । कलङ्क-रेखा",
+    "anvaya": "दूरात् अयः-चक्र-निभस्य लवण-अम्बु-राशेः तन्वी तमाल-ताली-वन-राजि-नीला वेला, धारा-निबद्धा कलङ्क-रेखा इव आभाति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"From a distance, the vast ocean resembles an iron wheel. Its slender shoreline, dark with lines of Tamala and palm forests, appears like a line of rust clinging to the wheel's edge.\"",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003185,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दूरादिति॥ अयश्चक्रनिभस्य लवणाम्बुराशेर्दूरात्तन्व्यणुत्वेनावभासमाना तमालतालीवनराजिभिर्नीला वेला तीरभूमिर्धारानिबद्धा चक्राश्रिता कलङ्करेखामालिन्यरेखेव। आभाति। `मालिन्यरेखां तु कलङ्कमाहुः` इति दण्डी ॥"
+    }
+  ]
+}

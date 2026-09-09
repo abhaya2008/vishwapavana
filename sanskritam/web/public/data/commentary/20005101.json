@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005101,
+    "chapter_id": 6618,
+    "verse_number": "6.32",
+    "content_sanskrit": "स बिभर्ति भीषणभुजंगभुजः पृथि विद्विषां भयविधायि धनुः । अमलेन तस्य धृतसच्चरिताश्चरितेन चातिशयिता मुनयः ॥",
+    "padaccheda": "सः । बिभर्ति । भीषणभुजंगभुजः । पृथि । विद्विषाम् । भयविधायि । धनुः । अमलेन । तस्य । धृतसच्चरिताः । चरितेन । च । अतिशयिताः । मुनयः",
+    "anvaya": "भीषण-भुजंग-भुजः सः विद्विषाम् भय-विधायि पृथि धनुः बिभर्ति । धृत-सत्-चरिताः मुनयः च तस्य अमलेन चरितेन अतिशयिताः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"He, whose arms are like fearsome serpents, wields a large bow that strikes fear into his enemies. And the sages, who themselves uphold virtuous conduct, are surpassed by his immaculate character.\"",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005101,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ भीषयेते इति भीषणौ । नन्द्यादित्वाल्युप्रत्ययः । तौ च तौ भुजंगौ च ताविव भुजौ यस्य स तथोक्तः पुरुषो विद्विषां भयविधायि पृथु धनुर्बिभर्ति । अतो जयार्थीत्यर्थः । अमलेन तस्य पुरुषस्य चरितेन धृतानि सञ्चरितानि यैस्ते मुनयोऽतिशयिता अतिक्रान्ताः॥ अथास्य तपःसिद्धिं वर्णयन्ति-मरुत इत्यादिना ॥"
+    }
+  ]
+}

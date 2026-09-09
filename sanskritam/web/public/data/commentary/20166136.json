@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166136,
+    "chapter_id": 7072,
+    "verse_number": "20.26",
+    "content_sanskrit": "ततः प्रगदिता वाक्यं मैथिलाऽभिजना नृपम् । \"स्त्रीसामान्येन सम्भूता शङ्का मयि विमुच्यताम् ॥",
+    "padaccheda": "ततः । प्रगदिता । वाक्यम् । मैथिल-अभिजना । नृपम् । स्त्री-सामान्येन । सम्भूता । शङ्का । मयि । विमुच्यताम्",
+    "anvaya": "ततः मैथिल-अभिजना नृपम् वाक्यम् प्रगदिता। \"मयि स्त्री-सामान्येन सम्भूता शङ्का विमुच्यताम्।\"",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, she of Mithilā extraction spoke these words to the king: \"Release the doubt concerning me that has arisen from generalizations about women.\"",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166136,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि - ततस्तद्वचनानन्तरं मैथिलाभिजना सीता नृपं वाक्यं प्रग- दिता गदितुं प्रवृत्ता । आदिकर्मणि क्तः (पा.१३|४|७११) स्त्रीसामान्येन स्त्रीति कृत्वा या तव मयि शङ्का इयं सती न वेति सा विमुच्यताम् । मिथ्या- त्वात् । प्रार्थनायां लोट् ॥"
+    }
+  ]
+}

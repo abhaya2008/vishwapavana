@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165982,
+    "chapter_id": 7069,
+    "verse_number": "17.56",
+    "content_sanskrit": "अपूरयन्नभः शब्दो बल-संवर्त-संभवः ।अपूर्यन्त च दिग्-भागास्तुमुलैस्तूर्य-निस्वनैः ॥",
+    "padaccheda": "अपूरयत् । नभः । शब्दः । बल-संवर्त-संभवः । अपूर्यन्त । च । दिक्-भागाः । तुमुलैः । तूर्य-निस्वनैः",
+    "anvaya": "बल-संवर्त-संभवः शब्दः नभः अपूरयत् । तुमुलेः तूर्य-निस्वनैः च दिक्-भागाः अपूर्यन्त ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The roar arising from the mobilization of the army filled the sky. The quarters of the earth were filled with the tumultuous sounds of trumpets.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165982,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अपूरयदित्यादि - बलानां संवर्त एकीभावः तस्मात्संभवो यस्य स शब्दः नभ आकाशमपूरयत् : पूरितवान् । तुमुलैस्तूर्यनिस्वनैः महद्भिर्घोषैर्दिग्भागा अपूर्यन्त पूर्णाः । कर्मणि लङ् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011956,
+    "chapter_id": 6687,
+    "verse_number": "15.53",
+    "content_sanskrit": "अद्यैवाऽऽश्वासनीयौ तौ कालेन महताऽऽवयोः । न त्वाश्वासयितारौ श्वः क्षुल्लके गत्यनेहसि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011956,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आश्वासनीयाविति । शक्यार्थे कृत्यः । क्षुल्लकेऽल्पे । गत्यनेहसि गमनकाले ॥"
+    }
+  ]
+}

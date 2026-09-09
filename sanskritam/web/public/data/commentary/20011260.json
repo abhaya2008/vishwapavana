@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011260,
+    "chapter_id": 6681,
+    "verse_number": "9.12",
+    "content_sanskrit": "इति ब्रुवाणं मणलूरनाथं संबन्धमुच्चं तनयश्च लिप्सुः । जिघृक्षमाणः परिदातुकामं तत्कन्यकारत्नमुवाच पार्थः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011260,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तत्कन्यकारत्नमिति । जिघृक्षमाण इत्यनेनापि संबध्यते ॥"
+    }
+  ]
+}

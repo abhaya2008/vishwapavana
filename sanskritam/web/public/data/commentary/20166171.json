@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166171,
+    "chapter_id": 7074,
+    "verse_number": "22.1",
+    "content_sanskrit": "ततो रामो हनूमन्तमुक्तवान्हृष्ट-मानसम् । \"अयोध्यां श्वः प्रयातासि कपे ! भरत-पालिताम् ॥",
+    "padaccheda": "ततः । रामः । हनूमन्तम् । उक्तवान् । हृष्टमानसम् । अयोध्याम् । श्वः । प्रयातासि । कपे । भरतपालिताम्",
+    "anvaya": "ततः रामः हृष्ट-मानसम् हनूमन्तम् उक्तवान् । हे कपे ! श्वः भरत-पालिताम् अयोध्याम् प्रयातासि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rāma said to the joyful Hanumān, \"O monkey! Tomorrow you shall travel to Ayodhyā, which is protected by Bharata.\"",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166171,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि- — ततः सीतासंशोधनानन्तरं रामो हनूमन्तं हृष्टमानसं स्वामि- कार्यस्य निष्पादितत्वात् उक्तवान् । हे कपे ! श्वोदिने अयोध्यां भरतपालितां प्रयातासि गन्तासि । '२१९१| तासस्त्योर्लोपः | ७|४|५०|' ||"
+    }
+  ]
+}

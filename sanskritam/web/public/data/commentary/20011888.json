@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011888,
+    "chapter_id": 6686,
+    "verse_number": "14.112",
+    "content_sanskrit": "युष्माभिरद्य तैस्सर्वैस्सुभद्रासव्यसाचिनोः । देवाशिशावानि कार्याणि भक्तयोर्भक्तवत्सलाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011888,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तैस्सर्वैर्युष्माभिरिति इन्द्राविष्णुभ्यां शिववैश्रवणाभ्यां अन्यैश्चेत्यर्थः ॥"
+    }
+  ]
+}

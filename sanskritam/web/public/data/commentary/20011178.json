@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011178,
+    "chapter_id": 6680,
+    "verse_number": "8.64",
+    "content_sanskrit": "स वार्षशतिकान्स्तत्र सेवमानो विपश्चितः । परं प्रपेदे पाण्डित्यं विद्यास्वष्टादशस्वपि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011178,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वार्षशतिकानिति । वर्षशतं जीवितपरिमाणमेषामिति । 'तदस्य परिमाणं' इति (पा.५|१|५७) ठक् । विद्यावयोवृद्धानित्यर्थः ॥"
+    }
+  ]
+}

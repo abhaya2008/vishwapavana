@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010938,
+    "chapter_id": 6678,
+    "verse_number": "6.59",
+    "content_sanskrit": "इत्युक्त्वा सा बभाषे तमिदानीमिन्द्रनन्दन । यदि नारमयिष्यो मा मयास्यं व्यसुतामहम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010938,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यदि नारमयिष्यो मामयास्यं व्यसुतामिति । भविष्यति क्रियातिपत्तौ हेतुहेतुमद्भावे लिङ्निमित्ते लृङ् (पा.३|३|१३९) ॥"
+    }
+  ]
+}

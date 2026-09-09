@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002660,
+    "chapter_id": 6583,
+    "verse_number": "7.21",
+    "content_sanskrit": "हस्तेन हस्तं परिगृह्य वध्वाः स राजसूनुः सुतरां चकासे । अनन्तराशोकलताप्रवालं प्राप्येव चूतः प्रतिपल्लवेन ॥",
+    "padaccheda": "हस्तेन । हस्तम् । परिगृह्य । वध्वाः । सः । राजसूनुः । सुतराम् । चकासे । अनन्तराशोकलताप्रवालम् । प्राप्य । इव । चूतः । प्रतिपल्लवेन",
+    "anvaya": "सः राज-सूनुः वध्वाः हस्तम् हस्तेन परिगृह्य, प्रति-पल्लवेन अनन्तर-अशोक-लता-प्रवालम् प्राप्य चूतः इव, सुतराम् चकासे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That prince, taking the bride's hand in his, shone exceedingly, like a mango tree whose new shoot has joined with the tender sprout of a nearby Ashoka creeper.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002660,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हस्तेनेति॥ स राजसूनुर्हस्तेन स्वकीयेन वध्वा हस्तं परिगृह्य। अनन्तरायाः संनिहिताया अशोकलतायाः प्रवालं पल्लवं प्रतिपल्लवेन स्वकीयेन प्राप्य चूत आम्र इव। सुतरां चकासे ॥"
+    }
+  ]
+}

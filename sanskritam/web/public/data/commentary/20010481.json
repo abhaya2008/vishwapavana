@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010481,
+    "chapter_id": 6674,
+    "verse_number": "2.61",
+    "content_sanskrit": "कनकाधित्यकाकान्तस्तस्य मेरुविडंबिनः । शरज्जलदरेखेव हारयष्टिरुरस्यभात् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010481,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उपमा इयम् । अधित्यका अद्रेरूर्ध्वभागः । 'उपाधिभ्यां त्यकन्नासन्नारूढयोः' (पा.५|२|३४) इति अधेस्त्यकन् प्रत्ययः ॥"
+    }
+  ]
+}

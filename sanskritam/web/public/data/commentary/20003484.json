@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003484,
+    "chapter_id": 6592,
+    "verse_number": "16.45",
+    "content_sanskrit": "प्रवृद्धतापो दिवसोऽतिमात्रमत्यर्थमेव क्षणदा च तन्वी । उभौ विरोधक्रियया विभिन्नौ जायापती सानुशयाविवास्ताम् ॥",
+    "padaccheda": "प्रवृद्धतापः । दिवसः । अतिमात्रम् । अत्यर्थम् । एव । क्षणदा । च । तन्वी । उभौ । विरोधक्रियया । विभिन्नौ । जायापती । सानुशयौ । इव । आस्ताम्",
+    "anvaya": "दिवसः अतिमात्रम् प्रवृद्धतापः, क्षणदा च अत्यर्थम् एव तन्वी (आसीत्) । विरोधक्रियया विभिन्नौ उभौ सानुशयौ जायापती इव आस्ताम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The day became excessively hot, and the night became extremely short. These two, the day and night, differing due to their contrary actions, were like a husband and wife who are estranged and regretful.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003484,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रवृद्धेति॥ अतिमात्रं प्रवृद्धतापो दिवसः। अत्यर्थमेवानल्पं तन्वी कृशा क्षणदा च इत्येतावुभौ विरोधक्रियया प्रणयकलहादिना विरोधाचरणेन विभिन्नौ सानुशयौ सानुतापौ जायापती दंपती इव। आस्ताम्। तयोरपि तापकार्श्यसंभवात्तत्सदृशाबभूतामित्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011519,
+    "chapter_id": 6683,
+    "verse_number": "11.96",
+    "content_sanskrit": "वक्षो गिरिशिलादेश्यं पद्माऽस्य परिरिप्सते । लिप्सते च मुखाम्भोजे सदाऽऽवासं सरस्वती ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 96,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011519,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परिरिप्सत इत्यादिषु रभादीनां सनि तथैवेस्भावः (पा.७|४|५४) । 'खरि चे'ति (पा.८|४|५५) चर्त्वम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005236,
+    "chapter_id": 6621,
+    "verse_number": "9.23",
+    "content_sanskrit": "दीपयन्नथ नभः किरणौघैः कुङ्कुमारुणपयोधरगौरः । हेमकुम्भ इव पूर्वपयोधेरुन्ममज्ज शनकैस्तुहिनांशुः ॥",
+    "padaccheda": "दीपयन् । अथ । नभः । किरणौघैः । कुङ्कुमारुणपयोधरगौरः । हेमकुम्भ । इव । पूर्वपयोधेः । उन्ममज्ज । शनकैः । तुहिनांशुः",
+    "anvaya": "अथ किरण-ओघैः नभः दीपयन् कुङ्कुम-अरुण-पयोधर-गौरः तुहिन-अंशुः पूर्व-पयोधेः हेम-कुम्भः इव शनकैः उन्ममज्ज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the cool-rayed moon, illuminating the sky with its flood of rays and colored like a cloud tinged with the red of saffron, slowly emerged from the eastern ocean like a golden pitcher.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005236,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दीपयन्निति ॥ अथोदयानन्तरं किरणौघैर्नभो दीपयन्प्रकाशयन्कुङ्कुमेनारुणो यः पयोधरः कुचस्तद्वद्गौरोऽरुणः। उदयरागादिति भावः । तुहिनांशुरिन्दुः शनकैः पूर्वपयोधेः पूर्वसागराद्धेम्नः कुम्भ इवोन्ममज्जोज्जगामेत्युत्प्रेक्षा ।"
+    }
+  ]
+}

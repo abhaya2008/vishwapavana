@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003334,
+    "chapter_id": 6590,
+    "verse_number": "14.85",
+    "content_sanskrit": "निगृह्य शोकं स्वयमेव धीमान्वर्णाश्रमावेक्षणजागरूकः । स भ्रातृसाधारणभोगमृद्धं राज्यं रजोरिक्तमनाः शशास ॥",
+    "padaccheda": "निगृह्य । शोकम् । स्वयम् । एव । धीमान् । वर्णाश्रमावेक्षणजागरूकः । सः । भ्रातृसाधारणभोगम् । ऋद्धम् । राज्यम् । रजोरिक्तमनाः । शशास",
+    "anvaya": "धीमान् सः स्वयम् एव शोकं निगृह्य, वर्णाश्रम-अवेक्षण-जागरूकः, रजोरिक्त-मनाः सन् भ्रातृसाधारणभोगम् ऋद्धं राज्यं शशास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The wise Rama, suppressing his grief by himself, remained vigilant in supervising the social orders (Varnas) and stages of life (Ashramas). With a mind free from passion, he ruled the prosperous kingdom, sharing its enjoyments with his brothers.",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003334,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निगृह्येति॥ धीमान् वर्णानामाश्रमाणां चावेक्षणेऽनुसंधाने जागरूकोऽप्रमत्तः `जागरूकः` (पा.3।2।165)इत्यूकप्रत्ययः। रजोरिक्तमना रजोगुणशून्यचेताः स रामः स्वयमेव शोकं निगृह्य निरुध्य भ्रातृभिः साधारणभोगम्। शरीरस्थितिमात्रोपयुक्तमित्यर्थः। ऋद्धं राज्यं शशास ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011642,
+    "chapter_id": 6684,
+    "verse_number": "12.94",
+    "content_sanskrit": "अबोधि कुमुदं ज्योत्स्नां प्राप्य विद्यां मनो यथा । समपूरि चकोरश्च गृहीव धनसम्पदम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011642,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पूर्ववच्चिण् । समपूरीति ज्योत्स्नां प्राप्येत्येव । उपमालङ्कारः ॥"
+    }
+  ]
+}

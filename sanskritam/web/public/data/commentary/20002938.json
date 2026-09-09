@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002938,
+    "chapter_id": 6586,
+    "verse_number": "10.51",
+    "content_sanskrit": "हेमपात्रगतं दोर्भ्यामादधानः पयश्चरुम् । अनुप्रवेशादाद्यस्य पुंसस्तेनापि दुर्वहम् ॥",
+    "padaccheda": "हेमपात्रगतम् । दोर्भ्याम् । आदधानः । पयः । चरुम् । अनुप्रवेशात् । आद्यस्य । पुंसः । तेन । अपि । दुर्वहम्",
+    "anvaya": "(सः पुरुषः) आद्यस्य पुंसः अनुप्रवेशात् तेन अपि दुर्वहं हेमपात्रगतं पयः चरुं दोर्भ्याम् आदधानः (आसीत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That being was holding with his two arms the sacrificial milk-pudding (charu) contained in a golden vessel, which was difficult even for him to carry due to the infusion of the primeval Being (Vishnu).",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002938,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हेमपात्रेति॥ आद्यस्य पुंसो विष्णोरनुप्रवेशादधिष्ठानाद्धेतोस्तेन दिव्यपुरुषेणापि दुर्वहम्। चतुर्दशभुवनोदरस्य भगवतो हरेरतिगरीयस्त्वाद्वोढुमशक्यम्। हेमपात्रगतं पयसि पक्वं चरुं पयश्चरुं पायसान्नं दोर्भ्यामादधानो वहन्। `अनल्पाग्निभिरूष्मपक्व ओदनश्चरुः` इति याज्ञिकाः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165647,
+    "chapter_id": 7065,
+    "verse_number": "13.59",
+    "content_sanskrit": "युग्मकम्जल-तीर-तुङ्ग-तरु-वर- कन्गर-गिरि-भित्ति-कुञ्ज-विवराऽऽवासम् । भीमं तरु-हरिण-बलं सु-समिद्ध-हिमारि-किरण-माला-लोलम् ॥",
+    "padaccheda": "जल-तीर-तुङ्ग-तरु-वर-कन्दर-गिरि-भित्ति-कुञ्ज-विवर-आवासम् । भीमम् । तरु-हरिण-बलम् । सु-समिद्ध-हिमारि-किरण-माला-लोलम्",
+    "anvaya": "जल-तीर-तुङ्ग-तरु-वर-कन्दर-गिरि-भित्ति-कुञ्ज-विवर-आवासम् भीमम् तरु-हरिण-बलम् सु-समिद्ध-हिमारि-किरण-माला-लोलम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The formidable monkey army, residing in excellent tall trees by the water, in caves, on mountain walls, and in bower-crevices, appeared restless like the rays of the blazing sun (himāri).",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165647,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "जलेत्यादि - तरुहरिणबलं कपिवलं निषिद्धं सत् भीमं भयानकं जलती- राद्यैरावासो यस्य तत् सुसमिद्धस्य हिमारेरग्नेरादित्यस्य वा या किरणमाला तद्वल्लोलं समारूढमिति वक्ष्यमाणेन संबन्धः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003607,
+    "chapter_id": 6593,
+    "verse_number": "17.80",
+    "content_sanskrit": "ऋत्विजः स तथानर्च दक्षिणाभिर्महाक्रतौ । यथा साधारणीभूतं नामास्य धनदस्य च ॥",
+    "padaccheda": "ऋत्विजः । सः । तथा । अनर्च । दक्षिणाभिः । महाक्रतौ । यथा । साधारणीभूतम् । नाम । अस्य । धनदस्य । च",
+    "anvaya": "सः महाक्रतौ ऋत्विजः दक्षिणाभिः तथा अनर्च, यथा अस्य धनदस्य च नाम साधारणीभूतम् (अभवत्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the great Ashvamedha sacrifice, King Atithi honored the officiating priests with such immense wealth as their fee (dakshina) that his name became synonymous with that of Kubera, the celestial treasurer and god of riches.",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003607,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ऋत्विज इति॥ स राजा महाक्रतावश्वमेधे। ऋत्विजो याजकान् दक्षिणाभिस्तथानर्चार्चयामास। अर्चतेर्भौवादिकाल्लिट्। यथाऽस्य राज्ञो धनदस्य च नाम साधारणीभूतमेकीभूतम्। उभयोरपि धनदसंज्ञा यथा स्यात्तथेत्यर्थः ॥"
+    }
+  ]
+}

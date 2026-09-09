@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013890,
+    "chapter_id": 6705,
+    "verse_number": "13.36",
+    "content_sanskrit": "अत्रान्तरे दैववशात्स बाल- श्चङ्क्रम्यमाणो निपपात नद्याम् । मृतं तमादाय शिशुं तदीया- श्चक्रन्दुरुच्चैः पुरतो महर्षेः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013890,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "महर्षेः पुरतश्चक्रन्दुराक्रोशं चक्रुः ॥ ३६ ॥"
+    }
+  ]
+}

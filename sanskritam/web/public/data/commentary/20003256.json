@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003256,
+    "chapter_id": 6590,
+    "verse_number": "14.7",
+    "content_sanskrit": "अथाभिषेकं रघुवंशकेतोः प्रारब्धमानन्दजलैर्जनन्योः । निर्वर्तयामासुरमात्यवृद्धास्तीर्थाहृतैः काञ्चनकुम्भतोयैः ॥",
+    "padaccheda": "अथ । अभिषेकं । रघुवंशकेतोः । प्रारब्धं । आनन्दजलैः । जनन्योः । निर्वर्तयामासुः । अमात्यवृद्धाः । तीर्थाहृतैः । काञ्चनकुम्भतोयैः",
+    "anvaya": "अथ जनन्योः आनन्द-जलैः प्रारब्धं रघुवंश-केतोः अभिषेकम्, अमात्य-वृद्धाः तीर्थ-आहृतैः काञ्चन-कुम्भ-तोयैः निर्वर्तयामासुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the coronation of Rama, the banner of the Raghu dynasty, which was begun with the mothers' tears of joy, was formally completed by the old ministers with waters from golden pitchers brought from sacred pilgrimage sites.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003256,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ जनन्योरानन्दजलैरानन्दबाष्पैः प्रारब्धं प्रक्रान्तं रघुवंशकेतो रामस्याभिषेकममात्यवृद्धास्तीर्थेभ्यो गङ्गाप्रमुखेभ्य आहृतैरानीतैः काञ्चनकुम्भतोयैर्निर्वर्तयामासुर्निष्पादयामासुः ॥"
+    }
+  ]
+}

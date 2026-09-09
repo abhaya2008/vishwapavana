@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003422,
+    "chapter_id": 6591,
+    "verse_number": "15.86",
+    "content_sanskrit": "ऋषीन्विसृज्य यज्ञान्ते सुहृदश्च पुरस्कृतान् । रामः सीतागतं स्नेहं निदधे तदपत्ययोः ॥",
+    "padaccheda": "ऋषीन् । विसृज्य । यज्ञ-अन्ते । सुहृदः । च । पुरस्कृतान् । रामः । सीतागतम् । स्नेहम् । निदधे । तदपत्ययोः",
+    "anvaya": "यज्ञ-अन्ते ऋषीन् पुरस्कृतान् सुहृदः च विसृज्य, रामः सीतागतम् स्नेहम् तदपत्ययोः निदधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At the end of the sacrifice, after bidding farewell to the sages and honored friends, Rama transferred the affection he had for Sita onto her two children.",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003422,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ऋषीनिति॥ रामो यज्ञान्ते पुरस्कृतान्पूजितान्। ऋषीन्सुहृदश्च विसृज्य सीतागतं स्नेहं तदपत्ययोः कुशलवयोर्निदधे ॥"
+    }
+  ]
+}

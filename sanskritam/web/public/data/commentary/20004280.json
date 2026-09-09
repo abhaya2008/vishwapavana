@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004280,
+    "chapter_id": 6603,
+    "verse_number": "8.40",
+    "content_sanskrit": "दूरमग्रपरिमेयरश्मिना वारुणी दिगरुणेन भानुना । भाति केसरवतेव मण्डिता बन्धुजीवतिलकेन कन्यका ॥",
+    "padaccheda": "दूरम् । अग्रपरिमेयरश्मिना । वारुणी । दिक् । अरुणेन । भानुना । भाति । केसरवता । इव । मण्डिता । बन्धुजीवतिलकेन । कन्यका",
+    "anvaya": "अग्रपरिमेयरश्मिना अरुणेन भानुना दूरम् मण्डिता वारुणी दिक्, केसरवता बन्धुजीवतिलकेन मण्डिता कन्यका इव भाति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'The western direction, adorned from afar by the red sun whose rays are now few and countable, appears like a maiden decorated with a saffron-mixed tilaka mark of a Bandhujiva flower.'",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004280,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दूरलग्नेति । वारुणी दिक्प्रतीची दूरं लग्ना अत एव परिमेया अल्पावशिष्टा रश्मयः यस्य तथोक्तेनारुणेन लोहितवर्णेन केसरवता किञ्जल्कवता बन्धुजीवं बन्धुजीवककुसुमम् । `बन्धूको बन्धुजीवकः` इत्यमरः (अ.को.2|4|73) । तदेव तिलकं तेन मण्डिता कन्यकेव भाति"
+    }
+  ]
+}

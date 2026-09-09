@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002186,
+    "chapter_id": 6577,
+    "verse_number": "1.37",
+    "content_sanskrit": "मा भूदाश्रमपीडेति परिमेयपुरः सरौ । अनुभावविशेषात्तु सेनापरिवृताविव ॥",
+    "padaccheda": "मा । भूत् । आश्रमपीडा । इति । परिमेयपुरःसरौ । अनुभावविशेषात् । तु । सेनापरिवृतौ । इव",
+    "anvaya": "आश्रमपीडा मा भूत् इति परिमेयपुरःसरौ तौ अनुभावविशेषात् तु सेनापरिवृतौ इव आस्ताम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With only a few attendants to avoid disturbing the hermitage, they nevertheless appeared as if surrounded by an army due to their extraordinary majesty.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002186,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मा भूदिति॥ पुनः कथंभूतौ दंपती? आश्रमपीडा मा भून्माऽस्त्विति हेतोः। `माङि लुङ्` (पा.3।3।175) इत्याशीरर्थे लुङ्। `न माङ्योगे` (पा.6।4।74) इत्यडागमनिषेधः। परिमेयपुरःसरौ परिमितपरिचरौ। अनुभावविशेषात्तु तेजोविशेषात् सेनापरिवृताविव स्थोरौ ॥"
+    }
+  ]
+}

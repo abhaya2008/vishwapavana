@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004719,
+    "chapter_id": 6611,
+    "verse_number": "16.11",
+    "content_sanskrit": "ज्वलदग्निमुखैर्वाणैर्नीरन्ध्रैरितरेतरम् । उच्चैर्वैमानिका व्योम्नि कीर्णे दूरमपासरन् ॥",
+    "padaccheda": "ज्वलदग्निमुखैः । वाणैः । नीरन्ध्रैः । इतरेतरम् । उच्चैः । वैमानिकाः । व्योम्नि । कीर्णे । दूरम् । अपासरन्",
+    "anvaya": "व्योम्नि ज्वलत्-अग्नि-मुखैः नीरन्ध्रैः बाणैः इतरेतरम् कीर्णे (सति), उच्चैः वैमानिकाः दूरम् अपासरन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the sky became densely filled with arrows whose tips blazed like fire and were shot at one another, the celestial beings (vaimānikas) traveling high above moved far away to safety.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004719,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ज्वलदिति । ज्वलदग्निमुखैः प्रज्वलद्वह्निसहिताग्रैः । तथेतरेतरं परस्परं नीरन्ध्रैर्निर्गतावकाशैः । परस्परसंघट्टितैरिति तात्पर्यार्थः । बाणैः शरैः । उच्चैरतिशयितं यथा तथा कीर्णे व्याप्ते व्योम्नि वैमानिका विमानचारिणो देवा विष्णवादयो दूरमपासरन्दुद्रुवुः । आत्मशरीरसम्बन्धशङ्काकुलत्वादिति भावः"
+    }
+  ]
+}

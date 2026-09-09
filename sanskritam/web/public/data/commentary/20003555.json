@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003555,
+    "chapter_id": 6593,
+    "verse_number": "17.28",
+    "content_sanskrit": "वितानसहितं तत्र भेजे पैतृकमासनम् । चूडामणिभिरुद्धृष्टपादपीठं महीक्षिताम् ॥",
+    "padaccheda": "वितानसहितम् । तत्र । भेजे । पैतृकम् । आसनम् । चूडामणिभिः । उद्धृष्टपादपीठम् । महीक्षिताम्",
+    "anvaya": "तत्र महीक्षिताम् चूडामणिभिः उद्धृष्टपादपीठम् वितानसहितम् पैतृकम् आसनम् भेजे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, he occupied the ancestral throne, which was under a canopy and whose footstool was polished by the crest-jewels of vassal kings.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003555,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वितानेति॥ तत्र सभायां वितानेनोल्लोचेन सहितम्। `अस्त्री वितानमुल्लोचः` इत्यमरः (अ.को.2|6|121)। महीक्षितां राज्ञां चूडामणिभिः शिरोरत्नैरुद्धृष्टमुल्लिखितं पादपीठं यस्य तत्। पितुरिदं पैतृकम्। `ऋतष्ठञ्` (पा.4।3।78) इति ठञ्प्रत्ययः। आसनं सिंहासनं भेजे ॥"
+    }
+  ]
+}

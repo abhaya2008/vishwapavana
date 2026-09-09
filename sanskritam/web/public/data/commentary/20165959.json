@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165959,
+    "chapter_id": 7069,
+    "verse_number": "17.33",
+    "content_sanskrit": "इहाऽजीव इहैव त्वं क्रूरमारभथाः कथम् । नाऽपश्यः पाणिमार्द्रं त्वं बन्धु-त्वं नाऽप्यपैक्षथाः ॥",
+    "padaccheda": "इह । अजीवः । इह । एव । त्वम् । क्रूरम् । आरभथाः । कथम् । न । अपश्यः । पाणिम् । आर्द्रम् । त्वम् । बन्धु-त्वम् । न । अपि । अपैक्षथाः",
+    "anvaya": "इह अजीवाः, इह एव त्वम् कथम् क्रूरम् आरभथाः ? त्वम् आर्द्रम् पाणिम् न अपश्यः, बन्धु-त्वम् अपि न अपैक्षथाः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"You lived here; how could you then start this cruel act? You did not respect the ritual bond of kinship, nor did you consider the ties of being a relative.\"",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165959,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "इहेत्यादि — इहाजीवः जीवितो ऽसि कथमिहैव त्वं क्रूरं कर्म आरभथाः आरब्धवानसि । आर्द्र पाणिं च नापश्यस्त्वं न दृष्टवानसि । यावता कालेन भुक्त्वा पाणिः शुष्यति तावन्तमपि कालं नापेक्षितवानसीत्यर्थः । आस्तां तावदे- तत् । वन्धुत्वमपि एकगोत्रत्वमपि नापैक्षथाः ॥"
+    }
+  ]
+}

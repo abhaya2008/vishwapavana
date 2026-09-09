@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004212,
+    "chapter_id": 6602,
+    "verse_number": "7.67",
+    "content_sanskrit": "न नूनमारूढरुषा शरीरमनेन दग्धं कुसुमायुधस्य । व्रीडादमुं देवमुदीक्ष्य मन्ये संन्यस्तदेहः स्वयमेव कामः ॥",
+    "padaccheda": "न । नूनम् । आरूढ-रुषा । शरीरम् । अनेन । दग्धम् । कुसुम-आयुधस्य । व्रीडात् । अमुम् । देवम् । उदीक्ष्य । मन्ये । संन्यस्त-देहः । स्वयम् । एव । कामः",
+    "anvaya": "नूनम् आरूढ-रुषा अनेन कुसुम-आयुधस्य शरीरम् न दग्धम्। मन्ये, अमुम् देवम् उदीक्ष्य व्रीडात् कामः स्वयम् एव संन्यस्त-देहः अभूत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Surely, the body of the flower-arrowed one (Kamadeva) was not burnt by him in a fit of anger. I think that upon seeing this god, Kama himself, out of shame at his own inferior beauty, abandoned his body.\"",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004212,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति । आरुढरुषा प्ररुढकोपेनानेन हरेण कुसुमायुधस्य कामस्य शरीरं न दग्धं नूनं किन्तु कामोऽमुं देवमुदीक्ष्य दृष्ट्वा व्रीडात्सौन्दर्येणजितोऽस्मीति लज्जया स्वयमेव संन्यस्तदेहस्त्यक्तदेह इति मन्ये इत्युत्प्रेक्षा । न स्वयं न्यस्ताकृतेः कोपः संभवतीति भावः"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012589,
+    "chapter_id": 6693,
+    "verse_number": "1.34",
+    "content_sanskrit": "श्रुते पिदधति श्रोत्रे ऋतुरित्यक्षरद्वये । क्रियाः कथं प्रवर्तेरन्कथं ऋतुभुजो वयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012589,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "क्रतुरित्यक्षरद्वये श्रुतेऽपि सति श्रोत्रे पिदधति कर्णपिधानं कुर्वन्ति ॥ ३४ ॥ ॥ ३४ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012589,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "क्रतुरिति । 'सप्ततन्तुर्मखः क्रतुः' इत्यमराद्यज्ञः"
+    }
+  ]
+}

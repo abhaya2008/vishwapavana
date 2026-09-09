@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011950,
+    "chapter_id": 6687,
+    "verse_number": "15.47",
+    "content_sanskrit": "इत्युक्त्वा कल्पितारस्तास्तदाऽनुगमनाय मे । क्लप्तारश्चाखिला दास्यः प्रस्थानाय मुदाऽऽकुलाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011950,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कल्पितारः कल्पितार इति “लुटि च क्लृप” (पा.१|३|९३) इति तङ्विकल्पाः । “तासि च क्लृपः” (पा.७|२|६०) इति परस्मैपदे इट्प्रतिषेधः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003115,
+    "chapter_id": 6588,
+    "verse_number": "12.49",
+    "content_sanskrit": "तस्मिन्रामशरोत्कृत्ते बले महति रक्षसाम् । उत्थितं ददृशेऽन्यञ्च कबन्धेभ्यो न किंचन ॥",
+    "padaccheda": "तस्मिन् । रामशरोत्कृत्ते । बले । महति । रक्षसाम् । उत्थितम् । ददृशे । अन्यत् । च । कबन्धेभ्यः । न । किञ्चन",
+    "anvaya": "तस्मिन् राम-शर-उत्कृत्ते रक्षसां महति बले कबन्धेभ्यः अन्यत् किंचन न उत्थितं ददृशे ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "In that great army of demons decimated by Rama's arrows, nothing was seen rising up anymore except for the headless trunks of the slain warriors dancing on the battlefield.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003115,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मिन्निति॥ तस्मिन्रामशरैरुत्कृत्ते छिन्ने महति रक्षसां बल उत्थितमुत्थानक्रियाविशिष्टं प्राणिनां कबन्धेभ्यः शिरोहीनशरीरेभ्यः। `कबन्धोऽस्त्रीक्रियायुक्तमपमूर्धकलेवरम्` इत्यमरः। अन्यञअचान्यत्किंचन न ददृशे। `कबन्धेभअय`इत्यत्र `अन्यारात्-` (पा.2।3।29)इति पञ्चमी। निःशेषं हतमित्यर्थः॥"
+    }
+  ]
+}

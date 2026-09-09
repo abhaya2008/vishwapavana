@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011038,
+    "chapter_id": 6679,
+    "verse_number": "7.48",
+    "content_sanskrit": "अदर्शने प्रकाशन्ते न दृश्यन्ते प्रकाशने । धामराशेरधामानः खद्योताः खमणेरिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011038,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कुतस्तर्हि तेजोराशिमपि सज्जनं निसर्गजडोपि दुर्जनो निन्दतीत्याह—"
+    }
+  ]
+}

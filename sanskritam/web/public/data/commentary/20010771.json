@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010771,
+    "chapter_id": 6677,
+    "verse_number": "5.11",
+    "content_sanskrit": "जितरुद्रजटाभारैर्विशालकपिलोन्नतैः । क्वचिन्नीवारधान्यानामुत्कारैरुपशोभितम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010771,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उत्कारैरिति । 'कॄ धान्ये' (पा.३|३|३०) इति घञ् । उत्कीर्यन्ते ऊर्ध्वं क्षिप्यन्ते इत्युत्कारा राशयः ॥"
+    }
+  ]
+}

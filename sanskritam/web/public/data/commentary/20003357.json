@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003357,
+    "chapter_id": 6591,
+    "verse_number": "15.21",
+    "content_sanskrit": "विनाशात्तस्य वृक्षस्य रक्षस्तस्मै महोपलम् । प्रजिघाय कृतान्तस्य मुष्टिं पृथगिव स्थितम् ॥",
+    "padaccheda": "विनाशात् । तस्य । वृक्षस्य । रक्षः । तस्मै । महोपलम् । प्रजिघाय । कृतान्तस्य । मुष्टिं । पृथगिव । स्थितम्",
+    "anvaya": "तस्य वृक्षस्य विनाशात् रक्षः तस्मै कृतान्तस्य पृथक् स्थितम् मुष्टिम् इव महा-उपलम् प्रजिघाय ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Angered by the destruction of that tree, the Rakshasa hurled a great rock at him, which seemed like the detached fist of Yama, the god of death.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003357,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "विनाशादिति॥ रक्षो लवणस्तस्य विनाशाद्धेतोः। महोपलं महान्तं पाषाणम्। पृथक्स्थितं कृतान्तस्य यमस्य मुष्टिमिव। `मुष्टि` शब्दो द्विलिङ्गः। तस्मै शत्रुघ्नाय प्रजिघाय प्रहितवान् ॥"
+    }
+  ]
+}

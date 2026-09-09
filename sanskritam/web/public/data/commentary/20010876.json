@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010876,
+    "chapter_id": 6677,
+    "verse_number": "5.116",
+    "content_sanskrit": "इत्युक्त्वा स मुनीन् भृत्यान् स्वानाहूयेदमब्रवीत् । भाण्डं भवद्भिर्भर्तव्यं सर्वमेतत्तपस्विनाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010876,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भर्तव्यमिति प्रैषे च कृत्यः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004755,
+    "chapter_id": 6611,
+    "verse_number": "16.47",
+    "content_sanskrit": "न रथी रथिनं भूयः प्राहरच्छस्त्रमूर्च्छितम् । प्रत्याश्वसन्तमन्विच्छन्नातिष्ठद्युधि लोभतः ॥",
+    "padaccheda": "न । रथी । रथिनम् । भूयः । प्राहरत् । शस्त्रमूर्च्छितम् । प्रत्याश्वसन्तम् । अन्विच्छन् । न । अतिष्ठत् । युधि । लोभतः",
+    "anvaya": "रथी शस्त्र-मूर्च्छितम् रथिनं भूयः न प्राहरत् युधि लोभतः प्रत्याश्वसन्तम् अन्विच्छन् न अतिष्ठत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "A righteous chariot warrior did not strike his opponent again when the latter had fainted from weapon wounds. Furthermore, he did not linger on the battlefield out of greed, waiting for the opponent to regain consciousness just to fight him again.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004755,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति । रथी रथारोहः शस्त्रेण मूर्च्छितमचेतितं रथिनं भूयो न प्राहरत् । किन्तु पुनरपि युधि लोभतो लोभेन । तृतीयार्थे तसिः । प्रत्याश्वसन्तं पुनरुज्जीवन्तमन्विच्छन्नपेक्षमाणः सन्नतिष्ठत्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010860,
+    "chapter_id": 6677,
+    "verse_number": "5.100",
+    "content_sanskrit": "क्षिप्यमाणो मृगव्याधरानाय इव मेचकः । कृत्स्नं चकार नीरन्ध्रमन्धकारस्तपोवनम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010860,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आनीयन्तेऽनेन मृगा वशं इत्यानायो जालम् । 'जालमानायः' (पा.३|३|१२४) इति घञपवादो करणे घञ् निपात्यते ॥"
+    }
+  ]
+}

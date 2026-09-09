@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166078,
+    "chapter_id": 7070,
+    "verse_number": "18.40",
+    "content_sanskrit": "\"दातुः स्थातुर्द्विषां मूर्ध्नि यष्टुस्तर्पयितुः पित्न् । युद्धाऽभग्नाऽऽविपन्नस्य किं दशाऽऽस्यस्य शोचसि ॥",
+    "padaccheda": "दातुः । स्थातुः । द्विषाम् । मूर्ध्नि । यष्टुः । तर्पयितुः । पितृन् । युद्ध-अभग्न-आविपन्नस्य । किम् । दश-आस्यस्य । शोचसि",
+    "anvaya": "दातुः द्विषाम् मूर्ध्नि स्थातुः यष्टुः पितृन् तर्पयितुः युद्ध-अभग्न-आविपन्नस्य दशाऽऽस्यस्य किम् शोचसि ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Why do you grieve for the ten-faced one (Rāvaṇa), who was a donor, who stood upon the heads of his enemies, who performed sacrifices, who satiated his ancestors, and who died unbowed in battle?",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166078,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "दातुरित्यादि - दशास्यो दाता, द्विपां मूर्ध्नि स्थाता, यष्टा यज्ञानां पितॄन् तर्पयिता । तृप तृप्तौ' चुरादिः । युधि देवादीनां संग्रामेऽभग्नः अत्रि- पन्नः । तस्यैवंविधस्य किं शोचसि शोच्यमेव नास्ति । वर्तमाने लट् ॥"
+    }
+  ]
+}

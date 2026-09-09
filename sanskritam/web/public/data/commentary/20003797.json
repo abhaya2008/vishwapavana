@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003797,
+    "chapter_id": 6597,
+    "verse_number": "2.19",
+    "content_sanskrit": "किमिदं द्युतिमात्मीयां न बिभ्रति यथा पुरा । हिमक्लिष्टप्रकाशानि ज्योतींषीव मुखानि वः ॥",
+    "padaccheda": "किम् । इदम् । द्युतिम् । आत्मीयाम् । न । बिभ्रति । यथा । पुरा । हिमक्लिष्टप्रकाशानि । ज्योतींषि । इव । मुखानि । वः",
+    "anvaya": "इदम् किम्? वः मुखानि पुरा यथा आत्मीयाम् द्युतिम् न बिभ्रति । (तानि) हिम-क्लिष्ट-प्रकाशानि ज्योतींषि इव (सन्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"What is this? Why do your faces not possess their usual splendor as before? They look like celestial lights whose brilliance has been dimmed by frost.\" Brahma notices the dejected and faded appearance of the gods.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003797,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "किमिति ॥ `वत्साः` इत्युत्तरश्लोकीय (४/१८) संबोधनमत्राप्यनुष़ञ्जनीयम् । हे वत्साः पुत्रकाः, हिमेन नीहारेण क्लिष्टप्रका शानि मन्दप्रभाणि ज्योतींषि नक्षत्राणीव ।`दीत्पिताराहुताशेषु ज्योतिः` इति शाश्वतः । वो युष्माकं मुखानि पुरा यथा पूर्वमिवात्मीयां द्युतिं न बिभ्रति । इदम् किम् । किंनिबन्धनमित्यर्थः । किमिदमित्यनेन वाक्यार्थः परामृश्यते"
+    }
+  ]
+}

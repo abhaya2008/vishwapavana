@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004322,
+    "chapter_id": 6603,
+    "verse_number": "8.82",
+    "content_sanskrit": "तत्र हंसधवलोत्तरच्छदं जाह्नवीपुलिनचारुदर्शनम् । अध्यशेत शयनं प्रियासखः शारदाभ्रमिव रोहिणीपतिः ॥",
+    "padaccheda": "तत्र । हंसधवलोत्तरच्छदम् । जाह्नवीपुलिनचारुदर्शनम् । अध्यशेत । शयनम् । प्रियासखः । शारदाभ्रम् । इव । रोहिणीपतिः",
+    "anvaya": "तत्र प्रियासखः रोहिणीपतिः शारदाभ्रम् इव, हंसधवलोत्तरच्छदं जाह्नवीपुलिनचारुदर्शनं शयनम् अध्यशेत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the lover (Shiva), accompanied by his beloved, lay upon the bed, which had a cover as white as a swan and was as beautiful to behold as a sandbank of the Ganga. He was like the Moon resting on an autumn cloud.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004322,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति । तत्र मणिभवने हंसवद्धवल उत्तरच्छदः प्रच्छदपटी यस्य तत्तथोक्तं जाह्नवीपुलिनमिव चारुदर्शनं शयनं शय्यां रोहिणीपतिश्चन्द्रः, शरदि भवं शारदमभ्रं मेघमिव । शरद्ग्रहणं धावल्यार्थम् । प्रियसखः सन् । प्रियया सहेत्यर्थः । अध्यशेत शयितवान् । `अधिशीङ्स्थासां कर्म` इति कर्मत्वम् । रोहिणीग्रहणसामर्थ्यादिन्दोरप्यभ्रारोहणे रोहिणीसाहित्यमनुसंधेयम्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011735,
+    "chapter_id": 6685,
+    "verse_number": "13.71",
+    "content_sanskrit": "इति पाराशरी पृष्टः पार्थिवेन तमब्रवीत् । सितांशुक्रं सरस्वत्या दन्तांशुचयमुद्गिरन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011735,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अब्रवीदिति । ब्रुव ईडिटीट् (पा.७|३|९३) ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012081,
+    "chapter_id": 6688,
+    "verse_number": "16.88",
+    "content_sanskrit": "प्रायेण लोके पितरः कुमारीर्यथाकथाच क्वचिदुज्झितारः । वयन्तु धन्याः पुरुषप्रकाण्डं प्रपद्य जामातरमर्जुनं त्वाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012081,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यथाकथाच । अनादरेणेत्यर्थः । उज्झितारः । उत्स्रष्टारः । उज्झ उत्सर्गे । ताच्छील्ये तृन् ॥"
+    }
+  ]
+}

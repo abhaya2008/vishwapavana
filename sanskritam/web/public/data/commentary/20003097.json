@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003097,
+    "chapter_id": 6588,
+    "verse_number": "12.31",
+    "content_sanskrit": "पञ्चवट्यां ततो रामः शासनात्कुम्भजन्मनः । अनपोढस्थितिस्तस्थौ विन्ध्याद्रिः प्रकृताविव ॥",
+    "padaccheda": "पञ्चवट्याम् । ततः । रामः । शासनात् । कुम्भजन्मनः । अनपोढस्थितिः । तस्थौ । विन्ध्याद्रिः । प्रकृतौ । इव",
+    "anvaya": "ततः रामः कुम्भजन्मनः शासनात् पञ्चवट्याम् अनपोढस्थितिः प्रकृतौ विन्ध्याद्रिः इव तस्थौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, following the command of the sage Agastya (the pitcher-born), Rama stayed in Panchavati without deviating from his righteous conduct, appearing like the Vindhya mountain remaining in its natural, humble state.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003097,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पञ्चवट्यामिति॥ ततो रामः कुम्भजन्मनोऽगस्त्यस्य शासनात्। पञ्चानां वटानां समाहारः पञ्चवटी। `तद्धितार्थ-` (पा.2।1।51)इति तत्पुरुषः । `संख्यापूर्वो द्विगोः` (पा.2।1।22)इति द्विगुसंज्ञायाम् `द्विगोः` (पा.4।1।21)इति ङीप्। `द्विगुरेकवचनम्` (पा.2।4।1)इत्येकवचनम्। तस्यां पञ्चवट्याम्। विन्ध्याद्रिः प्रकृतौ वृद्धेः पूर्वावस्थायामिव। अनपोढस्थितिरनतिक्रान्तमर्यादस्तस्थौ ॥"
+    }
+  ]
+}

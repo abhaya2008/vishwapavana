@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004401,
+    "chapter_id": 6605,
+    "verse_number": "10.18",
+    "content_sanskrit": "त्वयि जुह्वति होतारो हवींषि ध्वस्तकल्मषाः । भुञ्जन्ति स्वर्गमेकस्त्वं स्वर्गप्राप्तौ हि कारणम् ॥",
+    "padaccheda": "त्वयि । जुह्वति । होतारः । हवींषि । ध्वस्तकल्मषाः । भुञ्जन्ति । स्वर्गम् । एकः । त्वम् । स्वर्गप्राप्तौ । हि । कारणम्",
+    "anvaya": "त्वयि होतारः हवींषि जुह्वति ध्वस्तकल्मषाः स्वर्गं भुञ्जन्ति त्वम् एकः स्वर्गप्राप्तौ कारणं हि ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "When priests offer oblations into Agni, they are purified of their sins and enjoy heaven; thus, Agni is indeed the primary cause for the attainment of heaven.",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004401,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त्वयीति । होतारो हवींषि त्वयि जुह्वति । अत एव ध्वस्तकल्मषाः स्त्रस्तपापाः सन्तः स्वर्ग भुञ्जन्ति । हि यतस्त्वमेक एव स्वर्गप्राप्तौ कारणम् । `ज्योतिष्टोमेन स्वर्गकामो यजेत' इत्यादिश्रुत्युक्तयागफलस्वर्गप्राप्तौ यागस्य त्वदायत्ततया कारणत्वोक्तेरिति भावः"
+    }
+  ]
+}

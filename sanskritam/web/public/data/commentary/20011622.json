@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011622,
+    "chapter_id": 6684,
+    "verse_number": "12.74",
+    "content_sanskrit": "पार्थाम्बुधिमबभ्राजत्सुभद्रामुखचन्द्रिका । तन्वती कम्पमुद्दामस्वेदशीकरसङ्कुलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011622,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अबभ्राजदिति ह्रस्वाभावपक्षः ॥"
+    }
+  ]
+}

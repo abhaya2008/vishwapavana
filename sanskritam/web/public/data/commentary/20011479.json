@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011479,
+    "chapter_id": 6683,
+    "verse_number": "11.56",
+    "content_sanskrit": "स्वमूर्त्यन्तरमालिङ्ग्य प्रेम्णा नारायणो नरम् । विनीत्याऽसिसिषुं भूमौ नयति स्मासनं निजम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011479,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्र प्रेयोऽलङ्कारः । आसिसिषुमिति आसेरजादित्वात्सनन्तस्य द्वितीयस्यैकाचो द्विर्वचनम् ॥"
+    }
+  ]
+}

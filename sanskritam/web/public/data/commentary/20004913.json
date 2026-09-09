@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004913,
+    "chapter_id": 6614,
+    "verse_number": "2.53",
+    "content_sanskrit": "लघुवृत्तितया भिदां गतं बहिरन्तश्च नृपस्य मण्डलम् । अभिभूय हरत्यनन्तरः शिथिलं कूलमिवापगारयः ॥",
+    "padaccheda": "लघुवृत्तितया । भिदाम् । गतम् । बहिः । अन्तः । च । नृपस्य । मण्डलम् । अभिभूय । हरति । अनन्तरः । शिथिलम् । कूलम् । इव । आपगारयः",
+    "anvaya": "अनन्तरः लघु-वृत्तितया भिदाम् गतम् नृपस्य बहिः अन्तः च मण्डलम् अभिभूय हरति, आपगा-रयः शिथिलम् कूलम् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A neighboring king overpowers and seizes the internal and external circle of allies of a king who has become divided due to his fickle conduct, just as the current of a river carries away a loose bank.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004913,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "लघ्विति ॥ लघुवृत्तितया स्वस्य दुर्वृत्तरूपतया बहिर्मित्रादिजनपदेष्वन्तरमात्यादिषु च भिदां भेदं गतम् । `षिद्भिदादिभ्योऽङ्` (पा.3।3।104) इत्यङ्प्रत्ययः । नृपस्य मण्डलं राष्ट्रमनन्तरः संनिहितो जिगीषुरापगारयो नदीवेगः शिथिलमन्तर्भेदजर्जरं कूलमिवाभिभूयाक्रम्य हरति ।।"
+    }
+  ]
+}

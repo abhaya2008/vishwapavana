@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003893,
+    "chapter_id": 6598,
+    "verse_number": "3.51",
+    "content_sanskrit": "स्मरस्तथाभूतमयुग्मनेत्रं पश्यन्नदूरान्मनसाप्यधृष्यम् । नालक्षयत्साध्वससन्नहस्तः स्रस्तं शरं चापमपि स्वहस्तात् ॥",
+    "padaccheda": "स्मरः । तथाभूतम् । अयुग्मनेत्रम् । पश्यन् । अदूरात् । मनसा । अपि । अधृष्यम् । न । अलक्षयत् । साध्वससन्नहस्तः । स्रस्तम् । शरम् । च । चापम् । अपि । स्वहस्तात्",
+    "anvaya": "तथाभूतम् अदूरान् मनसा अपि अधृष्यम् अयुग्म-नेत्रम् पश्यन्, साध्वस-सन्न-हस्तः स्मरः स्व-हस्तात् स्रस्तम् शरम् चापम् अपि च न अलक्षयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Seeing from nearby the odd-eyed god in such a state, unassailable even in thought, Kama, his hand paralyzed by fear, did not notice the arrow and also the bow that had slipped from his own hand.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003893,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्मरेति । स्मरः कामस्तथाभूतं पूर्वोक्तरुपं मनसाप्यधृष्यमयुग्मनेत्रं विषमाक्षमदूरात्पश्यन् । साध्वसेन सन्नहस्तो विश्लथपाणिः सन् । स्वहस्तात्स्त्रस्तं शरं चापमपि चापं च नालक्षयन्न विवेद । भीतो मुह्यतीति भावः"
+    }
+  ]
+}

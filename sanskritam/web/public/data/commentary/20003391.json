@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003391,
+    "chapter_id": 6591,
+    "verse_number": "15.55",
+    "content_sanskrit": "कुम्भयोनिरलंकारं तस्मै दिव्यपरिग्रहम् । ददौ दत्तं समुद्रेण पीतेनेवात्मनिष्क्रयम् ॥",
+    "padaccheda": "कुम्भयोनिः । अलंकारं । तस्मै । दिव्यपरिग्रहम् । ददौ । दत्तं । समुद्रेण । पीतेन । इव । आत्मनिष्क्रयम्",
+    "anvaya": "कुम्भयोनिः तस्मै दिव्य-परिग्रहम् अलंकारं ददौ, यः पीतेन समुद्रेण आत्म-निष्क्रयम् इव दत्तः आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kumbhayoni (Agastya) gave Rama a divine ornament, which seemed as if it had been given by the ocean he had drunk as a ransom for itself.",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003391,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कुम्भेति॥ कुम्भयोनिरगस्त्यः पीतेन समुद्रेणात्मनिष्क्रयमिवात्ममोचनमूल्यमिव दत्तम्। अत एव परिगृह्यत इति व्युत्पत्त्या दिव्यपरिग्रहः। दिव्यानां परिग्राह्य इत्यर्थः। तमलंकारं तस्मै रामाय ददौ ॥"
+    }
+  ]
+}

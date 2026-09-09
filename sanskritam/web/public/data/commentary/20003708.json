@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003708,
+    "chapter_id": 6595,
+    "verse_number": "19.47",
+    "content_sanskrit": "एवमिन्द्रियसुखानि निर्विशन्नन्यकार्यविमुखः स पार्थिवः । आत्मलक्षणनिवेदितानृतूनत्यवाहयदनङ्गवाहितः ॥",
+    "padaccheda": "एवम् । इन्द्रियसुखानि । निर्विशन् । अन्यकार्यविमुखः । सः । पार्थिवः । आत्मलक्षणनिवेदितान् । ऋतून् । अत्यवाहयत् । अनङ्गवाहितः",
+    "anvaya": "एवम् अन्य-कार्य-विमुखः अनङ्ग-वाहितः सः पार्थिवः इन्द्रिय-सुखानि निर्विशन् आत्म-लक्षण-निवेदितान् ऋतून् अत्यवाहयत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus, that king, carried away by passion and averse to all other duties, spent the seasons—each announced by its own natural signs—by indulging in the pleasures of the senses.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003708,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति॥ एवमनङ्गवाहितः कामप्रेरितोऽन्यकार्यविमुखः स पार्थिव इन्द्रियाणां सुखानि सुखकराणि शब्दादीनि निर्विशन्ननुभवन्नात्मनो लक्षणैः कुटजस्रग्धारणादिचिह्नैर्निवेदितान्। अयमृतुरिदानीं वर्तत इति ज्ञापितान्। ऋतून्वर्षादीन्। अत्यवाहयदगमयत् ॥"
+    }
+  ]
+}

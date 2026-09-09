@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011136,
+    "chapter_id": 6680,
+    "verse_number": "8.22",
+    "content_sanskrit": "महिष्यो माहिषं कच्चित् कर्म हौत्रादि चर्त्विजः । पौरौहितञ्च युष्माकं न मुञ्चन्ति पुरोहिताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011136,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "माहिषपौरोहितयोः 'अण् महिष्यादिभ्य' (पा.४|४|४८) इति धर्म्येडण् । हौत्रेति 'ऋतोज्ञ्' (पा.५|१|१०५) इत्यञ् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003537,
+    "chapter_id": 6593,
+    "verse_number": "17.10",
+    "content_sanskrit": "तत्रैनं हेमकुम्भेषु संभृतैस्तीर्थवारिभिः । उपतस्थुः प्रकृतयो भद्रपीठोपवेशितम् ॥",
+    "padaccheda": "तत्र । एनम् । हेमकुम्भेषु । सम्भृतैः । तीर्थवारिभिः । उपतस्थुः । प्रकृतयः । भद्रपीठोपवेशितम्",
+    "anvaya": "तत्र भद्र-पीठ-उपवेशितम् एनम् प्रकृतयः हेम-कुम्भेषु सम्भृतैः तीर्थ-वारिभिः उपतस्थुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the subjects approached him, who was seated on an auspicious throne, with waters from holy places collected in golden pitchers, for the anointing ceremony.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003537,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ तत्र विमाने भद्रपीठे पीठविशेष उपवेशितमेनमतिथिं हेमकुम्भेषु संभृतैः संगृहीतैस्तीर्थवारिभिः। करणैः प्रकृतयो मन्त्रिणा उपतस्थु ॥"
+    }
+  ]
+}

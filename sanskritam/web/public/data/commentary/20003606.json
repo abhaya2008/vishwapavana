@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003606,
+    "chapter_id": 6593,
+    "verse_number": "17.79",
+    "content_sanskrit": "दूरापवर्जितच्छत्रैस्तस्याज्ञां शासनार्पिताम् । दधुः शिरोभिर्भूपाला देवाः पौरंदरीमिव ॥",
+    "padaccheda": "दूरापवर्जितच्छत्रैः । तस्य । आज्ञाम् । शासनार्पिताम् । दधुः । शिरोभिः । भूपालाः । देवाः । पौरंदरीम् । इव",
+    "anvaya": "भूपालाः दूर अपवर्जित छत्रैः (सद्भिः) तस्य शासन अर्पिताम् आज्ञाम्, देवाः पौरंदरीम् (आज्ञाम्) इव, शिरोभिः दधुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Other kings showed their submission by setting aside their own royal parasols and reverently accepting King Atithi's commands on their heads. They obeyed his edicts with the same deference that the lesser gods show to the commands of Indra.",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003606,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दूरेति॥ भूपालाः शासनेषु पत्रेष्वर्पितामुपन्यस्तां तस्य राज्ञ आज्ञाम्। देवाः पौरंदरीमैन्द्रीमाज्ञामिव। दूरापवर्जितच्छत्रैर्दूरात्परिहृतातपत्रैः शिरोभिर्दधुः ॥"
+    }
+  ]
+}

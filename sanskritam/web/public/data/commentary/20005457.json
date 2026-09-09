@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005457,
+    "chapter_id": 6624,
+    "verse_number": "12.22",
+    "content_sanskrit": "अनुजानुमध्यमवसक्तविततवपुषा महाहिना । लोकमखिलमिव भूमिभृता रवितेजसामवधिनाधिवेष्टितम् ॥",
+    "padaccheda": "अनुजानुमध्यम् । अवसक्तविततवपुषा । महाहिना । लोकम् । अखिलम् । इव । भूमिभृता । रवितेजसाम् । अवधिना । अधिवेष्टितम्",
+    "anvaya": "अनुजानुमध्यम् अवसक्तविततवपुषा, रवितेजसाम् अवधिना महाहिना, भूमिभृता अखिलम् लोकम् इव अधिवेष्टितम् (ददृशुः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They saw him encircled by a great serpent whose body hung down to the middle of his knees. It was as if the entire world, supported by the mountain (Himalaya), was encircled by the serpent, which was the very limit of the sun's splendors.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005457,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अनुजान्विति ॥ जानुनोर्मध्येऽनुजानुमध्यम् । विभक्त्यर्थेऽव्ययीभावः । अवसक्तं लग्नं विततमायतं च वपुर्यस्य तेन महाहिना । अवसक्तिकाबन्धभूतेनेत्यर्थः । अधिवेष्टितमत एव रवितेजसामवधिनां पर्यन्तभूतेन भूमिभृता लोकालोकाचलेनाभिवेष्टितमखिलं लोकमिव स्थितमित्युपमा । `असूर्यंपश्यापरभागो लोकालोकाचलः` इत्यागमः ।।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002547,
+    "chapter_id": 6581,
+    "verse_number": "5.70",
+    "content_sanskrit": "ताम्रोदरेषु पतितं तरुपल्लवेषु निर्धौतहारगुलिकाविशदं हिमाम्भः । आभाति लब्धपरभागतयाधरोष्ठे लीलास्मितं सदशनार्चिरिव त्वदीयम् ॥",
+    "padaccheda": "ताम्रोदरेषु । पतितं । तरुपल्लवेषु । निर्धौतहारगुलिकाविशदं । हिमाम्भः । आभाति । लब्धपरभागतया । अधरोष्ठे । लीलास्मितं । सदशनार्चिरिव । त्वदीयम्",
+    "anvaya": "तरु-पल्लवेषु ताम्र-उदरेषु पतितं, निर्धौत-हार-गुलिका-विशदं हिम-अम्भः, अधर-ओष्ठे लब्ध-परभाग-तया त्वदीयं स-दशन-अर्चिः लीला-स्मितम् इव आभाति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The dew, fallen on the coppery undersides of young tree leaves and as clear as washed pearls, shines like your playful smile on your lower lip, which, having attained superior beauty, reveals the gleam of your teeth.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002547,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ताम्रेति॥ ताम्रोदरेष्वरुणाभ्यन्तरेषु तरुपल्लवेषु पतितं निर्धौता या हारगुलिका मुक्तामणयस्तद्वद्विशदं हिमाम्भो लब्धपरभागतया लब्धोत्कर्षतया। `परभागो गुणोत्कर्षे` इति यादवः। अधरोष्ठे त्वदीयं सदशनार्चिर्दन्तकान्तिसहितं लीलास्मितमिवाभाति शोभते ॥"
+    }
+  ]
+}

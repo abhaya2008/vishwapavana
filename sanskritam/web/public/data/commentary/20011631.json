@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011631,
+    "chapter_id": 6684,
+    "verse_number": "12.83",
+    "content_sanskrit": "अवान्तरे रविर्भाभिरलिपल्लोहितीभवन् । द्वारकासौधशृङ्गाणि कनकद्रवकान्तिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011631,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्रान्तर इत्यादि । अलिपदिति 'लिपिसिचिह्वश्चे'त्यङ् (पा.३|१|५३) । लिप उपदेहे । ङित्त्वाल्लघूपधगुणाभावः ॥"
+    }
+  ]
+}

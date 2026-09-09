@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004086,
+    "chapter_id": 6601,
+    "verse_number": "6.36",
+    "content_sanskrit": "ते चाकाशमसिश्याममुत्पत्य परमर्षयः । आसेदुरोषधिप्रस्थं मनसा समरंहसः ॥",
+    "padaccheda": "ते । च । आकाशम् । असिश्यामम् । उत्पत्य । परमर्षयः । आसेदुः । ओषधिप्रस्थम् । मनसा । समरंहसः",
+    "anvaya": "मनसा सम-रंहसः ते परम-ऋषयः च असि-श्यामम् आकाशम् उत्पत्य ओषधिप्रस्थम् आसेदुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And those great sages, equal in speed to the mind, having flown up into the sky which was dark as a sword, reached Oshadhiprastha.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004086,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति । मनसा समरंहसो मनस्तुल्यवेगास्ते परमर्षश्च । पूर्वश्लोकोक्तेश्वरसमुच्चयार्थश्चकारः । असिवच्छ्यामं नीलमाकाशं खं प्रत्युत्पत्यौषधिप्रस्थं हिमवत्पुरमासेदुः । सद्यः प्रापुरित्यर्थः"
+    }
+  ]
+}

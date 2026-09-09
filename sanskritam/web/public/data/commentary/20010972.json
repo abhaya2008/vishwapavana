@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010972,
+    "chapter_id": 6678,
+    "verse_number": "6.93",
+    "content_sanskrit": "प्रियेण शृङ्गकोणेन मृदुकण्डूयिता मृगी । तिष्ठन्ती मीलिताक्षीयं सत्कार्या वा विलोचनैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010972,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मृदुकण्डूयिता सत्कार्येति कर्मणि ॥"
+    }
+  ]
+}

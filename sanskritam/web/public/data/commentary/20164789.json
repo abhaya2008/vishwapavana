@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164789,
+    "chapter_id": 7058,
+    "verse_number": "6.11",
+    "content_sanskrit": "संदृश्य शरणं शून्यं भिक्षमाणो वनं प्रियाम् । प्राणान्दुहन्निवाऽऽत्मानं शोकं चित्तमवारुधत् ॥",
+    "padaccheda": "संदृश्य । शरणम् । शून्यम् । भिक्षमाणः । वनम् । प्रियाम् । प्राणान् । दुहन् । इव । आत्मानम् । शोकम् । चित्तम् । अवारुधत्",
+    "anvaya": "शून्यम् शरणम् संदृश्य वनम् प्रियाम् भिक्षमाणः सः प्राणान् दुहन् इव आत्मानम् शोकम् चित्तम् अवारुधत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Seeing the cottage empty and begging the forest for his beloved, he felt as if his life-force was being drained away; he suppressed his grief within.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164789,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "'संदृश्येत्यादि - रामः शरणं गृहं शून्यं संदृश्य दृष्ट्वा । शोकं चित्तमवारु- धत् चित्तं शोकं प्रावेशयत् । कीदृशः प्रियां जानकीं वनं भिक्षमाणः । प्राणान् दुहन्निव त्यजन्निव । प्राणानिति प्रधानं कर्म आत्मानमित्यकथितम् । आत्मनः प्राणान् त्यजन्निव ॥"
+    }
+  ]
+}

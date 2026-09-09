@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005821,
+    "chapter_id": 6630,
+    "verse_number": "18.15",
+    "content_sanskrit": "अथ हिमशुचिभस्मभूषितं शिरसि विराजितमिन्दुलेखया । स्ववपुरतिमनोहरं हरं दधतमुदीक्ष्य ननाम पाण्डवः ॥",
+    "padaccheda": "अथ । हिमशुचिभस्मभूषितम् । शिरसि । विराजितम् । इन्दुलेखया । स्ववपुः । अतिमनोहरम् । हरम् । दधतम् । उदीक्ष्य । ननाम । पाण्डवः",
+    "anvaya": "अथ पाण्डवः हिमशुचिभस्मभूषितम्, शिरसि इन्दुलेखया विराजितम्, अतिमनोहरम् स्ववपुः दधतम् हरम् उदीक्ष्य ननाम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, the son of Pandu (Arjuna), seeing Hara (Shiva) bearing his own exceedingly charming form—adorned with ash as pure as snow and graced on the head by the crescent moon—bowed down to him.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005821,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति ॥ अथ हिमशुचिना हिमशुभ्रेण भस्मना भूषितं शिरसीन्दुलेखया विराजितं शोभितमतिमनोहरं सुन्दरं स्ववपुर्दधतं किरातरूपं विहाय निजविंग्रहं दधानं हरमुदीक्ष्य पाण्डवो ननाम प्रणतवान् । अपरवक्रं वृत्तम् —`अयुजि ननरला गुरुः समे तदपरवक्रमिदं नजौ जरौ` इति लक्षणात् ॥"
+    }
+  ]
+}

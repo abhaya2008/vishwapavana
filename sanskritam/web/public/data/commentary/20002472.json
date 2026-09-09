@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002472,
+    "chapter_id": 6580,
+    "verse_number": "4.83",
+    "content_sanskrit": "तमीशः कामरूपाणामत्याखण्डलविक्रमम् । भेजे भिन्नकटैर्नागैरन्यानुपरुरोध यैः ॥",
+    "padaccheda": "तम् । ईशः । कामरूपाणाम् । अत्याखण्डलविक्रमम् । भेजे । भिन्नकटैः । नागैः । अन्यान् । उपरुरोध । यैः",
+    "anvaya": "कामरूपाणाम् ईशः, यैः भिन्नकटैः नागैः अन्यान् उपरुरोध, (तैः एव नागैः) अत्याखण्डलविक्रमम् तम् भेजे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lord of the Kamarupas submitted to Raghu, whose valor surpassed Indra's. He served him with the very same elephants—their temples flowing with ichor—with which he had previously besieged other kings.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002472,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ कामरूपाणां नाम देशानामीशोऽत्याखण्डलविक्रममतीन्द्रपराक्रमं तं रघुम्। भिन्नाः स्रवन्मदाः कटा गण्डा येषां तैर्नागैर्गजैः साधनैः । भेजे। नागान्दत्त्वा शरणं गत इत्यर्थः। कीदृशैर्नागैः? यैरन्यान् रघुव्यतिरिक्तान्नृपानुपरुरोध शूराणामपि शूरो रघुरिति भावः ॥"
+    }
+  ]
+}

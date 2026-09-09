@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011001,
+    "chapter_id": 6679,
+    "verse_number": "7.11",
+    "content_sanskrit": "दैवोदासिं परुच्छेपं मैत्रावरुणिमप्यृषिम् । अगस्त्यमौर्वशेयं च वसिष्ठभ्रातरं विभुम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011001,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "और्वशेय उर्वश्या अपत्यम् । ‘स्त्रीभ्यो ढक्’ (पा.४|१|१२०) ॥"
+    }
+  ]
+}

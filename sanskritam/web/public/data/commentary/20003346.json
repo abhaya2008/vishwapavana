@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003346,
+    "chapter_id": 6591,
+    "verse_number": "15.10",
+    "content_sanskrit": "आदिष्टवर्त्मा मुनिभिः स गच्छंस्तपतां वरः । विरराज रथप्रष्ठैर्वालखिल्यैरिवांशुमान् ॥",
+    "padaccheda": "आदिष्टवर्त्मा । मुनिभिः । सः । गच्छन् । तपतां । वरः । विरराज । रथप्रष्ठैः । वालखिल्यैः । इव । अंशुमान्",
+    "anvaya": "मुनिभिः आदिष्टवर्त्मा तपतां वरः सः गच्छन्, रथप्रष्ठैः वालखिल्यैः सहितः अंशुमान् इव, विरराज।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As he traveled, his path indicated by the sages, that best of warriors, Shatrughna, shone brightly, accompanied by his chariot-vanguard, just as the sun shines accompanied by the Valakhilya sages who travel before its chariot.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003346,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आदिष्टेति॥ रथप्रष्ठै रथाग्रगामिभिः। `प्रष्ठोऽग्रगामिनि` (पा.8।3।92) इति निपातः। मुनिभिः पूर्वोक्तैरादिष्टवर्त्मा निर्दिष्टमार्गो गच्छंस्तपतां देदीप्यमानानां मधअये वरः श्रेष्ठः स शत्रुघ्नः। वालखिल्यैर्मुनिभिरंशुमान्सूर्य इव। विरराज। तेऽपि रथप्रष्ठा इत्यनुसंधेयम् ॥"
+    }
+  ]
+}

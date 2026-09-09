@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166077,
+    "chapter_id": 7070,
+    "verse_number": "18.39",
+    "content_sanskrit": "रावणस्य नमन्ति स्म पौराः सास्रा रुदन्ति च।\" । भाषते स्म ततो रामो वचः पौलस्त्यमाकुलम् ॥",
+    "padaccheda": "रावणस्य । नमन्ति । स्म । पौराः । स-अस्त्राः । रुदन्ति । च । भाषते । स्म । ततः । रामः । वचः । पौलस्त्यम् । आकुलम्",
+    "anvaya": "पौराः रावणस्य नमन्ति स्म स-अस्त्राः रुदन्ति च । ततः रामः आकुलम् पौलस्त्यम् वचः भाषते स्म ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The citizens bowed to Rāvaṇa and wept with tears. Then, Rāma spoke words to the distressed Vibhīṣaṇa (the son of Pulastya).",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166077,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "रावणस्येत्यादि - पौराश्च रावणस्य नमन्ति स्म नमस्यन्ति । पादावित्यर्थात् तत्सम्बन्धित्वात् । सास्राश्च सन्तः रुदन्ति च स्म । ततोऽनन्तरं रामः पौलस्त्यं विभीषणं आकुलं वचो भापते स्म उक्तवान् ॥"
+    }
+  ]
+}

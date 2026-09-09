@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010450,
+    "chapter_id": 6674,
+    "verse_number": "2.30",
+    "content_sanskrit": "इङ्गुदीफलतैलेन पिष्टमामलकीफलम् । मिश्रयित्वा वयं तेन श्लक्ष्णयामो जटाभरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010450,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनेन दस्युबाधाभावमेव दर्शयति । मिश्रयित्वा मिश्रं कृत्वा । श्लक्ष्णयामः श्लक्ष्णं कुर्मः । पूर्ववन्णिच् ॥"
+    }
+  ]
+}

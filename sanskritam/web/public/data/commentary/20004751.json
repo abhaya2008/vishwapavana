@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004751,
+    "chapter_id": 6611,
+    "verse_number": "16.43",
+    "content_sanskrit": "तुरङ्गसादिनं शस्त्रहृतप्राणं मतं भुवि । अबद्धोऽपि महावाजी न साश्रुनयनोऽत्यजत् ॥",
+    "padaccheda": "तुरङ्गसादिनम् । शस्त्रहृतप्राणम् । पतितम् । भुवि । अबद्धः । अपि । महावाजी । न । साश्रुनयनः । अत्यजत्",
+    "anvaya": "शस्त्र-हृत-प्राणम् भुवि पतितम् तुरङ्ग-सादिनम् अबद्धः अपि महा-वाजी स-अश्रु-नयनः न अत्यजत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Even though the great horse was not tied, it did not abandon its rider who had been killed by a weapon and fallen to the ground. Instead, the loyal animal stood by him with eyes full of tears.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004751,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तुरङ्गेति । अबद्धोऽप्यनिरुद्धोऽपि महावाजी महाश्वः साश्रुणी सबाष्पे नयने यस्य तथाभूतः सन् । शस्त्रहृतप्राणमत एव भुवि गतं तुरङ्गसादिनमश्ववारं नात्यजन्न जहौ । किन्तु तज्जीवनमपेक्षमाणस्तत्रैव तस्थावित्यर्थः"
+    }
+  ]
+}

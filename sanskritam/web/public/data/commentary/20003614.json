@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003614,
+    "chapter_id": 6594,
+    "verse_number": "18.6",
+    "content_sanskrit": "नभश्चरैर्गीतयशाः स लेभे नभस्तलश्यामतनुं तनूजम् । ख्यातं नभःशब्दमयेन नाम्ना कान्तं नभोमासमिव प्रजानाम् ॥",
+    "padaccheda": "नभश्चरैः । गीतयशाः । सः । लेभे । नभस्तलश्यामतनुम् । तनूजम् । ख्यातम् । नभःशब्दमयेन । नाम्ना । कान्तम् । नभोमासम् । इव । प्रजानाम्",
+    "anvaya": "नभश्चरैः गीतयशाः सः नभस्तलश्यामतनुम्, प्रजानां कान्तं नभोमासम् इव, नभःशब्दमयेन नाम्ना ख्यातं तनूजं लेभे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "King Nala, whose fame was sung by celestial beings, obtained a son whose body was dark like the sky. This son was famous by the name Nabhas and was as beloved to the subjects as the month of Nabhas (Shravana).",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003614,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नभ इति॥ नभश्चरैर्गन्धर्वादिभिर्गीतयशाः स नलो नभस्तलश्यामतनुं नभःशब्दमयेन नाम्ना ख्यातम्। नभःशब्दसंज्ञकमित्यर्थः। नभोमासमिव श्रावणमासमिव। प्रजानां कान्तं प्रियं तनूजं पुत्रं लेभे ॥"
+    }
+  ]
+}

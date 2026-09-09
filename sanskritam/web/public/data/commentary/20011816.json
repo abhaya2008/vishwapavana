@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011816,
+    "chapter_id": 6686,
+    "verse_number": "14.40",
+    "content_sanskrit": "विरराजुररण्येषु किंशुकाः काममुद्गराः । दधतो मञ्जरीभिन्नवियोगिहृदयासृजः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011816,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विरराजुरिति । राजृ दीप्तौ । स्वरितेत् । 'फणाञ्च सप्ताना'मित्येत्वाभ्यासलोपविकल्पः (पा.६|४|१२५) । परम्परितरूपकम् ॥"
+    }
+  ]
+}

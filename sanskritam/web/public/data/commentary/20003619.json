@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003619,
+    "chapter_id": 6594,
+    "verse_number": "18.11",
+    "content_sanskrit": "पिता समाराधनतत्परेण पुत्रेण पुत्री स यथैव तेन । पुत्रस्तथवात्मजवत्सलेन स तेन पित्रा पितृमान्बभूव ॥",
+    "padaccheda": "पिता । समाराधनतत्परेण । पुत्रेण । पुत्री । सः । यथा । एव । तेन । पुत्रः । तथा । आत्मजवत्सलेन । सः । तेन । पित्रा । पितृमान् । बभूव",
+    "anvaya": "यथा एव सः पिता तेन समाराधनतत्परेण पुत्रेण पुत्री (बभूव), तथा सः पुत्रः तेन आत्मजवत्सलेन पित्रा पितृमान् बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as the father (Kshemadhanvan) became blessed with a worthy son through that son (Devanika) who was devoted to serving him, so too the son became blessed with a worthy father through that father who was affectionate towards his son.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003619,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पितेति॥ स पिता क्षेमधन्वा समाराधनतत्परेण शूश्रूषापरेण तेन पुत्रेण यथैव पुत्री बभूव तथैव स पुत्रो देवानीक आत्मजवत्सलेन तेन पित्रा पितृमान्बभूव। लोके पितृत्व-पुत्रत्वयोः फलमनयोरेवासीदित्यर्थः ॥"
+    }
+  ]
+}

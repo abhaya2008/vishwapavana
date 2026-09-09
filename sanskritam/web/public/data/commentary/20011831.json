@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011831,
+    "chapter_id": 6686,
+    "verse_number": "14.55",
+    "content_sanskrit": "अथ शूलगवेनेष्ट्वा शूलपाणिं कदाचन । गौरीपारिषदोपेतं तुष्टाव मधुसूदनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011831,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शूलगवो नाम रुद्रदेवत्य इति विशेषः । रुद्रं गवाय यजते इति कल्पविशेषविहितः । तेनेत्यर्थः ॥"
+    }
+  ]
+}

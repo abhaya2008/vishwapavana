@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004364,
+    "chapter_id": 6604,
+    "verse_number": "9.33",
+    "content_sanskrit": "ततः स्वसेवावसरे सुराणां गणांस्तदालोकनतत्पराणाम् । द्वारि प्रविश्य प्रणतोऽथ नन्दी निवेदयामास कृताञ्जलिः सन् ॥",
+    "padaccheda": "ततः । स्वसेवावसरे । सुराणाम् । गणान् । तदालोकनतत्पराणाम् । द्वारि । प्रविश्य । प्रणतः । अथ । नन्दी । निवेदयामास । कृताञ्जलिः । सन्",
+    "anvaya": "ततः सुराणां स्वसेवावसरे तदालोकनतत्पराणाम् गणानाम् अथ नन्दी द्वारि प्रविश्य प्रणतः कृताञ्जलिः सन् निवेदयामास ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thereafter, at the time appointed for their service, as the groups of gods were waiting intently to see the Lord, Nandī approached the door. Bowing down with folded hands, he announced their arrival to Lord Śiva.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004364,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति । ततोऽनन्तरं स्वस्य स्वर्क्तृकायाः सेवाया अवसरे समये तस्य हरस्य यदालोकनं तत्र तत्पराणामासक्तानां सुराणां गणान्कर्मभूतान् । नन्दी कर्ता । प्रणतो नम्रीभूतः सन् द्वारि प्रविश्य । न त्वन्तरेवेत्यर्थः । कृताञ्जलिः सन् । निवेदयामास । देवा भवदवलोकने समुत्सुकाः सन्तीति हरं बोधयामासेत्यर्थः"
+    }
+  ]
+}

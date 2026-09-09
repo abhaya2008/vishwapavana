@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003140,
+    "chapter_id": 6588,
+    "verse_number": "12.74",
+    "content_sanskrit": "अथ रामशिरश्छेददर्शनोद्भ्रान्तचेतनाम् । सीतां मायेति शंसन्ती त्रिजटा समजीवयत् ॥",
+    "padaccheda": "अथ । रामशिरश्छेददर्शनोद्भ्रान्तचेतनाम् । सीताम् । माया । इति । शंसन्ती । त्रिजटा । समजीवयत्",
+    "anvaya": "अथ त्रिजटा रामशिरश्छेददर्शनोद्भ्रान्तचेतनां सीतां माया इति शंसन्ती समजीवयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Trijata revived Sita, whose consciousness was bewildered at the sight of Rama's severed head, by explaining to her that it was merely a magical illusion.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003140,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथानन्तरम्। छिद्यत इति छेदः खण्डः। शिर एव छेद इति विग्रहः। रामशिरश्छेदस्य विद्युज्जिह्वाख्यराक्षसमायानिर्मितस्य दर्शनेनोद्भ्रान्तचेतनां गतसंज्ञां सीतां त्रिजटा नाम काचित्सीतापक्षपातिनी राक्षसी मायाकल्पितं न त्वेतत्सत्यमिति शंसन्ती ब्रुवाणा। `शप्श्यनोर्नित्यम्` (पा.7।1।81) इति नित्यं नुमागमः। समजीवयत् ॥"
+    }
+  ]
+}

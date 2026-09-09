@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002231,
+    "chapter_id": 6577,
+    "verse_number": "1.82",
+    "content_sanskrit": "इति वादिन एवास्य होतुराहुतिसाधनम् । अनिन्द्या नन्दिनी नाम धेनुराववृते वनात् ॥",
+    "padaccheda": "इति । वादिनः । एव । अस्य । होतुः । आहुतिसाधनम् । अनिन्द्या । नन्दिनी । नाम । धेनुः । आववृते । वनात्",
+    "anvaya": "इति वादिनः एव अस्य होतुः आहुति-साधनम् अनिन्द्या नन्दिनी नाम धेनुः वनात् आववृते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While the sage, the performer of sacrifices, was thus speaking, the irreproachable cow named Nandinī, the source of sacrificial offerings, returned from the forest.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002231,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इति वादिनो वदत एव होतुर्हवनशीलस्य । `तृन्` (पा.3।3।135) इति तृन्प्रत्ययः। अस्य मुनेराहुतीनां साधनं कारणम्। नन्दयतीति व्युत्पत्त्या नन्दिनी नामानिन्द्यागर्ह्या प्रशस्ता धेनुर्वनादाववृते प्रत्यागता। `अव्याक्षेपो भविष्यन्त्याः कार्यसिद्धेर्हि लक्षणम्` इति भावः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002865,
+    "chapter_id": 6585,
+    "verse_number": "9.60",
+    "content_sanskrit": "तं वाहनादवनतोत्तरकायमीषद्विध्यन्तमुद्धृतसटाः प्रतिहन्तुमीषुः । नात्मानमस्य विविदुः सहसा वराहा वृक्षेषु विद्धमिषुभिर्जघनाश्रयेषु ॥",
+    "padaccheda": "तम् । वाहनात् । अवनतोत्तरकायम् । ईषत् । विध्यन्तम् । उद्धृतसटाः । प्रतिहन्तुम् । ईषुः । न । आत्मानम् । अस्य । विविदुः । सहसा । वराहाः । वृक्षेषु । विद्धम् । इषुभिः । जघनाश्रयेषु",
+    "anvaya": "उद्धृत-सटाः वराहाः, वाहनात् ईषत् अवनत-उत्तर-कायम् विध्यन्तम् तम् प्रतिहन्तुम् ईषुः। (किन्तु) जघन-आश्रयेषु वृक्षेषु इषुभिः विद्धम् आत्मानम् सहसा न विविदुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With bristles raised, the boars tried to charge and strike back at the king, who was slightly bent over his mount while shooting. But they suddenly found themselves pierced by his arrows and pinned to the trees by their hindquarters, not even realizing what had happened.",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002865,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ वराहाः। वाहनादश्वादीषदवनतोत्तरकायं किंचिदानतपूर्वकायं विध्यन्तं प्रहरन्तं तं नृपम्। उद्धृतसटा ऊर्ध्वकेसराः सन्तः। `सटा जटाकेसरयोः` इति केशवः। प्रतिहन्तुमीषुः प्रतिहर्तुमैच्छन्। अस्य नृपस्येषुभिः सहसा जघनानामाश्रयेष्ववष्टम्भेषु वृक्षेषु विद्धमात्मानं न विविदुः। एतेन वराहाणां मनस्वित्वं नृपस्य हस्तलाघवं चोक्तम् ॥"
+    }
+  ]
+}

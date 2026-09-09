@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002742,
+    "chapter_id": 6584,
+    "verse_number": "8.32",
+    "content_sanskrit": "स कदाचिदवेक्षितप्रजः सह देव्या विजहार सुप्रजाः । नगरोपवने शचीसखो मरुतां पालयितेव नन्दने ॥",
+    "padaccheda": "सः । कदाचित् । अवेक्षितप्रजः । सह । देव्या । विजहार । सुप्रजाः । नगरोपवने । शचीसखः । मरुतां । पालयिता । इव । नन्दने",
+    "anvaya": "कदाचित् अवेक्षित-प्रजः सुप्रजाः सः (अजः) देव्या (इन्दुमत्या) सह नगर-उपवने विजहार, शची-सखः मरुतां पालयिता नन्दने इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Once, Aja, blessed with a good son and having delegated the care of his subjects, sported with his queen in the city garden, just as Indra, the protector of the gods and companion of Shachi, does in the Nandana garden.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002742,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ अवेक्षितप्रजोऽकुतोभयत्वेनानुसंहितप्रजः। `नित्यमसिच्प्रजामेधयोः` (पा.5।4।122) इत्यसिच्प्रत्ययः। न केवलं स्त्रैण इति भावः। शोभना प्रजा यस्यासा सुप्रजाः सुपुत्रवान्। पुत्रन्यस्तभार इति भावः। सोऽजः कदाचिद्देव्या महिष्येन्दुमत्या सह नगरोपवने। नन्दने नन्दनाख्येऽमरावत्युपकण्ठवने शचीसखः। शच्या सहेत्यर्थः। मरुतां देवानां पालयितेन्द्र इव। विजहार चिक्रीड॥"
+    }
+  ]
+}

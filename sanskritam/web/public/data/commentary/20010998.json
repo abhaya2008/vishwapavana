@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010998,
+    "chapter_id": 6679,
+    "verse_number": "7.8",
+    "content_sanskrit": "सव्यमाङ्गिरसञ्चैव सौधसञ्चापि गौतमम् । शाक्तं पराशरञ्चैव सराहूगणगौतमम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010998,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आङ्गिरसादयः सामान्येन ऋष्यणन्ताः । सराहूगणगौतममिति रहूगणशब्दो गर्गादिः । तस्मादनन्तर ऋष्यञ् । राहूगणो गौतमः राहूगणगौतमः । तेन सहितम् ॥"
+    }
+  ]
+}

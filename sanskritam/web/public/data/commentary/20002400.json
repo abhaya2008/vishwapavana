@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002400,
+    "chapter_id": 6580,
+    "verse_number": "4.11",
+    "content_sanskrit": "पञ्जानामपि भूतानामुत्कर्षं पुपुषुर्गुणाः । नवे तस्मिन्महीपाले सर्वं नवमिवाभवत् ॥",
+    "padaccheda": "पञ्चानाम् । अपि । भूतानाम् । उत्कर्षम् । पुपुषुः । गुणाः । नवे । तस्मिन् । महीपाले । सर्वम् । नवम् । इव । अभवत्",
+    "anvaya": "नवे तस्मिन् महीपाले (सति) गुणाः पञ्चानाम् अपि भूतानाम् उत्कर्षम् पुपुषुः । सर्वम् नवम् इव अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Under that new king, the inherent qualities of the five elements (earth, water, fire, air, ether) achieved excellence. Everything seemed renewed, as if it were new.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002400,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पञ्चानामिति॥ पृथिव्यादीनां पञ्चानां भूतानामपि गुणा गन्धादय उत्कर्षमतिशयं पुपुषुः। अत्रोत्प्रेक्षते-तस्मिन् रघौ नाम नवे महीपाले सति सर्वं क्स्तुजातं नवमिवाभवत्। तदेव भूतजातमिदानीमपूर्वगुणयोगादपूर्वमिवाभवदिति भावः ॥"
+    }
+  ]
+}

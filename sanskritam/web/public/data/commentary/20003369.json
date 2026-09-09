@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003369,
+    "chapter_id": 6591,
+    "verse_number": "15.33",
+    "content_sanskrit": "साङ्गं च वेदमध्याप्य किंचिदुत्क्रान्तशैशवौ । स्वकृतिं गापयामास कविप्रथमपद्धतिम् ॥",
+    "padaccheda": "साङ्गं । च । वेदम् । अध्याप्य । किंचिदुत्क्रान्तशैशवौ । स्वकृतिं । गापयामास । कविप्रथमपद्धतिम्",
+    "anvaya": "(सः कविः) किञ्चित्-उत्क्रान्त-शैशवौ (तौ) स-अङ्गम् वेदम् च अध्याप्य कवि-प्रथम-पद्धतिम् स्व-कृतिम् गापयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "After teaching them the Veda with its auxiliary sciences once they had passed early childhood, he had them sing his own composition, the Ramayana, which is the first great work for all poets to follow.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003369,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "साङ्गमिति॥ किंचिदुत्क्रान्तशैशवावतिक्रान्तबाल्यौ तौ साङ्गं च वेदमध्याप्य कवीनां प्रथमपद्धतिम्। कविताबीजमित्यर्थः। स्वकृतिं काव्यं रामायणाख्यं गापयामास। गापयतेर्लिट्। शब्दकर्मत्वात् `गतिबुद्धि-` (पा.1।4।52) इत्यादिना द्विकर्मकत्वम् ॥"
+    }
+  ]
+}

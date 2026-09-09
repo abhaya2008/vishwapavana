@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166188,
+    "chapter_id": 7074,
+    "verse_number": "22.18",
+    "content_sanskrit": "गते तस्मिन्गृहीताऽर्थे रामः सुग्रीव-राक्षसौ ।उक्तवान्श्वोऽभिगन्तास्थो युवां सह मया पुरम् ॥",
+    "padaccheda": "तस्मिन् । गृहीता-अर्थे । गते । रामः । सुग्रीव-राक्षसौ । उक्तवान् । श्वः । युवाम् । मया । सह । पुरम् । अभिगन्तास्थः",
+    "anvaya": "तस्मिन् गृहीता-अर्थे गते रामः सुग्रीव-राक्षसौ उक्तवान् - श्वः युवाम् मया सह पुरम् अभिगन्तास्थः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When Hanumān had departed after grasping the message, Rāma said to Sugrīva and the Rākṣasa Vibhīṣaṇa, \"Tomorrow, you both shall go to the city with me.\"",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166188,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "गंते तस्मिन्नित्यादि - तस्मिन् हनूमति गृहीतार्थे अवगतसन्देशार्थे गते सति रामः सुग्रीवराक्षसावुक्तवान् । युवां मया सह श्वो दिने अभिगन्तास्थः पुरमयोध्यां गमिष्यथः ॥"
+    }
+  ]
+}

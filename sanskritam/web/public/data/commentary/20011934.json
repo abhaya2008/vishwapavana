@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011934,
+    "chapter_id": 6687,
+    "verse_number": "15.31",
+    "content_sanskrit": "आहूताखिलभूपालकरौघेण नताङ्घ्रिणा । प्रियं भविष्णुना राज्ञो गुरोर्भाविष्यते मया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011934,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रियं भविष्णुना भाविष्यत इति भावे चिण्वद्भावः ॥"
+    }
+  ]
+}

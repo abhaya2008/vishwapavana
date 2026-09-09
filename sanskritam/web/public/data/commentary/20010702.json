@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010702,
+    "chapter_id": 6676,
+    "verse_number": "4.48",
+    "content_sanskrit": "प्रमाथिनो रिपून् मथ्नन् अप्रमादी सहर्षिभिः । वस पुण्येष्वरण्येषु पार्थ सामर्थ्यवान् यदि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010702,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रमाथिना इति । प्रेलपादिना (पा.३|२|१४५) घिनुप् । सामर्थ्यवान् यदि इति । सामर्थ्यवांश्च त्वम् । तस्माद्वसेत्यर्थः ॥"
+    }
+  ]
+}

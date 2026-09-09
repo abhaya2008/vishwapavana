@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005469,
+    "chapter_id": 6624,
+    "verse_number": "12.34",
+    "content_sanskrit": "द्विषतः परासिसिषुरेष सकलभुवनाभितापिनः । क्रान्तकुलिशकरवीर्यबलान्मदुपासनं विहितवान्महत्तपः ॥",
+    "padaccheda": "द्विषतः । परासिसिषुः । एषः । सकलभुवनाभितापिनः । क्रान्तकुलिशकरवीर्यबलान् । मदुपासनम् । विहितवान् । महत् । तपः",
+    "anvaya": "सकलभुवनाभितापिनः, क्रान्तकुलिशकरवीर्यबलान् द्विषतः परासिसिषुः एषः महत् तपः मदुपासनम् विहितवान्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Desiring to defeat his enemies, who torment all the worlds and whose strength surpasses the power of Indra (the wielder of the thunderbolt), he (Arjuna) has undertaken a great penance consisting of my worship.\"",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005469,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "द्विषत इति ॥ एष नरः सकलभुवनान्यभितापयन्त्यभीक्ष्णमिति तथोक्तान् । `बहुल माभीक्ष्ण्ये` इति णिनिः । क्रान्ते आक्रान्ते कुलिशकरस्येन्द्रस्य वीर्यबले शक्तिसैन्ये ये स्तान्द्विषतः शत्रून्परासिसिषुः परासितुमिच्छुः । अस्यतेः सन्नन्तादुप्रत्ययः । मदुपासनं मदाराधनम् । करणे ल्युट् । महत्तपो विहितवान् । अथास्य मानुषावतारे कारणमाह"
+    }
+  ]
+}

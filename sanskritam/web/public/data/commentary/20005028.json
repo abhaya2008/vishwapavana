@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005028,
+    "chapter_id": 6617,
+    "verse_number": "5.11",
+    "content_sanskrit": "व्यथितसिन्धुमनीरशनैः शनैरमरलोकवधूजघनैर्घनैः । फणभृतामभितो विततं ततं दयितरम्यलताबकुलैः कुलैः ॥",
+    "padaccheda": "व्यथितसिन्धुम् । अनीरशनैः । शनैः । अमरलोकवधूजघनैः । घनैः । फणभृताम् । अभितः । विततं । ततं । दयितरम्यलताबकुलैः । कुलैः",
+    "anvaya": "(हिमालयं) घनैः अनीरशनैः अमरलोकवधूजघनैः (इव स्थितैः), शनैः व्यथितसिन्धुम्, अभितः दयितरम्यलताबकुलैः कुलैः विततम्, फणभृताम् ततम् (अभिययौ)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(He approached the Himalaya) which was an abode for serpents, and whose slopes, spread out on all sides with lovely creepers and Bakula trees, resembled the dense, girdle-less hips of celestial nymphs, slowly agitating the rivers.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005028,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "व्यथितेति ॥ पुनश्च । अनीरशनैरनिर्मेखलैः।सरशनैरित्यर्थः। घनैर्निबिडैरमरलोकवधूजघनैः शनैर्मन्दंमन्दं व्यथितसिन्धुं क्षोभितनदीकम् । अयमपरः स्वर्ग इति भावः। ये रम्या लताश्च बकुलाः केसराश्च ते दयिताः प्रिया येषां तैस्तथोक्तैः ।`विशारदो मद्यगन्धो बकुलः स च केसरः` इति वैद्यके । फणभृतां सर्पाणां कुलैरभितस्ततं व्याप्तं तथा विततं विस्तृतम् ॥ "
+    }
+  ]
+}

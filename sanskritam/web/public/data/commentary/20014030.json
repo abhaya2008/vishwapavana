@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014030,
+    "chapter_id": 6706,
+    "verse_number": "14.101",
+    "content_sanskrit": "गृही गृहस्थोऽपि तदश्नुते फलं यत्तर्थिसेवाभिरवाप्यते जनैः । तत्तस्य तीर्थ गृहमेव कीर्तितं धनी वदान्यः प्रवसेन्न कश्चन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014030,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तत्तस्मात्तस्य गृहमेव तीर्थं कीर्तितमतो धनी वदान्यो दाता स्यान्न तु कश्चनापि प्रवासं कुर्यादित्यर्थः ॥ १ ॥"
+    }
+  ]
+}

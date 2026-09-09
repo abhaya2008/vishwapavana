@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004234,
+    "chapter_id": 6602,
+    "verse_number": "7.89",
+    "content_sanskrit": "पत्रान्तलग्नैर्जलबिन्दुजालैराकृष्टमुक्ताफलजालशोभम् । तयोरुपर्यायतनालदण्डमाधत्त लक्ष्मीः कमलातपत्रम् ॥",
+    "padaccheda": "पत्रान्तलग्नैः । जलबिन्दुजालैः । आकृष्टमुक्ताफलजालशोभम् । तयोः । उपरि । आयतनालदण्डम् । आधत्त । लक्ष्मीः । कमलातपत्रम्",
+    "anvaya": "लक्ष्मीः पत्रान्तलग्नैः जलबिन्दुजालैः आकृष्टमुक्ताफलजालशोभम् आयतनालदण्डम् कमलातपत्रम् तयोः उपरि आधत्त।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Lakshmi held a lotus-parasol over the couple. Its long stalk served as the handle, and with clusters of water drops clinging to the petal edges, it rivaled the beauty of a net of pearls.",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004234,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पत्रान्तेति । लक्ष्मीः श्रीदेवी पत्रान्तेषु दलप्रान्तेषु लग्नैर्जलबिन्दुजालैराकृष्टाहृता मुक्ताफलजालेन प्रान्तलम्बिना मुक्ताकलापेन या शोभा सा येन तत्तथोक्तमायतं दीर्घ नालमेव दण्डो यस्य तत्कमलमेवातपत्रं तत्तयोरुपर्याधत्त दधौ"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002773,
+    "chapter_id": 6584,
+    "verse_number": "8.63",
+    "content_sanskrit": "स्मरतेव सशब्दनूपुरं चरणानुग्रहमन्यदुर्लभम् । अमुना कुसुमाश्रुवर्षिणा त्वमशोकेन सुगात्रि! शोच्यसे ॥",
+    "padaccheda": "स्मरता । इव । सशब्दनूपुरम् । चरणानुग्रहम् । अन्यदुर्लभम् । अमुना । कुसुमाश्रुवर्षिणा । त्वम् । अशोकेन । सुगात्रि । शोच्यसे",
+    "anvaya": "सुगात्रि! सशब्दनूपुरम् अन्यदुर्लभम् चरणानुग्रहम् स्मरता इव कुसुमाश्रुवर्षिणा अमुना अशोकेन त्वम् शोच्यसे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O beautiful-limbed one! You are being mourned by this Ashoka tree, which sheds flowers like tears, as if remembering the favor of your foot-kick—a favor rare for others—that was accompanied by the tinkling of your anklets.\"",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002773,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्मरतेति॥ अन्यदुर्लभम्। किंतु स्मर्तव्यमेवेत्यर्थः। सशब्दं ध्वनियुक्तं नूपुरं मञ्जीरं यस्य तं चरणेनानुग्रहं पादेन ताडनरूपं स्मरतेव चिन्तयतेव कुसुमान्येवाश्रूणि तद्वर्षिणाऽमुना पुरोवर्तिनाऽशोकेन। हे सुगात्रि!`अङ्गगात्रकण्ठेभ्यश्च` इति वक्तव्यान्ङीप्। त्वं शोच्यसे ॥"
+    }
+  ]
+}

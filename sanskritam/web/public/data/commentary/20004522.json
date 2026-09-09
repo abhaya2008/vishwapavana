@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004522,
+    "chapter_id": 6607,
+    "verse_number": "12.29",
+    "content_sanskrit": "किरीटकोटिच्युतपारिजात पुष्पोत्करेणानमितेन मूर्ध्ना । स्वर्गैकवन्द्यो जगदेकवन्द्यं तं देवदेवं प्रणनाम देवः ॥",
+    "padaccheda": "किरीटकोटिच्युतपारिजातपुष्पोत्करेण । अनमितेन । मूर्ध्ना । स्वर्गैकवन्द्यः । जगदेकवन्द्यम् । तम् । देवदेवम् । प्रणनाम । देवः",
+    "anvaya": "स्वर्गैकवन्द्यः देवः किरीटकोटिच्युतपारिजातपुष्पोत्करेण अनमितेन मूर्ध्ना जगदेकवन्द्यं तं देवदेवं प्रणनाम",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra, the foremost among the inhabitants of heaven, bowed his head before Śiva, the supreme Lord of the universe. As he bowed, a shower of Pārijāta flowers fell from the tip of his crown onto the feet of the God of gods.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004522,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "किरीटेति । स्वर्ग एवैकं केवलं वन्द्यो नमस्करणीयो देव इन्द्रः । आनमितेनात एव किरीटकोट्याश्च्युतोऽधःपतितः पारिजातपुष्पाणां मन्दारकुसुमानामुत्करः समूहो यस्मात्तथाभूतिन मूर्ध्ना शिरसा जगतामेकमेव वन्द्यं नमस्करणीयम् । एतत्सदृशो जगतां वन्द्यतयान्यो न विद्यत इत्यर्थः । तं देवदेवं महेश्वरं प्रणनाम नमश्चक्रे"
+    }
+  ]
+}

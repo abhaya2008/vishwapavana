@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005631,
+    "chapter_id": 6627,
+    "verse_number": "15.6",
+    "content_sanskrit": "त्रासजिह्मं यतश्चैतान्मन्दमेवान्वियाय सः । नातिपीडयितुं भग्नानिच्छन्ति हि महौजसः ॥",
+    "padaccheda": "त्रास-जिह्मम् । यतः । च । एतान् । मन्दम् । एव । अन्वियाय । सः । न । अतिपीडयितुम् । भग्नान् । इच्छन्ति । हि । महा-ओजसः",
+    "anvaya": "यतः सः त्रास-जिह्मम् एतान् मन्दम् एव अन्वियाय । हि महा-ओजसः भग्नान् अतिपीडयितुम् न इच्छन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Therefore, he followed them slowly as they fled crookedly in fear. For, the truly powerful do not wish to excessively torment the defeated.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005631,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "त्रासेति ॥ सोऽर्जुनस्त्रासजिह्मं भयक्लिष्टं यथा तथा यतो गच्छतः। पलायमानानित्यर्थः । एतान्गणान्मन्दमेवान्वियायानुजगाम । तथा हि । महौजसो महानुभावा भन्नानतिपीडयितुं नेच्छन्ति ॥"
+    }
+  ]
+}

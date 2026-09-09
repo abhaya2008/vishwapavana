@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004363,
+    "chapter_id": 6604,
+    "verse_number": "9.32",
+    "content_sanskrit": "व्यधुर्बहिर्मङ्गलगानमुच्चै र्वैतालिकाश्चित्रचरित्रचारु । जगुश्च गन्धर्वगणाः सशङ्ख स्वनं प्रमोदाय पिनाकपाणेः ॥",
+    "padaccheda": "व्यधुः । बहिः । मङ्गलगानम् । उच्चैः । वैतालिकाः । चित्रचरित्रचारु । जगुः । च । गन्धर्वगणाः । सशङ्खस्वनम् । प्रमोदाय । पिनाकपाणेः",
+    "anvaya": "वैतालिकाः बहिः उच्चैः चित्रचरित्रचारु मङ्गलगानम् व्यधुः च गन्धर्वगणाः पिनाकपाणेः प्रमोदाय सशङ्खस्वनम् जगुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Outside, the bards loudly performed auspicious songs that were beautiful and depicted varied deeds. Meanwhile, groups of Gandharvas sang along with the sounding of conches for the delight of Lord Śiva, the wielder of the Pināka bow.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004363,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "व्यधुरिति । बहिः प्रदेशे वैतालिका बन्दिनश्चित्रेण चरित्रेण चारु मनोहरं मङ्गलरुपं गानम् गीतमित्यर्थः । उच्चैरुच्चस्वरेण व्यधुश्चक्रुः । तथा गन्धर्वगणाश्च पिनाकपाणेर्हरस्य प्रमोदायानन्दाय । `प्रमोदामोदसंमदाः' इत्यमरः । सशङ्खस्वनं पाञ्चजन्यशब्दसहितं यथा तथा जगुः । गायन्ति स्मेत्यर्थः"
+    }
+  ]
+}

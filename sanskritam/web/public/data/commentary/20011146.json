@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011146,
+    "chapter_id": 6680,
+    "verse_number": "8.32",
+    "content_sanskrit": "धौरेयपाण्डुपुत्राणां प्राप्तेरस्याः पुरस्त्वया । आस्माकात् सुकृतादस्तिकिमन्यदपि कारणम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011146,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "धौरेयेति । धुरो यढकौ (पा.४|४|७७) । वहत्यर्थे ढक् ।"
+    }
+  ]
+}

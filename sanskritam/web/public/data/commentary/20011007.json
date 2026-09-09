@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011007,
+    "chapter_id": 6679,
+    "verse_number": "7.17",
+    "content_sanskrit": "अन्तिमं मण्डलं द्रष्टृनृग्वेदस्य महामुनीन् । त्रितादींश्च स तान् दृष्ट्वा भक्तिनम्रोऽभ्यवन्दत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011007,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "त्रितादींश्चेत्येवमन्तानां ऐक्षतेत्यनेन संबन्धः । स तान् दृष्ट्वा भक्तिनम्रोऽभ्यवन्दत ॥"
+    }
+  ]
+}

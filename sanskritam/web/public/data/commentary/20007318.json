@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20007318,
+    "chapter_id": 6649,
+    "verse_number": "19.19",
+    "content_sanskrit": "तस्यावदानैः समरे सहसा रोमहर्षिभिः । सुरैरशंसि व्योमस्थैः सह सारो महर्षिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20007318,
+      "commentary_type": "मल्लिनाथः",
+      "author": "",
+      "content": "तस्येति ॥ समरे तस्य प्रद्युम्नस्यावदानैरत्युग्रकर्मभिः करणैः सहसा सद्यः रोमहर्षिभिः रोमाञ्चवद्भिः व्योमस्थैः सुरैः महर्षिभिः सह साधू सारो बलमशंसि शंसितम्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010977,
+    "chapter_id": 6678,
+    "verse_number": "6.98",
+    "content_sanskrit": "चुंबदन्योन्यमालिङ्गदगस्कन्धमधिष्ठितम् । लभते मिथुनं शाखामृगयोरिह संमुदम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010977,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अगस्कन्धमधिष्ठितमिति । तथा फलमूलजलादिना सम्पन्नाः । पूर्ववत् कर्मसंज्ञा । अधिष्ठितमिति 'द्यतिस्यतिमास्थायामित्तिकिति' इति (पा.७|४|४०) इत्वम् ॥"
+    }
+  ]
+}

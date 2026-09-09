@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003072,
+    "chapter_id": 6588,
+    "verse_number": "12.6",
+    "content_sanskrit": "तयोश्चतुर्दशैकेन रामं प्राव्राजयत्समाः । द्वितीयेन सुतस्यैच्छद्वैधव्यैकफलां श्रियम् ॥",
+    "padaccheda": "तयोः । चतुर्दश । एकेन । रामं । प्राव्राजयत् । समाः । द्वितीयेन । सुतस्य । ऐच्छत् । वैधव्यैकफलां । श्रियम्",
+    "anvaya": "तयोः एकेन रामं चतुर्दश समाः प्राव्राजयत् द्वितीयेन सुतस्य वैधव्यैकफलां श्रियम् ऐच्छत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With the first boon, she exiled Rama to the forest for fourteen years. With the second, she sought the kingdom for her son Bharata—a sovereignty that would inevitably result in her own widowhood, as the shock would kill the King.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003072,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तयोरिति॥ सा तयोर्वरयोर्मध्य एकेन वरेण रामं चतुर्दश समाः संवत्सरान्। अत्यन्तसंयोगे द्वितीया। प्राव्राजयत् प्रावासयत्। द्वितीयेन वरेण सुतस्य भरतस्य वैधव्यैकफलां स्ववैधव्यमात्रफलाम्। न तूपभोगफलामिति भावः। श्रियमैच्छदियेष ॥"
+    }
+  ]
+}

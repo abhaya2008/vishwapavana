@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003683,
+    "chapter_id": 6595,
+    "verse_number": "19.22",
+    "content_sanskrit": "स्पप्नकीर्तितविपक्षमङ्गनाः प्रत्यभैत्सुरवदन्त्य एव तम् । प्रच्छदान्तगलिताश्रुबिन्दुभिः क्रोधभिन्नवलयैर्विवर्तनैः ॥",
+    "padaccheda": "स्वप्नकीर्तितविपक्षम् । अङ्गनाः । प्रत्यभैत्सुः । अवदन्त्यः । एव । तम् । प्रच्छदान्तगलिताश्रुबिन्दुभिः । क्रोधभिन्नवलयैः । विवर्तनैः",
+    "anvaya": "अङ्गनाः स्वप्न-कीर्तित-विपक्षम् तम् अवदन्त्यः एव, प्रच्छद-अन्त-गलित-अश्रु-बिन्दुभिः क्रोध-भिन्न-वलयैः विवर्तनैः च प्रति-अभैत्सुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Without speaking a word, the women reproached him for mentioning a rival's name in his sleep. Their silent rebuke was conveyed through teardrops falling from the corners of the bedsheets and by their angry tossings and turnings that broke their bracelets.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003683,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वप्नेति॥ स्वप्ने कीर्तितो विपक्षः सपत्नजनो येन तं। तमग्निवर्णम्। अवदन्त्य एव। त्वया गोत्रस्खलनं कृतमित्यनुपालम्भमाना एव। प्रच्छदस्यास्तरणपटस्यान्ते अध्ये गलिता अश्रुबिन्दवो येषु तैः क्रोधेन भिन्नानि भग्नानि वलयानि येषु तैर्विवर्तनैः पराग्विलुण्ठनैः प्रत्यभैत्सुः प्रतिचक्रुः। तिरश्चक्रुरित्यर्थः ॥"
+    }
+  ]
+}

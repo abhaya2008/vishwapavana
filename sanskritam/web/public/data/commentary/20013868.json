@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013868,
+    "chapter_id": 6705,
+    "verse_number": "13.14",
+    "content_sanskrit": "एवं सदा भट्टमतानुसारिणो ब्रुवन्त्यसौ तन्मतपक्षपातवान् । एवं स्थिते योग्यमदो विधीयतां न नोऽस्ति निर्बन्धनमत्र किंचन ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013868,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "केन तर्हि वृत्तिर्विधेयेत्यपेक्षायां पद्मपादेनेति वक्तुं तद्योग्यतामाविष्कुर्वन्ति ।"
+    }
+  ]
+}

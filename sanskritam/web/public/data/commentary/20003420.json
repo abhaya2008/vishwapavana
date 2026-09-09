@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003420,
+    "chapter_id": 6591,
+    "verse_number": "15.84",
+    "content_sanskrit": "सा सीतामङ्कमारोप्य भर्तृप्रणिहितेक्षणाम् । मा मेतिव्याहरत्येव तस्मिन्पालातमभ्यगात् ॥",
+    "padaccheda": "सा । सीताम् । अङ्कम् । आरोप्य । भर्तृप्रणिहितेक्षणाम् । मा । मा । इति । व्याहरति । एव । तस्मिन् । पातालम् । अभ्यगात्",
+    "anvaya": "सा भर्तृप्रणिहितेक्षणाम् सीताम् अङ्कम् आरोप्य, तस्मिन् \"मा मा\" इति व्याहरति एव (सति), पातालम् अभ्यगात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "She (Mother Earth), placing Sita—whose gaze was fixed on her husband—on her lap, descended into the netherworld even as he (Rama) was crying out, \"Don't! Don't!\".",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003420,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ सा वसुंधरा भर्तरि प्रणिहितेक्षणां दत्तदृष्टिं सीतामङ्कमारोप्य तस्मिन्भर्तरि रामे मा मेति मा हरेति व्याहरति वदत्येव। व्याहरन्तमनादृत्येत्यर्थः। `षष्ठी चानादरे` (पा.2।3।38) इति सप्तमी। पातालमभ्यगात् ॥"
+    }
+  ]
+}

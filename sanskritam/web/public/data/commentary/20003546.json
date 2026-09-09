@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003546,
+    "chapter_id": 6593,
+    "verse_number": "17.19",
+    "content_sanskrit": "बन्धच्छेदं स बद्धानां वधार्हाणामवध्यताम् । धुर्याणां च धुरो मोक्षमदोहं चादिशद्गवाम् ॥",
+    "padaccheda": "बन्धच्छेदम् । सः । बद्धानाम् । वधार्हाणाम् । अवध्यताम् । धुर्याणाम् । च । धुरः । मोक्षम् । अदोहम् । च । आदिशत् । गवाम्",
+    "anvaya": "सः बद्धानाम् बन्ध-छेदम्, वध-अर्हाणाम् अवध्यताम्, धुर्याणाम् च धुरः मोक्षम्, गवाम् च अदोहम् आदिशत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He ordered the release of prisoners, clemency for those deserving death, the unyoking of beasts of burden, and a holiday from milking for the cows.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003546,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बन्धेति॥ सोऽतिथिर्बद्धानां बन्धच्छेदं वधार्हाणामवध्यताम्। धुरं वहन्तीति धुर्या बपलीवर्दादयः। तेषां धुरो भारस्य मोक्षं गवामदोहं वत्सानां पानार्थं दोहनिवृत्तिं चादिशदादिदेश ॥"
+    }
+  ]
+}

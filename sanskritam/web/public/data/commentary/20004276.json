@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004276,
+    "chapter_id": 6603,
+    "verse_number": "8.36",
+    "content_sanskrit": "एष वृक्षशिखरे कृतास्पदो जातरूपरसगौरमण्डलः । हीयमानमहरत्ययातपं पीवरोरु पिबतीव बर्हिणः ॥",
+    "padaccheda": "एषः । वृक्षशिखरे । कृतास्पदः । जातरूपरसगौरमण्डलः । हीयमानम् । अहः । अत्ययातपम् । पीवरोरु । पिबति । इव । बर्हिणः",
+    "anvaya": "पीवरोरु! वृक्षशिखरे कृतास्पदः एषः बर्हिणः, जातरूपरसगौरमण्डलः अहः अत्ययातपम् पिबति इव हीयमानम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'O you with lovely thighs! This peacock, perched on the treetop with its tail-feathers spread in a circle as radiant as molten gold, seems as if it is drinking the diminishing day, whose sunlight is now fading.'",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004276,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एष इति । हे पीवरोरु, एष वृक्षशिखरे वृक्षाग्रे कृतस्थितिजातरूपरसगौरमण्डल आतपरुषणात्काञ्चनद्रवदरुणवर्हमण्‍लः । `चामीकरं जातरुपं महारजतकाञ्चने` इत्यमरः । बर्हमस्यास्तीति बर्हिणो मयूरः । `फलबर्हाभ्यामिनज्वक्तव्यः` हीयमानं क्षीयमाणमहरत्ययातपं दिनान्तातपं पिबतीव । कथमन्यथा क्षीयमाणत्वमिति भावः"
+    }
+  ]
+}

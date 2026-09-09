@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010691,
+    "chapter_id": 6676,
+    "verse_number": "4.37",
+    "content_sanskrit": "त्रस्नवस्सन्त्वमित्रास्ते लोकवीर पराक्रमात् । लभन्तामिष्टमिष्टं ते गृध्नवो मित्रबान्धवाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010691,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'त्रसिगृधिधृषिक्षिपेः क्नुः' (पा.३|२|१४०) इति क्नुः ॥"
+    }
+  ]
+}

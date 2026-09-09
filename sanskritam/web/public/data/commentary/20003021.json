@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003021,
+    "chapter_id": 6587,
+    "verse_number": "11.48",
+    "content_sanskrit": "मैथिलः सपदि सत्यसंगरो राघवाय तनयामयोनिजाम् । संनिधौ द्युतिमतस्तपोनिधेरग्निसाक्षिक इवातिसृष्टवान् ॥",
+    "padaccheda": "मैथिलः । सपदि । सत्यसंगरः । राघवाय । तनयाम् । अयोनिजाम् । संनिधौ । द्युतिमतः । तपोनिधेः । अग्निसाक्षिकः । इव । अतिसृष्टवान्",
+    "anvaya": "सत्यसंगरः मैथिलः सपदि द्युतिमतः तपोनिधेः संनिधौ अग्निसाक्षिकः इव अयोनिजां तनयां राघवाय अतिसृष्टवान् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The King of Mithilā, who was true to his word, immediately bestowed his daughter Sītā upon Rāma in the presence of the radiant sage Viśvāmitra, as if the sage himself were the sacred fire acting as a witness to the gift.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003021,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मैथिल इति॥ सत्यसंगरः सत्यप्रतिज्ञः। `अथ प्रतिज्ञाजिसंविदापत्सु संगरः` इत्यमरः। मैथिलो राघवाय। अयोनिजां तनयां द्युतिमतस्तेजस्विनस्तपोनिधेः कौशिकस्य संनिधौ। अग्निः साक्षी यस्य सोऽग्निसाक्षिकः। `शेषाद्विभाषा` (पा.5।4।154)इति कप्प्रत्ययः। स इव। सपद्यतिसृष्टवान् दत्तवान् ॥"
+    }
+  ]
+}

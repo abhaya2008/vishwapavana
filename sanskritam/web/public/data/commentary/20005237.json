@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005237,
+    "chapter_id": 6621,
+    "verse_number": "9.24",
+    "content_sanskrit": "उद्गतेन्दुमविभिन्नतमिस्रां पश्यति स्म रजनीमवितृप्तः । व्यंशुकस्फुटमुखीमतिजिह्मां व्रीडया नववधूमिव लोकः ॥",
+    "padaccheda": "उद्गतेन्दुमविभिन्नतमिस्रां । पश्यति । स्म । रजनीम् । अवितृप्तः । व्यंशुकस्फुटमुखीम् । अतिजिह्मां । व्रीडया । नववधूमिव । लोकः",
+    "anvaya": "लोकः अवितृप्तः (सन्) उद्गत-इन्दुम् अविभिन्न-तमिस्राम् रजनीम्, व्रीडया अति-जिह्माम् वि-अंशुक-स्फुट-मुखीम् नव-वधूम् इव, पश्यति स्म ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The people, unsatisfied, looked at the night—in which the moon had risen but the darkness was not yet dispelled—as one looks at a new bride whose face is revealed as her veil is removed, but who is very shy and averted due to modesty.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005237,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "उद्गतेन्दुमिति ॥ लोको जनः । `लोकस्तु भुवने जने` इत्यमरः (अ.को.3|3|2) । उद्गतेन्दुमुदितचन्द्रामविभिन्नतमिस्रामनि:शेषितध्वान्तां रजनीं व्यंशुकमपनीतावगुण्ठनमत एव स्फुटं दृश्यमानं मुखं यस्याः सा तां तथापि व्रीडयातिजिह्मां वक्रां नववधूं नवोढाम् । `वधूर्नवोढयोषायां स्नुषाभार्याङ्गनासु च` इति धरणिः । स्त्रियमिवावितृप्तः सन्पश्यति स्म ।"
+    }
+  ]
+}

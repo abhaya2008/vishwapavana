@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002895,
+    "chapter_id": 6586,
+    "verse_number": "10.8",
+    "content_sanskrit": "श्रियः पद्मनिषण्णायाःऋ क्षौमान्तरितमेखले । अङ्के निक्षिप्तचरणमास्तीर्णकरपल्लवे ॥",
+    "padaccheda": "श्रियः । पद्मनिषण्णायाः । क्षौमान्तरितमेखले । अङ्के । निक्षिप्तचरणम् । आस्तीर्णकरपल्लवे",
+    "anvaya": "पद्म-निषण्णायाः श्रियः क्षौम-अन्तरित-मेखले आस्तीर्ण-कर-पल्लवे अङ्के निक्षिप्त-चरणम् (तम् ददृशुः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They saw him with his foot placed on the lap of Shri (Lakshmi), who was seated on a lotus. Her lap, where her girdle was covered by a silken garment, was spread with her sprout-like hands.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002895,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "श्रिय इति॥ कीदृशं विष्णुम्? पद्मे निषण्णाया उपविष्टायाः श्रियः क्षौमन्तरिता दुकूलव्यवहिता मेखला यस्य तस्मिन्। आस्तीर्णौ करपल्लवौ वाणिपल्लवौ यस्मिन्। विशेषणद्वयेनापि चरणयोः सौकुमार्यात्कटिमेखलास्पर्शासहत्वं सूच्यते। तस्मिन्नङ्के निक्षिप्तौ चरणौ येन तम् ॥"
+    }
+  ]
+}

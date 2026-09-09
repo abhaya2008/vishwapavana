@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010827,
+    "chapter_id": 6677,
+    "verse_number": "5.67",
+    "content_sanskrit": "विश्वरङ्णकरं विश्वैस्तीर्थानां धूतकल्मपम् । प्रश्नानां परिहर्तारं सूक्ष्माणापि धीमताम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 67,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010827,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विश्वप्रश्नयोः 'च्छ्वोश्शूडनुनासिके च' (पा.६|४|१९) इति शकारः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165836,
+    "chapter_id": 7067,
+    "verse_number": "15.75",
+    "content_sanskrit": "युद्धोन्मत्तं च मत्तं च राजा रक्षार्थमाञ्जिहत् । सुतानां निरगातां तौ राक्षसौ रण-पण्डितौ ॥",
+    "padaccheda": "युद्धोन्मत्तम् । च । मत्तम् । च । राजा । रक्षार्थम् । आञ्जिहत् । सुतानाम् । निरगाताम् । तौ । राक्षसौ । रणपण्डितौ",
+    "anvaya": "राजा रक्षार्थम् युद्धोन्मत्तम् च मत्तम् च आञ्जिहत्। सुताम् तौ रण-पण्डितौ राक्षसौ निरगाताम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For protection, the king sent Yuddhonmatta and Matta. Those two demons, experts in warfare, went out following the princes.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165836,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "युद्धेत्यादि - सुतानां रक्षार्थं राजा युद्धोन्मत्तं मत्तं च राक्षसं आञ्जिहत् प्रस्थापितवान् । अहंतेर्णौ चङ्परे द्वितीयाद्विर्वचनम् । तौ राक्षसौ रणपण्डितौ निरगातां निर्गतौ । इणो गा लुङि (पा.२|४|४५) ॥"
+    }
+  ]
+}

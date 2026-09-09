@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003465,
+    "chapter_id": 6592,
+    "verse_number": "16.26",
+    "content_sanskrit": "सा केतुमालोपवना बृहद्भिर्विहारशैलानुगतेव नागैः । सेना रथोदारगृहा प्रयाणे तस्याभवज्जंगमराजधानी ॥",
+    "padaccheda": "सा । केतुमालोपवना । बृहद्भिः । विहारशैलानुगता । इव । नागैः । सेना । रथोदारगृहा । प्रयाणे । तस्य । अभवत् । जंगमराजधानी",
+    "anvaya": "प्रयाणे तस्य सा सेना केतु-माल-उपवना, रथ-उदार-गृहा, बृहद्भिः नागैः विहार-शैल-अनुगता इव, जंगम-राजधानी अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "During the journey, his army—with its flag-garlands for groves, its spacious chariots for mansions, and followed by huge elephants like pleasure-hills—became for him a moving capital city.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003465,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ केतुमाला एव उएपवनानि यस्याः सा बृहद्भिर्नागैर्गजैर्विहारशैलैः क्रीडाशैलैरनुगतेव स्थिता। रथा एवोदारगृहा यस्याः सा। सा सेना तस्य कुशस्य प्रयाणे जंगमराजधानी संचारिणी नगरीव। अभवद्बभूव ॥"
+    }
+  ]
+}

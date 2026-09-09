@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002464,
+    "chapter_id": 6580,
+    "verse_number": "4.75",
+    "content_sanskrit": "सरलासक्तमातङ्गग्रैवेयस्फुरितत्विषः । आसन्नोषधयो नेतुर्नक्तमस्नेहदीपिकाः ॥",
+    "padaccheda": "सरलासक्तमातङ्गग्रैवेयस्फुरितत्विषः । आसन् । ओषधयः । नेतुः । नक्तम् । अस्नेहदीपिकाः",
+    "anvaya": "सरलासक्तमातङ्गग्रैवेयस्फुरितत्विषः ओषधयः नक्तं नेतुः अस्नेहदीपिकाः आसन्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At night, the luminous herbs, their glow enhanced by the flashing neck-chains of elephants rubbing against pine trees, served as oilless lamps for the leader, Raghu.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002464,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सरलेति॥ सरलेषु देवदारुविशेषेष्वासक्तानि यानि मातङ्गानां गजानाम्। ग्रीवासु भवानि ग्रैवेयाणि कण्ठशृङ्खलानि। `ग्रीवाभ्योऽण्च` (पा.4।3।57) इति चकाराड्ढतञ्प्रत्ययः। तेषु स्फुरितत्विषः प्रतिफलितभास ओषधयो ज्वलन्तो ज्योतिर्ललाविशेषा नक्तं रात्रौ नेतुर्नायकस्य रघोरस्नेहदीपिकास्तैलनिरपेक्षाः प्रदीपा आसन् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005763,
+    "chapter_id": 6629,
+    "verse_number": "17.21",
+    "content_sanskrit": "स सायकान्साध्वसविप्लुतानां क्षिपन्परेषामतिसौष्ठवेन । शशीव दोषावृतलोचनानां विभिद्यमानः पृथगाबभासे ॥",
+    "padaccheda": "स । सायकान् । साध्वसविप्लुतानां । क्षिपन् । परेषाम् । अतिसौष्ठवेन । शशीव । दोषावृतलोचनानां । विभिद्यमानः । पृथग् । आबभासे",
+    "anvaya": "सः अतिसौष्ठवेन सायकान् क्षिपन्, साध्वसविप्लुतानाम् परेषां, दोषआवृतलोचनानाम् शशी इव, विभिद्यमानः पृथक् आबभासे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Shooting arrows with extreme skill, he appeared multiplied and distinct to his enemies, who were bewildered with fear, just as the moon appears multiplied to those whose eyes are afflicted by a defect (like diplopia).",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005763,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ अतिसौष्ठवेनातिलाघवेन सायकाञ्शरान्क्षिपन्सोऽर्जुनः साध्वसेन विप्लुतानां भ्रान्तानां परेषां द्विषां दोषेण काचकामलादिरोगेणावृतलोचनानां दुष्टचक्षुषां शशीव पृथग्विभिद्यमान आवभासे । यथा सदोषचक्षुषैकश्चन्द्रो नानेव लक्ष्यते तद्वदेकोऽप्यनेक इव दृष्ट इति भावः ॥"
+    }
+  ]
+}

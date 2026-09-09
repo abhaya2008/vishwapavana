@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010401,
+    "chapter_id": 6673,
+    "verse_number": "1.77",
+    "content_sanskrit": "अबाधिता व्याधिभिराधिहीना न जातुचित्प्रापुरकालमृत्युम् । युधिष्टिरे शासति भूतधात्रीमृद्धाः प्रजा धर्मपरास्समस्ताः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010401,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निगदव्याख्यातावेतौ ॥ अथ दानमाह—"
+    }
+  ]
+}

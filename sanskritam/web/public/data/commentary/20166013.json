@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166013,
+    "chapter_id": 7069,
+    "verse_number": "17.87",
+    "content_sanskrit": "न्यषेधत्पावकाऽस्त्रेण रामस्तद्राक्षसस्ततः ।अदीव्यद्रौद्रमत्युग्रं मुसलाऽऽद्यगलत्ततः ॥",
+    "padaccheda": "न्यषेधत् । पावक-अस्त्रेण । रामः । तत् । राक्षसः । ततः । अदीव्यत् । रौद्रम् । अति-उग्रम् । मुसल-आदि । अगलत् । ततः",
+    "anvaya": "रामः पावक-अस्त्रेण तत् न्यषेधत् ततः राक्षसः अति-उग्रम् रौद्रम् अदीव्यत् ततः मुसल-आदि अगलत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāma neutralized that with the fire weapon. Subsequently, the Rākṣasa employed the exceedingly fierce Raudra weapon, from which maces and other missiles began to fall.",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166013,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "न्यषेधदित्यादि - तदासुरं शस्त्रं रामः पावकास्त्रेण न्यषेधत् निषिद्धवान् । ततो राक्षसो रौद्रमस्त्रमत्युग्रमदीव्यत् क्षिप्तवान् । अन्न दिविर्गतौ वर्तते । ततो रौद्रात् क्षिप्तात् मुसलादिप्रहरणमगलत् निर्गतवत् । '५८७। गल अदने ' । अनेकार्थत्वाद्धातूनां गलिरत्र निर्गमे वर्तते ॥"
+    }
+  ]
+}

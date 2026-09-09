@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164983,
+    "chapter_id": 7059,
+    "verse_number": "7.53",
+    "content_sanskrit": "प्राचीं तावद्भिर-व्यग्रः कपिभिर्विनतो ययौ ।अ-प्रग्राहैरिवाऽऽदित्यो वाजिभिर्-दूर-पातिभिः ॥",
+    "padaccheda": "प्राचीम् । तावद्भिः । अव्यग्रः । कपिभिः । विनतः । ययौ । अ-प्रग्राहैः । इव । आदित्यः । वाजिभिः । दूर-पातिभिः",
+    "anvaya": "अव्यग्रः विनतः तावद्भिः कपिभिः (सह) प्राचीम् ययौ अ-प्रग्राहैः दूर-पातिभिः वाजिभिः आदित्यः इव ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The calm Vinata went toward the east with an equal number of monkeys, like the Sun moving with far-leaping horses that are without reins.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164983,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्राचीमित्यादि - कपिभिस्तावद्भिरित्येककोटिसंघातैः सह विनतः प्रणतः । सुग्रीव इत्यर्थात् । अव्यग्रः अनाकुलः । प्राचीं पूर्वां दिशं ययौ । यथा आदित्यो वाजिभिरप्रग्राहैः मुक्तबन्धनैः करणभूतैः । रश्मौ च (पा.३|३|५३३) इति घञ् । दूरयायिभिः ||"
+    }
+  ]
+}

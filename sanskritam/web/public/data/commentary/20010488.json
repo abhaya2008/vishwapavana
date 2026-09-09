@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010488,
+    "chapter_id": 6674,
+    "verse_number": "2.68",
+    "content_sanskrit": "दन्ताभास्तित्विषुस्तस्य सत्यवाङ्मन्दिरे मुखे । असत्योक्तिनुदः क्षिप्त्वा द्वाःस्थवेत्रलता इव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010488,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तित्विषुरिति त्विष दीप्तौ । लिटि उसि रूपम् । उत्प्रेक्षालङ्कारः ॥"
+    }
+  ]
+}

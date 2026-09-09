@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012102,
+    "chapter_id": 6688,
+    "verse_number": "16.109",
+    "content_sanskrit": "इत्युक्तः श्वशुरैः पार्थस्समन्तुष्टस्सममिष्टया । शिवं मुहूर्त्तमासाद्य प्रस्थातुमुपचक्रमे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012102,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "श्वशुरैरिति । श्वश्रूभिः श्वशुरैश्च । ‘श्वशुरः श्वश्र्वे’त्येकशेषः (पा.१|२|७१) ॥"
+    }
+  ]
+}

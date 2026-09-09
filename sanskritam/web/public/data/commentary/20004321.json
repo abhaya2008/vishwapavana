@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004321,
+    "chapter_id": 6603,
+    "verse_number": "8.81",
+    "content_sanskrit": "तां विलम्बितपनीयमेखलामुद्वहञ्जघनभारदुर्वहाम् । ध्यानसंभृतविभूतिरीश्वरः प्राविशन्मणिशिलागृहं रहः ॥",
+    "padaccheda": "ताम् । विलम्बितपनीयमेखलाम् । उद्वहन् । जघनभारदुर्वहाम् । ध्यानसंभृतविभूतिः । ईश्वरः । प्राविशत् । मणिशिलागृहम् । रहः",
+    "anvaya": "जघनभारदुर्वहां विलम्बितपनीयमेखलां ताम् उद्वहन्, ध्यानसंभृतविभूतिः ईश्वरः रहः मणिशिलागृहं प्राविशत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Carrying her, who was difficult to bear due to the weight of her hips and whose golden girdle was hanging loose, Ishvara, whose powers were gathered through meditation, secretly entered the jeweled chamber.",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004321,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तामिति । हरो विलम्बितपनीयमेखलां विस्रंसिहेमरसनां जघनभारेण दुर्वहां तां पार्वतीमुद्वहन्ध्यानसंभृतया संकल्पमात्रसिद्ध्या विभूत्या भोगसाधनेन संभृतं = संपूर्णं मणिशिलागृहं प्राविशत् । रिरंसुरिति भावः"
+    }
+  ]
+}

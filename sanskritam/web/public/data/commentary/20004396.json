@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004396,
+    "chapter_id": 6605,
+    "verse_number": "10.13",
+    "content_sanskrit": "दुर्विषह्येण तेनाहं तेजसा दहनात्मना । निर्दग्धमात्मनो देहं दुर्वहं वोढुमक्षमः ॥",
+    "padaccheda": "दुर्विषह्येण । तेन । अहम् । तेजसा । दहनात्मना । निर्दग्धम् । आत्मनः । देहम् । दुर्वहम् । वोढुम् । अक्षमः",
+    "anvaya": "दहनात्मना तेन दुर्विषह्येण तेजसा निर्दग्धम् आत्मनः दुर्वहं देहं वोढुम् अहम् अक्षमः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Agni addresses Indra, stating that he is unable to carry his own scorched and heavy body, which has been burnt by that unbearable, fiery energy of Śiva.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004396,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दुर्विषह्येणेति । दहनात्मनाग्निरुपेणात एव दुर्विषह्येण दुःखेन वोढुं शक्येन । `शकिसहोश्च' इति यत् । तेन तेजसा वीर्येण निर्दग्धम् अत एव दुर्वहमात्मनो देहं वोढुमहमक्षमोऽस्मि । यथाहं क्षमा स्यां तथैव त्वयाशु विधेयमिति व्यज्यते"
+    }
+  ]
+}

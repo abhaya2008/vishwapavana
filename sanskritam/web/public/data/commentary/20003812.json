@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003812,
+    "chapter_id": 6597,
+    "verse_number": "2.34",
+    "content_sanskrit": "सर्वाभिः सर्वदा चन्द्रस्तं कलाभिर्निषेवते । नादत्ते केवलां लेखां हरचूडामणीकृताम् ॥",
+    "padaccheda": "सर्वाभिः । सर्वदा । चन्द्रः । तम् । कलाभिः । निषेवते । न । आदत्ते । केवलाम् । लेखाम् । हरचूडामणीकृताम्",
+    "anvaya": "चन्द्रः सर्वदा सर्वाभिः कलाभिः तम् निषेवते । केवलाम् हर-चूडामणि-कृताम् लेखाम् न आदत्ते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"The moon always serves him (Taraka) with all its phases, meaning it is always full in his presence. It does not take on that single digit which is made the crest-jewel of Shiva.\"",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003812,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सर्वाभिरिति ॥ चन्द्रस्तं तारकं सर्वदा । कृष्णपक्षेऽपीत्यर्थः । सर्वाभिः कलाभिर्निषेवते ।`कला तु षोडशो भागः` इत्यमरः (अ.को.1|3|17) । केवलां हरचूडामणीकृतां शिवशिरोमणीकृतां लेखां नादत्ते न गृह्णाति"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013383,
+    "chapter_id": 6700,
+    "verse_number": "8.49",
+    "content_sanskrit": "भुक्त्वोपविष्टस्य मुनित्रयस्य श्रमापनोदाय तदीयशिष्यौ । अतिष्ठतां पार्श्वगतौ बटू द्वौ सच्चामरौ वीजनमाचरन्तौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013383,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "वीजनं चामरसंचालनमाचरन्तौ स्थितवन्तौ ॥ ५३ ॥"
+    }
+  ]
+}

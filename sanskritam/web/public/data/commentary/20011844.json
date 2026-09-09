@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011844,
+    "chapter_id": 6686,
+    "verse_number": "14.68",
+    "content_sanskrit": "सोहं चकार तेऽभ्यर्चां सहस्रतममम्बुजम् । तदा न नाऽशमेयाहन्नेत्रमुज्जहरात्मनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011844,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "चकारोज्जहरेति । णलुत्तमो वेति (पा.७|१|९१) णिद्वद्भावविकल्पात् वृद्धिगुणौ ॥"
+    }
+  ]
+}

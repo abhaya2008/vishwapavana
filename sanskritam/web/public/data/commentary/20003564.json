@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003564,
+    "chapter_id": 6593,
+    "verse_number": "17.37",
+    "content_sanskrit": "यावन्नाश्यायते वेदिरभिषेकजलाप्लुताः । तावदेवास्य वेलान्तं प्रतापः प्राप दुःसहः ॥",
+    "padaccheda": "यावत् । न । आश्यायते । वेदिः । अभिषेकजलाप्लुता । तावत् । एव । अस्य । वेलान्तम् । प्रतापः । प्राप । दुःसहः",
+    "anvaya": "अभिषेकजलाप्लुता वेदिः यावत् न आश्यायते, तावत् एव अस्य दुःसहः प्रतापः वेलान्तम् प्राप।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Before the sacrificial altar, drenched with the waters of his consecration, could even dry, his unbearable prowess had already reached the shores of the ocean.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003564,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यावदिति॥ अभिषेकजलैराप्लुता सिक्ता वेदिरमिषेकवेदिः। यावन्नाश्यायते न शुष्यति। कर्तरि लट्। तावदेवास्य राज्ञो दुःसहः प्रतापो वेलान्तं वेलापर्यन्तं प्राप ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005466,
+    "chapter_id": 6624,
+    "verse_number": "12.31",
+    "content_sanskrit": "किमुपेक्षसे कथय नाथ न तव विदितं न किंचन । त्रातुमलमभयदार्हसि नस्त्वयि मा स्म शासति भवत्पराभवः ॥",
+    "padaccheda": "किम् । उपेक्षसे । कथय । नाथ । न । तव । विदितम् । न । किंचन । त्रातुम् । अलम् । अभयदः । अर्हसि । नः । त्वयि । मा । स्म । शासति । भवत् । पराभवः",
+    "anvaya": "नाथ, किम् उपेक्षसे? कथय। तव किञ्चन न विदितम् न। (त्वम्) नः त्रातुम् अलम्। (त्वम्) अभयदः अर्हसि। त्वयि शासति (सति) पराभवः मा स्म भवत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Lord, why do you remain indifferent? Speak! Nothing is unknown to you. You are capable of protecting us. You ought to grant us fearlessness. While you are ruling, let there be no defeat for us.\"",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005466,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "किमिति ॥ हे नाथ, किं किमर्थमुपेक्षसे कथय । त्वमिति शेषः। तव न विदितम् । त्वयाज्ञायमानमित्यर्थः।`क्तस्य च वर्तमाने` (पा.2।3।67) इति षष्ठी।न किंचन किमपि न । हे अभयद, नोऽस्मानलं त्रातुमर्हसि । त्वयि शासति सति पराभवो मा स्म भवन्माभूत्। `स्मोत्तरे लङ् च` (पा.3।3।176) इति लङ् ॥"
+    }
+  ]
+}

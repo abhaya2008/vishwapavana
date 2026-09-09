@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012038,
+    "chapter_id": 6688,
+    "verse_number": "16.45",
+    "content_sanskrit": "वर्तिषीष्ट सदा लक्ष्मीर्विष्णोरिव तवोरसि । दोष्णोस्ते वर्तिषीयास्तां बलवीर्ये हरेरिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012038,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सुट्तित्थोरिति (पा.३|४|१०७) तथोस्सुट् ॥"
+    }
+  ]
+}

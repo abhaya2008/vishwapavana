@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003047,
+    "chapter_id": 6587,
+    "verse_number": "11.74",
+    "content_sanskrit": "बिभ्रतोऽस्त्रमचलेऽप्यकुण्ठितं द्वौ रिपू मम मतौ समागसौ । धेनुवत्सहरणाञ्च हैहयस्त्वं च कीर्तिमपहर्तुमुद्यतः ॥",
+    "padaccheda": "बिभ्रतः । अस्त्रम् । अचले । अपि । अकुण्ठितम् । द्वौ । रिपू । मम । मतौ । समागसौ । धेनुवत्सहरणात् । हैहयः । त्वम् । च । कीर्तिम् । अपहर्तुम् । उद्यतः",
+    "anvaya": "अचले अपि अकुण्ठितम् अस्त्रम् बिभ्रतः मम धेनुवत्सहरणात् हैहयः त्वं च कीर्तिम् अपहर्तुम् उद्यतः इति द्वौ समागसौ रिपू मतौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Paraśurāma, whose weapons remain unblunted even against mountains, considers two enemies equally guilty of offending him. One is the Haihaya king, who stole his father's calf, and the other is Rāma, who is now striving to steal his fame. By equating the loss of his fame to the theft of his family's sacred property, Paraśurāma justifies his hostility toward the young prince.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003047,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बिभ्रत इति॥ अचले क्रौञ्चादावप्यकुण्ठितमस्त्रं बिभ्रतो मम द्वौ समागसौ तुल्यापराधौ रिपू मतौ। धेनोः पितृहोमधेनोर्वत्सस्य हरणाद्धेतोर्हैहयः कार्तवीर्यश्च। कीर्तिमपहर्तुमुद्यत उद्युक्तस्त्वं च। वत्सहरणे भारतश्लोकः-`प्रमत्तश्चाश्रमात्तस्य होमधेन्वास्ततो बलात्। जहार वत्सं क्रोशन्त्या बभञ्ज च महाद्रुमान् ॥` इति ॥"
+    }
+  ]
+}

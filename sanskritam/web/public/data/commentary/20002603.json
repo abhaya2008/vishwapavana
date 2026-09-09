@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002603,
+    "chapter_id": 6582,
+    "verse_number": "6.50",
+    "content_sanskrit": "संभाव्य भर्तारममुं युवानं मृदुप्रवालोत्तरपुष्पशय्ये । वृन्दावने चैत्ररथादनूने निर्विश्यतां सुन्दरि यौवनश्रीः ॥",
+    "padaccheda": "संभाव्य । भर्तारम् । अमुम् । युवानम् । मृदुप्रवालोत्तरपुष्पशय्ये । वृन्दावने । चैत्ररथात् । अनूने । निर्विश्यताम् । सुन्दरि । यौवनश्रीः",
+    "anvaya": "सुन्दरि! अमुं युवानं भर्तारं संभाव्य, चैत्ररथात् अनूने वृन्दावने मृदुप्रवालोत्तरपुष्पशय्ये (त्वया) यौवनश्रीः निर्विश्यताम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "O beautiful one, accepting this young man as your husband, let the splendor of your youth be enjoyed in Vrindavana, a place no less magnificent than Kubera's garden, on a bed of flowers laid over soft sprouts.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002603,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "संभाव्येति॥ युवानममुं सुषेणं भर्तारं संभाव्य मत्वा। पतित्वेनाङ्गीकृत्येत्यर्थः। मृदुप्रवालोत्तरोपरिप्रस्तारितकोमलपल्लवा पुष्पशय्या यस्मिंस्तत्तस्मिश्चैत्ररथात्कुबेरोद्यानादनूने वृन्दावने वृन्दावननामक उद्याने हे सुन्दरि!यौवनश्रीर्यौवनफलं निर्विश्यतां भुज्यताम् ॥"
+    }
+  ]
+}

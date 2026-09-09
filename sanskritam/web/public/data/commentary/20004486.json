@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004486,
+    "chapter_id": 6606,
+    "verse_number": "11.43",
+    "content_sanskrit": "अहेतुहासच्छुरिताननेन्दुर्गृहाङ्गणक्रीडनधूलिधूम्रः । मुहुर्वदन्किचिदलक्षितार्थं मुदं तयोरङ्कगतस्ततान ॥",
+    "padaccheda": "अहेतुहासच्छुरिताननेन्दुः । गृहाङ्गणक्रीडनधूलिधूम्रः । मुहुः । वदन् । किञ्चित् । अलक्षितार्थम् । मुदम् । तयोः । अङ्कगतः । ततान",
+    "anvaya": "अहेतुहासच्छुरिताननेन्दुः गृहाङ्गणक्रीडनधूलिधूम्रः अङ्कगतः सः मुहुः किञ्चित् अलक्षितार्थम् वदन् तयोः मुदम् ततान।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His moon-like face brightened by causeless smiles and his body grey with the dust of the courtyard, the child Kārttikeya, sitting on the laps of his parents and speaking unintelligible words, increased their happiness.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004486,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अहेत्विति । हृहाङ्गणे यत्क्रीडनं तेन निमित्तेन धूलिभी रजोभिर्धूम्रो धूसरः सन्नङ्कगत उत्सङ्गं प्राप्तः कुमारः । अहेतुरकारणो यो हासो हसितं तेन च्छुरितो मिश्रित आननेन्दुर्मुखचन्द्रो यस्य । अलक्षितार्थमव्यक्तार्थं मुहुः किंचिद्वदंस्तयोर्मुदं प्रीतिं ततान चकार"
+    }
+  ]
+}

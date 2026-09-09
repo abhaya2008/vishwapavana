@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165312,
+    "chapter_id": 7061,
+    "verse_number": "9.139",
+    "content_sanskrit": "प्रणश्यन्नपि नाऽशक्नोदत्येतुं बाण-गोचरम् । त्वयैवोक्तं महा-मायो मारीचो राम-हस्तिनः ॥",
+    "padaccheda": "प्रणश्यन् । अपि । न । अशक्नोत् । अत्येतुम् । बाण-गोचरम् । त्वया । एव । उक्तम् । महा-मायः । मारीचः । राम-हस्तिनः",
+    "anvaya": "त्वया एव उक्तम् महा-मायः मारीचः प्रणश्यन् अपि राम-हस्तिनः बाण-गोचरम् अत्येतुम् न अशक्नोत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As you yourself stated, even the highly deceptive Mārīca, while fleeing, was unable to escape the range of the arrows of the elephant-like Rāma.",
+    "audio_url": null,
+    "display_order": 139,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165312,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "प्रणश्यन्नित्यादि — मारीचः प्रणश्यन्नपि पलायनपरो ऽपि सन् महामायः कनकमृगरूपधारित्वात् । रामहस्तिनः रामो हस्तीव तस्य वाणगोचरं बाणपदवीं अत्येतुं अतिक्रमितुं नाशक्नोत् न शक्तवानिति त्वयैवोक्तं, ममारेत्यभिदधता न मया । यदि शक्नोति अतिक्रमितुं न ममार ॥"
+    }
+  ]
+}

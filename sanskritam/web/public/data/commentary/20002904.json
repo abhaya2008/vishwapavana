@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002904,
+    "chapter_id": 6586,
+    "verse_number": "10.17",
+    "content_sanskrit": "रसान्तराण्येकरसं यथा दिव्यं पयोऽश्नुते । देशे देशे गुणेष्वेवमवस्थास्त्वमविक्रियः ॥",
+    "padaccheda": "रसान्तराणि । एकरसं । यथा । दिव्यं । पयः । अश्नुते । देशे । देशे । गुणेषु । एवम् । अवस्थाः । त्वम् । अविक्रियः",
+    "anvaya": "यथा दिव्यम् पयः एक-रसम् (सत्) रस-अन्तराणि अश्नुते, एवम् अविक्रियः त्वम् देशे देशे गुणेषु अवस्थाः (अश्नुषे) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Just as celestial water (rain), though having one essential taste, acquires different tastes according to the place and its qualities, so do you, while remaining unchanged, assume different states.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002904,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रसान्तराणीति॥ एकरसं मधुरैकरसं दिवि भवं दिव्यं पयो वर्षोदकं देशे देश ऊषरादिदेशेऽन्यान्रसान्रसान्तराणि लवणादीनि यथाऽश्नुते प्राप्नोति। एवमविक्रियो निर्विकारः। एकरूप इत्यर्थः। त्वं गुणेषु सत्त्वादिष्ववस्थाः स्रष्टृत्वादिरूपा अश्नुषे ॥"
+    }
+  ]
+}

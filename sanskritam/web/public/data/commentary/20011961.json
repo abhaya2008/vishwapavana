@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011961,
+    "chapter_id": 6687,
+    "verse_number": "15.58",
+    "content_sanskrit": "आगत्य च पुरीमेतां पुनस्संक्रीडितास्वहे । देयाऽनुज्ञा तदावाभ्यां युवाभ्यां वत्सलौ गुरू ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011961,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "संक्रीडितास्वहे इति 'क्रीडाऽनुसंपरिभ्यश्चे'त्यात्मनेपदम् (पा.१|३|२१) । देयेति प्राप्तकाले कृत्यः ।"
+    }
+  ]
+}

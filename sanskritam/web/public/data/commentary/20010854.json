@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010854,
+    "chapter_id": 6677,
+    "verse_number": "5.94",
+    "content_sanskrit": "नवपल्लवसंघातसुकुमारोत्तरच्छदाः । शयनीसन्ति वः कच्चिदुपला विपुलास्समाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010854,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शयनीसन्ति इति अधिकरणल्युडन्त शयनशब्दादभूततद्भावच्वौ अस्य “च्वौ”इतीत्वम् (पा.७|४|३२) । सन्तीति इनसोरल्लोपः (पा.६|४|१११) ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004738,
+    "chapter_id": 6611,
+    "verse_number": "16.30",
+    "content_sanskrit": "शस्त्रच्छिन्नगजारोहा विभ्रमन्त इतस्ततः । युगान्तवातचलिताः शैला इव गजा बभुः ॥",
+    "padaccheda": "शस्त्रच्छिन्नगजारोहाः । विभ्रमन्तः । इतस्ततः । युगान्तवातचलिताः । शैलाः । इव । गजाः । बभुः",
+    "anvaya": "शस्त्रच्छिन्नगजारोहाः इतस्ततः विभ्रमन्तः गजाः युगान्तवातचलिताः शैलाः इव बभुः",
+    "meaning_sanskrit": "",
+    "meaning_english": "Elephants whose riders had been killed by weapons wandered aimlessly here and there, appearing like mountains shaken by the cataclysmic winds at the end of an age.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004738,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शस्त्रेति । शस्त्रैश्छिन्ना गजारोहा येषामत एवेतस्ततो विभ्रमन्तो गजाः युगान्तवातैः प्रलयप्रभञ्जनैश्चालिता उत्पातिताः शैला इव बभुः शुशुभिरे"
+    }
+  ]
+}

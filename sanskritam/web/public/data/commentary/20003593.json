@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003593,
+    "chapter_id": 6593,
+    "verse_number": "17.66",
+    "content_sanskrit": "खनिभिः सुषुवे रत्नं क्षेत्रैः सस्यं वनैर्गजान् । दिदेश वेतनं तस्मै रक्षासदृशमेव भूः ॥",
+    "padaccheda": "खनिभिः । सुषुवे । रत्नम् । क्षेत्रैः । सस्यम् । वनैः । गजान् । दिदेश । वेतनम् । तस्मै । रक्षासदृशम् । एव । भूः",
+    "anvaya": "भूः खनिभिः रत्नम्, क्षेत्रैः सस्यम्, वनैः गजान् सुषुवे । (सा भूः) तस्मै रक्षासदृशम् एव वेतनम् दिदेश ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The earth, in return for his protection, yielded its treasures to King Atithi. It produced gems from its mines, crops from its fields, and elephants from its forests, thus giving him a reward that was truly worthy of his efforts.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003593,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "खनिभिरिति॥ भूर्भूमिस्तस्मै राज्ञे रक्षासदृशं रक्षणानुरूपमेव वेतनं मृतिं दिदेश ददौ। कथम्? खनिभिराकरैः। `खनिः स्त्रियामाकरः स्यात्` इत्यमरः (अ.को.2|3|7)। रत्नं माणिक्यादिकं सुषुवेऽजीजनत्। क्षेत्रैः सस्यम्। वनैर्गजान् हस्तिनः सुषुवे ॥"
+    }
+  ]
+}

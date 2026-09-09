@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010864,
+    "chapter_id": 6677,
+    "verse_number": "5.104",
+    "content_sanskrit": "तवाहुतहविर्गन्धमाघ्रायातृप्यदर्जुनः । तस्य ह्याघ्रातृभिर्मर्त्यैरीषद्भवमकल्मषैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010864,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "ईषद्भवमिति भवतेरकर्मकत्वात् भावे खल् ॥ सुदानमिति खलपवाद 'आतोयुच्' (पा.३|३|१२८) ॥"
+    }
+  ]
+}

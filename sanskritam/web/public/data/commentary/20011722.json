@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011722,
+    "chapter_id": 6685,
+    "verse_number": "13.58",
+    "content_sanskrit": "गते पार्थे प्रविष्टं तमपश्यत् कुतुकी जनः । दामोदरमिव दृष्टमायातं तरुणं रविम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011722,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गते पार्थे यदृच्छया प्रविष्टमपरं मन्यमानस्तमेवार्जुनं कुतुकी कुतूहली जनोऽपश्यत् ॥"
+    }
+  ]
+}

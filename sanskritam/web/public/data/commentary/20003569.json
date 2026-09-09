@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003569,
+    "chapter_id": 6593,
+    "verse_number": "17.42",
+    "content_sanskrit": "यदुवाच न तन्मिथ्या यद्वदौ न जहार तत् । सोऽभूद्भग्नव्रतः शत्रूनुद्धृत्य प्रतिरोपयन् ॥",
+    "padaccheda": "यत् । उवाच । न । तत् । मिथ्या । यत् । वदौ । न । जहार । तत् । सः । अभूत् । भग्नव्रतः । शत्रून् । उद्धृत्य । प्रतिरोपयन्",
+    "anvaya": "सः यत् उवाच तत् मिथ्या न (अभूत्)। यत् वदौ तत् न जहार। सः शत्रून् उद्धृत्य प्रतिरोपयन् भग्नव्रतः अभूत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "What he spoke was never false; what he promised, he never retracted. He broke his vow (of destroying enemies) only when, after uprooting his foes, he reinstated them upon their submission.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003569,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यदिति॥ सोऽतिथिः। यद्वाक्यं दानत्राणादिविषयमुवाच तन्न मिथ्याऽनृतं नाभूत्। यद्वस्तु ददौ तन्न जहार न पुनराददे। किंतु शत्रूनुद्धृत्योत्स्वाय प्रतिरोपयन् पुनः स्थापयन्। भग्नव्रतो भग्ननियमोऽभूत् ॥"
+    }
+  ]
+}

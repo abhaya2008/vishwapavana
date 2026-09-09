@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165743,
+    "chapter_id": 7066,
+    "verse_number": "14.95",
+    "content_sanskrit": "उष्णीषं मुमुचे चारु रथं च जुजुषे शुभम् ।आललम्बे महाऽस्त्राणि गन्तुं प्रववृते ततः ॥",
+    "padaccheda": "उष्णीषम् । मुमुचे । चारु । रथम् । च । जुजुषे । शुभम् । आललम्बे । महा-अस्त्राणि । गन्तुम् । प्रववृते । ततः",
+    "anvaya": "चारु उष्णीषम् मुमुचे शुभम् रथम् जुजुषे। महा-अस्त्राणि आललम्बे ततः गन्तुम् प्रववृते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He put on a beautiful turban and occupied a splendid chariot. Taking up great weapons, he then set out to depart.",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165743,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उष्णीषमित्यादि - उष्णीषं शिरस्त्राणं मुमुचे । रथं च जुजुषे । जुषिरनु- दात्तेत् । महास्त्राणि आललम्बे गृहीतवान् । लबि अवस्रंसने' इत्यनु- दात्तेत् । तत उत्तरकालं गन्तुं प्रववृते प्रवृत्तः ॥"
+    }
+  ]
+}

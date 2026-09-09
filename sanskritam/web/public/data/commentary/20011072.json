@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011072,
+    "chapter_id": 6679,
+    "verse_number": "7.82",
+    "content_sanskrit": "व्याख्यातृभिः कुशाग्रीयधीभिर्मीमांसकैरपि । यद्वैयाकरणैश्चैन्द्रचान्द्रादिनिपुणैर्बभौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011072,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मीमांसकैर्मीमांसामधीयानैर्विद्वद्भिर्वा । 'क्रमादिभ्यो वुन्' (पा.४|२|६१) । अणोऽपवादः ॥"
+    }
+  ]
+}

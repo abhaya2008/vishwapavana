@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005655,
+    "chapter_id": 6627,
+    "verse_number": "15.30",
+    "content_sanskrit": "मुनीषुदहनातप्तांल्लज्जया निविवृत्सतः । शिवः प्रह्लादयामास तान्निषेधहिमाम्बुना ॥",
+    "padaccheda": "मुनीषुदहनातप्तान् । लज्जया । निविवृत्सतः । शिवः । प्रह्लादयामास । तान् । निषेधहिमाम्बुना",
+    "anvaya": "शिवः मुनि-इषु-दहन-आतप्तान् लज्जया निविवृत्सतः तान् निषेध-हिम-अम्बुना प्रह्लादयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Shiva soothed them—who were scorched by the fire of the sage's (Arjuna's) arrows and wished to retreat out of shame—with the cool water of his prohibition (i.e., his words stopping them from fleeing).",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005655,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मुनीति ॥ मुनेरिषव एव दहनस्तेनातप्तान्पीडितांस्तथा लज्जया रणभङ्गाच्छालीनत्वेन निविवृत्स्यतो निवर्तिष्यमाणान्।`वृद्भयः स्यसनोः` इति विकल्यात्परस्मैपदम् । तान्गणाञ्शिवो निषेधो मा भैष्ट मा पलायतेति निवारणवचनं स एव हिमाम्बु शीतोदकं तेन प्रह्लादयामास । रूपकालंकारः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011678,
+    "chapter_id": 6685,
+    "verse_number": "13.14",
+    "content_sanskrit": "सखीजनार्पितैस्तस्याश्शरीरैश्शीतवस्तुभिः । समदीप्यत कन्दर्पो हुताशन इवेन्धनैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011678,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "समदीप्यतेति । दीपी दीप्तौ । दिवादिरनुदात्तेत् ॥"
+    }
+  ]
+}

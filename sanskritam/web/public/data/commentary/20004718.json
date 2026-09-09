@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004718,
+    "chapter_id": 6611,
+    "verse_number": "16.10",
+    "content_sanskrit": "निर्भिद्य दन्तिनः पूर्वं पातयामासुराशुगाः । पेतुः प्रवरयोधानां प्रीतानामाहवोत्सवे ॥",
+    "padaccheda": "निर्भिद्य । दन्तिनः । पूर्वम् । पातयामासुः । आशुगाः । पेतुः । प्रवरयोधानाम् । प्रीतानाम् । आहवोत्सवे",
+    "anvaya": "आहवोत्सवे प्रीतानां प्रवरयोधानां आशुगाः पूर्वं दन्तिनः निर्भिद्य (पश्चात्) पेतुः पातयामासुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the festive atmosphere of the battle, the arrows of the joyful warriors first pierced through the massive elephants and then struck down the prominent enemy soldiers, causing them to fall to the ground.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004718,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निर्भिद्येति । आहवोत्सवे संग्रामरुपोत्सवे प्रीतानां प्रवरयोधारुनामतिश्रेष्ठयोद्धॄणां सम्बन्धिन आशृगा बाणा दन्तिनो गजान्निर्भिद्य भेदयित्वा पूर्वं पातयामासुः । पश्चात्स्वयमपि पेतुः । अत्र वाक्यार्थरुपवस्तुना प्राणापहारकं तेषामतितेक्ष्णयं वस्तु ध्वन्यत इति वस्तुना वस्तुध्वनिः"
+    }
+  ]
+}

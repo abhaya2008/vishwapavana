@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003392,
+    "chapter_id": 6591,
+    "verse_number": "15.56",
+    "content_sanskrit": "तं दधन्मैथिलीकण्ठनिर्व्यापारेण बाहुना । पश्चान्निववृते रामः प्राक्परासुर्द्विजात्मजः ॥",
+    "padaccheda": "तम् । दधत् । मैथिलीकण्ठनिर्व्यापारेण । बाहुना । पश्चात् । निववृते । रामः । प्राक् । परासुः । द्विजात्मजः",
+    "anvaya": "रामः मैथिली-कण्ठ-निर्व्यापारेण बाहुना तम् (अलंकारम्) दधत् पश्चात् (तत्र) निववृते, यत्र प्राक् परासुः द्विज-आत्मजः (आसीत्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama, wearing that ornament on the arm that was no longer occupied with embracing Sita's neck, returned to the place where the brahmin's son, previously lifeless, lay.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003392,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ मैथिलीकण्ठनिर्व्यापारेण याहुना तमलंकारं दधद्रामः पश्चान्निववृते निवृत्तः। परासुर्म-तो द्विजात्मजः प्राक् रामात्पूर्वं निववृते ॥"
+    }
+  ]
+}

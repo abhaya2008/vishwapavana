@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003531,
+    "chapter_id": 6593,
+    "verse_number": "17.4",
+    "content_sanskrit": "जात्यस्तेनाभिजातेन शूरः शौर्यवता कुशः । अमन्यतैकमात्मानमनेकं वशिना वशी ॥",
+    "padaccheda": "जात्यः । तेन । अभिजातेन । शूरः । शौर्यवता । कुशः । अमन्यत । एकम् । आत्मानम् । अनेकम् । वशिना । वशी",
+    "anvaya": "वशी कुशः तेन अभिजातेन जात्यः, शौर्यवता शूरः, वशिना (सह) एकम् आत्मानम् अनेकम् अमन्यत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The self-controlled Kusha, through his association with his well-born, valorous, and self-controlled father, considered his single self to be manifold—noble, brave, and self-controlled, just like him.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003531,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जात्य इति॥ जातौ भवो जात्यः कुलीनः शूरो वशी कुशोऽभिजातेन कुलीनेन। `अभिजातः कुलीनः स्यात्` इत्यमरः। शौर्यवता वशिना तेनातिथिना। करणेन एकमात्मानम्। एको न भवतीत्यनेकस्तम्। अमन्यत। सर्वगुणसामग्र्यादात्मजमात्मन एव रूपान्तरममंस्तेत्यर्थः ॥"
+    }
+  ]
+}

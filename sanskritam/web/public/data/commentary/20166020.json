@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166020,
+    "chapter_id": 7069,
+    "verse_number": "17.94",
+    "content_sanskrit": "स-स्फुरस्योदकर्षच्च सौमित्रेः शक्तिमग्र-जः ।असिञ्चदोषधीस्ता याः समानीता हनूमता ॥",
+    "padaccheda": "अग्र-जः । स-स्फुरस्य । सौमित्रेः । शक्तिम् । उदकर्षत् । च । याः । हनुमता । समानीताः । ताः । ओषधीः । असिञ्चत्",
+    "anvaya": "अग्र-जः स-स्फुरस्य सौमित्रेः शक्तिम् उदकर्षत् च याः हनुमता समानीताः ताः ओषधीः असिञ्चत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The elder brother (Rāma) pulled the spear from the quivering Lakṣmaṇa and applied the medicinal herbs brought by Hanumān.",
+    "audio_url": null,
+    "display_order": 94,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166020,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सस्फुरस्येत्यादि - अग्रजश्च रामः सौमित्रेः सस्फुरस्य उच्छ्वसतः शक्तिं हृदयलग्नामुदकर्षत् उत्कृष्टवान् । याश्च हनूमतौषध्यः समानीतास्ता असिञ्चत् व्रगदेशेषु क्षारितवान् ॥"
+    }
+  ]
+}

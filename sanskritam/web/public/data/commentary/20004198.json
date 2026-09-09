@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004198,
+    "chapter_id": 6602,
+    "verse_number": "7.53",
+    "content_sanskrit": "वर्गावुभौ देवमहीधराणां द्वारे पुरस्योद्घटितापिधाने । समीयतुर्दूरविसर्पिघोषौ भिन्नैकसेतू पयसामिवौघौ ॥",
+    "padaccheda": "वर्गौ । उभौ । देव-महीधराणाम् । द्वारे । पुरस्य । उद्घाटित-अपिधाने । समीयतुर । दूर-विसर्पि-घोषौ । भिन्न-एक-सेतू । पयसाम् । इव । ओघौ",
+    "anvaya": "दूर-विसर्पि-घोषौ देव-महीधराणाम् उभौ वर्गौ, भिन्न-एक-सेतू पयसाम् ओघौ इव, उद्घाटित-अपिधाने पुरस्य द्वारे समीयतुर।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The two groups, that of the gods and that of the mountains' retinue, their clamor spreading far, met at the city gate whose doors were opened, just like two torrents of water meeting after breaking a single dam.",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004198,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वर्गाविति । दूरविसर्पी दूरगामी घोषो ययोस्तौ देवाश्च महीधराश्च तेषां देवमहीधराणामुभौ वर्गावुद्घटितापिधानेऽपनीतकवाटे पुरस्य द्वारे भिन्ने दीर्ण एकसेतुः याभ्यां तौ भिन्नैकसेतू पयसामोघो प्रवाहाविव समीयतुः संगतौ"
+    }
+  ]
+}

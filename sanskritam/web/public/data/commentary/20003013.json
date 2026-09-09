@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003013,
+    "chapter_id": 6587,
+    "verse_number": "11.40",
+    "content_sanskrit": "ह्रेपिता हि बहवो नरेश्वरास्तेन तात! धनुषा धनुर्भृतः । ज्यानिघातकठिनत्वचो भुजान्स्वान्विधूय धिगिति प्रतस्थिरे ॥",
+    "padaccheda": "ह्रेपिताः । हि । बहवः । नरेश्वराः । तेन । तात । धनुषा । धनुर्भृतः । ज्यानिघातकठिनत्वचः । भुजान् । स्वान् । विधूय । धिक् । इति । प्रतस्थिरे",
+    "anvaya": "तात! तेन धनुषा बहवः धनुर्भृतः नरेश्वराः ह्रेपिताः हि । ते ज्यानिघातकठिनत्वचः स्वान् भुजान् विधूय धिक् इति प्रतस्थिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Sage! Many kings, skilled archers themselves, were humiliated by that bow. Shaking their arms, which were toughened by the impact of bowstrings, they departed crying 'Shame!' upon themselves.\"",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003013,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ह्रेपिता इति॥ हे तात! तेन धनुषा बहवो धनुर्भृतो नरेश्वरा ह्रेपिता ह्रियं प्रापिता हि। जिह्रतेर्धातोर्ण्यन्तात्कर्मणि क्तः। `अर्तिह्री-` (पा.7।3।36) इत्यादिना पुगागमः। ते नरेश्वरा ज्यानिघातैः कठिनत्वचः स्वान्भुजान्धिगिति विधूयवमत्या प्रतस्थिरे प्रस्थिताः ॥"
+    }
+  ]
+}

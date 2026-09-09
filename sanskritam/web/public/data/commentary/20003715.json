@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003715,
+    "chapter_id": 6595,
+    "verse_number": "19.54",
+    "content_sanskrit": "तं गृहोपवन एव संगगताः पश्चिमक्रतुविदा पुरोधसा । रोगशान्तिमपदिश्य मन्त्रिणः संभृते शइखिनि गूढमादधुः ॥",
+    "padaccheda": "तम् । गृहोपवने । एव । सङ्गताः । पश्चिमक्रतुविदा । पुरोधसा । रोगशान्तिम् । अपदिश्य । मन्त्रिणः । संभृते । शिखिनि । गूढम् । आदधुः",
+    "anvaya": "पश्चिम-क्रतु-विदा पुरोधसा सङ्गताः मन्त्रिणः रोग-शान्तिम् अपदिश्य, तम् (राजानम्) संभृते शिखिनि गृह-उपवने एव गूढम् आदधुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The ministers, along with the priest who knew the final rites, secretly placed him (the deceased king) on a prepared pyre in the palace garden, under the pretext of performing a ritual for curing his disease.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003715,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ पश्चिमक्रतुविदाऽन्त्येष्टिविधिज्ञेन पुरोधसा संगताः समेता मन्त्रिणो गृहोपवन एव गृहाराम एव। `आरामः स्यादुपवनम्` इत्यमरः (अ.को.2|4|2)। दोगशान्तिमपदिश्य शान्तिकर्म व्यपदिश्य तमग्निवर्णं संभृते समिद्धे शिखिन्यग्नौ गूढमप्रकाशमादधुर्निदधुः ॥"
+    }
+  ]
+}

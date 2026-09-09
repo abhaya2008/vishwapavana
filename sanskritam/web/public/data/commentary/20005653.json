@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005653,
+    "chapter_id": 6627,
+    "verse_number": "15.28",
+    "content_sanskrit": "आसुरे लोकवित्रासविधायिनि महाहवे । युष्माभिरुन्नतिं नीतं निरस्तमिह पौरुषम् ॥",
+    "padaccheda": "आसुरे । लोकवित्रासविधायिनि । महाहवे । युष्माभिः । उन्नतिम् । नीतम् । निरस्तम् । इह । पौरुषम्",
+    "anvaya": "इह आसुरे लोक-वित्रास-विधायिनि महा-आहवे युष्माभिः उन्नतिम् नीतम् पौरुषम् निरस्तम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In this great battle against the Asura (Muka), which caused terror to the world, the manliness that was brought to a high state by you has now been cast down.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005653,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "आसुर इति ॥ एवंविध आसुरेऽसुरसंबन्धिनि लोकवित्रासविधायिनि लोकभयंकरे महाहवे महायुद्धे युष्माभिरुन्नतिं वृद्धिं नीतं प्रापितं पौरुषं पुरुषकर्म निरस्तं नाशितमिह सङ्ग्रामे ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003609,
+    "chapter_id": 6594,
+    "verse_number": "18.1",
+    "content_sanskrit": "स नैषधस्यार्थपतेः सुतायामुत्पादयामास निषिद्धशत्रुः । अनूनसारं निषधान्नगेन्द्रात्पुत्रं यमाहुर्निषधाख्यमेव ॥",
+    "padaccheda": "सः । नैषधस्य । अर्थपतेः । सुतायाम् । उत्पादयामास । निषिद्धशत्रुः । अनूनसारम् । निषधात् । नगेन्द्रात् । पुत्रम् । यम् । आहुः । निषधाख्यम् । एव",
+    "anvaya": "निषिद्धशत्रुः सः (अतिथिः) नैषधस्य अर्थपतेः सुतायाम्, नगेन्द्रात् निषधात् अनूनसारम्, यम् निषध आख्यम् एव आहुः, (तम्) पुत्रम् उत्पादयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "King Atithi, who had subdued all his foes, fathered a son with the daughter of the king of Nishadha. This son, possessing a strength and substance as great as the Nishadha mountain itself, was aptly named Nishadha.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003609,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ निषिद्धशत्रुर्निवारितरिपुः सोऽतिथिर्नैषधस्य निषधदेशाधीश्वरस्यार्थपते राज्ञः सुतायां निषधान्निषधाख्यान्नगेन्द्रात्पर्वतात्। अनूनसारमन्यूनबलं पुत्रमुत्पादयामास। यं पुत्रं निषधाख्यं निषधनामकमेवाहुः ॥"
+    }
+  ]
+}

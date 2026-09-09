@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004048,
+    "chapter_id": 6600,
+    "verse_number": "5.84",
+    "content_sanskrit": "इतो गमिश्याम्यथवेति वादिनी चचाल बाला स्तनभिन्नवल्कला । स्वरूपमास्थाय च तां कृतस्मितः समाललम्बे वृषराजकेतनः ॥",
+    "padaccheda": "इतः । गमिष्यामि । अथवा । इति । वादिनी । चचाल । बाला । स्तनभिन्नवल्कला । स्वरूपम् । आस्थाय । च । ताम् । कृतस्मितः । समाललम्बे । वृषराजकेतनः",
+    "anvaya": "\"इतः अथवा गमिष्यामि\" इति वादिनी स्तनभिन्नवल्कला बाला चचाल । वृषराजकेतनः च स्वरूपम् आस्थाय कृतस्मितः (सन्) ताम् समाललम्बे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the young lady, whose bark garment was rent by her bosom, said, \"I will leave this place,\" and began to move, the one whose banner is the great bull (Shiva), assuming his true form with a smile, held her back.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004048,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इत इति । अथवेतोऽन्यत्र गमिष्यामीति वादिनी वदन्ती स्तनाभ्यां भिन्नवल्कला रयवशात्कुचस्रस्तचीरा बाला पार्वती चचाल । वृषराजकेतनो वृषभध्वजश्च स्वरुपमास्थाय निजरुपमाश्रित्य कृतस्मितः सन् तां पार्वतीं समाललम्बे जग्राह"
+    }
+  ]
+}

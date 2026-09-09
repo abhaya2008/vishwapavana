@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004583,
+    "chapter_id": 6608,
+    "verse_number": "13.30",
+    "content_sanskrit": "स कार्त्तिकेयः पुरतः परीतः सुरै समस्तैः सुरनिम्नगां ताम् । अपूर्वदृष्टामवलोकमानः सविस्मयः स्मेरविलोचनोऽभूत् ॥",
+    "padaccheda": "सः । कार्त्तिकेयः । पुरतः । परीतः । सुरैः । समस्तैः । सुरनिम्नगाम् । ताम् । अपूर्वदृष्टाम् । अवलोकमानः । सविस्मयः । स्मेरविलोचनः । अभूत्",
+    "anvaya": "सः कार्त्तिकेयः समस्तैः सुरैः परीतः पुरतः ताम् अपूर्वदृष्टाम् सुरनिम्नगाम् अवलोकमानः सविस्मयः स्मेरविलोचनः अभूत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Surrounded by all the gods, Kārttikeya beheld the celestial river in front of him, which he had never seen before. He was filled with wonder, and his eyes lit up with a smile at the sight.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004583,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति । समस्तैः सुरैः परीतो व्याप्तः स कार्त्तिकेयः कुमारः । अपूर्वदृष्टाम् । अधुनैव दृष्टामित्यर्थः । तां सुरनिम्नगां पुरतोऽग्रे वलोकमानः सन्सविस्मयः साश्चर्यः स्मेरविलोचनः समन्दहासनेत्रचाभूत्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003000,
+    "chapter_id": 6587,
+    "verse_number": "11.27",
+    "content_sanskrit": "तत्र यावधिपती मखद्विषां तौ शरव्यमकरोत्स नेतरान् । किं महोरगविसर्पिविक्रमो राजिलेषु गरुडः प्रवर्तते? ॥",
+    "padaccheda": "तत्र । यावत् । अधिपती । मखद्विषाम् । तौ । शरव्यम् । अकरोत् । सः । न । इतरान् । किम् । महोरगविसर्पिविक्रमः । राजिलेषु । गरुडः । प्रवर्तते",
+    "anvaya": "तत्र सः मखद्विषाम् अधिपती यावत् तौ शरव्यम् अकरोत् इतरान् न। महोरगविसर्पिविक्रमः गरुडः राजिलेषु किं प्रवर्तते?",
+    "meaning_sanskrit": "",
+    "meaning_english": "In that place, Rāma targeted only the two leaders of the demons and ignored the others. This is compared to Garuḍa, whose immense prowess is meant for great serpents; he does not deign to attack common water-snakes.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003000,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ स रामः। तत्र रक्षसां बले यौ मखद्विषामधिपती तौ सुबाहुमारीजौ शरव्यं लक्ष्यमकरोत्। `वेध्यं लक्ष्यं शरव्यं च`इति हलायुधः। इतरान्नाकरोत्। तथा हि-महोरगविसर्पिविक्रमो गरुडो गरुत्मान् राजिलेषु जलव्यालेषु प्रवर्तते किम्? न प्रवर्तत इत्यर्थः। `अलगर्दो जलव्यालः समौ राजिलडुण्डुभौ` इत्यमरः (अ.को.1|8|5) ॥"
+    }
+  ]
+}

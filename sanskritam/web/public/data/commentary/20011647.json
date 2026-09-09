@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011647,
+    "chapter_id": 6684,
+    "verse_number": "12.99",
+    "content_sanskrit": "द्यावापृथिव्योर्विंवरे तथाऽपूरिष्ट चन्द्रिका । यथाऽबुद्धाऽजनिष्टाऽब्धिर्दुग्धात्मेत्यखिलो जनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011647,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दिवो द्यावेत्यौत्तरपदिको (पा.६|३|२९) द्यावादेशः । अतिशयोक्तिरलङ्कारः ॥"
+    }
+  ]
+}

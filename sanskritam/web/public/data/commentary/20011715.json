@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011715,
+    "chapter_id": 6685,
+    "verse_number": "13.51",
+    "content_sanskrit": "दातुमैच्छमहं तुभ्यं प्रागेव भगिनीमिमाम् । आर्यस्तु प्रियशिष्याय जामात्रे नागकेतवे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011715,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "ऐच्छमिति । इषु इच्छायां तुदादिः । उदात्तेत् । 'इषुगमियमां छः' (पा.७|३|७७) ॥"
+    }
+  ]
+}

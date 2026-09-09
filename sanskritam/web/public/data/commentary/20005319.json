@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005319,
+    "chapter_id": 6622,
+    "verse_number": "10.28",
+    "content_sanskrit": "अविरलफलिनीवनप्रसूनः कुसुमितकुन्दसुगन्धिगन्धवाहः । गुणमसमयजं चिराय लेभे विरलतुषारकण्।अस्तुषारकालः ॥",
+    "padaccheda": "अविरलफलिनीवनप्रसूनः । कुसुमितकुन्दसुगन्धिगन्धवाहः । गुणम् । असमयजम् । चिराय । लेभे । विरलतुषारकणः । तुषारकालः",
+    "anvaya": "अविरलफलिनीवनप्रसूनः कुसुमितकुन्दसुगन्धिगन्धवाहः विरलतुषारकणः तुषारकालः चिराय असमयजं गुणं लेभे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The dewy season (Hemanta), characterized by sparse frost, abundant Priyangu flowers, and a breeze fragrant with jasmine, possessed for a long time a charm that was unseasonal, as these features are typically associated with other times of the year.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005319,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "अविरलेति ॥ अविरलानि धनानि फलिनीवनानां प्रियंगुवनानां प्रसूनानि यस्मिन्सः। `प्रियंगुः फलिनी फली` इत्यमरः (अ.को.2|4|55) । कुसुमितैः कुन्दैर्माध्यकुसुमैः सुगन्धिर्गन्धवाहो यस्मिन्सः।माध्यं कुन्दम्' इत्यमरः। शैशिराणामपि कुन्दानां हेमन्ते प्रादुर्भावादविरोधः । विरलतुषारकण इति प्रारम्भोक्तिः । तुषारकालो हेमन्तश्चिरायासमयजमकालसंभवं गुणमुत्कर्षं लेभे ॥"
+    }
+  ]
+}

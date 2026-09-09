@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003220,
+    "chapter_id": 6589,
+    "verse_number": "13.50",
+    "content_sanskrit": "अनिग्रहत्रासविनीतसत्त्वमपुष्पलिङ्गात्फलबन्धिवृक्षम् । वनं तपःसाधनमेतदत्रेराविष्कृतोदग्रतरप्रभावम् ॥",
+    "padaccheda": "अनिग्रहत्रासविनीतसत्त्वम् । अपुष्पलिङ्गात्फलबन्धिवृक्षम् । वनम् । तपःसाधनम् । एतत् । अत्रेः । आविष्कृतोदग्रतरप्रभावम्",
+    "anvaya": "अनिग्रह-त्रास-विनीत-सत्त्वम्, अपुष्प-लिङ्गात् फल-बन्धि-वृक्षम्, आविष्कृत-उदग्रतर-प्रभावम् एतत् अत्रेः तपः-साधनम् वनम् (अस्ति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This is the forest of the sage Atri, an instrument for his penance, which has manifested its very high power. Here, the creatures are gentle, free from the fear of capture, and the trees bear fruit without first showing the sign of flowers.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003220,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अनिग्रहेति॥ अनिग्रहत्रासा दण्डभयरहिता अपि विनीताः सत्त्वा जन्तवो यस्मिंस्तत्। अपुष्पलिङ्गात्पुष्पनिमित्तं विनैव फलबन्धिनः फलग्राहिणो वृक्षा यस्मिंस्तत्। अथ एवाऽऽविष्कृतोदग्रतरप्रभावमत्रेर्मुनेस्तपसः साधनं वनमेतत् ॥"
+    }
+  ]
+}

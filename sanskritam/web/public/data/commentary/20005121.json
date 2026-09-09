@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005121,
+    "chapter_id": 6619,
+    "verse_number": "7.5",
+    "content_sanskrit": "कान्तानां कृतपुलकः स्तनाङ्गरागे वक्त्रेषु च्युततिलकेषु मौक्तिकाभस् । सम्पेदे श्रमसलिलोद्गमो विभूषा रम्याणां विकृतिरपि श्रियं तनोति ॥",
+    "padaccheda": "कान्तानाम् । कृतपुलकः । स्तनाङ्गरागे । वक्त्रेषु । च्युततिलकेषु । मौक्तिकाभः । सम्पेदे । श्रमसलिलोद्गमः । विभूषा । रम्याणाम् । विकृतिः । अपि । श्रियम् । तनोति",
+    "anvaya": "कान्तानाम् स्तन-अङ्गरागे कृतपुलकः च्युततिलकेषु वक्त्रेषु मौक्तिकाभः श्रमसलिलोद्गमः विभूषा सम्पेदे । रम्याणाम् विकृतिः अपि श्रियम् तनोति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For the beloved women, perspiration from exertion became an ornament. It caused horripilation on the cosmetic paste on their breasts and, on their faces with smudged tilaka marks, it shone like pearls. Indeed, even a blemish enhances the beauty of the naturally charming.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005121,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "कान्तानामिति ॥ कान्तानां स्तनानामङ्गरागे कृतपुलको जनितोद्भेदः । कृतरोमाञ्च इत्यर्थः । च्युताः प्रमृष्टास्तिलका येषां तेषु वक्रेषु मौक्तिकाभः श्रमसलिलोद्गमः स्वेदोद्भेदो विभूषा भूषणं संपेदे संपन्नः । कर्तरि लिट् । तथाहि । रम्याणां स्वभावसुन्दराणां विकृतिरपि श्रियं तनोति । अतः स्वेदस्यापि विभूषणत्वमुपपद्यत इति भावः ॥"
+    }
+  ]
+}

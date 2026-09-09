@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010764,
+    "chapter_id": 6677,
+    "verse_number": "5.4",
+    "content_sanskrit": "संसारजं मुनिवरैरातपोत्थञ्च पादपैः । पूर्णं नुदद्भिस्सन्तापं देहभाजां महत्तमैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010764,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "संसारसन्तापशब्दौ भावे घञन्तौ । श्लेषोऽलंकारः ॥"
+    }
+  ]
+}

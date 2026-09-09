@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012128,
+    "chapter_id": 6688,
+    "verse_number": "16.135",
+    "content_sanskrit": "गोविन्द तव का जातिः के गुणाः कृतयश्च काः । गुणैरारोपितैरेव तदपि स्तूयसे जनैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 135,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012128,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जातिगुणक्रियाहीनस्त्वमित्यर्थः । परमार्थतस्तु जात्यादिरहितो निरुपाधिस्त्वमिति व्याजस्तुतिरत्रालङ्कारः ॥"
+    }
+  ]
+}

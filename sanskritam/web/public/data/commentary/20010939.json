@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010939,
+    "chapter_id": 6678,
+    "verse_number": "6.60",
+    "content_sanskrit": "तदाश्रिता सुरक्षाख्यमपि तेस्ति व्रतं यदि । व्रतान्तराविरुद्धश्च तदेव परिपालय ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010939,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "व्रतान्तराविरुद्धश्चेति । चकारश्चेदर्थे ॥"
+    }
+  ]
+}

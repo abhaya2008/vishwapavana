@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002637,
+    "chapter_id": 6582,
+    "verse_number": "6.84",
+    "content_sanskrit": "तया स्रजा मङ्गलपुष्पमय्या विशालवक्षःस्थललम्बया सः । अमंस्त कण्ठार्पितबाहुपाशां विदर्भराजावरजां वरेण्यः ॥",
+    "padaccheda": "तया । स्रजा । मङ्गलपुष्पमय्या । विशालवक्षःस्थललम्बया । सः । अमंस्त । कण्ठार्पितबाहुपाशां । विदर्भराजावरजां । वरेण्यः",
+    "anvaya": "वरेण्यः सः विशाल-वक्षःस्थल-लम्बया मङ्गल-पुष्पमय्या तया स्रजा (युतः सन्) विदर्भ-राज-अवरजाम् कण्ठ-अर्पित-बाहु-पाशाम् अमंस्त ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With that auspicious floral garland hanging down his broad chest, the excellent prince (Aja) felt as if the younger sister of the Vidarbha king (Indumati) had already placed the embrace of her arms around his neck.",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002637,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तयेति॥ वरेण्यो वरणीय उत्कृष्टः। वृञ एण्यः। सोऽजो मङ्गलपुष्पमय्या मधुकादिकुसुममय्या विशालवक्षःस्थले लम्बया लम्बमानया तया प्रकृतया स्रजा विदर्भराजावरजामिन्दुमतीं कण्ठार्तितौ बाहू एव पाशौ यया ताममंस्त। मन्यतेर्लुङ्। बाहुपाशकल्पसुखमन्वभूदित्यर्थः ॥"
+    }
+  ]
+}

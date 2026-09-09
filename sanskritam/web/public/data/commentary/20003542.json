@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003542,
+    "chapter_id": 6593,
+    "verse_number": "17.15",
+    "content_sanskrit": "स्तूयमानः क्षणे तस्मिन्नलक्ष्यत स बन्दिभिः । प्रवृद्ध इव पर्जन्यः सारङ्गैरभिनन्दितः ॥",
+    "padaccheda": "स्तूयमानः । क्षणे । तस्मिन् । अलक्ष्यत । सः । बन्दिभिः । प्रवृद्धः । इव । पर्जन्यः । सारङ्गैः । अभिनन्दितः",
+    "anvaya": "तस्मिन् क्षणे बन्दिभिः स्तूयमानः सः, सारङ्गैः अभिनन्दितः प्रवृद्धः पर्जन्यः इव, अलक्ष्यत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that moment, being praised by the bards, he appeared like a great rain cloud, swollen and welcomed with joy by the Chataka birds.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003542,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्तूयमान इति॥ तस्मिन्क्षणेऽभिषेककाले बन्दिभिः स्तूयमानः सोऽतिथिः प्रवृद्धः प्रवृद्धवान्। कर्तरि क्तः। अत एव सारङ्गैश्चातकैरभिनन्दितः पर्जन्यो मेघ इव। अलक्ष्यत ॥"
+    }
+  ]
+}

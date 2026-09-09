@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003123,
+    "chapter_id": 6588,
+    "verse_number": "12.57",
+    "content_sanskrit": "वधनिर्धूतशापस्य कबन्धस्योपदेशतः । मुमूर्च्छ सख्यं रामस्य समानव्यसने हरौ ॥",
+    "padaccheda": "वधनिर्धूतशापस्य । कबन्धस्य । उपदेशतः । मुमूर्च्छ । सख्यम् । रामस्य । समानव्यसने । हरौ",
+    "anvaya": "वधनिर्धूतशापस्य कबन्धस्य उपदेशतः समानव्यसने हरौ रामस्य सख्यं मुमूर्च्छ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On the advice of Kabandha, whose curse was ended by his death at Rama's hands, a friendship blossomed between Rama and the monkey king Sugriva, as both were suffering from similar misfortunes.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003123,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वधेति॥ वधेन रामकृतेन निर्धूतशापस्य देवभूयं गतस्य कबन्धस्य रक्षोविशेषस्योपदेशतो रामस्य समानव्यसने समानापदि। सखअयार्थिनीत्यर्थः। हरौ कपौ सुग्रीवे। `शुकाहिकपिभेकेषु हरिर्ना कपिले त्रिषु` इत्यमरः (अ.को.3|3|183)। सख्यं मुमूर्च्छ ववृधे ॥"
+    }
+  ]
+}

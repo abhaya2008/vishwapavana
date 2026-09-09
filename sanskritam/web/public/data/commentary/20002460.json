@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002460,
+    "chapter_id": 6580,
+    "verse_number": "4.71",
+    "content_sanskrit": "ततो गौरीगुरुं शैलमारुरोहाश्वसाधनः । वर्धयन्निव तत्कूटानुद्धूतैर्धातुरेणुभिः ॥",
+    "padaccheda": "ततः । गौरीगुरुम् । शैलम् । आरुरोह । अश्वसाधनः । वर्धयन् । इव । तत्कूटान् । उद्धूतैः । धातुरेणुभिः",
+    "anvaya": "ततः अश्वसाधनः (रघुः) उद्धूतैः धातुरेणुभिः तत्कूटान् वर्धयन् इव गौरीगुरुं शैलम् आरुरोह।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Raghu, with his cavalry, ascended the Himalaya mountain, the father of Gauri, appearing to heighten its peaks with the mineral dust raised by his army's march.",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002460,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततोऽनन्तरमश्वसाधनः सन् गौर्या गुरुं पितरं शैलं हिमवन्तम्। उद्धूतैरश्वस्वुरोद्धूतैर्धातूनां गैरिकादीनां रेणुभिस्तत्कूटांस्तस्य श्रृङ्गाणि। `कूटो।ञस्त्त्री शिखरं शृङ्गम्` इत्यमरः। वर्धयन्निव। आरुरोह। उत्पतद्धूलिदर्शनाद्गिरिशिखरवृद्धिभ्रमो जायत इति भावः ॥"
+    }
+  ]
+}

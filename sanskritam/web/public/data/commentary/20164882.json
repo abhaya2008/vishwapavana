@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164882,
+    "chapter_id": 7058,
+    "verse_number": "6.104",
+    "content_sanskrit": "अत्तीर्णौ वा कथं भीमाः सरितः कूलमुद्वहाः ।आसादितौ कथं ब्रूतं न गजैः कूलमुद्रुजैः ॥",
+    "padaccheda": "अत्तीर्णौ । वा । कथम् । भीमाः । सरितः । कूलम्-उद्वहाः । आसादितौ । कथम् । ब्रूतम् । न । गजैः । कूलम्-उद्रुजैः",
+    "anvaya": "भीमाः कूलम्-उद्वहाः सरितः वा कथम् अत्तीर्णौ? कूलम्-उद्रुजैः गजैः न आसादितौ कथम्? ब्रूतम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "How did you cross the terrifying rivers that overflow their banks? Why were you not attacked by elephants that uproot the riverbanks? Please tell me.",
+    "audio_url": null,
+    "display_order": 104,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164882,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उत्तीर्णावित्यादि - कथं वा केनोपायेन युवां सरितो नदीरुत्तीणौं । भीमा- तथा लक्ष्य रूपे कथानके सुग्रीवाऽभिषेको नाम षष्ठः सर्गः - स्वासकरीः । यतः कूलमुद्वहाः कूलमापूर्य वहन्त्यः । उदि कूले- |३|२| - ३१।' इति खश । गजैः कूलमुदुजैः कूलं भिन्दद्भिः कथं नासादितौ न व्यापा- दितौ इति ब्रूतं कथयतम् ॥"
+    }
+  ]
+}

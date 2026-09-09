@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010674,
+    "chapter_id": 6676,
+    "verse_number": "4.20",
+    "content_sanskrit": "पलितं वहमानं तं जल्पमानं द्विजोत्तमम् । निघ्नानस्तस्करान् पार्थो हर्षयन् प्रत्यभाषत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010674,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पलितं वहमानमिति । 'ताच्छील्यवयोवचनशक्तिषु चानश्' (पा.३|२|१२९) इति वयोवचने चानश् । जल्पमानमिति ताच्छील्ये । तस्करान् निघ्नान इति शक्तौ ॥"
+    }
+  ]
+}

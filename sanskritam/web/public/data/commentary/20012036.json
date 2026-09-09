@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012036,
+    "chapter_id": 6688,
+    "verse_number": "16.43",
+    "content_sanskrit": "पार्थ वृश्च्या द्विषामाशा निगृह्यास्तास्स्वतेजसा । स्थेया नृपाणां मूर्ध्नि ज्या यज्ञैः पर्याप्तदक्षिणैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012036,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वृश्च्या निगृह्या इति ग्रहिज्यादिना (पा.६|१|१६) किति सम्प्रसारणम् । स्थेयाः घुमास्थादिना मेर्लिङीत्येत्वम् (पा.६|४|६७) ।"
+    }
+  ]
+}

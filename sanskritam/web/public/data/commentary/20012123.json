@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012123,
+    "chapter_id": 6688,
+    "verse_number": "16.130",
+    "content_sanskrit": "स्वसारं मुष्णते कृष्ण किं मे त्वमपि कुप्यसि । चौर्येणैव न शौर्येण गृहीता येन रुक्मिणी ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 130,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012123,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "न स नाहञ्चोरः । किन्तु शूर एवार्जुनभङ्गादिचञ्चुरित्यत्राह—"
+    }
+  ]
+}

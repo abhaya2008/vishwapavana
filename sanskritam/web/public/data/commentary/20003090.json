@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003090,
+    "chapter_id": 6588,
+    "verse_number": "12.24",
+    "content_sanskrit": "रामस्त्वासन्नदेशत्वाद्भरतागमनं पुनः । आशङ्क्योत्सुकसारङ्गां चित्रकूटस्थलीं जहौ ॥",
+    "padaccheda": "रामः । तु । आसन्नदेशत्वात् । भरतागमनम् । पुनः । आशङ्क्य । उत्सुकसारङ्गाम् । चित्रकूटस्थलीम् । जहौ",
+    "anvaya": "रामः तु आसन्न-देशत्वात् पुनः भरत-आगमनम् आशङ्क्य उत्सुक-सारङ्गाम् चित्रकूट-स्थलीम् जहौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "But Rama, fearing the arrival of Bharata again due to the proximity of the location, left the grounds of Chitrakuta, where the deer had become anxious.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003090,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राम इति॥ रामस्त्वासन्नदेशत्वाद्धेतोः पुनर्भरतागमनमाशङ्क्योत्सुकसारङ्गामुत्कण्ठितहरिणां चित्रकूटस्थलीं जहौ तत्याज। आसन्नश्चासौ देशश्चेति विग्रहः ॥"
+    }
+  ]
+}

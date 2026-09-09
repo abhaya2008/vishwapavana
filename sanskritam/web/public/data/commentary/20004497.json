@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004497,
+    "chapter_id": 6607,
+    "verse_number": "12.4",
+    "content_sanskrit": "इतस्ततोऽथ प्रतिबिम्बभाजं विलोकमानः स्फटिकाद्रिभूमौ । आत्मानमप्येकमनेकधा स व्रजन्विभोरास्पदमाससाद ॥",
+    "padaccheda": "इतस्ततः । अथ । प्रतिबिम्बभाजम् । विलोकमानः । स्फटिकाद्रिभूमौ । आत्मानम् । अपि । एकम् । अनेकधा । सः । व्रजन् । विभोः । आस्पदम् । आससाद",
+    "anvaya": "अथ सः स्फटिकाद्रिभूमौ इतस्ततः प्रतिबिम्बभाजम् एकम् आत्मानम् अपि अनेकधा विलोकमानः व्रजन विभोः आस्पदम् आससाद।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As he walked, Indra saw his single self reflected many times in the crystal ground of the mountain. Observing himself thus multiplied, he reached the residence of the Lord Śiva.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004497,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतस्तत इति । अथानन्तरं व्रजन्गच्छन्स इन्द्रः स्फटिकाद्रिः कैलासस्तस्य भूमौ पृथिव्यामितस्ततौ यत्र तत्र प्रतिबिम्बभाजं प्रतिबिम्बितमेकमप्यात्मानं शरीरमनेकसंख्यं विलोकमानः पश्यन्सन् । विभोर्महेश्वरस्यास्पदं स्थानमाससाद"
+    }
+  ]
+}

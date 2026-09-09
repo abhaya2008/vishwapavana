@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012076,
+    "chapter_id": 6688,
+    "verse_number": "16.83",
+    "content_sanskrit": "आर्ये किमेतत्करवाण्युतेदं पृष्ट्वेति कुन्तीं कुरु यत्तयोक्तम् । सती हि नारीविनयेन जेत्री स्सतीस्सपत्नी र्न विपर्ययेण ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012076,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "करवाणीति संप्रश्ने लोट् (पा.३|३|१६१) । मेर्निः (पा.३|४|८९) । आडुत्तमस्य पिच्च (पा.३|४|९२) ॥"
+    }
+  ]
+}

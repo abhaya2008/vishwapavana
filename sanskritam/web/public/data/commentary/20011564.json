@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011564,
+    "chapter_id": 6684,
+    "verse_number": "12.16",
+    "content_sanskrit": "समवर्धिषतैकस्याश्वासा धृतस्तनांशुकाः । समैधिषत कस्याश्चिन्मुखेन्दौ स्वेदविन्दवः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011564,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "समवर्धिषत समैधिषतेति । वृधु वृद्धौ । एध वृद्धौ उदात्तानुदात्तेतौ । एधते'राडजादीना'मित्याट् (पा.६|४|७२) । 'आटश्चे'ति (पा.६|१|९०) वृद्धिः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011318,
+    "chapter_id": 6681,
+    "verse_number": "9.70",
+    "content_sanskrit": "क्रमेण रूढविस्रंभा कान्तसात्कृतविग्रहा । सालिलिङ्ग स्वयं कान्तं निरन्तरपयोधरा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011318,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कान्तसात्कृतविग्रहेति । कान्ताधीनीकृतविग्रहा । 'तदधीनबचने' इति (पा.५|४|५४) सातिः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002901,
+    "chapter_id": 6586,
+    "verse_number": "10.14",
+    "content_sanskrit": "योगनिद्रान्तविशदैः पावनैरवलोकनैः । भृग्वादीननुगृह्णन्तं सौखशायनिकानृषीन् ॥",
+    "padaccheda": "योगनिद्रान्तविशदैः । पावनैः । अवलोकनैः । भृग्वादीन् । अनुगृह्णन्तं । सौखशायनिकान् । ऋषीन्",
+    "anvaya": "योग-निद्रा-अन्त-विशदैः पावनैः अवलोकनैः सौखशायनिकान् भृगु-आदीन् ऋषीन् अनुगृह्णन्तम् (तम् ददृशुः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They saw him favoring the sages led by Bhrigu, who had come to inquire about his well-being after his yogic sleep, with his purifying glances that were clear and bright at the end of his meditation.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002901,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "योगेति॥ योगो मनसो विषयान्तरव्यावृत्तिः, तद्रूपा या निद्रा तस्या अन्तेऽवसाने विशदैः प्रसन्नैः पावनैः शोधनैरवलोकनैः। सुखशयनं पृच्छन्तीति सौखशायनिकास्तान्। `पृच्छतौ सुस्नातादिभअयः`(वा.2943)इत्युपसंख्यानाटुक्प्रत्ययः। भृग्वादीनृषीननुगृह्णन्तम् ॥"
+    }
+  ]
+}

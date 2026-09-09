@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003556,
+    "chapter_id": 6593,
+    "verse_number": "17.29",
+    "content_sanskrit": "शुशुभे तेन चाक्रान्तं मङ्गलायतनं महत् । श्रीवत्सलक्षणं वक्षः कौस्तुभेनेव कैशवम् ॥",
+    "padaccheda": "शुशुभे । तेन । च । आक्रान्तम् । मङ्गलायतनम् । महत् । श्रीवत्सलक्षणम् । वक्षः । कौस्तुभेन । इव । कैशवम्",
+    "anvaya": "तेन आक्रान्तम् महत् मङ्गलायतनम् (आसनम्), कौस्तुभेन (आक्रान्तम्) श्रीवत्सलक्षणम् कैशवम् वक्षः इव, शुशुभे च।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And that great, auspicious throne, occupied by him, shone like the chest of Vishnu, which is marked with the Srivatsa symbol and adorned by the Kaustubha gem.",
+    "audio_url": null,
+    "display_order": 29,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003556,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शुशुभ इति॥ तेन चाक्रान्तं। श्रीवत्सो नाम गृहविशेषः तल्लक्षणं श्रीवत्सरूपम्। `श्रीवत्सनन्द्यावर्तादिविच्छेदा बहवो द्वयोः` इति सज्जनः। महदधिकं मङ्गलायतनं मङ्गलगृहं सभारूपम्। कौस्तुभेन मणिनाऽऽक्रान्तं श्रीवत्सलक्षणम्। केशवस्येदं कैशवम्। वक्ष इव शुशुभे ॥"
+    }
+  ]
+}

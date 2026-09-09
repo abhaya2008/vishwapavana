@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004752,
+    "chapter_id": 6611,
+    "verse_number": "16.44",
+    "content_sanskrit": "भल्लेन शितधारेण भिन्नोऽपि रिपुणाश्वगः । नामूर्च्छत्कोपतो हन्तुमियेष प्रपतन्नपि ॥",
+    "padaccheda": "भल्लेन । शितधारेण । भिन्नः । अपि । रिपुणा । अश्वगः । न । अमूर्च्छत् । कोपतः । हन्तुम् । इयेष । प्रपतन् । अपि",
+    "anvaya": "शित-धारेण भल्लेन रिपुणा भिन्नः अपि अश्वगः कोपतः हन्तुम् इयेष प्रपतन् अपि न अमूर्च्छत्",
+    "meaning_sanskrit": "",
+    "meaning_english": "A horseman, though pierced by a sharp-edged arrow from the enemy, did not lose consciousness. Driven by intense rage, he still desired to kill his opponent even as he was falling from his horse.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004752,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भल्लेनेति । रिपुणा कर्त्रा । शितधारेण तीक्ष्णधारेण भल्लेन भिन्नोऽपि विदारितोऽप्यश्वगस्तुरङ्गगामी कोपतः क्रोधवशान्नामूर्च्छन्न मुह्यति स्म । किन्तु प्रपतन्नप्यश्वादधः स्त्रंसमानोऽपि रिपुं हन्तुमियेषैच्छत्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011015,
+    "chapter_id": 6679,
+    "verse_number": "7.25",
+    "content_sanskrit": "हितं प्रोवाच सर्वज्ञो यथाविध्यर्चितस्स तम् । वक्ति सूक्तमपृष्टो यस्तद्धि स्नेहस्य लक्षणम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011015,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "किमित्यपृष्टा हितमुवाच इत्यत्राह—वक्तीत्यादि । यदिदमपृष्टेन हितस्य वचनं एतदेव वत्सलानां शोभत इत्यर्थः ॥"
+    }
+  ]
+}

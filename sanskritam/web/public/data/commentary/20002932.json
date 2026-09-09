@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002932,
+    "chapter_id": 6586,
+    "verse_number": "10.45",
+    "content_sanskrit": "अचिराद्यज्वभिर्भागं कल्पितं विधइवत्पुनः । मायाविभिरनालीढमादास्यध्वे निशाचरैः ॥",
+    "padaccheda": "अचिरात् । यज्वभिः । भागम् । कल्पितम् । विधिवत् । पुनः । मायाविभिः । अनालीढम् । आदास्यध्वे । निशाचरैः",
+    "anvaya": "अचिरात् पुनः यज्वभिः विधिवत् कल्पितं, मायाविभिः निशाचरैः अनालीढं भागम् (यूयम्) आदास्यध्वे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Soon, you (gods) will again receive your share of the sacrifices, allotted according to the rules by the performers of sacrifices, a share untouched by the deceitful night-wanderers (Rakshasas).",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002932,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अचिरादिति॥ हे देवाः! यज्वभिर्याज्ञिकैर्विधिवत् कल्पितमुपहृतं भागं हवि र्भागं मायाविभिर्मायावद्भिः। `अस्मायामेधास्रजो विनिः` (पा.5।2।121)इति विनिप्रत्ययः। निशाचरै रक्षोभिरनालीढमनास्वादितं यथा तथाऽचिरात् पुनरादास्यध्वे ग्रहीष्यध्वे ॥"
+    }
+  ]
+}

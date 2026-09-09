@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010837,
+    "chapter_id": 6677,
+    "verse_number": "5.77",
+    "content_sanskrit": "वर्णाश्रमाश्रया शेषधर्मस्थापनया यशः । बहुवित्तप्रदाभिश्च लभध्वेकच्चिदुज्वलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010837,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रदाभिरिति । ‘आतश्चोपसर्गे’ (पा.३|३|१०६) इत्यङ् । स्थापनया इति ‘ण्यासश्रन्थो युच्’ (पा.३|३|१०७) इति ण्यन्ताद्युच् । ‘णेरनिटि’ (पा.६|४|५१) इति णिलोपः ॥"
+    }
+  ]
+}

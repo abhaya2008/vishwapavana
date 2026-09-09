@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002786,
+    "chapter_id": 6584,
+    "verse_number": "8.76",
+    "content_sanskrit": "असमाप्तविधिर्यतो मुनिस्तव विद्वानपि तापकारणम् । न भवन्तमुपस्थितः स्वयं प्रकृतौ स्थापयितुं पथश्च्युतम् ॥",
+    "padaccheda": "असमाप्तविधिः । यतः । मुनिः । तव । विद्वान् । अपि । तापकारणम् । न । भवन्तम् । उपस्थितः । स्वयम् । प्रकृतौ । स्थापयितुम् । पथः । च्युतम्",
+    "anvaya": "यतः मुनिः असमाप्तविधिः, (अतः) तव तापकारणम् विद्वान् अपि, पथः च्युतम् भवन्तम् प्रकृतौ स्थापयितुम् स्वयम् न उपस्थितः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Because the sage (Vashistha) has not yet completed his sacrificial rites, he has not come himself to restore you, who have strayed from the path, to your natural state, even though he knows the cause of your sorrow.\"",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002786,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "असमाप्तेति॥ यतो हेतोर्मुनिरसमाप्तविधिरसमाप्तक्रतुस्ततस्तव तापकारणं दुःखहेतुं कलत्रनाशरूपं विद्वाञ्जानन्निपि । `विदेः शतुर्वसुः` (पा.7।1।36) इति वस्वादेशः। `न लोक-` (पा.2।3।69)इत्यादिना षष्ठीप्रतिषेधः। पथश्च्युतं स्वभावाद्भ्रष्टं भवन्तं प्रकृतौ स्वभावे स्थापयितुम्। समाश्वासयितुमित्यर्थः। स्वयं नोपस्थितो नागतः ॥"
+    }
+  ]
+}

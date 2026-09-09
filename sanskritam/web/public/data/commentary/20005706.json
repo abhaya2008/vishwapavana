@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005706,
+    "chapter_id": 6628,
+    "verse_number": "16.28",
+    "content_sanskrit": "गुरुस्थिराण्युत्तमवंशजत्वाद्विज्ञातसाराण्यनुशीलनेन । केचित्समाश्रित्य गुणान्वितानि सुहृत्कुलानीव धनूंषि तस्थुः ॥",
+    "padaccheda": "गुरुस्थिराणि । उत्तमवंशजत्वात् । विज्ञातसाराणि । अनुशीलनेन । केचित् । समाश्रित्य । गुणान्वितानि । सुहृत्कुलानि । इव । धनूंषि । तस्थुः",
+    "anvaya": "केचित् उत्तमवंशजत्वात् गुरुस्थिराणि, अनुशीलनेन विज्ञातसाराणि, गुणान्वितानि धनूंषि, सुहृत्कुलानि इव, समाश्रित्य तस्थुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Some of the Ganas, before succumbing to sleep, stood leaning on their bows—which were heavy and firm from being made of excellent bamboo, their strength known through practice, and endowed with strings—as if leaning on families of good friends endowed with virtues.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005706,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "गुर्वीति॥ केचिदुत्तमवंशजत्वाद्वंशो वेणुः कुलं च।`वंशो वेणौ कुले च` इति विश्वः। गुरूणि महान्ति स्थिराणि दृढानि च गुरुस्थिराण्यनुशीलनेन परिचयबलेन विज्ञातः सारो बलं येषां तानि गुणैर्मौर्वीभिः शौर्यादिभिश्चान्वितानि धनूंषि सुहृत्कुलानि मित्रकुलानीव समाश्रित्य तस्थुः । धनूंष्यवष्टभ्य निदध्युरित्यर्थः॥"
+    }
+  ]
+}

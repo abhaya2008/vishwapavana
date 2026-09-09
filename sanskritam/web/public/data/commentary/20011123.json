@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011123,
+    "chapter_id": 6680,
+    "verse_number": "8.9",
+    "content_sanskrit": "अकृत्रिमप्रजास्नेहः कच्चिद्राजा युधिष्ठिरः? आक्षद्यूतिकमुख्यैर्न व्यसनै'रभिभूयते? ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011123,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अक्षद्यूतेन निर्वृत्तं व्यसनमाक्षद्यूतिकम् । 'निर्वृत्तेऽक्षद्यूतादिभ्य इति (पा.४|४|१९) ठक्' ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012094,
+    "chapter_id": 6688,
+    "verse_number": "16.101",
+    "content_sanskrit": "इयं मया त्वत्करसात्कृता तां स्तनन्धयीं पालय पार्थ दीर्घम् । पिता च माता च सुहृच्च दासस्सर्वस्वमस्या यदि वा त्वमेव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012094,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "त्वत्करसात्कृतेति । त्वत्कराधीना कृतेत्यर्थः । 'तदधीनवचने' (पा.५|४|५४) सातिः ॥"
+    }
+  ]
+}

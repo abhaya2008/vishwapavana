@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002994,
+    "chapter_id": 6587,
+    "verse_number": "11.21",
+    "content_sanskrit": "नैर्ऋतघ्नमथ मन्त्रवन्मुनेः प्रापदस्त्रमवदानतोषितात् । ज्योतिरिन्धननिपाति भास्करात्सूर्यकान्त इव ताडकान्तकः ॥",
+    "padaccheda": "नैर्ऋतघ्नम् । अथ । मन्त्रवत् । मुनेः । प्रापत् । अस्त्रम् । अवदानतोषितात् । ज्योतिः । इन्धननिपाति । भास्करात् । सूर्यकान्तः । इव । ताडकान्तकः",
+    "anvaya": "अथ ताडका-अन्तकः अवदान-तोषितात् मुनेः नैर्ऋत-घ्नम् मन्त्रवत् अस्त्रम् प्रापत्, इव सूर्यकान्तः भास्करात् इन्धन-निपाति ज्योतिः (प्रापत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, from the sage (Vishvamitra), who was pleased by his heroic deed, the slayer of Tataka (Rama) obtained demon-slaying weapons accompanied by mantras, just as a sunstone receives from the sun a fire-igniting light that falls upon fuel.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002994,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नैर्ऋतेति॥ अथानन्तरं ताडकान्तको रामः। अवदानं पराक्रमः। `पराक्रमोऽवदानं स्यात्` इति भागुरिः। तेन तोषितान्मुनेः। नैर्ऋतान्राक्षसान्तीति नैर्ऋतघ्नम्। `अमनुष्यकर्तृके च` (पा.3।2।53)इति टक्। मन्त्रवन्मन्त्रयुक्तमस्त्रम्। सूर्यकान्तो मणिविशेषो भास्करादिन्धनानि निपातयतीतीन्धननिपाति काष्ठदाहकं ज्योतिरिव। प्रापत् प्राप्तवान् ॥"
+    }
+  ]
+}

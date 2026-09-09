@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165905,
+    "chapter_id": 7068,
+    "verse_number": "16.21",
+    "content_sanskrit": "अमर्षो मे परः सीतां राघवः कामयिष्यते । च्युत-राज्यात्सुखं तस्मात्किं किलाऽसाववाप्स्यति ॥",
+    "padaccheda": "राघवः । सीताम् । कामयिष्यते । मे । परः । अमर्षः । च्युत-राज्यात् । तस्मात् । असौ । किम् । किल । सुखम् । अवाप्स्यति",
+    "anvaya": "राघवः सीताम् कामयिष्यते, मे परः अमर्षः। च्युत-राज्यात् तस्मात् असौ किम् किला सुखम् अवाप्स्यति?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāvaṇa expresses his profound indignation that Rāghava desires Sītā. He mockingly questions what happiness that prince, who has fallen from his kingdom, could possibly obtain from her.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165905,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अमर्ष इत्यादि - अमर्पः क्रोधः पर उत्कृष्टः मम यद्राघवः सीतां कामयि- प्यते । कर्मणि लुट् । तदन्तात्, अनवक्लृत्यमर्षयोरकिंवृत्तेपि (पा.३|३|१४५) इति अमर्पे क्रोधे लट् । अन्यच्च च्युतराज्यात्तस्मात् रामादसौ सीता किं किल नाम सुखमवाप्स्यति तन्न सम्भावयामि । किंकिलास्त्यर्थेषु ऌट् (पा.३|३|१४६) इति अनवक्लृप्तावसंभावनायां लट् ॥"
+    }
+  ]
+}

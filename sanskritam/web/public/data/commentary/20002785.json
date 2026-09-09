@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002785,
+    "chapter_id": 6584,
+    "verse_number": "8.75",
+    "content_sanskrit": "अथ तं सवनाय दीक्षितः प्रणिधानाद्गुरुराश्रमस्थितः । अभिषङ्गजडं विजज्ञिवानिति शिष्येण किलान्वबोधयत् ॥",
+    "padaccheda": "अथ । तम् । सवनाय । दीक्षितः । प्रणिधानात् । गुरुः । आश्रमस्थितः । अभिषङ्गजडम् । विजज्ञिवान् । इति । शिष्येण । किल । अन्वबोधयत्",
+    "anvaya": "अथ आश्रमस्थितः सवनाय दीक्षितः गुरुः प्रणिधानात् तम् अभिषङ्गजडम् विजज्ञिवान्, इति शिष्येण किल अन्वबोधयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Then, his guru (Vashistha), who was residing in the hermitage and consecrated for a sacrifice, came to know through his meditative power that Aja was stupefied by grief. He reportedly sent a message through a disciple.\"",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002785,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ सवनाय यागाय दीक्षितो गुरुर्वसिष्ठ आश्रमे स्वकीयाश्रमे स्थितः सन्। तमजमभिषङ्गजडं दुःखमोहितं प्रणिधानाञ्चित्तैकाग्र्याद्विजज्ञिवाञ्ज्ञातवान्। `क्वसुश्च` (पा.3।2।107) इति क्वसुप्रत्ययः। इति वक्ष्यमाणप्रकारेण शिष्येणान्वबोधयत्किल। बुधेर्ण्यन्ताण्णिचि लङ् ॥"
+    }
+  ]
+}

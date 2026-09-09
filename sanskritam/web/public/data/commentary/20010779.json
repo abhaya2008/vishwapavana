@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010779,
+    "chapter_id": 6677,
+    "verse_number": "5.19",
+    "content_sanskrit": "उर्वश्यादिद्युवेश्यानामुपशायफलन्तपः । तन्वद्भिरग्निसंकाशैर्मण्डितं मुनिभिः क्वचित् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010779,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उपशायेति पूर्ववत् घञ् ॥"
+    }
+  ]
+}

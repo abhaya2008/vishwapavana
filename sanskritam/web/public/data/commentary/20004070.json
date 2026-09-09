@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004070,
+    "chapter_id": 6601,
+    "verse_number": "6.20",
+    "content_sanskrit": "त्वत्संभावितमात्मानं बहु मन्यामहे वयम् । प्रायः प्रत्ययमाधत्ते स्वगुणेषूत्तमादरः ॥",
+    "padaccheda": "त्वत्संभावितम् । आत्मानम् । बहु । मन्यामहे । वयम् । प्रायः । प्रत्ययम् । आधत्ते । स्वगुणेषु । उत्तमादरः",
+    "anvaya": "वयम् त्वत्-संभावितम् आत्मानम् बहु मन्यामहे । प्रायः उत्तम-आदरः स्व-गुणेषु प्रत्ययम् आधत्ते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "We consider ourselves highly, having been honored by you. Generally, respect from a superior person produces confidence in one's own qualities.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004070,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त्वदिति । वयं त्वया सम्भावितं सत्कृतं त्वत्संभावितमात्मानमात्मस्वरुपं बह्वधिकं यथा तथा मन्यामहे । तथाहि । उत्तमादरः सत्पुरुषकर्तृकः सत्कारः स्वगुणेषु विषये प्रायेण भूम्ना प्रत्ययं विश्वासमाधत्ते जनयति । सर्वस्यापि महाजनपरिग्रह एव पूज्यताहेतुरित्यर्थः"
+    }
+  ]
+}

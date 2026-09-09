@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004306,
+    "chapter_id": 6603,
+    "verse_number": "8.66",
+    "content_sanskrit": "उन्नतेषु शशिनः प्रभा स्थिता निम्नसंश्रयपरं निशातमः । नूनमात्मसदृशी प्रकल्पिता वेधसेह गुणदोषयोर्गतिः ॥",
+    "padaccheda": "उन्नतेषु । शशिनः । प्रभा । स्थिता । निम्नसंश्रयपरम् । निशातमः । नूनम् । आत्मसदृशी । प्रकल्पिता । वेधसा । इह । गुणदोषयोः । गतिः",
+    "anvaya": "शशिनः प्रभा उन्नतेषु स्थिता, निशातमः निम्नसंश्रयपरम् अस्ति। नूनम् इह वेधसा गुणदोषयोः गतिः आत्मसदृशी प्रकल्पिता।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The light of the moon rests on high places, while the darkness of the night is intent on seeking low places. Surely, the Creator has ordained here that the course of virtues and faults should go to their likes.",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004306,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उन्नतेष्विति । शशिनः प्रभा चन्द्रिकोन्नतेष्वद्रिशृङ्गादिषु स्थिता । निशातमस्तु निम्नसंश्रयपरं गर्तादिनीचस्थानप्रवणम् । तथाहि । वेधसा गुणदोषयोरात्मसदृशी स्वभावानुरुपा गतिः प्रवृत्तिः प्रकल्पितैव ननु । तेजस्विन उन्नमन्ति मलिनास्तु नीचन्तीति भावः"
+    }
+  ]
+}

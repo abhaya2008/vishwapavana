@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003568,
+    "chapter_id": 6593,
+    "verse_number": "17.41",
+    "content_sanskrit": "प्रजास्तद्गुरुणा नद्यो नभसेव विवर्धिताः । तस्मिंस्तु भूयसीं वृद्धिं नभस्ये ता इवाययुः ॥",
+    "padaccheda": "प्रजाः । तत्गुरुणा । नद्यः । नभसा । इव । विवर्धिताः । तस्मिन् । तु । भूयसीम् । वृद्धिम् । नभस्ये । ताः । इव । आययुः",
+    "anvaya": "तत्गुरुणा विवर्धिताः प्रजाः, नभसा विवर्धिताः नद्यः इव, तस्मिन् (राजनि सति) तु नभस्ये ताः इव भूयसीम् वृद्धिम् आययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The subjects, who had been made to prosper by his father, now under his rule attained even greater prosperity, just as rivers, swollen by the rainy month of Shravana (Nabhas), swell even more in the month of Bhadrapada (Nabhasya).",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003568,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रजा इति॥ प्रजास्तस्यातिथेर्गुरुणा पित्रा कुशेन। नभसा श्रावणमासेन नद्य इव। विवर्धिताः तस्मिन्नतिथौ तु नभस्ये भाद्रपदे मासे ता इव नद्य इव भूयसीं वृद्धिमभ्युदयमाययुः। प्रजापौषणेन पितरमतिशयितवानित्यर्थः ॥"
+    }
+  ]
+}

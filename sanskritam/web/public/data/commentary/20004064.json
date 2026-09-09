@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004064,
+    "chapter_id": 6601,
+    "verse_number": "6.14",
+    "content_sanskrit": "धर्मेणापि पदं शर्वे कारिते पार्वतीं प्रति । पूर्वापराधभीतस्य कामस्योच्छ्वासितं मनः ॥",
+    "padaccheda": "धर्मेण । अपि । पदम् । शर्वे । कारिते । पार्वतीम् । प्रति । पूर्वापराधभीतस्य । कामस्य । उच्छ्वासितम् । मनः",
+    "anvaya": "शर्वे पार्वतीम् प्रति धर्मेण अपि पदम् कारिते (सति), पूर्व-अपराध-भीतस्य कामस्य मनः उच्छ्वासितम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When Shiva was made to take a step towards Parvati, even if through righteousness, the mind of Kama, who was fearful due to his previous offense, was revived and breathed a sigh of relief.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004064,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "धर्मेणेति । धर्मेण दारसंजिवृक्षालक्षणेनापि कर्त्रा । शर्वे ईश्वरे पार्वतीं प्रति पदं कारिते सति । `हृक्रोरन्यतरस्याम्` (पा.1|4|53) इति शर्वस्याणिकर्तुः कर्मत्वम् । पूर्वापराधभीतस्य कामस्य मन उच्छ्वसितम् । पुनरुज्जीवनावकाशो भवतीति सप्रत्याशमभूदित्यर्थः"
+    }
+  ]
+}

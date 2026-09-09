@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002996,
+    "chapter_id": 6587,
+    "verse_number": "11.23",
+    "content_sanskrit": "आससाद मुनिरात्मनस्ततः शिष्यवर्गपरिकल्पितार्हणम् । बद्धपल्लवपुटाञ्जलिद्रुमं दर्शनोन्मुखमृगं तपोवनम् ॥",
+    "padaccheda": "आससाद । मुनिः । आत्मनः । ततः । शिष्यवर्गपरिकल्पितार्हणम् । बद्धपल्लवपुटाञ्जलिद्रुमं । दर्शनोन्मुखमृगं । तपोवनम्",
+    "anvaya": "ततः मुनिः आत्मनः शिष्य-वर्ग-परिकल्पित-अर्हणम्, बद्ध-पल्लव-पुट-अञ्जलि-द्रुमम्, दर्शन-उन्मुख-मृगम् तपः-वनम् आससाद।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the sage (Vishvamitra) reached his own penance grove, where worship had been prepared by his disciples, where the trees seemed to offer reverence with hands of folded leaf-buds, and where the deer were eager for his sight.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002996,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आससादेति॥ ततो मुनि। शिष्यवर्गेण परिकल्पिता सज्जिताऽर्हणा पूजासामग्री यस्मिंस्तत्तथोक्तम्। बद्धाः पल्लवपुटा एवाञ्जलयो यैस्ते तथाभूता द्रुमा यस्मिंस्तत्तथोक्तम्। दर्शनेन मुनिदर्शनेनोन्मुखा मृगा यस्मिंस्तत्तत्। आत्मनस्तपोवनमाससाद। एतेन विशेषणत्रयेणातिथिसत्कारताच्छील्यविनयशान्तयः सूचिताः ॥"
+    }
+  ]
+}

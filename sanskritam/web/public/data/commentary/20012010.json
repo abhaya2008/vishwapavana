@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012010,
+    "chapter_id": 6688,
+    "verse_number": "16.17",
+    "content_sanskrit": "गदया भीमसेनस्त्वं शरैरुग्रैर्धनञ्जयः । माद्रीसुतौ च खड्गाभ्यां नमयेयु'स्समान् नृपान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012010,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नमयेयुः नमयितुं शक्ता इत्यर्थः । \"शकि लिङ् चे\"ति (पा.३|३|१७२) लिङ् । समान् सर्वान् । न केवलं यूयमेव रिपून् विजेतुं शक्ताः । राजाऽपि प्रभवतीत्याह—"
+    }
+  ]
+}

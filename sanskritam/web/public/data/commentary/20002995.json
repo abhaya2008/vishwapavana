@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002995,
+    "chapter_id": 6587,
+    "verse_number": "11.22",
+    "content_sanskrit": "वामनाश्रमपदं ततः परं पावनं श्रुतमृषेरुपेयिवान् । उन्मनाः प्रथमजन्मचेष्टितान्यस्मरन्नपि बभूव राघवः ॥",
+    "padaccheda": "वामनाश्रमपदं । ततः । परं । पावनं । श्रुतम् । ऋषेः । उपेयिवान् । उन्मनाः । प्रथमजन्मचेष्टितानि । अस्मरन् । अपि । बभूव । राघवः",
+    "anvaya": "ततः परम् राघवः ऋषेः श्रुतम् पावनम् वामन-आश्रम-पदम् उपेयिवान्। (तत्र) उन्मनाः (सन्) प्रथम-जन्म-चेष्टितानि अस्मरन् अपि बभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Afterwards, Raghava reached the holy site of Vamana's hermitage, which he had heard of. There, though not consciously remembering the deeds of his previous birth (as Vamana), he became inexplicably agitated in mind.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002995,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वामनेति॥ ततः परं राघवः। ऋषेः कौशिकादाख्यातुः श्रुतं पावनं शोधनं वामनस्य स्वपूर्वावतारविशेषस्याश्रमपदमुपेयिवानुपगतः सन्। `उपेयिवाननाश्वाननूचानश्च` (पा.3।2।109) इति निपातः। प्रथमजन्मचिष्टितानि राम-वामनयोरैक्यात्स्मृतियोग्यान्यपि रामस्याज्ञानावतारत्वेन संस्कारदौर्बल्यादस्मरन्नपि। उन्मना उत्सुको बभूव ॥"
+    }
+  ]
+}

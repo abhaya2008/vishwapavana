@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005241,
+    "chapter_id": 6621,
+    "verse_number": "9.28",
+    "content_sanskrit": "प्रेरितः शशधरेण करौघः संहतान्यपि नुनोद तमांसि । क्षीरसिन्धुरिव मन्दरभिन्नः काननान्यविरलोच्चतरूणि ॥",
+    "padaccheda": "प्रेरितः । शशधरेण । करौघः । संहतानि । अपि । नुनोद । तमांसि । क्षीरसिन्धुः । इव । मन्दरभिन्नः । काननानि । अविरलोच्चतरूणि",
+    "anvaya": "शशधरेण प्रेरितः करौघः संहतानि तमांसि अपि, मन्दरभिन्नः क्षीरसिन्धुः इव, अविरलोच्चतरूणि काननानि नुनोद।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Sent forth by the moon, the flood of rays dispelled even the dense darkness, just as the milk ocean, when churned by the Mandara mountain, floods the forests with their dense and tall trees.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005241,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रेरित इति ॥ शशधरेण चन्द्रेण प्रेरितो विसृष्टः करौघ: संहतानि सान्द्राण्यपि तमांसि मन्दरेण मन्दराचलेन भिन्नो नुन्नः क्षीरसिन्धुरविरलाः सान्द्रा उच्चा उन्नताश्च तरवो येषु तानि काननानीव नुनोद दूरीचकार ॥"
+    }
+  ]
+}

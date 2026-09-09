@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010624,
+    "chapter_id": 6675,
+    "verse_number": "3.66",
+    "content_sanskrit": "पतीनां क्षेमकार्यश्च प्रियकार्यश्च योषितः । यत्र क्षेमंकरस्तासां पतयश्च प्रियंकराः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010624,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पतीनामिति । क्षेमकार्यः प्रियकार्य इति । 'क्षेमप्रियमद्रेऽण् च' (पा.३|२|४४) इत्यण् । क्षेमङ्करा प्रियङ्करा इति चकारात् खच् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005840,
+    "chapter_id": 6630,
+    "verse_number": "18.34",
+    "content_sanskrit": "आत्मलाभपरिणामनिरोधैर्भूतसंघ इव न त्वमुपेतः । तेन सर्वभुवनातिग लोके नोपमानमसि नाप्युपेमयः ॥",
+    "padaccheda": "आत्मलाभपरिणामनिरोधैः । भूतसंघः । इव । न । त्वम् । उपेतः । तेन । सर्वभुवनातिग । लोके । न । उपमानम् । असि । न । अपि । उपमेयः",
+    "anvaya": "सर्वभुवनातिग, त्वम् आत्मलाभपरिणामनिरोधैः उपेतः भूतसंघः इव न (असि) । तेन लोके (त्वम्) न उपमानम् असि, न अपि उपमेयः (असि) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "O one who transcends all worlds! Unlike the aggregate of beings, you are not subject to birth, change, and destruction. Therefore, in this world, you are neither a standard of comparison (upamāna) nor an object to be compared (upameya).",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005840,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "आत्मेति ॥ हे देव, त्वं भूतसंघ इव शरीरादिसंघात इव । आत्मलाभपरिणामनिरोधैर्जन्मजरामरणैरुपेतो युक्तो नासि । तेन कारणेन हे सर्वभुवनातिग सर्वलोकोत्तर, उपमीयतेऽनेनेत्युपमानं नासि । उपमीयते यत्तदुपमेयमपि नासि । न कश्चित्वादृशोऽस्ति। त्वमपि नान्यसदृशः । अनन्यसाधारणत्वादित्यर्थः । वृत्तमुक्तम् ॥"
+    }
+  ]
+}

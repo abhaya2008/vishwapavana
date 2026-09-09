@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003533,
+    "chapter_id": 6593,
+    "verse_number": "17.6",
+    "content_sanskrit": "तं स्वसा नागराजस्य कुमुदस्य कुमुद्वती । अन्वगात्कुमुदानन्दं शशाङ्कमिव कौमुदी ॥",
+    "padaccheda": "तम् । स्वसा । नागराजस्य । कुमुदस्य । कुमुद्वती । अन्वगात् । कुमुदानन्दम् । शशाङ्कम् । इव । कौमुदी",
+    "anvaya": "नागराजस्य कुमुदस्य स्वसा कुमुद्वती, कुमुद-आनन्दम् तम् अन्वगात्, कौमुदी शशाङ्कम् इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Kumudvati, the sister of Kumuda, the king of the Nagas, married him (Atithi), who was a delight to his people, just as the moonlight follows the moon.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003533,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ कुमुदस्य नाम नागराजस्य स्वसा कुमुद्वती कुशपत्नी कुमुदानन्दं शशङ्कं कौमुदी ज्योत्स्नेव। तं कुशमन्वगात्। कुशस्तु। कुः पृथ्वी तस्या मुत्प्रीतिः सैवानन्दो यस्येति कुमुदानन्दः। परानन्देन स्वयमानन्दतीत्यर्थः ॥"
+    }
+  ]
+}

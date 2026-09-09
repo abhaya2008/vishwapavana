@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010528,
+    "chapter_id": 6674,
+    "verse_number": "2.108",
+    "content_sanskrit": "गलितोदयरागेण रेजे सितकरेण दिक् । सुदतीव हसन्त्यैन्द्री संहतध्वान्तकुन्तला ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 108,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010528,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सुदतीवेति । वयसि दन्तस्य दतृ (पा.५|४|१४१) । उगितश्चेति (पा.४|१|६) ङीप् । तरुणीवेत्यर्थः ॥"
+    }
+  ]
+}

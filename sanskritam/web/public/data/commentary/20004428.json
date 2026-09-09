@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004428,
+    "chapter_id": 6605,
+    "verse_number": "10.45",
+    "content_sanskrit": "सुस्नातानां मुनीन्द्राणां बलिकर्मोचितैरलम् । बहिः पुष्पोत्करैः कीर्णतीरां दूर्वाक्षतान्वितैः ॥",
+    "padaccheda": "सुस्नातानाम् । मुनीन्द्राणाम् । बलिकर्मोचितैः । अलम् । बहिः । पुष्पोत्करैः । कीर्णतीराम् । दूर्वाक्षतान्वितैः",
+    "anvaya": "सुस्नातानां मुनीन्द्राणां बलिकर्मोचितैः दूर्वाक्षतान्वितैः पुष्पोत्करैः बहिः अलम् कीर्णतीराम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The river's banks were profusely strewn with heaps of flowers, Dūrvā grass, and sacred rice grains, all suitable for the ritual offerings performed by the great sages after their baths.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004428,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सुस्नातानामिति । सुस्नातानां मुनीन्द्राणां सप्तर्षीणां बलिकर्मणि पूजाविधावुचितानि योग्यानि तैः । यथा दूर्वाभिरक्षतैश्चान्वितैर्युक्तैः पुष्पोत्करैः कुसुमसमूहैर्बहिः कीर्णतोरां व्याप्तसैकताम् । `लाजाः पुंभूम्नि चाक्षताः' इत्यमरः । अलंशब्दोऽत्रात्यर्थवाचकः । स च कोर्णतीरामित्यतः प्रागन्वयितव्यः"
+    }
+  ]
+}

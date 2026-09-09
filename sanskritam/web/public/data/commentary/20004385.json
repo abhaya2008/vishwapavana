@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004385,
+    "chapter_id": 6605,
+    "verse_number": "10.2",
+    "content_sanskrit": "सहस्रेण दृशामीशो कुत्सिताङ्गं च सादरम् । दुर्दर्शनं ददर्शाग्निं धूम्रधूमितमण्डलम् ॥",
+    "padaccheda": "सहस्रेण । दृशाम् । ईशः । कुत्सिताङ्गम् । च । सादरम् । दुर्दर्शनम् । ददर्श । अग्निम् । धूम्रधूमितमण्डलम्",
+    "anvaya": "सहस्रेण दृशाम् ईशः कुत्सिताङ्गम् दुर्दर्शनम् धूम्रधूमितमण्डलम् अग्निम् सादरम् च ददर्श ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra, the lord with a thousand eyes, looked at Agni, who had a loathsome appearance, was difficult to behold, and was surrounded by a dark smoky aura.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004385,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सहेति । कुत्सिताङ्गमत एव दुर्दर्शनं धूम्रं धूम्रवर्णं धूमितं संजातधूमम् । तारकादित्वादितच् । मण्डलं यस्य तमग्निमीशो महेन्द्रो दृशां सहस्त्रेण सादरं यथा तथा ददर्श दृष्टवान्"
+    }
+  ]
+}

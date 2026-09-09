@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003259,
+    "chapter_id": 6590,
+    "verse_number": "14.10",
+    "content_sanskrit": "स मौलरक्षोहरिभिः सैसन्यस्तूर्यस्वनानन्दितपौरवर्गः । विवेश सौधोद्गतलाजवर्षामुत्तोरणामन्वयराजधानीम् ॥",
+    "padaccheda": "सः । मौललक्षोहरिभिः । ससैन्यः । तूर्यस्वनानन्दितपौरवर्गः । विवेश । सौधोद्गतलाजवर्षाम् । उत्तोरणाम् । अन्वयराजधानीम्",
+    "anvaya": "ससैन्यः, तूर्य-स्वन-आनन्दित-पौर-वर्गः सः (रामः) मौल-रक्षः-हरिभिः (सह) उत्-तोरणाम्, सौध-उद्गत-लाज-वर्षाम् अन्वय-राजधानीं विवेश।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Accompanied by his army and the chief Rakshasas and monkeys, Rama, delighting the citizens with the sound of musical instruments, entered his ancestral capital, Ayodhya, which was adorned with festive arches and showered with parched grain from its mansions.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003259,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स रामः ससैन्यस्तूर्यस्वनैरानन्दितपौरवर्गः सन्। मूले भवा मौला मन्त्रिवृद्धास्तै रक्षोभिर्हरिभिश्च सह सौधेभ्य उद्गतलाजवर्षामुत्तोरणामन्वयराजधानीमयोध्यां विवेश प्रविष्टवान् ॥"
+    }
+  ]
+}

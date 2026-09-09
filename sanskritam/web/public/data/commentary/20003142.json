@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003142,
+    "chapter_id": 6588,
+    "verse_number": "12.76",
+    "content_sanskrit": "गरुडापातविश्लिष्टमेघनादास्त्रबन्धनः । दाशरथ्योः क्षणक्लेशः स्वप्नवृत्त इवाभवत् ॥",
+    "padaccheda": "गरुडापातविश्लिष्टमेघनादास्त्रबन्धनः । दाशरथ्योः । क्षणक्लेशः । स्वप्नवृत्तः । इव । अभवत्",
+    "anvaya": "गरुडापातविश्लिष्टमेघनादास्त्रबन्धनः दाशरथ्योः क्षणक्लेशः स्वप्नवृत्त इव अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The binding of Meghanada's (Indrajit's) serpent-weapon was loosened by the arrival of Garuda. Consequently, the momentary distress of the two sons of Dasharatha (Rama and Lakshmana) became like an event that had occurred only in a dream.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003142,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गरुडेति॥ गरुडस्तार्क्ष्यः तस्यापातेनागमनेन विश्लिष्टं मेघनादस्येन्द्रजितोऽस्त्रेण नागपाशेन बन्धनं यस्मिन्स तथोक्तः क्षणक्लेषो दाशरथ्यो रामलक्ष्मणयोः स्वप्नवृत्तः स्वप्नावस्थानुभूत इवाभवत् ॥"
+    }
+  ]
+}

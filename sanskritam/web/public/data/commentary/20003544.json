@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003544,
+    "chapter_id": 6593,
+    "verse_number": "17.17",
+    "content_sanskrit": "स तावदभिषेकान्ते स्नातकेभ्यो ददौ वसु । यावतैषां समाप्येरन्यज्ञाः पर्याप्तदक्षिणाः ॥",
+    "padaccheda": "सः । तावत् । अभिषेकान्ते । स्नातकेभ्यः । ददौ । वसु । यावता । एषाम् । समाप्येरन् । यज्ञाः । पर्याप्तदक्षिणाः",
+    "anvaya": "अभिषेक-अन्ते सः स्नातकेभ्यः तावत् वसु ददौ, यावता एषाम् यज्ञाः पर्याप्त-दक्षिणाः (सन्तः) समाप्येरन्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At the end of his consecration, he gave that much wealth to the Snataka Brahmins by which their sacrifices could be completed with sufficient sacrificial fees.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003544,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ सोऽतिथइरभिषेकान्ते स्नातकेभ्यो गृहस्थेभ्यस्तावत्तावत्परिमाणं वसु धनं ददौ। यावता वसुना। एषां स्नातकानां पर्याप्ददक्षिणाः समग्रदक्षिणा यज्ञाः समाप्येरन्। तावद्ददावित्यन्वयः ॥"
+    }
+  ]
+}

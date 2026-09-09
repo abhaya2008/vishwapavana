@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003125,
+    "chapter_id": 6588,
+    "verse_number": "12.59",
+    "content_sanskrit": "इतस्ततश्च वैदेहीमन्वेष्टुं भर्तृचोदिताः । कपयश्चेरुरार्तस्य रामस्येव मनोरथाः ॥",
+    "padaccheda": "इतः । ततः । च । वैदेहीम् । अन्वेष्टुम् । भर्तृचोदिताः । कपयः । चेरुः । आर्तस्य । रामस्य । इव । मनोरथाः",
+    "anvaya": "भर्तृचोदिताः कपयः वैदेहीम् अन्वेष्टुम् आर्तस्य रामस्य मनोरथाः इव इतस्ततः च चेरुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Commanded by their king, the monkeys wandered in every direction to search for Sita, appearing like the many wandering thoughts and desires of the distressed Rama.",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003125,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतस्ततशअचेति॥ वैदेहीमन्वेष्टुं मार्गितुं भर्त्रा सुग्रीवेण चोदिताः प्रयुक्तः कपयो हनुमत्प्रमुखाः। आर्तस्य विरहातुरस्य रामस्य मनोरथाः कामा इव। इतस्ततशअचेरुर्नानादेशेषु बभ्रमुश्च ॥"
+    }
+  ]
+}

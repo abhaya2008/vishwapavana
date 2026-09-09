@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011458,
+    "chapter_id": 6683,
+    "verse_number": "11.35",
+    "content_sanskrit": "ऊर्ध्वं मुहूर्तादृत्व्यं गत्वा पश्यत चेद्धरिम् । नम्यं जगद्भिस्स्तुत्यञ्च नमथ स्तुथ चादरात् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011458,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्र पश्यथ चेदिति यो लट् सोऽप्यूर्ध्वमौहूर्तिके लोडर्थलक्षणे । [लिङ् चोर्ध्वमौहूर्तिके (पा.३|३|९)]"
+    }
+  ]
+}

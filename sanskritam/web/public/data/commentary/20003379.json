@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003379,
+    "chapter_id": 6591,
+    "verse_number": "15.43",
+    "content_sanskrit": "शोचनीयासि वसुधे! या त्वं दशरथाञ्युता । रामहस्तमनुप्राप्य कष्टात्कष्टतरं गता ॥",
+    "padaccheda": "शोचनीया । असि । वसुधे । या । त्वम् । दशरथात् । च्युता । रामहस्तम् । अनुप्राप्य । कष्टात् । कष्टतरम् । गता",
+    "anvaya": "वसुधे! या त्वम् दशरथात् च्युता सती रामहस्तम् अनुप्राप्य कष्टात् कष्टतरम् गता, सा त्वम् शोचनीया असि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The brahmin cried, \"O Earth! You are pitiable. Having been separated from Dasharatha, you have fallen into Rama's hands only to go from a bad situation to a worse one.\"",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003379,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शोचनीयेति॥ हे वसुधे! दशरथाञ्च्युता या त्वं रामहस्तमनुप्राप्य कष्टात्कष्टतरं गता सती शोचनीयाऽसि ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002483,
+    "chapter_id": 6581,
+    "verse_number": "5.6",
+    "content_sanskrit": "आधारबन्धप्रमुखैः प्रयत्नैः संवर्धितानां सुतनिर्विशेषम् । कञ्चिन्न वाय्वादिरुपप्लवो वः श्रमच्छिदामाश्रमपादपानाम् ॥",
+    "padaccheda": "आधारबन्धप्रमुखैः । प्रयत्नैः । संवर्धितानाम् । सुतनिर्विशेषम् । कञ्चित् । न । वाय्वादिरुपप्लवः । वः । श्रमच्छिदाम् । आश्रमपादपानाम्",
+    "anvaya": "आधारबन्धप्रमुखैः प्रयत्नैः सुतनिर्विशेषम् संवर्धितानाम्, वः श्रमच्छिदाम् आश्रमपादपानाम् वायु-आदिः उपप्लवः कञ्चित् न (अस्ति)?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"I hope there is no calamity, such as strong winds, affecting your hermitage trees, which remove fatigue and have been nurtured with efforts like building water basins, treating them no differently than sons?\"",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002483,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आधारेति॥ आधारबन्धप्रमुखैरालवालनिर्माणादिभिः प्रयत्नैरुपायैः। `आधार आलवालेऽम्बुबन्धेऽधिकरणेऽपि च` इति विश्वः। सुतेभ्यो निर्गतो विशेषोऽतिशयो यस्मिन्कर्मणि तत्तथा संवर्धितानां श्रमच्छिदां व आश्रमपादपानां वाय्वादिः। `आदि`शब्दाद्दावानलादिः। उपप्लवो बाधको न कञ्चिन्नास्ति किम्? ॥"
+    }
+  ]
+}

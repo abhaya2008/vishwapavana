@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002618,
+    "chapter_id": 6582,
+    "verse_number": "6.65",
+    "content_sanskrit": "इन्दीवरश्यामतनुनृपोऽसौ त्वं रोचनागौरशरीरयष्टिः । अन्योन्यशोभापरिवृद्धये वां योगस्तडित्तोयदयोरिवास्तु ॥",
+    "padaccheda": "इन्दीवरश्यामतनुः । नृपः । असौ । त्वम् । रोचनागौरशरीरयष्टिः । अन्योन्यशोभापरिवृद्धये । वाम् । योगः । तडित्तोयदयोः । इव । अस्तु",
+    "anvaya": "असौ नृपः इन्दीवर-श्याम-तनुः, त्वम् (च) रोचना-गौर-शरीर-यष्टिः (असि) । वाम् योगः तडित्-तोयदयोः इव अन्योन्य-शोभा-परिवृद्धये अस्तु ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"This king has a body dark as a blue lotus, and you have a slender form fair as the rochana pigment. May your union, like that of lightning and a rain-cloud, be for the enhancement of each other's beauty.\"",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002618,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इन्दीवरेति॥ असौ नृप इन्दीवरश्यामतनुः, त्वं रोजना गोरोचनेव गौरी शरीरयष्टिर्यस्याः सा। ततस्तडित्तोयदयोर्विद्युन्मेघयोरिव वां युवयोर्योगः समागमोऽन्योन्यशोभायाः परिवृद्धयेऽस्तु ॥"
+    }
+  ]
+}

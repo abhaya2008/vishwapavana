@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013359,
+    "chapter_id": 6700,
+    "verse_number": "8.25",
+    "content_sanskrit": "यासां स्तन्यं त्वया पीतं पासां जातोऽसि योनितः । तासु मूर्खतम स्त्रीषु पशुवद्रमसे कथम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013359,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "भगवानुवाच । यासां योषितां स्तन्यं स्तनभवं पयस्त्वया पीतं यासां च योनितो जातोऽसि तासु स्त्रीषु हे मूर्खतम पशुवत्कथं रमसे ॥ २५ ॥"
+    }
+  ]
+}

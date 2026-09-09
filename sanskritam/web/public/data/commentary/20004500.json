@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004500,
+    "chapter_id": 6607,
+    "verse_number": "12.7",
+    "content_sanskrit": "भ्रूसंज्ञयानेन कृताभ्यनुज्ञः सुरेश्वरं तं जगदीश्वरेण । प्रवेशयामास सुरैः पुरोगः समं स नन्दी सदनं सदस्य ॥",
+    "padaccheda": "भ्रूसंज्ञया । अनेन । कृताभ्यनुज्ञः । सुरेश्वरम् । तम् । जगदीश्वरेण । प्रवेशयामास । सुरैः । पुरोगः । समम् । सः । नन्दी । सदनम् । सदस्य",
+    "anvaya": "सः नन्दी अनेन भ्रूसंज्ञया कृताभ्यनुज्ञः पुरोगः सुरैः समम् तम् सुरेश्वरम् सदस्य जगदीश्वरेण सदनम् प्रवेशयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having received a command from Lord Śiva through a mere movement of his eyebrow, Nandin led the way and escorted Indra, along with the other gods, into the assembly hall of the Lord of the Universe.",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004500,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भ्रूसंज्ञयेति । अनेन जगतामीश्वरेण महेश्वरेण भ्रूसंज्ञया । भ्रूकुटीचमत्कृतिसंकेतेनेत्यर्थः । कृताभ्यनुज्ञः सुरेन्द्रागमनार्थं कृतानुशासनः स नन्दी गणः पुरोगोऽग्रगामी सन् । तं सुरेश्वरमिन्द्रं सच्छोभनमस्य महेश्वरस्य सदनं गृहं सुरैः समं प्रवेशयामास । प्रवेशितवानित्यर्थः"
+    }
+  ]
+}

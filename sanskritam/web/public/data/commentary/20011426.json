@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011426,
+    "chapter_id": 6683,
+    "verse_number": "11.3",
+    "content_sanskrit": "अनुष्णाशीतलस्पर्शैरपि शीतैरिवानिलैः । शीतांभःकणसंभिन्नैर्विलोलितमितस्ततः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011426,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वायुपृथिव्योरनुष्णलक्षणः स्पर्शः जलस्य शीतलक्षणः तेजस उष्णलक्षणः इति वैशेषिकप्रक्रियाऽनेन द्योत्यते। जलसंसर्गेणैव वायोश्शैत्यप्रतिभास इति भावः ॥"
+    }
+  ]
+}

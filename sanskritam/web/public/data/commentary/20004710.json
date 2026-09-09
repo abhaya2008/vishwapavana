@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004710,
+    "chapter_id": 6611,
+    "verse_number": "16.2",
+    "content_sanskrit": "पत्तिः पत्तिमभीयाय रणाय रथिनं रथी । तुरङ्गस्थं तुरड्गस्थो दन्तिस्थं दन्तिनि स्थितः ॥",
+    "padaccheda": "पत्तिः । पत्तिम् । अभीयाय । रणाय । रथिनम् । रथी । तुरङ्गस्थम् । तुरङ्गस्थः । दन्तिस्थम् । दन्तिनि । स्थितः",
+    "anvaya": "पत्तिः पत्तिम् अभीयाय रथी रणाय रथिनं तुरङ्गस्थः तुरङ्गस्थं दन्तिनि स्थितः दन्तिस्थम् (अभीयाय) ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The battle was fought between equals: foot soldiers charged at foot soldiers, charioteers engaged charioteers for combat, cavalrymen attacked cavalrymen, and those mounted on elephants sought out opponents similarly mounted on elephants.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004710,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पत्तिरिति । पत्तिः पादचारी पत्तिं पादचारिणम्, रथी रथारुढो रथिनं रथारुढम्, तुरङ्गस्थोऽश्ववाहस्तुरङ्गस्थमश्ववाहम्, दन्तिनि गजो स्थितो दन्तिस्थं गजारोहम्, रणाय रणं कर्तुमभीयाय संमुखमगमत् । अथ प्रत्येकगं क्रियासम्बन्धो विधेयः । अन्यथा वहुत्वप्रसङ्गः"
+    }
+  ]
+}

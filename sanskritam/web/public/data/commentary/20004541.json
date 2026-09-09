@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004541,
+    "chapter_id": 6607,
+    "verse_number": "12.48",
+    "content_sanskrit": "अहो ततोऽनन्तरमद्ययाव त्सुदुःसहां तस्य पराभवार्तिम् । विषेहिरे हन्त हृदन्तशल्यमाज्ञानिवेशं त्रिदिवौकसौऽमी ॥",
+    "padaccheda": "अहो । ततः । अनन्तरम् । अद्ययावत् । सुदुःसहाम् । तस्य । पराभवार्तिम् । विषेहिरे । हन्त । हृदन्तशल्यम् । आज्ञानिवेशम् । त्रिदिवौकसः । अमी",
+    "anvaya": "अहो ततः अनन्तरम् अद्ययावत् सुदुःसहाम् तस्य पराभवार्तिम् हृदन्तशल्यम् आज्ञानिवेशम् अमी त्रिदिवौकसः विषेहिरे हन्त।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra laments that from that time until today, the gods have been forced to endure the unbearable pain of defeat. They have suffered his commands like a painful thorn lodged deep within their hearts.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004541,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अहो इति । अहो भगवन्, ततः पितामहनिरुपणादनन्तरमद्यपर्यन्तममी त्रिदिवौकसो देवा सुदुःसहाम् । `ईषद्दुःसुषु-' इति खल् । तस्य तत्कर्तृकां पराभवेन निमित्तेनार्तिं पोडां हृदन्ते मनोमध्ये शल्यं तद्वद्दुःसहमाज्ञाया अनुशासनस्य `भारं वहत' इत्यादिकस्य निवेशं स्थापनं विषेहिरेऽसहन्त । हन्तेति दुःखे"
+    }
+  ]
+}

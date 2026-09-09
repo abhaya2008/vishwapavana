@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005758,
+    "chapter_id": 6629,
+    "verse_number": "17.16",
+    "content_sanskrit": "दृष्टावदानाद्व्यथतेऽरिलोकः प्रध्वंसमेति व्यथिताच्च तेजः । तेजोविहीनं विजहाति दर्पः शान्तार्चिषं दीपमिव प्रकाशः ॥",
+    "padaccheda": "दृष्टावदानात् । व्यथते । अरिलोकः । प्रध्वंसमेति । व्यथिताच्च । तेजः । तेजोविहीनं । विजहाति । दर्पः । शान्तार्चिषं । दीपमिव । प्रकाशः",
+    "anvaya": "दृष्टावदानात् अरिलोकः व्यथते, व्यथितात् च तेजः प्रध्वंसम् एति। दर्पः तेजोविहीनम् विजहाति, प्रकाशः शान्तार्चिषम् दीपम् इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The enemy world is distressed by seeing one's heroic deeds. From the distressed, valor perishes. Pride abandons the one devoid of valor, just as light abandons a lamp whose flame is extinguished.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005758,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दृष्टेति ॥ दृष्टमवदानं महत्कर्म यस्य तस्मादृष्टावदानाद्दृष्टपौरुषादरिलोकः शत्रुजनो  व्यथते बिभेति । व्यथिताद्भीतात्तेजः प्रध्वंसं नाशमेति । तेजोविहीनं दर्प उत्साहः शान्तार्चिषं निर्वाणज्वालं दीपं प्रकाश इव विजहाति त्यजति ।"
+    }
+  ]
+}

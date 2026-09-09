@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012023,
+    "chapter_id": 6688,
+    "verse_number": "16.30",
+    "content_sanskrit": "क्रियेत करदं कृत्स्नं ततो नृपतिमण्डलम् । यजेत राजसूयेन ततो राजा युधिष्ठिरः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012023,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्रियेतेति कर्मणि लिङ् पूर्ववत् । भावकर्मणोरिति (पा.१|३|१३) यगात्मनेपदे \"रिङ् शयग्लिङ्क्षु\" (पा.७|४|२८) ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003413,
+    "chapter_id": 6591,
+    "verse_number": "15.77",
+    "content_sanskrit": "काषायपरिवीतेन स्वपदार्पितचक्षुषा । अन्वमीयत शुद्धेति शान्तेन वपुषैव सा ॥",
+    "padaccheda": "काषायपरिवीतेन । स्वपदार्पितचक्षुषा । अन्वमीयत । शुद्धा । इति । शान्तेन । वपुषा । एव । सा",
+    "anvaya": "सा काषायपरिवीतेन स्वपदार्पितचक्षुषा शान्तेन वपुषा एव शुद्धा इति अन्वमीयत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "She (Sita) was inferred to be pure simply by her tranquil form, which was clad in ochre robes and had its gaze fixed on her own feet.",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003413,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "काषायेति॥ कषायेण रक्तं काषायम्। `तेन रक्तं रागात्` (पा.4।2।1) इत्यण्। तेन परिवीतेन संवृतेन स्वपदार्पितचक्षुषा शान्तेन प्रसन्नेन वपुषैव सा सीता शुद्धा साध्वीत्यन्वमीयतानुमिता ॥"
+    }
+  ]
+}

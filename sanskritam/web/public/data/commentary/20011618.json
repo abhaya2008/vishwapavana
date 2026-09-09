@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011618,
+    "chapter_id": 6684,
+    "verse_number": "12.70",
+    "content_sanskrit": "यौवनं व्यरराजत्तामाविर्मदनलाञ्छनम् । स्फुटपुष्पं वसन्तस्य मुखं नवलतामिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011618,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "व्यरराजदिति । राजृ दीप्तौ । ऋदित्वात् ह्रस्वाभावः ॥"
+    }
+  ]
+}

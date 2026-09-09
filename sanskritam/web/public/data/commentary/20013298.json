@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013298,
+    "chapter_id": 6699,
+    "verse_number": "7.84",
+    "content_sanskrit": "असारसंसारपयोधिमध्ये निमज्जतां सद्भिरुदारवृत्तैः । भवादृशैः संगतिरेव साध्या नान्यस्तदुत्तारविधावुपायः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013298,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "यतो भवादृशां संगतिरेव संसारादुद्धरणोपाय इत्याह । असारेति । तदुत्तारविधौ संसारोत्तरणविधौ । उपजातिवृत्तम् ॥ ८५ ॥"
+    }
+  ]
+}

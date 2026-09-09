@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002433,
+    "chapter_id": 6580,
+    "verse_number": "4.44",
+    "content_sanskrit": "ततो वेलातटेनैव फलवत्पूगमालिना । अगस्त्याचरितामाशामनाशास्यजयो ययौ ॥",
+    "padaccheda": "ततः । वेलातटेन । एव । फलवत्-पूगमालिना । अगस्त्य-आचरिताम् । आशाम् । अनाशास्यजयः । ययौ",
+    "anvaya": "ततः अनाशास्यजयः (रघुः) फलवत्-पूगमालिना वेलातटेन एव अगस्त्य-आचरिताम् आशाम् ययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, Raghu, whose victory was never in doubt, proceeded towards the southern direction, once traversed by the sage Agastya, traveling along the sea-shore lined with fruitful areca-nut trees.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002433,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति॥ ततः प्राचीविजयानन्तरं फलवत्पूगमालिना फलितक्रमुकश्रेणीमता। व्रीह्यादित्वादिनिप्रत्ययः। वेलायाः समुद्रकूलस्य तटेनोपान्तेनैवागस्त्येनाचरितामाशां दक्षिणां दिशमनाशास्यजयः। अयत्नसिद्धत्वादप्रार्थनीयजयः सन्। ययौ। `अगस्त्यो दक्षिणमाशामाश्रित्य नभसि स्थितः। वरुणस्यात्मजो योगी विन्धअय वातापिमर्दनः` इति ब्रह्मपुराणे ॥"
+    }
+  ]
+}

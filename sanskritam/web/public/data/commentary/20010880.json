@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010880,
+    "chapter_id": 6678,
+    "verse_number": "6.1",
+    "content_sanskrit": "स गङ्गाद्वारमासाद्य सहितस्तैर्महर्षिभिः । ददर्श हिमवत्पादात्पतन्तीममरापगाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010880,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रस्तुतां गङ्गां श्रोतृजनदुरितसञ्चयप्रलयाय कविः स्तौति—"
+    }
+  ]
+}

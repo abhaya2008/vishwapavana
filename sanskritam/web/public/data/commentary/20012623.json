@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012623,
+    "chapter_id": 6693,
+    "verse_number": "1.68",
+    "content_sanskrit": "सा सभा वदनैस्तेषां रोषपाटलकान्तिभिः । बभौ बालातपाताम्रैः सरसीव सरोरुहैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012623,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "सा सभा तेषां बुद्धानां वदनैर्मुखै रोषेण कोपेन पाटला श्वेतरक्ता कान्तिर्येषां तैर्ब- भौ चकाशे । बालातपेनाऽऽताम्रैरीषद्रक्तैः सरोरुहैः कमलैः सरसीव ॥ ६८ ॥"
+    }
+  ]
+}

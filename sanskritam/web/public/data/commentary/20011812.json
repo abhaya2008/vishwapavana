@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011812,
+    "chapter_id": 6686,
+    "verse_number": "14.36",
+    "content_sanskrit": "तदा सम्मोहयन् वृष्णीन्मायया मधुसूदनः । द्वीपे च द्वारकायाञ्च रेमे स रमणीजनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011812,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "द्वीपे च द्वारकायाञ्च इत्युभयत्रत्यं कर्मभरमुद्वहन् ॥ तदेवाह—"
+    }
+  ]
+}

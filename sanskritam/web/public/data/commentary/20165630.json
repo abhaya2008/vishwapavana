@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165630,
+    "chapter_id": 7065,
+    "verse_number": "13.42",
+    "content_sanskrit": "लङ्काऽऽलय-तुमुलाऽऽरव- सुभर-गभीरोरु-कुञ्ज-कन्दर-विवरम् । वीणा-रव-रस-सङ्गम- सुर-गण-संकुल-महा-तमाल-च्छायम् ॥",
+    "padaccheda": "लङ्का-आलय-तुमल-आरव-सुभर-गभीर-उरु-कुञ्ज-कन्दर-विवरम् । वीणा-रव-रस-सङ्गम-सुर-गण-संकुल-महा-तमाल-च्छायम्",
+    "anvaya": "लङ्का-आलय-तुमल-आरव-सुभर-गभीर-उरु-कुञ्ज-कन्दर-विवरम् वीणा-रव-रस-सङ्गम-सुर-गण-संकुल-महा-तमाल-च्छायम् (सुवेलम् आरूढम्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They ascended Suvela, whose deep and large caves and mountain-groves were filled with the tumultuous sounds from the city of Laṅkā, and whose dark tamāla shade was crowded with celestial beings enjoying the melodies of the lute.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165630,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "वीणा-रव-रस-सङ्गम- सुर- गण - संकुल- महा - तमाल- च्छायम् ॥ ३२ ॥ लङ्केत्यादि -लङ्कालयानां राक्षसानां यस्तुमुलो महानारवः तेन सुभराः परिपूर्णा: गभीरोरुकुआ गम्भीरमहागहनानि कन्दरविवराणि च यत्र सुवेले । वीणारवे यो रसस्तृष्णा तेन सङ्गमः समागमो येषां सुरगणानां ते च सुरग- णाश्चेति सः । तैः संकुला व्याप्ता महातमालच्छाया यत्रेति ॥"
+    }
+  ]
+}

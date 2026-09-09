@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003127,
+    "chapter_id": 6588,
+    "verse_number": "12.61",
+    "content_sanskrit": "दृष्टा विचिन्वता तेन लङ्कायां राक्षसीवृता । जानकी विषवल्लीभिः परीतेव महौषधिः ॥",
+    "padaccheda": "दृष्टा । विचिन्वता । तेन । लङ्कायाम् । राक्षसीवृता । जानकी । विषवल्लीभिः । परीता । इव । महौषधिः",
+    "anvaya": "तेन लङ्कायां विचिन्वता राक्षसीवृता जानकी विषवल्लीभिः परीता महौषधिः इव दृष्टा ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While searching in Lanka, Hanuman discovered Sita surrounded by demonesses, appearing like a potent medicinal herb enveloped by poisonous creepers.",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003127,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दृष्टेति॥ लङ्कायां रावणराजधान्यां विचिन्वता मृगयमाणेन तेन मारुतिना राक्षसीभिर्वृता जानकी। विषवल्लीभिः परीता परिवृता महौषधिः संजीविनीलतेव। दृष्टा ॥"
+    }
+  ]
+}

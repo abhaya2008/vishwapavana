@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014010,
+    "chapter_id": 6706,
+    "verse_number": "14.81",
+    "content_sanskrit": "अश्रौष्म संन्यासकृतं भवन्तं विप्रात्कुतश्चिद्गृहमागतान्नः । कालोऽत्यगात्ते बहुरद्य दैवा- त्तीर्थस्य हेतोर्गृहमागतस्त्वम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014010,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "कस्माच्चिद्देशान्नो गृहमागतत्कस्माच्चिद्विप्रादिति वा । इन्द्रवज्रा वृत्तम् ॥ ८१ ॥"
+    }
+  ]
+}

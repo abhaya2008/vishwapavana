@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003341,
+    "chapter_id": 6591,
+    "verse_number": "15.5",
+    "content_sanskrit": "ते रामाय वधोपायमाचख्युर्विबुधद्विषः । दुर्जयो लवणः शूली विशूलः प्रार्थ्यतामिति ॥",
+    "padaccheda": "ते । रामाय । वधोपायम् । आचख्युः । विबुधद्विषः । दुर्जयः । लवणः । शूली । विशूलः । प्रार्थ्यताम् । इति",
+    "anvaya": "ते विबुधद्विषः वध-उपायं रामाय आचख्युः इति - लवणः शूली सन् दुर्जयः, अतः सः विशूलः प्रार्थ्यताम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sages explained to Rama the strategy for killing the demon Lavana. They said, \"Lavana is invincible while he holds his trident. Therefore, he should be attacked when he is without it.\"",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003341,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति॥ ते मुनयो रामस्य विबुधद्विषः सुरारेर्लवणस्य वधोपायमाचखअयुः। लुनातीति लवणः। नन्द्यादित्वाल्ल्युः। तत्रैव निपातनाण्णत्वम्। लवणः शूली शूलवान् दुर्जयोऽजेयः। किंतु विशूलः शूलरहितः प्रार्थ्यतामभिगम्यताम्। `याञ्चायामभिमाने च प्रार्थना कथ्यते बुधैः` इति केशवः ॥"
+    }
+  ]
+}

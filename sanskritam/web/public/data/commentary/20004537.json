@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004537,
+    "chapter_id": 6607,
+    "verse_number": "12.44",
+    "content_sanskrit": "ज्ञानप्रदीपेन तमोपहेनाविनश्वरेणास्खलितप्रभेण । भूतं भवद्भावि च यच्च किञ्चित्सर्वज्ञ सर्वं तव गोचरं तत् ॥",
+    "padaccheda": "ज्ञानप्रदीपेन । तमोपहेन । अविनश्वरेण । अस्खलितप्रभेण । भूतम् । भवद्भावि । च । यत् । किञ्चित् । सर्वज्ञ । सर्वम् । तव । गोचरम् । तत्",
+    "anvaya": "हे सर्वज्ञ तमोपहेन अविनश्वरेण अस्खलितप्रभेण ज्ञानप्रदीपेन यत् किञ्चित् भूतम् भवद्भावि च अस्ति तत् सर्वम् तव गोचरम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra addresses Śiva as the All-knowing One, stating that through the eternal lamp of his knowledge—which dispels the darkness of ignorance and possesses unfailing light—everything in the past, present, and future is visible to him.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004537,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ज्ञानेति । हे सर्वज्ञ, तमोपहेनाज्ञानहन्त्राविनश्वरेणाक्षयेणास्खलितप्रभेणास्खलितकान्तिना । अनेन विशेषणेनामन्दकान्तित्वं हि बोद्धव्यम् । अतो न पौनरुक्त्यम् । तथाभूतेन ज्ञानप्रदीपेनात्मज्ञानरुपदीपकेन भूतं व्यतीतं भवद्वर्तमानं भावि भविष्यच्च यत्किंचित्तत्सर्वमेव तव गोचरं ज्ञानविषयम् । अस्तीत्यर्थः । आत्मज्ञानेन त्रैकालिकस्यापि कर्मादिकस्य ज्ञातासीति भावः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004753,
+    "chapter_id": 6611,
+    "verse_number": "16.45",
+    "content_sanskrit": "मिथः प्रासाहतौ वाजिच्युतौ भूमिगतौ रुषा । शस्त्र्या युयुधतुः कौचित्कोशाकेशि भुजाभुजि ॥",
+    "padaccheda": "मिथः । प्रासाहतौ । वाजिच्युतौ । भूमिगतौ । रुषा । शस्त्र्या । युयुधतुः । कौचित् । कोशाकेशि । भुजाभुजि",
+    "anvaya": "मिथः प्रास-आहतौ वाजि-च्युतौ भूमि-गतौ कौचित् रुषा शस्त्र्या कोशाकेशि भुजाभुजि युयुधतुः",
+    "meaning_sanskrit": "",
+    "meaning_english": "Two warriors, having struck each other with spears and fallen from their horses to the ground, continued to fight in a rage. They engaged in close combat with daggers, pulling each other's hair and fighting hand-to-hand.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004753,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मिथ इति । मिथोऽन्योन्यं प्रासेनाहतौ । अत एव वाजिभ्यां सकाशाच्च्युतावधः पतितौ । अत एव भूमिं गतौ कौचिद्योधौ रुषा युतौ सन्तौ शस्त्र्या खड्गपुत्र्या युयुधर्युयुधाते । अथ च केशाकेशि केशेषु केशेषु गृहीत्वा प्रवृत्तं यद्युद्धम्, भुजाम्यां भुजाभ्यां प्रहृत्य प्रवृत्तं यद्युद्धं तदभूत् । `तत्र तेनेदमिति सरुपे' इति सूत्रेण समासः"
+    }
+  ]
+}

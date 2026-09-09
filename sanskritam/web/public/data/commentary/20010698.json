@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010698,
+    "chapter_id": 6676,
+    "verse_number": "4.44",
+    "content_sanskrit": "प्रत्युवाच तमित्युक्तः प्रवासी वासवात्मजः । परिदेविनमुद्वेग स्नेहेन परिमोहिणम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010698,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रवासीति । 'प्रे लपसृद्रुमथवदवसः' (पा.३|२|१४५) इति घिनुण् । वासवात्मजो धर्मनिष्ठस्तेजोनिधिश्च । 'कृत्यच' इति (पा.८|४|२९) णत्वम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005586,
+    "chapter_id": 6626,
+    "verse_number": "14.26",
+    "content_sanskrit": "इतीरिताकूतमनीलवाजिनं जयाय दूतः प्रतितर्ज्य तेजसा । ययौ समीपं ध्वजिनीमुपेयुषः प्रसन्नरूपस्य विरूपचक्षुषः ॥",
+    "padaccheda": "इति । ईरिताकूतम् । अनीलवाजिनम् । जयाय । दूतः । प्रतितर्ज्य । तेजसा । ययौ । समीपम् । ध्वजिनीम् । उपेयुषः । प्रसन्नरूपस्य । विरूपचक्षुषः",
+    "anvaya": "इति ईरित-आकूतम् दूतः तेजसा अनील-वाजिनम् प्रतितर्ज्य, जयाय ध्वजिनीम् उपेयुषः प्रसन्न-रूपस्य विरूप-चक्षुषः समीपम् ययौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having thus conveyed his intention and challenged Arjuna (the one with white horses) with his brilliance, the messenger, for the sake of victory, went near Shiva (the one with an odd number of eyes), who had approached with his army and had a gracious appearance.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005586,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति ॥ इतीत्थमीरिताकूतमुक्ताभिप्रायमनीलवाजिनं श्वेताश्वमर्जुनं दूतो जयाय तेजसा प्रतापेन प्रतितर्ज्य । अस्मानजित्वा क्व गमिष्यसीति भीषयित्वेत्यर्थः । ध्वजिनीमुपेयुषः सेनासंगतस्य प्रसन्नरूपस्य । अर्जुनं प्रतीति शेषः । विरूपचक्षुषस्त्र्यम्बकस्य समीपं ययौ ।"
+    }
+  ]
+}

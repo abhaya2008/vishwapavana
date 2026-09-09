@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003678,
+    "chapter_id": 6595,
+    "verse_number": "19.17",
+    "content_sanskrit": "अङ्गुलीकिसलयाग्रतर्जनं भ्रूविभङ्गकुटिलं च वीक्षितम् । मेखलाभिरसकृञ्च बन्धनं वञ्चयन्प्रणयिनीरवाप सः ॥",
+    "padaccheda": "अङ्गुलीकिसलयाग्रतर्जनम् । भ्रूविभङ्गकुटिलम् । च । वीक्षितम् । मेखलाभिः । असकृत् । च । बन्धनम् । वञ्चयन् । प्रणयिनीः । अवाप । सः",
+    "anvaya": "सः प्रणयिनीः वञ्चयन् अङ्गुली-किसलय-अग्र-तर्जनम्, भ्रू-विभङ्ग-कुटिलम् वीक्षितम् च, मेखलाभिः असकृत् बन्धनम् च अवाप।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Deceiving his beloveds in playful quarrels, he received threats from their sprout-like fingertips, crooked glances from their knitted eyebrows, and repeated bindings with their girdles.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003678,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अङ्गुलीति॥ सोऽग्निवर्णः प्रणयिनीः प्रेयसीर्वञ्चयन्नन्यत्र गच्छन्। अङ्गुल्यः किसलयानि तेषामग्राणि तैस्तर्जनं भर्त्सनं भ्रुविभङ्गेन भ्रूमेदेन कुटिलं वक्रं वीक्षितं वीक्षणं चासकृन्मेखलाभिर्बन्धनं चावाप। अपराधिनो दण्ञ्डा इति भावः ॥"
+    }
+  ]
+}

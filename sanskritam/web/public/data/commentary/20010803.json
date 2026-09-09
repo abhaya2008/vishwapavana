@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010803,
+    "chapter_id": 6677,
+    "verse_number": "5.43",
+    "content_sanskrit": "कृतश्लोकनिपाठानां गन्धर्वाणां गणैर्वृतम् । कृतेन्द्रादिसुरस्तोत्रनिपठैरपि चारणैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010803,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निपाठनिपठयोः पूर्ववत् घञपौ ॥"
+    }
+  ]
+}

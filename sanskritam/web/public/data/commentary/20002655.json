@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002655,
+    "chapter_id": 6583,
+    "verse_number": "7.16",
+    "content_sanskrit": "इत्युद्गताः पौरवधूमुखेभ्यः शृण्वन्कथाः श्रोत्रसुखाः कुमारः । उद्भासितं मह्गलसंविधाभिः संबन्धिनः सद्म समाससाद ॥",
+    "padaccheda": "इति । उद्गताः । पौरवधूमुखेभ्यः । शृण्वन् । कथाः । श्रोत्रसुखाः । कुमारः । उद्भासितम् । मङ्गलसंविधाभिः । संबन्धिनः । सद्म । समाससाद",
+    "anvaya": "इति पौर-वधू-मुखेभ्यः उद्गताः श्रोत्र-सुखाः कथाः शृण्वन् कुमारः मङ्गल-संविधाभिः उद्भासितम् संबन्धिनः सद्म समाससाद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hearing such talk, pleasing to the ear, that emanated from the mouths of the city women, Prince Aja reached the palace of his new relative (King Bhoja), which was illuminated by auspicious preparations.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002655,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इति `स्थाने वृता`(7।13) इत्याद्युक्तप्रकारेण पौरवधूमुखेभ्य उद्गता उत्पन्नाः श्रोक्षयोः सुखा मधुराः। `सुख` शब्दो विशेष्यनिघ्नः। `पापपुण्यसुखादि च` इत्यमरः। कथा गिरः शृण्वन् कुमारोऽजो मङ्गलसंविधाभिर्मङ्गलरचनाभिरुद्भासितं शोभितं-संबन्धिनः कन्यादायिनः सद्म गृहं समाससाद प्राप ॥"
+    }
+  ]
+}

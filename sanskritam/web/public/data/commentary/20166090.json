@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166090,
+    "chapter_id": 7071,
+    "verse_number": "19.10",
+    "content_sanskrit": "उह्येरन्यज्ञ पात्राणि ह्रियेत च विभावसुः । भ्रियेत चाऽऽज्यमृत्विग्भिः कल्प्येत च समित्-कुशम् ॥",
+    "padaccheda": "उह्येरन् । यज्ञ-पात्राणि । ह्रियेत । च । विभावसुः । भ्रियेत । च । आज्यम् । ऋत्विग्भिः । कल्प्येत । च । समित्-कुशम्",
+    "anvaya": "यज्ञ-पात्राणि उह्येरन् विभावसुः च ह्रियेत । ऋत्विग्भिः आज्यम् भ्रियेत समित्-कुशम् च कल्प्येत ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Let the sacrificial vessels be carried, let the fire be brought, let the ghee be borne by the priests, and let the fuel and sacrificial grass be prepared.\"",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166090,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उद्येरन्नित्यादि - यज्ञपात्राणि स्रुगादीनि उह्येरन् आनीयन्ताम् । विभाव- सुश्चाग्निः ह्रियेत । ऋत्विग्भिः आज्यमपि भ्रियेत । समित्कुशं कल्प्येत च क- ल्प्यम् । सर्वत्र विधौ कर्मणि लिङ् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004722,
+    "chapter_id": 6611,
+    "verse_number": "16.14",
+    "content_sanskrit": "गृहीताः पाणिभिर्वीरैर्विकोशाः खङ्गराजयः । कान्तिजालच्छलादाजौ व्यहसन्सम्मदादिव ॥",
+    "padaccheda": "गृहीताः । पाणिभिः । वीरैः । विकोशाः । खङ्गराजयः । कान्तिजालच्छलात् । आजौ । व्यहसन् । सम्मदात् । इव",
+    "anvaya": "आजौ वीरैः पाणिभिः गृहीताः विकोशाः खङ्गराजयः सम्मदात् इव कान्ति-जाल-च्छलात् व्यहसन् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the battle, the rows of unsheathed swords held by the hands of heroes seemed to laugh out of sheer joy, under the pretext of the flashing net of light reflecting off their blades.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004722,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गृहीता इति । आजौ संग्रामे वीरैः कर्तृभिः । पाणिभिर्गृहीताः । तथा विकोशाः । कोशरहिताः । `कोशोऽस्त्री कुड्मले पाले दिव्यखड्गापिधानके' इति मेदिनी । खड्गराजयः करवालपङ्क्तयः कान्तिजालरच्छलाद् द्युतिसमूहकैतवेन संमदाद्वीराणामपि शत्रुविघातसाधने वयमेव यथीचितास्तथा नान्य इति प्रमोदाद्व्यहसन्निव जहसुरिवेत्युत्प्रेक्षा"
+    }
+  ]
+}

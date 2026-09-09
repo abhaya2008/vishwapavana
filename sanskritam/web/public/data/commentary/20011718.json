@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011718,
+    "chapter_id": 6685,
+    "verse_number": "13.54",
+    "content_sanskrit": "ओमित्युक्तोऽथ कृष्णेन वृष्णीनामन्त्र्य स प्रियान् । प्रातिष्ठत कुरून् नाम स्वान्दिदृक्षुश्चिरेक्षितान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011718,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रातिष्ठतेति । 'समप्रविभ्यःस्थः' (पा.१|३|२२) इत्यात्मनेपदम् । नामेति प्राकाश्ये । तच्च मध्यस्थत्वात् पूर्वपर साधारणम् ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011742,
+    "chapter_id": 6685,
+    "verse_number": "13.78",
+    "content_sanskrit": "तं हन्तुं कंसभृत्याभ्यामवृध्यत ततो व्रजे । तावर्जुनावपात्येतां क्रीडता पीतवाससा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011742,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अवृध्यतेति भावे लङ् । अपात्येतामिति कर्मणि । 'आतोङिती'य् (पा.७|२|८१) । वलि यलोपः (पा.६|१|६६) । आद्गुणः (पा.६|१|८७) ॥"
+    }
+  ]
+}

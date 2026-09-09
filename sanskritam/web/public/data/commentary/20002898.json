@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002898,
+    "chapter_id": 6586,
+    "verse_number": "10.11",
+    "content_sanskrit": "बाहुभिर्विटपाकारैर्दिव्याभरणभूषितैः । आविर्भूतमपां मध्ये पारिजातमिवापरम् ॥",
+    "padaccheda": "बाहुभिः । विटपाकारैः । दिव्याभरणभूषितैः । आविर्भूतम् । अपाम् । मध्ये । पारिजातम् । इव । अपरम्",
+    "anvaya": "विटप-आकारैः दिव्य-आभरण-भूषितैः बाहुभिः (युक्तम्), अपाम् मध्ये आविर्भूतम् अपरम् पारिजातम् इव (स्थितम् तम् ददृशुः) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With his arms, which were shaped like branches and adorned with divine ornaments, he appeared like another Parijata tree that had emerged from the middle of the waters.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002898,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बाहुभिरिति॥ विटपाकारैः शाखाकारैर्दिव्याभरणभूषितैर्बाहुभिरुपलक्षितम्। अत एव अपां सैन्धवानां मध्य आविर्भूतमपरं द्वितीयं पारिजातमिव स्थितम्॥"
+    }
+  ]
+}

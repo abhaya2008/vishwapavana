@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012020,
+    "chapter_id": 6688,
+    "verse_number": "16.27",
+    "content_sanskrit": "पार्थ मृष्यन्नते कश्चिद्योद्धा तिष्ठेत नाम यत् । खद्योतः खमणेरग्रे को नाम स्वं प्रकाशयेत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012020,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पूर्ववत् अमर्षे लिङ् (पा.३|३|१४५) । तिष्ठतेति प्रकाशने (पा.१|३|२३) आत्मनेपदम् । 'अग्रेसरमसाधूना'मिति यदुक्तं तद्विवृणोति—"
+    }
+  ]
+}

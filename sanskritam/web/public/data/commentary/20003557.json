@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003557,
+    "chapter_id": 6593,
+    "verse_number": "17.30",
+    "content_sanskrit": "बभौ भूयः कुमारत्वादाधिराज्यमवाप्य सः । रेखाभावादुपारूढः सामग्र्यमिव चन्द्रमाः ॥",
+    "padaccheda": "बभौ । भूयः । कुमारत्वात् । आधिराज्यम् । अवाप्य । सः । रेखाभावात् । उपारूढः । सामग्र्यम् । इव । चन्द्रमाः",
+    "anvaya": "सः कुमारत्वात् आधिराज्यम् अवाप्य भूयः बभौ, रेखाभावात् सामग्र्यम् उपारूढः चन्द्रमाः इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having obtained sovereignty from the state of being a prince, he shone even more, like the moon which, having been a mere crescent, attains fullness.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003557,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बभाविति॥ सोऽतिथिः कुमारत्वाद्बाल्याद्भूयो यौवराज्यमवाप्यैवानन्तरम्। अधिराजस्य भाव आधिराज्यं माहाराज्यमवाप्य। रेखाभावादर्धेन्दुत्वमवाप्यैव सामग्र्यमुपारूढः पूर्णतां गतश्चन्द्रमा इव बभौ इति व्याख्यानम्। तदपि यौवराज्याभावनिश्चये ज्याय एव ॥"
+    }
+  ]
+}

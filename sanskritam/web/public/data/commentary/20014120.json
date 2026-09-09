@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014120,
+    "chapter_id": 6707,
+    "verse_number": "15.16",
+    "content_sanskrit": "भृकुटीकुटिलाननश्चलोष्ठः सितमुद्यम्य परश्वधं स मूर्खः । भवतां न शिरांसि चेद्विभिन्द्यां क्रकचो नाहमिति ब्रुवन्नयासीत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014120,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "सितं परश्वधमुद्यम्य भवतां शिरांसि न विभिन्द्यां चेत्तर्हि क्रकचो नाहमिति ब्रुवन्नयासीत् ॥ १६ ॥"
+    }
+  ]
+}

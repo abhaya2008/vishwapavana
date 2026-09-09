@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003218,
+    "chapter_id": 6589,
+    "verse_number": "13.48",
+    "content_sanskrit": "एषा प्रसन्नस्तिमितप्रवाहा सरिद्विदूरान्तरभावतन्वी । मन्दाकिनी भाति नगोपकण्ठे मुक्तावली कण्ठगतेव भूमेः ॥",
+    "padaccheda": "एषा । प्रसन्नस्तिमितप्रवाहा । सरित् । विदूरान्तरभावतन्वी । मन्दाकिनी । भाति । नगोपकण्ठे । मुक्तावली । कण्ठगता । इव । भूमेः",
+    "anvaya": "प्रसन्न-स्तिमित-प्रवाहा, विदूर-अन्तर-भाव-तन्वी एषा मन्दाकिनी सरित् नग-उपकण्ठे भूमेः कण्ठगता मुक्तावली इव भाति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This river Mandakini, with its clear and calm flow, appearing slender due to the great distance, shines on the slope of the mountain like a pearl necklace worn around the neck of the Earth.",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003218,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एषेति॥ प्रसन्नो निर्मलः स्तिमितो निःस्पदः प्रवाहो यस्याः सा विदूरस्यान्तरस्य मध्यवर्त्यवकाशस्य भावात्तन्वी दूरदेशवर्तित्वात्तनुत्वेनावभासमाना मन्दाकिनी नाम काचिञ्चित्रकूटनिकटगैषा सरित्। गोपकण्ठेन भूमेः कण्ठगता मुक्तावलीव। भाति। अत्र नगस्य शिरस्त्वं तदुपकण्ठस्य कण्ठत्वं च गम्यते ॥"
+    }
+  ]
+}

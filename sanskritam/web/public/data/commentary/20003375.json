@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003375,
+    "chapter_id": 6591,
+    "verse_number": "15.39",
+    "content_sanskrit": "स ददर्श सभामध्ये सभासद्भिरुपस्थितम् । रामं सीतापरित्यागादसामान्यपतिं भुवः ॥",
+    "padaccheda": "सः । ददर्श । सभामध्ये । सभासद्भिः । उपस्थितम् । रामम् । सीतापरित्यागात् । असामान्यपतिम् । भुवः",
+    "anvaya": "सः सभामध्ये सभासद्भिः उपस्थितम्, सीतापरित्यागात् भुवः असामान्यपतिम् रामम् ददर्श।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Shatrughna) saw Rama in the assembly hall, attended by his courtiers. Due to his abandonment of Sita, Rama appeared as an unparalleled, yet sorrowful, lord of the earth.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003375,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स शत्रुघ्नः सभामध्ये सभासद्भिः सभ्यैरुपस्थितं सेवितं सीतापरित्यागाद्भुवोऽसामान्यपतिमसाधारणपतिं रामं ददर्श ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003495,
+    "chapter_id": 6592,
+    "verse_number": "16.56",
+    "content_sanskrit": "सा तीरसोपानपथावतारादन्योन्यकेयूरविघट्टिनीभिः । सनूपुरक्षोभपदाभिरासीदुद्विग्नहंसा सरिदङ्गनाभिः ॥",
+    "padaccheda": "सा । तीर-सोपान-पथ-अवतारात् । अन्योन्य-केयूर-विघट्टिनीभिः । स-नूपुर-क्षोभ-पदाभिः । आसीत् । उद्विग्न-हंसा । सरित् । अङ्गनाभिः",
+    "anvaya": "तीर-सोपान-पथ-अवतारात् अन्योन्य-केयूर-विघट्टिनीभिः स-नूपुर-क्षोभ-पदाभिः अङ्गनाभिः सा सरित् उद्विग्न-हंसा आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As the women descended by the staircase on the bank, their armlets clashed against each other and their steps caused their anklets to jingle. By their entry, that river's swans became agitated.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003495,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति॥ सा सरित् सरयूः। तीरसोपानपथेनावतारादवतरणादन्योन्यं केयूरविघट्टिनीभिः संनद्धाङ्गदसंघर्षिणीभिः सनूपुरक्षोभाणि सनूपुरस्खलनानि पदानि यासां ताभिरङ्गनाभिर्हेतुभिरुद्विग्नहंसा भीतहंसाऽऽसीत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003152,
+    "chapter_id": 6588,
+    "verse_number": "12.86",
+    "content_sanskrit": "मातलिस्तस्य माहेन्द्रमामुमोच तनुच्छदम् । यत्रोत्पलदलक्लैब्यमस्त्राण्यापुः सुरद्विषाम् ॥",
+    "padaccheda": "मातलिः । तस्य । माहेन्द्रम् । आमुमोच । तनुच्छदम् । यत्र । उत्पलदलक्लैब्यम् । अस्त्राणि । आपुः । सुरद्विषाम्",
+    "anvaya": "मातलिः तस्य माहेन्द्रं तनुच्छदम् आमुमोच यत्र सुरद्विषाम् अस्त्राणि उत्पलदलक्लैब्यम् आपुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Matali fastened Indra's armor onto Rama. This armor was so strong that the weapons of the demons, upon striking it, became as harmless and soft as lotus petals.",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003152,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मातलिरिति॥ मातलिरिन्द्रसारथिर्माहेन्द्रम्। तनुश्छाद्यतेऽनेनेति तनुच्छदो वर्म। `पुंसि संज्ञायां घः प्रायेण` (पा.3।3।118) इति घः। तम्। तस्य रामस्यामुमोैचासञ्जयामास। यत्र तनुच्छदे सुरद्विषामस्त्राण्युत्पलदलानां यत्क्लैब्दं नपुंसकत्वं निरर्थकत्वं तदापुः ॥"
+    }
+  ]
+}

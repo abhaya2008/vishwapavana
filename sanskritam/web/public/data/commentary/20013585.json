@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013585,
+    "chapter_id": 6702,
+    "verse_number": "10.7",
+    "content_sanskrit": "तदयं गुणवारिधिर्यथा प्रतिपद्येत न पूर्वकं वपुः । करवाम तथेति निश्चयं कृतवन्तः सचिवाः परस्परम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013585,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "यत्तस्मादयं गुणसमुद्रो यथा पूर्वं शरीरं न प्राप्नुयात्तथा करवामेत्येवं सचिवाः पर स्परं निश्चयं कृतवन्तः । वियोगिनी वृत्तम् ॥ ९ ॥"
+    }
+  ]
+}

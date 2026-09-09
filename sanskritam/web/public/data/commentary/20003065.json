@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003065,
+    "chapter_id": 6587,
+    "verse_number": "11.92",
+    "content_sanskrit": "तस्मिन्गते विजयिनं परिरभ्य रामं स्नेहादमन्यत पिता पुनरेव जातम् । तस्याभवत्क्षणशुचः परितोषलाभः कक्षाग्निलङ्घिततरोरिव वृष्टिपातः ॥",
+    "padaccheda": "तस्मिन् । गते । विजयिनम् । परिरभ्य । रामम् । स्नेहात् । अमन्यत । पिता । पुनः । एव । जातम् । तस्य । अभवत् । क्षणशुचः । परितोषलाभः । कक्षाग्निलङ्घिततरोः । इव । वृष्टिपातः",
+    "anvaya": "तस्मिन् गते (सति), पिता विजयिनम् रामम् परिरभ्य स्नेहात् पुनः एव जातम् अमन्यत । क्षणशुचः तस्य परितोषलाभः कक्षाग्निलङ्घिततरोः वृष्टिपातः इव अभवत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When Parashurama had gone, his father Dasharatha embraced the victorious Rama and, out of affection, considered him born anew. For Dasharatha, whose grief had been momentary, the attainment of joy was like a rainfall upon a tree scorched by a forest fire.",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003065,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्मिन्निति॥ तस्मिन् भार्गवे गते सति विजयिनं रामं पिता स्नेहात् परिरभ्यालिङ्ग्य पुनर्जातमेवामन्यत। क्षणं शुग्यस्येति विग्रहः। क्षणशुचस्तस्य दशरथस्य परितोषलाभः संतोषप्राप्तिः। कक्षाग्निना दावानलेन। `कक्षः शुष्ककाननवीरुधोः` इति विश्वः। लङ्घितस्याभइहतस्य तरोर्वृष्टिपात इव। अभवत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003307,
+    "chapter_id": 6590,
+    "verse_number": "14.58",
+    "content_sanskrit": "आश्वास्य रामावरजः सतीं तामाख्यातवाल्मीकिनिकेतमार्गः । निघ्नस्य मे भर्तृनिदेशरौक्ष्यं देवि! क्षमस्वेति बभूव नम्रः ॥",
+    "padaccheda": "आश्वास्य । रामावरजः । सतीं । ताम् । आख्यातवाल्मीकिनिकेतमार्गः । निघ्नस्य । मे । भर्तृनिदेशरौक्ष्यं । देवि । क्षमस्व । इति । बभूव । नम्रः",
+    "anvaya": "राम-अवरजः ताम् सतीम् आश्वास्य, आख्यात-वाल्मीकि-निकेत-मार्गः सन् 'देवि! निघ्नस्य मे भर्तृ-निदेश-रौक्ष्यम् क्षमस्व' इति नम्रः बभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having consoled the virtuous lady and shown her the path to Valmiki's hermitage, Rama's younger brother (Lakshmana) humbly bowed and said, \"O Queen, please forgive the harshness of the master's command, executed by me, his servant.\"",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003307,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आश्वास्येति॥ रामावरजो लक्ष्मणः सतीं साध्वीं तामाश्वास्य। आख्यात उपदिष्टो वाल्मीकेर्निकेतस्याश्रमस्य मार्गो येन स तथोक्तः सन्। निघ्नस्य पराधीनस्य। `अधीनो निघअन आयत्तः` इत्यमरः। मे भर्तृनिदेशेन स्वाम्यनुज्ञया हेतुनायद्रौक्ष्यं पारुष्यं तद्धे देवि! क्षमस्व। इति नम्रः प्रणतो बभूव ॥"
+    }
+  ]
+}

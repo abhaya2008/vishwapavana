@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003419,
+    "chapter_id": 6591,
+    "verse_number": "15.83",
+    "content_sanskrit": "तत्र नागफणोत्क्षिप्तसिंहासननिषेदुषी । समुद्ररशना साक्षात्प्रादुरासीद्वसुंधरा ॥",
+    "padaccheda": "तत्र । नागफणोत्क्षिप्तसिंहासननिषेदुषी । समुद्ररशना । साक्षात् । प्रादुरासीत् । वसुंधरा",
+    "anvaya": "तत्र नागफणोत्क्षिप्तसिंहासननिषेदुषी समुद्ररशना वसुंधरा साक्षात् प्रादुरासीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the Earth goddess, girdled by the oceans, appeared in person, seated on a throne held up by the hoods of serpents.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003419,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ तत्र प्रभामण्डले नागफणोत्क्षिप्ते सिंहासने निषेदुष्यासीना समुद्ररशना समुद्रमेखला साक्षात्। वसूनि धारयतीति वसुंधरा भूमिः। `खचि ह्रस्वः` (पा.6।4।94) इति ह्रस्वः। प्रादुरासीत् ॥"
+    }
+  ]
+}

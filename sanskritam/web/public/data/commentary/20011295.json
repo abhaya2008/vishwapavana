@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011295,
+    "chapter_id": 6681,
+    "verse_number": "9.47",
+    "content_sanskrit": "विलासिनीभिस्सहिता विजह्रुः पौरा विवाहोत्सववासरेषु । सरस्सु वैसारिणसङ्कुलेषु प्रफुल्लपुष्पेषु च निष्कुटेषु ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011295,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वैसारिणसङ्कुलेषु मत्स्यसङ्कुलेषु । 'विसारिणो मत्स्ये' (पा.५|४|१६) इत्यण् । मत्स्या इत्यर्थः ॥"
+    }
+  ]
+}

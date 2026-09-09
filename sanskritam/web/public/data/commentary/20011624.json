@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011624,
+    "chapter_id": 6684,
+    "verse_number": "12.76",
+    "content_sanskrit": "अवभासन् सुभद्राया गात्रयष्टिं यथोद्गताः । वपुस्तथैव रोमाञ्चा बीभत्सोप्यबीभसन् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011624,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अवभासन् अबीभसन्निति ह्रस्वाभावो ह्रस्वश्च ॥"
+    }
+  ]
+}

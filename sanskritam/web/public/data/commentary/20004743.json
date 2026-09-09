@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004743,
+    "chapter_id": 6611,
+    "verse_number": "16.35",
+    "content_sanskrit": "खड्गैर्धवलधारालैर्निहत्य करिणां करान् । तैर्भुवापि समं विद्धान्सन्तोषं न भटा ययुः ॥",
+    "padaccheda": "खड्गैः । धवलधारालैः । निहत्य । करिणाम् । करान् । तैः । भुवा । अपि । समम् । विद्धान् । सन्तोषम् । न । भटाः । ययुः",
+    "anvaya": "धवल-धारालैः खड्गैः करिणाम् करान् निहत्य तैः भुवा अपि समम् विद्धान् भटाः सन्तोषम् न ययुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though the warriors cut off the trunks of elephants with their bright-edged swords and saw them strewn upon the earth, they did not feel satisfied.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004743,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "खड्गैरिति । भटा योद्धा धवलधारालैर्धवलां धारां लान्ति गृह्णान्ति तैः । शुभ्रधारैरित्यर्थः । अद्वितीयैः खड्गैः कृत्वा भुवा पृथिव्या समं विद्धान्प्रहृतान्करिणां कराञ्शुण्डान्निहत्यापि लवित्वापि सन्तोषं तृप्तिं न ययुः । अन्यानपि निहन्मीति बुद्धिमन्तो बभूवुरित्यर्थः"
+    }
+  ]
+}

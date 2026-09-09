@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004731,
+    "chapter_id": 6611,
+    "verse_number": "16.23",
+    "content_sanskrit": "वीराणां विषमैर्घोषूर्विद्रुता वारणा रणे । शास्यमाना अपि त्रासाद्भेजुर्धूताङ्कुशा दिशः ॥",
+    "padaccheda": "वीराणाम् । विषमैः । घोषैः । विद्रुताः । वारणाः । रणे । शास्यमानाः । अपि । त्रासात् । भेजुः । धूताङ्कुशाः । दिशः",
+    "anvaya": "रणे विषमैः घोषैः विद्रुताः वारणाः शास्यमानाः अपि त्रासात् धूताङ्कुशाः दिशः भेजुः",
+    "meaning_sanskrit": "",
+    "meaning_english": "Elephants, terrified by the tumultuous shouts of warriors in battle, fled in all directions, shaking off their goads even while being commanded by their mahouts.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004731,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वीराणामिति । रणे विषमैदुः सहैर्वीराणां धोषेर्विद्रुताः पलायिता वारणा गजाः शास्यमानाः शिष्यमाणा अपि । यन्तृभिरिति शेषः धूताङ्कुशा अपमानिताङ्कुशाः सन्तस्त्रासाद्दिशो भेजुः । `तॄफलभज-' इत्येत्वाभ्यासलोपौ दिशः प्रति पलायांचक्रिरे"
+    }
+  ]
+}

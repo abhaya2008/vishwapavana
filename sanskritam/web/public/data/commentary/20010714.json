@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010714,
+    "chapter_id": 6676,
+    "verse_number": "4.60",
+    "content_sanskrit": "उत्पादुकक्षुत्तृष्णार्तान् पान्थानापातुकान् गृहम् । संतर्प्य विप्रान् भर्तॄंश्च भवान्नान्याभिलाषुकाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010714,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "‘लषपतपदस्थाभूवृषहनकमगमशृभ्य उकञ्’ (पा.३|२|१५४) इति सर्वत्र उकञ् ॥"
+    }
+  ]
+}

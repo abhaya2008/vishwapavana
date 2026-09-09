@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011434,
+    "chapter_id": 6683,
+    "verse_number": "11.11",
+    "content_sanskrit": "सदापि गृह्यमाणानां वणिग्भिर्जलदैरपि । राशिभिस्सर्वदा पूर्णं रत्नानामम्भसामपि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011434,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनेन सलिलपरिमितानि सागरे रत्नानीति व्यज्यते ॥"
+    }
+  ]
+}

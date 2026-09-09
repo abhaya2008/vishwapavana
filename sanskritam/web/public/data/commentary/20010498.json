@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010498,
+    "chapter_id": 6674,
+    "verse_number": "2.78",
+    "content_sanskrit": "अजय्यश्शंभुना कामो वीरश्रीविभ्रमाचलः । आकरो गुणरत्नानां गुडाकेशोप्यपास्त तम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010498,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अजय्यश्शंभुना इति व्यतिरेकः । शिष्टं रूपकम् ॥"
+    }
+  ]
+}

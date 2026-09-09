@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003784,
+    "chapter_id": 6597,
+    "verse_number": "2.6",
+    "content_sanskrit": "तिसृभिस्त्वमवस्थाभिर्महिमानमुदीरयन् । प्रलयस्थितिसर्गाणामेकः कारणतां गतः ॥",
+    "padaccheda": "तिसृभिः । त्वम् । अवस्थाभिः । महिमानम् । उदीरयन् । प्रलयस्थितिसर्गाणाम् । एकः । कारणताम् । गतः",
+    "anvaya": "त्वम् तिसृभिः अवस्थाभिः महिमानम् उदीरयन्, प्रलयस्थितिसर्गाणाम् एकः कारणताम् गतः असि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You, manifesting your greatness through three states (as Brahma, Vishnu, and Shiva), have become the single cause of the universe's creation, preservation, and dissolution.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003784,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तिसृभिरिति ॥ एकः सृष्टेः प्राक्केवलस्त्वं तिसृभिरवस्थाभिस्त्रैगुण्यमयीभिर्हरिहरब्रह्मस्वरुपाभिर्महिमानं निजशक्तिमुदीरयन्जृम्भयन्प्रलयस्थितिसर्गाणामन्तस्थित्युत्पत्तीनां कारणतां गतः । इदं पश्चाद्भेदमुपेयुषे (२/४) इत्यस्य विवरणमतो न गतार्थत्वदोषः"
+    }
+  ]
+}

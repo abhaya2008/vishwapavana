@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165831,
+    "chapter_id": 7067,
+    "verse_number": "15.70",
+    "content_sanskrit": "अस्ताविषुः सुरा रामं दिशः प्रापन्निशा-चराः । भूरकम्पिष्ट साऽद्रीन्द्रा व्यचालीदम्भसां पतिः ॥",
+    "padaccheda": "अस्ताविषुः । सुराः । रामम् । दिशः । प्रापन् । निशाचराः । भूः । अकम्पिष्ट । सा । अद्रीन्द्रा । व्यचालीत् । अम्भसाम् । पतिः",
+    "anvaya": "सुराः रामम् अस्ताविषुः, निशा-चराः दिशः प्रापन्। सा अद्रि-इन्द्रा भूः अकम्पिष्ट, अम्भसाम् पतिः व्यचालीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The gods praised Rāma, while the night-stalkers fled in all directions. The earth, with its mighty mountains, trembled, and the lord of the waters was greatly agitated.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165831,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अस्ताविषुरित्यादि - तस्मिन् हते सुरा देवा राममस्ताविषुः स्तुवन्ति स्म १ स्तु-सु-धूब्भ्यः परस्मैपदेषु ।७ इतीट् । निशाचरास्तद्भयाद्दिशः प्रापन् प्राप्तवन्तः । ‘१३४१| आपू व्याप्तौ ।' सादीन्द्रा सकुलपर्वता भूमिरकम्पिष्ट चलति स्म । अम्भसां पतिः समुद्रो व्यचालीत् प्रक्षुभितवान् ॥"
+    }
+  ]
+}

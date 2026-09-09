@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011747,
+    "chapter_id": 6685,
+    "verse_number": "13.83",
+    "content_sanskrit": "भीताऽश्लिष्यदरातिश्रीकुचकुङ्कुमकर्दमः । तदानीं कोपलक्षेण कृष्णस्याऽरञ्जयद्वपुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011747,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अपह्नुतिरलङ्कारः । लक्षश्छद्मछलम् ॥"
+    }
+  ]
+}

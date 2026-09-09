@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004354,
+    "chapter_id": 6604,
+    "verse_number": "9.23",
+    "content_sanskrit": "रथस्य कर्णावभि तन्मुखस्य ताटङ्कचक्रद्वितयं न्यधात्सः । जगज्जिगीषुर्विषमेषुरेष ध्रुवं यमारोहति पुष्पचापः ॥",
+    "padaccheda": "रथस्य । कर्णावभि । तन्मुखस्य । ताटङ्कचक्रद्वितयम् । न्यधात् । सः । जगज्जिगीषुः । विषमेषुः । एषः । ध्रुवम् । यम् । आरोहति । पुष्पचापः",
+    "anvaya": "विषमेषुः एषः जगज्जिगीषुः पुष्पचापः ध्रुवं यम् आरोहति तन्मुखस्य कर्णावभि सः ताटङ्कचक्रद्वितयं न्यधात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Śiva placed circular earrings on both her ears. Her face appeared like the chariot of the world-conquering Kāmadeva; it seemed as if the flower-bowed god certainly mounts this chariot (her face) to achieve his victory.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004354,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रथस्येति । स हरः । कर्णावभि कर्णसंमुखे तन्मुखस्य पार्वतीमुखरुपस्य रथस्य सम्बन्धि ताटङ्करुपं चक्रद्वितयं चक्रद्वियं न्यधात् । यतो विषमेपुरेष पुष्पचापः कामो जगज्जिगीषुस्त्रिभुवनविजयेच्छुः सन् यमारोहति । ध्रुवं निश्चितम् । मुखरुपिणं रथमारुह्य जगन्ति विजेतुमिच्छति काम इति भावः"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010829,
+    "chapter_id": 6677,
+    "verse_number": "5.69",
+    "content_sanskrit": "स्थितिज्ञं सर्वशास्त्राणां सामोद्गीतिविशारदम् । सोमपीतिपवित्रास्यं वपापक्तिविचक्षणम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010829,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्थित्यादिषु 'स्थागापापचो भावे' (पा.३|३|९५) इति क्तिन् ॥"
+    }
+  ]
+}

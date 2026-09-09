@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002421,
+    "chapter_id": 6580,
+    "verse_number": "4.32",
+    "content_sanskrit": "स सेनां महतीं कर्षन्पूर्वसागरगामिनीम् । बभौ हरजटाभ्रष्टां गङ्गामिव भगीरथः ॥",
+    "padaccheda": "सः । सेनाम् । महतीम् । कर्षन् । पूर्वसागरगामिनीम् । बभौ । हरजटाभ्रष्टाम् । गङ्गाम् । इव । भगीरथः",
+    "anvaya": "पूर्व-सागर-गामिनीम् महतीम् सेनाम् कर्षन् सः, हर-जटा-भ्रष्टाम् गङ्गाम् (कर्षन्) भगीरथः इव बभौ ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Leading his great army towards the eastern ocean, he appeared like King Bhagiratha leading the river Ganga, which had fallen from Shiva's matted locks.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002421,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ महतीं सेनां पूर्वसागरगामिनीं कर्षन् स रघुः। हरस्य जटाभ्यो भ्रष्टां गङ्गां कर्षन्। सापि पूर्वसागरगामिनी। भगीरथ इव। बभौ। भगीरथो नाम कश्चित्कपिलदग्धानां सागराणां नप्ता तत्पावनाय हरकिरीटाद्गङ्गा प्रवर्तयिता राजा। यत्संबन्धाद्गङ्गा च भागीरथीति गीयते ॥"
+    }
+  ]
+}

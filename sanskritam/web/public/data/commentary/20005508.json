@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005508,
+    "chapter_id": 6625,
+    "verse_number": "13.19",
+    "content_sanskrit": "स भवस्य भवक्षयैकहेतोः सितसप्तेश्च विधास्यतोः सहार्थम् । रिपुराप पराभवाय मध्यं प्रकृतिप्रत्यययोरिवानुबन्धः ॥",
+    "padaccheda": "सः । भवस्य । भव-क्षय-एक-हेतोः । सितसप्तेः । च । विधास्यतोः । सह । अर्थम् । रिपुः । आप । पराभवाय । मध्यम् । प्रकृति-प्रत्यययोः । इव । अनुबन्धः",
+    "anvaya": "सः रिपुः, सह अर्थम् विधास्यतोः भव-क्षय-एक-हेतोः भवस्य सितसप्तेः च मध्यम्, प्रकृति-प्रत्यययोः अनुबन्धः इव, पराभवाय आप।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That enemy (the boar), for its own destruction, came between Shiva, the sole cause of the end of worldly existence, and Arjuna, the white-horsed, who were both about to accomplish the same purpose, just like an anubandha (indicatory letter) comes between a grammatical root and a suffix.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005508,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ सह संभूयार्थमरिवधरूपप्रयोजनं विधास्यतोः करिष्यतोः । अन्यत्र सहार्थमभिधेयमभिधास्यतोरित्यर्थः । `प्रकृतिप्रत्ययौ सहार्थं ब्रूतः` इति वचनात् । भवक्षयैकहेतोः संसारोच्छेदनिदानस्य भवस्य शिवस्य सितसप्तेरर्जुनस्य च मध्यं रिपुर्वराहः। यस्मात्प्रत्ययो विधीयते सा प्रकृतिर्धात्वादिः । प्रत्ययः सनादिः । तयोर्मध्यमनुबन्ध इत्संज्ञको वर्णः । यथा भूतं भूतिरित्यादौ ककारः। स इव पराभवाय नाशाय लोपार्थमेवाप । न तु स्थित्यर्थमित्यर्थः ॥"
+    }
+  ]
+}

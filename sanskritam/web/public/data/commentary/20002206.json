@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002206,
+    "chapter_id": 6577,
+    "verse_number": "1.57",
+    "content_sanskrit": "तयोर्जगृहतुः पादान्राजा राज्ञी च मागधी । तौ गुरुर्गुरुपत्नी च प्रीत्या प्रतिननन्दतुः ॥",
+    "padaccheda": "तयोः । जगृहतुः । राजा । राज्ञी । च । मागधी । तौ । गुरुः । गुरुपत्नी । प्रीत्या । प्रतिननन्दतुः",
+    "anvaya": "राजा राज्ञी मागधी च तयोः पादान् जगृहतुः गुरुः गुरु-पत्नी च तौ प्रीत्या प्रतिननन्दतुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "King Dilīpa and Queen Sudakṣiṇā touched the feet of the guru and his wife. In return, the venerable Vasiṣṭha and Arundhatī welcomed the royal couple with great affection and joy.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002206,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तयोरिति॥ मागधी मगधराजपुत्री राज्ञी सुदक्षिणा राजा च तयोररुन्धतीवसिष्ठयोः पादाञ्जगृहतुः। `पादः पदङ्गिश्चरणो।ञस्त्रियाम` इत्यमरः। पादग्रहणमभिवादनम्। गुरुपत्नी गुरुश्च कर्तारौ सा च स च तौ सुदक्षिणादिलीपौ कर्मभूतौ प्रीत्या हर्षेण प्रतिननन्दतुः। आशीर्वदादिभिः संभावयांचक्रतुरित्यर्थः ॥"
+    }
+  ]
+}

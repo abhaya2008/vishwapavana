@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004277,
+    "chapter_id": 6603,
+    "verse_number": "8.37",
+    "content_sanskrit": "पूर्वभागतिमिरप्रवृत्तिभिर्व्यक्तपङ्कमिव जातमेकतः । खं हृतातपजलं विवस्वता भाति किञ्चिदिव शेषवत्सरः ॥",
+    "padaccheda": "पूर्वभागतिमिरप्रवृत्तिभिः । व्यक्तपङ्कम् । इव । जातम् । एकतः । खम् । हृतातपजलम् । विवस्वता । भाति । किञ्चित् । इव । शेषवत् । सरः",
+    "anvaya": "विवस्वता हृतातपजलम् खम्, एकतः पूर्वभागतिमिरप्रवृत्तिभिः व्यक्तपङ्कम् जातम् सत्, किञ्चित् शेषवत् सरः इव भाति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "'The sky, from which the sun has removed the 'water' of its light, now appears like a lake with little water left. On one side, the east, with the spreading darkness, it seems as if the mud has become visible.'",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004277,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पूर्वभागेति । पूर्वभागे प्राचीमूले तिमिरप्रवृत्तिभिर्ध्वान्तप्रसरैरेकतो व्यक्तपङ्कं स्फुटपङ्कमिव जातं तथा विवस्वता हृतमातप एव जलं यस्य तत्तथोक्तं खमाकाशं किंचिदीषच्छेषोस्यास्तीति शेषवच्छुष्कं सर इव भाति"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003018,
+    "chapter_id": 6587,
+    "verse_number": "11.45",
+    "content_sanskrit": "आततज्यमकरोत्स संसदा विस्मयस्तिमितनेत्रमीक्षितः । शैलसारमपि नातियत्नतः पुष्पचापमिव पेशलं स्मरः ॥",
+    "padaccheda": "आततज्यम् । अकरोत् । सः । संसदा । विस्मयस्तिमितनेत्रम् । ईक्षितः । शैलसारम् । अपि । न । अतियत्नतः । पुष्पचापम् । इव । पेशलं । स्मरः",
+    "anvaya": "संसदा विस्मयस्तिमितनेत्रम् ईक्षितः सः शैलसारम् अपि धनुः अतियत्नतः न, स्मरः पेशलं पुष्पचापम् इव, आततज्यम् अकरोत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Watched by the assembly with eyes motionless from wonder, Rama strung the bow, which was as hard as a mountain, without much effort, as if it were the delicate flower-bow of Kamadeva.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003018,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आततेति॥ स रामः संसदा सभया विस्मयेन स्तिमिते नेत्रे यस्मिन्कर्मणि तद्यथा स्यात्तथेक्षितः सन्। शैलस्येव सारो यस्य तच्छैलसारमपि धनुः। स्मरः पेशलं कोमलं पुष्पचापमिव। नातियत्नतो नातियत्नात्। नञर्थस्य नशब्दस्य सुप्सुपेति समासः। आततज्यमधिज्यम्। अकरोत् ॥"
+    }
+  ]
+}

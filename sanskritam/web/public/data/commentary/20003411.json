@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003411,
+    "chapter_id": 6591,
+    "verse_number": "15.75",
+    "content_sanskrit": "अन्येद्युरथ काकुत्स्थः संनिपात्य पुरौकसः । कविमाह्वाययामास प्रस्तुतप्रतिपत्तये ॥",
+    "padaccheda": "अन्येद्युः । अथ । काकुत्स्थः । संनिपात्य । पुरौकसः । कविम् । आह्वाययामास । प्रस्तुतप्रतिपत्तये",
+    "anvaya": "अथ अन्येद्युः काकुत्स्थः पुरौकसः संनिपात्य, प्रस्तुतप्रतिपत्तये कविम् आह्वाययामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, on the next day, Kakutstha (Rama), having assembled the citizens, summoned the poet (Valmiki) to carry out the matter at hand (Sita's ordeal).",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003411,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अन्येद्युरिति॥ अथ काकुत्स्थो रामः। अन्येद्युरन्यस्मिन्नहनि प्रस्तुतप्रतिपत्तये प्रकृतकार्यानुसंधानाय पुरौकसः पौरान् संनिपात्य मेलयित्वा कविं वाल्मीकिम्। आह्वाययामासाकारयामास ॥"
+    }
+  ]
+}

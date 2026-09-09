@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003925,
+    "chapter_id": 6599,
+    "verse_number": "4.7",
+    "content_sanskrit": "कृतवानसि विप्रियं न मे प्रतिकूलं न च ते मया कृतम् । किमकारणमेव दर्शनं विलपन्त्यै रतये न दीयते ॥",
+    "padaccheda": "कृतवान् । असि । विप्रियम् । न । मे । प्रतिकूलम् । न । च । ते । मया । कृतम् । किम् । अकारणम् । एव । दर्शनम् । विलपन्त्यै । रतये । न । दीयते",
+    "anvaya": "ते मया विप्रियम् न कृतम्, प्रतिकूलम् च न कृतम्। अकारणम् एव विलपन्त्यै रतये दर्शनम् किम् न दीयते?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"You have never done anything displeasing to me, nor have I done anything contrary to you. Why then, without any reason, is a sight of yourself not granted to me, Rati, as I lament?\"",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003925,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कृतेति । हे प्रिय, त्वं मे मम विप्रियमप्रियं कृतवान्नासि । मया च ते तव प्रतिकूलमप्रियं न कृतम् । अकारणं निष्कारणमेव । परस्परापकाररूपकारणाभावेऽपीत्यर्थः । क्रियाविशेषणमेतत् । विलपन्त्यै । त्वद्दर्शनार्थिन्या अपीति भावः । रतये किं कथं दर्शनं न दीयते । क्रियाग्रहणाच्चतुर्थी"
+    }
+  ]
+}

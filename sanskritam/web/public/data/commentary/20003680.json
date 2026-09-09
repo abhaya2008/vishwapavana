@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003680,
+    "chapter_id": 6595,
+    "verse_number": "19.19",
+    "content_sanskrit": "लौल्यमेत्य गृहिणीपरिग्रहान्नर्तकीष्वसुलभासु तद्वपुः। वर्तते स्म स कथंचिदालिखन्नङ्गुलीक्षरणसन्नवर्तिकः ॥",
+    "padaccheda": "लौल्यम् । एत्य । गृहिणीपरिग्रहात् । नर्तकीषु । अवसुलभासु । तद्वपुः । वर्तते । स्म । सः । कथंचित् । आलिखन् । अङ्गुलीक्षरणसन्नवर्तिकः",
+    "anvaya": "गृहिणी-परिग्रहात् लौल्यम् एत्य अवसुलभासु नर्तकीषु (आसक्तः), अङ्गुली-क्षरण-सन्न-वर्तिकः सः तत्-वपुः कथंचित् आलिखन् वर्तते स्म।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having become fickle from his life with his queens and attached to easily available dancing girls, he managed to get by, somehow painting a portrait of one of them, though his paintbrush kept slipping from his fingers.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003680,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लौल्यमिति॥ गृहिणीपरिग्रहाद्राज्ञीभिः समागमाद्धेतोर्नर्तकीषु वेश्यास्वसुलभासु दुर्लभासु सतीषु लौल्यमौत्सुक्यमेत्य प्राप्य। अङ्गुल्योः क्षरणेन स्वेदनेन सन्नवार्तिको विगलितशलाकः सोऽग्निवर्णस्तासां नर्तकीनां वपुस्तद्वपुरालिखन् कथंचिद्वर्तते स्मावर्त ॥"
+    }
+  ]
+}

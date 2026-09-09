@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005716,
+    "chapter_id": 6628,
+    "verse_number": "16.38",
+    "content_sanskrit": "दिङ्नागहस्ताकृतिमुद्वहद्भिर्भोगैः प्रशस्तासितरत्ननीलैः । रराज सर्पावलिरुल्लसन्ती तरङ्गमालेव नभोर्णवस्य ॥",
+    "padaccheda": "दिङ्नागहस्ताकृतिम् । उद्वहद्भिः । भोगैः । प्रशस्तासितरत्ननीलैः । रराज । सर्पावलिः । उल्लसन्ती । तरङ्गमाला । इव । नभोर्णवस्य",
+    "anvaya": "दिङ्नाग-हस्त-आकृतिम् उद्वहद्भिः प्रशस्त-असित-रत्न-नीलैः भोगैः उल्लसन्ती सर्प-आवलिः नभः-अर्णवस्य तरङ्गमाला इव रराज।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The glittering line of serpents, with their hoods—which resembled the trunks of the celestial elephants and were dark blue like excellent sapphires—shone like a series of waves in the ocean of the sky.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005716,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दिङ्नागेति ॥ दिङ्नागहस्ताकृतिमुद्वहद्भिर्दिक्करिकराकारैस्तथा प्रशस्तानि समीचीनान्यसितरत्नानीन्द्रनीलमणयस्तद्वन्नीलौंर्भागैः कार्यरुपलक्षिता सर्पावलिरुल्लसन्ती प्रक्षुभ्यन्ती नभ एवार्णवस्तस्य तरङ्गमालेव रराज । रूपकोत्थापितेयमुत्प्रेक्षा ॥"
+    }
+  ]
+}

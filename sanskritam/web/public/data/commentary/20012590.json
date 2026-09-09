@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20012590,
+    "chapter_id": 6693,
+    "verse_number": "1.35",
+    "content_sanskrit": "शिवविष्णुवागमपरैर्लिङ्गचक्रादिचिह्नितैः । पाखण्डैः कर्म संन्यस्तं कारुण्यमिव दुर्जनैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012590,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "शिवेति । स्पष्टोऽर्थः ॥ ३५ ॥ ॥ ३५ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20012590,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "संन्यस्तं त्यक्तम् । विधिं विनैव समुज्झितमि- त्यर्थः । तेन नाधिकारिकर्तृकवैधसंन्यासेऽतिव्याप्तिरिति तत्त्वम्"
+    }
+  ]
+}

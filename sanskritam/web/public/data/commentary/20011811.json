@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011811,
+    "chapter_id": 6686,
+    "verse_number": "14.35",
+    "content_sanskrit": "वसन्तसमयस्तत्र वसन्तं वासवानुजम् । रमयामास सत्पुष्पै रमयाऽऽश्लिष्टवक्षसम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011811,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यमकं शब्दालङ्कारोऽसौ ॥"
+    }
+  ]
+}

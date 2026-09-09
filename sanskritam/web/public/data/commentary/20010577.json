@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010577,
+    "chapter_id": 6675,
+    "verse_number": "3.19",
+    "content_sanskrit": "परैरहार्यं तस्यासीद्वीर्यमेवार्कतेजसः । धनं तु सकलं हार्यमिन्दुकान्तेरजायत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010577,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "परैरहार्यं तस्यासीद्वीर्यमिति । अहार्यं ऋहलोर्ण्यत् (पा.३|१|१२४) । अनेन तेजस्विनो वदान्यातिशय उच्यते । परैः प्रत्यर्थिभिरर्थिभिश्च ॥"
+    }
+  ]
+}

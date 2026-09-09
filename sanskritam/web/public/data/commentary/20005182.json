@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005182,
+    "chapter_id": 6620,
+    "verse_number": "8.26",
+    "content_sanskrit": "विनिर्यतीनां गुरुस्वेदमन्थरं सुराङ्गनानामनुसानुवर्त्मनः । सविस्मयं रूपयतो नभश्चरान्विवेश तत्पूर्वमिवेक्षणादरः ॥",
+    "padaccheda": "विनिर्यतीनां । गुरुस्वेदमन्थरं । सुराङ्गनानाम् । अनुसानुवर्त्मनः । सविस्मयं । रूपयतः । नभश्चरान् । विवेश । तत्पूर्वम् । इव । ईक्षणादरः",
+    "anvaya": "अनुसानुवर्त्मनः गुरुस्वेदमन्थरं विनिर्यतीनां सुराङ्गनानां सविस्मयं रूपयतः नभश्चरान् ईक्षणादरः तत्पूर्वम् इव विवेश ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The keen gaze of the sky-dwellers (Gandharvas) entered them as if for the first time, as they watched with wonder the celestial women emerging slowly, due to heavy perspiration, from the path along the mountain ridge.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005182,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "विनिर्यतीनामिति॥ सविस्मयं रूपयतः पूर्वोक्तचरणादीनि वर्णयतो नभश्चरान्गन्धर्वोस्तत्पूर्वमिव तदेव प्रथमं यथा तथेत्युत्प्रेक्षा । ईक्षणादर आलोकनकौतुकं विवेश । पूर्वार्धं व्याख्यातम् । अत्र कुलके स्वभावोक्तिरुत्प्रेक्षाङ्गम् ॥ संप्रति सलिलक्रीडावर्णनमारभते"
+    }
+  ]
+}

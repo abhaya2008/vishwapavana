@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003959,
+    "chapter_id": 6599,
+    "verse_number": "4.41",
+    "content_sanskrit": "अभिलाषमुदीरितेन्द्रियः स्वसुतायामकरोत्प्रजापतिः । अथ तेन निगृह्य विक्रियामभिशप्तः फलमेतदन्वभूत् ॥",
+    "padaccheda": "अभिलाषम् । उदीरितेन्द्रियः । स्वसुतायाम् । अकरोत् । प्रजापतिः । अथ । तेन । निगृह्य । विक्रियाम् । अभिशप्तः । फलम् । एतत् । अन्वभूत्",
+    "anvaya": "प्रजापतिः उदीरित-इन्द्रियः (सन्) स्व-सुतायाम् अभिलाषम् अकरोत्। अथ तेन विक्रियाम् निगृह्य अभिशप्तः (सन्) एतत् फलम् अन्वभूत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Prajapati (Brahma), with his senses aroused, felt desire for his own daughter. Then, having been cursed by him (Shiva) for restraining that perversion, your husband (Kama) experienced this result.\"",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003959,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अभिलाषेति ॥ उदीरितेन्द्रियः प्रेरितेन्द्रियः स्मरेणेति शेषः । प्रजापतिर्ब्रह्मा स्वसुतायां सरस्वत्यामभिलाषमनुरागमकरोत् । अथ तेन प्रजापतिना विक्रियामिन्द्रियविकारं निगृह्य निरुद्याभिशप्तः सन् । एतत् फलं दाहात्मकं स्वकर्मफलमन्वभूत्"
+    }
+  ]
+}

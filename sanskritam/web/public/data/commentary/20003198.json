@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003198,
+    "chapter_id": 6589,
+    "verse_number": "13.28",
+    "content_sanskrit": "पूर्वानुभूतं स्मरता च यत्र कम्पोत्तरं भीरु! तवोपगूढम् । गुहाविसारीण्यतिवाहितानि मया कथंचिद्धनगर्जितानि ॥",
+    "padaccheda": "पूर्वानुभूतं । स्मरता । च । यत्र । कम्पोत्तरं । भीरु । तव । उपगूढम् । गुहाविसारीणि । अतिवाहितानि । मया । कथंचिद् । घनगर्जितानि",
+    "anvaya": "भीरु! यत्र पूर्व-अनुभूतम् कम्प-उत्तरम् तव उपगूढम् स्मरता मया गुहा-विसारीणि घन-गर्जितानि कथञ्चित् अतिवाहितानि ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O timid one!\" Rama says, \"There, remembering your trembling embrace from before, I somehow managed to endure the thunder of the clouds as it reverberated through the caves.\"",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003198,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पूर्वेति॥ किंच, हे भीरु! यत्र शृङ्गे पूर्वानुभूतं कम्पोत्तरं कम्पप्रधानं तवोपगूढमुपगूहनं स्मरता मया गुहाविसारीणि घनगर्जितानि कथँचिदतिवाहितानि। स्मारकत्वेनोद्दीपकत्वात्ल्केशेन गमितानीत्यर्थः ॥"
+    }
+  ]
+}

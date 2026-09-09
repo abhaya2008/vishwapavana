@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002799,
+    "chapter_id": 6584,
+    "verse_number": "8.89",
+    "content_sanskrit": "स्वशरीरशरीरिणावपि श्रुतसंयोगविपर्ययौ यदा । विरहः किमिवानुतापयेद्वद बाह्यैर्विषयैर्विपश्चितम् ॥",
+    "padaccheda": "स्व-शरीर-शरीरिणौ । अपि । श्रुत-संयोग-विपर्ययौ । यदा । विरहः । किम् । इव । अनुतापयेत् । वद । बाह्यैः । विषयैः । विपश्चितम्",
+    "anvaya": "वद, यदा स्व-शरीर-शरीरिणौ अपि श्रुत-संयोग-विपर्ययौ (स्तः), (तदा) बाह्यैः विषयैः विरहः विपश्चितम् किम् इव अनुतापयेत्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "Tell me, when even one's own body and the indwelling soul are known to have union and inevitable separation, how can separation from external objects cause grief to a wise person?",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002799,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्वेति॥ स्वस्य शरीरशरीरिणौ देहात्मानावपि यदा यतः श्रुतौ श्रुत्यवगतौ संयोगविपर्ययौ संयोगवियोगौ ययोस्तौ तथोक्तौ। तदा बाह्यैर्विषयैः पुत्रमित्रकलत्रादिभिर्विरहो विपश्चितं विद्वांसं किमिवानुतापयेत्त्वं वद। न किंचिदित्यर्थः। अथवा, -`स्व`शब्दस्य शरीरेणैव संबन्धः ॥"
+    }
+  ]
+}

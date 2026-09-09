@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004080,
+    "chapter_id": 6601,
+    "verse_number": "6.30",
+    "content_sanskrit": "उन्नतेन स्थितिमता धुरमुद्वहता भुवः । तेन योजितसंबन्धं वित्त मामप्यवञ्चितम् ॥",
+    "padaccheda": "उन्नतेन । स्थितिमता । धुरम् । उद्वहता । भुवः । तेन । योजितसंबन्धम् । वित्त । माम् । अपि । अवञ्चितम्",
+    "anvaya": "उन्नतेन, स्थिति-मता, भुवः धुरम् उद्वहता तेन योजित-संबन्धम् माम् अपि अवञ्चितम् वित्त ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Know that I too, by forming a relationship with him—who is lofty, steadfast, and bears the burden of the earth—will not be making an unworthy connection.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004080,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उन्नतेनेति । उन्नतेन प्रांशुना प्रसिद्धेन च स्थितिमता प्रतिष्ठावता भुवो धुरं भारमुद्वहता । निर्वाहकेणेत्यर्थः । तेन हिमवता योजितः संबन्धो यौनसंबन्धो यस्य तं मामप्यवञ्चितमव्यामोहितं वित्त जानीति । `विद ज्ञाने` इति धातोर्लोट्"
+    }
+  ]
+}

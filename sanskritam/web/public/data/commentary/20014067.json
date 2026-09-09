@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014067,
+    "chapter_id": 6706,
+    "verse_number": "14.138",
+    "content_sanskrit": "तस्मादार्यः प्रास्थितोऽभूत्सशिष्य- स्तीर्थस्नानोपात्तचित्तामलत्वः । पश्यन्देशान्मातुलीयं जगाहे गेहं दाहं तस्य पुस्तने सार्धम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 138,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014067,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "स्नानेनोपात्तं चित्तनिर्मलत्वं येन स तस्य गृहस्य पुस्तकेन सह दाहं श्रुत्वेति परेणान्वयः ॥ ३८ ॥"
+    }
+  ]
+}

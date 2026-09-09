@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004397,
+    "chapter_id": 6605,
+    "verse_number": "10.14",
+    "content_sanskrit": "रौद्रेण दह्यमानस्य महसातिमहीयसा । मम प्राणपरित्राणप्रगुणो भव वासव ! ॥",
+    "padaccheda": "रौद्रेण । दह्यमानस्य । महसा । अतिमहीयसा । मम । प्राणपरित्राणप्रगुणः । भव । वासव",
+    "anvaya": "वासव ! अतिमहीयसा रौद्रेण महसा दह्यमानस्य मम प्राणपरित्राणप्रगुणः भव ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Agni cries out to Indra (Vāsava), asking him to be ready to save his life, as he is being consumed by the exceedingly great and fierce luster of Śiva.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004397,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "राद्रेणेति । हे वासव इन्द्र, अतिमहीयसा रौद्रेण शाम्भवेन महसा तेजसा दह्यमानस्य मम प्राणानां परित्राणेन प्रगुणो विख्यातो भव । मम प्राणत्राणे भवतो महद्यशो भविष्यतीति भावः"
+    }
+  ]
+}

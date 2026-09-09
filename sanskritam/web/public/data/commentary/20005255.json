@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005255,
+    "chapter_id": 6621,
+    "verse_number": "9.42",
+    "content_sanskrit": "शीधुपानविधुरासु निगृह्णन्मानमाशु शिथिलीकृतलज्जः । संगतासु दयितैरुपलेभे कामिनीषु मदनो नु मदो नु ॥",
+    "padaccheda": "शीधुपानविधुरासु । निगृह्णन् । मानम् । आशु । शिथिलीकृतलज्जः । संगतासु । दयितैः । उपलेभे । कामिनीषु । मदनः । नु । मदः । नु",
+    "anvaya": "दयितैः संगतासु, शीधुपानविधुरासु कामिनीषु, मानं निगृह्णन्, आशु शिथिलीकृतलज्जः (कर्ता) मदनः नु मदः नु (इति) उपलेभे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the loving women, who were united with their lovers and agitated from drinking wine, an agent was perceived that suppressed their pride and quickly loosened their shame. It was hard to tell whether this agent was the god of love (Madana) or intoxication (Mada).",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005255,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "शीध्विति ॥ शेरतेऽनेनेति शीधु पक्केक्षुरसविकारो मद्यविशेषस्तस्य पानेन विधु रासु विमूढासु । तथा दयितैः संगतासु स्वयंप्राप्तासु च कामिनीष्वतिमानवतीस्वाशु मानं कोपं निगृह्णन्निवर्तयन् । शिथिलीकृता लज्जा येन स मदनो तु मदो नूपलेभे । लक्ष्यते स्मेत्यर्थः । प्रियसमागमशीधुपानरूपोभयकारणाभङ्गादुभयथा माननिग्रहाद्यनुभावसाधारण्याच्च संदेहः । स एवालंकारः ॥"
+    }
+  ]
+}

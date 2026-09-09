@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010651,
+    "chapter_id": 6675,
+    "verse_number": "3.93",
+    "content_sanskrit": "यत्रोद्यानतरुच्छिद्रपतितेन्दुप्रभालवान् । पारावतास्सिताश्माभान् वलभीषु निर्निसिरे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 93,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010651,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निर्निसिरे चुचुंबुः । णिसि चुंबने । अनुदात्तेत् । स्वभावोक्तिरियम् ॥"
+    }
+  ]
+}

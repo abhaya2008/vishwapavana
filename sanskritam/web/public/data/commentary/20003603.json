@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003603,
+    "chapter_id": 6593,
+    "verse_number": "17.76",
+    "content_sanskrit": "पराभिसंधानपरं यद्यप्यस्य विचेष्टितम् । जिगीषोरश्वमेधाय धर्म्यमेव बभूव तत् ॥",
+    "padaccheda": "परभिसंधानपरं । यद्यपि । अस्य । विचेष्टितम् । जिगीषोः । अश्वमेधाय । धर्म्यम् । एव । बभूव । तत्",
+    "anvaya": "यद्यपि अस्य विचेष्टितम् पर अभिसन्धान परम् (आसीत्), तत् जिगीषोः अश्वमेधाय धर्म्यम् एव बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although King Atithi's actions were aimed at conquering other kings, his endeavors were considered righteous. This was because his desire for conquest was not for personal gain but for performing the sacred Ashvamedha (horse) sacrifice, a duty prescribed for a universal monarch.",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003603,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "परेति॥ अश्वमेधाय जिगीषोरस्य विचेष्टितं दिग्विजयरूपं यद्यपि पराभिसंधानपरं शत्रुवञ्चनप्रधानं तथापि तद्धर्म्यं धर्मादनपेतमेव। `धर्मपथ्यर्थन्यायादनपेते` (पा.4।4।92) इति यत्प्रत्ययः। बभूव। `मन्त्रप्रभावोत्साहशक्तिभिः परान्संदध्यात्` इति कौटिल्यः ॥"
+    }
+  ]
+}

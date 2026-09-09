@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166134,
+    "chapter_id": 7072,
+    "verse_number": "20.24",
+    "content_sanskrit": "क्व च ख्यातो रघोर्वंशः क्व तं पर-गृहोषिता ।अन्यस्मै हृदयं देहि नाऽनभीष्टे घटामहे ॥",
+    "padaccheda": "क्व । च । ख्यातः । रघोः । वंशः । क्व । त्वम् । पर-गृह-उषिता । अन्यस्मै । हृदयम् । देहि । न । अनभीष्टे । घटामहे",
+    "anvaya": "रघोः ख्यातः वंशः क्व च? पर-गृह-उषिता त्वम् क्व? अन्यस्मै हृदयम् देहि; अहम् अनभीष्टे न घटामहे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Where is the renowned lineage of Raghu, and where are you, who have lived in another's house? Give your heart to another; I do not unite with what is undesirable.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166134,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "क चेत्यादि - परिशुद्धत्वात्सर्वत्र ख्यातः लोके विदितो रघोवंशः क्व क्व च त्वं परगृहोपिता जातकलङ्कत्वात् । द्वयमप्येतद्दूरं भिन्नम् । सर्वत्र विधौ लोट् । अतोऽन्यस्मै हृदयं देहि चित्तं परस्मै देहि । वयं अनभिमते विषये न घटामहे । निमन्त्रणे लोट् ॥"
+    }
+  ]
+}

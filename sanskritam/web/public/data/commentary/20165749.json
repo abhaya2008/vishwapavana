@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165749,
+    "chapter_id": 7066,
+    "verse_number": "14.101",
+    "content_sanskrit": "दिद्विशुर्दुद्युवुश्चच्छुश्चक्लमुः सुषुपुर्हताः । चखादिरे चखादुश्च विलेपुश्च रणे भटाः ॥",
+    "padaccheda": "दिद्विशुः । दुद्युवुः । चच्छुः । चक्लमुः । सुषुपुः । हताः । चखादिरे । चखादुः । च । विलेपुः । च । रणे । भटाः",
+    "anvaya": "भटाः रणे दिद्विशुः, दुद्युवुः, चच्छुः, चक्लमुः, हताः सुषुपुः, चखादिरे, चखादुः च, विलेपुः च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the battle, the warriors hated one another, gambled with their lives, leaped about, and fainted. Some lay dead, some were devoured by scavengers, others devoured their enemies, and many lamented aloud.",
+    "audio_url": null,
+    "display_order": 101,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165749,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "दिद्विषुरित्यादि - रणे भटाः दिद्विषुः परस्परं द्विष्टवन्तः । द्विष अप्रीतौ ।' दुधुवुः अभिमुखं गतवन्तः । द्यु अभिगमने ।' चच्छुः छिन्नवन्तः । ‘छो छेदने ।' हताश्चक्लमुः मूर्च्छा गतवन्तः । सुषुपुः भूमौ पतिताः । वच्यादिना सम्प्रसारणम् । चखादिरे खादिताः । कर्मणि लिट् । चखादुः खादितवन्तः । विलेपुश्च विलापं कृतवन्तः । अत एक- हल (पा.६|४|१२०) इत्येत्वम् ॥ ।"
+    }
+  ]
+}

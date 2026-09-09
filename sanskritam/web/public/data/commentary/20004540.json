@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004540,
+    "chapter_id": 6607,
+    "verse_number": "12.47",
+    "content_sanskrit": "स्तुत्या पुरास्माभिरुपासितेन पितामहेनेति निरुपितं नः । सेनापतिः संयति दैत्यमेतं पुरः स्मरारातिसुतो निहन्ति ॥",
+    "padaccheda": "स्तुत्या । पुरा । अस्माभिः । उपासितेन । पितामहेन । इति । निरुपितम् । नः । सेनापतिः । संयति । दैत्यम् । एतम् । पुरः । स्मरारातिसुतः । निहन्ति",
+    "anvaya": "पुरा अस्माभिः स्तुत्या उपासितेन पितामहेन इति निरुपितम् नः सेनापतिः संयति पुरः एतम् दैत्यम् स्मरारातिसुतः निहन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Indra recalls that when they worshipped Brahmā with praises in the past, he prophesied that the son of Lord Śiva (the enemy of Kāmadeva) would become their commander-in-chief and slay this demon in battle.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004540,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्तुत्येति । हे भगवन्, पुरा पूर्वमस्माभिः स्तुत्या श्लाघयोपासितेनानुकूलितेन पितामहेन ब्रह्मणा नोऽस्मान् हे देवाः, संयति संगरे स्मरारातिसुतः शांकरिः सेनापतिः सेनानीः सन्नेतं दैत्यं पुरोऽग्रे निहन्ति । निहनिष्यतीत्यर्थः । `यावत्पुरानिपातयोर्लट्' इति निरुपितं कथितम्"
+    }
+  ]
+}

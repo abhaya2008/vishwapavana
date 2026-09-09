@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003166,
+    "chapter_id": 6588,
+    "verse_number": "12.100",
+    "content_sanskrit": "बालार्कप्रतिमेवाप्सु वीचिभिन्ना पतिष्यतः । रराज रक्षः कायस्य कण्ठच्छेदपरम्परा ॥",
+    "padaccheda": "बालार्कप्रतिमा । इव । अप्सु । वीचिभिन्ना । पतिष्यतः । रराज । रक्षःकायस्य । कण्ठच्छेदपरम्परा",
+    "anvaya": "पतिष्यतः रक्षःकायस्य कण्ठच्छेदपरम्परा अप्सु वीचिभिन्ना बालार्कप्रतिमा इव रराज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The series of severed, blood-red necks of the falling demon Ravana glowed brilliantly, resembling the reflection of the morning sun in water when it is fragmented into many pieces by the ripples of the waves.",
+    "audio_url": null,
+    "display_order": 100,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003166,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "बालेति॥ पतिष्यत आसन्नपातस्य रक्षःकायस्य रावणकलेवरस्य छिद्यन्त इति छेदाः खण्डाः। कण्ठानां ये छेदास्तेषां परम्परा पङ्क्तिः। वीचिमिर्भिन्ना नानाकृताप्सु बालार्कस्य प्रतिमा प्रतिबिम्बमिव। रराज। अर्कस्य बालविशेषणमारुण्यसिद्ध्यर्थमिति भावः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166119,
+    "chapter_id": 7072,
+    "verse_number": "20.9",
+    "content_sanskrit": "उक्तवान्राघवः-\"सीतामानयाऽलंकृतामिति।\" । गत्वा प्रणम्य तेनोक्ता मैथिली मधुरं वचः ॥",
+    "padaccheda": "राघवः । उक्तवान् । सीताम् । अलङ्कृताम् । आनय । इति । गत्वा । प्रणम्य । तेन । मैथिली । मधुरम् । वचः । उक्ता",
+    "anvaya": "राघवः उक्तवान् - सीताम् अलङ्कृताम् आनय इति । गत्वा प्रणम्य तेन मैथिली मधुरम् वचः उक्ता ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāghava said: \"Bring Sītā adorned with ornaments.\" Having gone and bowed, Vibhīṣaṇa spoke sweet words to Maithilī.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166119,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "उक्तवानित्यादि - सीतामलंकृतामानयेति राघव उक्तवान् । विधौ लोट् । तेन विभीषणेन गत्वा प्रणम्य च मैथिल्युक्ता मधुरं वचः ॥"
+    }
+  ]
+}

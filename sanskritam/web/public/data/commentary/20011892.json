@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011892,
+    "chapter_id": 6686,
+    "verse_number": "14.116",
+    "content_sanskrit": "ववन्दे श्वशुरौ पार्थो देवक्यानकदुन्दुभी । भद्रकामस्सुभद्रा च पौलोमीपाकशासनौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 116,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011892,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "श्वशुरौ । श्वश्रूश्च श्वशुरश्च श्वशुरौ । श्वशुरः श्वश्र्वा (पा.१|२|७१) इत्येकशेषः ।"
+    }
+  ]
+}

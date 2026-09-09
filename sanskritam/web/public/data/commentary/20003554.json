@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003554,
+    "chapter_id": 6593,
+    "verse_number": "17.27",
+    "content_sanskrit": "स राजककुदव्यग्रपाणिभिः पार्श्ववर्तिभिः । ययावुदीरितालोकः सुधर्मानवमां सभाम् ॥",
+    "padaccheda": "सः । राजककुदव्यग्रपाणिभिः । पार्श्ववर्तिभिः । ययौ । उदीरितालोकः । सुधर्मानवमाम् । सभाम्",
+    "anvaya": "उदीरितालोकः सः राजककुदव्यग्रपाणिभिः पार्श्ववर्तिभिः (सह) सुधर्मा-अनवमाम् सभाम् ययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hailed with cries of victory, he proceeded to the assembly hall, which was not inferior to Indra's hall 'Sudharma', accompanied by attendants whose hands were occupied with carrying the royal insignia.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003554,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ सोऽतिथी राजककुदानि राजचिह्नानि छत्रचामरादीनि। `प्राधान्ये राजलिङ्गे च वृषाङअके ककुदोऽस्त्रियाम्` इत्यमरः (अ.को.1|1|59)। तेषु व्यग्राः पाणयो येषां तैः पार्श्ववर्तिभिर्जनैरुदीरितालोक उञ्चारितजयशब्दः। `आलोको जयशब्दः स्यात्` इति हलायुधः। सुधर्माया देवसभाया अनवमामन्यूनां सभामास्थानीं ययौ। `स्यात्सुधर्मा देवसभा` इत्यमरः (अ.को.1|1|59) ॥"
+    }
+  ]
+}

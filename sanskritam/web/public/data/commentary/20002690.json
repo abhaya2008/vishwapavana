@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002690,
+    "chapter_id": 6583,
+    "verse_number": "7.51",
+    "content_sanskrit": "कश्चिद्विषत्खङ्गहृतोत्तमाङ्गः सद्यो विमानप्रभुतामुपेत्य । वामाङ्गसंसक्तसुराङ्गनः स्वं नृत्यत्कबन्धं समरे ददर्श ॥",
+    "padaccheda": "कश्चित् । विषत्खङ्गहृतोत्तमाङ्गः । सद्यः । विमानप्रभुताम् । उपेत्य । वामाङ्गसंसक्तसुराङ्गनः । स्वम् । नृत्यत्कबन्धम् । समरे । ददर्श",
+    "anvaya": "कश्चित् विषत्खङ्गहृतोत्तमाङ्गः सद्यः विमानप्रभुताम् उपेत्य वामाङ्गसंसक्तसुराङ्गनः (सन्) समरे स्वम् नृत्यत्कबन्धम् ददर्श।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A certain warrior, whose head was severed by an enemy's sword, immediately attained lordship of a celestial chariot. With a celestial nymph clinging to his left side, he watched his own headless trunk dancing on the battlefield.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002690,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कश्चिदिति॥ द्विषतः खङ्गेन हृतोत्तमाङ्गश्छिन्नशिराः कश्चिद्वीरः सद्यो विमानप्रभुतां विमानाधिपत्यम्। देवत्वमित्यर्थः। उपेत्य प्राप्य वामाङ्गसंसक्ता सव्योत्सङ्गसङ्गिनी सुराङ्गना यस्य स तथोक्तः सन्, समरे नृत्यत्स्वं निजं कबन्धं अशिरस्कं कलेवरं ददर्श। `कबन्धोऽस्त्री क्रियायुक्तमपमूर्धकलेवरम्` इत्यमरः (अ.को.2|8|118) ॥"
+    }
+  ]
+}

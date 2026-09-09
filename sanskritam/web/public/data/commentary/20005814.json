@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005814,
+    "chapter_id": 6630,
+    "verse_number": "18.8",
+    "content_sanskrit": "प्रववृतेऽथ महाहवमल्लयोरचलसंचलनाहरणो रणः । करणशृङ्खलसंकलनागुरुर्गुरुभुजायुधगर्वितयोस्तयोः ॥",
+    "padaccheda": "प्रववृते । अथ । महाहवमल्लयोः । अचलसंचलनाहरणः । रणः । करणशृङ्खलसंकलनागुरुः । गुरुभुजायुधगर्वितयोः । तयोः",
+    "anvaya": "अथ गुरु-भुज-आयुध-गर्वितयोः, महा-आहव-मल्लयोः तयोः, अचल-संचलन-आहरणः, करण-शृङ्खल-संकलन-अगुरुः रणः प्रववृते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then began a wrestling match between those two great combatants, who were proud of their mighty arm-weapons. The fight was capable of shaking mountains and was heavy with the interlocking chains of their limbs.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005814,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रववृत इति ॥ अथ महाहवे महारणे मल्लयोर्बलीयसो: । `मल्लः पात्रे कपोले च मत्स्यभेदे बलीयसि` इति विश्वः। गुरू भुजान्नेवायुधं तेन गर्वितयोस्तयोः शिवार्जुनयोः करणानि करचरणबन्धनान्येव शृङ्खलानि तेषां संकलना संघटना तया गुरुर्दुस्तरस्तथाचलस्य हिमाद्रेः संचलनं कम्पस्तस्याहरण आरोपकः। कर्तरि ल्युट् । रणःप्रववृते प्रवृत्तः॥"
+    }
+  ]
+}

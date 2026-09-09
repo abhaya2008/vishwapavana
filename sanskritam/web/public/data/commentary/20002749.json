@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002749,
+    "chapter_id": 6584,
+    "verse_number": "8.39",
+    "content_sanskrit": "उभयोरपि पार्श्ववर्तिनां तुमुलेनार्तिरवेण विजिताः । विहगाः कमलाकरालयाः समदुःखा इव तत्र चुक्रुशुः ॥",
+    "padaccheda": "उभयोः । अपि । पार्श्ववर्तिनां । तुमुलेन । आर्तिरवेण । विजिताः । विहगाः । कमलाकरालयाः । समदुःखा । इव । तत्र । चुक्रुशुः",
+    "anvaya": "तत्र कमल-आकर-आलयाः विहगाः उभयोः अपि पार्श्व-वर्तिनां तुमुलेन आर्ति-रवेण विजिताः, सम-दुःखाः इव चुक्रुशुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the birds dwelling in the lotus ponds, overcome by the tumultuous cry of grief from the attendants of both (Aja and Indumati), cried out as if sharing their sorrow.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002749,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उभयोरिति॥ उभयोर्दम्पत्योः पार्श्ववर्तिनां परिजनानां तुमुलेन संकुलेनार्तरवेण करुणस्वनेन वेजिता भीताः कमलाकरालयाः सरःस्थिता विहगा हंसादयोऽपि तत्रोपवने समदुःखा इव तत्पार्श्ववर्तिनां समानशोका इव चुक्रुशुः क्रोशन्ति स्म ॥"
+    }
+  ]
+}

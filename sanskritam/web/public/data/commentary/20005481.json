@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005481,
+    "chapter_id": 6624,
+    "verse_number": "12.46",
+    "content_sanskrit": "न विरोधिनी रुषमियाय पथि मृगविहङ्गसंहतिः । घ्नन्ति सहजमपि भूरिभियः सममागताः सपदि वैरमापदः ॥",
+    "padaccheda": "न । विरोधिनी । रुषम् । इयाय । पथि । मृगविहङ्गसंहतिः । घ्नन्ति । सहजम् । अपि । भूरिभियः । समम् । आगताः । सपदि । वैरम् । आपदः",
+    "anvaya": "पथि विरोधिनी मृगविहङ्गसंहतिः रुषम् न इयाय। भूरिभियः समम् आगताः आपदः सहजम् अपि वैरम् सपदि घ्नन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On the path, the assembled groups of naturally hostile animals and birds did not show anger towards each other. Calamities, arriving together with great fear, instantly destroy even innate enmity.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005481,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति । पथि पलायनमार्गे विरोधिनी जातिवैरिणी मृगानां सिंहव्याघ्रादीनां विहंगानां काकोलूकानां च संहतिः संघो रुषं परस्परक्रोधं नेयाय न प्राप । किं तु सहैव चचारेत्यर्थः।तथा हि। भूरि प्रभूता भीर्यासु ताः समं साधारण्येनागता आपदो विपत्तयः सहजं स्वाभाविकमपि वैरं सपदि घ्नन्ति । नहि संघातव्यसनेषु प्रजायते वैरानुबन्ध इति भावः ॥"
+    }
+  ]
+}

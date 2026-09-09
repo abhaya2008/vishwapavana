@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165995,
+    "chapter_id": 7069,
+    "verse_number": "17.69",
+    "content_sanskrit": "यम-लोकमिवाऽग्रथ्नाद्रुद्राऽऽक्रीडमिवाऽकरोत् । शैलैरिवाऽचिनोद्भूमिं बृहद्भी राक्षसैर्हतैः ॥",
+    "padaccheda": "यम-लोकम् । इव । अग्रथ्नात् । रुद्र-आक्रीडम् । इव । अकरोत् । शैलैः । इव । अचिनोत् । भूमिम् । बृहद्भिः । राक्षसैः । हतैः",
+    "anvaya": "हतैः बृहद्भिः राक्षसैः भूमिम् यम-लोकम् इव अग्रथ्नात्, रुद्र-आक्रीडम् इव अकरोत्, शैलैः इव अचिनोत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With the massive slain Rākṣasas, he made the earth appear like the realm of Yama or the cremation ground of Rudra, piling them up like mountains.",
+    "audio_url": null,
+    "display_order": 69,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165995,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "यमलोकमित्यादि - स राघवः तैः राक्षसैः बृहद्भिः यमलोकमिवाग्रश्नात् सन्दर्भितवान् । १० | श्रन्थ ग्रन्थ सन्दर्भे' इति क्रयादिः । रुद्राक्रीडमिव रुद्रस्य क्रीडास्थानं स्मशानमिवाकरोत् । भूमिं शैलैरिवाचिनोत् छादितवान् ॥"
+    }
+  ]
+}

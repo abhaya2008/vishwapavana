@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004709,
+    "chapter_id": 6611,
+    "verse_number": "16.1",
+    "content_sanskrit": "अथान्योन्यं विमुक्तास्त्रशस्त्रजालैर्भयङ्करैः । युद्धमासीत्सुनासीरसुरारिबलयोर्महत् ॥",
+    "padaccheda": "अथ । अन्योन्यम् । विमुक्तास्त्रशस्त्रजालैः । भयङ्करैः । युद्धम् । आसीत् । सुनासीरसुरारिबलयोः । महत्",
+    "anvaya": "अथ भयङ्करैः अन्योन्यं विमुक्तास्त्रशस्त्रजालैः सुनासीरसुरारिबलयोः महत् युद्धम् आसीत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then a fierce and great battle commenced between the armies of Indra and the demons. The conflict was characterized by terrifying volleys of missiles and weapons launched mutually by both sides.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004709,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति । अथ सुरासुरसंमेलनानन्तरम् । भयंकरैर्भयमुत्पादयद्भिः । अन्योन्यं परस्परं विमुक्तानि प्रहर्तुं विसृष्टान्यस्त्रशस्त्राणां शरादिमोहनादीनां जालानि समूहास्तैः कृत्वा । सुनासीर इन्द्रः, सुरारिस्तारकः, तयोर्बले सैन्ये तयोः । `बलं गन्धरसे रुपे स्थामनि स्थौल्यसैन्ययोः' । इति विश्वः । महद्धोरं युद्धं सङ्ग्राम आसीद्वभूव । सर्गेऽस्मिन्वृत्तमनुष्टुप्"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002723,
+    "chapter_id": 6584,
+    "verse_number": "8.13",
+    "content_sanskrit": "रघुरश्रुमुखस्य तस्य तत्कृतवानीप्सितमात्मजप्रियः । न तु सर्प इव त्वचं पुनः प्रतिपेदे व्यपवर्जितां श्रियम् ॥",
+    "padaccheda": "रघुः । अश्रुमुखस्य । तस्य । तत् । कृतवान् । ईप्सितम् । आत्मजप्रियः । न । तु । सर्पः । इव । त्वचम् । पुनः । प्रतिपेदे । व्यपवर्जिताम् । श्रियम्",
+    "anvaya": "आत्मज-प्रियः रघुः अश्रु-मुखस्य तस्य तत् ईप्सितम् कृतवान् । तु सर्पः त्वचम् इव व्यपवर्जिताम् श्रियम् पुनः न प्रतिपेदे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Raghu, fond of his son, granted the wish of the tear-faced Aja. However, just as a snake does not take back its sloughed-off skin, he did not take back the royal fortune he had already relinquished.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002723,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रघुरिति॥ आत्मजप्रियः पुत्रवत्सलो रघुः। अश्रूणि मुखे यस्य तस्याश्रुमुखस्याजस्य तदपरित्यागरूपमीप्सितमभिलषितं कृतवान्। किंतु सर्पस्त्वचमिव व्यपवर्जितां त्यक्तां श्रियं पुनर्न प्रतिपेदे न प्राप ॥"
+    }
+  ]
+}

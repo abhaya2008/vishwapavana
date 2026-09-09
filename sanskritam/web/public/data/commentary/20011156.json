@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011156,
+    "chapter_id": 6680,
+    "verse_number": "8.42",
+    "content_sanskrit": "तीर्णनाव्यसमुद्रांभो लब्धसद्रत्नराशयः । कच्चित्तव पुरे यान्ति विशो वित्तेशतुल्यताम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011156,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "नाव्यतुल्ययोस्तार्यसमितयोर्यत् ॥"
+    }
+  ]
+}

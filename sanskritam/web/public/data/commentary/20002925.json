@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002925,
+    "chapter_id": 6586,
+    "verse_number": "10.38",
+    "content_sanskrit": "जाने वो रक्षसाक्रान्तावनुभावपराक्रमौ । अङ्निनां तमसेवोभौ गुणौ प्रथममध्यमौ ॥",
+    "padaccheda": "जाने । वः । रक्षसा । आक्रान्तौ । अनुभावपराक्रमौ । अङ्गिनाम् । तमसा । इव । उभौ । गुणौ । प्रथममध्यमौ",
+    "anvaya": "(अहम्) वः अनुभावपराक्रमौ रक्षसा आक्रान्तौ जाने, तमसा अङ्गिनाम् उभौ प्रथममध्यमौ गुणौ इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "I know that your majesty and valor are eclipsed by the Rakshasa (Ravana), just as the qualities of Sattva (goodness) and Rajas (passion) in embodied beings are overwhelmed by Tamas (darkness/ignorance).",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002925,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जान इति॥ हे देवाः! वो युष्माकमनुभाव-पराक्रमौ महिम-पुरुषकारौ रक्षसा रावणेन। अङ्गिनां शरीरिणां प्रथम-मध्यमावुभौ गुणौ सत्त्व-रजसी तमसेव तमोगुणेनेव। आक्रान्तौ जाने। वाक्यार्थः कर्म ॥"
+    }
+  ]
+}

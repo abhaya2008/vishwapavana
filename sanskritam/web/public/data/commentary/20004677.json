@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004677,
+    "chapter_id": 6610,
+    "verse_number": "15.22",
+    "content_sanskrit": "निर्घातघोषो गिरिशृङ्गशातनो घनोऽम्बराशाकुहरोदरम्भरिः । बभूव भूम्ना श्रुतिभित्तिभेदनः प्रकोपिकालार्जितगर्जितर्जनः ॥",
+    "padaccheda": "निर्घातघोषः । गिरिशृङ्गशातनः । घनः । अम्बराशाकुहरोदरम्भरिः । बभूव । भूम्ना । श्रुतिभित्तिभेदनः । प्रकोपिकालार्जितगर्जितर्जनः",
+    "anvaya": "गिरिशृङ्गशातनः अम्बराशाकुहरोदरम्भरिः श्रुतिभित्तिभेदनः प्रकोपिकालार्जितगर्जितर्जनः निर्घातघोषः भूम्ना बभूव॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "There arose a massive sound of an atmospheric explosion that shattered mountain peaks. This dense sound filled the hollows of the sky and the horizons, piercing the ears of all, resembling the terrifying roar of an enraged Kāla.",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004677,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निर्धातेति । प्रकोपिना प्रकृष्टरोषेण कालेन यमेनार्जितोत्पादिता गर्जिना गर्जनां कुर्वती तर्जनापकारगीर्यंत्र । अत एवाम्बरस्याशानां च कुहरेणान्तरेणोदरंभरिः, अत एव गिरीणां श्रृङ्गस्य शातनो भेदकः तथा घनः सान्द्रो निर्घातश्चासौ घोषश्च स भूम्ना बाहुल्येन श्रुतिभित्तिभेदनः कर्णकुड्यताडनो बभूव । चतुर्दशतमोऽयमुत्पातः"
+    }
+  ]
+}

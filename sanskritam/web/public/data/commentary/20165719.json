@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165719,
+    "chapter_id": 7066,
+    "verse_number": "14.71",
+    "content_sanskrit": "डुढौकिरे पुनर्लङ्कां बुबुधे तान्दशाननः । जीवतश्च विवेदाऽरीन्बभ्रंशेऽसौ धृतेस्ततः ॥",
+    "padaccheda": "डुढौकिरे । पुनः । लङ्काम् । बुबुधे । तान् । दशाननः । जीवतः । च । विवेद । अरीन् । बभ्रंशे । असौ । धृतेः । ततः",
+    "anvaya": "ते पुनः लङ्काम् डुढौकिरे दशाननः तान् बुबुधे। अरीन् जीवतः च विवेद असौ ततः धृतेः बभ्रंशे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "They approached Laṅkā again, and the ten-faced Rāvaṇa noticed them. Learning that his enemies were alive, he lost his fortitude.",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165719,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "डुढौकिर इत्यादि — पुनर्भूयो लङ्कां डुढौकिरे जग्मुः, तान् वानरान् ढौकितान् दशाननो बुबुधे बुद्धवान्, जीवतश्चारीन् रामादीन् विवेद ज्ञातवान् । अन्यथा कथं वानरा ढौकिता इति । ततश्च धृतेः सकाशाद्वभ्रंशे भ्रष्टः ॥"
+    }
+  ]
+}

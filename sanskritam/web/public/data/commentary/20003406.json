@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003406,
+    "chapter_id": 6591,
+    "verse_number": "15.70",
+    "content_sanskrit": "अथ सावरजो रामः प्राचेतसमुपेयिवान् । ऊरूकृत्यात्मनो देहं राज्यमस्मै न्यवेदयत् ॥",
+    "padaccheda": "अथ । सावरजः । रामः । प्राचेतसं । उपेयिवान् । ऊरीकृत्य । आत्मनः । देहं । राज्यं । अस्मै । न्यवेदयत्",
+    "anvaya": "अथ स-अवरजः रामः प्राचेतसम् उपेयिवान्, आत्मनः देहम् ऊरीकृत्य राज्यम् च अस्मै न्यवेदयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rama, with his younger brothers, approached Valmiki. Promising his own body and kingdom, he offered them to the sage.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003406,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथध सावरजो रामः प्राचेतसं वाल्मीकिमुपेयिवान् प्राप्तः सन्। देहमात्मानं ऊरीकृत्य। आत्मानं स्थापयित्वेत्यर्थः। राज्यमस्मै प्राचेतसाय न्यवेदयत् समर्पितवान् ॥"
+    }
+  ]
+}

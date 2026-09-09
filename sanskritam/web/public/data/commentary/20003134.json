@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003134,
+    "chapter_id": 6588,
+    "verse_number": "12.68",
+    "content_sanskrit": "निविष्टमुदधेः कूले तं प्रपेदे विभीषणः । स्नेहाद्राक्षसलक्ष्म्येव बुद्धिमाविश्य चोदितः ॥",
+    "padaccheda": "निविष्टम् । उदधेः । कूले । तम् । प्रपेदे । विभीषणः । स्नेहात् । राक्षसलक्ष्म्या । इव । बुद्धिम् । आविश्य । चोदितः",
+    "anvaya": "उदधेः कूले निविष्टं तं विभीषणः प्रपेदे । स्नेहात् राक्षसलक्ष्म्या इव बुद्धिम् आविश्य चोदितः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Vibhishana approached Rama, who was encamped on the ocean shore. It was as if the Royal Fortune of the Rakshasas herself had entered his mind and impelled him out of affection.",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003134,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "निविष्टमिति॥ उदधेः कूले निविष्टं तं रामम्। विशेषेण भीषयते शत्रूनिति विभीषणो रावणानुजः। राक्षसलक्ष्म्या स्नेहाद्बुद्धिं कर्तव्यताज्ञानमाविश्य चोदितः प्रेरित इव। प्रपेदे प्राप्तः ॥"
+    }
+  ]
+}

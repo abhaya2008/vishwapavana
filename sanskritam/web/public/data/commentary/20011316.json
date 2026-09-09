@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011316,
+    "chapter_id": 6681,
+    "verse_number": "9.68",
+    "content_sanskrit": "कोपेन भस्मसाद्भूतं भवस्योत्पादितं पुनः । भवान्या करुणादृष्ट्या कामं साऽमन्यत प्रियम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011316,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भस्मसाद्भूतमिति । कात्स्न्येन भस्मभूतमित्यर्थः । 'विभाषा साति कार्त्स्न्ये' (पा.५|४|५२) इति सातिः ॥"
+    }
+  ]
+}

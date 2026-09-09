@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004432,
+    "chapter_id": 6605,
+    "verse_number": "10.49",
+    "content_sanskrit": "चन्द्रचूडामणिर्देवो यामुद्वहति मूर्धनि । यस्या विलोकनं पुण्यं श्रद्दधूस्ता मुदा हृदि ॥",
+    "padaccheda": "चन्द्रचूडामणिः । देवः । याम् । उद्वहति । मूर्धनि । यस्याः । विलोकनम् । पुण्यम् । श्रद्दधुः । ताः । मुदा । हृदि",
+    "anvaya": "चन्द्रचूडामणिः देवः यां मूर्धनि उद्वहति, यस्याः विलोकनं पुण्यं, ताः मुदा हृदि श्रद्दधुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Kṛttikās felt great devotion in their hearts for the river whom Lord Śiva, the moon-crested one, carries on his head and whose mere sight is known to be meritorious.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004432,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "चन्द्रेति । चन्द्रश्चूजामणिभूतो यस्य स देवो हरो मूर्धनि यामुद्वहति । यस्या विलोकनं पुण्यं पुण्यकारि तां गङ्गा ता हृदि मनसि मुदा प्रीत्या श्रद्दधुः । श्रद्धितां चक्रुरित्यर्थः । गुणवत्सु श्रद्धाया औचित्यादिति भावः"
+    }
+  ]
+}

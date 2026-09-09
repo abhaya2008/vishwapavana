@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003801,
+    "chapter_id": 6597,
+    "verse_number": "2.23",
+    "content_sanskrit": "यमोऽपि विलिखन्भूमिं दण्डेनास्तमितत्विषा । कुरुतेऽस्मिन्नमोघेऽपि निर्वाणालातलाघवम् ॥",
+    "padaccheda": "यमः । अपि । विलिखन् । भूमिम् । दण्डेन । अस्तमितत्विषा । कुरुते । अस्मिन् । अमोघे । अपि । निर्वाणालातलाघवम्",
+    "anvaya": "यमः अपि अस्तमित-त्विषा दण्डेन भूमिम् विलिखन्, अमोघे अस्मिन् (दण्डे) अपि निर्वाण-अनल-अत-लाघवम् कुरुते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Yama, too, scratching the ground with his staff whose splendor has vanished, attributes to this once-infallible weapon the insignificance of an extinguished firebrand.\" Brahma observes that even Yama and his powerful staff are rendered useless.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003801,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यम इति ॥ अस्तं नाशमिताः प्राप्ताः । अस्तमिति मकारान्तमव्ययम् । तस्य `द्वीतीयाश्रितातीतपतितगतात्यस्तप्राप्तापन्नैः` इति समासः । अस्तमितास्त्विषो यस्य तेन निस्तेजस्केन दण्डेन यमोऽपि भूमिं विलिखन्नमोघेऽपि प्रागिति भावः । अस्मिन्दण्डे निर्वाणालातस्य शान्तोल्मुकस्य । अलातं नाम भूलेखनशलाका तस्य यल्लाघवं क्लैब्यं तत्कुरुते । `अलातमुल्मुकं ज्ञेयम्` इति हलायुधः । निर्वाणोऽवाते` इति निपातनान्निष्ठानत्वम् । अत्रापि लाघवमिव लाघवमिति कल्पनान्निदर्शनालंकारः"
+    }
+  ]
+}

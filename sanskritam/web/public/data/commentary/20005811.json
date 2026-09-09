@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005811,
+    "chapter_id": 6630,
+    "verse_number": "18.5",
+    "content_sanskrit": "उरसि शूलभृतः प्रहिता मुहुः प्रतिहतिं ययुरर्जुनमुष्टयः । भृशरया इव सह्यमहीभृतः पृथुनि रोधसि सिन्धुमहोर्मयः ॥",
+    "padaccheda": "उरसि । शूलभृतः । प्रहिताः । मुहुः । प्रतिहतिम् । ययुः । अर्जुनमुष्टयः । भृशरयाः । इव । सह्यमहीभृतः । पृथुनि । रोधसि । सिन्धुमहोर्मयः",
+    "anvaya": "अर्जुन-मुष्टयः शूल-भृतः उरसि मुहुः प्रहिताः (सत्यः), सह्य-मही-भृतः पृथुनि रोधसि भृश-रयाः सिन्धु-महा-ऊर्मयः इव, प्रतिहतिम् ययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Arjuna's fists, repeatedly struck upon the chest of the trident-bearer, were repelled, just as the great, swift waves of a river are repelled by the broad bank of the Sahya mountain.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005811,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "उरसीति ॥ शूलभृतः शिवस्योरसि प्रहिताः प्रयुक्ता अर्जुनस्य मुष्टयः । पृथुनि विशाले सह्यमहीभृतः सह्याद्रे रोधसि तटे भृशरयास्तीव्रवेगाः सिन्धोः समुद्रस्थ महोर्मय इव मुहुः प्रतिहतिं ययुः॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011011,
+    "chapter_id": 6679,
+    "verse_number": "7.21",
+    "content_sanskrit": "सदण्डशाखं सुच्छायं साक्षमालाफलावलिम् । विद्यालताढ्यं सशुकं कल्पद्रुमिव जङ्गमम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011011,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "साधर्म्यवान् व्यतिरेकः ॥"
+    }
+  ]
+}

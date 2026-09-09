@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004423,
+    "chapter_id": 6605,
+    "verse_number": "10.40",
+    "content_sanskrit": "सा सुदुर्विषहं गङ्गा धाम कामजितो महत् । आदधाना परीतापमवाप व्योमवाहिनी ॥",
+    "padaccheda": "सा । सुदुर्विषहम् । गङ्गा । धाम । कामजितः । महत् । आदधाना । परीतापम् । अवाप । व्योमवाहिनी",
+    "anvaya": "व्योमवाहिनी सा गङ्गा कामजितः सुदुर्विषहम् महत् धाम आदधाना परीतापम् अवाप ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The celestial river Gaṅgā, upon receiving the mighty and unbearable seed of Lord Śiva, the conqueror of Love, began to experience intense heat and suffering.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004423,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेति । व्योम्नि वाहः प्रवाहोऽस्ति यस्यास्तथोक्ता सा गङ्गा कामजितो महेश्वरस्य महत् सुदुर्विषहम् । ईषद्दु सुष्वि-- `ति कृच्छ्रार्थे खल्' । धाम तेज आदधाना सती परीतापं संतापम् । `उपसर्गस्य घञ्यमनुष्ये बहुलम्' इति दीर्घः । अवाप प्राप्तवतीत्यर्थः"
+    }
+  ]
+}

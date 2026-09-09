@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003394,
+    "chapter_id": 6591,
+    "verse_number": "15.58",
+    "content_sanskrit": "तमध्वराय मुक्ताश्वं रक्षः कपिनरेश्वराः । मेघाः सस्यमिवाम्भोभिरभ्यवर्षन्नुपायनैः ॥",
+    "padaccheda": "तम् । अध्वराय । मुक्ताश्वम् । रक्षःकपिनरेश्वराः । मेघाः । सस्यम् । इव । अम्भोभिः । अभ्यवर्षन् । उपायनैः",
+    "anvaya": "रक्षः-कपि-नर-ईश्वराः अध्वराय मुक्त-अश्वम् तम् (रामम्) उपायनैः अभ्यवर्षन्, मेघाः सस्यम् अम्भोभिः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lords of Rakshasas, monkeys, and men showered Rama, who had released the horse for the sacrifice, with gifts, just as clouds shower crops with water.",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003394,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ अध्वरायाश्वमेधाय मुक्ताश्वं तं रामं रक्षःकपिनरेश्चराः सुग्रीविभीषणादयो राजानश्च। मेघा अम्भिभिः सस्यमिव। उपायनैरभ्यवर्षन् ॥"
+    }
+  ]
+}

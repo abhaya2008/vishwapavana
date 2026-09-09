@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003511,
+    "chapter_id": 6592,
+    "verse_number": "16.72",
+    "content_sanskrit": "यत्कुम्भयोनेरधिगम्य रामः कुशाय राज्येन समं दिदेश । तदस्य जैत्राभरणं विहर्तुरज्ञातपातं सलिले ममज्ज ॥",
+    "padaccheda": "यत् । कुम्भयोनेः । अधिगम्य । रामः । कुशाय । राज्येन । समम् । दिदेश । तत् । अस्य । जैत्राभरणम् । विहर्तुः । अज्ञातपातम् । सलिले । ममज्ज",
+    "anvaya": "रामः कुम्भयोनेः अधिगम्य यत् राज्येन समम् कुशाय दिदेश, तत् अस्य विहर्तुः जैत्र-आभरणम् अज्ञातपातम् सलिले ममज्ज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The victory-ornament, which Rama had obtained from the sage Agastya and had given to Kusha along with the kingdom, sank into the water while he was sporting, its fall going completely unnoticed.",
+    "audio_url": null,
+    "display_order": 72,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003511,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यदिति॥ यदाभरणं रामः कुम्भयोनेरगस्त्यादधिगम्य प्राप्य कुशाय राज्येन समं दिदेश ददौ। राज्यसममूल्यमित्यर्थः। सलिले विहर्तुः क्रीडितुरस्य कुशस्य तज्जैत्राभरणं जयशीलमाभरणमज्ञातपातं सत्। ममज्ज बुब्रोड ॥"
+    }
+  ]
+}

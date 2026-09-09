@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012024,
+    "chapter_id": 6688,
+    "verse_number": "16.31",
+    "content_sanskrit": "धर्मराजेन राज्येत राजसूयश्रिया चिरम् । समाह्लादयता लोकानपरेण यथेन्दुना ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012024,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "राज्येतेति भावे लिङ् ॥"
+    }
+  ]
+}

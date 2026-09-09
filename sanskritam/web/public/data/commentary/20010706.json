@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010706,
+    "chapter_id": 6676,
+    "verse_number": "4.52",
+    "content_sanskrit": "इत्युक्तं वन्दितांघ्रिं तं मूर्ध्नुपाघ्राय भूपतिः । परिष्वज्याङ्कमारोप्य 'शोभनः पुनरप्यभूत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010706,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शोभन इति पूर्ववद्युच् ॥"
+    }
+  ]
+}

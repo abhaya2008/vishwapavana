@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010974,
+    "chapter_id": 6678,
+    "verse_number": "6.95",
+    "content_sanskrit": "पतिताः पादपेभ्योमी शकुनाश्शिञ्जिताः कलम् । अन्तरिक्षं चलत्पक्षबन्धनीरन्ध्रपङ्क्तयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 95,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010974,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पतिता इति ‘गत्यर्थाकर्मकश्लिषशीङ्स्थासवसजनरुहजीर्यतिभ्यश्च' (पा.३|४|७२) इति सूत्रेण गत्यर्थस्य कर्तरि क्तः । शिञ्जिता इत्यकर्मकस्य ॥"
+    }
+  ]
+}

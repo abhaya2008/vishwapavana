@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003802,
+    "chapter_id": 6597,
+    "verse_number": "2.24",
+    "content_sanskrit": "अमी च कथमादित्याः प्रतापक्षतिशीतलाः । चित्रन्यस्ता इव गताः प्रकामालोकनीयताम् ॥",
+    "padaccheda": "अमी । च । कथम् । आदित्याः । प्रतापक्षतिशीतलाः । चित्रन्यस्ताः । इव । गताः । प्रकामालोकनीयताम्",
+    "anvaya": "च कथम् प्रताप-क्षति-शीतलाः अमी आदित्याः चित्र-न्यस्ताः इव प्रकाम-आलोकनीयताम् गताः?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"And how is it that these Adityas, grown cool from the loss of their fiery majesty, have become objects to be gazed at intently, as if they were merely painted in a picture?\" Brahma notes the sun-gods have lost their dazzling heat.",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003802,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमी इति ॥ प्रतापक्षत्या तेजसां क्षयेण शीतला अमी आदित्याश्च । द्वादशेति शेषः । कथम् । केन हेतुनेत्यर्थः । चित्रन्यस्ताश्चित्रलिखिता इव । प्रकाममत्यन्तमालोकनीयतां दृश्यतां गताः प्रात्पाः"
+    }
+  ]
+}

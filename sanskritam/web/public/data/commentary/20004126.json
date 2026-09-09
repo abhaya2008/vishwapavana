@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004126,
+    "chapter_id": 6601,
+    "verse_number": "6.76",
+    "content_sanskrit": "कल्पितान्योन्यसामर्थ्यैः पृथिव्यादिभिरात्मनि । येनेदं ध्रियते विश्वं धुर्यैर्यानमिवाध्वनि ॥",
+    "padaccheda": "कल्पितान्योन्यसामर्थ्यैः । पृथिव्यादिभिः । आत्मनि । येन । इदम् । ध्रियते । विश्वम् । धुर्यैः । यानम् । इव । अध्वनि",
+    "anvaya": "येन इदम् विश्वम्, अध्वनि धुर्यैः यानम् इव, कल्पित-अन्योन्य-सामर्थ्यैः पृथिवी-आदिभिः आत्मनि ध्रियते...",
+    "meaning_sanskrit": "",
+    "meaning_english": "...by whom this entire universe is supported within Himself through the elements like Earth, whose powers are mutually arranged by Him, just as a carriage is drawn by draft animals on a road...",
+    "audio_url": null,
+    "display_order": 76,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004126,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कलितेति । येन शंभुना कलितं धृतिसंग्रहादिस्वस्वगुणसंपादितमन्योन्यसामर्थ्यं परस्परसहकाररुपं यैस्तथोक्तैः । स्वस्वरुपसामर्थ्यमन्योन्याधेयमेवेति भावः । पृथिव्यादिभिरात्मभिः । अष्टाभिर्मूर्तिभिरित्यर्थः । इदं व्यक्तं विश्वं धुरं वहन्तीति धुर्यैरश्वैः । `धुरो यड्ढको` इति यत्प्रत्ययः । अध्वनि यानं रथ इव ध्रियते"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165957,
+    "chapter_id": 7069,
+    "verse_number": "17.31",
+    "content_sanskrit": "अध्यायच्छक्रजिद्ब्रह्म समाधेरचलन्न च। । तमाह्वयत सौमित्रिरगर्जच्च भयंकरम् ॥",
+    "padaccheda": "अध्यायत् । शक्रजित् । ब्रह्म । समाधेः । अचलत् । न । च । तम् । आह्वयत । सौमित्रिः । अगर्जत् । च । भयङ्करम्",
+    "anvaya": "शक्रजित् ब्रह्म अध्यायत्, समाधेः न अचलत् च । सौमित्रिः तम् आह्वयत, भयङ्करम् अगर्जत् च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Śakrajit meditated on the sacred spell and did not stir from his trance. Lakṣmaṇa (Saumitri) challenged him and let out a terrifying roar.",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165957,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अध्यायदित्यादि — शक्रजिदिन्द्रजित्परं ब्रह्माध्यायत् चिन्तितवान् । '९७४ ध्यै चिन्तायाम्' आत्वं शिति । न च समाधेश्चित्तवृत्तिनिरोधादचलत् चलित- वान् । तं तथाभूतमिन्द्रजितं सौमित्रिर्युद्धायाह्वयत आहूतवान् । भयंकरं चाग- र्जत् शब्दितवान् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002903,
+    "chapter_id": 6586,
+    "verse_number": "10.16",
+    "content_sanskrit": "नमो विश्वसृजे पूर्वं विश्वं तदनु बिभ्रते । अथ विश्वस्य संहर्त्रे तुभ्यं त्रेधास्थितात्मने ॥",
+    "padaccheda": "नमः । विश्वसृजे । पूर्वम् । विश्वम् । तदनु । बिभ्रते । अथ । विश्वस्य । संहर्त्रे । तुभ्यम् । त्रेधास्थितात्मने",
+    "anvaya": "पूर्वम् विश्व-सृजे, तत् अनु विश्वम् बिभ्रते, अथ विश्वस्य संहर्त्रे, त्रेधा-स्थित-आत्मने तुभ्यम् नमः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Salutations to you, whose self is manifest in three forms: first as the creator of the universe, then as the sustainer of the universe, and finally as the destroyer of the universe.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002903,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नम इति॥ पूर्वमादौ विश्वसृजे विश्वस्रष्ट्रे तदनु सर्गानन्तरं विश्वं विभ्रते पुष्णते। अथ विश्वस्य संहर्त्रे। एवं त्रेधा सृष्टि-स्थिति-संहारकर्तृत्वेन स्थित आत्मा स्वरूपं यस्य तस्मै ब्रह्म-विष्णु-हरात्मने तुभ्यं नमः ॥"
+    }
+  ]
+}

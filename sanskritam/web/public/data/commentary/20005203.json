@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005203,
+    "chapter_id": 6620,
+    "verse_number": "8.47",
+    "content_sanskrit": "तिरोहितान्तानि नितान्तमाकुलैरपां विगाहादलकैः प्रसारिभिः । ययुर्वधूनां वदनानि तुल्यतां द्विरेफवृन्दान्तरितैः सरोरुहैः ॥",
+    "padaccheda": "तिरोहितान्तानि । नितान्तम् । आकुलैः । अपाम् । विगाहात् । अलकैः । प्रसारिभिः । ययुः । वधूनां । वदनानि । तुल्यतां । द्विरेफवृन्दान्तरितैः । सरोरुहैः",
+    "anvaya": "अपाम् विगाहात् नितान्तम् आकुलैः प्रसारिभिः अलकैः तिरोहित-अन्तानि वधूनाम् वदनानि द्विरेफ-वृन्द-अन्तरितैः सरोरुहैः तुल्यताम् ययुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The faces of the women, their edges concealed by spreading locks of hair made extremely dishevelled from plunging into the water, came to resemble lotuses that are partly covered by swarms of bees.",
+    "audio_url": null,
+    "display_order": 47,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005203,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तिरोहितेति ॥ अपां विगाहान्नितान्तमाकुलैर्विकीर्णैः प्रसारिभिरायतैरलकैः केशैस्तिरोहितान्तानि च्छन्नप्रान्तानि वधूनां वदनानि द्विरेफवृन्दैरन्तरितानि च्छन्नानि सरोरुहाणि तैः सरोरुहैस्तुल्यतां ययुरित्युपमालंकारः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011321,
+    "chapter_id": 6681,
+    "verse_number": "9.73",
+    "content_sanskrit": "स्वैरं शलशलाभूतनूपुराङ्घ्रिसरोजया । चिक्रीड कान्तया सार्धमुद्यानेषु धनञ्जयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011321,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "शलशलाभूतेति । ‘अव्यक्तानुकरणाद् द्व्यजवरार्द्धादनितौ डाच्’ (पा.५|४|५७) । कृभ्वस्तियोगे नित्यमाम्रेडिते डाचीत्यच्छब्दान्तस्य (पा.६|१|९९) पररूपम् ॥"
+    }
+  ]
+}

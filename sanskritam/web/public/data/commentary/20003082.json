@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003082,
+    "chapter_id": 6588,
+    "verse_number": "12.16",
+    "content_sanskrit": "स हि प्रथमजे तस्मिन्नकृतश्रीपरिग्रहे । परिवेत्तारमात्मानं मेने स्वीकरणाद्भुवः ॥",
+    "padaccheda": "सः । हि । प्रथमजे । तस्मिन् । अकृतश्रीपरिग्रहे । परिवेत्तारम् । आत्मानं । मेने । स्वीकरणात् । भुवः",
+    "anvaya": "सः हि प्रथमजे तस्मिन् अकृतश्रीपरिग्रहे भुवः स्वीकरणात् आत्मानम् परिवेत्तारम् मेने ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Bharata considered that if he were to accept the kingdom while his elder brother Rama had not yet accepted the royal fortune, he would be guilty of 'parivedana'—the sin of a younger brother marrying or taking precedence before the elder.",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003082,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स हीति॥ स हि भरतः प्रथमजेऽग्रजे तस्मिन् रामेऽकृतश्रीपरिग्रहे सति स्वयं भुवः स्वीकरणादात्मानं परिवेत्तारं मेने। `परिवेत्तानुजोऽनूढे ज्येष्ठे दारपरिग्रहात्` इत्यमरः (अ.को.2|7|60)। भूपरिग्रहोऽपि दारपरिग्रहसम इति भावः ॥"
+    }
+  ]
+}

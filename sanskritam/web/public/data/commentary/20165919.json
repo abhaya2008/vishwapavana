@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165919,
+    "chapter_id": 7068,
+    "verse_number": "16.35",
+    "content_sanskrit": "तमेव-वादिनं मूढमिन्द्र्जित्समुपागतः । \"युयुत्सिष्येऽहमित्येवं वदन्रिपु-भयंकरः ॥",
+    "padaccheda": "एवम्-वादिनम् । तम् । मूढम् । रिपु-भयंकरः । इन्द्रजित् । अहम् । युयुत्सिष्ये । इति । एवम् । वदन् । समुपागतः",
+    "anvaya": "एवम्-वादिनम् तम् मूढम् रिपु-भयंकरः इन्द्रजित् 'अहम् युयुत्सिष्ये' इति एवम् वदन् समुपागतः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While the deluded Rāvaṇa was speaking thus, Indrajit, the terror of his enemies, approached him, declaring, 'I desire to fight.'",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165919,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तमित्यादि - तं रावणं मूढत्वादेवंवादिनं एवंभाषणशीलं इन्द्रजित् रिपो- भयंकरः समुपागतः । युयुत्सिप्ये ऽहं योद्धुमिच्छां करिष्यामीति ब्रुवन् ॥ केन सह योद्धुमिच्छामीति चेदाह -"
+    }
+  ]
+}

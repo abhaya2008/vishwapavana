@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010692,
+    "chapter_id": 6676,
+    "verse_number": "4.38",
+    "content_sanskrit": "शमिनं दमिनं विप्रं क्षमिणं 'सततक्षमी । अभ्रम्यमादी संपूज्य तमामन्त्र्य गृहं ययौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010692,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'शमित्यष्टाभ्यो घिनुण्' (पा.३|२|१४१) इति घिनुण् । नोदात्तोपदेशस्य मान्तस्यानाचमेरिति (पा.७|३|३४) वृद्धिप्रतिषेधः ॥"
+    }
+  ]
+}

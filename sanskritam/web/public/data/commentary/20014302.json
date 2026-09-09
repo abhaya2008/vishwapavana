@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014302,
+    "chapter_id": 6708,
+    "verse_number": "16.22",
+    "content_sanskrit": "जनपदो विरलो गदहारकैर्बहुलरुग्णजनः प्रकृतेरतः । मृगयते भवतो भवतां गृहे गदिजनः सहितुं गदमक्षमः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014302,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "किंच रोगहारकैर्विरलो रहितो जनपदः स्वभावादेव बहुलं रुग्णा जना यस्मिन्नतो रोगिजनो रोगं सहितुमसमर्थो भवतां गृहे भवतो विचिनुवे ॥ २४ ॥"
+    }
+  ]
+}

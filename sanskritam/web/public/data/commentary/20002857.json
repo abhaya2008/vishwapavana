@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002857,
+    "chapter_id": 6585,
+    "verse_number": "9.52",
+    "content_sanskrit": "तनुलताविनिवेशितविग्रहा भ्रमरसंक्रमितेक्षणवृत्तयः । ददृशुरध्वनि तं वनदेवताः सुनयनं नयनन्दितकोसलम् ॥",
+    "padaccheda": "तनुलताविनिवेशितविग्रहाः । भ्रमरसंक्रमितेक्षणवृत्तयः । ददृशुः । अध्वनि । तम् । वनदेवताः । सुनयनम् । नयनन्दितकोसलम्",
+    "anvaya": "तनुलता-विनिवेशित-विग्रहाः भ्रमर-संक्रमित-ईक्षण-वृत्तयः वनदेवताः अध्वनि सुनयनम् नय-नन्दित-कोसलम् तम् ददृशुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The forest deities, who had hidden their forms within slender creepers and whose glances darted about like bees, saw him on the path—the handsome one who had delighted the people of Kosala with his just policies.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002857,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तन्विति॥ तनुषु लतासु विनिवेशितविग्रहाः संक्रमितदेहाः। भ्रमरेषु संक्रमिता ईक्षणवृत्तयो दृग्व्यापारा यासां ता वनदेवताः सुनयनं सुलोचनं नयेन नीत्या नन्दितास्तोषिताः कोसला येन तं दशरथमध्वनि ददृशुः। प्रसन्नपावनतया तं देवता अपि गूढवृत्त्या ददृशुरित्यर्थः ॥"
+    }
+  ]
+}

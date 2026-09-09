@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003229,
+    "chapter_id": 6589,
+    "verse_number": "13.59",
+    "content_sanskrit": "पुरं निषादाधिपतेरिदं तद्यस्मिन्मया मौलिमणिं विहाय । जटासु बद्धास्वरुदत्सुमन्त्रः कैकेयि! कामाः फलितास्तवेति ॥",
+    "padaccheda": "पुरम् । निषादाधिपतेः । इदम् । तत् । यस्मिन् । मया । मौलिमणिं । विहाय । जटासु । बद्धासु । अरुदत् । सुमन्त्रः । कैकेयि । कामाः । फलिताः । तव । इति",
+    "anvaya": "इदम् तत् निषाद-अधिपतेः पुरम्, यस्मिन् मया मौलि-मणिम् विहाय जटासु बद्धासु (सतीषु) सुमन्त्रः, \"कैकेयि! तव कामाः फलिताः\" इति अरुदत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This is that city of Guha, the lord of the Nishadas, where, as I gave up my crest-jewel and tied my hair into matted locks, Sumantra wept, crying, \"O Kaikeyi, your desires have been fulfilled!\"",
+    "audio_url": null,
+    "display_order": 59,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003229,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पुरमिति॥ निषादाधिपतेर्गुहस्य तत्पुरमिदम्। यस्मिन्पुरे मया मौलिमणिं विहाय जटासु बद्धासु रचितासु सतीषु सुमन्त्रः `हे कैकेयि! तव कामा मनोरथाः फलिताः सफला जाताः`इत्यरुदत्। `रुदिरश्रुविमोचने`इति धातोर्लुङ् ॥"
+    }
+  ]
+}

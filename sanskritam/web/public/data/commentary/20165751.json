@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165751,
+    "chapter_id": 7066,
+    "verse_number": "14.103",
+    "content_sanskrit": "ऊर्णुनाव स शस्त्रौघैर्वानराणामनीकिनीम् । शशास च बहून्योधान्जीवितेन विवेच च ॥",
+    "padaccheda": "ऊर्णुनाव । सः । शस्त्र-ओघैः । वानराणाम् । अनीकिनीम् । शशास । च । बहून् । योधान् । जीवितेन । विवेच । च",
+    "anvaya": "सः शस्त्र-ओघैः वानराणाम् अनीकिनीम् ऊर्णुनाव, बहून् योधान् शशास च, जीवितेन विवेच च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He covered the army of the vānaras with a deluge of weapons. He punished many warriors and separated them from their lives on the battlefield.",
+    "audio_url": null,
+    "display_order": 103,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165751,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "ऊर्णुनावेत्यादि - स सेनानीर्वानराणामनीकिनीः सेनाः शस्त्रैरूणुनाव छा- दितवान् । ऊर्णोतेर्णुवद्भावादिजादेरित्याम् न भवति । शशास च योधान् । '७७७ शसु हिंसायाम् ।' जीवितेन च विवेच पृथक्कृतवान् । विचिर् पृथ- ग्भावे' इति रुधादौ स्वरितेत् ॥"
+    }
+  ]
+}

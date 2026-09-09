@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003200,
+    "chapter_id": 6589,
+    "verse_number": "13.30",
+    "content_sanskrit": "उपान्तवानीरवनोपगूढान्यालक्ष्यपारिप्लवसारसानि । दूरावतीर्णा पिबतीव खेदादमूनि पम्पासलिलानि दृष्टिः ॥",
+    "padaccheda": "उपान्तवानीरवनोपगूढानि । आलक्ष्यपारिप्लवसारसानि । दूरावतीर्णा । पिबति । इव । खेदात् । अमूनि । पम्पासलिलानि । दृष्टिः",
+    "anvaya": "दूर-अवतीर्णा दृष्टिः खेदात् उपान्त-वानीर-वन-उपगूढानि आलक्ष्य-पारिप्लव-सारसानि अमूनि पम्पा-सलिलानि पिबति इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rama says, \"My gaze, descending from afar, seems to drink, out of weariness, these waters of the Pampa lake, which are enclosed by cane-groves on their banks and in which restless Sarasa birds are faintly visible.\"",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003200,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उपान्तेति॥ उपान्तवानीरवनोपगूढानि पार्शअववञ्जलवनच्छन्नान्यालक्ष्या ईषद्दृश्याः पारिप्लवाश्चञ्चलाः सारसा येषुतान्यमूनि पम्पासलिलानि पम्पासरोजलानि दूरादवतीर्णा मे दृष्टिरत एव खेदात्पिबतीव। न विहातुमुत्सहत इत्यर्थथः ॥"
+    }
+  ]
+}

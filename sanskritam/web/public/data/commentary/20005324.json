@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005324,
+    "chapter_id": 6622,
+    "verse_number": "10.33",
+    "content_sanskrit": "मुहुरनुपतता विधूयमानं विरचितसंहति दक्षिणानिलेन । अलिकुलमलकाकृतिं प्रपेदे नलिनमुखान्तविसर्पि पङ्कजिन्याः ॥",
+    "padaccheda": "मुहुः । अनुपतता । विधूयमानम् । विरचितसंहति । दक्षिणानिलेन । अलिकुलम् । अलकाकृतिम् । प्रपेदे । नलिनमुखान्तविसर्पि । पङ्कजिन्याः",
+    "anvaya": "दक्षिणानिलेन मुहुः अनुपतता तथा विधूयमानं सत् पङ्कजिन्याः नलिनमुखान्तविसर्पि अलिकुलं विरचितसंहति सत् अलकाकृतिं प्रपेदे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A swarm of bees, spreading over the face of a lotus, was repeatedly followed and shaken by the southern breeze. Being thus arranged into a compact mass, it took on the appearance of a lock of curly hair on the lotus-face.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005324,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "मुहुरिति ॥ अनुपततानुधावता दक्षिणानिलेन मलयमारुतेन मुहुर्विधूयमानं कम्पितमत एव विरचिता संहतिर्येन । तत्संभूतमित्यर्थः । पङ्कजिन्या यन्नलिनं मुखमिव तस्यान्तर्विसर्पि प्रान्तचार्यलिकुलं कर्तृ अलकाकृतिमलकसादृश्यं प्रपेदे ॥"
+    }
+  ]
+}

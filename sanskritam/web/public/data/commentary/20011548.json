@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011548,
+    "chapter_id": 6683,
+    "verse_number": "11.125",
+    "content_sanskrit": "क्रीडामृतस्रुतिमया हि पुरा जुषेते देवीभिरादरवतीभिरथाऽऽहृतानि । अन्तःपुरे यदुकुरुप्रवरौ सहैव स्नानानुलेपनविभूषणभोजनानि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 125,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011548,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्नानानुलेपनविभूषण।दिषु करणे ल्युट् । भोजने तु 'कृत्यल्युटो बहुल'मिति (पा.३|३|११३) कर्मणि ॥"
+    }
+  ]
+}

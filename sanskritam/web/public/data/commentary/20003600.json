@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003600,
+    "chapter_id": 6593,
+    "verse_number": "17.73",
+    "content_sanskrit": "स्तूयमानः स जिह्नाय स्तुत्यमेव समाचरन् । तथापि ववृधे तस्य तत्कारिद्वेषिणो यशः ॥",
+    "padaccheda": "स्तूयमानः । सः । जिह्नाय । स्तुत्यम् । एव । समाचरन् । तथापि । ववृधे । तस्य । तत्कारिद्वेषिणः । यशः",
+    "anvaya": "स्तुत्यम् एव समाचरन् सः स्तूयमानः जिह्नाय । तथापि तत्कारिद्वेषिणः तस्य यशः ववृधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Despite performing only praiseworthy actions, King Atithi felt embarrassed when praised for them. Nevertheless, the fame of this king, who disliked flatterers, paradoxically continued to grow.",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003600,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स्तूयमान इति॥ स राजा स्तुत्यं स्तोत्रार्हमेव यत्तदेव समाचरन्नत एव स्तूयमानः सन् जिह्नाय ललज्ज। तथापि हीनत्वेऽपि तत्कारिणः स्तोत्रकारिणो द्वेष्टीति तत्कारिद्वेषिणस्तस्य राज्ञो यशो ववृधे। `गुणाढ्यस्य सतः पुंसः स्तुतौ लज्जेव भूषणम्` इति भावः ॥"
+    }
+  ]
+}

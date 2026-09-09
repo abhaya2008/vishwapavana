@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005720,
+    "chapter_id": 6628,
+    "verse_number": "16.42",
+    "content_sanskrit": "तमाशु चक्षुःश्रवसां समूहं मन्त्रेण तार्क्ष्योदयकारणेन । नेता नयेनेव परोपजापं निवारयामास पतिः पशूनाम् ॥",
+    "padaccheda": "तम् । आशु । चक्षुःश्रवसाम् । समूहम् । मन्त्रेण । तार्क्ष्योदयकारणेन । नेता । नयेन । इव । परोपजापम् । निवारयामास । पतिः । पशूनाम्",
+    "anvaya": "पशूनाम् पतिः तम् चक्षुःश्रवसाम् समूहम्, नेता नयेन पर-उपजापम् इव, तार्क्ष्य-उदय-कारणेन मन्त्रेण आशु निवारयामास।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Lord of Beings (Shiva), with a mantra that caused the appearance of Garuda, quickly repelled that host of serpents, just as a leader quells sedition among his enemies through statecraft.",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005720,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति ॥ पशूनां पतिः शिवस्तं चक्षुःश्रवसां सर्पाणां समूहं तार्क्ष्योदयकारणेन गरुडाविर्भावहेतुना मन्त्रेण नेता नायको नयेन नीत्या परेषामुपजापं परोपर्जापं पर:कृतं स्वमण्डलभेदमिव । `भेदोपजापावुपधा` इत्यमरः (अ.को.2|8|21) । आशु निवारयामास ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005785,
+    "chapter_id": 6629,
+    "verse_number": "17.43",
+    "content_sanskrit": "तं शम्भुराक्षिप्तमहेषुजालं लोहैः शरैर्मर्मसु निस्तुतोद । हृत्तोत्तरं तत्त्वविचारमध्ये वक्तेव दोषैर्गुरुभिर्विपक्षम् ॥",
+    "padaccheda": "तम् । शम्भुः । आक्षिप्तमहेषुजालम् । लोहैः । शरैः । मर्मसु । निस्तुतोद । हृत्तोत्तरम् । तत्त्वविचारमध्ये । वक्ता । इव । दोषैः । गुरुभिः । विपक्षम्",
+    "anvaya": "शम्भुः आक्षिप्तमहेषुजालम् तम्, तत्त्वविचारमध्ये वक्ता हृत्तोत्तरम् विपक्षम् गुरुभिः दोषैः इव, लोहैः शरैः मर्मसु निस्तुतोद ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Shambhu deeply pierced him (Arjuna), whose stock of arrows was exhausted, in his vital spots with iron arrows; just as a debater, in the midst of a philosophical discussion, silences an opponent with serious and fallacious arguments, leaving him without a reply.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005785,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति ॥ शंभुराक्षिप्तान्याहतानि महेषुजालानि यस्य तं मुनिं तत्त्वविचारमध्ये वादमध्ये हृतोत्तरं निरुत्तरीकृतं विपक्षं प्रतिवादिनं वक्ता वादी गुरुभिर्दोषैर्निग्रहस्थानैरिव लौहैर्लॊहमयैः शरैर्मर्मसु निस्तुतोद व्यथयामास ॥"
+    }
+  ]
+}

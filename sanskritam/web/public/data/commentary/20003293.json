@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003293,
+    "chapter_id": 6590,
+    "verse_number": "14.44",
+    "content_sanskrit": "स लक्ष्मणं लक्ष्मणपूर्वजन्मा विलोक्य लोकत्रयगीतकीर्तिः । सौम्येति चाभाष्य यथार्थभाषी स्थितं निदेशे पृथगादिदेश ॥",
+    "padaccheda": "सः । लक्ष्मणं । लक्ष्मणपूर्वजन्मा । विलोक्य । लोकत्रयगीतकीर्तिः । सौम्य । इति । च । आभाष्य । यथार्थभाषी । स्थितं । निदेशे । पृथक् । आदिदेश",
+    "anvaya": "लोक-त्रय-गीत-कीर्तिः यथार्थ-भाषी सः लक्ष्मण-पूर्व-जन्मा लक्ष्मणम् विलोक्य, 'सौम्य' इति च आभाष्य, निदेशे स्थितम् (तम्) पृथक् आदिदेश।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He, Rama, whose fame is sung in the three worlds, the elder brother of Lakshmana and a speaker of truth, looked at Lakshmana, who was standing ready for his command. Addressing him as \"O gentle one,\" he gave him a command in private.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003293,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ लोकत्रयगीतकीर्तिर्यथार्थभाषी लक्ष्मणपूर्वजन्मा लक्ष्मणाग्रजः स रामो निदेशे स्थितमाज्ञाकारिणं लक्ष्मणं विलोक्य `हे सौम्य सुभग!` इत्याभाष्य च पृथग्भरत-शत्रुघ्नाभअयां विनाकृत्य । आदिदेशाज्ञापयामास ॥"
+    }
+  ]
+}

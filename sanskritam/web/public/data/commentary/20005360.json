@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005360,
+    "chapter_id": 6623,
+    "verse_number": "11.6",
+    "content_sanskrit": "गूढोऽपि वपुषा राजन्धाम्ना लोकाभिभाविना । अंशुमानिव तन्वभ्रपटलच्छन्नविग्रहः ॥",
+    "padaccheda": "गूढः । अपि । वपुषा । राजन् । धाम्ना । लोकाभिभाविना । अंशुमान् । इव । तन्वभ्रपटलच्छन्नविग्रहः",
+    "anvaya": "राजन्, वपुषा गूढः अपि, तनु-अभ्र-पटल-छन्न-विग्रहः अंशुमान् इव, लोक-अभिभाविना धाम्ना (सः आसीत्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though concealed by his (ascetic's) body, he was resplendent with a world-overpowering lustre, like the sun whose form is veiled by a thin layer of clouds.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005360,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "गूढ इति ॥ वपुषा गूढोऽपि । प्रच्छन्नरूपोऽपीयर्थः । प्रकृत्यादिभ्य उपसंख्यानात्तृतीया । तन्वभ्रपटलच्छन्नविग्रहः स्तोकाभ्रवृन्दान्तरितमूर्तिरम्शुमानिव लोकाभिभाविना लोकव्यापिना धाम्ना तेजसा । राजन्दीप्यमानो दद्दश इति पूर्वेण संबन्धः ॥"
+    }
+  ]
+}

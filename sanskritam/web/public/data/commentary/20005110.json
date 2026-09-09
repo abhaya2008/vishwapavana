@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005110,
+    "chapter_id": 6618,
+    "verse_number": "6.41",
+    "content_sanskrit": "भववीतये हतबृहत्तमसामवबोधवारि रजसः शमनम् । परिपीयमाणमिव वोऽसकलैरवसादमेति नयनाञ्जलिभिः ॥",
+    "padaccheda": "भववीतये । हतबृहत्तमसाम् । अवबोधवारि । रजसः । शमनम् । परिपीयमाणम् । इव । वः । असकलैः । अवसादम् । एति । नयनाञ्जलिभिः",
+    "anvaya": "हत-बृहत्-तमसाम् भव-वीतये रजसः शमनम् अवबोध-वारि वः असकलैः नयन-अञ्जलिभिः परिपीयमाणम् इव अवसादम् एति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"The water of enlightenment, which quells passion for the liberation of those who have destroyed the great darkness of ignorance, seems to diminish as if being drunk by the cupped hands of your incomplete glances.\"",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005110,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "भवेति ॥ भवधीतये संसारनिवृत्तये हतबृहत्तमसां निरस्तमहामोहानां योगिनां संबन्धि रजो गुणः। रजो धूलिरिति श्लिष्टरूपकम् । तस्य शमनं निवर्तकमवबोधस्तत्त्वज्ञानमेव वारि तद्यो युष्माकमसकलैरसमग्रैर्नयनान्येवाञ्जलयस्तैः परिपीयमाणमिवेत्युत्प्रे क्षा । अवसादं क्षयमेति । मुक्तानपि बध्नतीनां वः कथमसामर्थ्यमिति भावः । अत्रोत्प्रेक्षारूपकयोः संकरः॥"
+    }
+  ]
+}

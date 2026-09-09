@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166028,
+    "chapter_id": 7069,
+    "verse_number": "17.102",
+    "content_sanskrit": "अस्तृणादधिकं रामस्ततोऽदेवत सायकैः ।अक्लाम्यद्रावणस्तस्य सूतो रथमनाशयत् ॥",
+    "padaccheda": "ततः । रामः । अधिकम् । अस्तृणात् । सायकैः । अदेवत । रावणः । अक्लाम्यत् । तस्य । सूतः । रथम् । अनाशयत्",
+    "anvaya": "ततः रामः अधिकम् अस्तृणात् सायकैः अदेवत । रावणः अक्लाम्यत् तस्य सूतः रथम् अनाशयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thereafter, Rāma scattered arrows even more profusely and sported with his shafts. Rāvaṇa did not tire, and his charioteer drove the chariot away from immediate danger.",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166028,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अस्तृणादित्यादि - ततोऽनन्तरं रामो राक्षसादधिकं अदेवत क्रीडितवान् । तेवृदेवृदेवने' इति भ्वादावनुदात्तेत् । स तथा देवमानेनाहतो रावणः अक्काम्यत् ग्लानिमुपगतः । तस्य तथाभूतस्य रावणस्य सूतः सारथिः स्वामिजी- वितेच्छया रथमनाशयत् दूरं अपनीतवान् ॥"
+    }
+  ]
+}

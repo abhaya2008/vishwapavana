@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002432,
+    "chapter_id": 6580,
+    "verse_number": "4.43",
+    "content_sanskrit": "गृहीतप्रतिमुक्तस्य स धर्मविजयी नृपः । श्रियं महेन्द्रनाथस्य जहार न तु मेदिनीम् ॥",
+    "padaccheda": "गृहीत-प्रतिमुक्तस्य । सः । धर्मविजयी । नृपः । श्रियम् । महेन्द्रनाथस्य । जहार । न । तु । मेदिनीम्",
+    "anvaya": "धर्मविजयी सः नृपः गृहीत-प्रतिमुक्तस्य महेन्द्रनाथस्य श्रियम् जहार, तु मेदिनीम् न (जहार)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That righteous conqueror, King Raghu, took away the royal fortune of the lord of Mahendra, whom he had captured and then released, but not his land.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002432,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गृहीतेति॥ धर्मविजयी धर्मार्थविजयशीलः स नृपो रघुः। गृहीतश्चासौ प्रतिमुक्तश्च गृहीतप्रतिमुक्तः। तस्य महेन्द्रनाथस्य कालिङ्गस्य श्रियं जहार। धर्मार्थमिति भावः। मेदिनीं तु न जहार। शरणागतवात्सल्यादिति भावः ॥"
+    }
+  ]
+}

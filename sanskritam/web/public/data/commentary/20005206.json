@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005206,
+    "chapter_id": 6620,
+    "verse_number": "8.50",
+    "content_sanskrit": "उदस्य धैर्यं दयितेन सादरं प्रसादितायाः करवारिवारितम् । मुखं निमीलन्नयनं नतभ्रुवः श्रियं सपत्नीवदनादिवाददे ॥",
+    "padaccheda": "उदस्य । धैर्यं । दयितेन । सादरं । प्रसादितायाः । करवारिवारितम् । मुखं । निमीलन्नयनं । नतभ्रुवः । श्रियं । सपत्नीवदनात् । इव । आददे",
+    "anvaya": "दयितेन धैर्यम् उदस्य सादरम् प्रसादितायाः नत-भ्रुवः कर-वारि-वारितम् निमीलत्-नयनम् मुखम् सपत्नी-वदनात् इव श्रियम् आददे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The face of the woman with arched brows, her eyes closing as she was splashed with water from her beloved's hand—after he had lovingly pacified her and she had cast off her pride—seemed to steal the splendor from her rival's face.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005206,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " उदस्येति ॥ दयितेन धैर्यं काठिन्यमुदस्यापनीय । अनुनीयेत्यर्थः । सादरं यथा तथा प्रसादितायाः सौमनस्यं गमिताया नतभ्रुवः स्त्रियः संबन्धि करवारिभिर्वारितभवरुद्धमतएव निमीलती नयने यस्य तन्मुखं सपत्नीवदनादिव श्रियमाददे जग्राह । तदानीं तद्वदनस्य निःश्रीकत्वात्तदीयश्रीग्रहणमुत्प्रेक्ष्यते ॥"
+    }
+  ]
+}

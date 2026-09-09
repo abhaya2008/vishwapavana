@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003970,
+    "chapter_id": 6600,
+    "verse_number": "5.6",
+    "content_sanskrit": "कदा चिदासन्नसखीमुखेन सा मनोरथज्ञं पितरं मनस्विनी । अयाचतारण्यनिवासमात्मनः फलोदयान्ताय तपःसमाधये ॥",
+    "padaccheda": "कदा । चित् । आसन्नसखीमुखेन । सा । मनोरथज्ञम् । पितरम् । मनस्विनी । अयाचत । अरण्यनिवासम् । आत्मनः । फलोदयान्ताय । तपःसमाधये",
+    "anvaya": "कदा चित् मनस्विनी सा आसन्नसखीमुखेन मनोरथज्ञम् पितरम् आत्मनः फलोदयान्ताय तपःसमाधये अरण्यनिवासम् अयाचत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "One day, that resolute lady (Parvati), through a close friend, asked her father, who knew her heart's desire, for permission to live in the forest for the practice of austerity, to continue until the desired fruit was obtained.",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003970,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कदाचिदिति ॥ अथ कदाचिन्मन्स्विनी स्थिरचित्ता सा पार्वती मनोरथज्ञमभिलाषाभिज्ञं पितरं हिमवन्तमासन्नसख्याप्तसखी सैव मुखमुपायः । `मुखं निःसरणे वक्त्रे प्रारम्भोपाययोरपि` इति विश्वः ।` तेन फलोदयः फलोत्पत्तिरन्तोऽवधिर्यस्य तस्मै तपःसमाधये तपोनियमार्थमात्मनःस्वस्यारण्यनिवासं वनवासमयाचत । `दुह्याच्-` इत्यादिना द्विकर्मकत्वम्"
+    }
+  ]
+}

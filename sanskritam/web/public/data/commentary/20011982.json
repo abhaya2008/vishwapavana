@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011982,
+    "chapter_id": 6687,
+    "verse_number": "15.79",
+    "content_sanskrit": "यदि चाऽयमितो यास्यन् स्वपुरं सह जायया । अन्वभाविष्यताऽस्माऽभिर्दुःखमुग्रं वियोगजम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011982,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पूर्ववल्लृङ् । चिण्वद्भावाद् वृद्धिः । तत्राऽननुज्ञानयानक्रिययोर्दुःखहेतुत्वात् प्रतिषेध्यत्वात् प्रतिषेधादतिपत्तिः ।"
+    }
+  ]
+}

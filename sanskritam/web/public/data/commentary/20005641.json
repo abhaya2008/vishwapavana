@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005641,
+    "chapter_id": 6627,
+    "verse_number": "15.16",
+    "content_sanskrit": "स्यन्दना नो चतुरगाः सुरेभा वाविपत्तयः । स्यन्दना नो च तुरगाः सुरेभावा विपत्तयः ॥",
+    "padaccheda": "स्यन्दनाः । न । उ । चतुरगाः । सुरेभाः । वा । अविपत्तयः । स्यन्दनाः । न । उ । च । तुरगाः । सुरेभावाः । विपत्तयः",
+    "anvaya": "(हे जनाः!) चतुरगाः सुरेभाः स्यन्दनाः न उ (सन्ति), वा अविपत्तयः (अपि न सन्ति) । (तथा) स्यन्दनाः न उ च तुरगाः (न सन्ति), (किन्तु) विपत्तयः सुरेभावाः (अतिशयेन शोभनाः सन्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This is a yamaka verse with two meanings. First: 'There are no four-horsed, splendid chariots, nor are there any non-calamities (i.e., good fortunes).' Second, by re-parsing: 'There are neither chariots nor horses; our calamities, however, are very splendid (i.e., great and terrible).'",
+    "audio_url": null,
+    "display_order": 16,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005641,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "स्यन्दना इति ॥ स्यन्दन्ते प्रद्रवन्तीति स्यन्दना जघनाः । स्यन्दना रथा नो सन्ति। नन्द्यादित्वाल्ल्युः । चतुरं गच्छन्तीति चतुरगाः । तुरगाश्चाश्वा नो सन्ति । सुरेभा शोभनबृंहणाः सुरेभा । वा सुरगजाश्च नो सन्ति। अविपत्तयो विपत्तिरहिताः। विपत्तयो वा विशिष्टाः पदातयो नो सन्ति । अतो न भेतव्यमिति भावः । अत्र पूर्वोत्तरार्धगतानां विशेषणानां चोद्देशोद्देश्यीभूतानां यथासंख्यसंबन्धानुक्रमाद्यथासंख्यालंकारो यमकेन संसृष्टः॥"
+    }
+  ]
+}

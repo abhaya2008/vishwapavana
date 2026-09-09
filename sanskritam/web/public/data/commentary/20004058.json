@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004058,
+    "chapter_id": 6601,
+    "verse_number": "6.8",
+    "content_sanskrit": "आसक्तबाहुलतया सार्धमुद्धृतया भुवा । महावराहदंष्ट्रायां विश्रान्ताः प्रलयापदि ॥",
+    "padaccheda": "आसक्तबाहुलतया । सार्धम् । उद्धृतया । भुवा । महावराहदंष्ट्रायाम् । विश्रान्ताः । प्रलयापदि",
+    "anvaya": "(ते) प्रलयापदि आसक्तबाहुलतया भुवा सार्धम् उद्धृतया महावराहदंष्ट्रायाम् विश्रान्ताः (आसन्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "During the calamity of the cosmic deluge, they had rested on the tusk of the great boar (Vishnu's Varaha avatar), along with the Earth who was lifted up, clinging to it like a creeper-like arm.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004058,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आसक्तेति । पुनः किंविधाः । प्रलयापदि कल्पान्तसंकट आसक्तबाहुलतया । दंष्ट्रायामिति शेषः । उद्धृतया । दंष्ट्रयेति शेषः । भुवा सार्धं धरण्या सह महावराहदंष्ट्रायां विश्रान्ताः । महाप्रलयेऽप्यविनाशिन इत्यर्थः"
+    }
+  ]
+}

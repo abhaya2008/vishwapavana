@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166195,
+    "chapter_id": 7074,
+    "verse_number": "22.25",
+    "content_sanskrit": "सेतुं महेन्द्रं मलयं स-विन्ध्यं स-माल्यवन्तं गिरिमृष्यमूकम् । स-दण्डकाऽरण्य-वातीं च पम्पां रामः प्रियायाः कथयन्जगाम ॥",
+    "padaccheda": "रामः । प्रियायाः । सेतुम् । महेन्द्रम् । मलयम् । स-विन्ध्यम् । स-माल्यवन्तम् । ऋष्यमूकम् । गिरिम् । स-दण्डका-अरण्य-वातीम् । पम्पाम् । च । कथयन् । जगाम",
+    "anvaya": "रामः प्रियायाः सेतुम् महेन्द्रम् मलयम् स-विन्ध्यम् स-माल्यवन्तम् ऋष्यमूकम् गिरिम् स-दण्डका-अरण्य-वातीम् पम्पाम् च कथयन् जगाम।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāma journeyed on, pointing out the Bridge, Mount Mahendra, Malaya, the Vindhyas, Mount Mālyavān, Mount Ṛṣyamūka, the regions of the Daṇḍaka forest, and the Pampā lake to his beloved Sītā.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166195,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सेतुमित्यादि - एप सेतुस्त्वदर्थे मया कारितः एते च महेन्द्रादयः इत्यादि प्रियायाः सीतायाः कथयन् जगाम । अयोध्याभिमुखं गतवान् ॥"
+    }
+  ]
+}

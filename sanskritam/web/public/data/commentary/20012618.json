@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012618,
+    "chapter_id": 6693,
+    "verse_number": "1.63",
+    "content_sanskrit": "सोऽभिनन्द्याऽऽशिषा भूपमासीनः काञ्चनासने । तां सभां शोभयामास सुरभिद्युवनीमिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012618,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "सुरभिः सुगन्धो वसन्तो वा । द्युवनीं स्वर्गवनम् ॥ ६३ ॥"
+    }
+  ]
+}

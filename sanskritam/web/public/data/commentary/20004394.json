@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004394,
+    "chapter_id": 6605,
+    "verse_number": "10.11",
+    "content_sanskrit": "परिहृत्य परीरम्भरभसं दुहितुर्गिरेः । कामकेलिरसोत्सेकाद् व्रीडया विरराम सः ॥",
+    "padaccheda": "परिहृत्य । परीरम्भरभसम् । दुहितुः । गिरेः । कामकेलिरसोत्सेकात् । व्रीडया । विरराम । सः",
+    "anvaya": "सः गिरेः दुहितुः परीरम्भरभसं परिहृत्य कामकेलिरसोत्सेकाद् व्रीडया विरराम ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Śiva, abandoning the intense desire for the embrace of Himālaya's daughter Parvatī, ceased his activity out of shame arising from the excessive passion of their amorous play.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004394,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "परिहृत्येति । स हरो गिरेर्दिहितुः पार्वत्याः संबन्धिनं परीरम्भरभसं परिहृत्योत्सृज्य व्रीडया हेतुभूतया कामस्य केले रसस्योत्सेकान्मानसस्यासक्तेर्विरराम विरतोऽभूत् । `व्याङ्परिभ्यो रमः' इति परस्मैपदम्"
+    }
+  ]
+}

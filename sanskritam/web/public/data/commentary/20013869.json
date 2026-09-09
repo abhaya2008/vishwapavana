@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013869,
+    "chapter_id": 6705,
+    "verse_number": "13.15",
+    "content_sanskrit": "पुरा किलास्मासु सुरापगायाः पारे परस्मिन्विचरत्सु सत्सु । आकारयामास भवानशेषा- न्भक्तिं परिज्ञातुमिवास्मदीयाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013869,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "पुरेति । सुरापगाया देवनद्या गङ्गायाः ॥ १५ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011936,
+    "chapter_id": 6687,
+    "verse_number": "15.33",
+    "content_sanskrit": "भरतं कार्तवीर्यञ्च मान्धातारं भगीरथम् । सोमञ्च राजसूयेन धर्मराजो विजेष्यते ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011936,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "भरतादीन् पञ्च राजसूययाजिन इत्यर्थः ॥"
+    }
+  ]
+}

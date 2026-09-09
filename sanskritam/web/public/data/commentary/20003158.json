@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003158,
+    "chapter_id": 6588,
+    "verse_number": "12.92",
+    "content_sanskrit": "वचसैव तयोर्वाक्यमस्त्रमस्त्रेण निघ्नतोः । अन्योन्यजयसंरम्भो ववृधे वादिनोरिव ॥",
+    "padaccheda": "वचसा । एव । तयोः । वाक्यम् । अस्त्रम् । अस्त्रेण । निघ्नतोः । अन्योन्यजयसंरम्भः । ववृधे । वादिनोः । इव",
+    "anvaya": "अस्त्रम् अस्त्रेण निघ्नतोः तयोः अन्योन्यजयसंरम्भः वचसा एव वाक्यम् निघ्नतोः वादिनोः इव ववृधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As Rama and Ravana struck down each other's weapons with their own, their mutual fury and desire for victory intensified, resembling two skilled debaters who counter each other's arguments with words in a heated dispute.",
+    "audio_url": null,
+    "display_order": 92,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003158,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वचसेति॥ वाक्यं वचसैवास्त्रमस्त्रेण निघ्नतोः प्रतिकुर्वतोस्तयो रामरावणयोः। वादिनोः कथकयोरिव। अन्योन्यविषये जयसंरम्भो ववृधे ॥"
+    }
+  ]
+}

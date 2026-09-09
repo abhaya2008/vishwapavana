@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005278,
+    "chapter_id": 6621,
+    "verse_number": "9.65",
+    "content_sanskrit": "वाससां शिथिलतामुपनाभि ह्रीनिरासमपदे कुपितानि । योषितां विदधती गुणपक्षे निर्ममार्ज मदिरा वचनीयम् ॥",
+    "padaccheda": "वाससाम् । शिथिलताम् । उपनाभि । ह्रीनिरासम् । अपदे । कुपितानि । योषिताम् । विदधती । गुणपक्षे । निर्ममार्ज । मदिरा । वचनीयम्",
+    "anvaya": "उप-नाभि वाससाम् शिथिलताम्, अपदे ह्री-निरासम्, कुपितानि च विदधती मदिरा योषिताम् गुण-पक्षे वचनीयम् निर्ममार्ज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "While causing the loosening of garments near the navel, the inappropriate casting away of shame, and fits of anger, the wine, by placing these actions on the side of its own qualities, wiped away any blame from the women.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005278,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "वाससामिति ॥ उपनाभि नाभिसमीपे वाससां शिथिलतां ह्रीनिरासं लज्जात्यागमपदे कुपितान्यस्थानकोपांश्च गुणपक्षे गुणकोटौ विदधती निवेशयन्ती । दोषानप्येतान्गुणान्कुर्वतीत्यर्थः । मदिरापि योषितां वचनीयम् `न नाभिं दर्शयेत्` इति शास्त्रनिषिद्धाचरणनिन्दां निर्ममार्ज । तथा दोषाणामपि वस्त्रशैथिल्यादीनां तदानीं गुणत्वान्न कश्चिद्वचनीयावकाश इत्यर्थः ।।"
+    }
+  ]
+}

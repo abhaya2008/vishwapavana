@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011602,
+    "chapter_id": 6684,
+    "verse_number": "12.54",
+    "content_sanskrit": "मन्ये तां सुकृतं कृष्णां लक्षभङ्गेन तत्र याम् । अवाप्सीदेष या चैनमताप्सीद्वीरमालया ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011602,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्राप्सीदताप्सीदिति सिजमागमविकल्पौ वृद्धिश्च ॥"
+    }
+  ]
+}

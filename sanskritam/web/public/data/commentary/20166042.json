@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166042,
+    "chapter_id": 7070,
+    "verse_number": "18.4",
+    "content_sanskrit": "भजन्ति विपदस्तूर्णमतिक्रामन्ति सम्पदः । तान्मदान्नाऽवतिष्ठन्ते ये मते न्यायवादिनाम् ॥",
+    "padaccheda": "भजन्ति । विपदः । तूर्णम् । अतिक्रामन्ति । सम्पदः । तान् । मदात् । न । अवतिष्ठन्ते । ये । मते । न्यायवादिनाम्",
+    "anvaya": "ये न्याय-वादिनाम् मते मदात् न अवतिष्ठन्ते, तान् विपदः तूर्णम् भजन्ति, सम्पदः अतिक्रामन्ति ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Misfortunes quickly strike and prosperity departs from those who, out of pride, do not abide by the counsel of those who speak justly.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166042,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "भजन्तीत्यादि - अन्यच्च ये स्वामिनो मदादवलेपात् न्यायवादिनां माल्य- चत्प्रभृतीनां मते नावतिष्ठन्ते समव-प्र-विभ्यः स्थः २२॥ ' इति तङ् । ते पुरुषाः विपदस्तूर्णं भजन्ति अवसादं सेवन्ते । भजिरुभयपदी सम्पदश्चातिक्रामन्ति त्यजन्ति ॥"
+    }
+  ]
+}

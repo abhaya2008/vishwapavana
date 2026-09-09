@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011033,
+    "chapter_id": 6679,
+    "verse_number": "7.43",
+    "content_sanskrit": "प्ररोहयन्महद्वैरं युष्मासु हृदि सात्यकेः । कृतवर्मा तु हार्दिक्यो नागकेतुं गमिष्यति ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011033,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वृष्णिमण्डले कृष्णगृहोपि सात्यकिप्रतिपक्षत्वात् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003798,
+    "chapter_id": 6597,
+    "verse_number": "2.20",
+    "content_sanskrit": "प्रशमादर्चिषामेतदनुद्गीर्णसुरायुधम् । वृत्रस्य हन्तुः कुलिशं कुण्ठिताश्रीव लक्ष्यते ॥",
+    "padaccheda": "प्रशमात् । अर्चिषाम् । एतत् । अनुद्गीर्णसुरायुधम् । वृत्रस्य । हन्तुः । कुलिशम् । कुण्ठिताश्रीव । लक्ष्यते",
+    "anvaya": "एतत् वृत्रस्य हन्तुः (इन्द्रस्य) कुलिशम् अर्चिषाम् प्रशमात् अनुद्गीर्ण-सुर-आयुधम् कुण्ठित-अश्रि इव लक्ष्यते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"And this thunderbolt of Indra, the slayer of Vritra, appears as if its edges are blunted. Due to the subsidence of its flames, it no longer seems to emit its divine fire.\" Brahma points to Indra's weapon, which has lost its power.",
+    "audio_url": null,
+    "display_order": 20,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003798,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रशमादिति ॥ अर्चिषां तेजसां प्रशमान्निर्वाणादनुद्गीर्णसुरायुधम् । अनुदितचित्रप्रभमित्यर्थः । एतद्वृत्रस्य हन्तुरिन्द्रस्य कुलिशं वज्रम् । कुण्ठिता अश्रयो यस्य तत्कुण्ठिताश्रि कुण्ठितकोटीव लक्ष्यते दृश्यते"
+    }
+  ]
+}

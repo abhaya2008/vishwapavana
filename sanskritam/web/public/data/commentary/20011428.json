@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011428,
+    "chapter_id": 6683,
+    "verse_number": "11.5",
+    "content_sanskrit": "वातभूतोर्मिशाखास्तफेनपुष्पकदम्बकम् । तमालनीलं बिभ्राणं वाचालं वनमण्डलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011428,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अत्र रूपकश्लेषसंसृष्टिः । वनमण्डलं जलमरण्यमण्डलमिव वाचालं तमालनीलं बिभ्राणम् ॥"
+    }
+  ]
+}

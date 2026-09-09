@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003381,
+    "chapter_id": 6591,
+    "verse_number": "15.45",
+    "content_sanskrit": "स मुहूर्तं क्षमस्वेति द्विजमाश्वास्य दुःखितम् । यानं सस्मार कौबेरं वैवस्वतजिगीषया ॥",
+    "padaccheda": "सः । मुहूर्तम् । क्षमस्व । इति । द्विजम् । आश्वास्य । दुःखितम् । यानम् । सस्मार । कौबेरम् । वैवस्वतजिगीषया",
+    "anvaya": "सः दुःखितम् द्विजम् 'मुहूर्तम् क्षमस्व' इति आश्वास्य, वैवस्वतजिगीषया कौबेरम् यानम् सस्मार।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Consoling the grieving brahmin with the words, \"Please wait a moment,\" Rama, with the desire to conquer Yama (the god of death), recalled Kubera's celestial chariot, Pushpaka.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003381,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स रामो दुःखितं द्विजं मुहूर्तं क्षमस्वेत्याश्वास्य वैवस्वतस्यान्तकस्य जिगीषया जेतुमिच्छया कौबेरं यानं पुष्पकं सस्मार ॥"
+    }
+  ]
+}

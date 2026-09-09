@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165555,
+    "chapter_id": 7064,
+    "verse_number": "12.54",
+    "content_sanskrit": "संधानमेवाऽस्तु परेण तस्मान्नाऽन्योऽभ्युपायोऽस्ति निरूप्यमाणः । नूनं वि-संधौ त्वयि सर्वमेतन्नेष्यन्ति नाशं कपयोऽचिरेण।\" ॥",
+    "padaccheda": "संधानम् । एव । अस्तु । परेण । तस्मात् । न । अन्यः । अभि-उपायः । अस्ति । निरूप्यमाणः । नूनम् । वि-संधौ । त्वयि । सर्वम् । एतत् । नेष्यन्ति । नाशम् । कपयः । अचिरेण",
+    "anvaya": "तस्मात् परेण संधानम् एव अस्तु । निरूप्यमाणः अन्यः अभि-उपायः न अस्ति । त्वयि वि-संधौ कपयः एतत् सर्वम् अचिरेण नूनं नाशं नेष्यन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Therefore, let there be peace with the enemy; no other remedy is seen upon deliberation. If you remain unconciliatory, these monkeys will surely bring everything here to destruction in no time.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165555,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "संधानमित्यादि — तस्मात्परेण संधिरेवास्तु । अन्य उपायो नास्ति । अन्यथा त्वयि विरुद्धबुद्धौ सर्वं कपयो विनाशयिष्यन्तीति ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004729,
+    "chapter_id": 6611,
+    "verse_number": "16.21",
+    "content_sanskrit": "अभितोऽभ्यागतान्योद्धुं वीरान्रणमदोद्धतान् । प्रत्यनन्दन्भुजादण्डरोमोद्गमभृतो भटाः ॥",
+    "padaccheda": "अभितः । अभ्यागतान् । योद्धुम् । वीरान् । रणमदोद्धतान् । प्रत्यनन्दन् । भुजादण्डरोमोद्गमभृतः । भटाः",
+    "anvaya": "अभितः योद्धुम् अभ्यागतान् रणमदोद्धतान् वीरान् भुजादण्डरोमोद्गमभृतः भटाः प्रत्यनन्दन्",
+    "meaning_sanskrit": "",
+    "meaning_english": "Soldiers, with hair bristling on their powerful arms due to excitement, welcomed the warriors who had approached from all sides to fight, being arrogant with the pride of battle.",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004729,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अभित इति । भुजादण्डेषु यो रोम्णामुद्गमस्तं बिभ्रति तथाभूता भटा योधाः कर्तारः । रणस्य संग्रामस्य मदेनोद्धतान् । अत एव योद्धुमभितोऽभ्यागतान्वीरान् । आलोक्येति शेषः । प्रत्यनन्दन्नहृष्यन्"
+    }
+  ]
+}

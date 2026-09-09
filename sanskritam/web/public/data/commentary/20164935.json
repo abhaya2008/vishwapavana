@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20164935,
+    "chapter_id": 7059,
+    "verse_number": "7.5",
+    "content_sanskrit": "\"भ्रमी कदम्ब-संभिन्नः पवनः शमिनामपि । क्लमि-त्वं कुरुतेऽत्यर्थं मेघ-शीकर-शीतलः ॥",
+    "padaccheda": "कदम्ब-संभिन्नः । मेघ-शीकर-शीतलः । भ्रमी । पवनः । शमिनाम् । अपि । अत्यर्थं । क्लमि-त्वं । कुरुते",
+    "anvaya": "कदम्ब-संभिन्नः मेघ-शीकर-शीतलः भ्रमी पवनः शमिनाम् अपि अत्यर्थं क्लमि-त्वं कुरुते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The whirling wind, fragrant with kadamba flowers and cooled by the mist of clouds, causes great exhaustion even to those who are self-controlled.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20164935,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "भ्रमीत्यादि -- भ्रमी भ्रमणशीलः । कदम्बसंभिन्नः कदम्बगन्धसंश्लिष्टः शमिनामपि शमनशीलानामपि क्लमित्वं कुरुते अत्यर्थं ग्लानिं कुरुते । '३१२१ शमित्यष्टाभ्यो घिनुण् | ३ |२|' | नोदात्तोपदेश (पा.७|३|३४) इत्या- दिना उपधावृद्धिप्रतिषेधः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003562,
+    "chapter_id": 6593,
+    "verse_number": "17.35",
+    "content_sanskrit": "तं प्रीतिविशदैर्नेत्रैरन्वयुः पौरयोषितः । शरत्प्रसन्नैर्ज्योतिर्भिर्विभावर्य इव ध्रुवम् ॥",
+    "padaccheda": "तम् । प्रीतिविशदैः । नेत्रैः । अन्वयुः । पौरयोषितः । शरत्प्रसन्नैः । ज्योतिर्भिः । विभावर्यः । इव । ध्रुवम्",
+    "anvaya": "पौरयोषितः प्रीतिविशदैः नेत्रैः तम् अन्वयुः, विभावर्यः शरत्प्रसन्नैः ज्योतिर्भिः ध्रुवम् इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The women of the city followed him with their eyes, bright with affection, just as the nights follow the Pole Star with the other stars that are clear in autumn.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003562,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ पौरयोषितः प्रीत्या विशदैः प्रसन्नैर्नेत्रैः करणैस्तमतिथिम्। अन्वयुरनुजग्मुः। सदृष्टिप्रसारमद्राक्षुरित्यर्थः। कथमिव? शरदि प्रसन्नैर्ज्योतिर्भिर्नक्षत्रैर्विभावर्यो रात्रयो ध्रुवमिव। ध्रुवपाशबद्धत्वात्ताराचक्रस्येत्यर्थः॥"
+    }
+  ]
+}

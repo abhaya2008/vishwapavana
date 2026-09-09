@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010720,
+    "chapter_id": 6676,
+    "verse_number": "4.66",
+    "content_sanskrit": "जयी विषयिणां नित्यमव्यथी तेजसो वमी । आदरी मुनिमुख्यानां परिभव्यसतां भव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010720,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जयीत्यादिषु 'जिदृक्षिविश्रीण्वमाव्यथाभ्यमपरिभूप्रसूभ्यश्च' (पा.३|२|१५७) इति इनिः ।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003623,
+    "chapter_id": 6594,
+    "verse_number": "18.15",
+    "content_sanskrit": "गुरोः स चानन्तरमन्तरज्ञः पुंसां पुमानाद्य इवावतीर्णः । उपक्रमैरस्खलितैश्चतुर्भिश्चतुर्दिगीशश्चतुरो बभूव ॥",
+    "padaccheda": "गुरोः । सः । च । अनन्तरम् । अन्तरज्ञः । पुंसाम् । पुमान् । आद्यः । इव । अवतीर्णः । उपक्रमैः । अस्खलितैः । चतुर्भिः । चतुर्दिगीशः । चतुरः । बभूव",
+    "anvaya": "पुंसां अन्तरज्ञः, आद्यः पुमान् इव अवतीर्णः सः च गुरोः अनन्तरम् अस्खलितैः चतुर्भिः उपक्रमैः चतुरः चतुर्दिगीशः बभूव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "After his father, his son (Pariyatra), a knower of men's minds who seemed like an incarnation of the Primeval Man (Vishnu), became the skilled lord of the four quarters by employing the four unfailing political expedients.",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003623,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गुरोरिति॥ पुंसामन्तरज्ञो विशेषज्ञश्चतुरो निपुणः सोऽहीनगुश्य गुरोः पितुरनन्तरम्। अवतीर्णो भुवं प्राप्त आद्यः पुमान् विष्णुरिव। अस्खलितैरप्रतिहतैश्चतुर्भिरुपक्रमैः सामाद्युपायैः। `सामादिभिरुपक्रमैः`(7।107) इति मनुः। चतुर्दिगीशश्चतसृणां दिशामीशो बभूव ॥"
+    }
+  ]
+}

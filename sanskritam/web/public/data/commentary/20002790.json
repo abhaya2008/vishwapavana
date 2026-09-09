@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002790,
+    "chapter_id": 6584,
+    "verse_number": "8.80",
+    "content_sanskrit": "स तपःप्रतिबन्धमन्युना प्रमुखाविष्कृतचारुविभ्रमाम् । अशपद्भव मानुषीति तां शमवेलाप्रलयोर्मिणा भुवि ॥",
+    "padaccheda": "सः । तपःप्रतिबन्धमन्युना । प्रमुखाविष्कृतचारुविभ्रमाम् । अशपत् । भव । मानुषी । इति । ताम् । शमवेलाप्रलयोर्मिणा । भुवि",
+    "anvaya": "तपः-प्रतिबन्ध-मन्युना शम-वेला-प्रलय-ऊर्मिणा सः प्रमुख-आविष्कृत-चारु-विभ्रमाम् ताम् 'भुवि मानुषी भव' इति अशपत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Angered by the interruption to his penance, the sage, who was like a destructive wave breaking the bounds of tranquility, cursed the celestial nymph who had displayed her charming graces before him, saying, 'Become a mortal woman on earth.'",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002790,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स मुनिः। शमः शान्तिरेव वेला मर्यादा यस्याः। प्रलयोर्मिणा प्रलवकासतरङ्गेण। शमविघातकेनेत्यर्थः। `अब्ध्यम्बुविकृतौ वेला कालमर्यादयोरपि` इत्यमरः (अ.को.3|3|207)। तपसः प्रतिबन्धेन विघ्नेन यो मन्युः क्रोधस्तेन हेतुना। प्रमुखेऽग्रे आविष्कृतचारुविभ्रमां प्रकाशितमनोहरविलासां तां हरिणीं भुवि भूलोके मानुषी मनुष्यस्त्री भवेत्यशपच्छशाप ॥"
+    }
+  ]
+}

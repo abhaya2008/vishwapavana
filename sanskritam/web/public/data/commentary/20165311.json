@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165311,
+    "chapter_id": 7061,
+    "verse_number": "9.138",
+    "content_sanskrit": "विराधं तपसां विघ्नं जघान विजितो यदि । वरो धनुर्-भृतां रामः स कथं न विवक्षितः ? ॥",
+    "padaccheda": "विराधम् । तपसाम् । विघ्नम् । जघान । विजितः । यदि । वरः । धनुर्-भृताम् । रामः । सः । कथम् । न । विवक्षितः",
+    "anvaya": "यदि विजितः तपसाम् विघ्नम् विराधम् जघान, धनुर्-भृताम् वरः सः रामः कथम् न विवक्षितः?",
+    "meaning_sanskrit": "",
+    "meaning_english": "If the one you call defeated killed Virādha, the obstacle to penances, then how is that foremost of archers, Rāma, not worthy of mention?",
+    "audio_url": null,
+    "display_order": 138,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165311,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "विराधमित्यादि - तपसां विघ्नं विराधम् । विहन्यते ऽस्मिन्निति 'घनर्थे कविधानम्' इति कः । तादृक्छलेनापि हन्तुं न दोपायेति दर्शयति- धनुर्भृतां वरः श्रेष्ठः सन् विजितो ऽभिभूतोऽपि रामो यदि जघान स कथं न विवक्षितः ? । यतो राममप्यसौ जितवान् ॥"
+    }
+  ]
+}

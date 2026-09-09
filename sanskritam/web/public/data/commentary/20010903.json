@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010903,
+    "chapter_id": 6678,
+    "verse_number": "6.24",
+    "content_sanskrit": "ब्राह्मणेभ्यो ददावन्नं बहु तत्र धनञ्जयः । भुक्त्वा चोदरपूरं ते ददुस्तस्मै मुदाशिषः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 24,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010903,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उदरपूरमिति । 'चर्मोदरपूरयोः पूरे'रिति (पा.३|४|३१) कर्मण्युपपदे णमुल् । अत्र समानकर्तृकत्वमेवास्ति न पौर्वकाल्यम् । उदरं पूरयन्तो हि ते भुञ्जते ॥"
+    }
+  ]
+}

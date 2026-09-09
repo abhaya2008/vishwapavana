@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003865,
+    "chapter_id": 6598,
+    "verse_number": "3.23",
+    "content_sanskrit": "स माधवेनाभिमतेन सख्या रत्या च साशङ्कमनुप्रयातः । अङ्गव्ययप्रार्थितकार्यसिद्धिः स्थाण्वाश्रमं हैमवतं जगाम ॥",
+    "padaccheda": "सः । माधवेन । अभिमतेन । सख्या । रत्या । च । साशङ्कम् । अनुप्रयातः । अङ्गव्ययप्रार्थितकार्यसिद्धिः । स्थाण्वाश्रमम् । हैमवतम् । जगाम",
+    "anvaya": "अङ्ग-व्यय-प्रार्थित-कार्य-सिद्धिः सः अभिमतेन सख्या माधवेन साशङ्कम् अनुप्रयातः रत्या च हैमवतम् स्थाणु-आश्रमम् जगाम ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Madana), whose success in the task required the sacrifice of his own body, went to Shiva's hermitage in the Himalayas, accompanied by his dear friend Madhava (Spring) and followed apprehensively by his wife, Rati.",
+    "audio_url": null,
+    "display_order": 23,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003865,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति ॥ स मदनोऽभिमतेन प्रियेण सख्या सुहृदा माधवेन वसन्तेन रत्या स्वदेव्या च साशङ्कं संकटमापतितमिति सभयमनुप्रयातः सन् । तथाङ्गस्य व्ययेनापि प्रार्थिता कार्यसिद्धिर्येन स तथोक्तः । शीर्त्वा मृत्वापि सर्वथा देवकार्यं साधयिष्यामीति कृतनिश्चयः सन्नित्यर्थः । हैमवतं हिमवति भवं स्थाणो रुद्रस्याश्रमं जगाम"
+    }
+  ]
+}

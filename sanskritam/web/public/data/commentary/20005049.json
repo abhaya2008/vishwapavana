@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005049,
+    "chapter_id": 6617,
+    "verse_number": "5.32",
+    "content_sanskrit": "दधत इव विलासशालि नृत्यं मृदु पतता पवनेन कम्पितानि । इह ललितविलासिनीजनभ्रूगतिकुटिलेषु पयःसु पङ्कजानि ॥",
+    "padaccheda": "दधते । इव । विलासशालि । नृत्यम् । मृदु । पतता । पवनेन । कम्पितानि । इह । ललितविलासिनीजनभ्रूगतिकुटिलेषु । पयःसु । पङ्कजानि",
+    "anvaya": "इह मृदु पतता पवनेन कम्पितानि पङ्कजानि ललितविलासिनीजनभ्रूगतिकुटिलेषु पयःसु विलासशालि नृत्यं दधते इव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Here, the lotuses, shaken by the gently blowing wind, seem to perform a graceful dance in the waters, whose ripples are as captivating as the movements of the eyebrows of charming, playful women.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005049,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दधत इति ॥ इहाद्रौ मृदु पतता मन्दं वहता पवनेन कम्पितानि पङ्कजानि ललितविलासिनीजनस्य भ्रूगतिवत्कुटिलेषु । ईषत्तरङ्गितेष्वित्यर्थः । पयःसु विलासशालि नृत्यं दधत इव । सविलासं नृत्यन्तीवेत्युत्प्रेक्षा । पुष्पिताग्रावृत्तम् ॥ "
+    }
+  ]
+}

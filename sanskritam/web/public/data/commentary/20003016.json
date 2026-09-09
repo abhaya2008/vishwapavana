@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003016,
+    "chapter_id": 6587,
+    "verse_number": "11.43",
+    "content_sanskrit": "व्यादिदेश गणशोऽथ पार्श्वगान्कार्मुकाभिहरणाय मैथिलः । तैजसस्य धनुषः प्रवृत्तये तोयदानिव सहस्रलोचनः ॥",
+    "padaccheda": "व्यादिदेश । गणशः । अथ । पार्श्वगान् । कार्मुकाभिहरणाय । मैथिलः । तैजसस्य । धनुषः । प्रवृत्तये । तोयदान् । इव । सहस्रलोचनः",
+    "anvaya": "अथ मैथिलः तैजसस्य धनुषः प्रवृत्तये पार्श्वगान् गणशः व्यादिदेश, सहस्रलोचनः तोयदान् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then the King of Mithila ordered his attendants in groups to bring the bow, just as Indra, the thousand-eyed god, commands the clouds to bring forth the brilliance of his thunderbolt.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003016,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "व्यादिदेशेति॥ अथ मैथिलः पार्श्वगान्पुरुषान् कार्मुकाभिहरणाय कार्मुकमानेतुम्। `तुमर्थाञ्च-` (पा.2।3।15) इति चतुर्थी। सहस्रलोचन इन्द्रस्तैजसस्य तेजोमयस्य धनुषः प्रवृत्तय अविर्भावाय तोयदान्भेधानिव गणशः गणान्। `संख्यैकवचनाञ्च वीप्सायाम्` (पा.5।4।43)इति शस्प्रत्ययः। व्यादिदेश प्रजिघाय ॥"
+    }
+  ]
+}

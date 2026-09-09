@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004110,
+    "chapter_id": 6601,
+    "verse_number": "6.60",
+    "content_sanskrit": "न केवलं दरीसंस्थं भास्वतां दर्शनेन वः । अन्तर्गतमपास्तं मे रजसोऽपि परं तमः ॥",
+    "padaccheda": "न । केवलं । दरीसंस्थं । भास्वतां । दर्शनेन । वः । अन्तर्गतम् । अपास्तं । मे । रजसः । अपि । परं । तमः",
+    "anvaya": "भास्वतां वः दर्शनेन मे न केवलं दरीसंस्थं (तमः), (किन्तु) अन्तर्गतं रजसः परम् अपि तमः अपास्तम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"By the sight of you, who are radiant, not only has the physical darkness residing in my caves been dispelled, but also the internal darkness of ignorance (Tamas), which is beyond even passion (Rajas).\"",
+    "audio_url": null,
+    "display_order": 60,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004110,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति । भास्वतां तेजस्विनां च युष्माकं दर्शनेन केवलं दरीसंस्थं गुहागतं तमो ध्वान्तरूपमेव नापास्तम् । किंतु मेऽन्तर्गतमन्तरात्मगतं रजसो रजोगुणात्परमनन्तरं तमोऽज्ञानरूपमप्यपास्तम् । रजस्तु पादन्यासैरेवापास्तमिति भावः । प्रसिद्धैर्भास्वद्भिर्बाह्यं तमोऽपास्यत एभिस्त्वान्तरमपीति व्यतिरेको व्यज्यते"
+    }
+  ]
+}

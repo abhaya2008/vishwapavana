@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003474,
+    "chapter_id": 6592,
+    "verse_number": "16.35",
+    "content_sanskrit": "इत्यध्वनः कैश्चिदहोभिरन्ते कूलं समासाद्य कुशः सरय्वाः । वेदिप्रतिष्ठान्वितताध्वराणां यूपानपश्यच्छतशो रघूणाम् ॥",
+    "padaccheda": "इति । अध्वनः । कैश्चित् । अहोभिः । अन्ते । कूलम् । समासाद्य । कुशः । सरय्वाः । वेदिप्रतिष्ठान्वितताध्वराणाम् । यूपान् । अपश्यत् । शतशः । रघूणाम्",
+    "anvaya": "इति अध्वनः अन्ते कैश्चित् अहोभिः कुशः सरय्वाः कूलम् समासाद्य, वेदिप्रतिष्ठान्वितताध्वराणाम् रघूणाम् यूपान् शतशः अपश्यत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus, after a few days, at the end of his journey, Kusha reached the bank of the Sarayu river. There, he saw hundreds of sacrificial posts belonging to the Raghus, who had performed sacrifices established on altars.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003474,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इति कैश्चिदहोभिरध्वनोऽवसाने कुशः सरय्वाः कूलं समासाद्य वितताध्वराणां विस्तृतमखानां रघूणाम्। वेदिः प्रतिष्ठास्पदं येषां तान्। यूपाञ्छतशोऽपश्यत् ॥"
+    }
+  ]
+}

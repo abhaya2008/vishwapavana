@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003283,
+    "chapter_id": 6590,
+    "verse_number": "14.34",
+    "content_sanskrit": "किमात्मनिर्वादकथामुपेक्षे जायामदोषामुत संत्यजामि । इत्येकपक्षाश्रयविक्लवत्वादासीत्स दोलाचलचित्तवृत्तिः ॥",
+    "padaccheda": "किम् । आत्मनिर्वादकथाम् । उपेक्षे । जायाम् । अदोषाम् । उत । संत्यजामि । इति । एकपक्षाश्रयविक्लवत्वात् । आसीत् । सः । दोलाचलचित्तवृत्तिः",
+    "anvaya": "किम् आत्म-निर्वाद-कथाम् उपेक्षे? उत अदोषां जायाम् संत्यजामि? इति एक-पक्ष-आश्रय-विक्लवत्वात् सः दोला-चल-चित्त-वृत्तिः आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Should I ignore this talk of my own scandal? Or should I abandon my faultless wife?\" Thus, due to the distress of being unable to choose one side, his state of mind became like a swinging pendulum.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003283,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "किमिति॥ आत्मनो निर्वादोऽपवाद एव कथा तां किमुपेक्षे? उत अदोषां साध्वीं जायां संत्यजामि? उभयत्रापि प्रश्ने लट्। इत्येकपक्षाश्रये अन्यतरपक्षपरिग्रहे विक्लवत्वादपरिच्छेत्तृत्वात्स रामो दोलेव चला चित्तवृत्तिर्यस्य स आसीत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011157,
+    "chapter_id": 6680,
+    "verse_number": "8.43",
+    "content_sanskrit": "कच्चित् क्षेत्रेषु सीत्येषु बीजान्युप्तानि हालिकैः । मण्डले ते यथाकालं प्ररोहन्ति फलानि च ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011157,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सीत्येष्विति समिते यत् (पा.४|४|९१) । सीतया समितं सीत्यम् ।"
+    }
+  ]
+}

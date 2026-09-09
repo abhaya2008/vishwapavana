@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005651,
+    "chapter_id": 6627,
+    "verse_number": "15.26",
+    "content_sanskrit": "प्रनृत्तशववित्रस्ततुरगाक्षिप्तसारथौ । मारुतापूर्णतूणीरविक्रुष्टहतसादिनि ॥",
+    "padaccheda": "प्रनृत्तशववित्रस्ततुरगाक्षिप्तसारथौ । मारुतापूर्णतूणीरविक्रुष्टहतसादिनि",
+    "anvaya": "(महाहवे) प्रनृत्त-शव-वित्रस्त-तुरग-आक्षिप्त-सारथौ मारुत-आपूर्ण-तूणीर-विक्रुष्ट-हत-सादिनि (पौरुषं निरस्तम्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Continuing the description of the battlefield: '...where charioteers were thrown off by horses terrified by the dancing corpses, and where the slain horsemen were lamented by their quivers, which, filled with wind, made a crying sound.'",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005651,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रनृत्तेति ॥ प्रवृत्तशवेभ्यो नृत्यत्कबन्धेभ्यो वित्रस्तैः क्षुभितैस्तुरगैराक्षिप्ता अवधूताः सारथयो यत्र तस्मिन् । तथा मारुतेनापूर्णैर्व्याप्तैस्तूणीरैर्निषङ्गैर्विक्रुष्टाः शब्दायमाना हतास्ताडिताः सादिनस्तरैरङ्गिका यत्र तस्मिन् । पाठान्तरे मारुतापूर्णतूणीरैर्विकृष्टा आकर्षिता अत एव हता मारिता; सादिनोऽश्ववारा यत्र तस्मिन् ।"
+    }
+  ]
+}

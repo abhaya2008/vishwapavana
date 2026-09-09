@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003373,
+    "chapter_id": 6591,
+    "verse_number": "15.37",
+    "content_sanskrit": "भूयस्तपोव्ययो मा भूद्वाल्मीकेरिति सोऽत्यगात् । मैथिलीतनयोद्गीतनिःस्पन्दमृगमाश्रमम् ॥",
+    "padaccheda": "भूयः । तपः । व्ययः । मा । भूत् । वाल्मीकेः । इति । सः । अत्यगात् । मैथिलीतनयोद्गीतनिःस्पन्दमृगम् । आश्रमम्",
+    "anvaya": "वाल्मीकेः भूयः तपः व्ययः मा भूत् इति सः मैथिलीतनयोद्गीतनिःस्पन्दमृगम् आश्रमम् अत्यगात्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thinking, \"May there be no further depletion of Valmiki's ascetic power,\" Shatrughna passed by the hermitage, where the deer stood motionless, captivated by the songs of Sita's sons.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003373,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भूय इति॥ स शत्रुघ्नो मैथिलीतनययोः कुश-लवयोरुद्गीतेन निःस्पन्दमृगं गीतप्रियतया निश्चलहरिणं वाल्मीकेराश्रमम्। भूयः पुनरपि तपोव्ययः संविधानकरणार्थं तपोहानिर्मा भूदिति हेतोः। अत्यगात्। अतिक्रम्य गत इत्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004091,
+    "chapter_id": 6601,
+    "verse_number": "6.41",
+    "content_sanskrit": "यत्र कल्पद्रुमैरेव विलोलविटपांशुकैः । गृहयन्त्रपताकाश्रीरपौरादरनिर्मिता ॥",
+    "padaccheda": "यत्र । कल्पद्रुमैः । एव । विलोलविटपांशुकैः । गृहयन्त्रपताकाश्रीः । अपौरादरनिर्मिता",
+    "anvaya": "यत्र विलोलविटपांशुकैः कल्पद्रुमैः एव अपौरादरनिर्मिता गृहयन्त्रपताकाश्रीः (अस्ति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, the splendor of flags on houses is provided by the wish-fulfilling trees themselves, with their swaying branches serving as banners, thus not requiring any effort from the citizens.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004091,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यत्रेति । यत्र नगरे विलोलानि चञ्चलानि विटपेष्वंशुकानि येषां तैः कल्पद्रुमैरेवापौरादरेण पौरादरं विनैव निर्मिता । अयत्नसिद्धेत्यर्थः, गृहेषु यानि यन्त्राण्याधारदारूणि तेषु पताकास्तासां श्रीः संभवतीति शेषः । तत्र लम्बाम्बराः कल्पतरव एव वैजयन्तीति संभाव्यन्त इत्यर्थः"
+    }
+  ]
+}

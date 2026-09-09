@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004118,
+    "chapter_id": 6601,
+    "verse_number": "6.68",
+    "content_sanskrit": "गामधास्यत्कथं नागो मृणालमृदुभिः फणैः । आ रसातलमूलात्त्वमवालम्बिष्यथा न चेत् ॥",
+    "padaccheda": "गाम् । अधास्यत् । कथम् । नागः । मृणालमृदुभिः । फणैः । आ । रसातलमूलात् । त्वम् । न । अवालम्बिष्यथाः । चेत्",
+    "anvaya": "चेत् त्वम् आ रसातलमूलात् (गाम्) न अवालम्बिष्यथाः, (तर्हि) नागः मृणालमृदुभिः फणैः गाम् कथम् अधास्यत्?",
+    "meaning_sanskrit": "",
+    "meaning_english": "If you had not supported the Earth from the very bottom of the netherworld, how could the serpent Shesha have held it with his hoods, which are as delicate as lotus stalks?",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004118,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गामिति । नागः शेषाहिर्मृणालमृदुभिर्बिसकोमलैः फणैर्गां भुवं कथमघास्यद्धारयेत् । त्वमारसातलमूलात्पातालपर्यन्तम् । विकल्पादसामासः नावालम्बिष्यथाश्चेत्पादैर्नावलम्बेथा यदि । त्वदवलम्बनादेव भुजगराजोऽपि भुवं बिभर्तीत्यर्थः । अत्र क्रियातिपत्त्यभावाल्लृङ्प्रयोगश्चिन्त्यः"
+    }
+  ]
+}

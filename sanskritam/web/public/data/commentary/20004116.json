@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004116,
+    "chapter_id": 6601,
+    "verse_number": "6.66",
+    "content_sanskrit": "उपपन्नमिदं सर्वमतः परमपि त्वयि । मनसः शिखराणां च सदृशी ते समुन्नतिः ॥",
+    "padaccheda": "उपपन्नम् । इदम् । सर्वम् । अतः । परम् । अपि । त्वयि । मनसः । शिखराणाम् । च । सदृशी । ते । समुन्नतिः",
+    "anvaya": "(हे भूधर!) त्वयि इदम् सर्वम् उपपन्नम्। अतः परम् अपि (उपपन्नम्)। ते मनसः शिखराणाम् च समुन्नतिः सदृशी।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Angiras said to Himalaya: \"All this praise is fitting for you, and even more. The loftiness of your mind and of your peaks is alike; both are equally elevated.\"",
+    "audio_url": null,
+    "display_order": 66,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004116,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उपपन्नमिति । इदम् `एते वयममी दाराः` (६/६३) इत्याद्युक्तं सर्वमतः परमतोऽधिकमपि त्वय्युपपन्नं युज्यते । तथाहि । ते मनसः शिखराणां च समुन्नतिः सदृशी । शिखराणीव मनो महोन्नतमित्यर्थः । किं नाम दुष्करमुन्नतचित्तानामिति भावः । प्रस्तुताप्रस्तुतयोर्मनः शिखरयोरौपम्यस्य गम्यत्वाद्दीपकालंकारः"
+    }
+  ]
+}

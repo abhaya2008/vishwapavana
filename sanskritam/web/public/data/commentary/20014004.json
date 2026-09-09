@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014004,
+    "chapter_id": 6706,
+    "verse_number": "14.75",
+    "content_sanskrit": "शुश्राव तं बन्धुजनः सशिष्यं स्वमातुलागारमुपेयिवांसम् । आगत्य दृष्ट्वा चिरमागतं तं जहर्ष हर्षातिशयेन साश्रुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014004,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "आख्यानकी वृत्तम् ॥ ७५ ॥ ७६ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014004,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ शुश्रावेति । बन्धुजनः पूर्वाश्रमसंबन्धि- जनः ] ॥ ७५ ॥"
+    }
+  ]
+}

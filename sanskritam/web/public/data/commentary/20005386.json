@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005386,
+    "chapter_id": 6623,
+    "verse_number": "11.32",
+    "content_sanskrit": "जीयन्तां दुर्जया देहे रिपवश्चक्षुरादयः । जितेषु ननु लोकोऽयं तेषु कृत्स्नस्त्वया जितः ॥",
+    "padaccheda": "जीयन्ताम् । दुर्जयाः । देहे । रिपवः । चक्षुरादयः । जितेषु । ननु । लोकः । अयम् । तेषु । कृत्स्नः । त्वया । जितः",
+    "anvaya": "देहे दुर्जयाः चक्षुरादयः रिपवः जीयन्ताम् । ननु तेषु जितेषु सत्सु अयं कृत्स्नः लोकः त्वया जितः भविष्यति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Let the difficult-to-conquer enemies in the body—the senses, starting with the eyes—be conquered. Indeed, when they are conquered, this entire world is conquered by you.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005386,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "जीयन्तामिति ॥ दुर्जया अजय्याश्चक्षुरादयो देहे वर्तमाना रिपवो जीयन्तां यस्मात्तेष्वन्तःशत्रुषु जितेषु सत्सु त्वयायं कृत्स्नो लोको जितो ननु । किमुतान्ये शत्रवस्तदन्तर्गता इत्यर्थः । जितेन्द्रियस्येन्द्रियार्थनिःस्पृहस्य वैरानुदयाद्विजयव्यपदेशः ॥ अजितेन्द्रियस्यानिष्टमाचष्टे"
+    }
+  ]
+}

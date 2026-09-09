@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002815,
+    "chapter_id": 6585,
+    "verse_number": "9.10",
+    "content_sanskrit": "अजयदेकरथेन स मेदिनीमुदधिनेमिमधिज्यशरासनः । जयमघोषयदस्य तु केवलं गजवती जवतीव्रहया चमूः ॥",
+    "padaccheda": "अजयत् । एकरथेन । सः । मेदिनीम् । उदधिनेमिम् । अधिज्यशरासनः । जयम् । अघोषयत् । अस्य । तु । केवलम् । गजवती । जवतीव्रहया । चमूः",
+    "anvaya": "अधिज्यशरासनः सः एकरथेन उदधिनेमिं मेदिनीम् अजयत् । तु अस्य गजवती जवतीव्रहया चमूः केवलं जयम् अघोषयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Dasharatha), with his bow strung, conquered the ocean-rimmed earth with just a single chariot. His army, with its elephants and swift horses, merely announced his victory.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002815,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अजयदिति॥ अधिज्यशरासनः स दशरथ उदधिनेमिं समुद्रवेष्टानां मेदिनीमेकरथेनाजयत्। स्वयमेकरथेनाजैषीदित्यर्थथः। गजवती गजयुक्ता। जवेन तीव्रा जवाधिका हया यस्यां सा चमूस्त्वस्य नृपस्य केवलं जयमघोषयदप्रथयत्। स्वयमेकंवीरस्य चमूरुपकरणमात्रमिति भावः॥"
+    }
+  ]
+}

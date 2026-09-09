@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011682,
+    "chapter_id": 6685,
+    "verse_number": "13.18",
+    "content_sanskrit": "अङ्गानि तस्याश्चाऽसिन्वन् प्रत्यग्रबिसवल्लिभिः । कदलीदलवातांश्च प्राहिण्वंस्तेषु शीतलान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 18,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011682,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "असिन्वन्निति । षिञ् बन्धने । स्वादिः । प्राहिण्वन् प्रेरितवत्यः । हि गतौ । स्वादिः । अन्तर्भावितण्यर्थस्याऽस्य प्रयोगो दृश्यते ॥"
+    }
+  ]
+}

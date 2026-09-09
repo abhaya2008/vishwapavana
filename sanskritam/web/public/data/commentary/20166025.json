@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166025,
+    "chapter_id": 7069,
+    "verse_number": "17.99",
+    "content_sanskrit": "ततः शत-महस्रेण रामः प्रौर्णोन्निशाचरम् । बाणानामक्षिणोद्धुर्यान्सारथिं चाऽदुनोद्द्रुतम् ॥",
+    "padaccheda": "ततः । रामः । बाणानाम् । शत-सहस्रेण । निशाचरम् । प्रौर्णोत् । धुर्यान् । अक्षिणोत् । सारथिम् । च । द्रुतम् । अदुनोत्",
+    "anvaya": "ततः रामः बाणानाम शत-सहस्रेण निशाचरम् प्रौर्णोत् धुर्यान् अक्षिणोत् सारथिम् च द्रुतम् अदुुुुनोत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then Rāma covered the night-stalker with a hundred thousand arrows, killed his lead horses, and quickly distressed his charioteer.",
+    "audio_url": null,
+    "display_order": 99,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166025,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "तत इत्यादि - ततोऽनन्तरं रामः निशाचरं वाणानां शतसहस्त्रेण लक्षण प्रौणत् छादितवान् । गुणोऽपृक्ते (पा.७|३|९१)इति गुणः । द्रुतं धुर्यान- श्वान् । धुरो यडकौ (पा.४|४|७७) इति यत् । अक्षिणोत् हतवान् । सारथिं चादुनोत् उपतापितवान् ॥"
+    }
+  ]
+}

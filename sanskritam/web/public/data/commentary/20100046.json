@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20100046,
+    "chapter_id": 6710,
+    "verse_number": "2.19",
+    "content_sanskrit": "वहन्ति वर्षन्ति नदन्ति भान्ति व्यायन्ति नृत्यन्ति समाश्रयन्ति । नद्यो घना मत्तगजा वनान्ताः प्रियाविहीनाः शिखिनः प्लवंगाः ॥",
+    "padaccheda": "वहन्ति । वर्षन्ति । नदन्ति । भान्ति । ध्यायन्ति । नृत्यन्ति । समाश्रयन्ति । नद्यः । घनाः । मत्तगजाः । वनान्ताः । प्रियाविहीनाः । शिखिनः । प्लवंगाः",
+    "anvaya": "नद्यः वहन्ति, घनाः वर्षन्ति, मत्तगजाः नदन्ति, वनान्ताः भान्ति, प्रियाविहीनाः ध्यायन्ति, शिखिनः नृत्यन्ति, प्लवंगाः उन्नतान् प्रदेशान् समाश्रयन्ति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rivers flow, clouds rain, rutting elephants trumpet, forest regions shine, those separated from their beloveds pine, peacocks dance, and monkeys take refuge on high ground.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20100046,
+      "commentary_type": "ऋतुसमुच्चयटीका (अमरकीर्तिसूरिः)",
+      "author": "",
+      "content": "अस्य पद्यस्य व्याख्या नोपलभ्यते । प्रक्षिप्तम् पद्यम् स्यात्"
+    },
+    {
+      "id": 2,
+      "verse_id": 20100046,
+      "commentary_type": "चन्द्रिकाटीका (मणिरामः)",
+      "author": "",
+      "content": "अस्य पद्यस्य व्याख्या नोपलभ्यते । प्रक्षिप्तम् पद्यम् स्यात्"
+    }
+  ]
+}

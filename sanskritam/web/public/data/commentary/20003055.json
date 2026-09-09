@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003055,
+    "chapter_id": 6587,
+    "verse_number": "11.82",
+    "content_sanskrit": "तावुभावपि परस्परस्थितौ वर्धमानपरिहीनतेजसौ । पश्यति स्म जनता दिनात्यये पार्वणौ शशिदिवाकराविव ॥",
+    "padaccheda": "तौ । उभौ । अपि । परस्परस्थितौ । वर्धमानपरिहीनतेजसौ । पश्यति स्म । जनता । दिनात्यये । पार्वणौ । शशिदिवाकरौ । इव",
+    "anvaya": "जनता दिनात्यये परस्परस्थितौ वर्धमानपरिहीनतेजसौ तौ उभौ अपि पार्वणौ शशिदिवाकरौ इव पश्यति स्म ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The people saw those two standing opposite each other, one with waxing and the other with waning splendour, like the moon and the sun seen together at dusk during a specific lunar phase.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003055,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "ताविति॥ परस्परस्थितावन्योन्याभियुक्तौ। वर्धमानं च परिहीनं चेति द्वन्द्वः। वर्धमानपरिहीने तेजसी ययोस्तावुभौ राघव-भार्गवावपि। दिनात्यये सायंकाले। पर्वणि भवौ पार्वणौ शशि-दिवाकराविव। जनता जनसमूहः। `ग्रामजनबन्धुसहायेभ्यस्तल्` (पा.4।2।43)इति तल्प्रत्ययः। पश्यति स्मापश्यत्। अत्र राघवस्य शशिना भार्गवस्य भानुनौपम्यं द्रष्टव्यम् ॥"
+    }
+  ]
+}

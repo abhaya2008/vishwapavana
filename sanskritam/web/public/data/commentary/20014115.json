@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20014115,
+    "chapter_id": 6707,
+    "verse_number": "15.11",
+    "content_sanskrit": "अथ तीर्थकराग्रणीः प्रतस्थे किल कापालिकजालकं विजेतुम् । निशमय्य तमागतं समागात्क्रकचो नाम कपालिदेशिकाग्रयः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014115,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथ शास्त्रकराग्रणीः कापालिकजालकं विजेतुं स उज्जयिन्याख्यपुरं प्रतस्थे ॥११॥"
+    }
+  ]
+}

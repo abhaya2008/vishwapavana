@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003875,
+    "chapter_id": 6598,
+    "verse_number": "3.33",
+    "content_sanskrit": "हिमव्यपायाद्विशदाधराणामापाण्डुरीभूतमुखच्छवीनाम् । स्वेदोद्गमः किंपुरुषाङ्गनानां चक्रे पदं पत्रविशेषकेषु ॥",
+    "padaccheda": "हिमव्यपायात् । विशदाधराणाम् । आपाण्डुरीभूतमुखच्छवीनाम् । स्वेदोद्गमः । किंपुरुषाङ्गनानाम् । चक्रे । पदम् । पत्रविशेषकेषु",
+    "anvaya": "हिम-व्यपायात् विशद-अधराणाम् आपाण्डुरीभूत-मुख-च्छवीनाम् किंपुरुष-अङ्गनानाम् स्वेद-उद्गमः पत्र-विशेषकेषु पदम् चक्रे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Due to the departure of winter, beads of perspiration appeared on the painted leaf-decorations (on the cheeks) of the Kimpurusha women, whose lips had become clear and whose facial complexions had turned slightly pale.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003875,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हिमेति । हिमस्य व्यपायादपगमाद्विशदा नीरुजा अधरा ओष्ठा यासां तासामापाण्डरीभूतमुखच्छवीनाम् । कुङ्कुमपरिहारादिति भावः । किंपुरूषाङ्गनानां पत्रविशेषकेषु पत्ररचनासु स्वेदोद्‌गमः पदं चक्रे । घर्मोदयात्स्वेदोदयोऽभूदित्यर्थः । विशदाधरात्वं मधूच्छिष्टराहित्यादिति हेमन्तेषु नार्यो बिम्बोष्ठेषु मधुच्छिष्टं शीतभयाद्दधतीति प्रसिद्धम्"
+    }
+  ]
+}

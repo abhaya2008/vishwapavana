@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005238,
+    "chapter_id": 6621,
+    "verse_number": "9.25",
+    "content_sanskrit": "न प्रसादमुचितं गमिता द्यैर्नोद्धृतं तिमिरमद्रिवनेभ्यः । दिङ्मुखेषु न च धाम विकीर्णं भूषितैव रजनी हिमभासा ॥",
+    "padaccheda": "न । प्रसादम् । उचितं । गमिता । द्यौः । नोद्धृतं । तिमिरम् । अद्रिवनेभ्यः । दिङ्मुखेषु । न । च । धाम । विकीर्णं । भूषिता । एव । रजनी । हिमभासा",
+    "anvaya": "हिम-भासा द्यौः उचितम् प्रसादम् न गमिता, अद्रि-वनेभ्यः तिमिरम् न उद्धृतम्, दिक्-मुखेषु धाम च न विकीर्णम्, रजनी भूषिता एव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "By the cool-rayed moon, the sky was not brought to its full clearness, the darkness was not removed from the mountains and forests, and the light was not scattered in all directions; the night was merely adorned.",
+    "audio_url": null,
+    "display_order": 25,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005238,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "नेति ॥ हिमभासा चन्द्रेण द्यौराकाशमुचितंयोग्यं प्रसादं न गमिता । अद्रयो वनानि च तेभ्यस्तिमिरं नोद्धृतं नोत्सारितम् । दिशां मुखेषु धाम तेजश्च न विकीर्णं न पर्यस्तम् । तथापि रजनी भूषितैव। उक्तगुणासंपत्ताविति भावः । अत्र प्रसाधनकारणाभावेऽपि तत्कार्यभूषणोक्त्या विभावनालंकारः ॥"
+    }
+  ]
+}

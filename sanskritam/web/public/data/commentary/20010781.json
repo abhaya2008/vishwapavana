@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010781,
+    "chapter_id": 6677,
+    "verse_number": "5.21",
+    "content_sanskrit": "सेकसंवर्ध्यमानेषु वामनेष्वपि शाखिषु । मुनिशापभिया चोरैर्मुक्तस्वादुफलोचयम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 21,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010781,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मुक्तस्वादुफलोच्चयमिति स्तेये घञो निषेधा'देरच् ' (पा.३|३|५६) ।"
+    }
+  ]
+}

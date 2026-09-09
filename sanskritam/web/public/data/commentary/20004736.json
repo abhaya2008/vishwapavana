@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004736,
+    "chapter_id": 6611,
+    "verse_number": "16.28",
+    "content_sanskrit": "शिरांसि वरयोधानामर्धचन्द्रहृतान्यलम् । आदधाना भृशं पादैः श्येना व्यानशिरे नभः ॥",
+    "padaccheda": "शिरांसि । वरयोधानाम् । अर्धचन्द्रहृतानि । अलम् । आदधानाः । भृशम् । पादैः । श्येनाः । व्यानशिरे । नभः",
+    "anvaya": "अर्धचन्द्रहृतानि वरयोधानाम शिरांसि पादैः भृशं आदधानाः श्येनाः अलम् नभः व्यानशिरे",
+    "meaning_sanskrit": "",
+    "meaning_english": "Hawks filled the sky, firmly grasping with their talons the heads of great warriors that had been severed by crescent-shaped arrows.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004736,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शिरांसीति । अर्धचन्द्रहृतान्यर्धचन्द्राकारबाणकर्तितानि वरयोधानां शिरांसि । पदैरादधाना गृह्णान्तः श्येनाः पक्षिविशेषा भृशमतिशयेन नभोव्यानशिरे व्यापुः । सर्वस्मिन्नेव नभसि श्येननीतमस्तकान्येव जातानीति भावः"
+    }
+  ]
+}

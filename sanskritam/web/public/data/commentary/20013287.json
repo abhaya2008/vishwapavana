@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013287,
+    "chapter_id": 6699,
+    "verse_number": "7.73",
+    "content_sanskrit": "गिरेरवप्लुत्य गतिः सतां यः प्रामाण्यमाम्नायगिरामवादीत् । यस्य प्रसादास्त्रिदिवौकसोऽपि प्रपेदिरे प्राक्तनयज्ञभागान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013287,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तामेव दर्शयति । गिरेरिति । यः सतां गतिः पर्वतादवप्लुत्य वेदगिरां प्रामाण्यमवादीत् ॥ ७४ ॥"
+    }
+  ]
+}

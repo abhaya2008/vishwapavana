@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004433,
+    "chapter_id": 6605,
+    "verse_number": "10.50",
+    "content_sanskrit": "दिव्यां विष्णुपदीं देवीं निर्वाणपददेशिनीम् । निर्धूतकल्मषां मूर्ध्ना सुप्रह्वास्ता ववन्दिरे ॥",
+    "padaccheda": "दिव्याम् । विष्णुपदीम् । देवीम् । निर्वाणपददेशिनीम् । निर्धूतकल्मषाम् । मूर्ध्ना । सुप्रह्वाः । ताः । ववन्दिरे",
+    "anvaya": "ताः निर्धूतकल्मषां निर्वाणपददेशिनीं दिव्यां विष्णुपदीं देवीं मूर्धना सुप्रह्वाः ववन्दिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With their sins washed away and bowing their heads deeply, the Kṛttikās saluted the divine goddess Gaṅgā, who sprang from the foot of Viṣṇu and who points the way to the state of liberation.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004433,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दिव्यामिति । निर्वाणपदस्य मोक्षपदस्य देशिनीं दात्रीम् । तथा निर्धूतकल्मषां दूरीकृतजनकिल्बिषां दिव्यां स्वर्गीयाम् । `द्युप्रागपागुदक्प्रतीचो यत्' इति दिवो यत् । विष्णोः पदीं चरणसंबन्धिनीम् । `गङ्गाविष्णुपदी' इत्यमरः । देवीं गङ्गां ताः कृत्तिकाः सुतरां प्रह्वा नताः सत्यो मूर्ध्ना ववन्दिरे प्रणेमुः"
+    }
+  ]
+}

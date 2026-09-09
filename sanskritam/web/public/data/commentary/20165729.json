@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165729,
+    "chapter_id": 7066,
+    "verse_number": "14.81",
+    "content_sanskrit": "पपात राक्षसो भूमौ रराट च भयंकरम् । तुतोद गदया चाऽरिं तं दुध्रावाऽद्रिणा कपिः ॥",
+    "padaccheda": "पपात । राक्षसः । भूमौ । रराट । च । भयंकरम् । तुतोद । गदया । च । अरिम् । तम् । दुध्राव । अद्रिणा । कपिः",
+    "anvaya": "राक्षसः भूमौ पपात भयंकरम् रराट च। सः अरिम् गदया तुतोद, कपिः तम् अद्रिणा दुध्राव च।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The demon fell to the ground and shrieked terrifyingly. He struck the enemy with a mace, and the monkey shook him with a mountain.",
+    "audio_url": null,
+    "display_order": 81,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165729,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "राक्षसो धूम्राक्षो भूमौ पपात, पतितः सन् भयंकरं रराट रटितवान् ततो ऽरिं हनूमन्तं गदया तुतोद आहतवान् तं राक्षसं स कपिः अद्रिणा दुधाव व्यापादितवान् ॥"
+    }
+  ]
+}

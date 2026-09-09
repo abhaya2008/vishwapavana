@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003328,
+    "chapter_id": 6590,
+    "verse_number": "14.79",
+    "content_sanskrit": "अनुग्रहप्रत्यभिनन्दिनीं तां वाल्मीकिरादाय दयार्द्रचेताः । सायं मृगाध्यासितवेदिपार्श्वं स्वमाश्रमं शान्तमृगं निनाय ॥",
+    "padaccheda": "अनुग्रहप्रत्यभिनन्दिनीम् । ताम् । वाल्मीकिः । आदाय । दयार्द्रचेताः । सायम् । मृगाध्यासितवेदिपार्श्वम् । स्वम् । आश्रमम् । शान्तमृगम् । निनाय",
+    "anvaya": "दयार्द्रचेताः वाल्मीकिः अनुग्रहप्रत्यभिनन्दिनीम् ताम् आदाय, सायं मृगाध्यासितवेदिपार्श्वम् शान्तमृगम् स्वम् आश्रमम् निनाय।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Valmiki, his heart melting with compassion, took her, who was grateful for his kindness, and in the evening led her to his own hermitage, where deer rested peacefully beside the sacrificial altars.",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003328,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अनुग्रहेति॥ दयार्द्रचेता वाल्मीकिः। अनुग्रहं प्रत्यभिनन्दतीति तथोक्तां तां सीतामादाय सायं मृगैरध्यासितवेदिपार्श्वमधिष्ठितवेदिप्रान्तं शान्तमृगं स्वमाश्रमं निनाय ॥"
+    }
+  ]
+}

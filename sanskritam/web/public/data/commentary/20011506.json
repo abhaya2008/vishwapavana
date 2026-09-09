@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011506,
+    "chapter_id": 6683,
+    "verse_number": "11.83",
+    "content_sanskrit": "अंशुकाभरणालेपकुसुमादिभिरुत्तमैः । प्रणयी पुण्डरीकाक्षः पाण्डुपुत्रीयति स्म तान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011506,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पाण्डुपुत्रीयतीति । 'उपमानादाचारे' (पा.३|१|१०) इति क्यजन्ताल्लट् ॥"
+    }
+  ]
+}

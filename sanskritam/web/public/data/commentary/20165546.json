@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165546,
+    "chapter_id": 7064,
+    "verse_number": "12.45",
+    "content_sanskrit": "शक्यान्य-दोषाणि महा-फलानि समारभेतोपनयन्समाप्तिम् । कर्माणि राजा विहिताऽनुरागो विपर्यये स्याद्वितथः प्रयासः ॥",
+    "padaccheda": "शक्य-अन्य-दोषाणि । महा-फलानि । समारभेत । उपनयन् । समाप्तिम् । कर्माणि । राजा । विहित-अनुरागः । विपर्यये । स्यात् । वितथः । प्रयासः",
+    "anvaya": "राजा विहित-अनुरागः शक्य-अन्य-दोषाणि महा-फलानि कर्माणि समाप्तिम् उपनयन् समारभेत । विपर्यये प्रयासः वितथः स्यात् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A king who has secured the loyalty of his subjects should undertake tasks that are feasible, free from flaws, and yield great results, leading them to completion. In the opposite case, all effort becomes futile.",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165546,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "शक्यानीत्यादि — शक्यानि यानि कर्तुं पार्यन्ते । अदोषाणि शुद्धानि महाफलानि कार्याणि राजा समारभेत विग्रहेणेत्यर्थात् । उपनयनसमाप्ति नयन् । विहितानुरागो ऽनुरक्तकृतिः । विपर्यये उक्तस्य । अशक्यानि दोपाधि- कानि स्वल्पफलानि राजा समारभेत समाप्तिं च न नयति स वितथः प्रयासः निष्फलो विग्रहः ॥ ममापि रामविग्रहेण सर्वमस्तीति चेदाह -"
+    }
+  ]
+}

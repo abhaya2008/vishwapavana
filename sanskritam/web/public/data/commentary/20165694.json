@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165694,
+    "chapter_id": 7066,
+    "verse_number": "14.46",
+    "content_sanskrit": "आचिचाय स तैः सेनामाचिकाय च राघवौ । बभाण च \"न मे मायां जिगायेन्द्रोऽपि किं नृभिः\" ॥",
+    "padaccheda": "आचिचाय । सः । तैः । सेनाम् । आचिकाय । च । राघवौ । बभाण । च । न । मे । मायाम् । जिगाय । इन्द्रः । अपि । किम् । नृभिः । इति",
+    "anvaya": "सः तैः सेनाम् आचिचाय, राघवौ च आचिकाय । मे मायाम् इन्द्रः अपि न जिगाये, नृभिः किम् इति च बभाण ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "He covered the whole army and the two Rāghavas with those serpent-arrows. He boasted, \"Even Indra could not conquer my illusory power; what hope is there for mere humans?\"",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165694,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आचिचायेत्यादि -- स इन्द्रजित् सर्पास्त्रैर्वानराणां सेनामाचिचाय छन्न- वान् । विभाषा चेः (पा.७|३|५८) इति अकुत्वपक्षे रूपम् । राघवौ च रामलक्ष्मणावाचिकाय । कुत्वपक्षे रूपम् । बभाण च भणति स्म । मम मायामिन्द्रो ऽपि न जिगाय न जितवान् । '२३३१ सँल्लिटोर्जेः(पा.७|३|५७) इति कुत्वम् । किं नृभिः न किंचित्प्रयोजनमित्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166114,
+    "chapter_id": 7072,
+    "verse_number": "20.4",
+    "content_sanskrit": "पश्चिमं करवामैतत्प्रियं देवि ! वयं तव\" । ततः प्रोक्तवती सीता वानरं करुणाऽऽशया ॥",
+    "padaccheda": "देवि । वयम् । तव । एतत् । पश्चिमम् । प्रियम् । करवाम । ततः । करुणाशया । सीता । वानरम् । प्रोक्तवती",
+    "anvaya": "देवि ! वयम् तव एतत् पश्चिमम् प्रियम् करवाम । ततः करुणा-आशया सीता वानरम् प्रोक्तवती ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Queen! Let us perform this final service dear to you.\" Then Sītā, filled with compassion, spoke to the monkey Hanumān.",
+    "audio_url": null,
+    "display_order": 4,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166114,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "पश्चिममित्यादि — हे देवि ! किमन्त्र विचारितेन तव पश्चिममन्त्यं प्रियं एतद्वयं करवाम करिष्यामः । अस्मद एकत्वे बहुवचन मन्यतरस्याम् । ततोऽन- न्तरं सीता करुणाशया सती वानरं प्रोक्तवती ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011456,
+    "chapter_id": 6683,
+    "verse_number": "11.33",
+    "content_sanskrit": "वदतो ब्राह्मणान्न भोजयन्ति कुटुम्बिनः । दयाद्रविणसम्पन्नमानसोत्तममन्दिराः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011456,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दयाद्रविणेत्यादौ यथासंख्यं दयासम्पन्नमानसाः द्रविणसम्पन्नोत्तममन्दिरा इति ॥"
+    }
+  ]
+}

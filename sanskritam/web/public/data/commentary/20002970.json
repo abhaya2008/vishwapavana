@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002970,
+    "chapter_id": 6586,
+    "verse_number": "10.83",
+    "content_sanskrit": "ते प्रजानां प्रजानाथास्तेजसा प्रश्रयेण च । मनो जह्नुर्निदाघान्ते श्यामाभ्रा दिवसा इव ॥",
+    "padaccheda": "ते । प्रजानां । प्रजानाथाः । तेजसा । प्रश्रयेण । च । मनः । जह्नुः । निदाघान्ते । श्यामाभ्राः । दिवसाः । इव",
+    "anvaya": "ते प्रजानाथाः तेजसा प्रश्रयेण च प्रजानां मनः जह्नुः निदाघान्ते श्यामाभ्राः दिवसाः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The four princes, the lords of the subjects, captured the hearts of the people through their brilliance and humility, just as the days at the end of summer, accompanied by dark clouds, captivate the mind.",
+    "audio_url": null,
+    "display_order": 83,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002970,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "त इति॥ प्रजानाथास्ते कुमारास्तेजसा प्रभावेण प्रश्रयेण विनयेन च निदाघान्ते ग्रीष्मान्ते श्यामान्यभ्राणि मेघा येषां ते श्यामाभ्राः। नातिशीतोष्णा। इत्यर्थः। दिवसा इव। प्रजानां मनो जह्नुः ॥"
+    }
+  ]
+}

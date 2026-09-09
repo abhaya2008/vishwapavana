@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20100259,
+    "chapter_id": 6715,
+    "verse_number": "1.102",
+    "content_sanskrit": "त्वामालिख्य प्रणयकुपितां धातुरागैः शिलायामात्मानं ते चरणपतितं यावदिच्छामि कर्तुम् । अस्रैस्तावन्मुहुरुपचितैर्दृष्टिरालिप्यते मे क्रूरस्तस्मिन्नपि न सहते संगमं नौ कृतान्तः ॥",
+    "padaccheda": "त्वाम् । आलिख्य । प्रणयकुपिताम् । धातुरागैः । शिलायाम् । आत्मानम् । ते । चरणपतितम् । यावत् । इच्छामि । कर्तुम् । अस्रैः । तावत् । मुहुः । उपचितैः । दृष्टिः । आलिप्यते । मे । क्रूरः । तस्मिन् । अपि । न । सहते । संगमम् । नौ । कृतान्तः",
+    "anvaya": "धातु-रागैः शिलायाम् प्रणय-कुपिताम् त्वाम् आलिख्य यावत् आत्मानम् ते चरण-पतितम् कर्तुम् इच्छामि, तावत् मे दृष्टिः मुहुः उपचितैः अस्रैः आलिप्यते; क्रूरः कृतान्तः तस्मिन् अपि नौ सङ्गमम् न सहते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Yakṣa attempts to paint a portrait of his wife on a rock using mineral pigments, depicting her as angry in love while he prostrates himself at her feet. However, his vision is repeatedly blurred by welling tears. He concludes that cruel fate is so heartless that it cannot tolerate their union even within the confines of a painting.",
+    "audio_url": null,
+    "display_order": 102,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20100259,
+      "commentary_type": "वल्लभदेवः",
+      "author": "",
+      "content": "भवतीं प्रणयकुपितां प्रीत्या कपितां धातुरागैः सिन्दूरादिरागैर्दृषत्स्वालिख्य प्रार्थनयात्मानं तव पादगतं कर्तुं यावदिच्छामि तावत्त्वदाकारस्य स्मरणाद्बाष्परसकृदुपचितैवृद्धैश्चक्षुषी ममाच्छाद्येते । अतश्च तस्मिन्नपि त्वदाकारे तत्रापि चित्रे क्रूरो विषमो विधिर्नावावयोः समागमं न क्षमते ॥"
+    }
+  ]
+}

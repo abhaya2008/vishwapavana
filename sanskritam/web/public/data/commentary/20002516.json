@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002516,
+    "chapter_id": 6581,
+    "verse_number": "5.39",
+    "content_sanskrit": "अथेश्वरेण क्रथकैशिकानां स्वयंवरार्थं स्वसुरिन्दुमत्याः । आप्तः कुमारानयनोत्सुकेन भोजेन दूतो रघवे विसृष्टः ॥",
+    "padaccheda": "अथ । ईश्वरेण । क्रथकैशिकानाम् । स्वयंवरार्थम् । स्वसुः । इन्दुमत्याः । आप्तः । कुमारानयनोत्सुकेन । भोजेन । दूतः । रघवे । विसृष्टः",
+    "anvaya": "अथ क्रथकैशिकानाम् ईश्वरेण, कुमार-आनयन-उत्सुकेन भोजेन, स्वसुः इन्दुमत्याः स्वयंवर-अर्थम् आप्तः दूतः रघवे विसृष्टः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, a trusted messenger was sent to Raghu by Bhoja, the lord of the Vidarbhas (Krathakaishikas), who was eager to bring the prince (Aja) for the svayamvara of his sister, Indumati.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002516,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ स्वसुर्भगिन्या इन्दुमत्याः स्वयंवरार्थं कुमारस्याजस्यानयन उत्सुकेन क्रथकैशिकानां विदर्भदेशानामीश्वरेण स्वामिना भोजेन राज्ञाप्तो हितो दूतो रघवे विसृष्टः प्रेषितः। क्रियामात्रयोगेऽपि चतुर्थी ॥"
+    }
+  ]
+}

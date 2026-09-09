@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002201,
+    "chapter_id": 6577,
+    "verse_number": "1.52",
+    "content_sanskrit": "आतपात्ययसंक्षिप्तनीवारासु निषादिभिः । मृगैर्वर्तितरोमन्थमुटजाङ्गनभूमिषु ॥",
+    "padaccheda": "आतपात्ययसंक्षिप्तनीवारासु । निषादिभिः । मृगैः । वर्तितरोमन्थम् । उटजाङ्गनभूमिषु",
+    "anvaya": "आतप-अत्यय-संक्षिप्त-नीवारासु उटज-अङ्गन-भूमिषु निषादिभिः मृगैः वर्तित-रोमन्थम् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the courtyards of the huts, where the wild grains had been gathered after sunset, the deer sat peacefully, contentedly chewing their cud in the quiet atmosphere of the evening.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002201,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आतपात्ययेति॥ आतपस्यात्ययेऽपगमे सति संक्षिप्ता राशीकृता नीवारास्तृणधान्यानि यासु तासु। `नीवारास्तृणधान्यानि` इत्यमरः। उटजानां पर्णशालानामङ्गनभूमिषु चत्वरस्थानेषु। `पर्णशालोटजोऽस्त्रियाम्` इति। `अङ्गनं चत्वराजिरे` इति चामरः। निषादिभिरुपविष्टैर्मृगैर्वर्तितो निष्पादितो रोमन्थश्चर्वितचर्वणं यस्मिन्नाश्रमे तम् ॥"
+    }
+  ]
+}

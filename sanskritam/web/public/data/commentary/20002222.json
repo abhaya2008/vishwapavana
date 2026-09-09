@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002222,
+    "chapter_id": 6577,
+    "verse_number": "1.73",
+    "content_sanskrit": "इति विज्ञापितो राज्ञा ध्यानस्तिमितलोचनः । क्षणमात्रमृषिस्तस्थौ सुप्तमीन इव ह्रदः ॥",
+    "padaccheda": "इति । विज्ञापितः । राज्ञा । ध्यानस्तिमितलोचनः । क्षणमात्रम् । ऋषिः । तस्थौ । सुप्तमीनः । इव । ह्रदः",
+    "anvaya": "इति राज्ञा विज्ञापितः ऋषिः ध्यान-स्तिमित-लोचनः (सन्) सुप्त-मीनः ह्रदः इव क्षण-मात्रम् तस्थौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus requested by the King, the sage remained with eyes closed in meditation for a moment, like a lake in which the fish are asleep.",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002222,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति॥ इति राज्ञा विज्ञापित ऋषिर्ध्यानेन स्तिमिते लोचने यस्य ध्यानस्तिमितलोचनो निश्चलाक्षः सन् क्षणमात्रम्। सुप्तमीनो ह्रद इव। तस्थौ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003469,
+    "chapter_id": 6592,
+    "verse_number": "16.30",
+    "content_sanskrit": "तस्य द्विपानां मदवारिसेकात्खुराभिघाताञ्च तुरंगमाणाम् । रेणुः प्रपेदे पथि पङ्क्तभावं पङ्कोऽपि रेणुत्वमियाय नेतुः ॥",
+    "padaccheda": "तस्य । द्विपानां । मदवारिसेकात् । खुराभिघातात् । च । तुरंगमाणाम् । रेणुः । प्रपेदे । पथि । पङ्कभावं । पङ्कः । अपि । रेणुत्वम् । इयाय । नेतुः",
+    "anvaya": "नेतुः तस्य पथि द्विपानाम् मद-वारि-सेकात् च तुरंगमाणाम् खुर-अभिघातात् रेणुः पङ्क-भावम् प्रपेदे, पङ्कः अपि रेणुत्वम् इयाय ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "On the path of that leader, dust, from the sprinkling of the elephants' rut-fluid and the striking of the horses' hooves, turned into mud; and the mud, in turn, became dust again.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003469,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति॥ नेतुस्तस्य कुशस्य द्विपानां मदवारिभिः सेकात्तुरंगमाणां खुराभिघाताञ्च यथासंख्यं पथि रेणू रजः पङ्कभावं पङ्कतां प्रपेदे। पङ्कोऽपि रेणुत्वमियाय। तस्य तावदस्तीत्यर्थः ॥"
+    }
+  ]
+}

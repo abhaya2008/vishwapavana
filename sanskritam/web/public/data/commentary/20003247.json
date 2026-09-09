@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003247,
+    "chapter_id": 6589,
+    "verse_number": "13.77",
+    "content_sanskrit": "तत्रेश्वरेण जगतां प्रलयादिवोर्वीं वर्षात्ययेन रुचमभ्रघनादिवेन्दोः । रामेण मैथिलसुतां दशकण्ठकृच्छ्रा- त्प्रत्युद्धतां धृतिमतीं भरतो ववन्दे ॥",
+    "padaccheda": "तत्र । ईश्वरेण । जगताम् । प्रलयादिव । उर्वीम् । वर्षात्ययेन । रुचम् । अभ्रघनादिव । इन्दोः । रामेण । मैथिलसुताम् । दशकण्ठकृच्छ्रात् । प्रत्युद्धृताम् । धृतिमतीम् । भरतः । ववन्दे",
+    "anvaya": "तत्र भरतः, जगताम् ईश्वरेण प्रलयात् उर्वीम् इव, वर्षा-अत्ययेन इन्दोः अभ्र-घनात् रुचम् इव, रामेण दशकण्ठ-कृच्छ्रात् प्रति-उद्धृताम् धृतिमतीम् मैथिल-सुताम् ववन्दे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, Bharata saluted the steadfast Sita. She had been rescued by Rama from the affliction caused by Ravana, just as the Earth is rescued from the deluge by the Lord of the worlds, or as the moon's radiance is rescued from dense clouds at the end of the rainy season.",
+    "audio_url": null,
+    "display_order": 77,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003247,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ तत्र विमाने जगतामीश्वरेणादिवराहेण प्रलयादुर्वीमिव। वर्षात्ययेन शरदागमेनाभ्रघनात् मेघसंघातादिन्दो रुचं चन्द्रिकामिव। रामेण दशकण्ठ एव कृच्छ्रं संकटं तस्मात् प्रत्युद्धृतां धृतिमतीं संतोषवतीं मैथिलसुतां सीतां भरतो ववन्दे ॥"
+    }
+  ]
+}

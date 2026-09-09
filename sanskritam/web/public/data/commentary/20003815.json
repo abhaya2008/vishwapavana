@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003815,
+    "chapter_id": 6597,
+    "verse_number": "2.37",
+    "content_sanskrit": "तस्योपायनयोग्यानि रत्नानि सरितां पतिः । कथमप्यम्भसामन्तरा निष्पत्तेः प्रतीक्षते ॥",
+    "padaccheda": "तस्य । उपायनयोग्यानि । रत्नानि । सरितां । पतिः । कथम् । अपि । अम्भसाम् । अन्तरा । निष्पत्तेः । प्रतीक्षते",
+    "anvaya": "सरितां पतिः तस्य उपायनयोग्यानि रत्नानि अम्भसाम् अन्तरा निष्पत्तेः कथम् अपि प्रतीक्षते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The lord of the rivers, the ocean, with great difficulty waits for the formation of gems within its waters, considering them worthy to be presented as gifts to him (Tarakasura).",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003815,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तस्येति ॥ सरितां पतिः समुद्रस्तस्य तारकस्योपायनानां प्राभृतानां योग्यानि । `प्राभृतं तु प्रदेशनम् । उपायनम्` इत्यमरः । रत्नान्यम्भसामन्तरा निष्पत्तेः परिपाकपर्यन्तम् । विकल्पादसमासः । कथमपि महता यत्नेन प्रतीक्षते । कदा वा परिपच्येरन्नित्येकाग्रेण पालयतीत्यर्थः"
+    }
+  ]
+}

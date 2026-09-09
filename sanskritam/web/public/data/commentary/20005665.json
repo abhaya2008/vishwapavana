@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005665,
+    "chapter_id": 6627,
+    "verse_number": "15.40",
+    "content_sanskrit": "पार्थबाणाः पशुपतेरावव्रुर्विशिखावलिम् । पयोमुच इवारन्ध्राः सावित्रीमंशुसंहतिम् ॥",
+    "padaccheda": "पार्थबाणाः । पशुपतेः । आवव्रुः । विशिखावलिम् । पयोमुचः । इव । अरन्ध्राः । सावित्रीम् । अंशुसंहतिम्",
+    "anvaya": "अरन्ध्राः पार्थबाणाः पशुपतेः विशिखावलिम् आवव्रुः, पयोमुचः सावित्रीम् अंशुसंहतिम् इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Arjuna's dense arrows completely covered the stream of Shiva's arrows, just as dense clouds cover the multitude of the sun's rays.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005665,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "पार्थेति ॥ पार्थबाणा अर्जुनशराः पशुपतेर्विशिखावलीं शरसंघातम् । सवितुरियं सावित्री तामंशुसंहतिं किरणसमूहमरन्ध्रा निबिडाः पयोमुचो मेघा इव । आवव्रुस्तिरोदधुः ॥"
+    }
+  ]
+}

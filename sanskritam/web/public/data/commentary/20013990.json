@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013990,
+    "chapter_id": 6706,
+    "verse_number": "14.61",
+    "content_sanskrit": "केल्लालेशं द्राक्ततो नातिदूरे लक्ष्मीकान्तं संवसन्तं पुराणम् । कारुण्यार्द्रस्वान्तमन्तादिशून्यं दृष्ट्वा देवं तुतोषैकभक्त्या ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013990,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "स्वान्तं मनः । आद्यन्तरहितमाद्यन्तादिसर्वविकारशून्यम् ॥ ६१ ॥"
+    }
+  ]
+}

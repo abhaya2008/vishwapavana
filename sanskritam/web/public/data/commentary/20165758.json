@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165758,
+    "chapter_id": 7066,
+    "verse_number": "14.110",
+    "content_sanskrit": "वियत्यानभ्रतुर्भूमौ मण्डलानि विचेरतुः । प्रदुद्रुवतुरन्योन्यं वीरौ शश्रमतुर्न च  ॥",
+    "padaccheda": "वियति । आनभ्रतुः । भूमौ । मण्डलानि । विचेरतुः । प्रदुद्रुवतुः । अन्योन्यम् । वीरौ । शश्रमतुः । न । च",
+    "anvaya": "वीरौ वियति आनभ्रतुः, भूमौ मण्डलानि विचेरतुः, अन्योन्यम् प्रदुद्रुवतुः, न शश्रमतुः च ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The two heroes leaped into the sky and moved in circles upon the ground. They rushed at each other with great speed and did not tire.",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165758,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "वियतीत्यादि - वीरौ तौ वियति आकाशे आनभ्रतुः गतौ । ५९८- अभ्र वभ्र' इतिगत्यर्थः । वियतो ऽधिकरणत्वेन विवक्षितत्वात् द्वितीया न कृता । भूमौ च मण्डलानि तिर्यक्भ्रमणानि विचेरतुः आचरितवन्तौ । अन्योन्यं प्रदुद्रुवतुः उपतापितवन्तौ । न च शश्रमतुः श्रान्तौ ॥ ।"
+    }
+  ]
+}

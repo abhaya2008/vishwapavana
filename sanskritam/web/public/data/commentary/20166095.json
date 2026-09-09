@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166095,
+    "chapter_id": 7071,
+    "verse_number": "19.15",
+    "content_sanskrit": "\"कृतं सर्वं यथोद्दिष्टं कर्तुं वह्नि-जल-क्रियाम् । प्रयतेथा महाराज ! सह सर्वैः स्व-बन्धुभिः ॥",
+    "padaccheda": "कृतम् । सर्वम् । यथा-उद्दिष्टम् । कर्तुम् । वह्नि-जल-क्रियाम् । प्रयतेथाः । महाराज । सह । सर्वैः । स्व-बन्धुभिः",
+    "anvaya": "\"यथा-उद्दिष्टम् सर्वम् कृतम् । महाराज! सर्वैः स्व-बन्धुभिः सह वह्नि-जल-क्रियाम् कर्तुम् प्रयतेथाः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Everything has been done as directed. O Great King, strive now to perform the rites of fire and water along with all your kinsmen.\"",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166095,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कृतमित्यादि - यथोद्दिष्टं यथाविहितं सर्वमस्माभिः कृतं । त्वमिदानीं भ्रातुर्ब- ह्रिक्रियां जलक्रियां च कर्तुं स्ववन्धुभिः सर्वैः सह प्रयतेथाः । प्रार्थनायां लिङ् ॥"
+    }
+  ]
+}

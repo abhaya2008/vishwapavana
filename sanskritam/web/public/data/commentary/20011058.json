@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011058,
+    "chapter_id": 6679,
+    "verse_number": "7.68",
+    "content_sanskrit": "नानार्थक्रीतिविक्रीतिव्यग्रमानुष्यकापणम् । सहास्तिकैभशालाढ्यं लसद्दश्वीयमन्दुरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 68,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011058,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "हास्तिकधानुकयोः 'अचित्तहस्तिधेनोष्ठक्' (पा.४|२|४७) इति ठक् । कैशाश्वीययोः 'केशाश्वाभ्यां यञ्छावन्यतरस्याम्' (पा.४|२|४८) इति यञ् छौ ॥"
+    }
+  ]
+}

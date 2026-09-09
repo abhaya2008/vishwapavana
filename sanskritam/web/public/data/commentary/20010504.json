@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010504,
+    "chapter_id": 6674,
+    "verse_number": "2.84",
+    "content_sanskrit": "नित्यस्मितेन वक्त्रेण श्रीलीलावासवेश्मना । सदागमद्यो निःशेषस्त्रीपुंसेक्षणलक्षताम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 84,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010504,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "षट्श्लोकं कुलकम् ॥"
+    }
+  ]
+}

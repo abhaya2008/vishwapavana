@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011327,
+    "chapter_id": 6681,
+    "verse_number": "9.79",
+    "content_sanskrit": "पार्थेनान्तरपत्यायाः प्रियाया ददृशे मुखम् । अनाविरिन्दुबिंबाया रजनेरिव धूसरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 79,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011327,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अन्तरपत्यायाः अन्तर्गतपत्यायाः । 'प्रादिभ्यो धातुजस्य बहुव्रीहिर्वा चोत्तरपदलोपश्च' । एवमनाविरिन्दुबिम्बाया इति नाविर्भूतेन्दुबिंबायाः ॥"
+    }
+  ]
+}

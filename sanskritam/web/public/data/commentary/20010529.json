@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010529,
+    "chapter_id": 6674,
+    "verse_number": "2.109",
+    "content_sanskrit": "मयूखपुष्पैरचयंस्तमश्चिकुरबन्धनम् । मुखं विभावरीवध्वास्संचस्कार कलानिधिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 109,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010529,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "'संपर्युपेभ्यः करोतौ भूषणे' इति (पा.६|१|१३७) सुट् ॥"
+    }
+  ]
+}

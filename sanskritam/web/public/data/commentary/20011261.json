@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011261,
+    "chapter_id": 6681,
+    "verse_number": "9.13",
+    "content_sanskrit": "यद्येष कामस्तव भूपकन्यां गृह्णामि दास्यामि सुतञ्च जातम् । अप्यप्रियं त्वद्वचसा विद्ध्यां प्रियन्तु कुर्यां न कुतस्त्वयोक्तः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011261,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कुतः किमः ‘पञ्चम्यास्तसिल्’ (पा.५|३|७) । ‘कुतिहोः’ (पा.७|२|१०४)॥"
+    }
+  ]
+}

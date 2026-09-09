@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014056,
+    "chapter_id": 6706,
+    "verse_number": "14.127",
+    "content_sanskrit": "तीर्त्वा समुद्रं विनिहत्य दुष्टं बलेन सीतां महता हरामि । यथा तथोपायमुदाहर त्वं न मे त्वदन्योऽस्ति हितोपदेष्टा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 127,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014056,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "॥ २७ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014056,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ तीर्त्वेति । दुष्टं महापराधिनं रावणमित्यार्थिकम् ]"
+    }
+  ]
+}

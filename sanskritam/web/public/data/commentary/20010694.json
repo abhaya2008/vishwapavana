@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010694,
+    "chapter_id": 6676,
+    "verse_number": "4.40",
+    "content_sanskrit": "समयं लंघितं तस्मै वनवासमभीप्सितम् । अनायासिमनाः पार्थश्शशंस गुरवे नतः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010694,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनायासीत्यादिषु सर्वेषु सूत्रपठितेषु पूर्ववत् घिनुण् ॥"
+    }
+  ]
+}

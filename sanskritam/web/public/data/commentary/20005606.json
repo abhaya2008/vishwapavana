@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005606,
+    "chapter_id": 6626,
+    "verse_number": "14.46",
+    "content_sanskrit": "गभीररन्ध्रेषु भृशं महीभृतः प्रतिस्वनैरुन्नमितेन सानुषु । धनुर्निनादेन जवादुपेयुषा विभिद्यमाना इव दध्वनुर्दिशः ॥",
+    "padaccheda": "गभीररन्ध्रेषु । भृशम् । महीभृतः । प्रतिस्वनैः । उन्नमितेन । सानुषु । धनुर्निनादेन । जवात् । उपेयुषा । विभिद्यमानाः । इव । दध्वनुः । दिशः",
+    "anvaya": "महीभृतः गभीररन्ध्रेषु सानुषु च प्रतिस्वनैः भृशम् उन्नमितेन जवात् उपेयुषा धनुर्निनादेन दिशः विभिद्यमानाः इव दध्वनुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The directions resounded as if they were being split apart by the twang of the bows. This sound, arriving with great speed, was greatly amplified by echoes from the deep caves and peaks of the mountain.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005606,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": " गभीरेति ॥ गभीररन्ध्रेषु गम्भीरगह्वरेषु महीभृतः सानुषु ये प्रतिस्वनास्तैर्भृशमुन्नमितेनोत्थापितेन दीर्घीकृतेन जवादुपेयुषा प्राप्तवता धनुषां निनादेन दिशो विभिद्यमाना विदीर्यमाणा इव दध्वनुर्ध्वनिं चक्रुः॥"
+    }
+  ]
+}

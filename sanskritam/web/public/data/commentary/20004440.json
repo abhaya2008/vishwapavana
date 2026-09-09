@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004440,
+    "chapter_id": 6605,
+    "verse_number": "10.57",
+    "content_sanskrit": "अमोघं शाम्भवं बीजं सद्यो नद्योज्झितं महत् । तासामभ्युदरं दीप्तं स्थितं गर्भत्वमागमत् ॥",
+    "padaccheda": "अमोघम् । शाम्भवम् । बीजम् । सद्यः । नद्या । उज्झितम् । महत् । तासाम् । अभ्युदरम् । दीप्तम् । स्थितम् । गर्भत्वम् । आगमत्",
+    "anvaya": "नद्या सद्यः उज्झितं महत् दीप्तं शाम्भवं अमोघं बीजं तासाम् अभ्युदरं स्थितं गर्भत्वम् आगमत् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "The great, shining, and unfailing seed of Śiva, which had been cast off by the river, entered the wombs of the Kṛttikās and attained the state of an embryo.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004440,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमोघमिति । नद्या गङ्गया सद्य उज्झितमत एव तासां कृत्तिकानामभ्युदरं दूप्तं सत्स्थितममोघं सफलं महच्छांभवं बीजं गर्भत्वमागमत् । गर्भीभूतमित्यर्थः"
+    }
+  ]
+}

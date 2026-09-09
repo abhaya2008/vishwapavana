@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004188,
+    "chapter_id": 6602,
+    "verse_number": "7.43",
+    "content_sanskrit": "तमन्वगच्छत्प्रथमो विधाता श्रीवत्सलक्ष्मा पुरुषश्च साक्षात् । जयेति वाचा महिमानमस्य संवर्धयन्त्या हविषेव वह्निम् ॥",
+    "padaccheda": "तम् । अन्वगच्छत् । प्रथमः । विधाता । श्रीवत्स-लक्ष्म । पुरुषः । च । साक्षात् । जय । इति । वाचा । महिमानम् । अस्य । संवर्धयन्त्या । हविषा । इव । वह्निम्",
+    "anvaya": "प्रथमः विधाता च साक्षात् श्रीवत्स-लक्ष्म पुरुषः च 'जय' इति संवर्धयन्त्या वाचा, हविषा वह्निम् इव, अस्य महिमानम् (संवर्धयन्तौ) तम् अन्वगच्छत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The first creator, Brahma, and the Supreme Being Vishnu himself, marked with the Shrivatsa, followed him. With their cries of \"Victory!\", they augmented his glory, just as an oblation of ghee increases a fire.",
+    "audio_url": null,
+    "display_order": 43,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004188,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति । प्रथम आद्यो विधाता चतुर्मुखस्तथा श्रीवत्सलक्ष्मा श्रीवत्साङ्कः पुरुषो विष्णुश्च साक्षात्तं देवमभ्यगच्छत्संमुखमाययौ । किं कुर्वन्ती । जयेति वाचा जयशब्देनास्येश्वरस्य महिमानं महत्वं हविषा वह्निमिव संवर्धयन्तौ वृद्धिं गमयन्तौ"
+    }
+  ]
+}

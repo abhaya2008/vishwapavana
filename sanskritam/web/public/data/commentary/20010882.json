@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010882,
+    "chapter_id": 6678,
+    "verse_number": "6.3",
+    "content_sanskrit": "वीचिस्फटिकसोपानपदवीं देवतापुरः । पृतनां धर्मराजस्य बलं पापस्य मथ्नतीम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010882,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वीचिस्फटिकसोपानपदवीमिति व्यस्तरूपकम् । तथा पृतनां धर्मराजस्येति । पापस्य प्रतिपक्षस्य बलं मथ्नतीमिति समानधर्मः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011795,
+    "chapter_id": 6686,
+    "verse_number": "14.19",
+    "content_sanskrit": "मुखकान्तिजितोपात्तशशिबिम्बविडम्बिनी । ध्यायन्ती पार्थमात्मानं ददर्श मणिदर्पणे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011795,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मुखकान्तिजितलीलादर्पणीकृतशशिबिम्बविडम्बिनीत्यर्थः । ध्यायन्ती पार्थमिति किन्नु पार्थोऽनेन रूपेण मोदिष्यत इति चिन्तयन्तीत्यर्थः ॥"
+    }
+  ]
+}

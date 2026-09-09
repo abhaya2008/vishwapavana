@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004395,
+    "chapter_id": 6605,
+    "verse_number": "10.12",
+    "content_sanskrit": "रङ्गभङ्गच्युतं रेतस्तदामोघं सुदुर्वहम् । त्रिजगद्दाहकं सद्यो मद्विग्रहमधि न्यधात् ॥",
+    "padaccheda": "रङ्गभङ्गच्युतम् । रेतः । तत् । अमोघम् । सुदुर्वहम् । त्रिजगद्दाहकम् । सद्यः । मद्विग्रहम् । अधि । न्यधात्",
+    "anvaya": "तद् अमोघं सुदुर्वहं त्रिजगद्दाहकं रङ्गभङ्गच्युतं रेतः सद्यः मद्विग्रहम् अधि न्यधात् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "That unfailing semen, which was extremely hard to carry and capable of incinerating the three worlds, having fallen due to the interruption of their union, was instantly placed upon Agni's body by Śiva.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004395,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रङ्गेति । तदा स हरो रङ्गस्य कामकेलर्भङ्गादन्तरायात् । अस्य हेतोः क्रोधाभिव्यञ्जकत्वे न दोषः । च्युतं पतितममोधं सफलं त्रिजगद्दाहकमत एव सुदुर्वहं सुतरां दुःखेन वोढुं शक्यं रेतः शुक्रं मद्विग्रहमधि । मम शरीर इत्यर्थः । सद्यो न्यधात् । `अधिमद्विग्रहम्' इति वक्तव्ये मद्विग्रहमधीत्युक्तं महाकविप्रयोगान्न दोषाय"
+    }
+  ]
+}

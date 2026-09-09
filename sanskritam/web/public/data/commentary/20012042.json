@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012042,
+    "chapter_id": 6688,
+    "verse_number": "16.49",
+    "content_sanskrit": "शतशो दयिषीढ्वं गा दयिषीध्वं बहूर्महीः । स्वर्णमन्यच्च विप्रेभ्यः पूरयन्तो मनोरथान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012042,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "दयिषीढ्वं दयिषीध्वमिति द्वयमित्यर्थः दय दानगतिरक्षणेषु । विभाषेट इति (पा.८|३|७९) मूर्धन्यविकल्पः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004060,
+    "chapter_id": 6601,
+    "verse_number": "6.10",
+    "content_sanskrit": "प्राक्तनानां विशुद्धानां परिपाकमुपेयुषाम् । तपसामुपभुञ्जानाः फलान्यपि तपस्विनः ॥",
+    "padaccheda": "प्राक्तनानाम् । विशुद्धानाम् । परिपाकम् । उपेयुषाम् । तपसाम् । उपभुञ्जानाः । फलानि । अपि । तपस्विनः",
+    "anvaya": "(ते) प्राक्तनानाम् विशुद्धानाम् परिपाकम् उपेयुषाम् तपसाम् फलानि उपभुञ्जानाः अपि तपस्विनः (आसन्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though they were enjoying the fruits of their previous, pure austerities which had reached full maturity, they were still engaged in performing penances.",
+    "audio_url": null,
+    "display_order": 10,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004060,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्राक्तनानामिति । प्राक्तनानां जन्मान्तरभवानां विशुद्धानां निर्मलानां परिपाकं फलदानोन्मुखत्वमुपेयुषां गतानां तपसां फलान्युपभुञ्जाना अपि तपस्विनस्तपोनिष्ठाः । प्रारब्धभोगिनो निःस्पृहाश्चेति भावः । कुलकम्"
+    }
+  ]
+}

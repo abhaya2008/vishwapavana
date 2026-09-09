@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011120,
+    "chapter_id": 6680,
+    "verse_number": "8.6",
+    "content_sanskrit": "गौपुच्छिको वा पुच्छेन घटेन घटिको यथा । नावेव नाविकस्तोयं नापत्येन तरत्यघम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 6,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011120,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गोपुच्छेन तरति गौपुच्छिकः । 'गोपुच्छात् ठञ्' (पा.४|४|६) । घटेन तरति घटिकः । नावा तरति नाविकः । 'नौ द्वयचष्ठन्' (पा.४|४|७) ॥"
+    }
+  ]
+}

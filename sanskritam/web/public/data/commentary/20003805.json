@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003805,
+    "chapter_id": 6597,
+    "verse_number": "2.27",
+    "content_sanskrit": "लब्धप्रतिष्ठाः प्रथमं यूयं किं बलवत्तरैः । अपवादैरिवोत्सर्गाः कृतव्यावृत्तयः परैः ॥",
+    "padaccheda": "लब्धप्रतिष्ठाः । प्रथमम् । यूयम् । किम् । बलवत्तरैः । अपवादैः । इव । उत्सर्गाः । कृतव्यावृत्तयः । परैः",
+    "anvaya": "प्रथमम् लब्ध-प्रतिष्ठाः यूयम् किम् परैः बलवत्तरैः अपवादैः उत्सर्गाः इव कृत-व्यावृत्तयः (स्थ)?",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Is it that you, who had first established your positions, have now been set aside by more powerful enemies, just as general grammatical rules are superseded by stronger, specific exceptions?\" Brahma uses a grammatical analogy to ask why the gods have been overthrown.",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003805,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लब्धेति ॥ प्रथमं पूर्वं लब्धप्रतिष्ठा लब्धस्थितयः । लब्धावकाशा इत्यन्यत्र । यूयं बलवत्तरैः पौरुषातिरेकात्प्रबलतरैः । निरवकाशैरित्यपरत्र । परैः शत्रुभिरत्सर्गाः सामान्यशास्त्राणि `मा हिंस्यात्` इत्येवमादीनि । अपोद्यन्त एमिरित्यपवादैः `गामालभेत` इत्यादिभिर्विशेषशास्त्रैरिव किं कृतव्यावृत्तयः कृतप्रतिष्ठाभङ्गाः । कृतविषयसंकोचरुपबाधा इत्यन्यत्र । `विषयसंकोच एव बाधः` इत्याचार्याः । निषेधशास्त्रस्य वेदिकहिंसापरिहारेण लौरिकमात्रे व्यवस्थापनाद्विषयसंकोच इत्यलमतिगहनावगाहनेन"
+    }
+  ]
+}

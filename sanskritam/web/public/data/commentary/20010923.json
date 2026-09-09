@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010923,
+    "chapter_id": 6678,
+    "verse_number": "6.44",
+    "content_sanskrit": "वहत्सु दिवसेष्वेवं कदाचित् कुरुनन्दनः । शय्योत्थायन्निशापाये गाङ्गं जलमगाहत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010923,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वहत्सु गच्छत्सु इत्यर्थः । शय्योत्थायमिति शय्यायास्त्वरितमुत्थायेत्यर्थः । 'अपादाने परीप्साया'मिति (पा.३|४|५२) णमुल् । परिप्सा त्वरा ॥"
+    }
+  ]
+}

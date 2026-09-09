@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002181,
+    "chapter_id": 6577,
+    "verse_number": "1.32",
+    "content_sanskrit": "कलत्रवन्तमात्मानमवरोधे महत्यपि । तया मेने मनस्विन्या लक्ष्म्या च वसुधाधिपः ॥",
+    "padaccheda": "वसुधाधिपः । महति । अवरोधे । अपि । तया । मनस्विन्या । लक्ष्म्या । च । आत्मानम् । कलत्रवन्तम् । मेने",
+    "anvaya": "वसुधाधिपः महति अवरोधे अपि तया मनस्विन्या लक्ष्म्या च आत्मानम् कलत्रवन्तम् मेने।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Though he had a large harem, the lord of the earth considered himself truly having a wife only through that high-minded queen and through the Goddess Lakṣmī.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002181,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कलत्रवन्तमिति॥ वसुधाधिपः। अवरोधेऽन्तः पुरवर्गे महति सत्यपि। मनस्विन्या दृढचित्तया। पतिचित्तानुवृत्त्यादिनिर्बन्धक्षमयेत्यर्थथः। तया सुदक्षिणया लक्ष्म्या चात्मानं कलत्रवन्तं भार्यावन्तं मेने। `कलत्रं श्रोणिभार्ययोः` इत्यमरः (अ.को.3|3|187)। `वसुधाधिप` इत्यनेन वसुधया चेचि गम्यते ॥"
+    }
+  ]
+}

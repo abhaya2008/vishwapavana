@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010478,
+    "chapter_id": 6674,
+    "verse_number": "2.58",
+    "content_sanskrit": "ऊर्ध्वरेखारथाङ्गादिरचिता लोहितोदरे । वातंसयन् पदांभोजे भूपालास्तस्य मौलिषु ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010478,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वातंसयन्निति । 'वष्टिभागुरि'रित्यादिनाऽल्लोपः पाक्षिकः । पदांभोजे इति रूपकम् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165984,
+    "chapter_id": 7069,
+    "verse_number": "17.58",
+    "content_sanskrit": "कपयोऽबिभयुस्तस्मिन्नभञ्जंश्च महा-द्रुमान् । प्रोदखायन्गिरींस्तूर्णमगृह्णंश्च महा-शिलाः ॥",
+    "padaccheda": "कपयः । अबिभयुः । तस्मिन् । अभञ्जन् । च । महा-द्रुमान् । प्रोदखायन् । गिरीन् । तूर्णम् । अगृह्णन् । च । महा-शिलाः",
+    "anvaya": "तस्मिन् कपयः अबिभयुः महा-द्रुमान् च अभञ्जन् । गिरीन् तूर्णम् प्रोदखायन् महा-शिलाः च अगृह्णन् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that sight, the monkeys grew fearful, yet they broke large trees. They quickly uprooted mountains and seized massive boulders.",
+    "audio_url": null,
+    "display_order": 58,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165984,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "कपय इत्यादि - तस्मिन्निर्गते कपयो ऽविभयुः भीतवन्तः । महाद्रुमांश्च योद्धुमभञ्जन् भग्नवन्तः । गिरीन् प्रोदखायन् उत्खातवन्तः । खै खढ़ने'। शिति आत्वं न भवति । महाशिला अगृह्णन् गृहीतवन्तः ॥"
+    }
+  ]
+}

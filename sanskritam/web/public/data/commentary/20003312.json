@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003312,
+    "chapter_id": 6590,
+    "verse_number": "14.63",
+    "content_sanskrit": "उपस्थितां पूर्वमपास्य लक्ष्मीं वनं मया सार्धमसि प्रपन्नः । तदास्पदं प्राप्य तयातिरोषात्सोढास्मि न त्वद्भवने वसन्ती ॥",
+    "padaccheda": "उपस्थिताम् । पूर्वम् । अपास्य । लक्ष्मीम् । वनम् । मया । सार्धम् । असि । प्रपन्नः । तत् । आस्पदम् । प्राप्य । तया । अतिरोषात् । सोढा । अस्मि । न । त्वद्भवने । वसन्ती",
+    "anvaya": "(त्वम्) पूर्वम् उपस्थिताम् लक्ष्मीम् अपास्य मया सार्धम् वनम् प्रपन्नः असि। तत् आस्पदम् प्राप्य अतिरोषात् तया (लक्ष्म्या) त्वत् भवने वसन्ती (अहम्) न सोढा अस्मि।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Previously, you cast aside the royal fortune (Lakshmi) that came to you and went to the forest with me. Now, having regained that position, I, while living in your palace, am not tolerated by that same Lakshmi out of her extreme anger.\"",
+    "audio_url": null,
+    "display_order": 63,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003312,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उपस्थितामिति॥ पूर्वमुपस्थितां प्राप्तां लक्ष्मीमपास्य मया सार्धं वनं प्रपन्नोऽसि प्राप्तोऽसि। तत्तस्मात्तया लक्ष्म्याऽतिरोषात्त्वद्भवनं आस्पदं प्रतिष्ठाम्। `आस्पदं प्रतिष्ठायाम्` (पा.6।1।146) इति निपातः। प्राप्य वसन्त्यहं सोढा नास्मि ॥"
+    }
+  ]
+}

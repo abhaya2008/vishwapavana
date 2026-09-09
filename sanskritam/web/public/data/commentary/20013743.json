@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013743,
+    "chapter_id": 6703,
+    "verse_number": "11.48",
+    "content_sanskrit": "ततस्तदार्भाटचलत्समाधिः स्वात्मप्रबोधोन्मथितत्र्युपाधिः । उन्मील्य नेत्रे विकरालवक्त्रं व्यलोकयन्मानवपञ्चवक्त्रम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013743,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "ततस्तस्य गर्जनानन्तरं तस्याऽऽर्भाटेन साहंकारनादेन चलन्समाधिर्यस्य स्वात्म-"
+    }
+  ]
+}

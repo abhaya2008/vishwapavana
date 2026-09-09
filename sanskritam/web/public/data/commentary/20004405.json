@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004405,
+    "chapter_id": 6605,
+    "verse_number": "10.22",
+    "content_sanskrit": "जगतः सकलस्यास्य त्वमेकोऽस्युपकारकृत् । कार्योपपादने तत्र त्वत्तोऽन्यः कः प्रगल्भते ? ॥",
+    "padaccheda": "जगतः । सकलस्य । अस्य । त्वम् । एकः । असि । उपकारकृत् । कार्योपपादने । तत्र । त्वत्तः । अन्यः । कः । प्रगल्भते",
+    "anvaya": "त्वम् अस्य सकलस्य जगतः एकः उपकारकृत् असि तत्र कार्योपपादने त्वत्तः अन्यः कः प्रगल्भते",
+    "meaning_sanskrit": "",
+    "meaning_english": "You are the sole benefactor of this entire world. In the matter of accomplishing this specific divine task, who else besides you has the capability or courage to venture forward?",
+    "audio_url": null,
+    "display_order": 22,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004405,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जगत इति । भो अग्ने ! त्वमेक एवास्य सकलस्य जगत उपकारकृद्धितकृदसि । अत एवास्माकं तत्र कार्योपपादने त्वत्तोऽन्यः । `अन्यारादि-' ति पञ्चमी । कः प्रगल्भते ? समर्थो भवेत् । न कोऽपूत्यर्थः"
+    }
+  ]
+}

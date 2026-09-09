@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005100,
+    "chapter_id": 6618,
+    "verse_number": "6.31",
+    "content_sanskrit": "शुचिवल्कवीततनुरन्यतमस्तिमिरच्छिदामिव गिरौ भवतः । महते जयाय मघवन्ननघः पुरुषस्तपस्यति तपज्जगतीम् ॥",
+    "padaccheda": "शुचिवल्कवीततनुः । अन्यतमः । तिमिरच्छिदाम् । इव । गिरौ । भवतः । महते । जयाय । मघवन् । अनघः । पुरुषः । तपस्यति । तपन् । जगतीम्",
+    "anvaya": "मघवन्! भवतः गिरौ, तिमिरच्छिदाम् अन्यतमः इव, शुचि-वल्क-वीत-तनुः अनघः पुरुषः जगतीम् तपन् महते जयाय तपस्यति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O Maghavan! On your mountain, a sinless man, his body clad in pure bark-garments and resembling one of the dispellers of darkness (sun, moon, or fire), is performing severe austerities for a great victory, making the world glow with his penance.\"",
+    "audio_url": null,
+    "display_order": 31,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005100,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "शुचीति ॥ शुचिना वल्केन वल्कलेन वीताच्छादिता ततुर्यस्य सः।तिमिरच्छिदांसूर्यादीनामन्यतम इव स्थित इत्युत्प्रेक्षा । अनघ: पुरुषः। हे मघवन्, भवतो गिराविन्द्रकीले जगतीं भुवं तपंस्तापयन्महते जयाय तपस्यति तपश्चरति । `कर्मणो रोमन्थ-` (पा.3।1।15) इत्यादिना क्यङि लट् ॥ जयाय तपस्यतीत्युक्तम् । तत्र हेतुमाहुः"
+    }
+  ]
+}

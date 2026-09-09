@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002870,
+    "chapter_id": 6585,
+    "verse_number": "9.65",
+    "content_sanskrit": "तान्हत्वा गजकुलबद्धतीव्रवैरान्काकुस्थः कुटिलनखाग्रलग्नमुक्तान् । आत्मानं रणकृतकर्मणां गजानामानृण्यं गतमिव मार्गणैरमंस्त ॥",
+    "padaccheda": "तान् । हत्वा । गजकुलबद्धतीव्रवैरान् । काकुस्थः । कुटिलनखाग्रलग्नमुक्तान् । आत्मानम् । रणकृतकर्मणाम् । गजानाम् । आनृण्यम् । गतम् । इव । मार्गणैः । अमंस्त",
+    "anvaya": "काकुस्थः गजकुल-बद्ध-तीव्र-वैरान् कुटिल-नख-अग्र-लग्न-मुक्तान् तान् (सिंहान्) हत्वा, मार्गणैः रण-कृत-कर्मणां गजानाम् आनृण्यं गतम् इव आत्मानम् अमंस्त।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having killed those lions—with whom the elephant herds had a fierce enmity and who had pearls from elephants' heads stuck to their curved claw-tips—Kakutstha (Dasaratha) felt as if he had repaid his debt to the battle-slain elephants with his arrows.",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002870,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तानिति॥ काकुत्स्थो दशरतः। गजकुलेषु बद्धं तीव्रं वैरं यैस्तान्। कुटिलेषु नखाग्रेषु लग्ना मुक्ता गजकुम्भमौक्तिकानि येषां तान्सिंहान्हत्वा आत्मानं रणेषु कृतकर्मणां कृतोपकाराणां गजानामानृण्यमनृणत्वं मार्गणैः शरैः। `मार्गणो याचके शरे` इति विश्वः। गतं प्राप्तवन्तमिवामंस्त मेने ॥"
+    }
+  ]
+}

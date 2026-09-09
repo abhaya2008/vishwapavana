@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005820,
+    "chapter_id": 6630,
+    "verse_number": "18.14",
+    "content_sanskrit": "तपसा तथा न मुदमस्य ययौ भगवान्यथा विपुलसत्त्वतया । गुणसंहतेः समतिरिक्तमहो निजमेव सत्त्वमुपकारि सताम् ॥",
+    "padaccheda": "तपसा । तथा । न । मुदम् । अस्य । ययौ । भगवान् । यथा । विपुलसत्त्वतया । गुणसंहतेः । समतिरिक्तम् । अहो । निजम् । एव । सत्त्वम् । उपकारि । सताम्",
+    "anvaya": "भगवान् अस्य तपसा तथा मुदम् न ययौ यथा विपुलसत्त्वतया (ययौ) । अहो, सताम् निजम् सत्त्वम् एव गुणसंहतेः समतिरिक्तम् उपकारि (भवति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Lord (Shiva) was not as pleased by his (Arjuna's) penance as he was by his immense inner strength. Oh, for the virtuous, their own inner strength is indeed more beneficial than a collection of other qualities.",
+    "audio_url": null,
+    "display_order": 14,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005820,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तपसेति ॥भगवान्देवोऽस्यार्जुनस्य विपुलसत्त्वतया बहुसत्त्वसंपदा । धैर्यसंपत्त्येति  यावत् । यथा मुदं ययौ तथा तपसा मुदं न ययौ । तथा हि सतां गुणसंहतेस्तपः सेवादिगुणसंघातात्समतिरिक्तमतिशयितं निजं सत्त्वमेवोपकार्युपकारकमहो । प्रमिताक्षरावृत्तम् ॥"
+    }
+  ]
+}

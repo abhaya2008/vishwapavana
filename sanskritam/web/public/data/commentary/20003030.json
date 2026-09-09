@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003030,
+    "chapter_id": 6587,
+    "verse_number": "11.57",
+    "content_sanskrit": "एवमात्तरतिरात्मसंभवांस्तान्निवेश्य चतुरोऽपि तत्र सः । अध्वसु त्रिषु विसृष्टमैथिलः स्वां पुरीं दशरथो न्यवर्तत ॥",
+    "padaccheda": "एवम् । आत्तरतिः । सः । दशरथः । तत्र । तान् । चतुरः । अपि । आत्मसंभवान् । निवेश्य । त्रिषु । अध्वसु । विसृष्टमैथिलः । स्वाम् । पुरीम् । न्यवर्तत",
+    "anvaya": "एवम् आत्तरतिः सः दशरथः तत्र तान् चतुरः अपि आत्मसंभवान् निवेश्य त्रिषु अध्वसु विसृष्टमैथिलः स्वां पुरीं न्यवर्तत ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Having thus found joy and settled his four sons in their respective places, King Daśaratha, after bidding farewell to the King of Mithilā at the junction of three paths, returned to his own city.",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003030,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एवमिति॥ एवमात्तरतिरनुरागवान् स दशरथस्तांश्चतुरोऽप्यात्मसंभवान् पुत्रांस्तत्र, मिथिलायां निवेश्य विवाह्य। `निवेशः शिबिरोद्वाहविन्यासेषु प्रकीर्तितः` इति विश्वः। त्रिष्वध्वसु प्रयाणेषु सत्सु विसृष्टमैथिलः सन्। स्वां पुरीं न्यवर्तत। उद्देशक्रियापेक्षया कर्मत्वं पुर्याः ॥"
+    }
+  ]
+}

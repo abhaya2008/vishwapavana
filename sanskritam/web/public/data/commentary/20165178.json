@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165178,
+    "chapter_id": 7061,
+    "verse_number": "9.5",
+    "content_sanskrit": "दध्वान मेघ-वद्भीममादाय परिघं कपिः । नेदुर्दीप्तायुधास्तेऽपि तडित्वन्त इवाऽम्बुदाः ॥",
+    "padaccheda": "दध्वान । मेघ-वत् । भीमम् । आदाय । परिघं । कपिः । नेदुः । दीप्त-आयुधाः । ते । अपि । तडित्वन्तः । इव । अम्बुदाः",
+    "anvaya": "कपिः परिघम् आदाय मेघ-वत् भीमं दध्वान दीप्त-आयुधाः ते अपि तडित्वन्तः अम्बुदाः इव नेदुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Taking up an iron club, the monkey roared terribly like a thundercloud; they too, with their shining weapons, roared like clouds filled with lightning.",
+    "audio_url": null,
+    "display_order": 5,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165178,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "दध्वानेत्यादि — कपिर्भीमं परिघं भयानकमर्गलमादाय मेघवद्दध्वान ध्वन- ति स्म । तेऽपि किङ्कराः तडित्वन्त इवाम्बुदाः । नेदुः नदन्ति स्म । किङ्कराणां ‘कृष्णत्वात् मेघैः सादृश्यं आयुधानां च तडितेति ॥"
+    }
+  ]
+}

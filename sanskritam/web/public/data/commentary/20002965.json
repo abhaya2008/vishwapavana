@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002965,
+    "chapter_id": 6586,
+    "verse_number": "10.78",
+    "content_sanskrit": "कुमाराः कृतसंस्कारास्ते धात्रीस्तन्यपायिनः । आनन्देनाग्रजेनेव समं ववृधिरे पितुः ॥",
+    "padaccheda": "कुमाराः । कृतसंस्काराः । ते । धात्रीस्तन्यपायिनः । आनन्देन । अग्रजेन । इव । समम् । ववृधिरे । पितुः",
+    "anvaya": "कृतसंस्काराः धात्रीस्तन्यपायिनः ते कुमाराः पितुः अग्रजेन आनन्देन समम् इव ववृधिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The princes, having received the proper sacraments and being nourished by their nurses, grew up along with the ever-increasing joy of their father, Daśaratha.",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002965,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कुमारा इति॥ कृताः संस्कारा जातकर्मादयो येषां ते। धात्रीणामुपमातॄणां स्तन्यानि पयांसि पिबन्तीति तथोक्ताः। ते कुमारा अग्रे जातेनाग्रजेन ज्येष्ठेनेव स्थितेन पितुरानन्देन समं ववृधिरे। कुमारवृद्ध्या पितामहान्तमानन्दमवापेत्यर्थः। कुमारजन्मनः प्रागेव जातत्वादग्रजत्वोक्तिरानन्दस्य ॥"
+    }
+  ]
+}

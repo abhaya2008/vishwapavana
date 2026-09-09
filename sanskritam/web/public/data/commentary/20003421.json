@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003421,
+    "chapter_id": 6591,
+    "verse_number": "15.85",
+    "content_sanskrit": "धरायां तस्य संरम्भं सीताप्रत्यर्पणैषिणः । गुरुर्विधिबलापेक्षी शमयामास धन्विनः ॥",
+    "padaccheda": "धरायाम् । तस्य । संरम्भम् । सीताप्रत्यर्पणैषिणः । गुरुः । विधिबलापेक्षी । शमयामास । धन्विनः",
+    "anvaya": "विधिबलापेक्षी गुरुः धरायाम् सीताप्रत्यर्पणैषिणः धन्विनः तस्य संरम्भम् शमयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The preceptor (Valmiki), who respected the power of fate, pacified the fury of the archer (Rama), who was demanding the return of Sita from the Earth.",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003421,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "धरायामिति॥ सीताप्रत्यर्पणमिच्छतीति तथोक्तस्य धन्विन आत्तधनुषस्तस्य रामस्य धरायां विषये संरम्भं विधिबलापेक्षी दैवशक्तिदर्शीं गुरुर्ब्रह्मा शमयामास। अवश्यंभावी विधिरिति भावः ॥"
+    }
+  ]
+}

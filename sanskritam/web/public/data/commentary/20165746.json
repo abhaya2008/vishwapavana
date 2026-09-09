@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165746,
+    "chapter_id": 7066,
+    "verse_number": "14.98",
+    "content_sanskrit": "सस्यन्दे शोणितं व्योम रणाऽङ्गानि प्रजज्वलुः । रथाः प्रचस्खलुः साऽश्वा न ररंहाऽ-श्वकुञ्जरम् ॥",
+    "padaccheda": "सस्यन्दे । शोणितम् । व्योम । रण-अङ्गानि । प्रजज्वलुः । रथाः । प्रचस्खलुः । स-अश्वाः । न । ररंह । अश्व-कुञ्जरम्",
+    "anvaya": "व्योम शोणितम् सस्यन्दे रण-अङ्गानि प्रजज्वलुः। स-अश्वाः रथाः प्रचस्खलुः अश्व-कुञ्जरम् न ररंह।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The sky dripped blood, and the battleground glowed. Chariots with horses stumbled, and the horses and elephants did not move swiftly.",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165746,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सस्यन्द इत्यादि - व्योम कर्तृ शोणितं सस्यन्दे सिञ्चति स्म । स्यन्दिः सकर्मकः । रणाङ्गानि खङ्गादीनि जज्वलुः ज्वलन्ति स्म । साश्वाः सहाश्वः रथाः प्रचस्खलुः स्खलन्ति स्म । अश्वकुञ्जरं न ररंह न गतम् ॥"
+    }
+  ]
+}

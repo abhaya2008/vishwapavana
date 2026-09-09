@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012046,
+    "chapter_id": 6688,
+    "verse_number": "16.53",
+    "content_sanskrit": "भद्रं भद्रं क्रियासुर्वः पूज्यमाना दिने दिने । देवताः पाकयज्ञानां गुरवोऽतिथयस्तथा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 53,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012046,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "क्रियासुः । रिङ्शयग्लिङ्क्षु (पा.७|४|२८) ॥"
+    }
+  ]
+}

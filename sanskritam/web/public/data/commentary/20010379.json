@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010379,
+    "chapter_id": 6673,
+    "verse_number": "1.55",
+    "content_sanskrit": "सुतेषु तेष्वर्पितविश्वकार्याश्शक्रादयोऽकुर्वत लोकपालाः । चन्द्रानना चन्दनपङ्कदिग्धस्तनद्वयांम्भोजविहारलीलाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010379,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निगदव्याख्यातोयं श्लोकः ॥ इदानीं चतुश्श्लोक्या वर्णधर्मव्यवस्थापनमाह—"
+    }
+  ]
+}

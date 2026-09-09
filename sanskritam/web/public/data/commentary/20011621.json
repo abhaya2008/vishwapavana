@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011621,
+    "chapter_id": 6684,
+    "verse_number": "12.73",
+    "content_sanskrit": "पाण्डुसूनुमनःकुण्डे पञ्चसायकपावकम् । कटाक्षेन्धननिक्षेपैरादिदीपदजस्रसा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011621,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आदिदीपदिति ह्रस्वाभावपक्षः ॥"
+    }
+  ]
+}

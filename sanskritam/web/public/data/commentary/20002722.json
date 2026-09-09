@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002722,
+    "chapter_id": 6584,
+    "verse_number": "8.12",
+    "content_sanskrit": "तमरण्यसमाश्रयोमन्मुखं शिरसा वेष्टनशोभिना सुतः । पितरं प्रणिपत्य पादयोरपरित्यागमयाचतात्मनः ॥",
+    "padaccheda": "तम् । अरण्यसमाश्रयोन्मुखम् । शिरसा । वेष्टनशोभिना । सुतः । पितरम् । प्रणिपत्य । पादयोः । अपरित्यागम् । अयाचत । आत्मनः",
+    "anvaya": "सुतः (अजः) अरण्य-समाश्रय-उन्मुखम् तम् पितरम् पादयोः प्रणिपत्य, वेष्टन-शोभिना शिरसा आत्मनः अपरित्यागम् अयाचत ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His son (Aja), bowing at the feet of his father who was inclined to take refuge in the forest, and with his head still adorned with the royal turban, begged him not to abandon him (i.e., to let him serve him).",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002722,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तमिति॥ अरण्यसमाश्रयोन्मुखं वनवासोद्युक्तं पितरं तं रघुं सुतोऽजः। वेष्टनशोभिनोष्णीषमनोहरेण शिरसा पादयोः प्रणिपत्य। आत्मनोऽपरित्यागमयाचत। मां परित्यज्य न गन्तव्यमिति प्रार्थितवानित्यर्थः ॥"
+    }
+  ]
+}

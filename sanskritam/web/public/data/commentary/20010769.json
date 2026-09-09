@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010769,
+    "chapter_id": 6677,
+    "verse_number": "5.9",
+    "content_sanskrit": "अग्निहोत्रगवीनायक्रीडालोलैरलंकृतम् । कुशाभिलावनिष्पावकुशलैश्चर्षिदारकैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010769,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गवीनायेति । श्रिणी भुवोऽनुपसर्गे (पा.३|३|२४) इत्यनेनैव घञ् । कुशाभिलावनिष्पावेति । 'निरभ्योः पूल्वोः (पा.३|३|२८) इति घञ् । कुशाभिलवनशोधनपटुभिरित्यर्थः ॥"
+    }
+  ]
+}

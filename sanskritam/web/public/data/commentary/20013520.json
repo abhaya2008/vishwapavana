@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013520,
+    "chapter_id": 6701,
+    "verse_number": "9.54",
+    "content_sanskrit": "सह तेन वादमुपगम्य चिरं दुहितुः पतिस्तु यतिवेषजुषा । विजितस्तमेव शरणं जगतां शरणं गमिष्यति विसृष्टगृहः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013520,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तेन यतिवेषजुषा श्रीशंकरेण सह तव दुहितुः पतिर्वादं प्राप्य तेन विजितः सन्परित्यक्तगृहो जगतां शरणं तं शरणं गमिष्यति ॥ ५४ ॥"
+    }
+  ]
+}

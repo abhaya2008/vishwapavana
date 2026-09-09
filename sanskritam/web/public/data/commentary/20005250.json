@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005250,
+    "chapter_id": 6621,
+    "verse_number": "9.37",
+    "content_sanskrit": "कान्तवेश्म बहु संदिशतीभिर्यातमेव रतये रमणीभिः । मन्मथेन परिलुप्तमतीनां प्रायशः स्खलितमप्युपकारि ॥",
+    "padaccheda": "कान्तवेश्म । बहु । संदिशतीभिः । यातम् । एव । रतये । रमणीभिः । मन्मथेन । परिलुप्तमतीनाम् । प्रायशः । स्खलितम् । अपि । उपकारि",
+    "anvaya": "बहु संदिशतीभिः रमणीभिः रतये कान्तवेश्म यातम् एव। हि मन्मथेन परिलुप्तमतीनां प्रायशः स्खलितम् अपि उपकारि भवति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although they kept sending many messages, the lovely women finally went to their lovers' houses for the sake of love. Indeed, for those whose minds are stolen by the god of love, even a mistake—like abandoning one's pride—is often helpful.",
+    "audio_url": null,
+    "display_order": 37,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005250,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "कान्तेति ॥ रतये सुरताय बहु संदिशतीभिरनेकं वाचिकं कथयन्तीभिः। संदेशव्यसनाद्गन्तव्यमप्यजानतीभिरित्यर्थः । रमणीभिः । कान्तवेश्म यातं प्राप्तमेव । न तु मध्ये मार्गान्निवृत्तमित्यर्थः । तथाहि । मन्मथेन परिलुप्तमतीनां स्खलितं विरुद्धाचरणमपि प्रायश उपकारि भवति ॥"
+    }
+  ]
+}

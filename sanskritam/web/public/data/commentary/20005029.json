@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005029,
+    "chapter_id": 6617,
+    "verse_number": "5.12",
+    "content_sanskrit": "ससुरचापमनेकमणिप्रभैरपपयोविशदं हिमपाण्डुभिः । अविचलं शिखरैरुपबिभ्रतं ध्वनितसूचितमम्बुमुचां चयम् ॥",
+    "padaccheda": "ससुरचापम् । अनेकमणिप्रभैः । अपपयोविशदं । हिमपाण्डुभिः । अविचलं । शिखरैः । उपबिभ्रतं । ध्वनितसूचितम् । अम्बुमुचाम् । चयम्",
+    "anvaya": "(हिमालयं) अनेकमणिप्रभैः हिमपाण्डुभिः शिखरैः, ससुरचापम्, अपपयोविशदम्, ध्वनितसूचितम्, अविचलम् अम्बुमुचाम् चयम् उपबिभ्रतम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(He approached the Himalaya) which, with its snow-white peaks lustrous with the light of many gems, supported a stationary mass of clouds. This cloud mass, indicated by its rumbling, was clear having shed its water, and was adorned with a rainbow.",
+    "audio_url": null,
+    "display_order": 12,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005029,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "ससुरेति ॥ अनेका विचित्रा मणिप्रभा येषां तैस्तथोक्तैः । हिमेन पाण्डुभिः शिखरैः कृत्वा ससुरचापं सेन्द्रचापम् । अपपया निर्जलोऽतएव विशदश्च तमपपयोविशदम् । अविचलं दैवान्निश्चलम् । अतः शिखरशङ्कास्याभूदित्यर्थः । किंतु ध्वनितेन गजितेन सूचितं ज्ञापितमम्बुमुचां चयमविरतमुपबिभ्रतम् । अत्र किल कल्पितसादृश्याच्छिखरमेघसंदेहो मेघनिश्चयान्तः संदेहालंकारः ॥"
+    }
+  ]
+}

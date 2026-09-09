@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010810,
+    "chapter_id": 6677,
+    "verse_number": "5.50",
+    "content_sanskrit": "एते गुर्वग्नि'होत्रास्रा समजोदजदक्षिणाः । दण्डिनः प्रमदाविष्टाः क्रीडन्त्यृषिकुमारकाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010810,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "समजोपजेति । 'समुदोरजः पशुषु' (पा.३|३|६९) इत्यप् । अग्निहोत्रगवीसमुदयप्रेरणप्रवीणा इत्यर्थः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166055,
+    "chapter_id": 7070,
+    "verse_number": "18.17",
+    "content_sanskrit": "अ-पृष्टो नु ब्रवीति त्वां मन्त्रे मातामहो हितम् । \"न करोमीतिपौलस्त्य ! तदा मोहात्त्वमुक्तवान् ॥",
+    "padaccheda": "अ-पृष्टः । नु । ब्रवीति । त्वाम् । मन्त्रे । मातामहः । हितम् । न । करोमि । इति । पौलस्त्य । तदा । मोहात् । त्वम् । उक्तवान्",
+    "anvaya": "पौलस्त्य ! मन्त्रे मातामहः अ-पृष्टः नु त्वाम् हितम् ब्रवीति । तदा मोहात् त्वम् \"न करोमि\" इति उक्तवान् ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "O descendant of Pulastya! Your maternal grandfather offered beneficial advice in the council even without being asked. Yet, out of delusion, you told him you would not follow it.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166055,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अपृष्ट इत्यादि - किमस्मिन् काले युज्यत इति मन्त्रे मातामहो माल्यंवान् अपृष्टः सन् हितं नु ब्रवीति । हे पौलस्त्य ! त्वं पुनर्हितमकार्षीरिति माल्यवता पृष्टं तदा तस्मिन् काले न करोमीति मोहादज्ञानादुक्तवाम् । अत्र नुशब्दे नशब्दे चोपपदे । '२७८० ननौ पृष्टप्रतिवचने | ३ |२|' इति भूते धात्वर्थे नन्वोर् (पा.३|२|१२१) इति विभाषा लट् ॥"
+    }
+  ]
+}

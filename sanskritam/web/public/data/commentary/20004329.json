@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004329,
+    "chapter_id": 6603,
+    "verse_number": "8.89",
+    "content_sanskrit": "तेन भङ्गिविषमोत्तरच्छदं मध्यपिण्डितविसूत्रमेखलम् । निर्मलेऽपि शयनं निशात्यये नोज्झितं चरणरागलाञ्छितम् ॥",
+    "padaccheda": "तेन । भङ्गिविषमोत्तरच्छदम् । मध्यपिण्डितविसूत्रमेखलम् । निर्मले । अपि । शयनम् । निशात्यये । न । उज्झितम् । चरणरागलाञ्छितम्",
+    "anvaya": "निशात्यये निर्मले अपि, भङ्गिविषमोत्तरच्छदं मध्यपिण्डितविसूत्रमेखलं चरणरागलाञ्छितं शयनं तेन न उज्झितम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At the end of the night, even though the bed was clean, he did not leave it. The bed's cover was uneven with wrinkles, the threadless girdle lay heaped in the middle, and it was marked with the lac-dye from her feet.",
+    "audio_url": null,
+    "display_order": 89,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004329,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तेनेति । निशात्यये प्रभाते निर्मलेऽपि तेन हरेण भङ्गिभिर्भङ्गैर्विषमो निम्नोन्नत उत्तरच्छदः प्रच्छदपटो यस्मिंस्तत् । मध्ये पिण्डिता पुञ्जीकृता विसूत्रमेखला छिन्नरसना यस्मिंस्तत्तथोक्तं चरणयो रागेण लाक्षारागेण लाञ्छितं चिह्नितं शयनं नोज्झितं न त्यक्तम् । अत्र देव्याः सकलसुरतोपचारसंपन्नत्वं पुरुषायितं सूच्यते"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005710,
+    "chapter_id": 6628,
+    "verse_number": "16.32",
+    "content_sanskrit": "छायां विनिर्धूय तमोमयीं तां तत्त्वस्य संवित्तिरिवापविद्याम् । ययौ विकासं द्युतिरिन्दुमौलेरालोकमभ्यादिशती गणेभ्यः ॥",
+    "padaccheda": "छायाम् । विनिर्धूय । तमोमयीम् । ताम् । तत्त्वस्य । संवित्तिः । इव । अपविद्याम् । ययौ । विकासम् । द्युतिः । इन्दुमौलेः । आलोकम् । अभ्यादिशती । गणेभ्यः",
+    "anvaya": "इन्दुमौलेः द्युतिः, तत्त्वस्य संवित्तिः अपविद्याम् इव, तां तमोमयीं छायां विनिर्धूय, गणेभ्यः आलोकम् अभ्यादिशती सती, विकासं ययौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The radiance of the moon-crested Shiva, shaking off that shadow made of darkness just as true knowledge dispels ignorance, expanded and spread, bestowing light upon the Ganas.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005710,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "छायामिति ॥ इन्दुमौलेर्द्युतिः कान्तिः । तत्त्वस्य संवित्तिस्तत्त्वज्ञानमपविद्यामिव तां तमोययीं छायां निद्रां विनिर्धूय निरस्य गणेभ्य आलोकं वस्तुप्रकाशमभ्यादिशती चितरन्ती विकासं विस्तारं ययौ ॥"
+    }
+  ]
+}

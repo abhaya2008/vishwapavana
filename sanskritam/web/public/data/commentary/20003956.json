@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003956,
+    "chapter_id": 6599,
+    "verse_number": "4.38",
+    "content_sanskrit": "परलोकविधौ च माधव स्मरमुद्दिश्य विलोलपल्लवाः । निवपेः सहकारमञ्जरीः प्रियचूतप्रसवो हि ते सखा ॥",
+    "padaccheda": "परलोकविधौ । च । माधव । स्मरम् । उद्दिश्य । विलोलाः । पल्लवाः । निवपेः । सहकारमञ्जरीः । प्रियचूतप्रसवः । हि । ते । सखा",
+    "anvaya": "(हे) माधव, परलोक-विधौ च स्मरम् उद्दिश्य विलोल-पल्लवाः सहकार-मञ्जरीः निवपेः। हि ते सखा प्रिय-चूत-प्रसवः (आसीत्)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"And O Madhava, in the funeral rites, you should offer trembling mango blossoms for Smara. For your friend was one to whom mango blossoms were very dear.\"",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003956,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "परलोकेति ॥ किंच हे माधव वसन्त ! परलोकविधौ पिण्डोदकादिकर्मणि स्मरमुद्दिश्य विलोलाः पल्लवा यासु ताः सहकारमञ्जरीश्चूतवल्लरीर्निर्वपेर्देहि । हि यस्मात्कारणात्ते सखा स्मरः प्रियाश्चूतप्रसवा यस्य स तथोक्तः"
+    }
+  ]
+}

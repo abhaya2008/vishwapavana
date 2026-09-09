@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002876,
+    "chapter_id": 6585,
+    "verse_number": "9.71",
+    "content_sanskrit": "उषसि स गजयूथकर्णतालैः पटुपटहध्वनिभिर्विनीतनिद्रः । अरमत मधुराणि तत्र श्रृण्वन्विहगविकूजितबन्दिमङ्गलानि ॥",
+    "padaccheda": "उषसि । सः । गजयूथकर्णतालैः । पटुपटहध्वनिभिः । विनीतनिद्रः । अरमत । मधुराणि । तत्र । शृण्वन् । विहगविकूजितबन्दिमङ्गलानि",
+    "anvaya": "उषसि गज-यूथ-कर्ण-तालैः पटु-पटह-ध्वनिभिः (इव) विनीत-निद्रः सः तत्र मधुराणि विहग-विकूजित-बन्दि-मङ्गलानि शृण्वन् अरमत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At dawn, his sleep dispelled by the flapping of the elephant herd's ears, which sounded like loud drums, he enjoyed listening to the sweet chirping of birds, which served as the auspicious morning songs of bards.",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002876,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "उषसीति॥ उषसि प्रातः पटूनां पटहानामिव ध्वनिर्येषां तैर्गजयूथानां कर्णैरेव तालैर्वाद्यप्रभेदैर्विनीतनिद्रः स नृपस्तत्र वने मधुराणि विहगानां विहंगानां विकूजितान्येव बन्दिनां मङ्गलानि मङ्गलगीतानि शृण्वन्नरमत ॥"
+    }
+  ]
+}

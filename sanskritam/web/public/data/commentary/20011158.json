@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011158,
+    "chapter_id": 6680,
+    "verse_number": "8.44",
+    "content_sanskrit": "सपत्नानायुधैवध्यान् विष्यान् कच्चिन्न मन्यसे । कच्चिद्वन्धून् वयस्यांश्च सदात्मानमिवार्चसि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011158,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विष्ववयस्ययोर्वध्यतुल्ययोर्यत् ॥"
+    }
+  ]
+}

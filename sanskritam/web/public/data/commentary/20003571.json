@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003571,
+    "chapter_id": 6593,
+    "verse_number": "17.44",
+    "content_sanskrit": "इत्थं जनितरागासु प्रकृतिष्वनुवासरम् । अक्षोभ्यः स नवोऽप्यासीद्दृढमूल इव द्रुमः ॥",
+    "padaccheda": "इत्थम् । जनितरागासु । प्रकृतिषु । अनुवासरम् । अक्षोभ्यः । सः । नवः । अपि । आसीत् । दृढमूलः । इव । द्रुमः",
+    "anvaya": "इत्थम् अनुवासरम् जनित-रागासु प्रकृतिषु सः नवः अपि दृढ-मूलः द्रुमः इव अक्षोभ्यः आसीत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus, even though he was young, he remained unshakable among his subjects, in whom affection for him was generated day by day, just like a tree with firm roots.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003571,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इत्थमिति॥ इत्थमनुवासरमन्वहं प्रकृतिषु प्रजासु जनितरागासुसतीषु स राजा नवोऽपि। दृढमूलो द्रुम इव। अक्षोभ्योऽप्रधृष्य आसीत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010719,
+    "chapter_id": 6676,
+    "verse_number": "4.65",
+    "content_sanskrit": "ग्रामीणानाश्रितान् विप्रान् वराकान्नीप्सितार्थदान् । धावन् प्रजवि चोरासु लुण्टाकैः पाहि पत्रिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 65,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010719,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रजवीति 'प्रजोरिनिः' (पा.३|२|१५६)। जवतिर्धावनार्थस्सौत्रो धातुः ॥"
+    }
+  ]
+}

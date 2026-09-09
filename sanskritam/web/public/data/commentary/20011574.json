@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011574,
+    "chapter_id": 6684,
+    "verse_number": "12.26",
+    "content_sanskrit": "रोमाञ्चपूर्णसौवर्णकलशप्रतिमस्तनी । 'अदर्शदर्शनीयाऽन्या पाण्डुसूनोरुरःस्थलम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011574,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "रोमाञ्चादिना रोमाञ्चलक्षणमनुभावं दर्शयति । अदर्शादिति 'इरितो वे'त्वङ (पा.३|१|५७) । 'ऋदृशोऽङि गुणः' (पा.७|४|१६) ॥"
+    }
+  ]
+}

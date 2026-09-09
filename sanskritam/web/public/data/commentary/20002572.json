@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002572,
+    "chapter_id": 6582,
+    "verse_number": "6.19",
+    "content_sanskrit": "कश्चिद्यथाभागमवस्थितेऽपि स्वसंनिवेशाद्व्यतिलङ्घिनीव । वज्रांशुगर्भाङ्गुलिरन्ध्रमेकं व्यापारयामास करं किरीटे ॥",
+    "padaccheda": "कश्चित् । यथाभागम् । अवस्थिते । अपि । स्वसंनिवेशात् । व्यतिलङ्घिनीव । वज्रांशुगर्भाङ्गुलिरन्ध्रम् । एकम् । व्यापारयामास । करम् । किरीटे",
+    "anvaya": "कश्चित् यथाभागम् अवस्थिते अपि स्वसंनिवेशात् व्यतिलङ्घिनी इव वज्रांशुगर्भाङ्गुलिरन्ध्रम् एकं करं किरीटे व्यापारयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Another king moved one of his hands on his crown. Though the crown was properly placed, his hand, with its fingers whose gaps were filled with the rays of diamonds, seemed to transgress its own position as he adjusted it.",
+    "audio_url": null,
+    "display_order": 19,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002572,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "कश्चिदिति॥ कश्चिद्यथाभागं यथास्थानमवस्थितेऽपि स्वसंनिवेशाद्व्यतिलङ्घिनीव स्वस्थानाञ्चलित इव किरीटे वज्राणां किरीटगतानामंशवो गर्भे येषां तान्यङ्गुलिरन्ध्राणि यस्य तमेकं करं व्यापारयामास। `किरीटवन्मम शिरसि स्थितामपि त्वां भारं न मन्ये`- इति नृपाभिप्रायः। `शिरसि न्यस्तहस्तोऽयमपलक्षणः`-इतीन्दुमत्यभिप्रायः ॥"
+    }
+  ]
+}

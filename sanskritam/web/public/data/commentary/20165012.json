@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165012,
+    "chapter_id": 7059,
+    "verse_number": "7.82",
+    "content_sanskrit": "\"जटायुः पुण्य-कृत्पक्षी दण्डकारण्य-सञ्चरः । कृत्वा राघव-कार्यं यः स्वराऽऽरूढोऽग्नि-संस्कृतः ॥",
+    "padaccheda": "पुण्य-कृत् । पक्षी । दण्डक-अरण्य-सञ्चरः । यः । जटायुः । राघव-कार्यम् । कृत्वा । अग्नि-संस्कृतः । स्वर्-आरूढः",
+    "anvaya": "पुण्य-कृत् पक्षी दण्डक-अरण्य-सञ्चरः यः जटायुः राघव-कार्यं कृत्वा अग्नि-संस्कृतः स्वर्-आरूढः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The virtuous bird Jaṭāyu, who roamed the Daṇḍaka forest, has ascended to heaven after being consecrated by fire, having performed Rāghava’s task.",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165012,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "जटायुरित्यादि - कृत्वा राघवकार्यम् । अग्निसंस्कृतः अग्निना कृतसंस्कारः । स्वः स्वर्गमारूढः । जटायुः पुण्यकृत् । संचरत्यस्मिन्निति संचरः । पूर्ववत् निपा- तितः । दण्डकारण्यं संचरो ऽवस्थानं यस्येति ॥"
+    }
+  ]
+}

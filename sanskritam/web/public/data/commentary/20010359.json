@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010359,
+    "chapter_id": 6673,
+    "verse_number": "1.35",
+    "content_sanskrit": "अन्धं भविष्णून् पलितं भविष्णून् नग्नं भविष्णूंश्च जनाननाथान् । निस्वानरक्षद्दययाश्रितान् या परोपकारैकरसार्द्रचित्ता ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010359,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "निगदव्याख्यातम् ॥"
+    }
+  ]
+}

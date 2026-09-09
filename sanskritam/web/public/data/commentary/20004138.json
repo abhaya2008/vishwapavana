@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004138,
+    "chapter_id": 6601,
+    "verse_number": "6.88",
+    "content_sanskrit": "एहि विश्वात्मने वत्से भिक्षासि परिकल्पिता । अर्थिनो मुनयः प्राप्तं गृहमेधिफलं मया ॥",
+    "padaccheda": "एहि । विश्वात्मने । वत्से । भिक्षा । असि । परिकल्पिता । अर्थिनः । मुनयः । प्राप्तम् । गृहमेधिफलम् । मया",
+    "anvaya": "वत्से, एहि। (त्वम्) विश्व-आत्मने भिक्षा परिकल्पिता असि। मुनयः अर्थिनः (सन्ति)। मया गृहमेधि-फलम् प्राप्तम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "(Himalaya said,) \"Come, my child. You are designated as sacred alms for the Soul of the Universe. These sages are the supplicants, and through this act, the true fruit of my life as a householder has been obtained by me.\"",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004138,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "एहीति । हे वत्से पुत्रि ! एह्यागच्छ । त्वं विश्वात्मने शिवाय भिक्षा परिकल्पितासि निश्चितासि । `रत्नादिस्तम्बपर्यन्तं सर्वं भिक्षा तपस्विनः` । इति वचनादिति भावः । अर्थिनो याचितारो मुनयः । मया गृहमेधिनो गृहस्थस्य फलं प्राप्तम् । इह परत्र च तारकत्वात्पात्रे कन्यादानं गार्हस्थ्यस्य फलमित्यर्थः"
+    }
+  ]
+}

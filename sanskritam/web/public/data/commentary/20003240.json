@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003240,
+    "chapter_id": 6589,
+    "verse_number": "13.70",
+    "content_sanskrit": "इक्ष्वाकुवंशगुरवे प्रयतः प्रणम्य स भ्रातरं भरतमर्घ्यपरिग्रहान्ते । पर्यश्रुरस्वजत मूर्धनि चोपजघ्रौ तद्भक्त्यपोढपितृराज्यमहाभिषेके ॥",
+    "padaccheda": "इक्ष्वाकुवंशगुरवे । प्रयतः । प्रणम्य । सः । भ्रातरम् । भरतम् । अर्घ्यपरिग्रहान्ते । पर्यश्रुः । अस्वजत । मूर्धनि । च । उपजघ्रौ । तद्भक्त्यपोढपितृराज्यमहाभिषेके",
+    "anvaya": "सः प्रयतः इक्ष्वाकु-वंश-गुरवे प्रणम्य, अर्घ्य-परिग्रह-अन्ते, तत्-भक्ति-अपोढ-पितृ-राज्य-महा-अभिषेके भ्रातरम् भरतम् परि-अश्रुः (सन्) अस्वजत, मूर्धनि च उपजघ्रौ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "After devoutly bowing to Vasistha, the preceptor of the Ikshvaku dynasty, and accepting the offerings, Rama, with tears in his eyes, embraced his brother Bharata—who had set aside the great coronation to his father's kingdom out of devotion—and smelled his head.",
+    "audio_url": null,
+    "display_order": 70,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003240,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इक्ष्वाक्विति॥ प्रयतः स राम इक्ष्वाकुवंशगुरवे वसिष्ठाय प्रणम्य नमस्कृत्यार्घ्यस्य परिग्रहः स्वीकारस्तस्यान्ते पर्यश्रुः परिगतानन्दबाष्पः सन्। भ्रातरं भरतमस्वजतालिङ्गत्। तस्मिन्रामे भक्त्याऽपोढः परिहृतः पितृराज्यमहाभिषेको येन तस्मिन्मूर्धन्युपजघ्रौ च। `घ्रा गन्धोपादाने`लिटि रूपम्॥"
+    }
+  ]
+}

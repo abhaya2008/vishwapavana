@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012041,
+    "chapter_id": 6688,
+    "verse_number": "16.48",
+    "content_sanskrit": "यक्षीध्वमध्वरैस्सर्वैस्त्वञ्च ते भ्रातरश्च ते । आदिराजान् विजेषीढ्वन्तेषु दानसमृद्धिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 48,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012041,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विजेष्वीढ्वम् । 'इणष्षीध्वं लुङ लिटां धोऽङ्गादिति (पा.८|३|७८) षीध्वमो धकारस्य नित्यो मूर्धन्यः । तेष्वध्वरेषु ॥"
+    }
+  ]
+}

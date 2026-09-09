@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005265,
+    "chapter_id": 6621,
+    "verse_number": "9.52",
+    "content_sanskrit": "कान्तसंगमपराजितमन्यौ वारुणीरसनशान्तविवादे । मानिनीजन उपाहितसंधौ संदधे धनुषि नेषुमनङ्गः ॥",
+    "padaccheda": "कान्तसंगमपराजितमन्यौ । वारुणीरसनशान्तविवादे । मानिनीजने । उपाहितसंधौ । संदधे । धनुषि । न । इषुम् । अनङ्गः",
+    "anvaya": "कान्त-संगम-पराजित-मन्यौ, वारुणी-रसन-शान्त-विवादे, उपाहित-संधौ मानिनी-जने, अनङ्गः धनुषि इषुम् न संदधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "When the anger of the proud women was defeated by union with their lovers, their disputes pacified by tasting wine, and reconciliation was established, Ananga (the god of love) did not place an arrow on his bow.",
+    "audio_url": null,
+    "display_order": 52,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005265,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "कान्तेति ॥ कान्तसंगमेन पराजितमन्यौ त्यक्तरोषे । तदवधिकत्वात्तस्येति भावः । किंच वारुणीरसनेन मध्वास्वादेन शान्तो विवादो वाक्कलहादिर्यस्य तस्मिन् । अत उपाहितसंधौ प्रियैः सह कृतसंधाने मानिनीजने विषयेऽनङ्गो धनुषीषुम् न संदधे संधानं नाकरोत् । सिद्धसाध्ये साधनवैयर्थ्यादिति भावः॥"
+    }
+  ]
+}

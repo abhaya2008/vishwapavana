@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002798,
+    "chapter_id": 6584,
+    "verse_number": "8.88",
+    "content_sanskrit": "अवगच्छति मूढचेतनः प्रियनाशं हृदि शल्यमर्पितम् । स्थिरधीस्तु तदेव मन्यते कुशलद्वारतया समुद्धृतम् ॥",
+    "padaccheda": "अवगच्छति । मूढ-चेतनः । प्रिय-नाशम् । हृदि । शल्यम् । अर्पितम् । स्थिर-धीः । तु । तत् । एव । मन्यते । कुशल-द्वारतया । समुद्धृतम्",
+    "anvaya": "मूढ-चेतनः प्रिय-नाशम् हृदि अर्पितम् शल्यम् अवगच्छति । स्थिर-धीः तु तत् एव कुशल-द्वारतया समुद्धृतम् (शल्यम्) मन्यते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "A person with a deluded mind perceives the loss of a loved one as a dart implanted in the heart. But a person of steady intellect considers that very same event as the extraction of that dart, a gateway to future well-being.",
+    "audio_url": null,
+    "display_order": 88,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002798,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अवेति॥ मूढचेतनो भ्रान्तबुद्धिः प्रियनाशमिष्टनाशं हृद्यर्पितं निखातं शल्यं शङ्कुमवगच्छति मन्यते। स्थिरधीर्विद्धांस्तु तदेव शल्यं समुद्धृतमुत्खातं मन्यते। प्रियनाशे सतीति शेषः। कुतः? कुशलद्वारतया। प्रियनाशस्य मोक्षोपायतयेत्यर्थः। विषयलाभविनाशयोर्यथाक्रमं हिताहितसाधनत्वामिमानः पामरणाम्। विपरीतं तु विपश्चितामिति भावः ॥"
+    }
+  ]
+}

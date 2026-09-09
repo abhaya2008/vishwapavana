@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002680,
+    "chapter_id": 6583,
+    "verse_number": "7.41",
+    "content_sanskrit": "रथो रथाङ्गध्वनिना विजज्ञे विलोलघण्टाक्वणितेन नागः । स्वभर्तृनामग्रहणाद्बभूव सान्द्रे रजस्यात्मपरावबोधः ॥",
+    "padaccheda": "रथः । रथ-अङ्ग-ध्वनिना । विजज्ञे । विलोल-घण्टा-क्वणितेन । नागः । स्व-भर्तृ-नाम-ग्रहणात् । बभूव । सान्द्रे । रजसि । आत्म-पर-अवबोधः",
+    "anvaya": "सान्द्रे रजसि रथः रथ-अङ्ग-ध्वनिना, नागः विलोल-घण्टा-क्वणितेन विजज्ञे। आत्म-पर-अवबोधः स्व-भर्तृ-नाम-ग्रहणात् बभूव।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the thick dust, a chariot was recognized by the sound of its wheels, and an elephant by the jingling of its swaying bells. The recognition of friend and foe occurred only through the utterance of their respective masters' names.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002680,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "रथ इति॥ सान्द्रे प्रवृद्धे रजसि रथो रथाङ्गध्वनिना चक्रस्वनेन विजज्ञे ज्ञातः। नागो हस्ती विलोलानां घण्टानां क्वणितेन नदिन विजज्ञे। आत्मपरावबोधः स्वपरविवेकः। योधानामिति शेषः। स्वभर्तॄणां स्वस्वामिनां नामग्रहणान्नामोञ्चारणाद्बभूव। रजोऽन्धतया सर्वे स्वं परं च शब्दादेवानुमाय प्रजह्रुरित्यर्थः ॥"
+    }
+  ]
+}

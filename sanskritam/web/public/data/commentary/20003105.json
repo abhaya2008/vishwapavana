@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003105,
+    "chapter_id": 6588,
+    "verse_number": "12.39",
+    "content_sanskrit": "लक्ष्मणः प्रथमं श्रुत्वा कोकिलामञ्जुवादिनीम् । शइवाघोरस्वनां पश्चाद्बुबुधे विकृतेति ताम् ॥",
+    "padaccheda": "लक्ष्मणः । प्रथमम् । श्रुत्वा । कोकिलामञ्जुवादिनीम् । शिवाघोरस्वनाम् । पश्चात् । बुबुधे । विकृता । इति । ताम्",
+    "anvaya": "लक्ष्मणः प्रथमं कोकिलामञ्जुवादिनीं श्रुत्वा पश्चात् अघोरस्वनां ताम् विकृता इति बुबुधे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Lakshmana, who had first heard her speaking as sweetly as a cuckoo with a pleasant voice, later realized she was a deformed demoness when her true nature was revealed.",
+    "audio_url": null,
+    "display_order": 39,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003105,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "लक्ष्मण इति॥ लक्ष्मणः प्रथमं कोकिलावन्मञ्जुवादिनीं पश्चाच्छिवावद्धोरस्वनां तां शूर्पणखां श्रुत्वा। तस्याः स्वनं श्रुत्वेत्यर्थः। `सुस्वनः शङ्खः श्रूयते`इतिवत्प्रत्योगः। विकृता मायाविनीति बुबुधे बुद्धवान्। कर्तरि लिट्॥"
+    }
+  ]
+}

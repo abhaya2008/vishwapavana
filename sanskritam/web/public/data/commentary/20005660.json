@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005660,
+    "chapter_id": 6627,
+    "verse_number": "15.35",
+    "content_sanskrit": "तद्गणा ददृशुर्भीमं चित्रसंस्था इवाचलाः । विस्मयेन तयोर्युद्धं चित्रसंस्था इवाचलाः ॥",
+    "padaccheda": "तद्गणाः । ददृशुः । भीमम् । चित्रसंस्थाः । इव । अचलाः । विस्मयेन । तयोः । युद्धम् । चित्रसंस्थाः । इव । अचलाः",
+    "anvaya": "चित्र-संस्थाः अचलाः इव (स्थिताः) तत्-गणाः तयोः भीमम् युद्धम् विस्मयेन ददृशुः, (ते) चित्र-संस्थाः इव अचलाः (आसन्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "This is a yamaka verse. His Ganas (attendants), motionless like mountains in a painting, watched the terrible battle between the two with amazement; they were as still as painted mountains.",
+    "audio_url": null,
+    "display_order": 35,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005660,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥भीमं तयोर्हरपाण्डवयोस्तत्प्रसिद्धं युद्धं गणाः प्रमथाश्चित्रसंस्थाश्चित्राकारा अचलाः शैला इव । तथा चित्र आलेख्ये संस्था स्थितिर्येषां ते चित्रसंस्थाश्चित्रलिखिता इवाचला आश्चर्यवशान्निश्चलाः सन्तो विस्मयेन ददृशुः ॥"
+    }
+  ]
+}

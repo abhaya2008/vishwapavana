@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165629,
+    "chapter_id": 7065,
+    "verse_number": "13.41",
+    "content_sanskrit": "आरूढं च सुवेलं तरु-मालाऽऽबन्ध-हारि-गिरि-वर-जालम् । रावण-चित्त-भयङ्कर- मापिङ्गल-लोल-केसरं राम-बलम् ॥",
+    "padaccheda": "आरूढम् । च । सुवेलम् । तरु-माला-आबन्ध-हारि-गिरि-वर-जालम् । रावण-चित्त-भयङ्करम् । आ-पिङ्गल-लोल-केसरम् । राम-बलम्",
+    "anvaya": "तरु-माला-आबन्ध-हारि-गिरि-वर-जालम् रावण-चित्त-भयङ्करम् आ-पिङ्गल-लोल-केसरम् राम-बलम् च सुवेलम् आरूढम्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Rāma's army, terrifying to Rāvaṇa’s mind and possessing reddish-brown flickering manes, ascended Mount Suvela, which was beautiful with its clusters of excellent mountains entwined with rows of trees.",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165629,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "आरूढमित्यादि - रामबलं तटे स्थित्वा आरूढं च सुवेलं पर्वतम् । धका- रस्य प्राकृते स्वरशेपता न भवति । पदमध्यान्तयोरवर्तमानत्वात् । तरुमालाया य आबन्धः तेन हारि मनस्तुष्टिकरं तादृशं गिरिवराणां पर्यन्तगिरीणां जालं यस्य सुवेलस्य । रावणचित्तस्य भयङ्करं रामबलम् | आपिङ्गलानि लोलानि केसराणि यस्य तदिति ॥"
+    }
+  ]
+}

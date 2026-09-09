@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003017,
+    "chapter_id": 6587,
+    "verse_number": "11.44",
+    "content_sanskrit": "तत्प्रसुप्तभुजगेन्द्रभीषणं वीक्ष्य दाशरथिराददे धनुः । विद्रुतक्रतुमृगानुसारिणं येन बाणमसृजद्वृषध्वजः ॥",
+    "padaccheda": "तत् । प्रसुप्तभुजगेन्द्रभीषणं । वीक्ष्य । दाशरथिः । आददे । धनुः । विद्रुतक्रतुमृगानुसारिणं । येन । बाणम् । असृजत् । वृषध्वजः",
+    "anvaya": "प्रसुप्तभुजगेन्द्रभीषणं तत् धनुः वीक्ष्य दाशरथिः आददे, येन वृषध्वजः विद्रुतक्रतुमृगानुसारिणं बाणम् असृजत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Seeing that bow, which was as terrifying as a sleeping king of serpents, the son of Dasharatha took it up—the very bow with which Lord Shiva had once discharged an arrow at the sacrifice that had fled in the form of a deer.",
+    "audio_url": null,
+    "display_order": 44,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003017,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति॥ दाशरथी रामः प्रसुप्तभुजगेन्द्र इव भीषणं भयंकरं तद्धनुर्वीक्ष्याददे जग्राह। वृषो ध्वजश्चिह्नं यस्य स शिवो येन धनुषा। क्रतुरेव मृगः। विद्रुतं पलायितं क्रतुमृगमनुसरति। ताच्छील्ये णिनिः। तं विद्रुतक्रतुमृगानुसारिणं बाणमसृजन्मुमोच ॥"
+    }
+  ]
+}

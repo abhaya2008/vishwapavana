@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011862,
+    "chapter_id": 6686,
+    "verse_number": "14.86",
+    "content_sanskrit": "इत्युच्यमाना सरसै रूढवेपथुकण्टकैः । जगाद त्वदधीनाऽहमिति सा पार्थमङ्गकैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 86,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011862,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अङ्गकैरिति सुकुमारैः । अनुकम्पायां (पा.५|३|७६) कन् । वाचं विनेत्यर्थः ॥"
+    }
+  ]
+}

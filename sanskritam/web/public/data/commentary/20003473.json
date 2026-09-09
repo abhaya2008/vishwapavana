@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003473,
+    "chapter_id": 6592,
+    "verse_number": "16.34",
+    "content_sanskrit": "स पूर्वजानां कपिलेन रोषाद्भास्मावशेषीकृतविग्रहाणाम् । सुरालयप्राप्तिनिमित्तमम्भस्त्रैस्रोतसं नौलुलितं ववन्दे ॥",
+    "padaccheda": "सः । पूर्वजानाम् । कपिलेन । रोषात् । भस्मावशेषीकृतविग्रहाणाम् । सुरालयप्राप्तिनिमित्तम् । अम्भः । त्रैस्रोतसम् । नौलुलितम् । ववन्दे",
+    "anvaya": "सः, कपिलेन रोषात् भस्मावशेषीकृतविग्रहाणाम् पूर्वजानाम् सुरालयप्राप्तिनिमित्तम्, नौलुलितम् त्रैस्रोतसम् अम्भः ववन्दे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He (Kusha) bowed to the waters of the three-streamed Ganga, agitated by boats, which was the means for his ancestors—whose bodies had been reduced to ashes by Kapila's wrath—to attain heaven.",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003473,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ स कुशः कपिलेन मुनिना रोषाद्भस्मावशेषीकृता विग्रहा देहा येषां तेषां पूर्वजानां वृद्धानां सागराणां सुरालयस्य स्वर्गस्य प्राप्तौ निमित्तं नौभिर्लुलितं क्षुभितम्। त्रिस्रोतस इदं त्रैस्नोतसम्। गाङ्गमम्भो ववन्दे ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011873,
+    "chapter_id": 6686,
+    "verse_number": "14.97",
+    "content_sanskrit": "जगाम शरणं शश्वन्मनसा सा च माधवम् । विभुस्तु कृपया तूर्णं द्वीपाद् द्वारवतीं ययौ ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 97,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011873,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "जगाम शरणं शश्वदिति । दृशश्वतोर्लङ् चेति (पा.३|२|११६) लिट् । विभुरिति सर्वगतत्वात् द्विधाकृतमूर्तिरित्यर्थः । तूर्णं स्मृतः । सद्य एव । कृपया भक्तवत्सलत्वात् ॥"
+    }
+  ]
+}

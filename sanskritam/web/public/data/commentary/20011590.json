@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011590,
+    "chapter_id": 6684,
+    "verse_number": "12.42",
+    "content_sanskrit": "अक्षणिष्टां यदीयोरू स्मरहस्तिकरश्रियम् । यस्याश्च जघनं दृष्ट्वा नाश्वसीन्मन्मथो रथः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 42,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011590,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अक्षणिष्टां अहिंसिष्टाम् । क्षिणु हिंसायाम् । आश्वसीदिति आङ्पूर्वः श्वसः । ह्म्यन्तश्वसेति (पा.७|२|५) वृद्धिप्रतिषेधः ॥"
+    }
+  ]
+}

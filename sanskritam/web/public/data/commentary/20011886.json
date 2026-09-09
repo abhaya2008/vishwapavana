@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011886,
+    "chapter_id": 6686,
+    "verse_number": "14.110",
+    "content_sanskrit": "पप यूयं प्रजा देवाश्चकृढ्वे पापनिग्रहान् । लुलुविढ्वे ततश्शस्त्रैर्लुलुविध्वेच नैरृतान् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 110,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011886,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "चकृढ्वे इति । इणः षीध्वं लुङ्लिटां धोऽङ्गादिति (पा.८|३|७८) मूर्धन्यः । लुलुविढ्वे लुलुविध्वे इति विभाषेट इति (पा.८|३|७९) मूर्धन्यविकल्पः ॥"
+    }
+  ]
+}

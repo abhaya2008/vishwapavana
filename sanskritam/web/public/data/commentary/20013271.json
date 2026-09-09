@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013271,
+    "chapter_id": 6699,
+    "verse_number": "7.57",
+    "content_sanskrit": "इतीरयित्वा चरणौ ववन्दे यतिर्मुनेः सर्वविदो महात्मा । प्रदाय संभाव्य वरं मुनीशो द्वैपायनः सोऽन्तरधाद्यतात्मा ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 57,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013271,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "संभाव्य वरमवश्यंभाविचरं संपूज्य वरं प्रदायेति वा ॥ ५८ ॥"
+    }
+  ]
+}

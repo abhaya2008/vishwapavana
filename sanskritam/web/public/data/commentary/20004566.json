@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004566,
+    "chapter_id": 6608,
+    "verse_number": "13.13",
+    "content_sanskrit": "सहेलहासच्छुरिताननेन्दुस्ततः कुमारः पुरतो भविष्णुः । स तारकापातमपेक्षमाणो रणप्रवीरो हि सुरानवोचत् ॥",
+    "padaccheda": "सहेलहासच्छुरिताननेन्दुः । ततः । कुमारः । पुरतः । भविष्णुः । सः । तारकापातम् । अपेक्षमाणः । रणप्रवीरः । हि । सुरान् । अवोचत्",
+    "anvaya": "ततः सहेलहासच्छुरिताननेन्दुः रणप्रवीः भविष्णुः सः कुमारः तारकापातम् अपेक्षमाणः सुरान् अवोचत् हि",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, Kumāra, a true hero in battle, stood before them with a playful smile illuminating his moon-like face. Anticipating the imminent downfall of the demon Tāraka, he addressed the gathered gods.",
+    "audio_url": null,
+    "display_order": 13,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004566,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सहेलेति । ततो दृष्टिपातानन्तरं रणे प्रकृष्टं वीरोऽत एव तारकस्यापातं युद्धार्थमागमनमपेक्षते सोऽपेक्षमाणः । प्रतीच्छन्नित्यर्थः । अत एव पुरतोऽग्रतो भविष्णुः स कुमारः कात्तिकेयः सहेलः सक्रीडो यो हासस्तेन छुरिताननेन्दुर्मिश्रितमुखचन्द्रः सन् । किंचिद्विहस्येत्यर्थः । हि निश्चितम् । सुरानवोचज्जगाद"
+    }
+  ]
+}

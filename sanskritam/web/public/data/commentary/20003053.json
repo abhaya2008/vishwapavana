@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003053,
+    "chapter_id": 6587,
+    "verse_number": "11.80",
+    "content_sanskrit": "पूर्वजन्मधनुषा समागतः सोऽतिमात्रलघुदर्शनोऽभवत् । केवलोऽपि सुभगो नवाम्बुदः किं पुनस्त्रिदशचापलाञ्छितः ॥",
+    "padaccheda": "पूर्वजन्मधनुषा । समागतः । सः । अतिमात्रलघुदर्शनः । अभवत् । केवलः । अपि । सुभगः । नवाम्बुदः । किम् । पुनः । त्रिदशचापलाञ्छितः",
+    "anvaya": "पूर्वजन्मधनुषा समागतः सः अतिमात्रलघुदर्शनः अभवत् । केवलः अपि नवाम्बुदः सुभगः (भवति), त्रिदशचापलाञ्छितः किम् पुनः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Reunited with the bow from his previous incarnation (as Vishnu), he (Rama) appeared extremely graceful and effortless. A new cloud is beautiful even by itself; what then when it is adorned with a rainbow?",
+    "audio_url": null,
+    "display_order": 80,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003053,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "पूर्वेति॥ पूर्वजन्मनि नारायणावतारे यद्धनुस्तेन समागतः संगतः स रामोऽतिमात्रमत्यन्तं लघुदर्शनः प्रियदर्शनोऽभवत्। तथा हि-नवाम्बुदः केवलो रिक्तोऽपि सुभगः। त्रिदशचापेनेन्द्रधनुषा लाञ्छितश्चिह्नितः किं पुनः? सुभग एवेति भावः ॥"
+    }
+  ]
+}

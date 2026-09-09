@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004124,
+    "chapter_id": 6601,
+    "verse_number": "6.74",
+    "content_sanskrit": "तदागमनकार्यं नः शृणु कार्यं तवैव तत् । श्रेयसामुपदेशात्तु वयमत्रांशभागिनः ॥",
+    "padaccheda": "तत् । आगमनकार्यम् । नः । शृणु । कार्यम् । तव । एव । तत् । श्रेयसाम् । उपदेशात् । तु । वयम् । अत्र । अंशभागिनः",
+    "anvaya": "नः तत् आगमनकार्यम् शृणु। तत् तव एव कार्यम्। तु श्रेयसाम् उपदेशात् वयम् अत्र अंशभागिनः (स्मः)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Now, listen to the purpose of our arrival. Though the task is yours alone, by offering auspicious counsel, we too become participants in its merit.",
+    "audio_url": null,
+    "display_order": 74,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004124,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तदिति । तत्तस्मान्नोऽस्माकमागमनस्य कार्यं प्रयोजनं श्रृणु । तत्कार्यं च तवैव, न त्वस्माकमित्यवधारणार्थ एवकारः । वयं तु श्रेयसामुपदेशादत्र कार्येंऽशभागिनः । त्वमेवात्र फलभाग्वयमुपदेष्टार इति भावः"
+    }
+  ]
+}

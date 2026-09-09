@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010763,
+    "chapter_id": 6677,
+    "verse_number": "5.3",
+    "content_sanskrit": "भुक्तार्द्रशष्पग्रासानां पीतनिर्झरपाथसाम् । विहारैरेणपोतानां परितोऽतिमनोहरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 3,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010763,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "ग्रस्यत इति ग्रासः कबलः । 'अकर्तरि च कारके संज्ञायां' (पा.३|३|१९) इति कर्मणि घञ् । विहारैरिति भावे ॥"
+    }
+  ]
+}

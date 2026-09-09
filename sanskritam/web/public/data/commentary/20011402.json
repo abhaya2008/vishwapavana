@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011402,
+    "chapter_id": 6682,
+    "verse_number": "10.46",
+    "content_sanskrit": "मत्पूजकोऽभूर्भगवंस्त्वमद्य त्वत्पूजकत्वं न मया तु लब्धम् । इच्छन्ति ये सत्परिचारकत्वं सन्तो जनास्तत्परिचारका हि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011402,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "मत्पूजकादिषु 'याजकादिभिश्च' (पा.२|२|९) इति समासः । स च 'कर्तरि चे'त्यस्य (पा.२|२|१६) निषेधस्य प्रतिप्रसवः ॥"
+    }
+  ]
+}

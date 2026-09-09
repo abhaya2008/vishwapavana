@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002443,
+    "chapter_id": 6580,
+    "verse_number": "4.54",
+    "content_sanskrit": "भयोत्सृष्टविभूषाणां तेन केरलयोषिताम् । अलकेषु चमूरेणुश्चूर्णप्रतिनिधीकृतः ॥",
+    "padaccheda": "भय-उत्सृष्ट-विभूषाणाम् । तेन । केरल-योषिताम् । अलकेषु । चमूरेणुः । चूर्ण-प्रतिनिधि-कृतः",
+    "anvaya": "तेन भय-उत्सृष्ट-विभूषाणाम् केरल-योषिताम् अलकेषु चमूरेणुः चूर्ण-प्रतिनिधि-कृतः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "For the women of Kerala, who had cast off their ornaments in fear, the dust raised by his army served as a substitute for the cosmetic powder in their hair.",
+    "audio_url": null,
+    "display_order": 54,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002443,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "भयेति॥ तेन रघुणा भयेनोत्सृष्टविभूषाणां परिहृतभूषणानां केरलयोषितां केरलाङ्गनानामलकेषु चमूरेणुः चूर्णस्य सेनारजश्चूर्णस्य कुङ्कुमादिरजसः प्रतिनिधीकृतः। एतेन योषितां पलायनं चमूनां च तदनुधावनं ध्वन्यते ॥"
+    }
+  ]
+}

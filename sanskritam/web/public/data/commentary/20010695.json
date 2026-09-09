@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010695,
+    "chapter_id": 6676,
+    "verse_number": "4.41",
+    "content_sanskrit": "श्रुत्वा तस्य वचस्तस्मिन्ननुरागी युधिष्ठिरः । प्रवासेनानुरोध्यस्य संज्वारीदमभाषत ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010695,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अनुरागीति । रञ्ज रागे इत्यस्य राजेति निपातनादनुनासिकलोपः ॥"
+    }
+  ]
+}

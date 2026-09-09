@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20014027,
+    "chapter_id": 6706,
+    "verse_number": "14.98",
+    "content_sanskrit": "गृही धनी धन्यतरो मतो मे तस्योपजीवन्ति धनं हि सर्वे । चौर्येण कश्चित्प्रणयेन कश्चि- द्दानेन कश्चिच्छलतोऽपि कश्चित् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 98,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20014027,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "न केवलं ब्रह्मचार्यादय एव गृहस्थमुपजीवन्त्यपि तु सर्वे एवेत्याह । गृहीति । हि यस्मात् ॥ ९८ ॥"
+    },
+    {
+      "id": 2,
+      "verse_id": 20014027,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ बलं परचक्रम् ]"
+    }
+  ]
+}

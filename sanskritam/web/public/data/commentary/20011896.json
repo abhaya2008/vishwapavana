@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011896,
+    "chapter_id": 6686,
+    "verse_number": "14.120",
+    "content_sanskrit": "रामकृष्णमुखान् वृष्णीन् लब्ध्वा संबन्धिनोऽखिलान् । पाण्डवांश्च स्वमिन्द्रत्वम्मेने हरिरतिस्थिरम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 120,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011896,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "स्वमिन्द्रत्वं ॥ परमैश्वर्यम् ॥"
+    }
+  ]
+}

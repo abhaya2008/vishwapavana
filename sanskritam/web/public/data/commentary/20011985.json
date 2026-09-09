@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011985,
+    "chapter_id": 6687,
+    "verse_number": "15.82",
+    "content_sanskrit": "संयोगाश्च वियोगाश्च दुःखानि च सुखानि च । बुधैर्न गणनीयानि धीरैः कार्यानुरोधिभिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011985,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "अगमने दोषोऽस्तीत्याह—"
+    }
+  ]
+}

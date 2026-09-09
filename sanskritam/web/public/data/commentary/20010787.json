@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010787,
+    "chapter_id": 6677,
+    "verse_number": "5.27",
+    "content_sanskrit": "पान्थानह क्षुधा पात्तप्रग्राहेणोपगच्छतः । नीवारान्नादिभिक्षामिर्मुनिपत्न्योऽर्चयन्त्यमूः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 27,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010787,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "पात्रप्रग्राहेणेति । प्रे लिप्सायां' (पा.३|३|४६) इति घञ् ॥"
+    }
+  ]
+}

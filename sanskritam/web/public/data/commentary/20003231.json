@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003231,
+    "chapter_id": 6589,
+    "verse_number": "13.61",
+    "content_sanskrit": "जलानि या तीरनिखातयूपा वहत्ययोध्यामनु राजधानीम् । तुरंगमेधावभृथावतीर्णैरिक्ष्वाकुभिः पुण्यतरीकृतानि ॥",
+    "padaccheda": "जलानि । या । तीरनिखातयूपा । वहति । अयोध्याम् । अनु । राजधानीम् । तुरंगमेधावभृथावतीर्णैः । इक्ष्वाकुभिः । पुण्यतरीकृतानि",
+    "anvaya": "तीरनिखातयूपा या (सरयूः) तुरंगमेध-अवभृथ-अवतीर्णैः इक्ष्वाकुभिः पुण्यतरीकृतानि जलानि राजधानीम् अयोध्याम् अनु वहति।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Sarayu river, on whose banks sacrificial posts are fixed, flows alongside the capital city Ayodhya, carrying waters made even more sacred by the Ikshvaku kings who descended into them for the purificatory bath after their horse sacrifices.",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003231,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "जलालीति॥ यूपः संस्कृतः पशुबन्धनार्हो दारुविशेषः। तीरनिखातयूपा या सरयूस्तुरंगमेधा अश्वमेधास्तेष्ववभृथार्थमेवावतीर्णैरवरूढैरिक्ष्वाकुभिरिक्ष्वाकुगोत्रापत्यैर्नः पूर्वैः। तद्राजत्वादणो लुक्। पुण्यतरीकृतान्यतिशयेन पुण्यानि कृतानि जलान्ययोध्यां राजधानीं नगरीमनु समीपे, तया लक्षितयेत्यर्थः। `अनु`शब्दस्य `लक्षणेत्थंभूत-` (पा.1।4।90)इत्यादिना कर्मप्रवचनीयत्वात्तद्योगे द्वितीया। वहति प्रापयति ॥"
+    }
+  ]
+}

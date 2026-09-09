@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002398,
+    "chapter_id": 6580,
+    "verse_number": "4.9",
+    "content_sanskrit": "मन्दोत्कण्ठाः कृतास्तेन गुणाधिकतया गुरौ । फलेन सहकारस्य पुष्पोद्गम इव प्रजाः ॥",
+    "padaccheda": "मन्दोत्कण्ठाः । कृताः । तेन । गुणाधिकतया । गुरौ । फलेन । सहकारस्य । पुष्पोद्गमः । इव । प्रजाः",
+    "anvaya": "तेन, गुरौ गुणाधिकतया, प्रजाः मन्दोत्कण्ठाः कृताः, सहकारस्य फलेन पुष्प-उद्गमः इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Due to Raghu's superior qualities, the subjects' longing for his father was diminished, just as the appearance of the mango fruit makes one forget the beauty of its preceding blossoms.",
+    "audio_url": null,
+    "display_order": 9,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002398,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "मन्देति। तेन रघुणा प्रजा गुरौ दिलीपविषये। सहकारोऽतिसौरभश्चूतः। `आम्रश्चूतो रसालोऽसौ सहकारोऽसौरभः` इत्यमरः। तस्य फलेन पुष्पोद्गमे पुष्पोदय इव। ततोऽपि गुणाधिकतया हेतुना मन्दोत्कण्ठा अल्पौत्सुक्याः कृताः। गुणोत्तरश्चोत्तरो विषयः पूर्वं विस्मारयतीति भावः॥"
+    }
+  ]
+}

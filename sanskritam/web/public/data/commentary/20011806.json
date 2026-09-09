@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011806,
+    "chapter_id": 6686,
+    "verse_number": "14.30",
+    "content_sanskrit": "वासुदेवस्तु विज्ञाय भिक्षोस्समभिराधने । देवीमेवातिनिष्णातां चोदयामास रुक्मिणीम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011806,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विज्ञाय तं वृत्तान्तं । अतिनिष्णातां अतिकुशलाम् । निनदीभ्यां स्नातेः कौशल इति (पा.८|३|८९) षत्वम् ।"
+    }
+  ]
+}

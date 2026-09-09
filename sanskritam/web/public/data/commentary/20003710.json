@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003710,
+    "chapter_id": 6595,
+    "verse_number": "19.49",
+    "content_sanskrit": "दृष्टदोषमपि तन्न सोऽत्यजत्सङ्गवस्तु भिषजामनाश्रवः । स्वादुभिस्तु विषयैर्हृतस्ततो दृःखमिन्द्रियगणो निवार्यते ॥",
+    "padaccheda": "दृष्टदोषम् । अपि । तत् । न । सः । अत्यजत् । सङ्गवस्तु । भिषजाम् । अनाश्रवः । स्वादुभिः । तु । विषयैः । हृतः । ततः । दुःखम् । इन्द्रियगणः । निवार्यते",
+    "anvaya": "सः अनाश्रवः (सन्) भिषजाम् (वचनम्) दृष्टदोषम् अपि तत् सङ्गवस्तु न अत्यजत् । तु ततः स्वादुभिः विषयैः हृतः इन्द्रियगणः दुःखम् निवार्यते ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That king (Agnivarna), not heeding the words of the physicians, did not abandon the object of his attachment (women), even though its faults were pointed out. Consequently, his group of senses, captivated by pleasurable objects, was restrained with difficulty.",
+    "audio_url": null,
+    "display_order": 49,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003710,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दृष्टेति॥ भिषजां वैद्यानामनाश्रवो वचसि न स्थितः। `वचने स्वित आश्रवः` इत्यमरः। अविधेय इत्यर्थः। स दृष्टदोषमपि। रोगजननादिति शेषः। ततत्सङ्गस्य वस्तु सङ्गवस्तु स्त्रीमद्यादिकं सङ्गजनकं वस्तु नात्यजत्। तथा हि-इन्द्रियगणः स्वादुभिर्विषयैर्हृतस्तु हृतश्चेत्ततस्तेभ्यो विषयेभ्यो दुःखं कृच्छ्रेण निवार्यते। यदि वार्येतेति शेषः। दुस्त्यजाः खलु विषया इत्यर्थः ॥"
+    }
+  ]
+}

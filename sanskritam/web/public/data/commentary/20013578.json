@@ -1,0 +1,31 @@
+{
+  "verse": {
+    "id": 20013578,
+    "chapter_id": 6701,
+    "verse_number": "9.112",
+    "content_sanskrit": "इति श्रीमाधवीये तत्सार्वज्ञ्योपायगोचरः । संक्षेपशंकरजये सर्गोऽयं नवमोऽभवत् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 112,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013578,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथ दशमः सर्गः ।"
+    },
+    {
+      "id": 2,
+      "verse_id": 20013578,
+      "commentary_type": "अद्वैतराज्यलक्ष्मी (अच्युतः)",
+      "author": "",
+      "content": "[ इति श्रीति । तदिति । तस्य श्रीमच्छंकरभगवत्पादस्य यत्सार्वज्ञ्यं तस्य य उपायः स गोचरो विषयो यस्य स तथेत्यर्थः । अपरं तु प्राग्वदेव ]"
+    }
+  ]
+}

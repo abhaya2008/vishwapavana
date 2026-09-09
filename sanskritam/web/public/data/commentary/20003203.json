@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003203,
+    "chapter_id": 6589,
+    "verse_number": "13.33",
+    "content_sanskrit": "अमूर्विमानान्तरलम्बिनीनां श्रुत्वा स्वनं काञ्चनकिङ्किणीनाम् । प्रत्युद्द्रजन्तीव खमुत्पतन्त्यो गोदावरीसारसपङ्क्तयस्त्वाम् ॥",
+    "padaccheda": "अमूः । विमानान्तरलम्बिनीनां । श्रुत्वा । स्वनम् । काञ्चनकिङ्किणीनाम् । प्रत्युद्द्रजन्ति । इव । खम् । उत्पतन्त्यः । गोदावरीसारसपङ्क्तयः । त्वाम्",
+    "anvaya": "गोदावरी-सारस-पङ्क्तयः विमान-अन्तर-लम्बिनीनाम् काञ्चन-किङ्किणीनाम् स्वनम् श्रुत्वा, त्वाम् प्रति-उद्-व्रजन्ति इव खम् उत्पतन्त्यः सन्ति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Look, these rows of Sarasa birds from the Godavari river, hearing the sound of the golden bells hanging inside our celestial car, are flying up into the sky as if to come forth and greet you.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003203,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अमूरिति॥ विमानस्यान्तरेष्ववकाशेषु लम्बंन्ते यास्तासां काञ्चनकिङ्किणीनां स्वनं श्रुत्वा स्वयूथशब्दभ्रमात्खमाकाशमुत्पतन्त्योऽमूर्गोदावरीसारसपङ्क्तयस्त्वां प्रत्युद्द्रजन्तीव ॥"
+    }
+  ]
+}

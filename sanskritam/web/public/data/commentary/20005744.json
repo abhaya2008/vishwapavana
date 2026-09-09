@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005744,
+    "chapter_id": 6629,
+    "verse_number": "17.2",
+    "content_sanskrit": "भूरिप्रभावेण रणाभियोगात्प्रीतो विजिह्मश्च तदीयवृद्ध्या । स्पष्टोऽप्यविस्पष्टवपुःप्रकाशः सर्पन्महाधूम इवाद्रिवह्निः ॥",
+    "padaccheda": "भूरिप्रभावेण । रणाभियोगात् । प्रीतः । विजिह्मश्च । तदीयवृद्ध्या । स्पष्टोऽपि । अविस्पष्टवपुःप्रकाशः । सर्पन्महाधूमः । इव । अद्रिवह्निः",
+    "anvaya": "भूरिप्रभावेण रणअभियोगात् प्रीतः, तदीयवृद्ध्या विजिह्मः च, स्पष्टः अपि अविस्पष्टवपुःप्रकाशः, सर्पन्महाधूमः अद्रिवह्निः इव आसीत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "He was pleased by the challenge of the mighty battle, yet displeased by his opponent's growing success. Though manifest, his form's radiance was obscured, like a mountain fire spreading with great smoke.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005744,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "भूरीति ॥ पुनश्च । भूरिप्रभावेण महानुभावेन सह रणाभियोगाद्युद्धलाभात्प्रीतस्तदीयवृद्ध्या शत्रुवृद्ध्या विजिह्यो विच्छायश्च तथा स्पष्टो दीप्त्या प्रज्वलन्नप्यविस्पष्टो वपुःप्रकाशो यस्य सः। कुतः। सर्पन्प्रसरन्महान्धूमो यस्य सोऽद्रिवह्निरिव स्थितः ॥"
+    }
+  ]
+}

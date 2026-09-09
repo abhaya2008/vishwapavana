@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20165471,
+    "chapter_id": 7063,
+    "verse_number": "11.17",
+    "content_sanskrit": "अ-वीत-तृष्णोऽथ परस्परेण क्षणादिवाऽऽयात-निशाऽवसानः । दुःखेन लोकः परवानिवाऽगात्समुत्सुकः स्वप्न-निकेतनेभ्यः ॥",
+    "padaccheda": "अ-वीत-तृष्णः । अथ । परस्परेण । क्षणात् । इव । आयात-निशा-अवसानः । दुःखेन । लोकः । परवान् । इव । अगात् । समुत्सुकः । स्वप्न-निकेतनेभ्यः",
+    "anvaya": "अथ परस्परेण अ-वीत-तृष्णः क्षणात् इव आया-निशा-अवसानः समुत्सुकः लोकः पर-वान् इव स्वप्न-निकेतनेभ्यः दुःखेन अगात्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "With their mutual thirst unquenched, and the night ending as if in a second, the eager people reluctantly left their bedrooms, appearing as if they were under the control of another.",
+    "audio_url": null,
+    "display_order": 17,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20165471,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "अवीतेत्यादि - अथानन्तरं लोकः परस्परेणान्योन्येन दयितो दयितया दयितापि दयितेन अवीततृष्णः अनपगतसंभोगाभिलापः अतएव क्षणादिव द्रुतमिवायातं निशावसानं यस्य । समुत्सुकः उत्कण्ठितः परवानिव पराधीन इव स्वप्ननिकेतनेभ्यः वासगृहेभ्यो दुःखेन अगात् निर्गतवान् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003602,
+    "chapter_id": 6593,
+    "verse_number": "17.75",
+    "content_sanskrit": "इन्दोरगतयः पद्मे सूर्यस्य कुमुऽदेंशवः । गुणास्तस्य विपक्षेऽपि गुणिनो लेभिरेऽन्तरम् ॥",
+    "padaccheda": "इन्दोः । अगतयः । पद्मे । सूर्यस्य । कुमुदे । अंशवः । गुणाः । तस्य । विपक्षे । अपि । गुणिनः । लेभिरे । अन्तरम्",
+    "anvaya": "इन्दोः (अंशवः) पद्मे अगतयः (भवन्ति) । सूर्यस्य अंशवः कुमुदे (अगतयः भवन्ति) । गुणिनः तस्य गुणाः तु विपक्षे अपि अन्तरम् लेभिरे ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The moon's rays cannot open the day-blooming lotus, and the sun's rays cannot open the night-blooming lily. Unlike them, King Atithi's virtues were so pervasive that they found acceptance and made an impact even among his enemies.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003602,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इन्दोरिति॥ इन्दोरंशवः पद्मेऽगतयः। प्रवेशरहिता इत्यर्थः। सूर्यस्यांशवः कुमुदेऽगतयः। गुणिनस्तस्य गुणास्तु विपक्षे शत्रावप्यन्तरमवकाशं लेभिरे प्रापुः ॥"
+    }
+  ]
+}

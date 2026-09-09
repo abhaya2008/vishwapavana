@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003598,
+    "chapter_id": 6593,
+    "verse_number": "17.71",
+    "content_sanskrit": "प्रवृद्धौ हीयते चन्द्रः समुद्रोऽपि तथाविधः । स तु तत्समवृद्धिश्च न चाभूत्ताविव क्षयी ॥",
+    "padaccheda": "प्रवृद्धौ । हीयते । चन्द्रः । समुद्रः । अपि । तथाविधः । सः । तु । तत्समवृद्धिः । च । न । च । अभूत् । तौ । इव । क्षयी",
+    "anvaya": "प्रवृद्धौ चन्द्रः हीयते, समुद्रः अपि तथाविधः (भवति) । सः तु तत्समवृद्धिः च (आसीत्), (किन्तु) तौ इव क्षयी च न अभूत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The moon wanes after reaching its fullness, and the ocean ebbs after reaching its high tide. King Atithi, however, while matching their growth in splendor and power, did not suffer the same decline; his prosperity, once attained, was permanent.",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003598,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रवृद्धाविति॥ प्रवृद्धौ सत्यां चन्द्रो हीयते। समुद्रोऽपि तथाविधश्चन्द्रवदेव प्रवृद्धौ हीयते। `प्रवृद्ध` इति वा पाठः। स राजा तु ताभ्यां चन्द्र-समुद्राभ्यां समा वृद्धिर्यस्य स तत्समवृद्धिश्चाभूत्। तौ चन्द्रसमुद्राविव क्षयी। `जिदृक्षि-` (पा.3।2।157) इत्यादिनेनिप्रत्ययः। नाभूत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005768,
+    "chapter_id": 6629,
+    "verse_number": "17.26",
+    "content_sanskrit": "निजघ्निरे तस्य हरेषुजालैः पतन्ति वृन्दानि शिलीमुखानाम् । ऊर्जस्विभिः सिन्धुमुखागतानि यादांसि यादोभिरिवाम्बुराशेः ॥",
+    "padaccheda": "निजघ्निरे । तस्य । हरेषुजालैः । पतन्ति । वृन्दानि । शिलीमुखानाम् । ऊर्जस्विभिः । सिन्धुमुखागतानि । यादांसि । यादोभिः । इव । अम्बुराशेः",
+    "anvaya": "हरेषुजालैः तस्य पतन्ति शिलीमुखानाम् वृन्दानि निजघ्निरे, ऊर्जस्विभिः अम्बुराशेः यादोभिः सिन्धुमुखागतानि यादांसि इव ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The falling swarms of his (Arjuna's) arrows were destroyed by the volleys of Hara's (Shiva's) arrows, just as swarms of aquatic animals coming from a river's mouth are destroyed by the powerful creatures of the ocean.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005768,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "निजघ्निर इति ॥ हरेषुजालैस्तस्यार्जुनस्य पतन्त्यागच्छन्ति शिलीमुखानां शराणां वृन्दानि । ऊर्जस्विभिः प्रबलैरम्बुराशेर्यादोभिर्जलग्राहैः सिन्धुमुखेन नदीमुखेनागतानि यादांसीव निजघ्निरे हतानि ॥"
+    }
+  ]
+}

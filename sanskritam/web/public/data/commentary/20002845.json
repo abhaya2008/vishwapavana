@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002845,
+    "chapter_id": 6585,
+    "verse_number": "9.40",
+    "content_sanskrit": "हुतहुताशनदीप्ति वनश्रियः प्रतिनिधिः कणकाभरणस्य यत् । युवतयः कुसुमं दधुराहितं तदलके दलकेसरपेशलम् ॥",
+    "padaccheda": "हुतहुताशनदीप्ति । वनश्रियः । प्रतिनिधिः । कणकाभरणस्य । यत् । युवतयः । कुसुमं । दधुः । आहितं । तत् । अलके । दलकेसरपेशलम्",
+    "anvaya": "यत् हुतहुताशनदीप्ति, वनश्रियः कनकाभरणस्य प्रतिनिधिः, दलकेसरपेशलं तत् कुसुमम् युवतयः अलके आहितं दधुः।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Young women wore in their hair-curls that flower (Kimshuka), which glowed like a sacrificial fire. Delicate with its petals and stamens, it served as a substitute for a golden ornament for the beauty of the forest.",
+    "audio_url": null,
+    "display_order": 40,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002845,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हुतेति॥ हुतहुताशनदीप्त्याऽऽज्यादिप्रज्वलिताग्निप्रभं यत्कुसुमम्। कर्णिकारमित्यर्थः। वनश्रिय उपवनलक्ष्म्याः कनकाभरणस्य प्रतिनिधिः। अभूदिति शेषः। दसेषु केसरेषु च पेशलम्, सुकुमारपत्रकिञ्जल्कमित्यर्थः। आहितम्। प्रियैरिति शेषः। तत्कुसुमं युवतयोऽलके कुन्तले दधुः ॥"
+    }
+  ]
+}

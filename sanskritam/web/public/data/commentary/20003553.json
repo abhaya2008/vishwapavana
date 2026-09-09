@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003553,
+    "chapter_id": 6593,
+    "verse_number": "17.26",
+    "content_sanskrit": "नेपथ्यदर्शिनश्छाया तस्यादर्शे हिरण्मये । विरराजोदिते सूर्ये मेरौ कल्पतरोरिव ॥",
+    "padaccheda": "नेपथ्यदर्शिनः । छाया । तस्य । आदर्शे । हिरण्मये । विरराज । उदिते । सूर्ये । मेरौ । कल्पतरोः । इव",
+    "anvaya": "हिरण्मये आदर्शे नेपथ्यदर्शिनः तस्य छाया, सूर्ये उदिते मेरौ कल्पतरोः इव, विरराज।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His reflection, as he observed his attire in the golden mirror, shone brightly, just like the wish-fulfilling tree on Mount Meru when the sun has risen.",
+    "audio_url": null,
+    "display_order": 26,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003553,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नेपथ्येति॥ हिरण्मये सौवर्ण आदर्शे दर्पणे नेपथ्यदर्शिनो वेषं पश्यतस्तस्यातिथेश्छाया प्रतिबिम्बम्। उदिते सूर्ये दर्पणकल्पे मेरौ यः कल्पतरुस्तस्य छायेव। विरराज। तस्य सूर्यसंक्रान्तबिम्बस्य संभवत् `मेरौ`इत्युक्तम् ॥"
+    }
+  ]
+}

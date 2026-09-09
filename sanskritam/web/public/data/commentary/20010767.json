@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010767,
+    "chapter_id": 6677,
+    "verse_number": "5.7",
+    "content_sanskrit": "गंभीरशब्दविश्रावजातप्रस्रावपावनैः । अग्निहोत्रगवीयूथैर्महर्षीणां परिष्कृतम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 7,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010767,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "विश्रावप्रस्रावेति । 'वौ क्षुश्रुवः' (पा.३|३|२५), 'प्रेद्रुस्तुस्रुवः' (पा.३|३|२७) इति च घञ् ।"
+    }
+  ]
+}

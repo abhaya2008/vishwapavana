@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003472,
+    "chapter_id": 6592,
+    "verse_number": "16.33",
+    "content_sanskrit": "तीर्थे तदीये गजसेतुबन्धात्प्रतीपगामुत्तरतोऽस्य गङ्गाम् । अयत्नबालव्यजनीबभूवुर्हंसा नभोलङ्घनलोलपक्षाः ॥",
+    "padaccheda": "तीर्थे । तदीये । गजसेतुबन्धात् । प्रतीपगाम् । उत्तरतः । अस्य । गङ्गाम् । अयत्नबालव्यजनीबभूवुः । हंसाः । नभोलङ्घनलोलपक्षाः",
+    "anvaya": "अस्य तदीये तीर्थे गजसेतुबन्धात् उत्तरतः प्रतीपगाम् गङ्गाम् (प्राप्य) नभोलङ्घनलोलपक्षाः हंसाः अयत्नबालव्यजनीबभूवुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that sacred ford, north of the bridge formed by his elephants, the swans, with wings eager to fly across the sky, effortlessly became like ceremonial fans (chauris) for him as they flew against the current of the Ganga.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003472,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तीर्थ इति॥ तदीये वैन्ध्ये तीर्थेऽवतारे गजा एव सेतुस्तस्य बन्धाद्धेतोः प्रतीपगां पश्चिमवाहिनीं गङ्गामुत्तरतोऽस्य कुशस्य नभोलङ्घनेन लोलपक्षा हंसा अयत्नेन बालव्यजनीबभूवुश्चामराण्यभूवन्। अभूततद्भावे च्विः ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003538,
+    "chapter_id": 6593,
+    "verse_number": "17.11",
+    "content_sanskrit": "नदद्भिः स्निग्धगम्भीरं तूर्यैराहतपुष्करैः । अन्वमीयत कल्याणं तस्याविच्छिन्नसंतति ॥",
+    "padaccheda": "नदद्भिः । स्निग्धगम्भीरम् । तूर्यैः । आहतपुष्करैः । अन्वमीयत । कल्याणम् । तस्य । अविच्छिन्नसंतति",
+    "anvaya": "आहत-पुष्करैः स्निग्ध-गम्भीरम् नदद्भिः तूर्यैः तस्य अविच्छिन्न-सन्तति कल्याणम् अन्वमीयत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "By the musical instruments with their struck drumheads, sounding sweetly and deeply, his future good fortune, ensuring an unbroken lineage, was inferred.",
+    "audio_url": null,
+    "display_order": 11,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003538,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "नदद्भिरिति॥ आहतं पुष्करं मुखं येषां तौ। `पुष्करं करिहस्ताग्रे वाद्यभाण्डमुखेऽपि च` इत्यमरः। स्निग्धां मधुरं गम्भीरं च नदद्भिस्तूर्यैस्तस्यातिथेरविच्छिन्नसंतत्यविच्छिन्नपारंपर्यं कल्याणं भावि शुभमन्वमीयतानुमितम् ॥"
+    }
+  ]
+}

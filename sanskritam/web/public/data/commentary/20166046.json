@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20166046,
+    "chapter_id": 7070,
+    "verse_number": "18.8",
+    "content_sanskrit": "सर्वस्य जायते मानः स्व-हिताच्च प्रमाद्यति । वृद्धौ भजति चाऽपथ्यं नरो येन विनश्यति ॥",
+    "padaccheda": "सर्वस्य । जायते । मानः । स्व-हितात् । च । प्रमाद्यति । वृद्धौ । भजति । च । अ-पथ्यम् । नरः । येन । विनश्यति",
+    "anvaya": "सर्वस्य मानः जायते, स्व-हितात् च प्रमाद्यति । वृद्धौ च अ-पथ्यम् भजति येन नरः विनश्यति ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Pride arises in everyone, leading to negligence toward their own welfare. In times of growth, a person adopts harmful ways, which eventually leads to their destruction.",
+    "audio_url": null,
+    "display_order": 8,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20166046,
+      "commentary_type": "जयमङ्गलाटीका",
+      "author": "",
+      "content": "सर्वस्येत्यादि - प्रायेण वृद्धौ सत्यां सर्वो जनो मानी सञ्जायते वृद्धेश्चित्त- विकारित्वात् । स्वहिताच्च प्रमाद्यति हिताभ्रष्टो भवति । अपथ्यं च भजति सेवते । येनापथ्येन सेवितेन नरो विनश्यति ॥ ।"
+    }
+  ]
+}

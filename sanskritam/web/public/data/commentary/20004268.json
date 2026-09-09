@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004268,
+    "chapter_id": 6603,
+    "verse_number": "8.28",
+    "content_sanskrit": "इत्यभौममनुभूय शङ्करः पार्थिवं च दयितासखः सुखम् । लोहितायति कदाचिदातपे गन्धमादनगिरिं व्यगाहत ॥",
+    "padaccheda": "इति । अभौमम् । अनुभूय । शङ्करः । पार्थिवम् । च । दयितासखः । सुखम् । लोहितायति । कदाचित् । आतपे । गन्धमादनगिरिम् । व्यगाहत",
+    "anvaya": "इति दयितासखः शङ्करः अभौमम् पार्थिवम् च सुखम् अनुभूय, कदाचित् आतपे लोहितायति सति, गन्धमादनगिरिम् व्यगाहत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Thus Shankara, accompanied by his beloved, having experienced both celestial and earthly pleasures, once resorted to the Gandhamadana mountain when the sunlight was turning red at sunset.",
+    "audio_url": null,
+    "display_order": 28,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004268,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इतीति । इतीत्थं शंकरो वनितासखः सन् भूमौ भवं भौमम् न भौममभौमं दिव्यं, पृथिव्यां भवं पार्थिवं च सुखमनुभूय कदाचिदातपे लोहितायति लोहितवर्णे भवति । अस्तंगते सवितरीत्यर्थः । `लोहितादिडाज्भ्यः क्यष्` (पा.3|1|13) इति क्यष्प्रत्ययः । गन्धमादनगिरिं व्यगाहत । पर्वतमुद्दिश्य इत्यर्थः । उद्देशक्रियां प्रति गिरेः कर्मत्वम् । यथाह भाष्यकारः"
+    }
+  ]
+}

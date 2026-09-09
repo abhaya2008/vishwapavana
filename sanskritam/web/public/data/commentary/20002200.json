@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002200,
+    "chapter_id": 6577,
+    "verse_number": "1.51",
+    "content_sanskrit": "सेकान्ते मुनिकन्याभिस्तत्क्षणोज्झितवृक्षकम् । विश्वासाय विहंगानामालवालाम्बुपायिनाम् ॥",
+    "padaccheda": "सेकान्ते । मुनिकन्याभिः । तत्क्षणोज्झितवृक्षकम् । विश्वासाय । विहंगानाम् । आलवालाम्बुपायिनाम्",
+    "anvaya": "सेक-अन्ते मुनि-कन्याभिः तत्-क्षण-उज्झित-वृक्षकम् आलवाल-अम्बु-पायिनाम् विहंगानाम् विश्वासाय ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The daughters of the sages had just finished watering the saplings and moved away. This was done to give confidence to the birds, allowing them to drink freely from the water-basins without any fear.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002200,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सेकान्ते इति॥ सेकान्ते वृक्षमूलसेचनावसाने मुनिकन्याभिः सेक्त्रीभिः। आलवालेषु जलावापप्रदेशेषु यदम्बु तत्पायिनाम्। `स्यादालवालमावालमावापः` इत्यमरः (अ.को.1|10|29)। विहंगानां पक्षिणां विश्वासाय विश्रम्भाय। `समौ विश्रम्भविश्वासौ` इत्यमरः (अ.को.1|10|29)। तत्क्षणे सेकक्षण उज्झिता वृक्षका ह्रस्ववृक्षा यस्मिंस्तम्। ह्रस्वार्थे कप्रत्ययः ॥"
+    }
+  ]
+}

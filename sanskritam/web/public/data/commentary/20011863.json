@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011863,
+    "chapter_id": 6686,
+    "verse_number": "14.87",
+    "content_sanskrit": "स तामित्थमथोवाद त्याज्या लज्जा त्वयाऽधुना । दूने यथाहं मारेण तथैव त्वमपि ध्रुवम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 87,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011863,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "उवादेति वदेर्यजादेर्लिटि णलि रूपम् । त्याज्या लज्जाऽधुना त्वयेति । प्राप्तकाले कृत्यः ॥"
+    }
+  ]
+}

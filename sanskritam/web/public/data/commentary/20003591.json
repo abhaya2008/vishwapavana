@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003591,
+    "chapter_id": 6593,
+    "verse_number": "17.64",
+    "content_sanskrit": "वापीष्विव स्रवन्तीषु वनेषूपवनेष्विव । सार्थीः स्वैरं स्वकीयेषु चेरुर्वेश्मस्विवाद्रिषु ॥",
+    "padaccheda": "वापीषु । इव । स्रवन्तीषु । वनेषु । उपवनेषु । इव । सार्थाः । स्वैरम् । स्वकीयेषु । चेरुः । वेश्मसु । इव । अद्रिषु",
+    "anvaya": "सार्थाः स्वकीयेषु वेश्मसु इव अद्रिषु, उपवनेषु इव वनेषु, वापीषु इव स्रवन्तीषु स्वैरम् चेरुः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Under King Atithi's rule, caravans moved with such freedom and safety that they treated the mountains as their own homes, the forests as gardens, and the rivers as step-wells.",
+    "audio_url": null,
+    "display_order": 64,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003591,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वापीष्विति॥ स्रवन्तीषु नदीषु वापीषु दीर्घिकास्वव। `वापी तु दीर्घिका` इत्यमरः (अ.को.1|10|28)। वनेष्वरण्येषु। उपवनेष्वारमेष्विव। `आरामः स्यादुपवनम्` इत्यमरः (अ.को.1|10|28)। अद्रिषु स्वकीयेषु वेश्मस्विव। सार्था वणिक्प्रभृतयः स्वैरं स्वेच्छया चेरुश्चरन्ति स्म ॥"
+    }
+  ]
+}

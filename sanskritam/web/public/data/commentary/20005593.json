@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005593,
+    "chapter_id": 6626,
+    "verse_number": "14.33",
+    "content_sanskrit": "तिरोहितश्वभ्रनिकुञ्चरोधसः समश्नुवानाः सहसातिरिक्तताम् । किरातसैन्यैरपिधाय रेचिता भुवः क्षणं निम्नतयेव भेजिरे ॥",
+    "padaccheda": "तिरोहितश्वभ्रनिकुञ्चरोधसः । समश्नुवानाः । सहसा । अतिरिक्तताम् । किरातसैन्यैः । अपिधाय । रेचिताः । भुवः । क्षणम् । निम्नतया । इव । भेजिरे",
+    "anvaya": "किरातसैन्यैः अपिधाय रेचिताः तिरोहितश्वभ्रनिकुञ्चरोधसः भुवः सहसा अतिरिक्ततां समश्नुवानाः (सत्यः) क्षणं निम्नतया इव भेजिरे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The grounds, having been covered and then suddenly vacated by the Kirata armies, seemed for a moment to have become depressions. As the armies moved, the pits, thickets, and banks they had concealed became visible, making the newly emptied lands appear sunken by comparison.",
+    "audio_url": null,
+    "display_order": 33,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005593,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तिरोहितेति ॥ किरातसैन्यैस्तिरोहितानि च्छन्नानि श्वभ्रनिकुञ्जरोधांसि गर्तकुञ्जतटानि यासां ताः। अतएच भुवः प्रदेशाः सहसातिरिक्ततामुत्तानतां समश्नुवाना आप्नु वत्यः। तथा अपिधायाच्छाद्य रेचिता रिक्तीकृता मुक्ताः क्षणं निम्नतया गाम्भीर्येण भेजिर इव प्राप्ता इवेत्युत्प्रेक्षा । सैन्यैर्या भुवो व्याप्तास्ता उत्तानाः प्रतीयन्ते । तैर्मुक्तास्ता एव निम्नाः प्रतीयन्त इत्यर्थः ।।"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003285,
+    "chapter_id": 6590,
+    "verse_number": "14.36",
+    "content_sanskrit": "स संनिपात्यावरजान्हतौजास्तद्विक्रियादर्शनलुप्तहर्षान् । कौलीनमात्माश्रयमाचचक्षे तेभ्यः पुनश्चेदमुवाच वाक्यम् ॥",
+    "padaccheda": "सः । संनिपात्य । अवरजान् । हतौजाः । तद्विक्रियादर्शनलुप्तहर्षान् । कौलीनम् । आत्माश्रयम् । आचचक्षे । तेभ्यः । पुनः । च । इदम् । उवाच । वाक्यम्",
+    "anvaya": "हत-ओजाः सः तत्-विक्रिया-दर्शन-लुप्त-हर्षान् अवरजान् संनिपात्य तेभ्यः आत्म-आश्रयम् कौलीनम् आचचक्षे, पुनः च इदम् वाक्यम् उवाच।",
+    "meaning_sanskrit": "",
+    "meaning_english": "His vigor diminished, he summoned his younger brothers, whose joy had vanished upon seeing his distress. He related to them the scandal concerning himself and then spoke these words.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003285,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ हतौजा निस्तेजस्कः स रामस्तस्य रामस्य विक्रियादर्शनेन लुप्तहर्षानवरजान् संनिपात्य संगमय्य। आत्माश्रयं स्वविषयकं कौलीनं निन्दां तेभ्य आचचक्षे। पुनरिदं वाक्यमुवाच ॥"
+    }
+  ]
+}

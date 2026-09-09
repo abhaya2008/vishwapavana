@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002835,
+    "chapter_id": 6585,
+    "verse_number": "9.30",
+    "content_sanskrit": "सुवदनावदनासवसंभृतस्तदनुवादिगुणः कुसुमोद्गमः । मधुकरैरकरोन्मधुलोलुपैर्बकुलमाकुलमायतपङ्क्तिभिः ॥",
+    "padaccheda": "सुवदनावदनासवसंभृतः । तदनुवादिगुणः । कुसुमोद्गमः । मधुकरैः । अकरोत् । मधुलोलुपैः । बकुलम् । आकुलम् । आयतपङ्क्तिभिः",
+    "anvaya": "सुवदनावदनासवसंभृतः तदनुवादिगुणः कुसुमोद्गमः मधुलोलुपैः आयतपङ्क्तिभिः मधुकरैः बकुलम् आकुलम् अकरोत्।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The blossoming of the Bakula flowers, which possessed a fragrance imitating the wine-like breath of a beautiful woman, caused the Bakula tree to be thronged by long rows of bees greedy for its nectar.",
+    "audio_url": null,
+    "display_order": 30,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002835,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "सुवदनेति॥ सुवदनावदनासवेन कान्तामुखमद्येन संभृतो जनितः। तत्तस्य दोहदमिति प्रसिद्धिः। तस्यासवस्यानुवादी सदृशो गुणो यस्य तदनुवादिगुणः कुसुमोद्गमः कर्ता मधुलोलुपैरायतपङ्क्तिभिर्दीर्घपङ्क्तिभिर्मधुकरैर्मधुपैः करणैः बकुलं बकुलवृक्षमाकुलमकरोत् ॥"
+    }
+  ]
+}

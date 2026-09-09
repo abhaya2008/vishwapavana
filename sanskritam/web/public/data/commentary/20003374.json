@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003374,
+    "chapter_id": 6591,
+    "verse_number": "15.38",
+    "content_sanskrit": "वशी विवेश चायोध्यां रथ्यासंस्कारशोभिनीम् । लवणस्य वधात्पौरैरीक्षितोऽत्यन्तगौरवम् ॥",
+    "padaccheda": "वशी । विवेश । च । अयोध्याम् । रथ्यासंस्कारशोभिनीम् । लवणस्य । वधात् । पौरैः । ईक्षितः । अत्यन्तगौरवम्",
+    "anvaya": "वशी सः लवणस्य वधात् पौरैः अत्यन्तगौरवम् ईक्षितः सन् रथ्यासंस्कारशोभिनीम् अयोध्याम् च विवेश।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The self-controlled Shatrughna, regarded with immense respect by the citizens for slaying Lavana, entered Ayodhya, which was splendid with its well-adorned streets.",
+    "audio_url": null,
+    "display_order": 38,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003374,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "वशीति॥ वशी स लवणस्य वधाद्धेतोः पौरैः पौरजनैरत्यन्तं गौरवं यस्मिन्कर्मणि तत्तथेक्षितः सन्। रथ्यासंस्कारैस्तोरणादिभिः शोभते या तामयोध्यां विवेश च ॥"
+    }
+  ]
+}

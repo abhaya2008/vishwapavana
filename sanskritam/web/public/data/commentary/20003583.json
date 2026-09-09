@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003583,
+    "chapter_id": 6593,
+    "verse_number": "17.56",
+    "content_sanskrit": "शक्येष्वेवाभवद्यात्रा तस्य शक्तिमतः सतः । समीरणसहायोऽपि नाम्भःप्रार्थी दवानलः ॥",
+    "padaccheda": "शक्येषु । एव । अभवत् । यात्रा । तस्य । शक्तिमतः । सतः । समीरणसहायः । अपि । न । अम्भःप्रार्थी । दवानलः",
+    "anvaya": "शक्तिमतः सतः अपि तस्य यात्रा शक्येषु एव अभवत् । समीरण-सहायः अपि दव-अनलः अम्भः-प्रार्थी न (भवति) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Although he was powerful, his military expeditions were directed only against those who could be conquered. A forest fire, even with the wind as its ally, does not seek to consume water.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003583,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "शक्येष्विति॥ शक्तिमतः शक्तिसंपन्नस्यापि सतस्तस्य राज्ञः शक्येषु शक्तिविषयेषु स्वस्माद्धीनबलेष्वेव विषये यात्रा दण्डयात्राऽभवत्। न तु समधिकेष्वित्यर्थः। तथा हि-समीरणसहायोऽपि दवानलोऽम्भः प्रार्थी जलान्वेषी न। दग्धुमिति शेषः। किंतु तृणकाष्ठादिकमेवान्विष्यतीत्यर्थः । अत्र कौटिल्यः- `समज्यायोभ्यां संदधीत, हीनेन विगृह्णीयत्` इति ॥"
+    }
+  ]
+}

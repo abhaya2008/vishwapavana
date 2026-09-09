@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002948,
+    "chapter_id": 6586,
+    "verse_number": "10.61",
+    "content_sanskrit": "हेमपक्षप्रभाजालं गगने च वितन्वता । उह्यन्ते स्म सुपर्णेन वेगाकृष्टपयोमुचा ॥",
+    "padaccheda": "हेमपक्षप्रभाजालम् । गगने । च । वितन्वता । उह्यन्ते । स्म । सुपर्णेन । वेगाकृष्टपयोमुचा",
+    "anvaya": "च गगने हेम-पक्ष-प्रभा-जालं वितन्वता वेग-आकृष्ट-पयोमुचा सुपर्णेन (ताः) उह्यन्ते स्म।",
+    "meaning_sanskrit": "",
+    "meaning_english": "And in their dreams, they were being carried by Garuda, who spread a web of radiance from his golden wings in the sky and who drew along the clouds with his speed.",
+    "audio_url": null,
+    "display_order": 61,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002948,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "हेमेति॥ किंचेति चार्थः। हेम्नः सुवर्णस्य पक्षाणां प्रभाजालं कान्तिपुञ्जं वितन्वता विस्तारयता। वेगेनाकृष्टाः पयोमुचो मेघा येन तेन। सुपर्णेन गरुत्मता गरुडेन गगने ता उह्यन्ते स्मोढाः ॥"
+    }
+  ]
+}

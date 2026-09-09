@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012075,
+    "chapter_id": 6688,
+    "verse_number": "16.82",
+    "content_sanskrit": "स्मर्तुं कुन्ती नैव नस्ते प्रदात्री श्वश्रूरुच्चैर्वत्सलान्येव माता । प्रक्रीडन्त्या वासवप्रस्थपुर्यामप्येवं ते मानसस्था भवाम ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 82,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012075,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "कुन्ती तवास्माकं स्मरणं नैव प्रदास्यतीत्यर्थः । तच्छीलादिषु तृन् (पा.३|२|१३५) । भवामेति प्रार्थने लोट् ॥"
+    }
+  ]
+}

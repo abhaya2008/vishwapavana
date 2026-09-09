@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010794,
+    "chapter_id": 6677,
+    "verse_number": "5.34",
+    "content_sanskrit": "समिद्धोमपरा दण्डैर्वरपुष्पग्रहार्थिनः । वर्णिनो नमयन्त्येते विटपाग्राणि भूरुहाम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 34,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010794,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "वरग्रहशब्दौ 'ग्रहवृदृनिश्चिगमश्च' (पा.३|३|५८) इति अबन्तौ ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003300,
+    "chapter_id": 6590,
+    "verse_number": "14.51",
+    "content_sanskrit": "गुरोर्नियोगाद्वनितां वनान्ते साध्वीं सुमित्रातनयो विहास्यन् । अवार्यतेवोत्थितवीचिहस्तैर्जह्नोर्दुहित्रा स्थितया पुरस्तात् ॥",
+    "padaccheda": "गुरोः । नियोगात् । वनितां । वनान्ते । साध्वीं । सुमित्रातनयः । विहास्यन् । अवार्यत । इव । उत्थितवीचिहस्तैः । जह्नोः । दुहित्रा । स्थितया । पुरस्तात्",
+    "anvaya": "गुरोः नियोगात् वनान्ते साध्वीम् वनिताम् विहास्यन् सुमित्रा-तनयः, पुरस्तात् स्थितया उत्थित-वीचि-हस्तैः जह्नोः दुहित्रा इव अवार्यत।",
+    "meaning_sanskrit": "",
+    "meaning_english": "As Lakshmana, son of Sumitra, was about to abandon the virtuous lady at the forest's edge due to his elder's command, he was, as it were, being prevented by the river Ganga, situated before him, with her raised waves for hands.",
+    "audio_url": null,
+    "display_order": 51,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003300,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "गुरोरिति॥ गुरोर्ज्येष्टस्य नियोगात्साध्वीं वनिताम्। अत्याज्यामित्यर्थः। वनान्ते विहास्यंस्त्यक्ष्यन् सुमित्रातनयो लक्ष्मणः पुरस्तादग्रे स्थितया जह्नोर्दुहित्रा जाह्नव्योत्थितैर्वीचिहस्तैरवार्यतेव । `अकार्यं मा कुरु` इत्यवार्यतेव इत्युत्प्रेक्षा ॥"
+    }
+  ]
+}

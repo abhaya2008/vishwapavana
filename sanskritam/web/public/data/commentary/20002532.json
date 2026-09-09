@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002532,
+    "chapter_id": 6581,
+    "verse_number": "5.55",
+    "content_sanskrit": "इक्ष्वाकुवंशप्रभवो यदा ते भेत्स्यत्यजः कुम्भमयोमुखेन । संयोक्ष्यसे स्वेन वपुर्महिम्ना तदेत्यवोचत्स तपोनिधिर्माम् ॥",
+    "padaccheda": "इक्ष्वाकुवंशप्रभवः । यदा । ते । भेत्स्यति । अजः । कुम्भम् । अयोमुखेन । संयोक्ष्यसे । स्वेन । वपुर्महिम्ना । तदा । इति । अवोचत् । सः । तपोनिधिः । माम्",
+    "anvaya": "यदा इक्ष्वाकुवंशप्रभवः अजः अयोमुखेन ते कुम्भं भेत्स्यति, तदा स्वेन वपुर्महिम्ना संयोक्ष्यसे, इति सः तपोनिधिः माम् अवोचत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That sage, a treasure of penance, told me: 'When Aja, born in the Ikshvaku dynasty, shatters your forehead with an iron-tipped arrow, then you will be reunited with the glory of your own body.'",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002532,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "इक्ष्वाक्विति॥ इक्ष्वाकुवंशः प्रभवो यस्य सोऽजो यदा ते कुम्भमयोमुखेन लोहाग्रेण शरेण भेत्स्यति विदारयिष्यति तदा स्वेन वपुषो महिम्ना पुनः संयोक्ष्यसे संगंस्यस इति स तपोनिधिर्मामवोचत् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013255,
+    "chapter_id": 6699,
+    "verse_number": "7.41",
+    "content_sanskrit": "मीमांसकानामपि मुख्यभूतो वेत्थाखिलव्याकरणानि विद्वन् । विनिःसरेत्ते वदनाद्यतीन्दो गोविन्दशिष्यस्य कथं दुरुक्तम् ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 41,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013255,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "तत्र हेतुमाह । मीमांसकानामपीति । वेत्थ जानासि । उपजातिवृत्तम् ॥ ४२ ॥"
+    }
+  ]
+}

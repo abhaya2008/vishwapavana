@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002199,
+    "chapter_id": 6577,
+    "verse_number": "1.50",
+    "content_sanskrit": "आकीर्णऋषिपत्नीनामुटजद्वाररोधिभिः । अपत्यैरिव नीवारभागधेयोचितैर्मृगैः ॥",
+    "padaccheda": "आकीर्णम् । ऋषिपत्नीनाम् । उटजद्वाररोधिभिः । अपत्यैरिव । नीवारभागधेयोचितैः । मृगैः",
+    "anvaya": "उटज-द्वार-रोधिभिः नीवार-भाग-धेय-उचितैः अपत्यैः इव मृगैः आकीर्ण-ऋषि-पत्नीनाम् (आश्रमम्) ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The dwellings of the sages' wives were crowded with deer that blocked the cottage doors. These animals, treated like beloved children, were accustomed to receiving their regular share of wild nīvāra grains.",
+    "audio_url": null,
+    "display_order": 50,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002199,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "आकीर्णमिति॥ नीवाराणां भाग एव भागधेयोंऽशः। `रूपनामभागेभ्यो धेयप्रत्ययो वक्तव्यः`(वा.3330) इति वक्तव्यसूत्रात्स्वाभिधेये धेयप्रत्ययः, तस्योचितैः। अत एव, घटजानां पर्णशालानां द्वाररोधिभिर्द्वाररोधकैर्मृगैः। ऋषिपत्नीनामपत्यैरिव आकीर्णं व्याप्तम् ॥"
+    }
+  ]
+}

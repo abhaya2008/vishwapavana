@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010838,
+    "chapter_id": 6677,
+    "verse_number": "5.78",
+    "content_sanskrit": "गृहेषु गृहिणां स्वेषु कुरुध्वे कच्चिदासनाम् । निशितायुधसंघातहतनिश्शेषकण्टकाः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 78,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010838,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आसनामिति । ण्यासेति (पा.३|३|१०७) युच् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011129,
+    "chapter_id": 6680,
+    "verse_number": "8.15",
+    "content_sanskrit": "कच्चित्सामाजिका विप्रा दोषान्न गणयन्ति वः । शाब्दिकाद्या बुधाः कच्चिन्महीयन्ते गृहेषु वः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 15,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011129,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सामाजिकास्सामवयिकाः। 'समवायान् समवैति' (पा.४|४|४३) इति ठक्। शाब्दिकाशब्दकृतः। 'शब्ददर्दुरं करोति' (पा.४|४|३४)। इति ठक् ॥"
+    }
+  ]
+}

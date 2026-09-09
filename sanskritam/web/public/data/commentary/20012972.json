@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012972,
+    "chapter_id": 6697,
+    "verse_number": "5.36",
+    "content_sanskrit": "अथ जातु दिदृक्षवः कला- ववतीर्णं मुनयः पुरद्विषम् । उपमन्युदधीचिगौतम- त्रितलागस्त्यमुखाः समाययुः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012972,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "अथानन्तरं जातु कदाचित्त्रिपुरघ्नं महादेवं कलियुगे श्रीशंकरात्मनाऽवतीर्णं द्रष्टुमिच्छव उपमन्युप्रमुखा मुनयः समाययुः ॥ ३६ ॥"
+    }
+  ]
+}

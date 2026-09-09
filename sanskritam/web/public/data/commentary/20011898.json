@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011898,
+    "chapter_id": 6686,
+    "verse_number": "14.122",
+    "content_sanskrit": "पुत्रवन्मित्रवच्चेन्द्रमुपेन्द्रो भृत्यवत्तथा । आत्मनैव समानर्च लोकपालैस्सहाखिलैः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 122,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011898,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "तेन तुल्यं क्रिया चेद्वतिः (पा.५|१|११५) । पुत्रादिरिवेत्यथः । आत्मनेति स्वयमर्थेऽव्ययम् । लोकपालैस्सहेति । लोकपालांश्चेत्यर्थः ॥"
+    }
+  ]
+}

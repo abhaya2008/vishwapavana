@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011338,
+    "chapter_id": 6681,
+    "verse_number": "9.90",
+    "content_sanskrit": "मालाविभूषितस्कन्धास्सर्वाङ्गीणार्द्रचन्दनाः । सकामिनीकास्सर्वत्र विलेसुः पुरिकामिनः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 90,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011338,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "सकामिनीका इति 'नद्यृतश्च' (पा.५|४|१५३) इति कप् ॥"
+    }
+  ]
+}

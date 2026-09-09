@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20013931,
+    "chapter_id": 6706,
+    "verse_number": "14.2",
+    "content_sanskrit": "स क्षेत्रवासो निकटे गुरोर्यो वासस्तदीयाङ्घ्रिजलं च तीर्थम् । गुरूपदेशेन यदात्मदृष्टिः सैव प्रशस्ताऽखिलदेवदृष्टिः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20013931,
+      "commentary_type": "डिण्डिमटीका (धनपतिसूरिः)",
+      "author": "",
+      "content": "एवं प्रार्थितो गुरुरुवाच । गुरोर्निकटे यो वासः स एव क्षेत्रवासः ॥ २ ॥"
+    }
+  ]
+}

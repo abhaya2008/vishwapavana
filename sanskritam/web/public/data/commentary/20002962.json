@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002962,
+    "chapter_id": 6586,
+    "verse_number": "10.75",
+    "content_sanskrit": "दशाननकिरीटेभ्यस्तत्क्षणं राक्षसश्रियः । मणिव्याजेन पर्यस्ताः पृथिव्यामश्रुबिन्दवः ॥",
+    "padaccheda": "दशाननकिरीटेभ्यः । तत्क्षणम् । राक्षसश्रियः । मणिव्याजेन । पर्यस्ताः । पृथिव्याम् । अश्रुबिन्दवः",
+    "anvaya": "तद्क्षणम् दशाननकिरीटेभ्यः राक्षसश्रियः अश्रुबिन्दवः मणिव्याजेन पृथिव्याम् पर्यस्ताः ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "At that very moment, the gems falling from the crowns of Rāvaṇa onto the earth appeared to be the teardrops of the Royal Fortune of the demons, foreboding their coming destruction.",
+    "audio_url": null,
+    "display_order": 75,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002962,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "दशाननेति॥ तत्क्षणं तस्मिन्क्षणे रामोत्पत्तिसमये राक्षसश्रियोऽश्रुबिन्दवो दशाननकिरीटेभ्यो मणीनां व्याजेन मिषेण पृथिव्यां पर्यस्ताः पतिताः। रामोदये सति तद्वध्यस्य रावणस्य किरीटमणिभ्रंशलक्षणं दुर्निमित्तमभूदित्यर्थः ॥"
+    }
+  ]
+}

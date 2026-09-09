@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003046,
+    "chapter_id": 6587,
+    "verse_number": "11.73",
+    "content_sanskrit": "अन्यदा जगति राम इत्ययं शब्द उञ्चरित एव मामगात् । व्रीडमावहति मे स संप्रति व्यास्तवृत्तिरुदयोन्मुखे त्वयि ॥",
+    "padaccheda": "अन्यदा । जगति । राम । इति । अयम् । शब्दः । उच्चरितः । एव । माम् । अगात् । संप्रति । उदयोन्मुखे । त्वयि । सः । व्यास्तवृत्तिः । मे । व्रीडम् । आवहति",
+    "anvaya": "अन्यदा जगति राम इति अयं शब्दः उच्चरितः एव माम् अगात् । संप्रति उदयोन्मुखे त्वयि सः व्यास्तवृत्तिः मे व्रीडम् आवहति ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "In the past, the name 'Rāma' uttered in the world referred only to Paraśurāma. However, now that the young Rāma is rising in fame, the name has a divided application, referring to both of them. Paraśurāma expressed that this shared identity brings him a sense of shame, as his once-unique name and the glory associated with it are now being shared with another.",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003046,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अन्यदेति॥ अन्यदाऽन्यस्मिन्काले जगति राम इत्ययं शब्द उञ्चरितः सन् मामेवागात्। संप्रति त्वय्युदयोन्मुखे सति व्यस्तवृत्तिर्विपरीतवृत्तिः। अन्यगामीति यावत्। स शब्दो मे व्रीडमावहति लज्जां करोति ॥"
+    }
+  ]
+}

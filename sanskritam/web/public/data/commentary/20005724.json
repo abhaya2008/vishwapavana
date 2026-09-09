@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005724,
+    "chapter_id": 6628,
+    "verse_number": "16.46",
+    "content_sanskrit": "दरीमुखैरासवरागताम्रं विकासि रुक्मच्छदधाम पीत्वा । जवानिलाघूर्णितसानुजालो हिमाचलः क्षीब इवाचकम्पे ॥",
+    "padaccheda": "दरीमुखैः । आसवरागताम्रम् । विकासि । रुक्मच्छदधाम । पीत्वा । जवानिलाघूर्णितसानुजालः । हिमाचलः । क्षीबः । इव । आचकम्पे",
+    "anvaya": "हिमाचलः दरी-मुखैः आसव-राग-ताम्रम् विकासि रुक्म-छद-धाम पीत्वा, जव-अनिल-आघूर्णित-सानु-जालः (सन्) क्षीबः इव आचकम्पे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The Himalaya mountain, having drunk with its cave-mouths the expanding splendor of the golden-winged Garudas, which was red like the color of liquor, and having its network of peaks shaken by the swift wind, trembled as if intoxicated.",
+    "audio_url": null,
+    "display_order": 46,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005724,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "दरीति॥जवानिलेनाघूर्णितानि भ्रमितानि सानुजालानि यस्य स हिमाचलः।आसवस्य रागो रक्तता तद्वत्ताम्राम् । गुणयोरेवोपमानोपमेयभावः । विकासि विकस्वरं रुक्मच्छदाः सुवर्णपक्षास्तार्क्ष्यास्तेषां धाम तेजो दरीभिर्मुखैरिव दरीमुखैः पीत्वा क्षीबो मत्त इवाचकम्प आचचाल । उपमाव्यापितेयमुत्प्रेक्षा ॥"
+    }
+  ]
+}

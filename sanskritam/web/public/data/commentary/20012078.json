@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20012078,
+    "chapter_id": 6688,
+    "verse_number": "16.85",
+    "content_sanskrit": "ब्राह्मणैर्गुणवदन्नतर्पितैः पाण्डवैः पुरमिमामुपागतैः । वर्णितैस्तव गुणैश्श्रुतैर्वयं प्रत्यहं प्रमदमश्नुवामहे ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 85,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20012078,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "प्रार्थनायामाशिषि वा लोट् । अशू व्याप्तौ । स्वादिरनुदात्तेत् । 'एत ऐ' (पा.३|४|९३) । आटः (पा.३|४|११०) पित्त्वाद्गुणः ॥"
+    }
+  ]
+}

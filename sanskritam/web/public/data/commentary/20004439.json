@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004439,
+    "chapter_id": 6605,
+    "verse_number": "10.56",
+    "content_sanskrit": "अक्षमा दुर्वहं वोढुमम्बुनो बहिरातुराः । अग्निं ज्वलन्तमन्तस्ता दधाना इव निर्ययुः ॥",
+    "padaccheda": "अक्षमाः । दुर्वहम् । वोढुम् । अम्बुनः । बहिः । आतुराः । अग्निम् । ज्वलन्तम् । अन्तः । ताः । दधानाः । इव । निर्ययुः",
+    "anvaya": "अम्बुनः बहिः दुर्वहं वोढुम् अक्षमाः आतुराः ताः अन्त ज्वलन्तम् अग्निं दधानाः इव निर्ययुः ॥",
+    "meaning_sanskrit": "",
+    "meaning_english": "Unable to carry that unbearable burden, the distressed Kṛttikās emerged from the water appearing as if they were carrying a blazing fire within them.",
+    "audio_url": null,
+    "display_order": 56,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004439,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अक्षमा इति । दुर्वहं दुर्धरं तद्धाम वोढुमक्षमा अत एवातुरा व्याकुलास्ताः कृत्तिकाः । अन्तर्मध्ये ज्वलन्तमग्निमिव दधानाः सत्योऽम्बुनो जलाद्वहिर्निर्ययुः । निर्जग्मुरित्यर्थः । अत्र धामन्यग्नित्वेनोत्प्रेक्षणादुत्प्रेक्षा"
+    }
+  ]
+}

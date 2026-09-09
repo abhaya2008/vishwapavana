@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011220,
+    "chapter_id": 6680,
+    "verse_number": "8.106",
+    "content_sanskrit": "वदन्तीमिति तां पार्थः प्रीतिमानानुकीलिकीम् । अनुगृह्णन् मृदुस्मित्वा प्रत्युवाच विचक्षणः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 106,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011220,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आनुकूलिकीमिति । अनुकूलं वर्तमानाम् । 'तत्प्रत्यनुपूर्वमीपलोमकूलम्' (पा.४|४|२८) इति ठक् ॥"
+    }
+  ]
+}

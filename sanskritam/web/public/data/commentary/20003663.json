@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003663,
+    "chapter_id": 6595,
+    "verse_number": "19.2",
+    "content_sanskrit": "तत्र तीर्थसलिलेन दीर्घिकास्तल्पमन्तरितभूमिभिः कुशैः । सौधवासमुटजेन विस्मृतः संचिकाय फलनिःस्पृहस्तपः ॥",
+    "padaccheda": "तत्र । तीर्थसलिलेन । दीर्घिकाः । तल्पम् । अन्तरितभूमिभिः । कुशैः । सौधवासम् । उटजेन । विस्मृतः । संचिकाय । फलनिःस्पृहः । तपः",
+    "anvaya": "तत्र फल-निःस्पृहः (सः) तीर्थ-सलिलेन दीर्घिकाः, अन्तरित-भूमिभिः कुशैः तल्पम्, उटजेन सौध-वासम् (च) विस्मृतः (सन्) तपः संचिकाय।",
+    "meaning_sanskrit": "",
+    "meaning_english": "There, indifferent to rewards, he accumulated penance. He forgot his pleasure-ponds by using holy water from sacred sites, his bed by using Kuśa grass spread on the ground, and his palace-dwelling by living in a hut of leaves.",
+    "audio_url": null,
+    "display_order": 2,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003663,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "तत्रेति॥ तत्र नैमिषे तिर्थसलिलेन दीर्घिका विहारवापीरन्तरितभूमिभिः कुशैस्तल्पं शय्यामुटजेन पर्णशालया सौधवासं विस्मृतो विस्मृतवान्सः। कर्तरि क्तः। फले स्वर्गादिफले निःस्पृहस्तपः संचिकाय संचितवान् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20002781,
+    "chapter_id": 6584,
+    "verse_number": "8.71",
+    "content_sanskrit": "अथ तस्य कथंचिदङ्कतः स्वजनस्तामपनीय सुन्दरीम् । विससर्ज तदन्त्यमण्डनामनलायागुरुचन्दनैधसे ॥",
+    "padaccheda": "अथ । तस्य । कथञ्चित् । अङ्कतः । स्वजनः । ताम् । अपनिय । सुन्दरीम् । विससर्ज । तदन्त्यमण्डनाम् । अनलाय । अगुरुचन्दनैधसे",
+    "anvaya": "अथ स्वजनः तस्य अङ्कतः ताम् सुन्दरीम् कथञ्चित् अपनीय, तत् अन्त्यमण्डनाम् अगुरुचन्दनैधसे अनलाय विससर्ज ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"Then, his kinsmen, with some difficulty, removed the beautiful lady, who was now adorned for her final rites, from his lap and consigned her to the fire fueled with aloe and sandalwood.\"",
+    "audio_url": null,
+    "display_order": 71,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20002781,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "अथेति॥ अथ स्वजनो बन्धुवर्गः। तस्याजस्याङ्कत उत्सङ्गात् कथंचिदपिनीय। तद्दिव्यकुसुममेवान्त्यं मण्डनमलंकारो यस्यास्ताम्। तां सुन्दरीमगुरूणि चन्दनान्येधांसीन्धनानि यस्य तस्मा अनलायाग्नये विससर्ज विसृष्टवान्। `क्रियाग्रहणमपि कर्तव्यम्` इति क्रियामात्रप्रयोगे संप्रदानत्वाञ्चतुर्थी ॥"
+    }
+  ]
+}

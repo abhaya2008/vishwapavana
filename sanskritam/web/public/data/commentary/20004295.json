@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004295,
+    "chapter_id": 6603,
+    "verse_number": "8.55",
+    "content_sanskrit": "यामिनीदिवससन्धिसम्भवे तेजसि व्यवहिते सुमेरुणा । एतदन्धतमसं निरङ्कुशं दिक्षु दीर्घनयने विजृम्भते ॥",
+    "padaccheda": "यामिनीदिवससन्धिसम्भवे । तेजसि । व्यवहिते । सुमेरुणा । एतत् । अन्धतमसम् । निरङ्कुशम् । दिक्षु । दीर्घनयने । विजृम्भते",
+    "anvaya": "दीर्घनयने! यामिनीदिवससन्धिसम्भवे तेजसि सुमेरुणा व्यवहिते सति, एतत् निरङ्कुशम् अन्धतमसम् दिक्षु विजृम्भते।",
+    "meaning_sanskrit": "",
+    "meaning_english": "\"O long-eyed one! As the light born from the union of night and day is obstructed by Mount Sumeru, this unrestrained, profound darkness spreads widely in all directions.\"",
+    "audio_url": null,
+    "display_order": 55,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004295,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "यामिनीति । यामिनीदिवसयोः संधिः संध्या तत्र संभवे तेजसि संध्यारागे सुमेरुणा व्यवहिते सति हे दीर्घनयने ! एतदन्धतमसम् । `अवसमन्धेभ्यस्तमसः` (पा.5|4|79) इति समासान्तः । दिक्षु निरङ्कुशं विजृम्भते"
+    }
+  ]
+}

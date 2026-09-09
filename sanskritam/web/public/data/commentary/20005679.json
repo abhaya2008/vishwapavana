@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005679,
+    "chapter_id": 6628,
+    "verse_number": "16.1",
+    "content_sanskrit": "ततः किराताधिपतेरलघ्वीमाजिक्रियां वीक्ष्य विवृद्धमन्युः । स तर्कयामास विविक्ततर्कश्चिरं विचिन्वन्निति कारणानि ॥",
+    "padaccheda": "ततः । किराताधिपतेः । अलघ्वीम् । आजिक्रियाम् । वीक्ष्य । विवृद्धमन्युः । सः । तर्कयामास । विविक्ततर्कः । चिरम् । विचिन्वन् । इति । कारणानि",
+    "anvaya": "ततः किराताधिपतेः अलघ्वीम् आजिक्रियाम् वीक्ष्य विवृद्धमन्युः, विविक्ततर्कः सः, इति कारणानि चिरम् विचिन्वन्, तर्कयामास ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "Then, having seen the great battle-prowess of the lord of the Kiratas, Arjuna, his anger increased. With his reasoning now clear, he pondered for a long time, investigating the reasons for his opponent's power.",
+    "audio_url": null,
+    "display_order": 1,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005679,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "तत इति ॥ ततोऽनन्तरं किराताधिपतेः संबन्धिनीमलघ्वीं गुर्वीमाजिक्रियां रणकर्म वीक्ष्य विवृद्धमन्युर्विवृद्धकोपो विविक्तो निष्कलङ्कस्तर्क ऊहो ज्ञानं वा यस्य सोऽर्जुनः कारणानि रणभराशक्तिकारणानि विचिन्वन्विमृशन्नितीत्थं वक्ष्यमाणप्रकारेण तर्कयामासाभ्यूहितवान् ॥"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20004123,
+    "chapter_id": 6601,
+    "verse_number": "6.73",
+    "content_sanskrit": "काठिन्यं स्थावरे काये भवता सर्वमर्पितम् । इदं तु भक्तिनम्रं ते सतामाराधनं वपुः ॥",
+    "padaccheda": "काठिन्यम् । स्थावरे । काये । भवता । सर्वम् । अर्पितम् । इदम् । तु । भक्तिनम्रम् । ते । सताम् । आराधनम् । वपुः",
+    "anvaya": "भवता सर्वम् काठिन्यम् स्थावरे काये अर्पितम्। ते इदम् भक्तिनम्रम् वपुः तु सताम् आराधनम् (अस्ति)।",
+    "meaning_sanskrit": "",
+    "meaning_english": "You have concentrated all hardness in your stationary, rocky form. This other form of yours, however, bowed in devotion, serves as an object of worship for the virtuous.",
+    "audio_url": null,
+    "display_order": 73,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20004123,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "काठिन्यमिति । भवता सर्वं काठिन्यम् । अनम्रत्वमित्यर्थः । स्थावरे स्थिरे काये । शिलामय इत्यर्थः । अर्पितं न्यस्तम् । सतामर्हतामाराधनं पूजासाधनं त इदं वपुस्तु जङ्गममित्यर्थः । भक्तिनम्रम् । काठिन्यलेशोऽप्यत्र नास्त्यन्यथा नम्रत्वासंभवादित्यर्थः । तथा चासाधारण्यं ध्वन्यते"
+    }
+  ]
+}

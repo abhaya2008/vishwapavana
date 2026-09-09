@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20003471,
+    "chapter_id": 6592,
+    "verse_number": "16.32",
+    "content_sanskrit": "स धातुभेदारुणयाननेमिः प्रभुः प्रयाणध्वनिमिश्रतूर्यः । व्यलङ्घयद्विन्ध्यमुपायनानि पश्यन्पुलिन्दैरुपपादितानि ॥",
+    "padaccheda": "सः । धातुभेदारुणयाननेमिः । प्रभुः । प्रयाणध्वनिमिश्रतूर्यः । व्यलङ्घयत् । विन्ध्यम् । उपायनानि । पश्यन् । पुलिन्दैः । उपपादितानि",
+    "anvaya": "धातुभेदारुणयाननेमिः प्रयाणध्वनिमिश्रतूर्यः सः प्रभुः पुलिन्दैः उपपादितानि उपायनानि पश्यन् विन्ध्यम् व्यलङ्घयत् ।",
+    "meaning_sanskrit": "",
+    "meaning_english": "That lord (Kusha), whose chariot wheels were reddened by mineral dust and whose musical instruments were mixed with the sounds of marching, crossed the Vindhya mountain while observing the gifts presented by the Pulinda tribesmen.",
+    "audio_url": null,
+    "display_order": 32,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20003471,
+      "commentary_type": "सञ्जीविनीटीका (मल्लिनाथः)",
+      "author": "",
+      "content": "स इति॥ धातूनां गैरिकादीनां भेदेनारुणा याननेमी रथचक्रधारा यस्य। प्रयाणे ये ध्वनयः क्ष्वेडहेषादयः तन्मिश्राणि तूर्याणि यस्यैवंविधः स प्रभुः कुशः। पुलिन्दैः किरातैरुपपादितानि समर्पितान्युपायनानि पश्यन्। विन्ध्यं व्यलङ्घयत् ॥"
+    }
+  ]
+}

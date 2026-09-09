@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011902,
+    "chapter_id": 6686,
+    "verse_number": "14.126",
+    "content_sanskrit": "पाण्डवो यतिवेषत्यक् कर्मवेषविभूषणः । ददृशे दर्शनीयाङ्गो माधवीभिस्सुसम्मदः ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 126,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011902,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "यतिवेषत्यक् । यतिवेषं त्यक्तवान् । क्विप् चेति (पा.३|२|७६) क्विप् ॥"
+    }
+  ]
+}

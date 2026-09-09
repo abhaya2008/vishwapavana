@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20005249,
+    "chapter_id": 6621,
+    "verse_number": "9.36",
+    "content_sanskrit": "प्रस्थिताभिरधिनाथनिवासं ध्वंसितप्रियसखीवचनाभिः । मानिनीभिरपहस्तितधैर्यः सादयन्निव मदोऽवललम्बे ॥",
+    "padaccheda": "प्रस्थिताभिः । अधिनाथनिवासम् । ध्वंसितप्रियसखीवचनाभिः । मानिनीभिः । अपहस्तितधैर्यः । सादयन् । इव । मदः । अवललम्बे",
+    "anvaya": "अधिनाथनिवासं प्रस्थिताभिः, ध्वंसितप्रियसखीवचनाभिः मानिनीभिः, अपहस्तितधैर्यः सादयन् इव मदः अवललम्बे।",
+    "meaning_sanskrit": "",
+    "meaning_english": "The proud women, having set out for their lovers' homes after disregarding their friends' advice, resorted to intoxication. This passion, which cast aside their patience, was embraced as if it were causing them to falter, helping them overcome their hesitation.",
+    "audio_url": null,
+    "display_order": 36,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20005249,
+      "commentary_type": "घण्टापथव्याख्या (मल्लिनाथः)",
+      "author": "",
+      "content": "प्रस्थिताभिरिति ॥ अधिनाथनिवासं प्रियगृहं प्रति प्रस्थिताभिः प्रचलिताभिर्ध्वम्सितानि खण्डितानि प्रियसखीवचनानि स्वयं प्रस्थानं लाघवायेत्येवंरूपाणि याभिस्ताभिर्मानिनीभिः कोपनाभिः। `स्त्रीणामीर्ष्याकृतः कोपो मानोऽन्यासङ्गिनि प्रिये` इति लक्षणात् । अपहस्तितं निरस्तं धैर्यं येन स तथा सादयन्मानं शरीरं च कर्षयन्नपि । सदोषोऽपीत्यर्थः। मदोऽवललम्बे स्वीकृतः अज्ञानव्याजेन लाघवापह्नवसौकर्यादिति भावः॥"
+    }
+  ]
+}

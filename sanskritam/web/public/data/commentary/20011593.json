@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20011593,
+    "chapter_id": 6684,
+    "verse_number": "12.45",
+    "content_sanskrit": "साऽथ गत्वा प्रियं दृष्ट्वा गवाक्षेण त्रपावती । प्रत्यक्षमिव कन्दर्पमकार्षीदिति चेतसि ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 45,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20011593,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "गवाक्षेण वातायनेन । त्रपावतीति हेतुः । 'सर्वत्र विभाषा गोः' (पा.६|१|१२२) । 'अवङ् स्फोटायनस्ये'त्यवङ् (पा.६|१|१२३) ॥"
+    }
+  ]
+}

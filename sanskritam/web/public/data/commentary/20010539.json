@@ -1,0 +1,24 @@
+{
+  "verse": {
+    "id": 20010539,
+    "chapter_id": 6674,
+    "verse_number": "2.119",
+    "content_sanskrit": "वाससाप्रपदीनेन शरच्चन्द्रातपत्विषा । भान्तीं कुमुदषण्डेन स्फुटेन यमुनामिव ॥",
+    "padaccheda": "",
+    "anvaya": "",
+    "meaning_sanskrit": "",
+    "meaning_english": "",
+    "audio_url": null,
+    "display_order": 119,
+    "avatarnika": ""
+  },
+  "commentaries": [
+    {
+      "id": 1,
+      "verse_id": 20010539,
+      "commentary_type": "विवरणव्याख्यानम्",
+      "author": "",
+      "content": "आप्रपदीनेनेति । आप्रपदं प्राप्नोतीति (पा.५|२|८) खः । खस्येनः ।"
+    }
+  ]
+}
