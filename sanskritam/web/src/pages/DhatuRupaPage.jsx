@@ -1,9 +1,10 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useCallback } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useDatabase } from '../db/database';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import Breadcrumb from '../components/Breadcrumb';
+import { generateLakaraForms, generateKrutForms, LAKARA_ENUM, KRUT_ENUM, UPASARGA_LIST } from '../utils/dhatuEngine';
 
 const LAKARA_NAMES = {
     plat: 'लट् लकारः (वर्तमानकालः)',
@@ -38,6 +39,17 @@ const CATEGORY_LABELS = {
 };
 const CATEGORY_ORDER = Object.keys(CATEGORY_LABELS);
 
+// category key -> live-engine parameters (sanadiKey mirrors the san/nich/yang/yangluk
+// prefix on the key; prayoga/krut decide which Vyakarana method to call).
+const CATEGORY_ENGINE_PARAMS = {};
+for (const key of CATEGORY_ORDER) {
+    const [stem, voice] = key.split('_');
+    const sanadiKey = stem === 'shuddha' ? null : stem;
+    CATEGORY_ENGINE_PARAMS[key] = voice === 'krut'
+        ? { sanadiKey, krut: true }
+        : { sanadiKey, prayoga: voice === 'kartari' ? 'Kartari' : 'Karmani' };
+}
+
 function LakaraTable({ lakaraKey, forms }) {
     const rows = [
         { label: 'प्रथमपुरुषः', cells: forms.slice(0, 3) },
@@ -69,7 +81,7 @@ function LakaraTable({ lakaraKey, forms }) {
                                 <td style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', fontWeight: 600, color: 'var(--color-maroon)' }}>{row.label}</td>
                                 {row.cells.map((cell, j) => (
                                     <td key={j} style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)' }}>
-                                        {(cell || '').split(',').join(', ')}
+                                        {(cell || '—').split(',').join(', ')}
                                     </td>
                                 ))}
                             </tr>
@@ -82,6 +94,10 @@ function LakaraTable({ lakaraKey, forms }) {
 }
 
 function KrutTable({ forms }) {
+    const entries = Object.entries(forms || {});
+    if (entries.length === 0) {
+        return <p className="sanskrit" style={{ color: 'var(--color-text-light)' }}>अत्र कृदन्तरूपाणि न सिद्ध्यन्ति।</p>;
+    }
     return (
         <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px' }}>
             <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
@@ -92,7 +108,7 @@ function KrutTable({ forms }) {
                     </tr>
                 </thead>
                 <tbody>
-                    {Object.entries(forms).map(([pratyaya, form], i) => (
+                    {entries.map(([pratyaya, form], i) => (
                         <tr key={pratyaya} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
                             <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)', fontWeight: 600 }}>{pratyaya}</td>
                             <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)' }}>{String(form).split(',').join(', ')}</td>
@@ -100,6 +116,47 @@ function KrutTable({ forms }) {
                     ))}
                 </tbody>
             </table>
+        </div>
+    );
+}
+
+// उपसर्गचयनम् — add/remove upasarga slots, mirroring ashtadhyayi.com's own composer.
+function UpasargaComposer({ slots, onChange, onDisplay, onReset, busy, hasApplied }) {
+    const addSlot = () => onChange([...slots, '']);
+    const setSlot = (i, val) => onChange(slots.map((s, j) => (j === i ? val : s)));
+    return (
+        <div style={{
+            border: '1px solid var(--border-color)', borderRadius: '8px', padding: '0.8rem 1rem',
+            background: '#fff8ec', marginTop: '0.8rem',
+        }}>
+            <div className="sanskrit" style={{ fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.5rem' }}>
+                उपसर्गचयनम् (Compose with upasargas)
+            </div>
+            <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
+                {slots.map((val, i) => (
+                    <span key={i} style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                        <select
+                            value={val}
+                            onChange={(e) => setSlot(i, e.target.value)}
+                            className="sanskrit"
+                            style={{ padding: '0.3rem 0.5rem', borderRadius: '5px', border: '1px solid var(--border-color)' }}
+                        >
+                            <option value="">—</option>
+                            {UPASARGA_LIST.map((u) => <option key={u} value={u}>{u}</option>)}
+                        </select>
+                        {i < slots.length - 1 && <span>+</span>}
+                    </span>
+                ))}
+                <button type="button" className="bulk-btn-secondary" onClick={addSlot} title="उपसर्गं योजयतु">+ उपसर्गः</button>
+                <button type="button" className="bulk-btn-primary" onClick={onDisplay} disabled={busy}>
+                    {busy ? 'गण्यते…' : 'परिणामं दर्शयतु (Display results)'}
+                </button>
+                {hasApplied && <button type="button" className="bulk-btn-secondary" onClick={onReset}>मूलरूपम् (Reset)</button>}
+            </div>
+            <p style={{ fontSize: '0.85rem', color: 'var(--color-text-light)', marginTop: '0.5rem', marginBottom: 0 }}>
+                एतानि रूपाणि तत्क्षणं व्याकरण-अल्गोरिदमेन (Vidyut) उत्पाद्यन्ते, अतः अल्पापवादधातूनां (यथा दुर्लभधातवः) विषये स्वल्पभेदः सम्भवति।
+                Generated live by a rule-based grammar engine — for the small minority of irregular roots it can occasionally miss a special-case rule.
+            </p>
         </div>
     );
 }
@@ -115,10 +172,19 @@ export default function DhatuRupaPage() {
     const [notFound, setNotFound] = useState(false);
     const [category, setCategory] = useState('shuddha_kartari');
 
+    const [upasargaSlots, setUpasargaSlots] = useState(['']);
+    const [appliedUpasargas, setAppliedUpasargas] = useState([]);
+    const [liveData, setLiveData] = useState(null); // { [lakaraKey]: [...] } or { [krutKey]: form } once generated
+    const [engineBusy, setEngineBusy] = useState(false);
+    const [engineError, setEngineError] = useState('');
+
     useEffect(() => {
         let cancelled = false;
         setForms(null);
         setNotFound(false);
+        setAppliedUpasargas([]);
+        setUpasargaSlots(['']);
+        setLiveData(null);
         async function load() {
             const lookup = await getDhatuLookup();
             const entry = lookup[baseindex];
@@ -155,6 +221,57 @@ export default function DhatuRupaPage() {
         };
     }, [verse, siblings]);
 
+    const runLiveGeneration = useCallback(async (upasargas, cat) => {
+        if (!verse) return;
+        setEngineBusy(true);
+        setEngineError('');
+        try {
+            const params = {
+                aupadeshikaDeva: verse.padaccheda,
+                ganaNumber: verse.chapter_number || Number((verse.dhatu_baseindex || '').split('.')[0]),
+                upasargasDeva: upasargas,
+                sanadiKey: CATEGORY_ENGINE_PARAMS[cat]?.sanadiKey,
+            };
+            if (CATEGORY_ENGINE_PARAMS[cat]?.krut) {
+                const krutKeys = Object.keys(forms?.[cat] || KRUT_ENUM);
+                const result = await generateKrutForms(params, krutKeys.filter(k => KRUT_ENUM[k]));
+                setLiveData(result);
+            } else {
+                const prayoga = CATEGORY_ENGINE_PARAMS[cat]?.prayoga || 'Kartari';
+                const result = {};
+                for (const lakaraKey of Object.keys(LAKARA_ENUM)) {
+                    result[lakaraKey] = await generateLakaraForms(params, lakaraKey, prayoga);
+                }
+                setLiveData(result);
+            }
+        } catch (err) {
+            setEngineError(err?.message || 'रूपोत्पादने त्रुटिः अभवत्। Something went wrong generating forms.');
+            setLiveData(null);
+        } finally {
+            setEngineBusy(false);
+        }
+    }, [verse, forms]);
+
+    const handleDisplay = () => {
+        const chosen = upasargaSlots.map(s => s.trim()).filter(Boolean);
+        setAppliedUpasargas(chosen);
+        if (chosen.length === 0) { setLiveData(null); return; }
+        runLiveGeneration(chosen, category);
+    };
+
+    const handleReset = () => {
+        setUpasargaSlots(['']);
+        setAppliedUpasargas([]);
+        setLiveData(null);
+        setEngineError('');
+    };
+
+    // Re-generate when switching category tabs while upasargas are already applied.
+    useEffect(() => {
+        if (appliedUpasargas.length > 0) runLiveGeneration(appliedUpasargas, category);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [category]);
+
     if (notFound) {
         return (
             <div className="page-wrapper">
@@ -168,7 +285,11 @@ export default function DhatuRupaPage() {
     }
 
     const isKrut = category.endsWith('_krut');
-    const categoryData = forms && forms[category];
+    const isLive = appliedUpasargas.length > 0;
+    const categoryData = isLive ? liveData : (forms && forms[category]);
+    const headingText = isLive && verse
+        ? [...appliedUpasargas, verse.content_sanskrit].join(' + ')
+        : (verse ? verse.content_sanskrit : baseindex);
 
     return (
         <div className="page-wrapper">
@@ -183,7 +304,7 @@ export default function DhatuRupaPage() {
 
                     <section className="page-title-section" style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '1rem', flexWrap: 'wrap' }}>
                         <div>
-                            <h1 className="page-title">॥ {verse ? verse.content_sanskrit : baseindex} ॥</h1>
+                            <h1 className="page-title">॥ {headingText} ॥</h1>
                             {verse && (
                                 <p className="page-description mt-sm">
                                     {baseindex} · {verse.padaccheda} · {verse.meaning_sanskrit}
@@ -230,8 +351,21 @@ export default function DhatuRupaPage() {
                                 ))}
                             </section>
 
+                            <UpasargaComposer
+                                slots={upasargaSlots}
+                                onChange={setUpasargaSlots}
+                                onDisplay={handleDisplay}
+                                onReset={handleReset}
+                                busy={engineBusy}
+                                hasApplied={isLive}
+                            />
+
                             <section className="mt-md">
-                                {isKrut ? (
+                                {engineBusy ? (
+                                    <div className="text-center"><div className="spinner" /></div>
+                                ) : engineError ? (
+                                    <p className="sanskrit text-center" style={{ color: 'var(--red-color, #c00000)' }}>{engineError}</p>
+                                ) : isKrut ? (
                                     <KrutTable forms={categoryData} />
                                 ) : (
                                     LAKARA_ORDER.filter(lk => categoryData?.[lk]).map(lk => (
