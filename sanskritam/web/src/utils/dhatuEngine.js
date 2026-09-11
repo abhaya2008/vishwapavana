@@ -24,8 +24,8 @@ const GANA_ENUM = {
 
 const SANADI_ENUM = { san: 'san', nich: 'Ric', yang: 'yaN', yangluk: 'yaNluk' };
 
-// Same 10 lakaras used by the static tables (see dhatuEngine's counterpart, LAKARA_NAMES,
-// in DhatuRupaPage.jsx), mapped to Vidyut's Lakara enum values.
+// Same 10 lakaras used by the static tables (see this module's counterpart,
+// DHATU_LAKARA_NAMES, in VersePage.jsx), mapped to Vidyut's Lakara enum values.
 export const LAKARA_ENUM = {
     plat: 'Lat', plit: 'Lit', plut: 'Lut', plrut: 'Lrt', plot: 'Lot',
     plang: 'Lan', pvidhiling: 'VidhiLin', pashirling: 'AshirLin', plung: 'Lun', plrung: 'Lrn',

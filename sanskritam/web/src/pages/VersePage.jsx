@@ -1,6 +1,7 @@
 import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useDatabase, IS_STATIC, resolveUllekhaLinks, resolveAshtadhyayiRefs } from '../db/database';
+import { generateLakaraForms, generateKrutForms, LAKARA_ENUM, KRUT_ENUM, UPASARGA_LIST } from '../utils/dhatuEngine';
 
 // Applied everywhere commentary/verse HTML is rendered, so both the Mahabharata
 // ullekha cross-references and ashtadhyayi-com's <<sutra>> [[a.p.n]] citations
@@ -1040,6 +1041,323 @@ function ShabdaTable({ headers, rows }) {
     );
 }
 
+// ── Auto-generated Dhatu Rupa (verb conjugation) panel, shown inline for verses ──
+// that carry a `dhatu_baseindex` (Dhatupatha roots). Distinct from the manually
+// authored `LakaraTable`/`DhatuTables` above, which render a commentary pane's
+// hand-entered "## DHATU" table.
+const DHATU_LAKARA_NAMES = {
+    plat: 'लट् लकारः (वर्तमानकालः)',
+    plit: 'लिट् लकारः (परोक्षभूतः)',
+    plut: 'लुट् लकारः (अनद्यतनभविष्यत्)',
+    plrut: 'लृट् लकारः (सामान्यभविष्यत्)',
+    plot: 'लोट् लकारः (आज्ञार्थः)',
+    plang: 'लङ् लकारः (अनद्यतनभूतः)',
+    pvidhiling: 'विधिलिङ् लकारः',
+    pashirling: 'आशीर्लिङ् लकारः',
+    plung: 'लुङ् लकारः (सामान्यभूतः)',
+    plrung: 'लृङ् लकारः (क्रियातिपत्तिः)',
+};
+const DHATU_LAKARA_ORDER = Object.keys(DHATU_LAKARA_NAMES);
+
+const DHATU_CATEGORY_LABELS = {
+    shuddha_kartari: 'कर्तरि',
+    shuddha_karmani: 'भावकर्मणोः',
+    shuddha_krut: 'कृदन्तः',
+    san_kartari: 'सन्नन्ते-कर्तरि',
+    san_karmani: 'सन्नन्ते-भावकर्मणोः',
+    san_krut: 'सन्नन्ते-कृदन्तः',
+    nich_kartari: 'णिजन्ते-कर्तरि',
+    nich_karmani: 'णिजन्ते-भावकर्मणोः',
+    nich_krut: 'णिजन्ते-कृदन्तः',
+    yang_kartari: 'यङन्ते-कर्तरि',
+    yang_karmani: 'यङन्ते-भावकर्मणोः',
+    yang_krut: 'यङन्ते-कृदन्तः',
+    yangluk_kartari: 'यङ्लुगन्ते-कर्तरि',
+    yangluk_karmani: 'यङ्लुगन्ते-भावकर्मणोः',
+    yangluk_krut: 'यङ्लुगन्ते-कृदन्तः',
+};
+const DHATU_CATEGORY_ORDER = Object.keys(DHATU_CATEGORY_LABELS);
+
+// category key -> live-engine parameters (sanadiKey mirrors the san/nich/yang/yangluk
+// prefix on the key; prayoga/krut decide which Vyakarana method to call).
+const DHATU_CATEGORY_ENGINE_PARAMS = {};
+for (const key of DHATU_CATEGORY_ORDER) {
+    const [stem, voice] = key.split('_');
+    const sanadiKey = stem === 'shuddha' ? null : stem;
+    DHATU_CATEGORY_ENGINE_PARAMS[key] = voice === 'krut'
+        ? { sanadiKey, krut: true }
+        : { sanadiKey, prayoga: voice === 'kartari' ? 'Kartari' : 'Karmani' };
+}
+
+function AutoLakaraTable({ lakaraKey, forms }) {
+    const rows = [
+        { label: 'प्रथमपुरुषः', cells: forms.slice(0, 3) },
+        { label: 'मध्यमपुरुषः', cells: forms.slice(3, 6) },
+        { label: 'उत्तमपुरुषः', cells: forms.slice(6, 9) },
+    ];
+    return (
+        <div style={{ marginBottom: '1.2rem' }}>
+            <div style={{
+                background: 'var(--cream-dark, #F0E8DB)', color: 'var(--color-maroon-dark, #702d2d)',
+                fontWeight: 700, padding: '0.4rem 0.8rem', borderRadius: '6px 6px 0 0',
+                fontFamily: 'var(--font-sanskrit)', fontSize: '1.07rem',
+            }}>
+                {DHATU_LAKARA_NAMES[lakaraKey] || lakaraKey}
+            </div>
+            <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderTop: 'none', borderRadius: '0 0 6px 6px' }}>
+                <table style={{ width: '100%', tableLayout: 'fixed', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+                    <colgroup>
+                        <col style={{ width: '16%' }} />
+                        <col style={{ width: '28%' }} />
+                        <col style={{ width: '28%' }} />
+                        <col style={{ width: '28%' }} />
+                    </colgroup>
+                    <thead>
+                        <tr style={{ background: '#fff8ec' }}>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}></th>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}>एकवचनम्</th>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}>द्विवचनम्</th>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}>बहुवचनम्</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {rows.map((row, i) => (
+                            <tr key={i} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
+                                <td style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', fontWeight: 600, color: 'var(--color-maroon)', wordBreak: 'break-word' }}>{row.label}</td>
+                                {row.cells.map((cell, j) => (
+                                    <td key={j} style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', wordBreak: 'break-word' }}>
+                                        {(cell || '—').split(',').join(', ')}
+                                    </td>
+                                ))}
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    );
+}
+
+function AutoKrutTable({ forms }) {
+    const entries = Object.entries(forms || {});
+    if (entries.length === 0) {
+        return <p className="sanskrit" style={{ color: 'var(--color-text-light)' }}>अत्र कृदन्तरूपाणि न सिद्ध्यन्ति।</p>;
+    }
+    return (
+        <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px' }}>
+            <table style={{ width: '100%', tableLayout: 'fixed', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+                <colgroup>
+                    <col style={{ width: '22%' }} />
+                    <col style={{ width: '78%' }} />
+                </colgroup>
+                <thead>
+                    <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
+                        <th style={{ padding: '0.4rem 0.8rem', border: '1px solid var(--border-color)', textAlign: 'left', color: 'var(--color-maroon)' }}>प्रत्ययः</th>
+                        <th style={{ padding: '0.4rem 0.8rem', border: '1px solid var(--border-color)', textAlign: 'left', color: 'var(--color-maroon)' }}>रूपम्</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {entries.map(([pratyaya, form], i) => (
+                        <tr key={pratyaya} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
+                            <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)', fontWeight: 600, wordBreak: 'break-word' }}>{pratyaya}</td>
+                            <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)', wordBreak: 'break-word' }}>{String(form).split(',').join(', ')}</td>
+                        </tr>
+                    ))}
+                </tbody>
+            </table>
+        </div>
+    );
+}
+
+// उपसर्गचयनम् — add/remove upasarga slots, mirroring ashtadhyayi.com's own composer.
+function UpasargaComposer({ slots, onChange, onDisplay, onReset, busy, hasApplied }) {
+    const addSlot = () => onChange([...slots, '']);
+    const setSlot = (i, val) => onChange(slots.map((s, j) => (j === i ? val : s)));
+    return (
+        <div style={{
+            border: '1px solid var(--border-color)', borderRadius: '8px', padding: '0.8rem 1rem',
+            background: '#fff8ec', marginTop: '0.8rem',
+        }}>
+            <div className="sanskrit" style={{ fontWeight: 700, color: 'var(--color-maroon)', marginBottom: '0.5rem' }}>
+                उपसर्गचयनम् (Compose with upasargas)
+            </div>
+            <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '0.5rem' }}>
+                {slots.map((val, i) => (
+                    <span key={i} style={{ display: 'flex', alignItems: 'center', gap: '0.4rem' }}>
+                        <select
+                            value={val}
+                            onChange={(e) => setSlot(i, e.target.value)}
+                            className="sanskrit"
+                            style={{ padding: '0.3rem 0.5rem', borderRadius: '5px', border: '1px solid var(--border-color)' }}
+                        >
+                            <option value="">—</option>
+                            {UPASARGA_LIST.map((u) => <option key={u} value={u}>{u}</option>)}
+                        </select>
+                        {i < slots.length - 1 && <span>+</span>}
+                    </span>
+                ))}
+                <button type="button" className="bulk-btn-secondary" onClick={addSlot} title="उपसर्गं योजयतु">+ उपसर्गः</button>
+                <button type="button" className="bulk-btn-primary" onClick={onDisplay} disabled={busy}>
+                    {busy ? 'गण्यते…' : 'परिणामं दर्शयतु (Display results)'}
+                </button>
+                {hasApplied && <button type="button" className="bulk-btn-secondary" onClick={onReset}>मूलरूपम् (Reset)</button>}
+            </div>
+            <p style={{ fontSize: '0.85rem', color: 'var(--color-text-light)', marginTop: '0.5rem', marginBottom: 0 }}>
+                एतानि रूपाणि तत्क्षणं व्याकरण-अल्गोरिदमेन (Vidyut) उत्पाद्यन्ते, अतः अल्पापवादधातूनां (यथा दुर्लभधातवः) विषये स्वल्पभेदः सम्भवति।
+                Generated live by a rule-based grammar engine — for the small minority of irregular roots it can occasionally miss a special-case rule.
+            </p>
+        </div>
+    );
+}
+
+// The full conjugation panel: category tabs + upasarga composer + tables, shown
+// inline on the verse page for any Dhatupatha root (a verse with dhatu_baseindex).
+function DhatuConjugationPanel({ verse }) {
+    const { getDhatuForms } = useDatabase();
+    const [forms, setForms] = useState(null);
+    const [category, setCategory] = useState('shuddha_kartari');
+    const [upasargaSlots, setUpasargaSlots] = useState(['']);
+    const [appliedUpasargas, setAppliedUpasargas] = useState([]);
+    const [liveData, setLiveData] = useState(null);
+    const [engineBusy, setEngineBusy] = useState(false);
+    const [engineError, setEngineError] = useState('');
+
+    const baseindex = verse.dhatu_baseindex;
+
+    useEffect(() => {
+        let cancelled = false;
+        setForms(null);
+        setAppliedUpasargas([]);
+        setUpasargaSlots(['']);
+        setLiveData(null);
+        setEngineError('');
+        getDhatuForms(baseindex).then((formsData) => {
+            if (!cancelled) setForms(formsData || {});
+        });
+        return () => { cancelled = true; };
+    }, [baseindex, getDhatuForms]);
+
+    const availableCategories = useMemo(() => {
+        if (!forms) return [];
+        return DHATU_CATEGORY_ORDER.filter(k => forms[k]);
+    }, [forms]);
+
+    useEffect(() => {
+        if (availableCategories.length && !availableCategories.includes(category)) {
+            setCategory(availableCategories[0]);
+        }
+    }, [availableCategories, category]);
+
+    const runLiveGeneration = useCallback(async (upasargas, cat) => {
+        setEngineBusy(true);
+        setEngineError('');
+        try {
+            const params = {
+                aupadeshikaDeva: verse.padaccheda,
+                ganaNumber: verse.chapter_number || Number((verse.dhatu_baseindex || '').split('.')[0]),
+                upasargasDeva: upasargas,
+                sanadiKey: DHATU_CATEGORY_ENGINE_PARAMS[cat]?.sanadiKey,
+            };
+            if (DHATU_CATEGORY_ENGINE_PARAMS[cat]?.krut) {
+                const krutKeys = Object.keys(forms?.[cat] || KRUT_ENUM);
+                const result = await generateKrutForms(params, krutKeys.filter(k => KRUT_ENUM[k]));
+                setLiveData(result);
+            } else {
+                const prayoga = DHATU_CATEGORY_ENGINE_PARAMS[cat]?.prayoga || 'Kartari';
+                const result = {};
+                for (const lakaraKey of Object.keys(LAKARA_ENUM)) {
+                    result[lakaraKey] = await generateLakaraForms(params, lakaraKey, prayoga);
+                }
+                setLiveData(result);
+            }
+        } catch (err) {
+            setEngineError(err?.message || 'रूपोत्पादने त्रुटिः अभवत्। Something went wrong generating forms.');
+            setLiveData(null);
+        } finally {
+            setEngineBusy(false);
+        }
+    }, [verse, forms]);
+
+    const handleDisplay = () => {
+        const chosen = upasargaSlots.map(s => s.trim()).filter(Boolean);
+        setAppliedUpasargas(chosen);
+        if (chosen.length === 0) { setLiveData(null); return; }
+        runLiveGeneration(chosen, category);
+    };
+
+    const handleReset = () => {
+        setUpasargaSlots(['']);
+        setAppliedUpasargas([]);
+        setLiveData(null);
+        setEngineError('');
+    };
+
+    // Re-generate when switching category tabs while upasargas are already applied.
+    useEffect(() => {
+        if (appliedUpasargas.length > 0) runLiveGeneration(appliedUpasargas, category);
+        // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [category]);
+
+    if (forms === null) {
+        return <div className="text-center mt-md"><div className="spinner" /></div>;
+    }
+    if (availableCategories.length === 0) {
+        return <p className="sanskrit text-center mt-md">अस्य धातोः रूपाणि अनुपलब्धानि। No conjugated forms available for this root.</p>;
+    }
+
+    const isKrut = category.endsWith('_krut');
+    const isLive = appliedUpasargas.length > 0;
+    const categoryData = isLive ? liveData : (forms && forms[category]);
+    const headingText = isLive ? [...appliedUpasargas, verse.content_sanskrit].join(' + ') : verse.content_sanskrit;
+
+    return (
+        <div className="mt-md">
+            <h2 className="sanskrit" style={{ color: 'var(--color-maroon)', fontSize: '1.3rem', marginBottom: '0.3rem' }}>॥ {headingText} ॥ धातुरूपाणि</h2>
+            <section style={{ display: 'flex', flexWrap: 'wrap', gap: '0.4rem', marginTop: '0.6rem' }}>
+                {availableCategories.map(k => (
+                    <button
+                        key={k}
+                        onClick={() => setCategory(k)}
+                        style={{
+                            padding: '0.4rem 0.9rem', borderRadius: '999px', cursor: 'pointer',
+                            fontFamily: 'var(--font-sanskrit)', fontSize: '0.97rem',
+                            border: '1px solid var(--border-color)',
+                            background: category === k ? 'var(--color-maroon, #935655)' : '#fff8ec',
+                            color: category === k ? '#fff8f0' : 'var(--color-maroon-dark, #702d2d)',
+                            fontWeight: category === k ? 700 : 500,
+                        }}
+                    >
+                        {DHATU_CATEGORY_LABELS[k]}
+                    </button>
+                ))}
+            </section>
+
+            <UpasargaComposer
+                slots={upasargaSlots}
+                onChange={setUpasargaSlots}
+                onDisplay={handleDisplay}
+                onReset={handleReset}
+                busy={engineBusy}
+                hasApplied={isLive}
+            />
+
+            <section className="mt-md">
+                {engineBusy ? (
+                    <div className="text-center"><div className="spinner" /></div>
+                ) : engineError ? (
+                    <p className="sanskrit text-center" style={{ color: 'var(--red-color, #c00000)' }}>{engineError}</p>
+                ) : isKrut ? (
+                    <AutoKrutTable forms={categoryData} />
+                ) : (
+                    DHATU_LAKARA_ORDER.filter(lk => categoryData?.[lk]).map(lk => (
+                        <AutoLakaraTable key={lk} lakaraKey={lk} forms={categoryData[lk]} />
+                    ))
+                )}
+            </section>
+        </div>
+    );
+}
+
 function LakaraTable({ t }) {
     return (
         <div style={{ marginBottom: '1rem' }}>
@@ -1382,17 +1700,20 @@ export default function VersePage() {
         if (isManimanjari) return DISPLAY_PANES;
 
         const list = [];
-        if (currentVerse.padaccheda) {
-            list.push({ key: 'padaccheda', title: 'पदच्छेदः', field: 'padaccheda' });
-        }
-        if (currentVerse.anvaya) {
-            list.push({ key: 'anvaya', title: 'अन्वयः', field: 'anvaya' });
-        }
-        if (currentVerse.meaning_sanskrit) {
-            list.push({ key: 'meaning_sanskrit', title: 'अर्थः', field: 'meaning_sanskrit' });
-        }
-        if (currentVerse.meaning_english) {
-            list.push({ key: 'meaning_english', title: 'English Meaning', field: 'meaning_english' });
+        // Not needed for Dhatupatha roots — the conjugation panel below covers them.
+        if (!currentVerse.dhatu_baseindex) {
+            if (currentVerse.padaccheda) {
+                list.push({ key: 'padaccheda', title: 'पदच्छेदः', field: 'padaccheda' });
+            }
+            if (currentVerse.anvaya) {
+                list.push({ key: 'anvaya', title: 'अन्वयः', field: 'anvaya' });
+            }
+            if (currentVerse.meaning_sanskrit) {
+                list.push({ key: 'meaning_sanskrit', title: 'अर्थः', field: 'meaning_sanskrit' });
+            }
+            if (currentVerse.meaning_english) {
+                list.push({ key: 'meaning_english', title: 'English Meaning', field: 'meaning_english' });
+            }
         }
 
         if (commentaries && commentaries.length > 0) {
@@ -1913,17 +2234,8 @@ ${wrapper.innerHTML}
                     )}
 
                     {currentVerse?.dhatu_baseindex && (
-                        <div className="text-center" style={{ marginTop: '0.6rem' }}>
-                            <Link
-                                to={`/vyakaranam/dhatu/${currentVerse.dhatu_baseindex}`}
-                                style={{
-                                    display: 'inline-block', padding: '0.4rem 1rem', borderRadius: '6px',
-                                    background: 'var(--color-maroon, #935655)', color: '#fff8f0',
-                                    fontFamily: 'var(--font-sanskrit)', fontWeight: 600, textDecoration: 'none',
-                                }}
-                            >
-                                धातुरूपाणि पश्यतु (View conjugations) →
-                            </Link>
+                        <div className="container">
+                            <DhatuConjugationPanel key={currentVerse.id} verse={currentVerse} />
                         </div>
                     )}
                 </div>
