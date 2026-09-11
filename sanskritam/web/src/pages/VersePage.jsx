@@ -1911,6 +1911,21 @@ ${wrapper.innerHTML}
                             )}
                         </div>
                     )}
+
+                    {currentVerse?.dhatu_baseindex && (
+                        <div className="text-center" style={{ marginTop: '0.6rem' }}>
+                            <Link
+                                to={`/vyakaranam/dhatu/${currentVerse.dhatu_baseindex}`}
+                                style={{
+                                    display: 'inline-block', padding: '0.4rem 1rem', borderRadius: '6px',
+                                    background: 'var(--color-maroon, #935655)', color: '#fff8f0',
+                                    fontFamily: 'var(--font-sanskrit)', fontWeight: 600, textDecoration: 'none',
+                                }}
+                            >
+                                धातुरूपाणि पश्यतु (View conjugations) →
+                            </Link>
+                        </div>
+                    )}
                 </div>
 
                 {/* Commentary Section */}

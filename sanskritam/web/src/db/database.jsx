@@ -320,6 +320,34 @@ async function sGetChapterCommentary(chapterId) {
     }
     return _chapterCommentaryCache[cid];
 }
+// baseindex (e.g. "01.0001") → { c: chapterId, v: verseId } for the Dhatupatha
+// verse row, so /vyakaranam/dhatu/:baseindex can be opened directly (bookmarked,
+// linked) without route state from the Dhatupatha listing page.
+let _dhatuLookup = null;
+async function sGetDhatuLookup() {
+    if (_dhatuLookup) return _dhatuLookup;
+    try {
+        _dhatuLookup = await staticGet('dhatu_lookup.json');
+    } catch (_) {
+        _dhatuLookup = {};
+    }
+    return _dhatuLookup;
+}
+
+// Precomputed conjugation tables (dhatu/dhatuforms_vidyut_*.txt from
+// ashtadhyayi-com/data), one file per root keyed by its baseindex (e.g. "01.0001").
+let _dhatuFormsCache = {};
+async function sGetDhatuForms(baseindex) {
+    if (!(baseindex in _dhatuFormsCache)) {
+        try {
+            _dhatuFormsCache[baseindex] = await staticGet(`dhatuforms/${baseindex}.json`);
+        } catch (_) {
+            _dhatuFormsCache[baseindex] = null;
+        }
+    }
+    return _dhatuFormsCache[baseindex];
+}
+
 async function sGetCommentariesByVerse(verseId) {
     const vid = +verseId;
     if (!_commentaryCache[vid]) {
@@ -577,6 +605,9 @@ export function DatabaseProvider({ children }) {
     // Mahabharata-only bundled commentary; this data lives only in the static JSON export,
     // not in the dev-mode SQLite/API schema, so it's always fetched the "static" way.
     const getChapterCommentary  = useCallback((id   ) => sGetChapterCommentary(id),                                                        []);
+    // Dhatupatha conjugation tables — same reasoning: static-only data, no dev-mode equivalent.
+    const getDhatuForms         = useCallback((baseindex) => sGetDhatuForms(baseindex),                                                    []);
+    const getDhatuLookup        = useCallback((        ) => sGetDhatuLookup(),                                                             []);
 
     const updateVerse          = useCallback((id, f) => IS_STATIC ? sUpdateVerse(id, f)       : apiPatch(`/verses/${id}`, f),              []);
     const updateCommentary     = useCallback((id, f) => IS_STATIC ? sUpdateCommentary(id, f)  : apiPatch(`/commentaries/${id}`, f),        []);
@@ -588,7 +619,7 @@ export function DatabaseProvider({ children }) {
         loading, error,
         getCategories, getCategory, getSubCategories, getTextsByCategory,
         getText, getChaptersByText, getChapter, getVersesByChapter,
-        getCommentariesByVerse, getChapterCommentary,
+        getCommentariesByVerse, getChapterCommentary, getDhatuForms, getDhatuLookup,
         updateVerse, updateCommentary, createCommentary, bulkSaveVerse, addVersesToChapter,
     };
 
