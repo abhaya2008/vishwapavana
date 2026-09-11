@@ -36,9 +36,27 @@ let _commentaryCache = {}; // verseId   → { verse, commentaries }
 let _cid2vid = {};         // commentaryId → verseId  (reverse lookup for updates)
 let _ullekhaLookup = null; // base_unit_id → { c: chapterId, v: verseId }
 let _ullekhaPromise = null;
+let _sutraLookup = null;   // "adhyaya.pada.sutra" (e.g. "1.2.41") → { c: chapterId, v: verseId }
+let _sutraPromise = null;
 
 // Regex to match href="#BG_C02_V31" or href="#BS_C01_S01_V22" patterns
 const ULLEKHA_HREF_RE = /href="#((?:BG|BS)_C\d+(?:_S\d+)?_V\d+)(?:_[A-Z]\d+)?"/g;
+
+async function _loadSutraLookup() {
+    if (_sutraLookup) return _sutraLookup;
+    try {
+        const res = await fetch(dataBase() + 'sutra_lookup.json');
+        if (res.ok) _sutraLookup = await res.json();
+        else _sutraLookup = {};
+    } catch { _sutraLookup = {}; }
+    return _sutraLookup;
+}
+
+function getSutraLookup() {
+    if (_sutraLookup) return _sutraLookup;
+    if (!_sutraPromise) _sutraPromise = _loadSutraLookup();
+    return null; // not ready yet; will be available on next render
+}
 
 async function _loadUllekhaLookup() {
     if (_ullekhaLookup) return _ullekhaLookup;
@@ -74,6 +92,102 @@ function resolveUllekhaLinks(html) {
         if (entry2) return `href="#/chapter/${entry2.c}/verse/${entry2.v}"`;
         return match; // leave unchanged if not found
     });
+}
+
+// ashtadhyayi-com/data's commentaries use their own lightweight inline markup:
+// a sutra is cited as <<sutra text>> immediately followed by its reference in
+// [[adhyaya.pada.sutra]] (e.g. <<अपृक्तः एकाल् प्रत्ययः>> [[1.2.41]]), plus a family
+// of custom pseudo-tags (<qt>, <hl>, <title>, <pr>, <ex>, ...) for styling. None
+// of these are real HTML, so left as-is they either show up as literal bracket
+// text or (worse, for names that collide with real tags like <title>) get
+// silently dropped by the browser. This turns the sutra citations into real
+// links to that sutra's verse page here, and gives the rest of the markup a
+// plain, safe rendering.
+// Sutra reference digits appear in either script depending on the source file
+// (e.g. kashika.txt uses [[३.२.८७]], most others use [[3.2.87]]).
+const DIGITS = '[0-9०-९]';
+// The quoted text is restricted to "no <" so a <<...>> with nothing immediately
+// following it can never be swallowed into a *later*, unrelated <<...>> [[ref]]
+// pair further down the string (the source has several back-to-back citations
+// where only the last one carries a [[ref]]).
+const SUTRA_CITE_RE = new RegExp(`<<([^<]*?)>>\\s*\\[\\[(${DIGITS}+)\\.(${DIGITS}+)\\.(${DIGITS}+)\\]\\]`, 'g');
+const SUTRA_BARE_REF_RE = new RegExp(`\\[\\[(${DIGITS}+)\\.(${DIGITS}+)\\.(${DIGITS}+)\\]\\]`, 'g');
+const SUTRA_LONE_QUOTE_RE = /<<([^<]*?)>>/g;
+const DEVA_TO_ASCII_DIGITS = { '०': '0', '१': '1', '२': '2', '३': '3', '४': '4', '५': '5', '६': '6', '७': '7', '८': '8', '९': '9' };
+
+function toAsciiDigits(s) {
+    return s.replace(/[०-९]/g, (d) => DEVA_TO_ASCII_DIGITS[d]);
+}
+const SK_PARA_REF_RE = /<\{SK(\d+)\}>/g;
+
+// tagName → [openReplacement, closeReplacement]. Applied generically so an
+// unpaired/mismatched tag (the source data has a few) still degrades safely —
+// the browser just auto-closes the span/div at the nearest boundary.
+const ASHTADHYAYI_TAG_STYLES = {
+    title: ['<div style="font-weight:700;margin:0.6em 0 0.3em;color:var(--color-maroon,#7B2D2D)">', '</div>'],
+    pv: ['<div style="font-weight:700;margin:0.6em 0 0.3em;color:var(--color-maroon,#7B2D2D)">', '</div>'], // used interchangeably with <title> in the source
+    pr: ['<div style="margin:0.5em 0;padding:0.5em 0.8em;background:#FBF3E7;border-left:3px solid #C9A227;white-space:pre-wrap">', '</div>'],
+    source: ['<div style="margin:0.5em 0;padding:0.4em 0.8em;border-left:3px solid #999;font-style:italic;color:#555">', '</div>'],
+    karika: ['<div style="text-align:center;font-weight:600;margin:0.6em 0;white-space:pre-wrap">', '</div>'],
+    list: ['<div style="margin:0.4em 0;padding:0.4em 0.8em;background:#FBF3E7;border-radius:4px;white-space:pre-wrap">', '</div>'],
+    listsp: ['<div style="margin:0.4em 0;padding:0.4em 0.8em;background:#FBF3E7;border-radius:4px;white-space:pre-wrap">', '</div>'],
+    gana: ['<div style="margin:0.4em 0;padding:0.4em 0.8em;background:#FBF3E7;border-radius:4px;white-space:pre-wrap">', '</div>'],
+    pt: ['<div style="margin:0.4em 0;padding:0.4em 0.8em;background:#FBF3E7;border-radius:4px;white-space:pre-wrap">', '</div>'],
+    note: ['<div style="margin:0.4em 0;padding:0.3em 0.7em;border-left:3px solid #6699CC;background:#F0F6FC;font-size:0.95em">', '</div>'],
+    spacer: ['<br /><br />', ''],
+    hl: ['<b style="color:var(--color-maroon,#7B2D2D)">', '</b>'],
+    HL: ['<b style="color:var(--color-maroon,#7B2D2D)">', '</b>'],
+    hlb: ['<b style="color:var(--color-maroon,#7B2D2D)">', '</b>'],
+    ex: ['<i>', '</i>'],
+    nex: ['<i style="color:#a33">', '</i>'],
+    qt: ['<span style="color:#8B4513">', '</span>'],
+    w: ['<span style="color:#8B4513">', '</span>'],
+    x: ['<span style="color:#8B4513">', '</span>'],
+    y: ['<span style="color:#8B4513">', '</span>'],
+    light: ['<span style="color:#888;font-size:0.9em">', '</span>'],
+    lightnl: ['<span style="color:#888;font-size:0.9em">', '</span><br />'],
+    inline: ['', ''],
+    big: ['<span style="font-size:1.2em">', '</span>'],
+};
+
+function resolveAshtadhyayiRefs(html) {
+    if (!html || typeof html !== 'string') return html;
+    let out = html;
+    // Not just an Ashtadhyayi cross-reference — some commentaries use the same
+    // [[a.b.c]] bracket syntax for a dhatu-list index instead, which never
+    // resolves here. Fall back to plain "(a.b.c)" rather than leaving the
+    // brackets, whether that's because the lookup hasn't loaded yet or because
+    // the reference simply isn't a sutra.
+    const lookup = _sutraLookup || {};
+
+    out = out.replace(SUTRA_CITE_RE, (match, text, a, p, n) => {
+        const entry = lookup[`${toAsciiDigits(a)}.${toAsciiDigits(p)}.${toAsciiDigits(n)}`];
+        return entry ? `<a href="#/chapter/${entry.c}/verse/${entry.v}">${text}</a>` : text;
+    });
+    out = out.replace(SUTRA_BARE_REF_RE, (match, a, p, n) => {
+        const entry = lookup[`${toAsciiDigits(a)}.${toAsciiDigits(p)}.${toAsciiDigits(n)}`];
+        return entry ? `<a href="#/chapter/${entry.c}/verse/${entry.v}">[${a}.${p}.${n}]</a>` : `(${a}.${p}.${n})`;
+    });
+
+    // A <<sutra text>> with no [[ref]] following it (common — it's usually
+    // quoting the very sutra the reader is already on) has nothing to link to;
+    // still style it as a quoted citation instead of leaving the raw <<...>>.
+    out = out.replace(SUTRA_LONE_QUOTE_RE, '<b>$1</b>');
+
+    // Siddhanta-Kaumudi paragraph numbers — no browsable target here, just
+    // render as plain readable text instead of the raw <{SK179}> syntax.
+    out = out.replace(SK_PARA_REF_RE, '(SK$1)');
+
+    for (const [tag, [openRepl, closeRepl]] of Object.entries(ASHTADHYAYI_TAG_STYLES)) {
+        out = out.split(`<${tag}>`).join(openRepl);
+        out = out.split(`</${tag}>`).join(closeRepl);
+    }
+
+    // Safety net: strip any other custom pseudo-tag this file didn't account
+    // for, so it never leaks to the reader as literal "<something>" text.
+    out = out.replace(/<\/?(?!a\b|b\b|i\b|u\b|br\b|div\b|span\b|p\b|strong\b|em\b|sup\b|sub\b|ol\b|ul\b|li\b|table\b|tr\b|td\b|th\b)[a-zA-Z][a-zA-Z0-9]*\b[^>]*>/g, '');
+
+    return out;
 }
 
 function dataBase() {
@@ -448,6 +562,8 @@ export function DatabaseProvider({ children }) {
 
     // Eagerly load the ullekha (cross-reference) lookup table
     if (!_ullekhaLookup && !_ullekhaPromise) _ullekhaPromise = _loadUllekhaLookup();
+    // Eagerly load the Ashtadhyayi sutra-reference lookup table
+    if (!_sutraLookup && !_sutraPromise) _sutraPromise = _loadSutraLookup();
 
     const getCategories        = useCallback((     ) => IS_STATIC ? sGetCategories()         : apiFetch('/categories'),                    []);
     const getCategory          = useCallback((id   ) => IS_STATIC ? sGetCategory(id)          : apiFetch(`/categories/${id}`),              []);
@@ -485,4 +601,4 @@ export function useDatabase() {
     return ctx;
 }
 
-export { resolveUllekhaLinks };
+export { resolveUllekhaLinks, resolveAshtadhyayiRefs };

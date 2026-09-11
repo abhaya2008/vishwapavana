@@ -1,6 +1,13 @@
 import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { useParams, useNavigate, Link } from 'react-router-dom';
-import { useDatabase, IS_STATIC, resolveUllekhaLinks } from '../db/database';
+import { useDatabase, IS_STATIC, resolveUllekhaLinks, resolveAshtadhyayiRefs } from '../db/database';
+
+// Applied everywhere commentary/verse HTML is rendered, so both the Mahabharata
+// ullekha cross-references and ashtadhyayi-com's <<sutra>> [[a.p.n]] citations
+// (and its other inline markup) resolve to real links/styling instead of raw text.
+function resolveRichText(html) {
+    return resolveAshtadhyayiRefs(resolveUllekhaLinks(html));
+}
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import { EDIT_PASSWORD, isAuthed, storeAuth } from '../utils/auth';
@@ -943,10 +950,12 @@ function CollapsiblePane({ id, title, isOpen, onToggle, hasData, rawText, onSave
 const HTML_TAG_RE = /<[a-zA-Z]/;
 
 function renderCell(text) {
-    if (text && HTML_TAG_RE.test(String(text))) {
-        return <span dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(text) }} />;
+    if (!text) return '';
+    const resolved = resolveRichText(String(text));
+    if (HTML_TAG_RE.test(resolved) || resolved.includes('<span') || resolved.includes('<a')) {
+        return <span dangerouslySetInnerHTML={{ __html: resolved }} />;
     }
-    return text || '';
+    return resolved;
 }
 
 function WordMeaningsTable({ rows }) {
@@ -1161,23 +1170,31 @@ function CommentaryContent({ content }) {
     const parsed = parseCommentaryContent(content);
     if (!parsed) {
         if (!content) return null;
-        const paragraphs = String(content).split(/\n\s*\n/).filter(p => p.trim());
+        // Resolve ashtadhyayi-com's <<sutra>> [[a.p.n]] citations and other pseudo-tags
+        // over the WHOLE content before splitting into paragraphs — a citation can
+        // otherwise get cut in half if its <<...>> and [[ref]] land on opposite sides
+        // of a paragraph break.
+        const resolvedContent = resolveRichText(String(content));
+        const paragraphs = resolvedContent.split(/\n\s*\n/).filter(p => p.trim());
         return (
             <div className="commentary-text-container" onClick={handleClick}>
                 {paragraphs.map((para, idx) => {
-                    const isHtml = HTML_TAG_RE.test(para) || para.includes('<span') || para.includes('<a');
+                    const resolved = para.replace(/\n/g, '<br />');
+                    // A paragraph made of nothing but plain text (no real <b>/<span>/<a>/etc.
+                    // survived resolution) renders as safely-escaped React text instead.
+                    const isHtml = HTML_TAG_RE.test(resolved) || resolved.includes('<span') || resolved.includes('<a');
                     if (isHtml) {
                         return (
                             <p
                                 key={idx}
                                 className="commentary-para rte-output"
-                                dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(para.replace(/\n/g, '<br />')) }}
+                                dangerouslySetInnerHTML={{ __html: resolved }}
                             />
                         );
                     }
                     return (
                         <p key={idx} className="commentary-para" style={{ whiteSpace: 'pre-wrap' }}>
-                            {para}
+                            {resolved}
                         </p>
                     );
                 })}
@@ -1223,7 +1240,7 @@ function ParaCommentaryContent({ paragraphs, content }) {
                         <div key={idx} className="para-block" style={{ marginBottom: '1.25rem' }}>
                             <div
                                 className="para-bhashya-text commentary-para rte-output"
-                                dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(bhashyaText.replace(/\n/g, '<br />')) }}
+                                dangerouslySetInnerHTML={{ __html: resolveRichText(bhashyaText.replace(/\n/g, '<br />')) }}
                             />
                             {hasTeeka && (
                                 <div className="para-teeka-wrapper" style={{ marginTop: '0.4rem', marginLeft: '0.2rem' }}>
@@ -1259,7 +1276,7 @@ function ParaCommentaryContent({ paragraphs, content }) {
                                                 fontSize: '0.98rem',
                                                 lineHeight: '1.7'
                                             }}
-                                            dangerouslySetInnerHTML={{ __html: resolveUllekhaLinks(p.teeka.replace(/\n/g, '<br />')) }}
+                                            dangerouslySetInnerHTML={{ __html: resolveRichText(p.teeka.replace(/\n/g, '<br />')) }}
                                         />
                                     )}
                                 </div>
