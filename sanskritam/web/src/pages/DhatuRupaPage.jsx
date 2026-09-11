@@ -66,7 +66,13 @@ function LakaraTable({ lakaraKey, forms }) {
                 {LAKARA_NAMES[lakaraKey] || lakaraKey}
             </div>
             <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderTop: 'none', borderRadius: '0 0 6px 6px' }}>
-                <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+                <table style={{ width: '100%', tableLayout: 'fixed', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+                    <colgroup>
+                        <col style={{ width: '16%' }} />
+                        <col style={{ width: '28%' }} />
+                        <col style={{ width: '28%' }} />
+                        <col style={{ width: '28%' }} />
+                    </colgroup>
                     <thead>
                         <tr style={{ background: '#fff8ec' }}>
                             <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}></th>
@@ -78,9 +84,9 @@ function LakaraTable({ lakaraKey, forms }) {
                     <tbody>
                         {rows.map((row, i) => (
                             <tr key={i} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
-                                <td style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', fontWeight: 600, color: 'var(--color-maroon)' }}>{row.label}</td>
+                                <td style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', fontWeight: 600, color: 'var(--color-maroon)', wordBreak: 'break-word' }}>{row.label}</td>
                                 {row.cells.map((cell, j) => (
-                                    <td key={j} style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)' }}>
+                                    <td key={j} style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', wordBreak: 'break-word' }}>
                                         {(cell || '—').split(',').join(', ')}
                                     </td>
                                 ))}
@@ -100,7 +106,11 @@ function KrutTable({ forms }) {
     }
     return (
         <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px' }}>
-            <table style={{ width: '100%', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+            <table style={{ width: '100%', tableLayout: 'fixed', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+                <colgroup>
+                    <col style={{ width: '22%' }} />
+                    <col style={{ width: '78%' }} />
+                </colgroup>
                 <thead>
                     <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
                         <th style={{ padding: '0.4rem 0.8rem', border: '1px solid var(--border-color)', textAlign: 'left', color: 'var(--color-maroon)' }}>प्रत्ययः</th>
@@ -110,8 +120,8 @@ function KrutTable({ forms }) {
                 <tbody>
                     {entries.map(([pratyaya, form], i) => (
                         <tr key={pratyaya} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
-                            <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)', fontWeight: 600 }}>{pratyaya}</td>
-                            <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)' }}>{String(form).split(',').join(', ')}</td>
+                            <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)', fontWeight: 600, wordBreak: 'break-word' }}>{pratyaya}</td>
+                            <td style={{ padding: '0.35rem 0.8rem', border: '1px solid var(--border-color)', wordBreak: 'break-word' }}>{String(form).split(',').join(', ')}</td>
                         </tr>
                     ))}
                 </tbody>
