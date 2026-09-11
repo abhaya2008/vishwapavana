@@ -10,7 +10,8 @@
     "meaning_english": "to steal",
     "audio_url": null,
     "display_order": 1,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0001"
   },
   {
     "id": 20211751,
@@ -23,7 +24,8 @@
     "meaning_english": "to contemplate,to think,to discuss,to remember, to worry",
     "audio_url": null,
     "display_order": 2,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0002"
   },
   {
     "id": 20211752,
@@ -36,7 +38,8 @@
     "meaning_english": "to restrain,to shy",
     "audio_url": null,
     "display_order": 3,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0003"
   },
   {
     "id": 20211753,
@@ -49,7 +52,8 @@
     "meaning_english": "to make fun of, to laugh at, to joke",
     "audio_url": null,
     "display_order": 4,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0004"
   },
   {
     "id": 20211754,
@@ -62,7 +66,8 @@
     "meaning_english": "to make fun of, to laugh at, to joke",
     "audio_url": null,
     "display_order": 5,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0005"
   },
   {
     "id": 20211755,
@@ -75,7 +80,8 @@
     "meaning_english": "to observe,to see,to look, to mark, to point, to deliberate",
     "audio_url": null,
     "display_order": 6,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0006"
   },
   {
     "id": 20211756,
@@ -88,7 +94,8 @@
     "meaning_english": "to tell a lie",
     "audio_url": null,
     "display_order": 7,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0007"
   },
   {
     "id": 20211757,
@@ -101,7 +108,8 @@
     "meaning_english": "to tell a lie",
     "audio_url": null,
     "display_order": 8,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0008"
   },
   {
     "id": 20211758,
@@ -114,7 +122,8 @@
     "meaning_english": "to make fun of, to laugh at, to joke",
     "audio_url": null,
     "display_order": 9,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0009"
   },
   {
     "id": 20211759,
@@ -127,7 +136,8 @@
     "meaning_english": "to serve, to obey, to desire, to wish",
     "audio_url": null,
     "display_order": 10,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0010"
   },
   {
     "id": 20211760,
@@ -140,7 +150,8 @@
     "meaning_english": "to soften, to melt, to become greasy, to love",
     "audio_url": null,
     "display_order": 11,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0011"
   },
   {
     "id": 20211761,
@@ -153,7 +164,8 @@
     "meaning_english": "to soften, to melt, to become greasy, to love",
     "audio_url": null,
     "display_order": 12,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0012"
   },
   {
     "id": 20211762,
@@ -166,7 +178,8 @@
     "meaning_english": "to throw up",
     "audio_url": null,
     "display_order": 13,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0013"
   },
   {
     "id": 20211763,
@@ -179,7 +192,8 @@
     "meaning_english": "to throw up",
     "audio_url": null,
     "display_order": 14,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0014"
   },
   {
     "id": 20211764,
@@ -192,7 +206,8 @@
     "meaning_english": "to cover,to hide, to cover by net",
     "audio_url": null,
     "display_order": 15,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0015"
   },
   {
     "id": 20211765,
@@ -205,7 +220,8 @@
     "meaning_english": "to cover,to hide, to cover by net",
     "audio_url": null,
     "display_order": 16,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0016"
   },
   {
     "id": 20211766,
@@ -218,7 +234,8 @@
     "meaning_english": "to harass,to annoy,to irritate,to give pain",
     "audio_url": null,
     "display_order": 17,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0017"
   },
   {
     "id": 20211767,
@@ -231,7 +248,8 @@
     "meaning_english": "to enact, to dance, to act, to show",
     "audio_url": null,
     "display_order": 18,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0018"
   },
   {
     "id": 20211768,
@@ -244,7 +262,8 @@
     "meaning_english": "to make effort, to try, to set out",
     "audio_url": null,
     "display_order": 19,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0019"
   },
   {
     "id": 20211769,
@@ -257,7 +276,8 @@
     "meaning_english": "to bind,to restrain,to control",
     "audio_url": null,
     "display_order": 20,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0020"
   },
   {
     "id": 20211770,
@@ -270,7 +290,8 @@
     "meaning_english": "to bind,to restrain,to control",
     "audio_url": null,
     "display_order": 21,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0021"
   },
   {
     "id": 20211771,
@@ -283,7 +304,8 @@
     "meaning_english": "to fill, to complete",
     "audio_url": null,
     "display_order": 22,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0022"
   },
   {
     "id": 20211772,
@@ -296,7 +318,8 @@
     "meaning_english": "to be strong,to live with energy, to win",
     "audio_url": null,
     "display_order": 23,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0023"
   },
   {
     "id": 20211773,
@@ -309,7 +332,8 @@
     "meaning_english": "to seize,to accept,to take side",
     "audio_url": null,
     "display_order": 24,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0024"
   },
   {
     "id": 20211774,
@@ -322,7 +346,8 @@
     "meaning_english": "to order, to motivate, to inspire, to paint, to color",
     "audio_url": null,
     "display_order": 25,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0025"
   },
   {
     "id": 20211775,
@@ -335,7 +360,8 @@
     "meaning_english": "to order, to motivate, to inspire, to paint, to color, to pull",
     "audio_url": null,
     "display_order": 26,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0026"
   },
   {
     "id": 20211776,
@@ -348,7 +374,8 @@
     "meaning_english": "to expand scope, to spread",
     "audio_url": null,
     "display_order": 27,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0027"
   },
   {
     "id": 20211777,
@@ -361,7 +388,8 @@
     "meaning_english": "to throw,to send,to direct, to inspire",
     "audio_url": null,
     "display_order": 28,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0028"
   },
   {
     "id": 20211778,
@@ -374,7 +402,8 @@
     "meaning_english": "to throw,to send,to direct, to inspire",
     "audio_url": null,
     "display_order": 29,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0029"
   },
   {
     "id": 20211779,
@@ -387,7 +416,8 @@
     "meaning_english": "to join, to articulate",
     "audio_url": null,
     "display_order": 30,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0030"
   },
   {
     "id": 20211780,
@@ -400,7 +430,8 @@
     "meaning_english": "to join, to articulate",
     "audio_url": null,
     "display_order": 31,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0031"
   },
   {
     "id": 20211781,
@@ -413,7 +444,8 @@
     "meaning_english": "to join, to articulate",
     "audio_url": null,
     "display_order": 32,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0032"
   },
   {
     "id": 20211782,
@@ -426,7 +458,8 @@
     "meaning_english": "to eat",
     "audio_url": null,
     "display_order": 33,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0033"
   },
   {
     "id": 20211783,
@@ -439,7 +472,8 @@
     "meaning_english": "to cut, to criticise, to blame",
     "audio_url": null,
     "display_order": 34,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0034"
   },
   {
     "id": 20211784,
@@ -452,7 +486,8 @@
     "meaning_english": "to decrease,to diminish, to reduce, to shrink",
     "audio_url": null,
     "display_order": 35,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0035"
   },
   {
     "id": 20211785,
@@ -465,7 +500,8 @@
     "meaning_english": "to decrease,to diminish, to reduce, to shrink",
     "audio_url": null,
     "display_order": 36,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0036"
   },
   {
     "id": 20211786,
@@ -478,7 +514,8 @@
     "meaning_english": "to insult, to dishonor, to disrespect",
     "audio_url": null,
     "display_order": 37,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0037"
   },
   {
     "id": 20211787,
@@ -491,7 +528,8 @@
     "meaning_english": "to insult, to dishonor, to disrespect",
     "audio_url": null,
     "display_order": 38,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0038"
   },
   {
     "id": 20211788,
@@ -504,7 +542,8 @@
     "meaning_english": "to steal, to loot",
     "audio_url": null,
     "display_order": 39,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0039"
   },
   {
     "id": 20211789,
@@ -517,7 +556,8 @@
     "meaning_english": "to steal, to loot",
     "audio_url": null,
     "display_order": 40,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0040"
   },
   {
     "id": 20211790,
@@ -530,7 +570,8 @@
     "meaning_english": "to cheat,to fraud, to leave unfinished, to leave unattended, to ill-behave",
     "audio_url": null,
     "display_order": 41,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0041"
   },
   {
     "id": 20211791,
@@ -543,7 +584,8 @@
     "meaning_english": "to cheat,to fraud, to leave unfinished, to leave unattended, to ill-behave",
     "audio_url": null,
     "display_order": 42,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0042"
   },
   {
     "id": 20211792,
@@ -556,7 +598,8 @@
     "meaning_english": "to cheat,to fraud, to leave unfinished, to leave unattended, to ill-behave",
     "audio_url": null,
     "display_order": 43,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0043"
   },
   {
     "id": 20211793,
@@ -569,7 +612,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
     "audio_url": null,
     "display_order": 44,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0044"
   },
   {
     "id": 20211794,
@@ -582,7 +626,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
     "audio_url": null,
     "display_order": 45,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0045"
   },
   {
     "id": 20211795,
@@ -595,7 +640,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
     "audio_url": null,
     "display_order": 46,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0046"
   },
   {
     "id": 20211796,
@@ -608,7 +654,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
     "audio_url": null,
     "display_order": 47,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0047"
   },
   {
     "id": 20211797,
@@ -621,7 +668,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
     "audio_url": null,
     "display_order": 48,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0048"
   },
   {
     "id": 20211798,
@@ -634,7 +682,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to injure, to become powerful, to take, to dwell, to stay",
     "audio_url": null,
     "display_order": 49,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0049"
   },
   {
     "id": 20211799,
@@ -647,7 +696,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 50,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0050"
   },
   {
     "id": 20211800,
@@ -660,7 +710,8 @@
     "meaning_english": "to pacify, to appease, to console",
     "audio_url": null,
     "display_order": 51,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0051"
   },
   {
     "id": 20211801,
@@ -673,7 +724,8 @@
     "meaning_english": "to pacify, to appease, to console",
     "audio_url": null,
     "display_order": 52,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0052"
   },
   {
     "id": 20211802,
@@ -686,7 +738,8 @@
     "meaning_english": "to speak, to tell, to narrate",
     "audio_url": null,
     "display_order": 53,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0053"
   },
   {
     "id": 20211803,
@@ -699,7 +752,8 @@
     "meaning_english": "to speak, to tell, to narrate, to see",
     "audio_url": null,
     "display_order": 54,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0054"
   },
   {
     "id": 20211804,
@@ -712,7 +766,8 @@
     "meaning_english": "to love, to be kind",
     "audio_url": null,
     "display_order": 55,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0055"
   },
   {
     "id": 20211805,
@@ -725,7 +780,8 @@
     "meaning_english": "to kill, to destroy",
     "audio_url": null,
     "display_order": 56,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0056"
   },
   {
     "id": 20211806,
@@ -738,7 +794,8 @@
     "meaning_english": "to insult, to disrespect, to dishonor",
     "audio_url": null,
     "display_order": 57,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0057"
   },
   {
     "id": 20211807,
@@ -751,7 +808,8 @@
     "meaning_english": "to smile,to expand,to bloom",
     "audio_url": null,
     "display_order": 58,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0058"
   },
   {
     "id": 20211808,
@@ -764,7 +822,8 @@
     "meaning_english": "to hug,to embrace,to stay attached",
     "audio_url": null,
     "display_order": 59,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0059"
   },
   {
     "id": 20211809,
@@ -777,7 +836,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 60,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0060"
   },
   {
     "id": 20211810,
@@ -790,7 +850,8 @@
     "meaning_english": "to cut, to split, to tamp, to slice, to torture",
     "audio_url": null,
     "display_order": 61,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0061"
   },
   {
     "id": 20211811,
@@ -803,7 +864,8 @@
     "meaning_english": "to cover",
     "audio_url": null,
     "display_order": 62,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0062"
   },
   {
     "id": 20211812,
@@ -816,7 +878,8 @@
     "meaning_english": "to give",
     "audio_url": null,
     "display_order": 63,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0063"
   },
   {
     "id": 20211813,
@@ -829,7 +892,8 @@
     "meaning_english": "to strike,to beat, to hit",
     "audio_url": null,
     "display_order": 64,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0064"
   },
   {
     "id": 20211814,
@@ -842,7 +906,8 @@
     "meaning_english": "to break",
     "audio_url": null,
     "display_order": 65,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0065"
   },
   {
     "id": 20211815,
@@ -855,7 +920,8 @@
     "meaning_english": "to break in pieces,to break,to cut,to tear to pieces",
     "audio_url": null,
     "display_order": 66,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0066"
   },
   {
     "id": 20211816,
@@ -868,7 +934,8 @@
     "meaning_english": "to break in pieces,to break,to cut,to tear to pieces",
     "audio_url": null,
     "display_order": 67,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0067"
   },
   {
     "id": 20211817,
@@ -881,7 +948,8 @@
     "meaning_english": "to protect",
     "audio_url": null,
     "display_order": 68,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0068"
   },
   {
     "id": 20211818,
@@ -894,7 +962,8 @@
     "meaning_english": "to enclose,to cover,to envelope, to protect, to powder",
     "audio_url": null,
     "display_order": 69,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0069"
   },
   {
     "id": 20211819,
@@ -907,7 +976,8 @@
     "meaning_english": "to protect",
     "audio_url": null,
     "display_order": 70,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0070"
   },
   {
     "id": 20211820,
@@ -920,7 +990,8 @@
     "meaning_english": "to protect",
     "audio_url": null,
     "display_order": 71,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0071"
   },
   {
     "id": 20211821,
@@ -933,7 +1004,8 @@
     "meaning_english": "to cut,to slice, to break into pieces",
     "audio_url": null,
     "display_order": 72,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0072"
   },
   {
     "id": 20211822,
@@ -946,7 +1018,8 @@
     "meaning_english": "to divide, to separate, to isolate, to partition",
     "audio_url": null,
     "display_order": 73,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0073"
   },
   {
     "id": 20211823,
@@ -959,7 +1032,8 @@
     "meaning_english": "to divide, to separate, to isolate, to partition",
     "audio_url": null,
     "display_order": 74,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0074"
   },
   {
     "id": 20211824,
@@ -972,7 +1046,8 @@
     "meaning_english": "to be angry",
     "audio_url": null,
     "display_order": 75,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0075"
   },
   {
     "id": 20211825,
@@ -985,7 +1060,8 @@
     "meaning_english": "to adorn,to decorate, to be happy",
     "audio_url": null,
     "display_order": 76,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0076"
   },
   {
     "id": 20211826,
@@ -998,7 +1074,8 @@
     "meaning_english": "to do auspicious work",
     "audio_url": null,
     "display_order": 77,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0077"
   },
   {
     "id": 20211827,
@@ -1011,7 +1088,8 @@
     "meaning_english": "to vomit",
     "audio_url": null,
     "display_order": 78,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0078"
   },
   {
     "id": 20211828,
@@ -1024,7 +1102,8 @@
     "meaning_english": "to honour,to dishonour,to respect,to disrespect",
     "audio_url": null,
     "display_order": 79,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0079"
   },
   {
     "id": 20211829,
@@ -1037,7 +1116,8 @@
     "meaning_english": "to honour,to dishonour,to respect,to disrespect",
     "audio_url": null,
     "display_order": 80,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0080"
   },
   {
     "id": 20211830,
@@ -1050,7 +1130,8 @@
     "meaning_english": "to inspire, to question, to ask, to request",
     "audio_url": null,
     "display_order": 81,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0081"
   },
   {
     "id": 20211831,
@@ -1063,7 +1144,8 @@
     "meaning_english": "to kill, to destroy, to uproot",
     "audio_url": null,
     "display_order": 82,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0082"
   },
   {
     "id": 20211832,
@@ -1076,7 +1158,8 @@
     "meaning_english": "to kill, to destroy, to uproot",
     "audio_url": null,
     "display_order": 83,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0083"
   },
   {
     "id": 20211833,
@@ -1089,7 +1172,8 @@
     "meaning_english": "to suffer,to give pain",
     "audio_url": null,
     "display_order": 84,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0084"
   },
   {
     "id": 20211834,
@@ -1102,7 +1186,8 @@
     "meaning_english": "to suffer,to give pain",
     "audio_url": null,
     "display_order": 85,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0085"
   },
   {
     "id": 20211835,
@@ -1115,7 +1200,8 @@
     "meaning_english": "to wash,to cleanse, to purify",
     "audio_url": null,
     "display_order": 86,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0086"
   },
   {
     "id": 20211836,
@@ -1128,7 +1214,8 @@
     "meaning_english": "to establish, to make someone sit, to complete",
     "audio_url": null,
     "display_order": 87,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0087"
   },
   {
     "id": 20211837,
@@ -1141,7 +1228,8 @@
     "meaning_english": "to weigh,to measure",
     "audio_url": null,
     "display_order": 88,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0088"
   },
   {
     "id": 20211838,
@@ -1154,7 +1242,8 @@
     "meaning_english": "to uproot, to remove, to throw, to shake, to move, to swing",
     "audio_url": null,
     "display_order": 89,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0089"
   },
   {
     "id": 20211839,
@@ -1167,7 +1256,8 @@
     "meaning_english": "to be great, to be large, to rise up, to be heaped up",
     "audio_url": null,
     "display_order": 90,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0090"
   },
   {
     "id": 20211840,
@@ -1180,7 +1270,8 @@
     "meaning_english": "to raise,to elevate, to make something sink, to make wet",
     "audio_url": null,
     "display_order": 91,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0091"
   },
   {
     "id": 20211841,
@@ -1193,7 +1284,8 @@
     "meaning_english": "to crop, to root, to plant, to sow",
     "audio_url": null,
     "display_order": 92,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0092"
   },
   {
     "id": 20211842,
@@ -1206,7 +1298,8 @@
     "meaning_english": "to throw, to  make something fly",
     "audio_url": null,
     "display_order": 93,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0093"
   },
   {
     "id": 20211843,
@@ -1219,7 +1312,8 @@
     "meaning_english": "to throw, to  make something fly",
     "audio_url": null,
     "display_order": 94,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0094"
   },
   {
     "id": 20211844,
@@ -1232,7 +1326,8 @@
     "meaning_english": "to break,to split,to divide, to cut",
     "audio_url": null,
     "display_order": 95,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0095"
   },
   {
     "id": 20211845,
@@ -1245,7 +1340,8 @@
     "meaning_english": "to oil, to become greasy, to anoint",
     "audio_url": null,
     "display_order": 96,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0096"
   },
   {
     "id": 20211846,
@@ -1258,7 +1354,8 @@
     "meaning_english": "to foster,to bring up, to cherish",
     "audio_url": null,
     "display_order": 97,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0097"
   },
   {
     "id": 20211847,
@@ -1271,7 +1368,8 @@
     "meaning_english": "to protect,to govern",
     "audio_url": null,
     "display_order": 98,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0098"
   },
   {
     "id": 20211848,
@@ -1284,7 +1382,8 @@
     "meaning_english": "to protect,to govern",
     "audio_url": null,
     "display_order": 99,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0099"
   },
   {
     "id": 20211849,
@@ -1297,7 +1396,8 @@
     "meaning_english": "to kill, to destroy",
     "audio_url": null,
     "display_order": 100,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0100"
   },
   {
     "id": 20211850,
@@ -1310,7 +1410,8 @@
     "meaning_english": "to weigh, to measure",
     "audio_url": null,
     "display_order": 101,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0101"
   },
   {
     "id": 20211851,
@@ -1323,7 +1424,8 @@
     "meaning_english": "to weigh, to measure",
     "audio_url": null,
     "display_order": 102,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0102"
   },
   {
     "id": 20211852,
@@ -1336,7 +1438,8 @@
     "meaning_english": "to cut, to strike",
     "audio_url": null,
     "display_order": 103,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0103"
   },
   {
     "id": 20211853,
@@ -1349,7 +1452,8 @@
     "meaning_english": "to crush,to grind,to powder",
     "audio_url": null,
     "display_order": 104,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0104"
   },
   {
     "id": 20211854,
@@ -1362,7 +1466,8 @@
     "meaning_english": "to throw up",
     "audio_url": null,
     "display_order": 105,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0105"
   },
   {
     "id": 20211855,
@@ -1375,7 +1480,8 @@
     "meaning_english": "to destroy",
     "audio_url": null,
     "display_order": 106,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0106"
   },
   {
     "id": 20211856,
@@ -1388,7 +1494,8 @@
     "meaning_english": "to destroy",
     "audio_url": null,
     "display_order": 107,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0107"
   },
   {
     "id": 20211857,
@@ -1401,7 +1508,8 @@
     "meaning_english": "to do cultural rites, to cultivate, to complete, to prepare, to turn, to go",
     "audio_url": null,
     "display_order": 108,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0108"
   },
   {
     "id": 20211858,
@@ -1414,7 +1522,8 @@
     "meaning_english": "to do cultural rites, to cultivate, to complete, to prepare, to turn, to go",
     "audio_url": null,
     "display_order": 109,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0109"
   },
   {
     "id": 20211859,
@@ -1427,7 +1536,8 @@
     "meaning_english": "to tax, to pay tax, to produce goods",
     "audio_url": null,
     "display_order": 110,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0110"
   },
   {
     "id": 20211860,
@@ -1440,7 +1550,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 111,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0111"
   },
   {
     "id": 20211861,
@@ -1453,7 +1564,8 @@
     "meaning_english": "to endure,to tolerate, to forgive, to shine",
     "audio_url": null,
     "display_order": 112,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0112"
   },
   {
     "id": 20211862,
@@ -1466,7 +1578,8 @@
     "meaning_english": "to live miserably, to live hard life",
     "audio_url": null,
     "display_order": 113,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0113"
   },
   {
     "id": 20211863,
@@ -1479,7 +1592,8 @@
     "meaning_english": "to live miserably, to live hard life",
     "audio_url": null,
     "display_order": 114,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0114"
   },
   {
     "id": 20211864,
@@ -1492,7 +1606,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 115,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0115"
   },
   {
     "id": 20211865,
@@ -1505,7 +1620,8 @@
     "meaning_english": "to live miserably, to live hard life, to go",
     "audio_url": null,
     "display_order": 116,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0116"
   },
   {
     "id": 20211866,
@@ -1518,7 +1634,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 117,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0117"
   },
   {
     "id": 20211867,
@@ -1531,7 +1648,8 @@
     "meaning_english": "to know, to understand, to teach, to educate, to explain, to clarify, to make happy, to hit, to sharpen",
     "audio_url": null,
     "display_order": 118,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0118"
   },
   {
     "id": 20211868,
@@ -1544,7 +1662,8 @@
     "meaning_english": "to keep under control, to nourish, to nurture, to serve food",
     "audio_url": null,
     "display_order": 119,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0119"
   },
   {
     "id": 20211869,
@@ -1557,7 +1676,8 @@
     "meaning_english": "to cheat, to do misdeed",
     "audio_url": null,
     "display_order": 120,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0120"
   },
   {
     "id": 20211870,
@@ -1570,7 +1690,8 @@
     "meaning_english": "to cheat, to do misdeed",
     "audio_url": null,
     "display_order": 121,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0121"
   },
   {
     "id": 20211871,
@@ -1583,7 +1704,8 @@
     "meaning_english": "to abandon,to quit, to leave",
     "audio_url": null,
     "display_order": 122,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0122"
   },
   {
     "id": 20211872,
@@ -1596,7 +1718,8 @@
     "meaning_english": "to have power, to gain power, to explain",
     "audio_url": null,
     "display_order": 123,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0123"
   },
   {
     "id": 20211873,
@@ -1609,7 +1732,8 @@
     "meaning_english": "to find, to gather, to collect",
     "audio_url": null,
     "display_order": 124,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0124"
   },
   {
     "id": 20211874,
@@ -1622,7 +1746,8 @@
     "meaning_english": "to go, to change places",
     "audio_url": null,
     "display_order": 125,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0125"
   },
   {
     "id": 20211875,
@@ -1635,7 +1760,8 @@
     "meaning_english": "to collect, to pile, to make a heap",
     "audio_url": null,
     "display_order": 126,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0126"
   },
   {
     "id": 20211876,
@@ -1648,7 +1774,8 @@
     "meaning_english": "to cover, to hide",
     "audio_url": null,
     "display_order": 127,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0127"
   },
   {
     "id": 20211877,
@@ -1661,7 +1788,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to irritate",
     "audio_url": null,
     "display_order": 128,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0128"
   },
   {
     "id": 20211878,
@@ -1674,7 +1802,8 @@
     "meaning_english": "to kill, to destroy",
     "audio_url": null,
     "display_order": 129,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0129"
   },
   {
     "id": 20211879,
@@ -1687,7 +1816,8 @@
     "meaning_english": "to kill, to destroy, to hurt, to irritate",
     "audio_url": null,
     "display_order": 130,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0130"
   },
   {
     "id": 20211880,
@@ -1700,7 +1830,8 @@
     "meaning_english": "to be great, to be large, to rise up, to be heaped up",
     "audio_url": null,
     "display_order": 131,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0131"
   },
   {
     "id": 20211881,
@@ -1713,7 +1844,8 @@
     "meaning_english": "to collect, to make a heap, to make a pile",
     "audio_url": null,
     "display_order": 132,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0132"
   },
   {
     "id": 20211882,
@@ -1726,7 +1858,8 @@
     "meaning_english": "to collect, to make a heap, to make a pile",
     "audio_url": null,
     "display_order": 133,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0133"
   },
   {
     "id": 20211883,
@@ -1739,7 +1872,8 @@
     "meaning_english": "to grow, to prosper",
     "audio_url": null,
     "display_order": 134,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0134"
   },
   {
     "id": 20211884,
@@ -1752,7 +1886,8 @@
     "meaning_english": "to bind,to build",
     "audio_url": null,
     "display_order": 135,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0135"
   },
   {
     "id": 20211885,
@@ -1765,7 +1900,8 @@
     "meaning_english": "to throw",
     "audio_url": null,
     "display_order": 136,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0136"
   },
   {
     "id": 20211886,
@@ -1778,7 +1914,8 @@
     "meaning_english": "to throw",
     "audio_url": null,
     "display_order": 137,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0137"
   },
   {
     "id": 20211887,
@@ -1791,7 +1928,8 @@
     "meaning_english": "to be great, to be large, to rise up, to be heaped up",
     "audio_url": null,
     "display_order": 138,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0138"
   },
   {
     "id": 20211888,
@@ -1804,7 +1942,8 @@
     "meaning_english": "to be decorated",
     "audio_url": null,
     "display_order": 139,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0139"
   },
   {
     "id": 20211889,
@@ -1817,7 +1956,8 @@
     "meaning_english": "to be decorated",
     "audio_url": null,
     "display_order": 140,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0140"
   },
   {
     "id": 20211890,
@@ -1830,7 +1970,8 @@
     "meaning_english": "to be decorated",
     "audio_url": null,
     "display_order": 141,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0141"
   },
   {
     "id": 20211891,
@@ -1843,7 +1984,8 @@
     "meaning_english": "to tinge,to color",
     "audio_url": null,
     "display_order": 142,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0142"
   },
   {
     "id": 20211892,
@@ -1856,7 +1998,8 @@
     "meaning_english": "to hestitate",
     "audio_url": null,
     "display_order": 143,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0143"
   },
   {
     "id": 20211893,
@@ -1869,7 +2012,8 @@
     "meaning_english": "to worship, to pray, to honor, to respect",
     "audio_url": null,
     "display_order": 144,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0144"
   },
   {
     "id": 20211894,
@@ -1882,7 +2026,8 @@
     "meaning_english": "to praise,to heat",
     "audio_url": null,
     "display_order": 145,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0145"
   },
   {
     "id": 20211895,
@@ -1895,7 +2040,8 @@
     "meaning_english": "to be lazy",
     "audio_url": null,
     "display_order": 146,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0146"
   },
   {
     "id": 20211896,
@@ -1908,7 +2054,8 @@
     "meaning_english": "to dry,to become dry, to extract, to exploit",
     "audio_url": null,
     "display_order": 147,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0147"
   },
   {
     "id": 20211897,
@@ -1921,7 +2068,8 @@
     "meaning_english": "to direct, to inspire",
     "audio_url": null,
     "display_order": 148,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0148"
   },
   {
     "id": 20211898,
@@ -1934,7 +2082,8 @@
     "meaning_english": "to sound",
     "audio_url": null,
     "display_order": 149,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0149"
   },
   {
     "id": 20211899,
@@ -1947,7 +2096,8 @@
     "meaning_english": "to sound",
     "audio_url": null,
     "display_order": 150,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0150"
   },
   {
     "id": 20211900,
@@ -1960,7 +2110,8 @@
     "meaning_english": "to sound",
     "audio_url": null,
     "display_order": 151,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0151"
   },
   {
     "id": 20211901,
@@ -1973,7 +2124,8 @@
     "meaning_english": "to sprinkle,to drip, to ooze",
     "audio_url": null,
     "display_order": 152,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0152"
   },
   {
     "id": 20211902,
@@ -1986,7 +2138,8 @@
     "meaning_english": "to spread, to expand",
     "audio_url": null,
     "display_order": 153,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0153"
   },
   {
     "id": 20211903,
@@ -1999,7 +2152,8 @@
     "meaning_english": "to sharpen, to whet",
     "audio_url": null,
     "display_order": 154,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0154"
   },
   {
     "id": 20211904,
@@ -2012,7 +2166,8 @@
     "meaning_english": "to make famous, to be famous",
     "audio_url": null,
     "display_order": 155,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0155"
   },
   {
     "id": 20211905,
@@ -2025,7 +2180,8 @@
     "meaning_english": "to cut,to fill, to complete",
     "audio_url": null,
     "display_order": 156,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0156"
   },
   {
     "id": 20211906,
@@ -2038,7 +2194,8 @@
     "meaning_english": "to cover",
     "audio_url": null,
     "display_order": 157,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0157"
   },
   {
     "id": 20211907,
@@ -2051,7 +2208,8 @@
     "meaning_english": "to cover",
     "audio_url": null,
     "display_order": 158,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0158"
   },
   {
     "id": 20211908,
@@ -2064,7 +2222,8 @@
     "meaning_english": "to be invisible,to be hidden, to be destroyed",
     "audio_url": null,
     "display_order": 159,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0159"
   },
   {
     "id": 20211909,
@@ -2077,7 +2236,8 @@
     "meaning_english": "to be invisible,to be hidden, to be destroyed",
     "audio_url": null,
     "display_order": 160,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0160"
   },
   {
     "id": 20211910,
@@ -2090,7 +2250,8 @@
     "meaning_english": "to speak articulately, to talk clearly",
     "audio_url": null,
     "display_order": 161,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0161"
   },
   {
     "id": 20211911,
@@ -2103,7 +2264,8 @@
     "meaning_english": "to speak articulately, to talk clearly",
     "audio_url": null,
     "display_order": 162,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0162"
   },
   {
     "id": 20211912,
@@ -2116,7 +2278,8 @@
     "meaning_english": "to speak articulately, to talk clearly",
     "audio_url": null,
     "display_order": 163,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0163"
   },
   {
     "id": 20211913,
@@ -2129,7 +2292,8 @@
     "meaning_english": "to cut, to prick",
     "audio_url": null,
     "display_order": 164,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0164"
   },
   {
     "id": 20211914,
@@ -2142,7 +2306,8 @@
     "meaning_english": "to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 165,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0165"
   },
   {
     "id": 20211915,
@@ -2155,7 +2320,8 @@
     "meaning_english": "to protect,to release",
     "audio_url": null,
     "display_order": 166,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0166"
   },
   {
     "id": 20211916,
@@ -2168,7 +2334,8 @@
     "meaning_english": "to inspire, to motivate",
     "audio_url": null,
     "display_order": 167,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0167"
   },
   {
     "id": 20211917,
@@ -2181,7 +2348,8 @@
     "meaning_english": "to mix, to make impure",
     "audio_url": null,
     "display_order": 168,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0168"
   },
   {
     "id": 20211918,
@@ -2194,7 +2362,8 @@
     "meaning_english": "to collect, to pile, to make a heap",
     "audio_url": null,
     "display_order": 169,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0169"
   },
   {
     "id": 20211919,
@@ -2207,7 +2376,8 @@
     "meaning_english": "to speak inarticulately, to speak uncultured, to talk rude, to talk indescent",
     "audio_url": null,
     "display_order": 170,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0170"
   },
   {
     "id": 20211920,
@@ -2220,7 +2390,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 171,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0171"
   },
   {
     "id": 20211921,
@@ -2233,7 +2404,8 @@
     "meaning_english": "to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 172,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0172"
   },
   {
     "id": 20211922,
@@ -2246,7 +2418,8 @@
     "meaning_english": "to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 173,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0173"
   },
   {
     "id": 20211923,
@@ -2259,7 +2432,8 @@
     "meaning_english": "to give",
     "audio_url": null,
     "display_order": 174,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0174"
   },
   {
     "id": 20211924,
@@ -2272,7 +2446,8 @@
     "meaning_english": "to cut, to split, to tamp, to slice, to torture",
     "audio_url": null,
     "display_order": 175,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0175"
   },
   {
     "id": 20211925,
@@ -2285,7 +2460,8 @@
     "meaning_english": "to immerse",
     "audio_url": null,
     "display_order": 176,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0176"
   },
   {
     "id": 20211926,
@@ -2298,7 +2474,8 @@
     "meaning_english": "to roar,to growl,to thunder",
     "audio_url": null,
     "display_order": 177,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0177"
   },
   {
     "id": 20211927,
@@ -2311,7 +2488,8 @@
     "meaning_english": "to roar,to growl,to thunder",
     "audio_url": null,
     "display_order": 178,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0178"
   },
   {
     "id": 20211928,
@@ -2324,7 +2502,8 @@
     "meaning_english": "to desire, to wish",
     "audio_url": null,
     "display_order": 179,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0179"
   },
   {
     "id": 20211929,
@@ -2337,7 +2516,8 @@
     "meaning_english": "to dwell, to reside, to stay, to invite",
     "audio_url": null,
     "display_order": 180,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0180"
   },
   {
     "id": 20211930,
@@ -2350,7 +2530,8 @@
     "meaning_english": "to dwell, to reside, to stay, to invite",
     "audio_url": null,
     "display_order": 181,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0181"
   },
   {
     "id": 20211931,
@@ -2363,7 +2544,8 @@
     "meaning_english": "to protect,to release",
     "audio_url": null,
     "display_order": 182,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0182"
   },
   {
     "id": 20211932,
@@ -2376,7 +2558,8 @@
     "meaning_english": "to praise",
     "audio_url": null,
     "display_order": 183,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0183"
   },
   {
     "id": 20211933,
@@ -2389,7 +2572,8 @@
     "meaning_english": "to kill, to hurt, to hit, to strike, to injure",
     "audio_url": null,
     "display_order": 184,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0184"
   },
   {
     "id": 20211934,
@@ -2402,7 +2586,8 @@
     "meaning_english": "to heap,to unite, to pile up",
     "audio_url": null,
     "display_order": 185,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0185"
   },
   {
     "id": 20211935,
@@ -2415,7 +2600,8 @@
     "meaning_english": "to throw,to send,to direct, to inspire",
     "audio_url": null,
     "display_order": 186,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0186"
   },
   {
     "id": 20211936,
@@ -2428,7 +2614,8 @@
     "meaning_english": "to be angry",
     "audio_url": null,
     "display_order": 187,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0187"
   },
   {
     "id": 20211937,
@@ -2441,7 +2628,8 @@
     "meaning_english": "to be angry",
     "audio_url": null,
     "display_order": 188,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0188"
   },
   {
     "id": 20211938,
@@ -2454,7 +2642,8 @@
     "meaning_english": "to throw, to hit, to collect",
     "audio_url": null,
     "display_order": 189,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0189"
   },
   {
     "id": 20211939,
@@ -2467,7 +2656,8 @@
     "meaning_english": "to heap,to unite, to pile up",
     "audio_url": null,
     "display_order": 190,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0190"
   },
   {
     "id": 20211940,
@@ -2480,7 +2670,8 @@
     "meaning_english": "to heap,to unite, to pile up",
     "audio_url": null,
     "display_order": 191,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0191"
   },
   {
     "id": 20211941,
@@ -2493,7 +2684,8 @@
     "meaning_english": "to think to perceive, to meditate, to remember, to memorize",
     "audio_url": null,
     "display_order": 192,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0192"
   },
   {
     "id": 20211942,
@@ -2506,7 +2698,8 @@
     "meaning_english": "to bite,to sting",
     "audio_url": null,
     "display_order": 193,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0193"
   },
   {
     "id": 20211943,
@@ -2519,7 +2712,8 @@
     "meaning_english": "to see, to bite,to sting",
     "audio_url": null,
     "display_order": 194,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0194"
   },
   {
     "id": 20211944,
@@ -2532,7 +2726,8 @@
     "meaning_english": "to see, to bite,to sting",
     "audio_url": null,
     "display_order": 195,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0195"
   },
   {
     "id": 20211945,
@@ -2545,7 +2740,8 @@
     "meaning_english": "to collect, to bring together, to pile up, to heap",
     "audio_url": null,
     "display_order": 196,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0196"
   },
   {
     "id": 20211946,
@@ -2558,7 +2754,8 @@
     "meaning_english": "to collect, to bring together, to pile up, to heap",
     "audio_url": null,
     "display_order": 197,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0197"
   },
   {
     "id": 20211947,
@@ -2571,7 +2768,8 @@
     "meaning_english": "to support the family, to govern, to lead",
     "audio_url": null,
     "display_order": 198,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0198"
   },
   {
     "id": 20211948,
@@ -2584,7 +2782,8 @@
     "meaning_english": "to consult, to advise, to discuss privately",
     "audio_url": null,
     "display_order": 199,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0199"
   },
   {
     "id": 20211949,
@@ -2597,7 +2796,8 @@
     "meaning_english": "to take, to join, to unite",
     "audio_url": null,
     "display_order": 200,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0200"
   },
   {
     "id": 20211950,
@@ -2610,7 +2810,8 @@
     "meaning_english": "to hate, to insult, to ignore, to blame, to criticize, to frighten",
     "audio_url": null,
     "display_order": 201,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0201"
   },
   {
     "id": 20211951,
@@ -2623,7 +2824,8 @@
     "meaning_english": "to hate, to insult, to ignore, to blame, to criticize, to frighten",
     "audio_url": null,
     "display_order": 202,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0202"
   },
   {
     "id": 20211952,
@@ -2636,7 +2838,8 @@
     "meaning_english": "to kill, to destroy, to hit, to cause pain",
     "audio_url": null,
     "display_order": 203,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0203"
   },
   {
     "id": 20211953,
@@ -2649,7 +2852,8 @@
     "meaning_english": "to kill, to destroy, to hit, to cause pain",
     "audio_url": null,
     "display_order": 204,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0204"
   },
   {
     "id": 20211954,
@@ -2662,7 +2866,8 @@
     "meaning_english": "to throw, to  make something fly",
     "audio_url": null,
     "display_order": 205,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0205"
   },
   {
     "id": 20211955,
@@ -2675,7 +2880,8 @@
     "meaning_english": "to throw, to  make something fly",
     "audio_url": null,
     "display_order": 206,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0206"
   },
   {
     "id": 20211956,
@@ -2688,7 +2894,8 @@
     "meaning_english": "to kill, to destroy",
     "audio_url": null,
     "display_order": 207,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0207"
   },
   {
     "id": 20211957,
@@ -2701,7 +2908,8 @@
     "meaning_english": "to kill, to destroy",
     "audio_url": null,
     "display_order": 208,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0208"
   },
   {
     "id": 20211958,
@@ -2714,7 +2922,8 @@
     "meaning_english": "to measure,to weigh",
     "audio_url": null,
     "display_order": 209,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0209"
   },
   {
     "id": 20211959,
@@ -2727,7 +2936,8 @@
     "meaning_english": "to desire,to seek,to play, to enjoy, to delight",
     "audio_url": null,
     "display_order": 210,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0210"
   },
   {
     "id": 20211960,
@@ -2740,7 +2950,8 @@
     "meaning_english": "to constrict, to contract",
     "audio_url": null,
     "display_order": 211,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0211"
   },
   {
     "id": 20211961,
@@ -2753,7 +2964,8 @@
     "meaning_english": "to complete, to fill, to fulfill",
     "audio_url": null,
     "display_order": 212,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0212"
   },
   {
     "id": 20211962,
@@ -2766,7 +2978,8 @@
     "meaning_english": "to hope, to believe, to doubt, to question, to become pregnant",
     "audio_url": null,
     "display_order": 213,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0213"
   },
   {
     "id": 20211963,
@@ -2779,7 +2992,8 @@
     "meaning_english": "to praise",
     "audio_url": null,
     "display_order": 214,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0214"
   },
   {
     "id": 20211964,
@@ -2792,7 +3006,8 @@
     "meaning_english": "to pray, to worship, to respect",
     "audio_url": null,
     "display_order": 215,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0215"
   },
   {
     "id": 20211965,
@@ -2805,7 +3020,8 @@
     "meaning_english": "to consider,to think,to sound,to shout",
     "audio_url": null,
     "display_order": 216,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0216"
   },
   {
     "id": 20211966,
@@ -2818,7 +3034,8 @@
     "meaning_english": "to make an effort, to try",
     "audio_url": null,
     "display_order": 217,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0217"
   },
   {
     "id": 20211967,
@@ -2831,7 +3048,8 @@
     "meaning_english": "to publish, to advertise, to explain, to clarify",
     "audio_url": null,
     "display_order": 218,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0218"
   },
   {
     "id": 20211968,
@@ -2844,7 +3062,8 @@
     "meaning_english": "to criticize",
     "audio_url": null,
     "display_order": 219,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0219"
   },
   {
     "id": 20211969,
@@ -2857,7 +3076,8 @@
     "meaning_english": "to insult, to criticize, to blame, to hate",
     "audio_url": null,
     "display_order": 220,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0220"
   },
   {
     "id": 20211970,
@@ -2870,7 +3090,8 @@
     "meaning_english": "to cut,to break",
     "audio_url": null,
     "display_order": 221,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0221"
   },
   {
     "id": 20211971,
@@ -2883,7 +3104,8 @@
     "meaning_english": "to cut,to break",
     "audio_url": null,
     "display_order": 222,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0222"
   },
   {
     "id": 20211972,
@@ -2896,7 +3118,8 @@
     "meaning_english": "to drip, to flow, to ooze out",
     "audio_url": null,
     "display_order": 223,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0223"
   },
   {
     "id": 20211973,
@@ -2909,7 +3132,8 @@
     "meaning_english": "to analyze, to argue",
     "audio_url": null,
     "display_order": 224,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0224"
   },
   {
     "id": 20211974,
@@ -2922,7 +3146,8 @@
     "meaning_english": "to avoid giving, to cheat, to do indistinctly, to collect",
     "audio_url": null,
     "display_order": 225,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0225"
   },
   {
     "id": 20211975,
@@ -2935,7 +3160,8 @@
     "meaning_english": "to heat",
     "audio_url": null,
     "display_order": 226,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0226"
   },
   {
     "id": 20211976,
@@ -2948,7 +3174,8 @@
     "meaning_english": "to cheat",
     "audio_url": null,
     "display_order": 227,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0227"
   },
   {
     "id": 20211977,
@@ -2961,7 +3188,8 @@
     "meaning_english": "to be impregnated, to show great courage, to be capable of bearing offsprings",
     "audio_url": null,
     "display_order": 228,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0228"
   },
   {
     "id": 20211978,
@@ -2974,7 +3202,8 @@
     "meaning_english": "to please, satisfy",
     "audio_url": null,
     "display_order": 229,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0229"
   },
   {
     "id": 20211979,
@@ -2987,7 +3216,8 @@
     "meaning_english": "to irritate, to cause pain, to mourn to grieve",
     "audio_url": null,
     "display_order": 230,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0230"
   },
   {
     "id": 20211980,
@@ -3000,7 +3230,8 @@
     "meaning_english": "to know, to understand",
     "audio_url": null,
     "display_order": 231,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0231"
   },
   {
     "id": 20211981,
@@ -3013,7 +3244,8 @@
     "meaning_english": "to improve body, to know, to understand",
     "audio_url": null,
     "display_order": 232,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0232"
   },
   {
     "id": 20211982,
@@ -3026,7 +3258,8 @@
     "meaning_english": "to boast, to be egoistic, to be proud, to stabilize",
     "audio_url": null,
     "display_order": 233,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0233"
   },
   {
     "id": 20211983,
@@ -3039,7 +3272,8 @@
     "meaning_english": "to boast, to be egoistic, to be proud, to stabilize",
     "audio_url": null,
     "display_order": 234,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0234"
   },
   {
     "id": 20211984,
@@ -3052,7 +3286,8 @@
     "meaning_english": "to insult, to blame, to criticise",
     "audio_url": null,
     "display_order": 235,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0235"
   },
   {
     "id": 20211985,
@@ -3065,7 +3300,8 @@
     "meaning_english": "to smile inappropriately, to smile with an insult",
     "audio_url": null,
     "display_order": 236,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0236"
   },
   {
     "id": 20211986,
@@ -3078,7 +3314,8 @@
     "meaning_english": "to learn, to study",
     "audio_url": null,
     "display_order": 237,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0237"
   },
   {
     "id": 20211987,
@@ -3091,7 +3328,8 @@
     "meaning_english": "to bark",
     "audio_url": null,
     "display_order": 238,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0238"
   },
   {
     "id": 20211988,
@@ -3104,7 +3342,8 @@
     "meaning_english": "to utter, to sound, to explain",
     "audio_url": null,
     "display_order": 239,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0239"
   },
   {
     "id": 20211989,
@@ -3117,7 +3356,8 @@
     "meaning_english": "to wink",
     "audio_url": null,
     "display_order": 240,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0240"
   },
   {
     "id": 20211990,
@@ -3130,7 +3370,8 @@
     "meaning_english": "to kill, to destroy",
     "audio_url": null,
     "display_order": 241,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0241"
   },
   {
     "id": 20211991,
@@ -3143,7 +3384,8 @@
     "meaning_english": "to drip, to ooze, to kill, to try to kill, to wound",
     "audio_url": null,
     "display_order": 242,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0242"
   },
   {
     "id": 20211992,
@@ -3156,7 +3398,8 @@
     "meaning_english": "to kill, to strike, to hit, to ignore",
     "audio_url": null,
     "display_order": 243,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0243"
   },
   {
     "id": 20211993,
@@ -3169,7 +3412,8 @@
     "meaning_english": "to lockup, to bind, to hang till death",
     "audio_url": null,
     "display_order": 244,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0244"
   },
   {
     "id": 20211994,
@@ -3182,7 +3426,8 @@
     "meaning_english": "to be ill,to be sick, to have stomach ache",
     "audio_url": null,
     "display_order": 245,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0245"
   },
   {
     "id": 20211995,
@@ -3195,7 +3440,8 @@
     "meaning_english": "to kill, to injure, to break",
     "audio_url": null,
     "display_order": 246,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0246"
   },
   {
     "id": 20211996,
@@ -3208,7 +3454,8 @@
     "meaning_english": "to cut, to split, to crack, to open, to trouble",
     "audio_url": null,
     "display_order": 247,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0247"
   },
   {
     "id": 20211997,
@@ -3221,7 +3468,8 @@
     "meaning_english": "to crush, to chop, to gather",
     "audio_url": null,
     "display_order": 248,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0248"
   },
   {
     "id": 20211998,
@@ -3234,7 +3482,8 @@
     "meaning_english": "to rub, to massage",
     "audio_url": null,
     "display_order": 249,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0249"
   },
   {
     "id": 20211999,
@@ -3247,7 +3496,8 @@
     "meaning_english": "to earn, to do business, to prepare",
     "audio_url": null,
     "display_order": 250,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0250"
   },
   {
     "id": 20212000,
@@ -3260,7 +3510,8 @@
     "meaning_english": "to announce, to speak loudly",
     "audio_url": null,
     "display_order": 251,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0251"
   },
   {
     "id": 20212001,
@@ -3273,7 +3524,8 @@
     "meaning_english": "to call out",
     "audio_url": null,
     "display_order": 252,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0252"
   },
   {
     "id": 20212002,
@@ -3286,7 +3538,8 @@
     "meaning_english": "to be skilled, to be expert, to know art",
     "audio_url": null,
     "display_order": 253,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0253"
   },
   {
     "id": 20212003,
@@ -3299,7 +3552,8 @@
     "meaning_english": "to adorn, to decorate",
     "audio_url": null,
     "display_order": 254,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0254"
   },
   {
     "id": 20212004,
@@ -3312,7 +3566,8 @@
     "meaning_english": "to adorn, to decorate",
     "audio_url": null,
     "display_order": 255,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0255"
   },
   {
     "id": 20212005,
@@ -3325,7 +3580,8 @@
     "meaning_english": "to leave, to abandon",
     "audio_url": null,
     "display_order": 256,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0256"
   },
   {
     "id": 20212006,
@@ -3338,7 +3594,8 @@
     "meaning_english": "to be worthty, to be eligible, to have merit",
     "audio_url": null,
     "display_order": 257,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0257"
   },
   {
     "id": 20212007,
@@ -3351,7 +3608,8 @@
     "meaning_english": "to order",
     "audio_url": null,
     "display_order": 258,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0258"
   },
   {
     "id": 20212008,
@@ -3364,7 +3622,8 @@
     "meaning_english": "to give, to donate, to cook, to make readm to prepare food, to segregate",
     "audio_url": null,
     "display_order": 259,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0259"
   },
   {
     "id": 20212009,
@@ -3377,7 +3636,8 @@
     "meaning_english": "to tolerate, to insert, to disrespect, to defeat",
     "audio_url": null,
     "display_order": 260,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0260"
   },
   {
     "id": 20212010,
@@ -3390,7 +3650,8 @@
     "meaning_english": "to cause pain, to kill, to irritate, to disallow,  to stop",
     "audio_url": null,
     "display_order": 261,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0261"
   },
   {
     "id": 20212011,
@@ -3403,7 +3664,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 262,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0262"
   },
   {
     "id": 20212012,
@@ -3416,7 +3678,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 263,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0263"
   },
   {
     "id": 20212013,
@@ -3429,7 +3692,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 264,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0264"
   },
   {
     "id": 20212014,
@@ -3442,7 +3706,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 265,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0265"
   },
   {
     "id": 20212015,
@@ -3455,7 +3720,8 @@
     "meaning_english": "to characterise, to honor, to remove, to separate",
     "audio_url": null,
     "display_order": 266,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0266"
   },
   {
     "id": 20212016,
@@ -3468,7 +3734,8 @@
     "meaning_english": "to paint in various colors",
     "audio_url": null,
     "display_order": 267,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0267"
   },
   {
     "id": 20212017,
@@ -3481,7 +3748,8 @@
     "meaning_english": "to mix, to unite",
     "audio_url": null,
     "display_order": 268,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0268"
   },
   {
     "id": 20212018,
@@ -3494,7 +3762,8 @@
     "meaning_english": "to catch, to steal, to take forcefully, to disobey, to frighten",
     "audio_url": null,
     "display_order": 269,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0269"
   },
   {
     "id": 20212019,
@@ -3507,7 +3776,8 @@
     "meaning_english": "to pick, to glean",
     "audio_url": null,
     "display_order": 270,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0270"
   },
   {
     "id": 20212020,
@@ -3520,7 +3790,8 @@
     "meaning_english": "to pick, to glean",
     "audio_url": null,
     "display_order": 271,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0271"
   },
   {
     "id": 20212021,
@@ -3533,7 +3804,8 @@
     "meaning_english": "to free,to liberate,to release,to loosen,to abandon,to grant,to give money",
     "audio_url": null,
     "display_order": 272,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0272"
   },
   {
     "id": 20212022,
@@ -3546,7 +3818,8 @@
     "meaning_english": "to love, to cut, to destroy, to kidnap, to desire",
     "audio_url": null,
     "display_order": 273,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0273"
   },
   {
     "id": 20212023,
@@ -3559,7 +3832,8 @@
     "meaning_english": "to doubt",
     "audio_url": null,
     "display_order": 274,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0274"
   },
   {
     "id": 20212024,
@@ -3572,7 +3846,8 @@
     "meaning_english": "to endure, to tolerate, to laugh",
     "audio_url": null,
     "display_order": 275,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0275"
   },
   {
     "id": 20212025,
@@ -3585,7 +3860,8 @@
     "meaning_english": "to endure, to tolerate, to laugh",
     "audio_url": null,
     "display_order": 276,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0276"
   },
   {
     "id": 20212026,
@@ -3598,7 +3874,8 @@
     "meaning_english": "to mix, to think",
     "audio_url": null,
     "display_order": 277,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0277"
   },
   {
     "id": 20212027,
@@ -3611,7 +3888,8 @@
     "meaning_english": "to mix, to think, to imagine, to paint",
     "audio_url": null,
     "display_order": 278,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0278"
   },
   {
     "id": 20212028,
@@ -3624,7 +3902,8 @@
     "meaning_english": "to seize, to catch, to steal",
     "audio_url": null,
     "display_order": 279,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0279"
   },
   {
     "id": 20212029,
@@ -3637,7 +3916,8 @@
     "meaning_english": "to wear, to obey",
     "audio_url": null,
     "display_order": 280,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0280"
   },
   {
     "id": 20212030,
@@ -3650,7 +3930,8 @@
     "meaning_english": "to break, to cut, to slice, to do pieces",
     "audio_url": null,
     "display_order": 281,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0281"
   },
   {
     "id": 20212031,
@@ -3663,7 +3944,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 282,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0282"
   },
   {
     "id": 20212032,
@@ -3676,7 +3958,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 283,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0283"
   },
   {
     "id": 20212033,
@@ -3689,7 +3972,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 284,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0284"
   },
   {
     "id": 20212034,
@@ -3702,7 +3986,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 285,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0285"
   },
   {
     "id": 20212035,
@@ -3715,7 +4000,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 286,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0286"
   },
   {
     "id": 20212036,
@@ -3728,7 +4014,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 287,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0287"
   },
   {
     "id": 20212037,
@@ -3741,7 +4028,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 288,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0288"
   },
   {
     "id": 20212038,
@@ -3754,7 +4042,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 289,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0289"
   },
   {
     "id": 20212039,
@@ -3767,7 +4056,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 290,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0290"
   },
   {
     "id": 20212040,
@@ -3780,7 +4070,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 291,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0291"
   },
   {
     "id": 20212041,
@@ -3793,7 +4084,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 292,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0292"
   },
   {
     "id": 20212042,
@@ -3806,7 +4098,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 293,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0293"
   },
   {
     "id": 20212043,
@@ -3819,7 +4112,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 294,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0294"
   },
   {
     "id": 20212044,
@@ -3832,7 +4126,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 295,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0295"
   },
   {
     "id": 20212045,
@@ -3845,7 +4140,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 296,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0296"
   },
   {
     "id": 20212046,
@@ -3858,7 +4154,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 297,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0297"
   },
   {
     "id": 20212047,
@@ -3871,7 +4168,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 298,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0298"
   },
   {
     "id": 20212048,
@@ -3884,7 +4182,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 299,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0299"
   },
   {
     "id": 20212049,
@@ -3897,7 +4196,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 300,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0300"
   },
   {
     "id": 20212050,
@@ -3910,7 +4210,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 301,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0301"
   },
   {
     "id": 20212051,
@@ -3923,7 +4224,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 302,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0302"
   },
   {
     "id": 20212052,
@@ -3936,7 +4238,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 303,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0303"
   },
   {
     "id": 20212053,
@@ -3949,7 +4252,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 304,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0304"
   },
   {
     "id": 20212054,
@@ -3962,7 +4266,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 305,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0305"
   },
   {
     "id": 20212055,
@@ -3975,7 +4280,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 306,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0306"
   },
   {
     "id": 20212056,
@@ -3988,7 +4294,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 307,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0307"
   },
   {
     "id": 20212057,
@@ -4001,7 +4308,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 308,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0308"
   },
   {
     "id": 20212058,
@@ -4014,7 +4322,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 309,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0309"
   },
   {
     "id": 20212059,
@@ -4027,7 +4336,8 @@
     "meaning_english": "to speak, to talk, to be angry",
     "audio_url": null,
     "display_order": 310,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0310"
   },
   {
     "id": 20212060,
@@ -4040,7 +4350,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 311,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0311"
   },
   {
     "id": 20212061,
@@ -4053,7 +4364,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 312,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0312"
   },
   {
     "id": 20212062,
@@ -4066,7 +4378,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 313,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0313"
   },
   {
     "id": 20212063,
@@ -4079,7 +4392,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 314,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0314"
   },
   {
     "id": 20212064,
@@ -4092,7 +4406,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 315,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0315"
   },
   {
     "id": 20212065,
@@ -4105,7 +4420,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 316,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0316"
   },
   {
     "id": 20212066,
@@ -4118,7 +4434,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 317,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0317"
   },
   {
     "id": 20212067,
@@ -4131,7 +4448,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 318,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0318"
   },
   {
     "id": 20212068,
@@ -4144,7 +4462,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 319,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0319"
   },
   {
     "id": 20212069,
@@ -4157,7 +4476,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 320,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0320"
   },
   {
     "id": 20212070,
@@ -4170,7 +4490,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 321,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0321"
   },
   {
     "id": 20212071,
@@ -4183,7 +4504,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 322,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0322"
   },
   {
     "id": 20212072,
@@ -4196,7 +4518,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 323,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0323"
   },
   {
     "id": 20212073,
@@ -4209,7 +4532,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 324,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0324"
   },
   {
     "id": 20212074,
@@ -4222,7 +4546,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 325,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0325"
   },
   {
     "id": 20212075,
@@ -4235,7 +4560,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 326,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0326"
   },
   {
     "id": 20212076,
@@ -4248,7 +4574,8 @@
     "meaning_english": "to shine, to glow",
     "audio_url": null,
     "display_order": 327,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0327"
   },
   {
     "id": 20212077,
@@ -4261,7 +4588,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 328,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0328"
   },
   {
     "id": 20212078,
@@ -4274,7 +4602,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 329,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0329"
   },
   {
     "id": 20212079,
@@ -4287,7 +4616,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 330,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0330"
   },
   {
     "id": 20212080,
@@ -4300,7 +4630,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 331,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0331"
   },
   {
     "id": 20212081,
@@ -4313,7 +4644,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 332,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0332"
   },
   {
     "id": 20212082,
@@ -4326,7 +4658,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 333,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0333"
   },
   {
     "id": 20212083,
@@ -4339,7 +4672,8 @@
     "meaning_english": "to satisfy, to complete, to fullfull, to fill",
     "audio_url": null,
     "display_order": 334,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0334"
   },
   {
     "id": 20212084,
@@ -4352,7 +4686,8 @@
     "meaning_english": "to kill, to destroy, to cause pain",
     "audio_url": null,
     "display_order": 335,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0335"
   },
   {
     "id": 20212085,
@@ -4365,7 +4700,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 336,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0336"
   },
   {
     "id": 20212086,
@@ -4378,7 +4714,8 @@
     "meaning_english": "to taste",
     "audio_url": null,
     "display_order": 337,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0337"
   },
   {
     "id": 20212087,
@@ -4391,7 +4728,8 @@
     "meaning_english": "to restrain, to control, to bind",
     "audio_url": null,
     "display_order": 338,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0338"
   },
   {
     "id": 20212088,
@@ -4404,7 +4742,8 @@
     "meaning_english": "to touch, to hold, to control, to restrain",
     "audio_url": null,
     "display_order": 339,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0339"
   },
   {
     "id": 20212089,
@@ -4417,7 +4756,8 @@
     "meaning_english": "to pray, to worship",
     "audio_url": null,
     "display_order": 340,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0340"
   },
   {
     "id": 20212090,
@@ -4430,7 +4770,8 @@
     "meaning_english": "to bear, to tolerate, to be powerful, to be satisfied",
     "audio_url": null,
     "display_order": 341,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0341"
   },
   {
     "id": 20212091,
@@ -4443,7 +4784,8 @@
     "meaning_english": "to throw",
     "audio_url": null,
     "display_order": 342,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0342"
   },
   {
     "id": 20212092,
@@ -4456,7 +4798,8 @@
     "meaning_english": "to melt, to make thin",
     "audio_url": null,
     "display_order": 343,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0343"
   },
   {
     "id": 20212093,
@@ -4469,7 +4812,8 @@
     "meaning_english": "to leave, to abandon",
     "audio_url": null,
     "display_order": 344,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0344"
   },
   {
     "id": 20212094,
@@ -4482,7 +4826,8 @@
     "meaning_english": "to cover",
     "audio_url": null,
     "display_order": 345,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0345"
   },
   {
     "id": 20212095,
@@ -4495,7 +4840,8 @@
     "meaning_english": "to grow old",
     "audio_url": null,
     "display_order": 346,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0346"
   },
   {
     "id": 20212096,
@@ -4508,7 +4854,8 @@
     "meaning_english": "to grow old",
     "audio_url": null,
     "display_order": 347,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0347"
   },
   {
     "id": 20212097,
@@ -4521,7 +4868,8 @@
     "meaning_english": "to mix, to join, to tie, to separate, to spread, to take laxative",
     "audio_url": null,
     "display_order": 348,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0348"
   },
   {
     "id": 20212098,
@@ -4534,7 +4882,8 @@
     "meaning_english": "to retain, to save",
     "audio_url": null,
     "display_order": 349,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0349"
   },
   {
     "id": 20212099,
@@ -4547,7 +4896,8 @@
     "meaning_english": "to become hot, to glow, to burn, to be jealous",
     "audio_url": null,
     "display_order": 350,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0350"
   },
   {
     "id": 20212100,
@@ -4560,7 +4910,8 @@
     "meaning_english": "to be satisfied, to be happy to satisfy, to make happy",
     "audio_url": null,
     "display_order": 351,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0351"
   },
   {
     "id": 20212101,
@@ -4573,7 +4924,8 @@
     "meaning_english": "to ignite, to set on fire",
     "audio_url": null,
     "display_order": 352,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0352"
   },
   {
     "id": 20212102,
@@ -4586,7 +4938,8 @@
     "meaning_english": "to ignite, to set on fire",
     "audio_url": null,
     "display_order": 353,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0353"
   },
   {
     "id": 20212103,
@@ -4599,7 +4952,8 @@
     "meaning_english": "to ignite, to set on fire",
     "audio_url": null,
     "display_order": 354,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0354"
   },
   {
     "id": 20212104,
@@ -4612,7 +4966,8 @@
     "meaning_english": "to glow, to shine",
     "audio_url": null,
     "display_order": 355,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0355"
   },
   {
     "id": 20212105,
@@ -4625,7 +4980,8 @@
     "meaning_english": "to ignite, to set on fire",
     "audio_url": null,
     "display_order": 356,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0356"
   },
   {
     "id": 20212106,
@@ -4638,7 +4994,8 @@
     "meaning_english": "to relate, to give reference, to be afraid",
     "audio_url": null,
     "display_order": 357,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0357"
   },
   {
     "id": 20212107,
@@ -4651,7 +5008,8 @@
     "meaning_english": "to relate, to give reference",
     "audio_url": null,
     "display_order": 358,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0358"
   },
   {
     "id": 20212108,
@@ -4664,7 +5022,8 @@
     "meaning_english": "to speak, to talk, to shine, to glow",
     "audio_url": null,
     "display_order": 359,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0359"
   },
   {
     "id": 20212109,
@@ -4677,7 +5036,8 @@
     "meaning_english": "to set free, to  leave, to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 360,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0360"
   },
   {
     "id": 20212110,
@@ -4690,7 +5050,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 361,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0361"
   },
   {
     "id": 20212111,
@@ -4703,7 +5064,8 @@
     "meaning_english": "to tie, to bind",
     "audio_url": null,
     "display_order": 362,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0362"
   },
   {
     "id": 20212112,
@@ -4716,7 +5078,8 @@
     "meaning_english": "to touch, to be quiet, to tolerate, to suffer",
     "audio_url": null,
     "display_order": 363,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0363"
   },
   {
     "id": 20212113,
@@ -4729,7 +5092,8 @@
     "meaning_english": "to tolerate, to suffer, to be eager, to be hasty, to be intolerant",
     "audio_url": null,
     "display_order": 364,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0364"
   },
   {
     "id": 20212114,
@@ -4742,7 +5106,8 @@
     "meaning_english": "to kill, to detroy, to irritate, to cause pain",
     "audio_url": null,
     "display_order": 365,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0365"
   },
   {
     "id": 20212115,
@@ -4755,7 +5120,8 @@
     "meaning_english": "to kill, to destroy, to irritate, to cause pain",
     "audio_url": null,
     "display_order": 366,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0366"
   },
   {
     "id": 20212116,
@@ -4768,7 +5134,8 @@
     "meaning_english": "to be worthty, to be eligible, to have merit",
     "audio_url": null,
     "display_order": 367,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0367"
   },
   {
     "id": 20212117,
@@ -4781,7 +5148,8 @@
     "meaning_english": "to attack, to climb, to go",
     "audio_url": null,
     "display_order": 368,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0368"
   },
   {
     "id": 20212118,
@@ -4794,7 +5162,8 @@
     "meaning_english": "to cleanse, to purify",
     "audio_url": null,
     "display_order": 369,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0369"
   },
   {
     "id": 20212119,
@@ -4807,7 +5176,8 @@
     "meaning_english": "to remove, to get rid of, to hide, to keep out of sight",
     "audio_url": null,
     "display_order": 370,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0370"
   },
   {
     "id": 20212120,
@@ -4820,7 +5190,8 @@
     "meaning_english": "to think, to wish, to kill, to destroy, to guess, to make happy, to satisfy, to be satisfied",
     "audio_url": null,
     "display_order": 371,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0371"
   },
   {
     "id": 20212121,
@@ -4833,7 +5204,8 @@
     "meaning_english": "to shake, to move, to decorate",
     "audio_url": null,
     "display_order": 372,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0372"
   },
   {
     "id": 20212122,
@@ -4846,7 +5218,8 @@
     "meaning_english": "to love, to satisfy, to desire, to wish, to be radiant",
     "audio_url": null,
     "display_order": 373,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0373"
   },
   {
     "id": 20212123,
@@ -4859,7 +5232,8 @@
     "meaning_english": "to compose, to order, to intertwine",
     "audio_url": null,
     "display_order": 374,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0374"
   },
   {
     "id": 20212124,
@@ -4872,7 +5246,8 @@
     "meaning_english": "to refer, to reference",
     "audio_url": null,
     "display_order": 375,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0375"
   },
   {
     "id": 20212125,
@@ -4885,7 +5260,8 @@
     "meaning_english": "to obtain, to get, to receive",
     "audio_url": null,
     "display_order": 376,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0376"
   },
   {
     "id": 20212126,
@@ -4898,7 +5274,8 @@
     "meaning_english": "to believe, to have faith, to provide shelter, to help, to sound, to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 377,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0377"
   },
   {
     "id": 20212127,
@@ -4911,7 +5288,8 @@
     "meaning_english": "to believe, to have faith, to provide shelter, to help, to sound, to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 378,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0378"
   },
   {
     "id": 20212128,
@@ -4924,7 +5302,8 @@
     "meaning_english": "to inform,to communicate,to speak,to tell,to describe,to utter, to read",
     "audio_url": null,
     "display_order": 379,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0379"
   },
   {
     "id": 20212129,
@@ -4937,7 +5316,8 @@
     "meaning_english": "to inform,to communicate,to speak,to tell,to describe,to utter, to read",
     "audio_url": null,
     "display_order": 380,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0380"
   },
   {
     "id": 20212130,
@@ -4950,7 +5330,8 @@
     "meaning_english": "to respect, to believe",
     "audio_url": null,
     "display_order": 381,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0381"
   },
   {
     "id": 20212131,
@@ -4963,7 +5344,8 @@
     "meaning_english": "to obtain, to receive, to get, to think",
     "audio_url": null,
     "display_order": 382,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0382"
   },
   {
     "id": 20212132,
@@ -4976,7 +5358,8 @@
     "meaning_english": "to blame, to criticize",
     "audio_url": null,
     "display_order": 383,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0383"
   },
   {
     "id": 20212133,
@@ -4989,7 +5372,8 @@
     "meaning_english": "to investigate, to search, to cleanse, to purify",
     "audio_url": null,
     "display_order": 384,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0384"
   },
   {
     "id": 20212134,
@@ -5002,7 +5386,8 @@
     "meaning_english": "to be excited, to mourn, to grieve",
     "audio_url": null,
     "display_order": 385,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0385"
   },
   {
     "id": 20212135,
@@ -5015,7 +5400,8 @@
     "meaning_english": "to cleanse, to purify, to  to decorate",
     "audio_url": null,
     "display_order": 386,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0386"
   },
   {
     "id": 20212136,
@@ -5028,7 +5414,8 @@
     "meaning_english": "to tolerate",
     "audio_url": null,
     "display_order": 387,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0387"
   },
   {
     "id": 20212137,
@@ -5041,7 +5428,8 @@
     "meaning_english": "to conquer, to win, to be eager, to be afraid",
     "audio_url": null,
     "display_order": 388,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0388"
   },
   {
     "id": 20212138,
@@ -5054,7 +5442,8 @@
     "meaning_english": "to speak, to tell, to state, to explain, to narrate",
     "audio_url": null,
     "display_order": 389,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0389"
   },
   {
     "id": 20212139,
@@ -5067,7 +5456,8 @@
     "meaning_english": "to wish, to desire, to hope",
     "audio_url": null,
     "display_order": 390,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0390"
   },
   {
     "id": 20212140,
@@ -5080,7 +5470,8 @@
     "meaning_english": "to count, to enumerate",
     "audio_url": null,
     "display_order": 391,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0391"
   },
   {
     "id": 20212141,
@@ -5093,7 +5484,8 @@
     "meaning_english": "to ill-speak, to abuse, to tell lies, to keep quiet",
     "audio_url": null,
     "display_order": 392,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0392"
   },
   {
     "id": 20212142,
@@ -5106,7 +5498,8 @@
     "meaning_english": "to ill-speak, to abuse, to tell lies, to keep quiet",
     "audio_url": null,
     "display_order": 393,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0393"
   },
   {
     "id": 20212143,
@@ -5119,7 +5512,8 @@
     "meaning_english": "to clothe, to knead, to cover, to make parts",
     "audio_url": null,
     "display_order": 394,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0394"
   },
   {
     "id": 20212144,
@@ -5132,7 +5526,8 @@
     "meaning_english": "to tie, to join",
     "audio_url": null,
     "display_order": 395,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0395"
   },
   {
     "id": 20212145,
@@ -5145,7 +5540,8 @@
     "meaning_english": "to leave, to abandon",
     "audio_url": null,
     "display_order": 396,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0396"
   },
   {
     "id": 20212146,
@@ -5158,7 +5554,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 397,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0397"
   },
   {
     "id": 20212147,
@@ -5171,7 +5568,8 @@
     "meaning_english": "to have thunderstorm, to have cloud collision",
     "audio_url": null,
     "display_order": 398,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0398"
   },
   {
     "id": 20212148,
@@ -5184,7 +5582,8 @@
     "meaning_english": "to have thunderstorm, to have cloud collision",
     "audio_url": null,
     "display_order": 399,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0399"
   },
   {
     "id": 20212149,
@@ -5197,7 +5596,8 @@
     "meaning_english": "to fall down, to go down, to descend, to go",
     "audio_url": null,
     "display_order": 400,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0400"
   },
   {
     "id": 20212150,
@@ -5210,7 +5610,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 401,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0401"
   },
   {
     "id": 20212151,
@@ -5223,7 +5624,8 @@
     "meaning_english": "to sound, to blame, to insult, to object",
     "audio_url": null,
     "display_order": 402,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0402"
   },
   {
     "id": 20212152,
@@ -5236,7 +5638,8 @@
     "meaning_english": "to create, to craft, to compose",
     "audio_url": null,
     "display_order": 403,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0403"
   },
   {
     "id": 20212153,
@@ -5249,7 +5652,8 @@
     "meaning_english": "to go, to count, to enumerate",
     "audio_url": null,
     "display_order": 404,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0404"
   },
   {
     "id": 20212154,
@@ -5262,7 +5666,8 @@
     "meaning_english": "to grind",
     "audio_url": null,
     "display_order": 405,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0405"
   },
   {
     "id": 20212155,
@@ -5275,7 +5680,8 @@
     "meaning_english": "to worship, to pray, to honor, to respect",
     "audio_url": null,
     "display_order": 406,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0406"
   },
   {
     "id": 20212156,
@@ -5288,7 +5694,8 @@
     "meaning_english": "to be weak",
     "audio_url": null,
     "display_order": 407,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0407"
   },
   {
     "id": 20212157,
@@ -5301,7 +5708,8 @@
     "meaning_english": "to be weak",
     "audio_url": null,
     "display_order": 408,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0408"
   },
   {
     "id": 20212158,
@@ -5314,7 +5722,8 @@
     "meaning_english": "to be weak",
     "audio_url": null,
     "display_order": 409,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0409"
   },
   {
     "id": 20212159,
@@ -5327,7 +5736,8 @@
     "meaning_english": "to desire, to wish",
     "audio_url": null,
     "display_order": 410,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0410"
   },
   {
     "id": 20212160,
@@ -5340,7 +5750,8 @@
     "meaning_english": "to reject, to be angry",
     "audio_url": null,
     "display_order": 411,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0411"
   },
   {
     "id": 20212161,
@@ -5353,7 +5764,8 @@
     "meaning_english": "to indicate, to do favor, to explain, to point mistakes",
     "audio_url": null,
     "display_order": 412,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0412"
   },
   {
     "id": 20212162,
@@ -5366,7 +5778,8 @@
     "meaning_english": "to eat",
     "audio_url": null,
     "display_order": 413,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0413"
   },
   {
     "id": 20212163,
@@ -5379,7 +5792,8 @@
     "meaning_english": "to eat",
     "audio_url": null,
     "display_order": 414,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0414"
   },
   {
     "id": 20212164,
@@ -5392,7 +5806,8 @@
     "meaning_english": "to eat",
     "audio_url": null,
     "display_order": 415,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0415"
   },
   {
     "id": 20212165,
@@ -5405,7 +5820,8 @@
     "meaning_english": "to project, to throw",
     "audio_url": null,
     "display_order": 416,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0416"
   },
   {
     "id": 20212166,
@@ -5418,7 +5834,8 @@
     "meaning_english": "to coat, to put a layer",
     "audio_url": null,
     "display_order": 417,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0417"
   },
   {
     "id": 20212167,
@@ -5431,7 +5848,8 @@
     "meaning_english": "to play like a child",
     "audio_url": null,
     "display_order": 418,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0418"
   },
   {
     "id": 20212168,
@@ -5444,7 +5862,8 @@
     "meaning_english": "to wear, to recognize",
     "audio_url": null,
     "display_order": 419,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0419"
   },
   {
     "id": 20212169,
@@ -5457,7 +5876,8 @@
     "meaning_english": "to consolidate, to make happy, to pacify",
     "audio_url": null,
     "display_order": 420,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0420"
   },
   {
     "id": 20212170,
@@ -5470,7 +5890,8 @@
     "meaning_english": "to measure time, to preach, to explain on time",
     "audio_url": null,
     "display_order": 421,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0421"
   },
   {
     "id": 20212171,
@@ -5483,7 +5904,8 @@
     "meaning_english": "to measure time, to preach, to explain on time",
     "audio_url": null,
     "display_order": 422,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0422"
   },
   {
     "id": 20212172,
@@ -5496,7 +5918,8 @@
     "meaning_english": "to cut, to purify, to cleanse, to drop",
     "audio_url": null,
     "display_order": 423,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0423"
   },
   {
     "id": 20212173,
@@ -5509,7 +5932,8 @@
     "meaning_english": "to be happy, to rejoice, to serve, to love to go",
     "audio_url": null,
     "display_order": 424,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0424"
   },
   {
     "id": 20212174,
@@ -5522,7 +5946,8 @@
     "meaning_english": "to search, to investigate, to find",
     "audio_url": null,
     "display_order": 425,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0425"
   },
   {
     "id": 20212175,
@@ -5535,7 +5960,8 @@
     "meaning_english": "to make someone stay, to make something fragrant, to burn incense sticks",
     "audio_url": null,
     "display_order": 426,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0426"
   },
   {
     "id": 20212176,
@@ -5548,7 +5974,8 @@
     "meaning_english": "to cover, to surround",
     "audio_url": null,
     "display_order": 427,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0427"
   },
   {
     "id": 20212177,
@@ -5561,7 +5988,8 @@
     "meaning_english": "to cut into pieces",
     "audio_url": null,
     "display_order": 428,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0428"
   },
   {
     "id": 20212178,
@@ -5574,7 +6002,8 @@
     "meaning_english": "to love, to show affection, to serve, to see",
     "audio_url": null,
     "display_order": 429,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0429"
   },
   {
     "id": 20212179,
@@ -5587,7 +6016,8 @@
     "meaning_english": "to reduce, to shorten",
     "audio_url": null,
     "display_order": 430,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0430"
   },
   {
     "id": 20212180,
@@ -5600,7 +6030,8 @@
     "meaning_english": "to sound",
     "audio_url": null,
     "display_order": 431,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0431"
   },
   {
     "id": 20212181,
@@ -5613,7 +6044,8 @@
     "meaning_english": "to irritate, to cause pain, to set on fire, to make something burn",
     "audio_url": null,
     "display_order": 432,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0432"
   },
   {
     "id": 20212182,
@@ -5626,7 +6058,8 @@
     "meaning_english": "to invite, to call, to sign",
     "audio_url": null,
     "display_order": 433,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0433"
   },
   {
     "id": 20212183,
@@ -5639,7 +6072,8 @@
     "meaning_english": "to invite, to call, to sign, to speak intelligently",
     "audio_url": null,
     "display_order": 434,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0434"
   },
   {
     "id": 20212184,
@@ -5652,7 +6086,8 @@
     "meaning_english": "to invite, to call, to sign,  to speak intelligently",
     "audio_url": null,
     "display_order": 435,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0435"
   },
   {
     "id": 20212185,
@@ -5665,7 +6100,8 @@
     "meaning_english": "to invite, to call, to sign,  to speak intelligently",
     "audio_url": null,
     "display_order": 436,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0436"
   },
   {
     "id": 20212186,
@@ -5678,7 +6114,8 @@
     "meaning_english": "to call, to invite, to hear",
     "audio_url": null,
     "display_order": 437,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0437"
   },
   {
     "id": 20212187,
@@ -5691,7 +6128,8 @@
     "meaning_english": "to contract, to shrink",
     "audio_url": null,
     "display_order": 438,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0438"
   },
   {
     "id": 20212188,
@@ -5704,7 +6142,8 @@
     "meaning_english": "to steal",
     "audio_url": null,
     "display_order": 439,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0439"
   },
   {
     "id": 20212189,
@@ -5717,7 +6156,8 @@
     "meaning_english": "to go, to change places",
     "audio_url": null,
     "display_order": 440,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0440"
   },
   {
     "id": 20212190,
@@ -5730,7 +6170,8 @@
     "meaning_english": "to take, to accept",
     "audio_url": null,
     "display_order": 441,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0441"
   },
   {
     "id": 20212191,
@@ -5743,7 +6184,8 @@
     "meaning_english": "to investigate, to search, to prey, to kill an animal",
     "audio_url": null,
     "display_order": 442,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0442"
   },
   {
     "id": 20212192,
@@ -5756,7 +6198,8 @@
     "meaning_english": "to show miracle",
     "audio_url": null,
     "display_order": 443,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0443"
   },
   {
     "id": 20212193,
@@ -5769,7 +6212,8 @@
     "meaning_english": "to be powerful, to be courageous, to be brave, to have victory",
     "audio_url": null,
     "display_order": 444,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0444"
   },
   {
     "id": 20212194,
@@ -5782,7 +6226,8 @@
     "meaning_english": "to be powerful, to be courageous, to be brave, to have victory",
     "audio_url": null,
     "display_order": 445,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0445"
   },
   {
     "id": 20212195,
@@ -5795,7 +6240,8 @@
     "meaning_english": "to become fat, to become obese, to gain weight, to be healthy",
     "audio_url": null,
     "display_order": 446,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0446"
   },
   {
     "id": 20212196,
@@ -5808,7 +6254,8 @@
     "meaning_english": "to beg, to request",
     "audio_url": null,
     "display_order": 447,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0447"
   },
   {
     "id": 20212197,
@@ -5821,7 +6268,8 @@
     "meaning_english": "to spread, to extend, to contact, to be connected",
     "audio_url": null,
     "display_order": 448,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0448"
   },
   {
     "id": 20212198,
@@ -5834,7 +6282,8 @@
     "meaning_english": "to boast, to be egoistic, to be proud",
     "audio_url": null,
     "display_order": 449,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0449"
   },
   {
     "id": 20212199,
@@ -5847,7 +6296,8 @@
     "meaning_english": "to put in thread, to cover with thread",
     "audio_url": null,
     "display_order": 450,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0450"
   },
   {
     "id": 20212200,
@@ -5860,7 +6310,8 @@
     "meaning_english": "to urinate",
     "audio_url": null,
     "display_order": 451,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0451"
   },
   {
     "id": 20212201,
@@ -5873,7 +6324,8 @@
     "meaning_english": "to become hard, to become dry, to speak harshly, to be dull",
     "audio_url": null,
     "display_order": 452,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0452"
   },
   {
     "id": 20212202,
@@ -5886,7 +6338,8 @@
     "meaning_english": "to end, to complete",
     "audio_url": null,
     "display_order": 453,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0453"
   },
   {
     "id": 20212203,
@@ -5899,7 +6352,8 @@
     "meaning_english": "to end, to complete",
     "audio_url": null,
     "display_order": 454,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0454"
   },
   {
     "id": 20212204,
@@ -5912,7 +6366,8 @@
     "meaning_english": "to come in contact, to embrace, to hug, to join, to lock in",
     "audio_url": null,
     "display_order": 455,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0455"
   },
   {
     "id": 20212205,
@@ -5925,7 +6380,8 @@
     "meaning_english": "to loosen, to leave, to abandon",
     "audio_url": null,
     "display_order": 456,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0456"
   },
   {
     "id": 20212206,
@@ -5938,7 +6394,8 @@
     "meaning_english": "to loosen, to leave, to abandon",
     "audio_url": null,
     "display_order": 457,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0457"
   },
   {
     "id": 20212207,
@@ -5951,7 +6408,8 @@
     "meaning_english": "to see",
     "audio_url": null,
     "display_order": 458,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0458"
   },
   {
     "id": 20212208,
@@ -5964,7 +6422,8 @@
     "meaning_english": "to paint, to draw, to create a portrait",
     "audio_url": null,
     "display_order": 459,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0459"
   },
   {
     "id": 20212209,
@@ -5977,7 +6436,8 @@
     "meaning_english": "to kill, to destroy, to hurt",
     "audio_url": null,
     "display_order": 460,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0460"
   },
   {
     "id": 20212210,
@@ -5990,7 +6450,8 @@
     "meaning_english": "to divide, to separate, to split, to isolate, to partition",
     "audio_url": null,
     "display_order": 461,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0461"
   },
   {
     "id": 20212211,
@@ -6003,7 +6464,8 @@
     "meaning_english": "to cut, to strike",
     "audio_url": null,
     "display_order": 462,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0462"
   },
   {
     "id": 20212212,
@@ -6016,7 +6478,8 @@
     "meaning_english": "to appear, to be clear",
     "audio_url": null,
     "display_order": 463,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0463"
   },
   {
     "id": 20212213,
@@ -6029,7 +6492,8 @@
     "meaning_english": "to appear, to be clear",
     "audio_url": null,
     "display_order": 464,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0464"
   },
   {
     "id": 20212214,
@@ -6042,7 +6506,8 @@
     "meaning_english": "to appear, to be clear",
     "audio_url": null,
     "display_order": 465,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0465"
   },
   {
     "id": 20212215,
@@ -6055,7 +6520,8 @@
     "meaning_english": "to mix, to add together, to combine",
     "audio_url": null,
     "display_order": 466,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0466"
   },
   {
     "id": 20212216,
@@ -6068,7 +6534,8 @@
     "meaning_english": "to have war, to fight",
     "audio_url": null,
     "display_order": 467,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0467"
   },
   {
     "id": 20212217,
@@ -6081,7 +6548,8 @@
     "meaning_english": "to praise, to boast, to cheer",
     "audio_url": null,
     "display_order": 468,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0468"
   },
   {
     "id": 20212218,
@@ -6094,7 +6562,8 @@
     "meaning_english": "to pierce ears",
     "audio_url": null,
     "display_order": 469,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0469"
   },
   {
     "id": 20212219,
@@ -6107,7 +6576,8 @@
     "meaning_english": "to pierce ears",
     "audio_url": null,
     "display_order": 470,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0470"
   },
   {
     "id": 20212220,
@@ -6120,7 +6590,8 @@
     "meaning_english": "to be blind, to lose vision",
     "audio_url": null,
     "display_order": 471,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0471"
   },
   {
     "id": 20212221,
@@ -6133,7 +6604,8 @@
     "meaning_english": "to punish, to fine",
     "audio_url": null,
     "display_order": 472,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0472"
   },
   {
     "id": 20212222,
@@ -6146,7 +6618,8 @@
     "meaning_english": "to mark, to count, to roam around, to limp, to take in lap",
     "audio_url": null,
     "display_order": 473,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0473"
   },
   {
     "id": 20212223,
@@ -6159,7 +6632,8 @@
     "meaning_english": "to mark, to count, to roam around, to limp, to take in lap",
     "audio_url": null,
     "display_order": 474,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0474"
   },
   {
     "id": 20212224,
@@ -6172,7 +6646,8 @@
     "meaning_english": "to make happy, to be happy",
     "audio_url": null,
     "display_order": 475,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0475"
   },
   {
     "id": 20212225,
@@ -6185,7 +6660,8 @@
     "meaning_english": "to make sad, to be sad",
     "audio_url": null,
     "display_order": 476,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0476"
   },
   {
     "id": 20212226,
@@ -6198,7 +6674,8 @@
     "meaning_english": "to tastem to love, to have affection",
     "audio_url": null,
     "display_order": 477,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0477"
   },
   {
     "id": 20212227,
@@ -6211,7 +6688,8 @@
     "meaning_english": "to spend, to expense",
     "audio_url": null,
     "display_order": 478,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0478"
   },
   {
     "id": 20212228,
@@ -6224,7 +6702,8 @@
     "meaning_english": "to create a shape, to formulate, to create a mental picture",
     "audio_url": null,
     "display_order": 479,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0479"
   },
   {
     "id": 20212229,
@@ -6237,7 +6716,8 @@
     "meaning_english": "to cut",
     "audio_url": null,
     "display_order": 480,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0480"
   },
   {
     "id": 20212230,
@@ -6250,7 +6730,8 @@
     "meaning_english": "to remove, to hide, to conceal",
     "audio_url": null,
     "display_order": 481,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0481"
   },
   {
     "id": 20212231,
@@ -6263,7 +6744,8 @@
     "meaning_english": "to inspire",
     "audio_url": null,
     "display_order": 482,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0482"
   },
   {
     "id": 20212232,
@@ -6276,7 +6758,8 @@
     "meaning_english": "to attack, to hurt, to damage someone, to wound",
     "audio_url": null,
     "display_order": 483,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0483"
   },
   {
     "id": 20212233,
@@ -6289,7 +6772,8 @@
     "meaning_english": "to explain, to elaborate, to spread, to praise, to glow, to shine",
     "audio_url": null,
     "display_order": 484,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0484"
   },
   {
     "id": 20212234,
@@ -6302,7 +6786,8 @@
     "meaning_english": "to become green, to color green",
     "audio_url": null,
     "display_order": 485,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0485"
   },
   {
     "id": 20212235,
@@ -6315,7 +6800,8 @@
     "meaning_english": "to see",
     "audio_url": null,
     "display_order": 486,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0486"
   },
   {
     "id": 20212236,
@@ -6328,7 +6814,8 @@
     "meaning_english": "to inspire",
     "audio_url": null,
     "display_order": 487,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0487"
   },
   {
     "id": 20212237,
@@ -6341,7 +6828,8 @@
     "meaning_english": "to live, to dwell, to stay",
     "audio_url": null,
     "display_order": 488,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0488"
   },
   {
     "id": 20212238,
@@ -6354,7 +6842,8 @@
     "meaning_english": "to cover",
     "audio_url": null,
     "display_order": 489,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0489"
   },
   {
     "id": 20212239,
@@ -6367,7 +6856,8 @@
     "meaning_english": "to cut, to purify, to cleanse, to drop",
     "audio_url": null,
     "display_order": 490,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0490"
   },
   {
     "id": 20212240,
@@ -6380,7 +6870,8 @@
     "meaning_english": "to speak, to talk",
     "audio_url": null,
     "display_order": 491,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0491"
   },
   {
     "id": 20212241,
@@ -6393,7 +6884,8 @@
     "meaning_english": "to see",
     "audio_url": null,
     "display_order": 492,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0492"
   },
   {
     "id": 20212242,
@@ -6406,7 +6898,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 493,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0493"
   },
   {
     "id": 20212243,
@@ -6419,7 +6912,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 494,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0494"
   },
   {
     "id": 20212244,
@@ -6432,7 +6926,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 495,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0495"
   },
   {
     "id": 20212245,
@@ -6445,7 +6940,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 496,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0496"
   },
   {
     "id": 20212246,
@@ -6458,7 +6954,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 497,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0497"
   },
   {
     "id": 20212247,
@@ -6471,7 +6968,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 498,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0498"
   },
   {
     "id": 20212248,
@@ -6484,7 +6982,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 499,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0499"
   },
   {
     "id": 20212249,
@@ -6497,7 +6996,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 500,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0500"
   },
   {
     "id": 20212250,
@@ -6510,7 +7010,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 501,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0501"
   },
   {
     "id": 20212251,
@@ -6523,7 +7024,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 502,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0502"
   },
   {
     "id": 20212252,
@@ -6536,7 +7038,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 503,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0503"
   },
   {
     "id": 20212253,
@@ -6549,7 +7052,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 504,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0504"
   },
   {
     "id": 20212254,
@@ -6562,7 +7066,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 505,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0505"
   },
   {
     "id": 20212255,
@@ -6575,7 +7080,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 506,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0506"
   },
   {
     "id": 20212256,
@@ -6588,7 +7094,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 507,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0507"
   },
   {
     "id": 20212257,
@@ -6601,7 +7108,8 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 508,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0508"
   },
   {
     "id": 20212258,
@@ -6614,6 +7122,7 @@
     "meaning_english": "",
     "audio_url": null,
     "display_order": 509,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "10.0509"
   }
 ]

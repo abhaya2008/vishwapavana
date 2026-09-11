@@ -10,7 +10,8 @@
     "meaning_english": "to spread, to stretch, to expand, to increase",
     "audio_url": null,
     "display_order": 1,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0001"
   },
   {
     "id": 20211670,
@@ -23,7 +24,8 @@
     "meaning_english": "to give, to donate",
     "audio_url": null,
     "display_order": 2,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0002"
   },
   {
     "id": 20211671,
@@ -36,7 +38,8 @@
     "meaning_english": "to kill, to destroy, to irritate, to cause pain, to hurt, to break",
     "audio_url": null,
     "display_order": 3,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0003"
   },
   {
     "id": 20211672,
@@ -49,7 +52,8 @@
     "meaning_english": "to kill, to destroy, to irritate, to cause pain, to hurt, to break",
     "audio_url": null,
     "display_order": 4,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0004"
   },
   {
     "id": 20211673,
@@ -62,7 +66,8 @@
     "meaning_english": "to go",
     "audio_url": null,
     "display_order": 5,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0005"
   },
   {
     "id": 20211674,
@@ -75,7 +80,8 @@
     "meaning_english": "to eat,to graze",
     "audio_url": null,
     "display_order": 6,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0006"
   },
   {
     "id": 20211675,
@@ -88,7 +94,8 @@
     "meaning_english": "to shine,to glow",
     "audio_url": null,
     "display_order": 7,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0007"
   },
   {
     "id": 20211676,
@@ -101,7 +108,8 @@
     "meaning_english": "to act,to beg,to request,to seek",
     "audio_url": null,
     "display_order": 8,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0008"
   },
   {
     "id": 20211677,
@@ -114,7 +122,8 @@
     "meaning_english": "to understand, to regard, to think, to believe, to assume",
     "audio_url": null,
     "display_order": 9,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0009"
   },
   {
     "id": 20211678,
@@ -127,6 +136,7 @@
     "meaning_english": "to do, to act, to make",
     "audio_url": null,
     "display_order": 10,
-    "avatarnika": ""
+    "avatarnika": "",
+    "dhatu_baseindex": "08.0010"
   }
 ]
