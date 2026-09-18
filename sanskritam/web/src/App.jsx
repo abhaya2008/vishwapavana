@@ -8,6 +8,7 @@ import MahabharataChapterPage from './pages/MahabharataChapterPage';
 import SandhiHomePage from './pages/SandhiHomePage';
 import SandhiCategoryPage from './pages/SandhiCategoryPage';
 import SandhiQuizPage from './pages/SandhiQuizPage';
+import KoshaSearchPage from './pages/KoshaSearchPage';
 import './styles/index.css';
 
 function App() {
@@ -24,6 +25,7 @@ function App() {
           <Route path="/vyakaranam/sandhi" element={<SandhiHomePage />} />
           <Route path="/vyakaranam/sandhi/:categoryKey" element={<SandhiCategoryPage />} />
           <Route path="/vyakaranam/sandhi/:categoryKey/:lessonId/:mode" element={<SandhiQuizPage />} />
+          <Route path="/kosha/search" element={<KoshaSearchPage />} />
         </Routes>
       </HashRouter>
     </DatabaseProvider>

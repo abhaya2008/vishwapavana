@@ -10,6 +10,8 @@ import TextCard from '../components/TextCard';
 // व्याकरणम् (Grammar) category id — used to surface tools (like Sandhi Practice)
 // that aren't texts/chapters/verses, so they don't need their own DB-driven category.
 const VYAKARANAM_CATEGORY_ID = '2';
+// कोशाः (Dictionaries) category id — surfaces the multi-dictionary search tool.
+const KOSHA_CATEGORY_ID = '35';
 
 export default function CategoryPage() {
     const { id } = useParams();
@@ -138,7 +140,20 @@ export default function CategoryPage() {
                         </section>
                     )}
 
-                    {subCategories.length === 0 && directTexts.length === 0 && id !== VYAKARANAM_CATEGORY_ID && (
+                    {/* Tools (not text/chapter/verse content) — the multi-dictionary search */}
+                    {id === KOSHA_CATEGORY_ID && (
+                        <section className="mt-md">
+                            <h2 className="sanskrit-title mb-lg text-center">साधनम्</h2>
+                            <div className="cards-grid">
+                                <Link to="/kosha/search" className="category-card">
+                                    <h3 className="card-title">॥ कोशान्वेषणम् ॥</h3>
+                                    <p className="card-subtitle">Dictionary Search (40 dictionaries)</p>
+                                </Link>
+                            </div>
+                        </section>
+                    )}
+
+                    {subCategories.length === 0 && directTexts.length === 0 && id !== VYAKARANAM_CATEGORY_ID && id !== KOSHA_CATEGORY_ID && (
                         <div className="text-center mt-md">
                             <p className="sanskrit" style={{ color: 'var(--color-text-light)' }}>
                                 अत्र ग्रन्थाः उपलब्धाः न सन्ति।
