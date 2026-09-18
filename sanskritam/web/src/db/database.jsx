@@ -334,6 +334,29 @@ async function sGetDhatuForms(baseindex) {
     return _dhatuFormsCache[baseindex];
 }
 
+// कोशान्वेषणम् (multi-dictionary search) — 40 Sanskrit lexicons, each pre-sharded
+// by the first letter of the headword (see kosha/manifest.json for the list and
+// which letter-shards each one has).
+let _koshaManifestPromise = null;
+async function sGetKoshaManifest() {
+    if (!_koshaManifestPromise) {
+        _koshaManifestPromise = staticGet('kosha/manifest.json').catch((err) => { _koshaManifestPromise = null; throw err; });
+    }
+    return _koshaManifestPromise;
+}
+let _koshaShardCache = {};
+async function sGetKoshaShard(abbr, letter) {
+    const key = `${abbr}/${letter}`;
+    if (!(key in _koshaShardCache)) {
+        try {
+            _koshaShardCache[key] = await staticGet(`kosha/${key}.json`);
+        } catch (_) {
+            _koshaShardCache[key] = null;
+        }
+    }
+    return _koshaShardCache[key];
+}
+
 async function sGetCommentariesByVerse(verseId) {
     const vid = +verseId;
     if (!_commentaryCache[vid]) {
@@ -593,6 +616,9 @@ export function DatabaseProvider({ children }) {
     const getChapterCommentary  = useCallback((id   ) => sGetChapterCommentary(id),                                                        []);
     // Dhatupatha conjugation tables — same reasoning: static-only data, no dev-mode equivalent.
     const getDhatuForms         = useCallback((baseindex) => sGetDhatuForms(baseindex),                                                    []);
+    // कोशान्वेषणम् dictionary search — same reasoning: static-only data, no dev-mode equivalent.
+    const getKoshaManifest      = useCallback((          ) => sGetKoshaManifest(),                                                          []);
+    const getKoshaShard         = useCallback((abbr, letter) => sGetKoshaShard(abbr, letter),                                               []);
 
     const updateVerse          = useCallback((id, f) => IS_STATIC ? sUpdateVerse(id, f)       : apiPatch(`/verses/${id}`, f),              []);
     const updateCommentary     = useCallback((id, f) => IS_STATIC ? sUpdateCommentary(id, f)  : apiPatch(`/commentaries/${id}`, f),        []);
@@ -604,7 +630,7 @@ export function DatabaseProvider({ children }) {
         loading, error,
         getCategories, getCategory, getSubCategories, getTextsByCategory,
         getText, getChaptersByText, getChapter, getVersesByChapter,
-        getCommentariesByVerse, getChapterCommentary, getDhatuForms,
+        getCommentariesByVerse, getChapterCommentary, getDhatuForms, getKoshaManifest, getKoshaShard,
         updateVerse, updateCommentary, createCommentary, bulkSaveVerse, addVersesToChapter,
     };
 

@@ -1358,6 +1358,58 @@ function DhatuConjugationPanel({ verse }) {
     );
 }
 
+// शब्दपाठः declension table — unlike dhatu forms, these come fully precomputed
+// from the source data, so no live engine or upasarga composer is needed here.
+const SHABDA_VIBHAKTI_NAMES = {
+    prathama: 'प्रथमा', dvitiya: 'द्वितीया', tritiya: 'तृतीया', chaturthi: 'चतुर्थी',
+    panchami: 'पञ्चमी', shashthi: 'षष्ठी', saptami: 'सप्तमी', sambodhana: 'सम्बोधनम्',
+};
+const SHABDA_VIBHAKTI_ORDER = Object.keys(SHABDA_VIBHAKTI_NAMES);
+const SHABDA_LINGA_NAMES = { P: 'पुंलिङ्गम्', S: 'स्त्रीलिङ्गम्', N: 'नपुंसकलिङ्गम्', A: 'अव्ययम्' };
+
+function ShabdaFormsPanel({ verse }) {
+    const forms = verse.shabda_forms;
+    if (!forms) return null;
+    return (
+        <div className="mt-md">
+            <h2 className="sanskrit" style={{ color: 'var(--color-maroon)', fontSize: '1.3rem', marginBottom: '0.3rem' }}>
+                ॥ {verse.content_sanskrit} ॥ शब्दरूपाणि
+                {verse.shabda_linga && <span style={{ fontSize: '1rem', fontWeight: 500 }}> ({SHABDA_LINGA_NAMES[verse.shabda_linga] || verse.shabda_linga})</span>}
+            </h2>
+            <div style={{ overflowX: 'auto', border: '1px solid var(--border-color)', borderRadius: '6px', marginTop: '0.6rem' }}>
+                <table style={{ width: '100%', tableLayout: 'fixed', borderCollapse: 'collapse', fontFamily: 'var(--font-sanskrit)', fontSize: '1.05rem' }}>
+                    <colgroup>
+                        <col style={{ width: '18%' }} />
+                        <col style={{ width: '27.33%' }} />
+                        <col style={{ width: '27.33%' }} />
+                        <col style={{ width: '27.33%' }} />
+                    </colgroup>
+                    <thead>
+                        <tr style={{ background: 'var(--cream-dark, #F0E8DB)' }}>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}></th>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}>एकवचनम्</th>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}>द्विवचनम्</th>
+                            <th style={{ padding: '0.3rem 0.6rem', border: '1px solid var(--border-color)' }}>बहुवचनम्</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {SHABDA_VIBHAKTI_ORDER.filter(vk => forms[vk]).map((vk, i) => (
+                            <tr key={vk} style={{ background: i % 2 === 0 ? '#fff4e2' : '#fff' }}>
+                                <td style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', fontWeight: 600, color: 'var(--color-maroon)' }}>{SHABDA_VIBHAKTI_NAMES[vk]}</td>
+                                {forms[vk].map((cell, j) => (
+                                    <td key={j} style={{ padding: '0.35rem 0.6rem', border: '1px solid var(--border-color)', wordBreak: 'break-word' }}>
+                                        {cell || '—'}
+                                    </td>
+                                ))}
+                            </tr>
+                        ))}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    );
+}
+
 function LakaraTable({ t }) {
     return (
         <div style={{ marginBottom: '1rem' }}>
@@ -2236,6 +2288,12 @@ ${wrapper.innerHTML}
                     {currentVerse?.dhatu_baseindex && (
                         <div className="container">
                             <DhatuConjugationPanel key={currentVerse.id} verse={currentVerse} />
+                        </div>
+                    )}
+
+                    {currentVerse?.shabda_forms && (
+                        <div className="container">
+                            <ShabdaFormsPanel verse={currentVerse} />
                         </div>
                     )}
                 </div>
