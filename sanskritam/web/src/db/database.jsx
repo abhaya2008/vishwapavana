@@ -344,6 +344,18 @@ async function sGetKoshaManifest() {
     }
     return _koshaManifestPromise;
 }
+// अनुक्रमणिका (per-text index pages: stuti / vishaya / vakta / akshara / pada) —
+// anukramanika/<textId>/manifest.json lists them and maps "skandha.adhyaya" → chapter id;
+// letter-sharded indexes live in <key>/<hex codepoint>.json.
+let _anukramanikaCache = {};
+async function sGetAnukramanika(textId, file) {
+    const key = `${+textId}/${file}`;
+    if (!(key in _anukramanikaCache)) {
+        _anukramanikaCache[key] = staticGet(`anukramanika/${key}.json`)
+            .catch((err) => { delete _anukramanikaCache[key]; throw err; });
+    }
+    return _anukramanikaCache[key];
+}
 let _koshaShardCache = {};
 async function sGetKoshaShard(abbr, letter) {
     const key = `${abbr}/${letter}`;
@@ -619,6 +631,8 @@ export function DatabaseProvider({ children }) {
     // कोशान्वेषणम् dictionary search — same reasoning: static-only data, no dev-mode equivalent.
     const getKoshaManifest      = useCallback((          ) => sGetKoshaManifest(),                                                          []);
     const getKoshaShard         = useCallback((abbr, letter) => sGetKoshaShard(abbr, letter),                                               []);
+    // अनुक्रमणिका index pages — same reasoning: static-only data, no dev-mode equivalent.
+    const getAnukramanika       = useCallback((textId, file) => sGetAnukramanika(textId, file),                                            []);
 
     const updateVerse          = useCallback((id, f) => IS_STATIC ? sUpdateVerse(id, f)       : apiPatch(`/verses/${id}`, f),              []);
     const updateCommentary     = useCallback((id, f) => IS_STATIC ? sUpdateCommentary(id, f)  : apiPatch(`/commentaries/${id}`, f),        []);
@@ -630,7 +644,7 @@ export function DatabaseProvider({ children }) {
         loading, error,
         getCategories, getCategory, getSubCategories, getTextsByCategory,
         getText, getChaptersByText, getChapter, getVersesByChapter,
-        getCommentariesByVerse, getChapterCommentary, getDhatuForms, getKoshaManifest, getKoshaShard,
+        getCommentariesByVerse, getChapterCommentary, getDhatuForms, getKoshaManifest, getKoshaShard, getAnukramanika,
         updateVerse, updateCommentary, createCommentary, bulkSaveVerse, addVersesToChapter,
     };
 

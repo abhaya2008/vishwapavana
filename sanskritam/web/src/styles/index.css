@@ -1087,6 +1087,306 @@ body {
   text-decoration: underline;
 }
 
+/* Per-chapter recitation (Ramayana sargas) — streamed from Wikimedia Commons */
+.mb-audio-box {
+  background: var(--title-card-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: var(--space-sm) var(--space-md);
+  margin: var(--space-md) 0 0;
+}
+
+.mb-audio-label {
+  font-family: var(--font-sanskrit);
+  font-size: 1.017rem;
+  color: var(--color-maroon-dark);
+  margin-bottom: 0.4rem;
+}
+
+.mb-audio-player {
+  width: 100%;
+}
+
+.mb-audio-autonext {
+  display: block;
+  margin-top: 0.4rem;
+  font-family: var(--font-sanskrit);
+  font-size: 0.95rem;
+  color: var(--color-subheading-hero);
+  cursor: pointer;
+}
+
+/* Per-shloka recitation bar (Bhagavatam) — one <audio>, walks the adhyaya in order */
+.mb-audio-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  position: sticky;
+  top: 0.5rem;
+  z-index: 5;
+}
+
+.mb-audio-btn {
+  background: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  min-width: 2.4rem;
+  padding: 0.3rem 0.6rem;
+  font-size: 1.05rem;
+  color: var(--color-maroon-dark);
+  cursor: pointer;
+}
+
+.mb-audio-btn:disabled {
+  opacity: 0.4;
+  cursor: default;
+}
+
+.mb-audio-now {
+  flex: 1;
+  margin-bottom: 0;
+}
+
+.mb-shloka-play {
+  flex-shrink: 0;
+  align-self: center;
+  background: none;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  color: var(--color-maroon);
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.mb-shloka-play:hover {
+  background: var(--title-card-color);
+}
+
+.mb-shloka-playing {
+  background: var(--title-card-color);
+  border-radius: var(--radius-sm);
+  box-shadow: inset 3px 0 0 var(--color-maroon);
+}
+
+.mb-shloka-flash {
+  animation: mb-flash 1.8s ease-out;
+}
+
+@keyframes mb-flash {
+  0%, 30% { background: rgba(214, 160, 60, 0.35); }
+  100% { background: transparent; }
+}
+
+/* विषय (topic) map + in-text topic dividers */
+.mb-topic-map-hdr {
+  font-weight: 700;
+  margin-bottom: 0.4rem;
+}
+
+.mb-topic-map-row {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  width: 100%;
+  background: none;
+  border: none;
+  padding: 0.2rem 0;
+  font: inherit;
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.mb-topic-map-row:hover {
+  color: var(--color-maroon);
+  text-decoration: underline;
+}
+
+.mb-topic-range {
+  flex-shrink: 0;
+  font-family: var(--font-sanskrit);
+  font-size: 0.9rem;
+  color: var(--color-subheading-hero);
+  background: var(--cream-dark, #F0E8DB);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  padding: 0 0.4rem;
+  text-decoration: none;
+}
+
+.mb-topic-divider {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  font-family: var(--font-sanskrit);
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--color-maroon);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.3rem;
+  margin-bottom: 0.7rem;
+}
+
+/* ── अनुक्रमणिका (index) pages ───────────────────────────── */
+.anu-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 1fr));
+  gap: var(--space-sm);
+}
+
+.anu-card, .anu-tab {
+  font-family: var(--font-sanskrit);
+  text-decoration: none;
+  color: var(--color-maroon-dark);
+  background: var(--title-card-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+}
+
+.anu-card {
+  display: flex;
+  flex-direction: column;
+  padding: 0.7rem 1rem;
+}
+
+.anu-card:hover, .anu-tab:hover {
+  border-color: var(--color-subheading-hero);
+}
+
+.anu-card-name {
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+.anu-card-sub {
+  font-size: 0.95rem;
+  color: var(--color-subheading-hero);
+}
+
+.anu-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: var(--space-sm) 0 var(--space-md);
+}
+
+.anu-tab {
+  padding: 0.35rem 0.9rem;
+  font-size: 1.02rem;
+}
+
+.anu-tab-on {
+  background: var(--color-maroon);
+  color: #fff8f0;
+  border-color: var(--color-maroon);
+}
+
+.anu-groups {
+  margin-top: var(--space-md);
+}
+
+.anu-group {
+  margin-bottom: var(--space-md);
+}
+
+.anu-group-title {
+  font-family: var(--font-sanskrit);
+  font-size: 1.25rem;
+  color: var(--color-maroon);
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 0.3rem;
+  margin: var(--space-md) 0 var(--space-sm);
+}
+
+.anu-group-toggle {
+  width: 100%;
+}
+
+.anu-row {
+  display: flex;
+  align-items: baseline;
+  gap: 0.7rem;
+  width: 100%;
+  padding: 0.45rem 0.6rem;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.08);
+  font-family: var(--font-sanskrit);
+  font-size: 1.1rem;
+  color: var(--color-maroon-dark);
+  text-decoration: none;
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  text-align: left;
+  cursor: pointer;
+}
+
+a.anu-row:hover, button.anu-row:hover {
+  background: var(--title-card-color);
+}
+
+.anu-row-body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.anu-row-label {
+  flex: 1;
+}
+
+.anu-row-sub {
+  font-size: 0.92rem;
+  color: var(--color-subheading-hero);
+}
+
+.anu-letters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: var(--space-sm);
+}
+
+.anu-letter {
+  font-family: var(--font-sanskrit);
+  font-size: 1.15rem;
+  min-width: 2.3rem;
+  padding: 0.2rem 0.4rem;
+  background: var(--card-background-color);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-sm);
+  color: var(--color-maroon-dark);
+  cursor: pointer;
+}
+
+.anu-letter-on {
+  background: var(--color-maroon);
+  color: #fff8f0;
+}
+
+.anu-count, .anu-hint {
+  font-family: var(--font-sanskrit);
+  color: var(--color-subheading-hero);
+}
+
+.anu-pada-refs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  padding: 0.5rem 0.6rem 0.8rem;
+}
+
+a.anu-ref-chip:hover {
+  border-color: var(--color-maroon);
+}
+
+.anu-more {
+  margin-top: var(--space-sm);
+}
+
 .mb-shloka-flow {
   display: flex;
   flex-direction: column;

@@ -1,5 +1,5 @@
 import { useState, useEffect, useMemo, useRef, useCallback } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, Link } from 'react-router-dom';
 import { useDatabase, IS_STATIC } from '../db/database';
 import { isAuthed, storeAuth, EDIT_PASSWORD } from '../utils/auth';
 import Header from '../components/Header';
@@ -378,7 +378,8 @@ export default function TextPage() {
             (c.name_sanskrit || '').toLowerCase().includes(q) ||
             (c.name_english || '').toLowerCase().includes(q) ||
             (c.section_sanskrit || '').toLowerCase().includes(q) ||
-            (c.section_english || '').toLowerCase().includes(q)
+            (c.section_english || '').toLowerCase().includes(q) ||
+            (c.synopsis_sanskrit || '').toLowerCase().includes(q)
         ).slice(0, 300);
     }, [chapters, search]);
 
@@ -436,6 +437,8 @@ export default function TextPage() {
         );
     }
 
+    const unitPlural = text.chapter_unit_plural || 'अध्यायाः';
+
     return (
         <div className="page-wrapper">
             <Header />
@@ -452,12 +455,25 @@ export default function TextPage() {
                         {text.author && <p className="page-description mt-sm">रचयिता: {text.author}</p>}
                     </section>
 
+                    {text.anukramanika?.length > 0 && (
+                        <section className="mt-sm anu-cards">
+                            {text.anukramanika.map(i => (
+                                <Link key={i.key} to={`/text/${id}/anukramanika/${i.key}`} className="anu-card">
+                                    <span className="anu-card-name">{i.name_sanskrit}</span>
+                                    <span className="anu-card-sub">{i.count.toLocaleString('hi-IN-u-nu-deva')} {i.unit}</span>
+                                </Link>
+                            ))}
+                        </section>
+                    )}
+
                     {grouped && (
                         <section className="mt-sm">
                             <input
                                 type="text"
                                 className="mb-search-input"
-                                placeholder="अध्यायं / पर्व अन्विष्यतु… (search chapter or parva)"
+                                placeholder={text.search_placeholder || (text.chapter_unit === 'सर्गः'
+                                    ? 'सर्गं / काण्डम् अन्विष्यतु… (search sarga or kanda)'
+                                    : 'अध्यायं / पर्व अन्विष्यतु… (search chapter or parva)')}
                                 value={search}
                                 onChange={e => setSearch(e.target.value)}
                             />
@@ -503,7 +519,7 @@ export default function TextPage() {
                                                 <span className="text-number">{section.order}</span>
                                                 <span className="text-title">{section.name_sanskrit}</span>
                                                 <span className="chapter-name-en">{section.name_english}</span>
-                                                <span className="mb-section-count">{section.count} अध्यायाः</span>
+                                                <span className="mb-section-count">{section.count} {unitPlural}</span>
                                                 <span className="text-arrow chapter-chevron">{secOpen ? '▲' : '▼'}</span>
                                             </button>
 
@@ -517,7 +533,7 @@ export default function TextPage() {
                                                                     {sub.name_sanskrit && (
                                                                         <div className="mb-subsection-label">
                                                                             {sub.name_sanskrit}
-                                                                            <span className="mb-section-count">{sub.chapters.length} अध्यायाः</span>
+                                                                            <span className="mb-section-count">{sub.chapters.length} {unitPlural}</span>
                                                                         </div>
                                                                     )}
                                                                     <div className="text-list mb-chapter-list">

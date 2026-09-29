@@ -9,6 +9,7 @@ import SandhiHomePage from './pages/SandhiHomePage';
 import SandhiCategoryPage from './pages/SandhiCategoryPage';
 import SandhiQuizPage from './pages/SandhiQuizPage';
 import KoshaSearchPage from './pages/KoshaSearchPage';
+import AnukramanikaPage from './pages/AnukramanikaPage';
 import './styles/index.css';
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
           <Route path="/" element={<HomePage />} />
           <Route path="/category/:id" element={<CategoryPage />} />
           <Route path="/text/:id" element={<TextPage />} />
+          <Route path="/text/:id/anukramanika/:indexKey" element={<AnukramanikaPage />} />
           <Route path="/chapter/:chapterId" element={<VersePage />} />
           <Route path="/chapter/:chapterId/verse/:verseId" element={<VersePage />} />
           <Route path="/mahabharata/chapter/:chapterId" element={<MahabharataChapterPage />} />
